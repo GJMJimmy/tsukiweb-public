@@ -334,3 +334,16 @@
 		}
 	}
 }
+.save-sync-modal {
+	.card.actions {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 1px;
+		width: min(320px, 86vw);
+
+		a,
+		button {
+			justify-content: start;
+		}
+	}
+}
