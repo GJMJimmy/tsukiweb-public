@@ -15,6 +15,7 @@ import { useEclipseUnlocked } from "features/endings/hooks/useEclipseUnlocked";
 import { continueGame, newGame, savesManager } from "engine/savestates";
 import { importGameData, settings } from "engine/settings";
 import AppInfo from "features/title-menu/components/AppInfo";
+import CloudSyncButton from "features/save/components/CloudSyncButton";
 import TranslationSwitch from "features/title-menu/components/TranslationSwitch";
 import { useStrings } from "translation/lang";
 import { SCREEN } from "app/utils/display";
@@ -113,6 +114,13 @@ const TopActions = () => {
 
 	return (
 		<div className='top-actions'>
+			<m.div
+				initial={{ opacity: 0 }}
+				animate={{ opacity: 1 }}
+				transition={{ duration: 1, delay: 0.3 }}>
+				<CloudSyncButton className="action-icon" nav-auto={1}/>
+			</m.div>
+
 			<m.div
 				initial={{ opacity: 0 }}
 				animate={{ opacity: 1 }}
