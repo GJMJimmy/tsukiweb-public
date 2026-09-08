@@ -1,4 +1,4 @@
-import { Dispatch, useState } from "react"
+import { Dispatch, useEffect, useState } from "react"
 import { MdOutlineCloudDownload, MdOutlineCloudSync } from "react-icons/md"
 import { toast } from "react-toastify"
 import { Button, MessageContainer, Modal } from "@tsukiweb/common/ui-core"
@@ -13,40 +13,20 @@ type Props = Omit<React.ButtonHTMLAttributes<HTMLButtonElement>, 'onClick'|'onCo
 const SERVER_KEY = "onsyuri_sync_server"
 const SLOT_KEY = "onsyuri_sync_slot"
 
-function getServer() : string|null {
-	let url = localStorage.getItem(SERVER_KEY) || ""
-	if (url == "") {
-		url = prompt("同步服务器地址（例如 http://192.168.1.10:8765）") || ""
-		url = url.trim().replace(/\/+$/, "")
-		if (url == "") return null
-		localStorage.setItem(SERVER_KEY, url)
+function buildPayload() {
+	return {
+		version: APP_VERSION,
+		settings: settings.getDiff(),
+		saveStates: savesManager.listSaves(),
 	}
-	return url
 }
 
-function getSlot() : string|null {
-	let slot = prompt("存档码（在服务器上标识这份存档）", localStorage.getItem(SLOT_KEY) || "") || ""
-	slot = slot.trim()
-	if (slot == "") return null
-	localStorage.setItem(SLOT_KEY, slot)
-	return slot
-}
-
-async function uploadSaves() {
-	const server = getServer()
-	if (!server) return
-	const slot = getSlot()
-	if (!slot) return
+async function uploadSaves(server: string, slot: string) {
 	try {
-		const content = {
-			version: APP_VERSION,
-			settings: settings.getDiff(),
-			saveStates: savesManager.listSaves(),
-		}
 		const resp = await fetch(`${server}/save/${encodeURIComponent(slot)}`, {
 			method: "POST",
 			headers: {"Content-Type": "application/json"},
-			body: JSON.stringify(content)
+			body: JSON.stringify(buildPayload())
 		})
 		if (!resp.ok)
 			throw new Error(`HTTP ${resp.status}`)
@@ -60,11 +40,7 @@ async function uploadSaves() {
 	}
 }
 
-async function downloadSaves() {
-	const server = getServer()
-	if (!server) return
-	const slot = getSlot()
-	if (!slot) return
+async function downloadSaves(server: string, slot: string) {
 	try {
 		const resp = await fetch(`${server}/save/${encodeURIComponent(slot)}`)
 		if (resp.status == 404) {
@@ -85,7 +61,28 @@ async function downloadSaves() {
 
 const CloudSyncButton = (props?: Props) => {
 	const [show, setShow] = useState<boolean>(false)
+	const [server, setServer] = useState<string>("")
+	const [slot, setSlot] = useState<string>("")
+
+	useEffect(()=> {
+		if (show) { // reload stored values each time the panel opens
+			setServer(localStorage.getItem(SERVER_KEY) || "")
+			setSlot(localStorage.getItem(SLOT_KEY) || "")
+		}
+	}, [show])
+
 	const hide = () => setShow(false)
+
+	const launch = (action: (server: string, slot: string)=>Promise<void>) => {
+		const url = server.trim().replace(/\/+$/, "")
+		const code = slot.trim()
+		if (url == "") { toast("请先填写服务器链接", {toastId: "sync-no-server", type: "warning"}); return }
+		if (code == "") { toast("请先输入存档码", {toastId: "sync-no-slot", type: "warning"}); return }
+		localStorage.setItem(SERVER_KEY, url)
+		localStorage.setItem(SLOT_KEY, code)
+		setShow(false)
+		action(url, code)
+	}
 
 	return (
 		<>
@@ -99,13 +96,32 @@ const CloudSyncButton = (props?: Props) => {
 
 			<Modal show={show} onRequestClose={hide} className="save-sync-modal">
 				<div className='title-modal'>
-					<MessageContainer className="card actions">
-						<Button variant="select" onClick={()=>{hide(); uploadSaves()}} nav-auto={1}>
-							<MdOutlineCloudSync aria-hidden /> 上传存档到云端
-						</Button>
-						<Button variant="select" onClick={()=>{hide(); downloadSaves()}} nav-auto={1}>
-							<MdOutlineCloudDownload aria-hidden /> 从云端恢复存档
-						</Button>
+					<MessageContainer className="card sync-form">
+						<span className="sync-title">云同步存档</span>
+						<label className="sync-field">
+							<span>服务器链接</span>
+							<input
+								value={server}
+								onChange={e=>setServer(e.target.value)}
+								placeholder="http://192.168.1.10:8765"
+								spellCheck={false} />
+						</label>
+						<label className="sync-field">
+							<span>存档码</span>
+							<input
+								value={slot}
+								onChange={e=>setSlot(e.target.value)}
+								placeholder="给这份存档起个名字"
+								spellCheck={false} />
+						</label>
+						<div className="sync-buttons">
+							<Button variant="select" onClick={()=>launch(uploadSaves)} nav-auto={1}>
+								<MdOutlineCloudSync aria-hidden /> 上传到云端
+							</Button>
+							<Button variant="select" onClick={()=>launch(downloadSaves)} nav-auto={1}>
+								<MdOutlineCloudDownload aria-hidden /> 从云端恢复
+							</Button>
+						</div>
 					</MessageContainer>
 				</div>
 			</Modal>
