@@ -335,15 +335,53 @@
 	}
 }
 .save-sync-modal {
-	.card.actions {
-		display: grid;
-		grid-template-columns: 1fr;
-		gap: 1px;
-		width: min(320px, 86vw);
+	.title-modal {
+		display: flex;
+		justify-content: center;
+	}
 
-		a,
-		button {
-			justify-content: start;
+	.sync-form {
+		display: flex;
+		flex-direction: column;
+		gap: 12px;
+		width: min(360px, 86vw);
+
+		.sync-title {
+			text-align: center;
+			font-weight: bold;
+		}
+
+		.sync-field {
+			display: flex;
+			flex-direction: column;
+			gap: 4px;
+			font-size: .9em;
+			text-align: left;
+
+			input {
+				background: rgba(255, 255, 255, .08);
+				border: 1px solid rgba(255, 255, 255, .25);
+				border-radius: .3em;
+				color: inherit;
+				padding: .4em .6em;
+				font: inherit;
+				outline: none;
+
+				&:focus {
+					border-color: #7cc7ff;
+				}
+			}
+		}
+
+		.sync-buttons {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			gap: 8px;
+
+			a,
+			button {
+				justify-content: center;
+			}
 		}
 	}
 }
