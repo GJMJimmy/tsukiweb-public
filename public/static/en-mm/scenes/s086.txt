@@ -1,0 +1,88 @@
+monocro off
+playstop
+wavestop
+bg "bg/ima_06",notrans,0
+br
+` [line=4]I value my life.
+\
+` I recall the scene yesterday when I killed Arcueid.@
+` The stench of death and blood.@ [line=3]I never want to experience something like that again.@
+` If I were to remain with Arcueid, there'd be no question that I would be subjected to that scene again.@ If I don't want that, I'll have to go back to the mansion.
+\
+`"[line=6]"@
+` …… I get the feeling that there's some major flaw in my decision.@
+` But right now, everything is a mess in my head and my sense of logic refuses to function properly.@
+` Anyhow, for now, I'll return to my own room for some rest.@ I'm sure I'll calm down and think clearer then.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_22c",lcartain,1500
+` The sun has gone down, and my surroundings have been cast into darkness.@
+` It's probably past seven now.@
+` The curfew for the mansion is eight, so I'd better hurry back if I don't want to be scolded by Akiha.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_47",lcartain,1500
+` The streets around the mansion are deserted like always.@
+` The sun's only just gone down, but the silence is like that of midnight.
+\
+`"Come to think of it, this place is…"@
+` Where I've gone to check out that noisy stray dog the night I first returned to the mansion.@
+wave se_01
+`"Huh……?"@
+` I'm beset by a terrible premonition of misfortune.
+\
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,400
+bg #000000,tcartain,400
+br
+br
+br
+br
+br
+br
+` [line=4]Strange.@
+` Suddenly, my surroundings became completely black.
+\
+` I hear a dripping sound.@
+` …… Where's that sound coming from?@
+` It's coming from nearby.@
+` My body is starting to cool.@
+` It's coming from nearby.@
+` Alarms are going off somewhere in my head.
+\
+br
+br
+br
+br
+br
+br
+br
+` Drip, drip.@ Drip, drip.
+\
+br
+br
+br
+br
+br
+br
+br
+` The sound…
+` I think it's coming from right behind my neck.
+\
+`"Ah[line=4]"@
+wave se_05
+` I collapse onto the asphalt.@
+` My limbs won't move, and my consciousness dims.
+\
+bg #000000,crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+bg #000000,crossfade,400
+` At the bottom of my thinning consciousness…
+!w500
+` all I find out…
+!w500
+` is a few black dogs are feeding on my arms and legs.
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

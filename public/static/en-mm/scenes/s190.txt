@@ -1,0 +1,58 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+` [line=4]I'll check in the alley she was in last night.@
+` If she's running away from people, that's the only place I can think of.
+\
+bg "bg/bg_30b",lcartain,800
+` I still have no control over my breathing.@
+` I run with all my strength from the park.@
+` My heart screams from overexertion.@
+` Ignoring it, I continue to run to find her as soon as possible.
+\
+bg "bg/bg_31b",lcartain,800
+`"[line=4]Arcueid!"@
+` As soon as I get to the alley, I call out her name.@
+`"You're here, aren't you?@ Come out, Arcueid……!"@
+` Under the moonlight, my solitary voice echoes in the alley.@
+`"…… Arcueid……!@ Please, come out……!"
+\
+br
+br
+br
+br
+br
+` …… There's no response.@
+` There's only an empty loneliness here.
+\
+`"Damn…………!"@
+` Arcueid isn't here.@
+` Then where else is there?@
+br
+` I can't find her running around aimlessly.@
+` At this rate I'll never[line=4]never see her again.
+\
+`"[line=6]"@
+` No, I'm not done yet.@
+` I still haven't fulfilled my promise with Arcueid.@
+br
+` The promise to help her defeat the vampire, and the promise to meet tonight so we can fight together.
+\
+`"…… Pro…… mise……"@
+` …… That's right.@ There's still our promise.@
+` Even if it's just one-sided, I[line=4]even if it's just me, I'll fulfill our promise.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+` I return to the park.@
+` Our promise still remains here.@
+` Our unfulfilled promise for tonight remains here.@
+br
+` [line=4]So,
+` If I can't break this promise, and if she thinks it's important too,
+br
+` Arcueid will come back here.@
+` I can only continue to believe in her and wait here.
+\
+bg #000000,crossfade,1500

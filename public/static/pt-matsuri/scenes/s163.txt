@@ -1,0 +1,96 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_40a",notrans,0
+`"[line=4]"@
+` Olho para o relógio.@
+` Já passa das nove horas.@
+` Mesmo se fosse para a escola agora eu me atrasaria[line=3]e para ser sincero, sair com a Arcueid é mais divertido do que ir para a escola……
+\
+`"Tudo bem.@ Vou passar o dia com você.@ Mas se formos para a cidade durante o dia, não acho que haverá algum Morto por lá!"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Não me importo com isso.@ Só quero passear por aí, então não importa se for de dia."@
+`"……?@ O quê… nós não vamos compensar pela noite passada e procurar por vampiros?"
+\
+`"Sim, é claro que vamos procurar hoje à noite.@ Mas procurar durante o dia inteiro e à noite também seria muito cansativo, por isso durante o dia vamos relaxar."@
+`"Também acho que seria mais divertido.@ Mas só nós dois passeando por aí, isso é……"
+\
+` aquilo que chamam de 'encontro romântico' no mundo normal.@
+` …… Talvez eu não possa dizer isso se tratando de uma vampira, mas acho que ela está me dizendo para levá-la a algum lugar para se divertir.@
+` Quanto a mim, eu[line=4]preciso me preparar mentalmente e…
+\
+`"……?@ Qual o problema, Shiki?@ Seu rosto está ficando vermelho."@
+`"[line=6]Hum."@
+` Cubro o rosto com as mãos e viro para o outro lado.@
+cl c,crossfade,400
+br
+` …… É claro que tem sido apenas nós dois até agora.@
+` Mas aquelas foram situações de emergência, era mais como um pacto de cooperação, não tinha nada a ver com alguma situação romântica entre um homem e uma mulher.@
+` Por isso que[line=4]não importa o quão atraente achava que ela fosse, tentava desviar minha mente disso.
+\
+` Mas…
+` E se passeássemos sem rumo por aí, sem estar correndo qualquer perigo e sem ter um objetivo certo?@ Talvez eu poderia notar algo que nunca havia percebido antes, e isso me faz hesitar[line=4]
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Shiki?@ Você vai para a escola então……?"@
+`"…… Não mesmo.@ Eu disse que iria te compensar e vou fazer isso.@ Não sei no que você está pensando, mas se é o que quer, vamos passear pela cidade."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Então está decidido.@ Vamos lá."@
+cl c,lshutter,400
+` Ela caminha na direção da janela que usou para entrar no quarto.
+\
+`"Espera um pouco.@ Vou me trocar, será que você poderia olhar lá para fora enquanto isso?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hum?@ O que disse?"@
+`"Apenas vá lá para fora, chego lá daqui a pouco."@
+`"Certo, estou indo.@ Já esperei muito tempo, não me faça esperar mais…"@
+cl c,lshutter,400
+\
+` Ela pula para fora da janela com a leveza de um gato.@
+` Ouço o farfalhar das árvores.@
+` Ela não pulou direto para o chão, pulou para os galhos das árvores.@
+br
+` …… Com um corpo desses, deve ter sido fácil entrar aqui sem ser descoberta.
+\
+`"…… Isso não é hora de ficar impressionado.@ Também tenho que sair sem a Hisui perceber."@
+` Coloco algumas roupas normais.@
+` Abro a porta devagarzinho, olho para os lados para me certificar de que não tem ninguém no corredor e saio andando nas pontas dos pés.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_32a",lcartain,800
+play "*3"
+` Por sorte, ninguém me viu saindo.@
+` A Arcueid está olhando para o outro lado, resmungando alguma coisa para si mesma.@
+ld c,"tachi/ark_t22",crossfade,400
+`"Obrigado por esperar.@ Vamos indo Arcueid.@ Se ficarmos parados aqui, a Kohaku-san vai nos encontrar."@
+ld c,"tachi/ark_t14",crossfade,400
+`"Hã?@ Ah, sim, então vamos."@
+` Suas palavras parecem muito vazias, completamente diferente de antes.
+\
+`"O que houve?@ Você não é assim.@ Aconteceu alguma coisa?"@
+`"…… Não, não aconteceu nada."@
+` Ela diz isso, mas suas palavras continuam vazias.@
+br
+` [line=4]Parece que ela está planejando alguma coisa.@ Estou meio assustado com isso.@
+br
+`"…… Está se sentindo mal porque é dia?@ Não há necessidade de se forçar a sair.@ Se estiver difícil para você, podemos desistir."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Hummm, eu estou me sentindo bem.@ É que olhar para este muro me fez lembrar de ontem à noite."@
+`"……?@ Está falando de quando ficou me esperando no parque?"@
+ld c,"tachi/ark_t04",crossfade,400
+` "Sim," Ela concorda acenando com a cabeça.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Vim até aqui correndo com todas as minhas forças e entrei sorrateiramente no seu quarto…… mas parece tão estranho agora que penso sobre isso.@
+` Por que eu estava tão brava naquela hora?@ Foi apenas uma promessa."@
+` Dizendo que não consegue se entender, ela cruza os braços enquanto pensa.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Ah, é mesmo.@ Talvez você entenda, Shiki!@ Você sempre diz que sou tão idiota, quem sabe talvez você possa entender!?"@
+`"Ei……"@
+` Se ela não entende a si mesma, como espera que eu possa entender?@
+` Não tem como eu entender, mas se tivesse que responder[line=4]
+br
+cl c,crossfade,400

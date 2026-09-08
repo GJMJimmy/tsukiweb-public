@@ -1,0 +1,22 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+br
+` [line=4]swallowed.@
+br
+` With a splashing sound, I am engulfed in the surging, heaving wave.
+\
+` An oppressive invasion.@
+` It violates, assaults, and dissolves.
+\
+`"[line=8]"@
+` Flesh, spirit, soul… all disappearing.@
+` I am not killed.@
+` It's more accurate to say I've been melted and absorbed as a part of this black wave.
+\
+` I observe the me that is me disappear in the black wave[line=4]
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,183 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+`[line=3]等等。@
+br
+`　翡翠的話確實讓人在意，但剛才不是已經去過別館了嗎。@
+`　已經知道那裡什麼都沒有了。@
+`　今晚就這樣，老老實實地睡覺吧。
+\
+bg #000000,crossfade,1500
+playstop
+monocro #ff0000
+!w2000
+wave se_01
+!w600
+`[line=4]好熱。
+\
+wave se_01
+!w600
+br
+br
+br
+`[line=4]好熱。
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+`[line=4]好熱。
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+`[line=4]喉嚨，又幹又渴的，好熱。
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+`[line=6]這樣下去根本沒法入睡。@
+`　得起來喝點水才行。
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+`　我好像走進了，夜晚的街道。@
+`　瞪著一雙佈滿血絲的眼睛，像是在等待著什麼人經過。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=6]好熱。
+\
+`　不經意間，瞥見了倒映在窗玻璃上的自己的臉。@
+`　雙眼佈滿血絲，怎麼看都不像是正常的樣子。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=6]只是，好熱啊。
+\
+`　似乎找到了獵物。@
+`　從背後勒住脖子，一切就結束了。@
+`　素未謀面的女性，就這樣沒了動靜。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]我，只是，覺得好熱啊。
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+`　是把屍體拖過來，咬破了她的喉嚨嗎。@
+`　聽到了“咕嘟咕嘟”的聲響。@
+`　像是要連肉帶血地咬斷喉管般飲著血，緩解著喉嚨的乾渴。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]不明白。
+\
+`　“哈啊[line=2]哈啊[line=2]”的喘息聲。@
+`　難道。@
+`　難道是在因為那種行為而興奮嗎。@
+`　將手指插進了屍體的胸膛。@
+`　碾碎肉塊的聲音，折斷骨頭的聲音。@
+`　用手剜出心髒的，聲音。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]光是看著，大腦就一片空白。
+\
+`　那是，極致的掠奪。@
+`　位於頂點的，背德感。@
+`　甚至讓看到的東西都變得熾熱起來。@
+`　即便那是負面的快感，但因此而興奮的事實也無法改變。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]我，不明白。
+\
+bg "bg/ima_18",crossfade,400
+`　溫熱的血液從嘴角滑落，我仰望著夜空，眼神恍惚迷離。@
+`　長髮散亂。@
+`　頭頂是螺旋狀的天空。@
+`　多麼美麗啊，這輪銀月。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]所以，我不明白啊。@
+`　明明我，只是覺得好熱而已[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

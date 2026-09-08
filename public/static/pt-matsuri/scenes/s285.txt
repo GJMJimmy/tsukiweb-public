@@ -1,0 +1,148 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Eu não posso quebrar a minha promessa.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+waveloop se_02
+`"Tss[line=5]!"@
+` Sinto como se estivessem batendo pregos na minha cabeça.@
+` Suportando essa dor, consigo andar um pouco.
+\
+`"Pare, Shiki-san!@ Se sair assim, a Akiha-sama vai virar uma fera!"@
+` A Kohaku[line=2]san[line=2]tenta[line=2]ficar[line=2]na minha[line=2]frente[line=2]para me impedir de sair.
+\
+`"[line=4]"@
+` …… Eu entendo o porquê.@
+` Mesmo se eu sair de casa com uma dor de cabeça dessas, é bem possível que eu desmaie de uma hora pra outra.
+\
+` Por isso ela quer que eu fique em casa.
+\
+` Mas não vou dar ouvidos a ela.@
+`"…… Cala…… a boca."@
+` Por quê?@
+` Por nenhum motivo em especial.@
+` Eu pensei que se não visse a Senpai agora mesmo, nunca mais a veria normalmente.
+\
+`"Se é por causa de uma promessa que fez, eu vou até os seus amigos para avisá-los, por isso volte para o quarto, por favor[line=2]"@
+`"Cala a boca!@ Sai da minha frente……!"@
+`"Ah[line=4]"@
+` Empurro ela com violência e vou na direção da porta.
+\
+bg "bg/bg_48a",lcartain,800
+`"Não faça isso, Shiki-san……!"@
+` Ignoro-a e resisto à vontade de vomitar quando começo a correr.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_22a",lcartain,800
+` Eu corro.@
+` Como se perseguisse a minha promessa com a Senpai,
+` como se estivesse correndo de algo que não consigo ver,
+` impulsiono meu corpo pelas ruas, à beira de um desmaio.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+` [line=3]A rua está cheia de gente.@
+` O sol está muito quente.@
+` A quantidade de coisas acontecendo ao mesmo tempo é dolorosa de assistir.@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+` Por que eles fazem isso?@
+` Como insetos desprovidos de pensamentos, aqueles com inteligência ainda se reúnem sem nenhuma teoria para esclarecer.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+`"[line=7]"@
+` …… Tudo está embaçado.@
+` Será que é por causa desse enjoo?@
+` Sinto como se eu… não fosse eu mesmo.@
+`"[line=6]Sen[line=2]pai."@
+` Olho ao meu redor.@
+` Cadê[line=4]ela?@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+` Estou tonto e não consigo encontrá-la.
+\
+` [line=5]Ainda não consegui encontrá-la.@
+` Com tanta gente assim,
+`              eu não vou encontrá-la.@
+`              Tantas coisas diferentes[line=4]tudo ao mesmo tempo.@
+` Nada.@
+`             Tudo isso é desnecessário,
+!w1000
+`        essa tontura[line=4]ela……
+!w2000
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+\
+ld c,"tachi/cel_t01c",lshutter,800
+`"Tohno-kun.@ Estou surpresa que tenha chegado a tempo."@
+`"Sen…… pai?"@
+br
+` [line=3]É a primeira vez que a vejo vestida assim.@
+br
+`"…… Hum, foi maldade minha ter dito aquilo.@ Desculpe-me por te fazer correr tanto e ficar exausto desse jeito."@
+br
+` [line=3]Ela faz uma mesura rápida.
+\
+`"[line=5]"@
+` Que besteira.@ Ela não precisa se preocupar com isso.@
+br
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+wavestop
+`"Ah, Tohno-kun[line=3]!?"@
+bg #ffffff,crossfade,800
+br
+` …… Uck.@ Estou me sentindo péssimo.@
+` Mas estou feliz por ter vindo.@
+` Eu consegui ver a Senpai vestida com roupas normais, preciso suportar essa tontura, e nós ainda temos que nos divertir muito[line=5]
+\
+!w3000
+play "*1"
+bg "bg/bg_40c",crossfade,1500
+br
+` [line=4]Quando acordo, estou em uma cama.
+\
+`"Hein[line=3]?"@
+` Mexendo a cabeça, olho ao meu redor.@
+` Estou no meu quarto e já é noite lá fora.@
+` A Hisui está aqui, e provavelmente ficou cuidando de mim enquanto eu dormia.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, você acordou?"@
+`"…… Hisui.@ Por que eu estou aqui?"@
+` Meus braços e minhas pernas não me obedecem.@ Conseguindo mexer apenas o pescoço, eu olho para a Hisui.
+\
+`"Shiki-sama, você desmaiou na rua.@
+` Um de seus amigos ligou para cá e te trouxe para a mansão."@
+`"[line=4]Ah.@ Quer dizer que eu…"@
+` Empurrei a Kohaku-san daquele jeito e ainda por cima desmaiei depois de não escutar o conselho dela.
+\
+`"…… Sou mesmo um idiota.@ Como vou encarar a Kohaku-san agora?"@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Outra dor de cabeça surge junto com o meu arrependimento.@
+` …… Meu corpo parece ter melhorado um pouco, mas a dor de cabeça permanece.
+\
+`"…… Hisui.@ O que houve comigo?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Por favor, fique tranquilo, Shiki-sama.@ Parece que não é nada sério.@ A Nee-san deixou alguns remédios preparados, se ficar com dor de cabeça, tome-os."@
+cl c,crossfade,800
+` A Hisui pega uma bandeja de prata com água e os remédios que a Kohaku-san preparou.
+\
+cl c,crossfade,400
+` Mas não quero beber isso agora.@
+`"…… Tudo bem.@ Se a dor ficar insuportável eu vou tomar.@ Pode deixar aí em cima."
+\

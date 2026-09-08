@@ -1,0 +1,42 @@
+monocro off
+wavestop
+play "*3"
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` No intervalo do almoço, chega o cara que não apareceu durante uma única aula.@
+ld c,"tachi/ari_t05",lshutter,400
+`"E aê, Tohno!@ Vamos comer!"@
+` Ele está feliz com alguma coisa, está mais animado que o normal.
+\
+`"Vamos.@ Você parece estar de ótimo humor.@ Aconteceu alguma coisa, Arihiko?"@
+`"Sim.@ Acabei de perguntar à Senpai se ela gostaria de almoçar conosco, e ela recusou."@
+`"………………"@
+` Isso é estranho.@
+` Por "Senpai", ele deve estar se referindo à Ciel-senpai, mas ele parece ter ficado feliz por sua oferta ter sido recusada.
+\
+`"Arihiko, você tem esse tipo de fetiche?"@
+ld c,"tachi/ari_t02",crossfade,400
+`"Não, calma, não acabei de falar ainda.@ Então perguntei para a Senpai por que não, e ela disse: 'Se o Tohno-kun estiver lá, eu não quero ir'!!@ Aaaaaahahahahahahahaha!@ Isso não é ótimo, Tohno!?"@
+`"……………"@
+` Que estranho!@
+` Por que sou amigo desse sujeito desde o ensino fundamental?
+\
+`"Ah cara, ela te odeia de verdade!@ A perda de um rival é vantagem para mim, por isso vou pagar o seu almoço hoje!"@
+` Ele bate nas minhas costas, todo feliz.@
+`"…… Bem, eu fico feliz porque vou comer de graça, mas por que a Senpai está com raiva de mim?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Hum?@ …… bem, depois de ela perguntar 'o Tohno-kun se juntará a nós?' e eu responder que sim, o rosto dela ficou todo vermelho.@ Assim que ouviu o seu nome, é provável que o rosto dela começou a arder de raiva."@
+`"…… É provável?@ Você não está confundindo as coisas, Arihiko?"@
+`"Talvez sim.@ Talvez não."@
+cl c,crossfade,800
+\
+` …… A história do Arihiko não é confiável.@
+` A Senpai realmente parecia brava de manhã, mas não faço ideia do motivo.@
+`"…… Não é possível[line=4]ela não pode ter adivinhado o sonho que tive."@
+` Se ela tiver conseguido adivinhar isso com aquela simples conversa, com certeza seria uma ótima detetive.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Ei, anda logo, Tohno.@ Só tem lugares suficientes para metade das pessoas que usam o refeitório."@
+`"Ah[line=3]não, eu[line=3]"@
+br
+cl c,crossfade,800

@@ -1,0 +1,35 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"O quê?[line=4]o Arihiko é só um colega de classe.@ O que mais ele poderia ser?"@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Ah, então você chama 'só um colega de classe' pelo primeiro nome, Nii-san?"@
+` A Akiha me olha descontente.@
+`"E por acaso tem alguma importância se o chamo pelo nome ou sobrenome?@ Por que está tão preocupada com isso?"
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Minha nossa, você é muito desatento para as coisas mesmo, Nii-san.@ Talvez seja normal para as mulheres, mas não é normal dois garotos se chamarem pelo primeiro nome.@ Claro, se eles forem parentes não tem problema…"@
+`"Hã[line=4]bem, talvez você esteja certa."@
+` …… Inclino a cabeça para o lado enquanto penso sobre isso.@
+` Desde o início, sempre chamei ele de "Arihiko".@ Além disso, nos conhecemos há tanto tempo que nem acho estranho.
+\
+`"Bom, existe outra situação em que isso seria normal também.@ Não me diga que você tem esse tipo de relacionamento com ele, Nii-san!"@
+`"……?@ Que tipo de relacionamento?@ Do que está falando?"@
+cl c,crossfade,400
+` Respondo sério, sem entender, mas ela apenas desvia o olhar.@
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Esquece.@ Eu estava sendo sarcástica, mas você não entendeu."@
+` Ela solta os ombros.@
+` …… Fico mais confuso a cada minuto que passa.
+\
+`"[line=4]Akiha.@ Eu o conheço desde o ensino fundamental e ele sempre me foi de grande ajuda.@ …… Talvez não pareça, mas ele é uma boa pessoa.@ Eu não sei o que você não gosta nele, mas não pense mal do Arihiko."@
+ld c,"tachi/aki_t21",crossfade,400
+`"…………"@
+` A Akiha começa a ficar de mau humor.@ Com o que ela não está satisfeita?
+\
+`"Akiha, você está me ouvindo?"@
+`"Sim, eu te ouvi!@ Esta é a primeira vez que vejo você defender alguém dessa forma.@ Esse seu amigo da escola deve ser muito especial para você!"@
+cl c,crossfade,400
+` Ela estufa o peito e vira o rosto.@
+` …… Nossa.@ Eu não sei o motivo que a fez se transferir para cá tão de repente.@ E agora não faço a menor ideia do que está se passando na sua cabeça.
+\

@@ -1,0 +1,86 @@
+bg "bg/bg_22b",notrans,0
+playstop
+` …… A Akiha não é a única pessoa que não vejo desde aquela época.@
+` Não me lembro de todos os detalhes porque já faz oito anos, mas havia outras crianças com quase a mesma idade que a minha na mansão.
+\
+` Não me lembro dos nomes delas, mas havia duas garotas gêmeas.@
+` Uma vez meu pai disse que elas não tinham nenhum parente vivo, por isso ele as aceitou na mansão para trabalharem como empregadas.@
+`"…… Que estranho.@ Brincávamos tanto quando éramos crianças, mas não consigo me lembrar dos nomes delas."@
+` Eu fecho os olhos e deixo minha mente vagar no passado.
+\
+bg #000000,crossfade,400
+play "*9"
+bg "event/his_e01",crossfade,800
+` Eu deveria conseguir me lembrar.@
+` Ela era uma garota que sempre estava muito alegre… tão alegre que a gente também acabava ficando alegre só de olhar para ela.@
+` Uma garota com uma personalidade bem despreocupada e que era amada por todos na mansão.@
+` Como éramos quase da mesma idade, eu me dava muito bem com ela e todos os dias saíamos correndo juntos pelos jardins da mansão.@
+`"Vamos brincar, Shiki-chan."@
+` Ela dizia.@ E me lembro de ela me tirando de dentro do meu quarto depois que eu me isolei lá.
+\
+` Ela sempre ria e agarrava a mão da tímida Akiha, tentando fazê-la brincar conosco.@
+` Talvez ela fosse mais velha que nós dois.@
+` Ela nos levava para brincarmos todos juntos, mas assim que começávamos a brincar, ela só ficava cuidando de nós.@
+` Até mesmo o tutor da Akiha, um mordomo rigoroso, dizia: "Não tem problema, desde que a ****** esteja com vocês", e deixava a Akiha sair para brincar, como se não tivesse escolha.
+\
+bg #000000,crossfade,400
+` Mas estou muito mais preocupado com a outra garota.
+\
+bg "event/his_e02",crossfade,800
+` …… Não sei que tipo de pessoa ela era ou por que ela sempre ficava daquele jeito.@
+` No segundo andar.@
+` Enquanto brincávamos no jardim, sempre que eu olhava para a mansão via uma garota lá em cima.
+\
+` Apesar de ser a irmã gêmea da garota alegre, ela sempre nos observava sem nenhuma expressão no rosto.@
+` Aquela garota nunca tentava sair de dentro de casa.@
+` A única coisa que ela fazia era nos observar com aqueles olhos frios.@
+` …… Será que foi porque a visão dela na janela me incomodou tanto que eu ficava imaginando o quanto ela devia ser solitária?@ A maioria das lembranças que tenho da mansão Tohno são sobre ela.
+\
+br
+br
+br
+br
+br
+` [line=3]Bem, no final das contas, eu acabei falando muito pouco com ela.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+`"Será que aquelas garotas ainda estão na mansão……"@
+` Enquanto estou pensando sobre isso, tiro uma fita de cabelo branca de dentro da minha pasta.@
+` Uma velha fita de cabelo que a garota me deu quando eu estava indo embora.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_20",crossfade,800
+` [line=3]Oito anos atrás.@
+` Depois de eu ter sobrevivido ao acidente.@
+` No dia que fui confiado à família Arima.@
+br
+` Quando eu estava prestes a deixar a mansão, aquela garota me deu isso por algum motivo.@
+br
+` …… Estou apenas te emprestando, não se esqueça de me devolver.@
+` Depois de dizer algo mais ou menos assim, ela saiu correndo.
+\
+` Uma promessa feita embaixo de uma árvore enorme.@
+br
+` O tempo estava muito bonito naquele dia.@ Olhando para cima, não via mais nada além de um céu azul que se estendia ao infinito.@
+` É minha última lembrança de quando saí da mansão Tohno, há oito anos.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+` *suspiro*@
+` Coloco a fita de cabelo de volta na pasta.@
+` "Já faz oito anos, né……"@
+` Além de não saber se elas ainda estão na mansão, nem consigo me lembrar dos nomes delas.@
+`"…… Mesmo assim, essa fita de cabelo é preciosa para mim……"@
+` A época em que meu pai me deserdou.@
+` Ao invés de ficar triste por ter sido descartado, senti foi um calor aconchegante quando pensei que ela estaria me esperando voltar com sua fita de cabelo.@
+` É por isso que quero cumprir essa promessa enquanto ainda me lembro dela.@
+` Eu concordei em voltar para a mansão porque agora a Akiha está lá sozinha.@
+` Eu a deixei lá por oito anos, empurrando todas as responsabilidades para ela enquanto vivia livremente.
+\
+` …… Mas tem outra coisa importante.@ Acho que só resolvi voltar por causa daquela promessa.@
+` A fita de cabelo branca.@
+` …… Por causa daquela promessa feita pela única pessoa que disse que ficaria me esperando voltar.
+\
+bg #000000,lcartain,800
+playstop

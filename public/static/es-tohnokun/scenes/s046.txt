@@ -1,0 +1,58 @@
+playstop
+bg "bg/bg_40c",crossfade,800
+waveloop se_11
+` Al quedarme solo, me acuesto en mi cama.@
+` Esta casa de hace ocho años…
+` Mi familiar de sangre de hace ocho años…
+` Se siente un poco como si pertenecieran a otra persona.@
+` *suspiro*@
+`"…… Me pregunto qué va a sucederme ahora."@
+` Quejándome a nadie en particular, me quedo dormido.
+\
+bg #000000,crossfade,1500
+!w3000
+br
+` Auuuuuu.@
+br
+` [line=3]Escucho el sonido como ondas de la voz de algo.
+\
+br
+` Auuuuuu.@
+br
+` [line=3]Algo está aullando.@ Es demásiado agudo y estridente para ser un perro callejero.
+\
+br
+` Auuuuuu.@
+br
+` [line=3]Hace eco en mis tímpanos.@ ¿Le está aullando a la luna?
+\
+br
+` Auuuuuu.@
+br
+` [line=3]Esto no se siente bien.@ El bestial aullido está empezando a darme dolor de cabeza.
+\
+br
+` Auuuuuu.@
+br
+` [line=3]No se detiene.
+\
+br
+` Auuuuuu.@
+br
+` Auuuuuu.@
+br
+` Auuuuuuuuuuuuuuuu[line=3]
+\
+bg "bg/bg_40d",crossfade,400
+`"…… ¡Argh, ya cállate de una vez!"@
+br
+` Me despierto.@
+` Puedo escuchar el sonido de un perro ladrando fuera de la ventana.@
+` El reloj indica que son poco más de las once.@
+` Esto es más que una simple molestia vecinal.
+\
+`"¡Demonios, no puedo dormir así!"@
+` El aullido del perro viene de algún lugar cercano al cercado de la mansión.@
+br
+` …… No parece que pueda volver a dormir a este paso.
+\

@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Merci ！@
+`　為迎接時乖運蹇走進Dead End 的遠野君設立的單元、
+`「教教我！@知得留先生！」@的時間到了。@
+br
+`　現在開始第二節課。
+\
+`　哈哈啊、這次的原因很獨特哪。@
+`　逃掉的可是條大魚、是你最重要的學姐哦，所以不掏出心底話言歸於好是不行的喲。@
+`　一個人無法取勝的對手，兩個人用愛的力量就輕鬆很多喲。@
+`　愛爾奎特的幫助就完全沒有必要了！
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`「什麼嘛。@希耶爾才是拖後腿的人吧～」@
+br
+`　那個誰、吵死了！@
+br
+ld l,"tachi/kemo_t05",lshutter,400
+`「鹿子」@
+br
+cl l,lshutter,400
+`「嗚喵～為只在結局使用一次的動物系列三呼喵～喵～喵～喵～…………」
+\
+`　好了好了，上課期間不準交頭接耳喲。@
+`　現在煩人的傢伙已經被踢飛了，請繼續欣賞本編接下來的劇情吧。
+\
+bg #000000,crossfade,800
+playstop

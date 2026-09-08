@@ -1,0 +1,44 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Iré a ayudar a Kohaku-san.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+play "*3"
+` Salgo al patio y veo a Kohaku-san sosteniendo una escoba.@
+` Supongo que ya terminó con el patio trasero, y ahora está tarareando en el patio mientras barre las hojas.
+\
+ld c,"tachi/koha_t06",lshutter,800
+`"¿Huh?@ ¿Qué sucede, Shiki-san, por qué ha venido al patio a esta hora?"@
+`"Ah…… Nada.@ Sólo estaba aburrido, y pensé en venir a ayudarte.@ ¿Ya terminaste?"@
+`"Sí, acabo de terminar el patio trasero.@ Como tenía algo de tiempo antes de comenzar a preparar la cena, pensé que debía barrer este patio también."@
+` Parece que Kohaku-san es muy trabajadora, porque ya se ha encargado de la mayoría de las hojas.
+\
+`"…… Supongo que no seré de ayuda.@ Kohaku-san, ya casi has barrido todas las hojas del patio."@
+`"Sí, cuidar el jardín siempre ha sido mi trabajo.@ El jardín del patio trasero, el bosque, y los arces en el sur también son mi responsabilidad."@
+`"Guau, tu trabajo no sólo es cuidar el parterre, ¿sino también el bosque?"@
+` …… Espera un minuto.@
+` ¿Eso significa…?@
+`"Um, Kohaku-san.@ Hay un árbol enorme en medio del bosque.@ ¿También cuidas de ése?"
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"No, ¿cómo podría, Shiki-san?@ Ese árbol ha estado en la mansión por largo tiempo.@ No puedo cuidar de algo tan grande."@
+` Como si se estuviese divirtiendo mucho, Kohaku-san sonríe felizmente.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Pero ese árbol es muy importante.@ Desde el pasillo en el segundo piso de la mansión, se puede ver muy bien ese árbol.@ Cuando era niña, lo usaba como punto de referencia para encontrar muchas cosas."@
+`"Ya veo[line=3]yo también tengo recuerdos de ese árbol, aunque es sólo uno."@
+` …… Pero parece que ya no tiene ningún significado.@
+` La chica de aquella época[line=3]Hisui no le dio mucha importancia a la promesa que hicimos.@ Fue hace ocho años, supongo que ella piensa diferente ahora, así que ya no tiene caso.
+\
+`"Ah, ya casi es hora.@ Bien, entonces Shiki-san, cuando sea hora de cenar, por favor vaya al comedor."@
+cl c,crossfade,400
+` Con eso, Kohaku-san desaparece, y sus pasos hacen eco en el aire.@
+` Estoy seguro de que todos los ingredientes están listos, y lo único que falta es preparar la comida.@
+`"…… Supongo que debería volver a mi habitación."@
+` Después de observar un poco más ese gran árbol en medio del bosque, dejo el patio.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

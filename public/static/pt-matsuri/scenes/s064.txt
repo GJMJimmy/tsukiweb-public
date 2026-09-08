@@ -1,0 +1,118 @@
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` …… Acho que vou dar uma olhada na sala de cerimônia de chá.@
+` Tenho certeza de que ontem a Senpai falou que almoçava lá.@
+` Se ela estiver lá, talvez possamos ficar conversando enquanto almoçamos.@
+br
+` [line=3]Além disso,
+` eu gosto de almoçar com a Senpai e também estou preocupado com as notícias de hoje de manhã.@
+br
+`"[line=3]Certo."@
+` Tenho que aproveitar essa oportunidade.@
+` Vou para a sala de cerimônia de chá antes que o Arihiko perceba meu plano.
+\
+bg "bg/bg_11a",lcartain,800
+play "*3"
+` Bato na porta da sala de cerimônia de chá.@
+` Pouco depois a porta abre e a Senpai coloca a cabeça para fora.@
+ld c,"tachi/cel_t12",lshutter,400
+`"Hum?@ Tohno-kun?"@
+` Intrigada, ela inclina a cabeça.@
+` Ela não parece irritada, mas não está entendendo o motivo de eu ter vindo aqui.
+\
+`"Vamos almoçar juntos, Senpai?"@
+` Segurando os pães que comprei no refeitório, digo a ela o motivo de eu estar aqui.@
+ld c,"tachi/cel_t08",crossfade,400
+`"Almoçar juntos?@ Fico feliz que tenha me convidado, mas[line=3]"@
+` Ela parece incomodada.@
+` …… Isso não é nada bom.@
+` Parece que ela não está interessada.@
+` Não tenho escolha.@ Vou ter que recorrer a uma pequena estratégia.
+\
+`"Eu tenho pão de curry aqui comigo."@
+ld c,"tachi/cel_t05",crossfade,400
+`"Hã[line=3]?"@
+` O rosto da Senpai se ilumina de alegria.@
+` …… Depois do almoço de ontem eu tive um pressentimento que isso aconteceria.@ Estou me divertindo com a reação dela.@
+`"Vou te dar esse pão como agradecimento pelo almoço de ontem, então, vamos comer juntos?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Claro, entre!@ Eu acabei de fazer chá agora mesmo!"@
+cl a,lshutter,400
+br
+` A Senpai desaparece para dentro da sala.@
+` Seguindo ela, eu entro na sala de cerimônia de chá.
+\
+bg "bg/bg_09a",lcartain,800
+`"Ah……"@
+` Quando entro, entendo por que ela estava tão hesitante na porta.@
+` Em cima do tatame está seu bentô vazio.@
+` Parece que a Senpai já terminou de almoçar há um tempão.
+\
+ld c,"tachi/cel_t03",lshutter,400
+`"Tohno-kun, você prefere chá verde ou chá inglês?"@
+`"Hum?@ …… Ah, chá verde, por favor.@ Você já terminou de almoçar, Senpai?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Sim, faz um tempinho já.@ Acordei atrasada hoje, então não tomei o café da manhã e fiquei com fome a manhã inteira.@ Foi terrível!"@
+`"…… Entendi.@ Bem, você não precisa se forçar e me acompanhar.@ Desculpe pela intromissão.@ Vou comer na sala de aula mesmo, pode descansar à vontade."@
+ld c,"tachi/cel_t09",crossfade,400
+`"Hein[line=3]?@ Quer dizer que você não vai me dar o pão de curry?"@
+` A tristeza da Senpai parece ressoar do fundo do seu coração.
+\
+`"Ué[line=3]você deve estar cheia, né, Senpai?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Não estou cheia.@ Estou com fome."@
+` …… Não parece que ela está dizendo isso só para me fazer sentir melhor.@
+`"Sério?@ Bem, então com licença… Você tem certeza, Senpai?@ O pão do refeitório é grandão!"
+\
+ld c,"tachi/cel_t02",crossfade,400
+`"Não se preocupe!@ Se é uma comida que eu gosto, eu consigo comer quantidades ilimitadas dela."@
+` Este sorriso tímido não é realmente de timidez, mas de expectativa pelo pão de curry.@
+`"………"@
+` …… Ela é uma mulher muito misteriosa.@
+` É uma coisa rara uma pessoa ficar tão feliz assim por um simples pão de curry.…
+\
+bg #000000,lshutter,800
+!w500
+bg "event/cel_e02a",lshutter,800
+` A Senpai come um pão e eu como dois.@ E logo depois nós tomamos chá.@
+` Ajoelhados em cima do tatame, saboreamos nosso chá.@
+` Teria sido muito melhor se não fosse no horário de almoço da escola, mas é a vida, né!
+\
+`"Como é a sua nova casa, Tohno-kun?@ Parece que aconteceu algo terrível hoje de manhã."@
+`"Hum… pois é.@ Bem, o interior da casa é muito luxuoso, mas tem uns cachorros de rua muito barulhentos de noite.@ Não tem televisão e nem salas em estilo japonês, não tem um lugar onde se pode tomar chá igual a este aqui."@
+`"Cachorros de rua?@ Quer dizer que o que aconteceu lá não tinha relação com os assassinatos em série?"
+\
+`"Não faço ideia.@ Tem um muro muito alto cercando toda a área da mansão e parece que encontraram manchas de sangue nele.@ Mas olha só, foi lá que eu[line=3]"@
+br
+` [line=3]Foi lá que eu vi o cachorro ontem à noite.@
+` Não posso dizer isso a ela.@
+br
+`"…… Humm.@ Bem, de qualquer forma, isso não tem nada a ver conosco.@ Vamos parar de falar sobre assuntos desagradáveis agora que finalmente temos a oportunidade de relaxar."@
+`"Não é bem assim!@ Somos moradores desta cidade, por isso acho que as mortes têm alguma coisa a ver conosco sim."
+\
+` Segurando o copo em uma das mãos, a Senpai me lança um olhar muito sério.@
+`"Sim, é verdade, mas não vai acontecer nada com quem não fica perambulando pelas ruas de madrugada, não acha?@ E oito pessoas já foram assassinadas.@ Com tantas vítimas assim, a polícia deve pegar o culpado a qualquer momento."@
+`"[line=3]Céus, Tohno-kun!@ Você não tem nenhum senso de perigo, né?@ Os noticiários estão dizendo o que você acabou de falar desde que a terceira vítima foi encontrada, mas até hoje não o pegaram."
+\
+`"Hum… Isso é verdade.@ É que não consigo me preocupar quando ouço o nome ridículo que deram a ele: 'O Vampiro Moderno'.@ Desculpe-me, eu deveria ter levado mais a sério.@ Moramos nesta cidade, temos que ter muito cuidado mesmo, né?"@
+`"Sim.@ Fico feliz que tenha entendido."@
+` Ela sorri satisfeita.
+\
+`"Mas afinal de contas, por que estão chamando ele de vampiro?"@
+`"Bem, o sangue foi drenado de todos os corpos.@ Não acha que é meio parecido com o que um vampiro faria?"@
+`"…… Você acha mesmo?@ Mas não dizem que se você for mordido por um vampiro, você também se torna um vampiro?@ As vítimas estão todas mortas, os cadáveres são a prova disso, eles não deviam chamar o assassino de vampiro."@
+` Ela ri e concorda.@
+`"Você acredita em vampiros, Tohno-kun?"
+\
+`"…… Espera aí, só estou dizendo que é assim que os noticiários estão falando.@ Como eu disse, se realmente fosse o trabalho de um vampiro, não haveriam cadáveres."@
+`"Sim, você tem razão.@ Mas tente ver por outro ponto de vista.@ As pessoas que foram encontradas mortas morreram porque não puderam se tornar vampiros.@ Na verdade, existem pessoas que podem e pessoas que não podem se tornar vampiros.@ Aquelas que podem se tornar vampiros não aparecem como cadáveres depois de serem atacadas.@ Isso porque elas ainda estão vivas em algum lugar."
+\
+`"Ahaha, isso parece mais uma história de terror, Senpai."@
+`"Sim, parece mesmo.@ Mas poderia ser verdade."@
+` Rindo, ela toma seu chá.@
+br
+` O horário do almoço termina enquanto jogamos conversa fora.
+\
+playstop
+bg #000000,lshutter,800

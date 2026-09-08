@@ -1,0 +1,145 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Es cierto.@
+` Los desastres prevenibles deberían ser detenidos antes de que sucedan.@
+` Antes de que pueda iniciar cualquier problema "interesante", tengo que sacarla de los terrenos de la escuela.@
+bg "bg/bg_06a",lshutter,800
+br
+`"¡Sensei, siento que viene mi anemia, necesito irme!"@
+br
+` Levanto mi mano, y después de obtener permiso del maestro, salgo volando del salón.
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+ld c,"tachi/ark_t08",lshutter,400
+`"Ah, aquí estás.@ ¡Fue una carrera bastante rápida!@ Te ves muy animado esta mañana, Shiki."@
+`"[line=5]"@
+` …… Mi mandíbula cuelga totalmente abierta.@
+` Cuando entro corriendo al patio, Arcueid me saluda con su esplendor habitual.
+\
+`"Es más pequeña de lo que esperaba.@ Pensé que una 'escuela' sería mucho más grande[line=4]¡kyaa!"@
+` Agarro el brazo de Arcueid.@
+`"[line=4]Tú, ven conmigo."@
+` Arrastrando a Arcueid detrás de mí, corro hacia un lugar donde la gente no pueda vernos.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+ld c,"tachi/ark_t04",crossfade,400
+`"¡Oye!@ ¿Qué estás haciendo, por qué me has traído aquí?@ Este lugar no es nada divertido."@
+` A Arcueid parece decepcionarle este lugar, pero no es que la escuela sea un lugar muy interesante.@
+br
+`"[line=3]¿Qué estoy haciendo? Ésa es mi línea, Arcueid."@
+` Suelto su brazo y señalo su rostro con mi dedo índice.
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"¿Eh?@ ¿Qué quieres decir?"@
+`"Te estoy preguntando por qué estás dando vueltas durante el día y por qué viniste a mi escuela.@ Ni siquiera has sanado, ¿¡por qué no puedes simplemente relajarte y descansar……!?"@
+ld c,"tachi/ark_t14",crossfade,400
+`"Pero, como dijiste que me ayudarías, pensé en buscar pistas durante el día.@ No quería que… hicieses ningún trabajo extra[line=3]"
+\
+`"¡No te preocupes por eso!@ Dije que te ayudaría, cualquier trabajo extra lo haremos juntos, así que olvídate de eso.@
+` …… Cielos.@ Eres más débil durante el día y aun así sales.@ ¿Acaso disfrutas hacerme preocupar?"@
+`"Ah[line=3]Lo, siento."@
+`"No, siempre que entiendas, está bien[line=3]¿uh, Arcueid?"
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"Perdón, por hacerte preocupar."@
+`"No…… esto, gracias."@
+br
+` Creo que mi corazón está latiendo ruidosamente.@
+` Que Arcueid se disculpe de esta manera[line=2]es algo fuera de lo ordinario, o[line=2]tal vez, increíblemente lindo.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Pero tú también tienes la culpa, Shiki.@ Estuve observándote por largo tiempo desde el patio, pero nunca me notaste.@
+` No sabía cómo entrar, así que estaba pensando en saltar hasta donde estabas."@
+`"¿Saltar?@ ¿Hasta mi salón de clases en el tercer piso?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sí, no sería difícil pararme sobre la terraza, y es muy fácil saltar hasta allá."@
+`"[line=6]"@
+cl c,crossfade,400
+` Retiro todo lo anterior.@
+` Como siempre, ella tiene una absoluta falta de sentido común.
+\
+`"…… Menos mal.@ No habría sido muy bonito que hicieras eso."@
+` Suelto un suspiro de alivio.@
+` No creo que muchas personas la notasen.@
+` En primer lugar, hay muy pocos pupitres que pueden ver hacia el patio.
+\
+`"[line=3]¿Y?@ ¿Entonces por qué demonios viniste a mi escuela?@ Dijiste que estabas buscando pistas."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Es que sentí algo por estos alrededores.@ Entonces percibí tu rastro y me percaté de que se trataba de tu escuela."@
+`"…… ¿Así que no estabas pensando y viniste sin razón?"@
+` Frunzo el ceño.@ ¿Ella es un perro o algo así?
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"¡Bueno discúlpame!@ Vine aquí por una razón.@ Difícilmente hay algún rastro de Los Muertos aquí, así que quería confirmarlo yo misma."@
+`"¿En serio?@ Pero si no hay ningún rastro de Los Muertos aquí, ¿no debería ser un lugar sin importancia?@ No hay nadie en la escuela durante la noche, si Los Muertos quisieran alguna presa, irían al centro de la ciudad, no a una escuela."@
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Bueno, eso tiene sentido."
+\
+`"No hay nada extraño aquí.@ No puedo sentir a Los Muertos, pero ya que mis ojos ven la muerte, puedo saberlo sin quitarme los lentes."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ya veo.@ Si tú lo dices, Shiki, entonces no hay nada extraño en este lugar, quizás."@
+`"No 'quizás', definitivamente."@
+` Parece que Arcueid no me cree.
+\
+wave se_03
+` [line=4]Y entonces,
+` la campana repica, anunciando el final de la cuarta hora.@
+br
+`"[line=3]Oh no, ¿ya es la hora del almuerzo?"@
+` Aunque la mayoría de la gente no se queda cerca de este lugar, como es la hora del almuerzo, muchas personas pasarán por aquí.
+\
+`"En fin, si nos quedamos aquí mucho tiempo, la gente nos verá.@
+` Te aseguro que mantendré mi promesa, así que ve a casa y descansa.@ Podríamos ver al 'enemigo' esta noche."@
+ld c,"tachi/ark_t03",crossfade,400
+`"¿Oh?@ Suenas como si me quisieras fuera de aquí, Shiki."@
+` Ella comienza a parecer enojada de nuevo.
+\
+`"Ah, es sólo tu imaginación, así que apresúrate y vuelve a casa.@ De otro modo las cosas podrían volverse un poco peligrosas."@
+` Vete, vete.@ La empujo desde atrás.@
+`"………………"@
+cl c,crossfade,800
+` Aunque sus ojos indican que quiere decir algo, se va silenciosamente.
+\
+bg "bg/bg_04",lcartain,800
+` Después de observar a Arcueid marcharse, regreso al patio.@
+`"[line=4]¿Hm?"@
+br
+` ¿De qué se trata?@
+` Alguien está mirando hacia acá.@
+br
+ld c,"tachi/cel_t06a",crossfade,800
+`"¿Sen…… pai?"@
+` Sin duda alguna, es Ciel-senpai.@
+` Pero[line=3]¿por qué tiene esa expresión?@
+` Tiene una expresión temible que casi me hace dudar que en verdad sea ella.@
+cl c,crossfade,800
+\
+`"[line=3]¡Senpai!"@
+` La llamo mientras corro.@
+` Senpai se queda parada ahí, observándome.@
+`"¿Qué estás haciendo aquí?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Lo mismo digo, Tohno-kun.@ ¿Qué estabas haciendo allá?@ El almuerzo acaba de comenzar, y para que estés aquí debes haber faltado a la clase de la cuarta hora."@
+`"Claro que no.@ Simplemente salí volando del salón, eso es todo."@
+` "Oh," Senpai responde sin nada de entusiasmo.@
+` Es su sonrisa normal, pero parece que me está mirando ferozmente.
+\
+`"Más importante aún, ¿ya almorzaste?@ Si no, ¿quisieras comer conmigo?"@
+` Intento apaciguar todo relajadamente.@
+ld c,"tachi/cel_t03",crossfade,400
+`"Lo siento, comeré con otra persona.@ Por favor invítame en otra ocasión."@
+cl c,crossfade,400
+` Por un instante, se ve increíblemente triste al decir eso.
+\
+`"…… ¿Senpai?@ ¿Qué sucede?@ No te ves muy bien."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"No, no es eso.@ Es sólo que… es verdad que las cosas divertidas terminan rápidamente, Tohno-kun."@
+cl c,lshutter,800
+` Ella muestra una alegre sonrisa que contrasta con lo anterior.@
+` Con eso, entra al edificio por su cuenta.
+\
+bg #000000,crossfade,1500

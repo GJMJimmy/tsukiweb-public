@@ -1,0 +1,946 @@
+phase "bg/ima_02",l,aki,12a,12
+bg #000000,crossfade,800
+play "*7"
+` [line=3]I had a dream.@
+br
+` No, it was a dream which wasn't mine.@
+` That day.@
+` The girl that clung to me crying and who shared with me her life.@ It was her dream that I had.
+\
+bg #ffffff,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` We live alone and we die alone, Akiha.
+\
+` Those were the first words father taught me.@
+` I did not know what the words meant.@
+` But I remember feeling uneasy, looking at father's inorganic eyes as he said those words.@
+` He was a very lonely person.@
+` And I knew that I would be like him someday[line=4]
+\
+!w2000
+monocro #ffff00
+bg "bg/bg_36a",crossfade,800
+` [line=3]Born into the Tohno family, I had an older brother.@
+` But I could not get along with him.@
+` My parents told me he was my brother, but he seemed to me like something else.
+\
+bg "bg/bg_41",crossfade,800
+` Having the Tohno blood means having the blood of nonhumans.@
+` That might be why he looked different to me, but for me, he did not appear like "that" either.@
+br
+` I could not truly accept my brother.
+\
+bg "bg/bg_34a",crossfade,800
+` And when I turned six,
+` a strange boy joined our life as another brother.@
+` At first, I did not like the boy's name, as it sounded exactly like my brother's.@
+` The boy was a few years younger than my brother, but he was mature and kind to everybody.
+\
+bg "bg/bg_42a",crossfade,800
+` Even though I was restricted by my family's creed, the boy took me around to play like it was completely normal.@
+` As I followed him silently, I started to take interest in my new brother.@
+` He was loud, unsettling, and a bit rough, but…
+` Somehow, I knew this person would protect me no matter what.
+\
+bg "bg/bg_36a",crossfade,800
+` As a daughter of the Tohno family, I lived separately from my brother and the boy.@
+` Father says I am not able to live a normal life due to the special blood of the Tohno family.@
+br
+` I managed to endure strict studies by accepting my fate.@
+` …… Father is not doing this because he does not like me.@
+` I tell myself that he scolds me really, really harshly only because he loves me.
+\
+br
+br
+br
+` My mind is getting worn out.@
+` The mind I had was cut down as it started to become smaller and smaller.@
+bg #000000,crossfade,800
+br
+` But I felt that I could endure it.@
+` Because I have a bit of free time I can use to play outside with everyone after my studies.
+\
+bg "bg/bg_42a",crossfade,800
+` The three of us started to play together.@
+` My brother and the boy got along really well.@
+` I usually followed them silently.
+\
+` My brother seems to know that the boy was different from us.@
+` I also know that time flies by when I play around with normal people like them.@
+` Since I knew, I wanted to value this time.@
+` Wishing that when I mature and become alone in this prison-like mansion,
+` I would not be lonely and refrain from crying because I have these happy memories.
+\
+` [line=3]The memories were numerous.@
+br
+` There were really special times within the special days I had.@
+` There was the night I went far away with the boy.@
+br
+` On a dark night, the two of us in the field, surrounded by trees.
+\
+bg #000000,lshutter,800
+` [line=2]It was really a dreamlike experience for me.@
+br
+` Every day was warm like a parade.@
+` But,
+` it all ended abruptly.
+\
+monocro off
+bg "bg/cmo_05",crossfade,800
+` A hot summer day.@
+` I saw my brother in the courtyard and walked towards him.@
+` He was panting painfully as he was crouching on the ground.@
+br
+` I had a really bad feeling about it.@
+br
+` I could hear the cicadas and the ground seemed to tilt.@
+` Feeling myself starting to get dizzy, I called out to my brother.
+\
+` The brother that turned around was not my brother.@
+br
+` I could not do anything.@ All I could do was watch my brother turn into an ugly beast.@
+` The thought that I would turn into something like him in the future caused me to freeze in place.@
+br
+` The blood-thirsty beast attacked me.@
+` I could not run away.@
+` At that moment, someone pulled on my hand.
+\
+monocro #ffff00
+bg "bg/bg_53",lshutter,800
+` The boy was there when I turned around.@
+` He pulled my hand and ran.@
+` …… Is he not scared?@
+` The boy stood in front of that ugly beast as if to protect me.@
+br
+` But the beast was only watching me.@
+` The beast that attacked me, and the boy that came in between us.
+\
+` Splash.@
+` I remember the moment warm blood splashed onto my cheeks.
+\
+` …… The boy embraced me and protected his sister from the beast.@
+br
+` Even though his body had a hole and was bleeding seriously, he still embraced me.@ He protected my small body and did not let go.
+\
+` When I looked up, he was crying.@
+` The tears looked like they were from regret, and not pain.@
+br
+` [line=3]I'm sorry, said the boy.@
+br
+` Before he died, he embraced me, hoping his dead body would still protect me.
+\
+` The boy continues to apologize.@
+br
+` If I was part of your real family, I could probably protect you.@
+` It's so frustrating[line=3]I couldn't be your real brother.@
+` I swore[line=3]you would be more important to me than anyone else.
+\
+` …… He died whispering that confession.@
+` The boy wished for my safety even after he died and he tried to be a brother more than my real brother.@
+br
+` …… Those words were enough.@
+` I cannot wish for anything more.@
+` I understood[line=3]I cried knowing that this person will never betray me.@
+` Even though it was imprudent, I embraced him back and cried from happiness.@
+` I was happy that I could think this was the only person for me no matter what happened.
+\
+bg #ffffff,crossfade,800
+` I do not know what happened after that.@
+` When I came to, the only memory I had was the body of the beast getting dragged somewhere, and the body of the small boy being carried into the mansion.
+\
+bg "bg/bg_41",crossfade,800
+` And my father told me.@
+` He said the adopted son died in that accident and that my real brother was the one who survived.@
+` …… I knew that was for appearances for the outside world, but I did not care.@
+br
+` He was alive.@ I cannot possibly wish for more.@
+` …… Even if the boy becomes my true brother in name, and even if the boy himself thinks that way,
+` I told myself that it would be fine as long as I could stay beside him as his sister.
+\
+bg "bg/bg_36a",crossfade,800
+` …… Eight years have passed and our father died.@
+` I ascended to full power over the Tohno House and I decided to bring him back to the mansion, ignoring the surrounding opposition.@
+br
+` There is no freedom for me as the successor, but I might be able to act selfishly at least once.@
+` Then[line=4]I would like to use that one wish for my love that will never be mentioned.
+\
+` That was good enough for me.@
+` I have taken away everything from him.@
+` So I cannot wish for more.@
+br
+` [line=3]Back then.@
+` The kind of happiness I had while watching the stars together would never happen again, but,
+br
+` as long as he is here, I do not care.@
+` If Nii-san would come back.@
+br
+` [line=3]On a dark night, the two of us in the field, surrounded by trees.
+\
+br
+br
+br
+br
+br
+br
+` What a
+` happy and selfish dream[line=3]
+\
+monocro off
+bg #000000,crossfade,1500
+playstop
+!w3000
+bg #ffffff,crossfade,800
+bg "bg/bg_18b",tshutter,800
+play "*1"
+` [line=4]Pain.@
+` I wake to the pain in my chest.
+\
+`"……………… Ha."@
+` An unfamiliar room.@
+` I was lying on a bed, with my upper body bare.@
+` Instead of my clothes, white bandages are wrapped all around my chest.@
+`"[line=6]"@
+` My memory is messed up.@
+` What's happening, what's going on right now… everything jumbles together and I can't sort things out.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18b",notrans,0
+`"…………!!"@
+` The only certain thing is this pain in my chest.@
+` …… The wound on my chest.@
+` I was stabbed by someone from behind.@
+` By who?@ I don't even have to think about it.@
+` I was just stabbed by SHIKI, and Akiha[line=3]
+\
+`"Akiha……!"@
+` I get up from the bed.@
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18b",notrans,0
+`"Ugh[line=4]!?"@
+` My body suddenly stops.@
+` The wound on my chest hurts and my entire body tenses.@
+`"A[line=5], ugh[line=5]"@
+` Even breathing is painful.@
+` I can't stand up like this[line=4]
+\
+ld c,"tachi/cel_t12",lshutter,800
+`"Oh, you woke up, Tohno-kun?@ I'm surprised.@ It's not a wound you would wake up so early from."@
+`"What[line=3]Sen, pai……?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Yes.@ It's me.@ Also, this is my room so you can relax.@ Even if that vampire is after you, he won't likely come here."
+\
+`"It's you…… Senpai, weren't you never going to appear in front of me……!?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"That was the plan, but I had to help you in a situation like that."@
+cl a,lshutter,800
+` Saying that, Senpai walks toward the bed.
+\
+`"See, the wound has opened because you tried to move.@ I'll change the bandages for you."@
+` Senpai skillfully takes off the bandages on my body and replaces them with new ones.@
+` They are rather tight.@
+`"…… Um…… Senpai, I feel bad mentioning this because you're helping me, but it's too tight."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Yes, I'm making it tight so you can move around and still be alright.@ Could you be quiet for a while?"@
+cl a,crossfade,400
+`"Oh…… I'm sorry."
+\
+` I apologize and look around the room.@
+` This seems to be Ciel-senpai's room.@
+` I guess I was stabbed by SHIKI and rescued by Senpai afterwards.@
+` But then[line=3]what happened to Akiha?
+\
+`"Senpai, Akiha!?@ Where is Akiha!"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"…………………"@
+` Senpai's hands freeze.@
+`"Senpai[line=4]!"@
+`"…… The circumstances dictated that I could rescue only one person.@
+` I could not escape from that vampire carrying two people.@
+` So[line=3]I gave priority to your rescue since you had a greater chance of recovery."
+\
+`"Akiha[line=4]are you saying you deserted Akiha, Senpai……!"@
+`"…… Yes.@ Her life cannot be saved anyway.@ I cannot endanger your life to save hers if that is the case."@
+`"Wha[line=4]"@
+br
+` What[line=3]is this person saying.
+\
+`"Why……!@ Why did you save me……!@ Aren't you supposed to kill vampires!?@ Then you should have forgot about me and killed SHIKI right there……!"@
+`"…… I had that choice, but you would have probably died.@
+` Your wound was deep enough that you would have died unless I treated you quickly.@ I wasn't sure if I could kill that vampire quickly, so I made the most certain decision and ran away with you."
+\
+`"[line=3]So you deserted Akiha!?@ That's[line=4]that's unwanted help right there!@ I bet Akiha would have been saved if you left me and killed SHIKI……!"@
+`"…… I won't deny that.@ But Tohno-kun, Akiha-san is not dead.@ That vampire's purpose is to make her more like him.@
+` Akiha-san will not be killed.@ You were the only person that was going to be killed.@ Don't you understand that, Tohno-kun?"@
+`"[line=6]"@
+` …… I cannot say anything.@
+` Senpai is right.@
+` What am I doing[line=3]throwing my powerlessness at her?
+\
+`"…… I'm sorry, but I[line=3]I can't believe that guy wouldn't kill Akiha.@ He's a killer.@ I know that more than anyone else……!"@
+`"…… Tohno-kun.@ Akiha-san will not be killed.@ But, please give up on her.@
+` She[line=4]won't be able to turn back."@
+`"I know that……!@ But that's just her hair.@ Akiha is not like SHIKI."
+\
+`"No, Tohno-kun.@ That vampire's purpose is to obtain Akiha-san.@
+` Tohno SHIKI[line=3]Akiha-san's real brother is not human anymore.@ So what he wants is someone like him.@
+` [line=3]You understand, Tohno-kun.@
+` That vampire does not want Akiha-san as human.@ That's why he attacked Akiha-san last night, but didn't kill her.@
+` I don't know how, but Tohno SHIKI must have found a way to awaken the nonhuman blood in the Tohnos."
+\
+`"[line=5]"@
+` Now that she mentions it, I remember.@
+` Ever since that guy knocked Akiha unconscious,
+` her hair has been red without turning back.
+\
+`"Senpai[line=4]how do you know so much[line=3]"@
+`"I made you talk when you were asleep.@
+` …… I'll apologize for making you talk without asking, but consider it compensation for getting rescued."@
+`"[line=7]"@
+` I don't care about that.@
+` There's no point in her apologizing.@
+br
+` Instead.@
+` I have to go to Akiha[line=3]
+\
+`"Ku………!"@
+` I get up from the bed.@
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18b",notrans,0
+` Pain.@
+` Pain like I am being gouged with a knife all over my body.@
+`"Ah[line=4]Gu…………!"@
+` But, I can still move.@
+` If I can move[line=4]I can't sit still.
+\
+`"[line=4]Senpai, you have my knife, right?@ Can you give it back to me?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Are you going back to the mansion, Tohno-kun?"@
+` I don't have to answer.@
+` Senpai holds the knife in her hands and stands in front of me.
+\
+`"That vampire and Akiha-san are still at the mansion."@
+`"[line=5]"@
+`"But it has been over six hours since then.@ …… It's probably too late by now."@
+`"I said……!@ It doesn't matter, Senpai.@ I don't care what Akiha is like.@
+` I've decided I'm going to be with her.@
+` …… A long time ago, I swore that I would be her real brother, like real family."
+\
+` I say that and feel like crying.@
+` …… It happened a long time ago.@
+` A promise I myself forgot.@
+` The family which did not act like a family.@
+` But still[line=3]I worked hard to become a family member.@ Only her.@ She cared for me more than the rest of her real family.@
+br
+` I knew it was a lie from the beginning.@
+` But we tried to protect that lie.@ …… Really, I wish I never knew.@
+` What a fragile and far away dream it was.
+\
+`"…… Tohno-kun, it might be true that you will be able to accept Akiha-san no matter what she turns into.@
+` But that's just your selfish interpretation.@
+` Akiha-san herself will not allow her own existence."@
+`"…… Akiha herself will not allow her existence……?"@
+br
+` …… Someone has said something like that before.
+\
+`"Listen to me, Tohno-kun.@ Akiha-san will lose her mind when she becomes one of the Tohno.@
+` Her reason that lost to her instinct will go away and she will repeat senseless murders like Tohno SHIKI."
+\
+`"Murders that she doesn't want.@ And Akiha-san herself cannot tell she is doing it.@
+` There is no 'Akiha-san' in her anymore.@ All that remains is the action called murder."@
+`"[line=6]"
+\
+`"Do you understand, Tohno-kun?@ It's not the people who are killed by her that hate her most.@ She herself hates herself the most.@
+` But she does not have any emotion to feel that.@
+` [line=3]Unless she dies.@
+` To calm down her awakened blood, you must reset everything.@ But to reset everything means to kill her.@
+` If she has changed, the old Akiha-san isn't there anymore.@ By dying, Akiha-san can return to her original self."
+\
+` …… Now I remember.@
+` It was Akiha herself that said that.@
+br
+` [line=3]Please kill me.@
+br
+` She said that while crying.
+\
+`"[line=6]"@
+` I cannot say anything.@
+` I thought my blood would boil.
+\
+`"Wha[line=5]"@
+`"I know it's painful, but please give up[line=3]"@
+`"How, selfish[line=4]!"@
+cl c,lshutter,400
+`"Kya!?"@
+wave se_10
+quakex 2,200
+` I grab Senpai's collar and push her into the wall.@
+` This anger is not directed at her.@
+` But, she shouldn't talk about Akiha that lightly.
+\
+`"Are[line=3]Are you telling me to kill Akiha……!?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=6]Yes.@ If Akiha-san wishes so, I'll let you take that role."@
+`"D-don't joke around………!@ I can't kill her.@ Senpai told me to not kill no matter what………!"@
+ld c,"tachi/cel_t09",crossfade,400
+`"Tohno-kun[line=6]"@
+` Her emotionless face starts to collapse.@
+` …… I know.@
+` I know that Senpai isn't saying this because she wants to.
+\
+`"…… Tohno-kun, there are some things more painful than death, and Akiha-san knows that."@
+`"[line=4]"@
+`"…… And if she has already changed, she is no longer human.@ You cannot call something that cannot think for itself human, although you might be able to call it alive."@
+br
+` Saying that,
+` Senpai hands the knife to me.
+\
+`"[line=3]Tohno-kun.@ Vampire hunting is my job.@ I'll take care of that vampire, so[line=4]"@
+`"…… No.@ I'm sorry, but you stay here, Senpai."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Huh…… Tohno-kun?"@
+`"…… Him and I go way back.@ It's our problem…… honestly, I don't want you involved in this."@
+`"[line=6]"
+\
+`"But, if something does happen to me, I'll let you handle it.@ …… I know it sounds a bit selfish, but would that be alright, Ciel-senpai?"@
+`"[line=6]"@
+` Senpai narrows her eyes.@
+` Transient eyes like she is watching an illusion.
+\
+`"…… Alright.@ It does sound a bit selfish, but I'll let you handle it.@
+` But I don't understand, why are you willing to do such a thing?@ You're not even a member of the Tohno family, why?"@
+br
+` [line=4]Why?@
+` I know why.
+\
+`"You said it already.@ I, Tohno Shiki, value Akiha more than myself.@
+` …… But, I couldn't love her as much as she wanted, so I have to go."@
+br
+` [line=3]All this time,
+` Akiha has suffered by herself.@
+` Compared to that, this pain is nothing.
+\
+`"I'm going now.@ Thanks for everything and good bye, Senpai."@
+` I endure the pain as I start to walk.@
+br
+bg #000000,tcartain,800
+`"[line=3]Yes, good bye, Tohno-kun."@
+` As I walk away,
+` I hear Senpai say that to me.
+\
+playstop
+!w3000
+bg "bg/bg_32d",lcartain,800
+` I reach the mansion.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_54c",lcartain,800
+` I have a headache.@
+` My vision is blurry like everything was shrouded in mist.
+\
+bg #000000,crossfade,800
+bg "bg/bg_54c",crossfade,800
+`"Ga……… ah."@
+` My vision is distorted.@
+` I can't breathe properly.@ Just breathing makes me dizzy.@
+` Each step I take feels like a few hundred meters.@
+` My body.@
+` It's so exhausted, I'm practically numb.
+\
+`"Ah………… h."@
+` I drag my legs.@
+` My body has reached its limit and doesn't move like I want it to.@
+` My mind thinks negatively, telling me I can't do anything with such a body.
+\
+`"[line=9]"@
+` But my burning blood denies all those ideas.@
+` My loud heartbeat.@
+` Only my pulse is high.@
+` Under the moon, my concentration is sharpened.
+\
+bg #000000,crossfade,800
+bg "bg/bg_44b",crossfade,800
+` [line=3]I just came here naturally.@
+br
+` There's no mistake.@
+` My heart beats loudly.@
+` My throat burns.@
+` My body is exhausted and uses all its energy to stay alive.@
+` It's suicidal to fight like this.@
+` But I feel no fear.@
+` My fingers are paralyzed by the weight of my knife.@
+` My nerves feel frayed.
+\
+` [line=3]What a familiar sensation.@
+br
+` I remember this feeling.@
+` I felt it so many times already.@
+` The feeling "he" had when he killed in the dream, and a long time ago, I think I had this feeling too[line=4]
+br
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_44b",notrans,0
+`"Gu[line=4]"@
+` I won't last long.@
+` I head into the detached building.
+\
+bg #000000,lcartain,800
+bg "bg/bg_45e",lcartain,800
+play "*9"
+br
+br
+br
+br
+br
+br
+` [line=3]Strangely enough,
+` I did not feel anything when I saw it.
+\
+`"[line=5]SHIKI."@
+`"It's[line=3]you."@
+` SHIKI gets up slowly.@
+br
+` There's only two people there.@
+` One is a vampire called SHIKI.@
+` Another is a red-haired girl.
+\
+ld c,"tachi/hal_t01",crossfade,800
+`"[line=4]Welcome, Shiki.@ I thought you wouldn't make it."@
+cl a,crossfade,400
+`"[line=6]"@
+` My mind does not feel anything.@
+` Akiha is there behind SHIKI.@
+` Her eyes look dead as she rests on the wall.@
+` Maybe SHIKI put it on, but she is wearing a kimono.@
+br
+` That thing.@
+` Akiha is like a mindless doll.
+\
+` I let out a big breath.@
+br
+` I do not feel anything.
+\
+` It's like I have turned into a doll like Akiha, feeling nothing.
+\
+ld c,"tachi/hal_t01",crossfade,800
+`"[line=3]But you're too late.@ I've got Akiha back."@
+` SHIKI walks toward me.@
+`"SHIKI, what do you want to do?"@
+` I ask him as I raise my knife.@
+` SHIKI tries to hold in his laughter as he talks.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Beats me.@ I don't even know.@ My purpose as SHIKI is to get Akiha.@ I have no intention of sucking any of the low-lifes' blood."@
+`"…… I see.@ But for that, you were pretty random back then."@
+`"Yes, you're so right.@ But it can't be helped, that wasn't my intent.@
+ld c,"tachi/hal_t01",crossfade,800
+` …… It tells me, Shiki.@
+` To kill, deprive, and destroy all.@ I'm just following that.@ I don't know why."@
+`"…… That's awful.@ I don't remember much but you weren't like that before, SHIKI."
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Yeah, I went crazy from that day eight years ago.@ There's a weird guy in my head and he tells me to kill everything."@
+` Saying that, SHIKI laughs.@
+` He keeps on laughing like wheels turning indefinitely.@
+br
+` [line=3]There,
+` I can't find one bit of humanity.
+\
+`"…… This is my last question.@ Aren't you feeling any pain?"@
+`"Pain……?@ No way.@ I'm perfect.@ I love myself for doing this.@
+` Well, I could say I was bored, but I've already solved that.@
+` Until now, my only fun was to eat those low-lifes, but that's over since Akiha's back.@ Now I have no time to play with those toys."
+\
+` SHIKI sounds satisfied.@
+br
+` [line=3]It was useless to ask.@
+br
+` But, I still wanted to ask.@
+` If this guy had the pain Yumizuka had[line=4]the pain as a "human" having to suck blood despite not wanting to…
+\
+`"Then, you're not human anymore."@
+` My words are menacing.@
+` SHIKI stops moving.@
+ld c,"tachi/hal_t01",crossfade,400
+`"I don't get it.@ I don't get why you came here to get killed, and I don't get that question you asked.@
+` Shiki, what did you come here for?"@
+`"To kill you and to retrieve Akiha."@
+` As those words leave my mouth,
+br
+` all the blood in my body accelerates.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Huh!@ Are you sane, Shiki!?@ Are you saying a normal person like you can kill me!?"@
+`"…………………"@
+` There's no reason for me to answer.@
+` I narrow my gaze.@
+` And, look at his "lines"[line=3]
+\
+bg "bg/bg_45d",crossfade,400
+ld c,"tachi/hal_t02",crossfade,400
+`"Don't be full of yourself……!@ This is mine.@ I won't give it to you……!"@
+` Maybe he felt something.@
+` SHIKI backs up as if scared.@
+`"Akiha is my sister……!@ I am the only one with a blood relation.@ There's no place for you……!"@
+` He looks at me with blood-shot eyes.@
+br
+` [line=3]There's nothing more to say to him.@
+` I raise my knife and take a step.
+\
+`"You're right, SHIKI.@ Akiha is not my sister."@
+`"What……?"@
+`"Akiha is my woman."@
+`"You[line=4]!!"@
+cl a,lcartain,400
+` I take another step.@
+` Losing himself at my words, SHIKI attacks me straight on.@
+br
+` That becomes the signal for our last deathmatch.
+\
+playstop
+bg #000000,lshutter,400
+` [line=3]I can't take much time.@
+br
+` My body is at its limit, and I want to get Akiha out of here as fast as I can.@
+` So, there's only one thing to do.@
+` I have to dodge SHIKI's arm and cut across the "line" on his chest.@
+` My body will be able to move this once.@ I will be able to avoid it.@
+` He attacks me.@
+` SHIKI's range and my range are about the same.@
+` We try to kill each other fairly in our range[line=4]
+\
+bg "bg/ima_14",lshutter,400
+` [line=5]No.@
+` That was just my illusion.
+\
+`"Ha……!"@
+` SHIKI lets out a funny scream as he swings "it".@
+`"[line=7]!?"@
+wave se_12
+` I stop "it" with my knife.@
+` [line=3]There's no time to think about other things.@
+` My knife and whatever SHIKI is holding clang together with a high-pitched shriek.
+\
+bg #000000,lshutter,400
+play "*4"
+`"Damn, I thought I'd cut you in half along with your knife[line=3]but that thing is pretty strong for an antique, Shiki!"@
+` SHIKI swings "it" above his head.@
+`"[line=7]"@
+` My whole body shakes.@
+` What SHIKI is holding is a "thing like a sword" that must be ten times longer than my knife.@
+`"[line=5]"@
+` I don't understand.@
+` He was certainly bare-handed up until now.@ When did he get that[line=5]
+\
+`"But there won't be a second time……!"@
+` The red sword swings down.@
+` Even if he swings it, it's only going to get stuck in the walls or the ceiling due to its length[line=5]
+br
+bg "bg/ima_14",tshutter,400
+`"[line=8]!?"@
+` I avoid it instantly.@
+` The red sword SHIKI was holding came down without getting stuck anywhere.
+\
+` During that swing,
+` the sword was indeed in the ceiling, but it came arcing down like a hot knife through warm butter.
+\
+bg #000000,tshutter,400
+br
+br
+br
+br
+br
+br
+` Somewhere.@
+` The sound of dripping blood.
+\
+bg "bg/bg_45d",lshutter,400
+`"Persistent[line=7]!"@
+` SHIKI holds up his sword once again.@
+`"[line=10]"@
+` My mind stops.@
+` In my vision is SHIKI and Akiha, sitting at the back of the room.@
+` Akiha blankly stares at me and SHIKI.@
+` Akiha sits like a doll.@
+` Akiha.@ I can't leave Akiha here.@
+` But right now[line=4]
+`"Ku[line=4]!"@
+` I bite my tongue and get away.
+\
+bg #000000,lshutter,400
+` I go through the shouji door which leads out to the garden.@
+` If that sword does not hit the walls, then I'm at a disadvantage inside.@
+` Outside, the forest.@
+` In this dark night, in these woods, there should be some advantage for me[line=4]
+\
+bg "bg/bg_54c",rshutter,400
+wave se_01
+`"Ar[line=5]gh."@
+` I suddenly feel dizzy.@
+` My feet stumble as I almost fall.@
+` The wound in my back reopens and blood pours forth.@ No time for that.@
+`"Ugh[line=5]"@
+` I let out a breath.@
+` Stumbling, I lean against a tree.
+\
+`"Tu…………"@
+` I can't pass out here,
+` I hear the sound of someone moving through grass.@
+` SHIKI is definitely after me.@
+` Then, just a little more.@
+` I need to go at least to some place where I can hide and attack him from behind[line=5]
+\
+wave se_15
+quakex 2,50
+`"[line=8]"@
+` Then,
+` something like a sword sticks into the tree I am leaning on.@
+`"[line=7]!"@
+` I jump sideways.@
+wave se_15
+quakex 2,50
+` Twice.@
+` The sword that comes flying pierces through the tree easily.
+\
+`"[line=8]!"@
+` My body moved before I thought about it.@
+` I hide my body from tree to tree.@
+` The swords are following close behind.@
+` Is there no end to this?@ His swords are thrown one after another like bullets.
+\
+`"What[line=6]"@
+` There is no end.@
+` As I run away, he increases the amount of swords he throws at me.@
+` When I notice,
+` The dark forest is full of pierced trees, looking like some sort of foreign execution site.
+\
+`"[line=4]Huh?@ Are you done running away now, Shiki?@ Don't tell me you think you can kill me here……!"@
+br
+` I can hear his voice.@
+` But he does not throw his sword.@
+` As I can't see him, maybe he can't see me… no, no way.@
+`"Ha………… a."@
+` I straighten out and lean on a big tree.@ His sword shouldn't pierce through a tree this big.
+\
+`"Hey man, where's all that talk you gave me earlier!@
+` If you're going to kill me, it's no fun unless you try……!"@
+` The voice echoes as I still cannot tell where he is.@
+` I close my eyes and try to make my hearing more sensitive.
+\
+playstop
+bg #000000,crossfade,400
+` ………
+\
+` …………………@
+` ………………………………@
+` ………………………………………………
+\
+` …… I can't hear his breathing or feel his presence.@
+` Of course.@
+` I don't have beast-like senses like he does.
+\
+`"[line=7]?"@
+` I hear a dripping noise.@
+` …… What is it?@
+` I don't think there's any water around here.
+\
+bg "bg/bg_54d",crossfade,400
+`"Jeez, you are a big chicken.@ Alright.@ If that's all you're going to do, I'll make this interesting for you.@
+` You can hide there all you want."@
+br
+` …… I can hear his voice.@
+` But I still can't tell where he is.@
+br
+`"…… Let's see.@ If that's the case, I'll have to make this a bit interesting.@ It's no fun just to kill you.@ It's easy to skewer you right now, but I bet Akiha won't be happy about that."
+\
+` …… That dripping sound.@
+` It's closer this time.@
+` The sound is from the tree right in front of me.@
+` When I look,
+` I see it's the sound of liquid dripping down the sword that pierced the tree.
+\
+`"Yes, I should crush your hands and feet and make you a toy for Akiha……!@ Akiha likes to play with dolls, and it would suit her."
+\
+` …… It doesn't seem to be sap.@
+` Some kind of liquid is dripping down that thin sword.@
+` When I look at it harder, it seems more like ice melting into water.
+\
+`"Oh yeah, I haven't told you this yet but Akiha right now is a bit out of my hands.@ I guess I was too happy and I overdid it.@ It's good she's back, but it's a problem when she bites anyone she sees, right?"
+\
+` …… The liquid drips down.@
+` The red sword is more like a blade itself than a sword.@
+` A simple weapon, just a blade.@
+` This is the weapon SHIKI was throwing.@
+` A red, thin, long blade.@
+` But why is that dripping red liquid?@
+` Red.@
+` Red.@
+` Re…… d?
+\
+wave se_01
+`"I see.@ I'll pass on making you Akiha's toy.@ I'm sure it'll be a great present if I give you to her with tons of swords sticking in you, but I think Akiha will bite on you before she plays with you.@ I can't let Akiha eat such a poor meal[line=5]"
+\
+`"[line=7]"@
+` Shut, up.@
+wave se_01
+` Red.@
+` That person.@
+wave se_01
+` Red.@
+` There's something important.@
+wave se_01
+` Red.@
+` I have to realize it.
+\
+`"…… Wait a minute.@ Yes, That's a good idea!@ To let Akiha be a cannibal just like me……!"
+\
+`"[line=7]Blood."@
+` I, see.@
+wave se_01
+` It's blood.@
+` That's blood.@
+` That's why there's so many swords around here.@
+wave se_01
+` There are hundreds of swords stuck in trees.@
+` Disjointed hands and feet scattered around.@
+` Dark night.@
+wave se_01
+` Glass moon.@
+` The bloody forest[line=4]
+\
+monocro #ff0000
+bg "bg/ima_02",crossfade,400
+wave se_01
+!w500
+bg "bg/bg_54d",crossfade,400
+waveloop se_02
+`"Yes, yesyesyesyesyes!@ That's good.@ It'd be excellent if you were her first meal……!@
+` [line=4]I've made up my mind.@ Yes, now I have to get Akiha to be like me as soon as possible."
+\
+br
+br
+br
+br
+br
+br
+` The dripping sound.@
+` The sound of new blood dripping.
+\
+`"Bye Shiki, I must say we are quite close, but I'm done playing around[line=6]!"@
+br
+` That lets me know where he is.
+\
+wavestop
+bg #000000,crossfade,400
+` I get away from the tree I am leaning on.@
+` I turn around and cut its "lines".@
+` Sliding,
+` the large tree falls to the ground.
+\
+`"Wha[line=11]!?"@
+` I hear the voice from above.@
+` In a word, he was saying such tasteless things right above me until now.
+\
+`"You[line=5]!!"@
+` SHIKI comes falling down.@
+` In his hand is the red sword made of blood.@
+` But before he could swing it[line=3]
+br
+br
+bg "bg/ima_14",crossfade,400
+` My knife cuts through his arm.
+\
+bg "bg/ima_12b",lshutter,400
+` Splattering blood.@
+` …… SHIKI's arm falls to the ground.@
+` The blood pouring out of his sliced arm makes a black stain on the ground.@
+` That's the same for me, as I am below him.@
+` Red blood, like human blood, splashes on my chest.
+\
+bg "bg/bg_54d",crossfade,400
+`"Ha.@ Agh[line=5]!"@
+` SHIKI falls to the ground and[line=5]jumps back like a monkey.
+\
+ld c,"tachi/hal_t04",crossfade,400
+waveloop se_02
+`"Ha[line=3]haha, ha."@
+` SHIKI looks at me.@
+`"Oh, I guess you can do it if you try……!@
+` I'm relieved Shiki.@ It's unlike you to be killed so easily like that……!"
+\
+`"[line=11]"@
+` I try to say something and I stop.@
+` I have no room for that.@
+` Kill.@
+` Kill.@
+` Kill.@
+` Kill.@
+` If you have energy to move your mouth, use it to eliminate that creature.@
+` My body takes over my mind.
+\
+ld c,"tachi/hal_t02",crossfade,400
+`"Hey, why aren't you saying anything……!@ Damn, don't act like you're the good guy.@ You're more like a monster than I am……!"@
+`"[line=9]"@
+` I grip my knife as I walk toward SHIKI.
+\
+`"Heh, you don't even want to talk to me, huh?@ I feel the same way too.@ I don't want to talk to you either.@ I may be a cannibal, but I'm not a machine like you……!"@
+`"[line=9]"@
+` I walk through the grass.
+\
+`"Alright?@ I still have a mind that lets me choose.@ I know what I'm doing is considered evil for you guys, but we do it knowing that……!@
+` But what are you, being controlled by your blood?@
+` I'm asking what are you trying to kill without any will of your own, Nanaya Shiki……!!!"@
+`"[line=9]"@
+` I walk.@ To, kill, him[line=4]
+\
+`"Shit……!@ Do you know how you look right now?@ You're not a living thing.@ You're like a machine, a doll that kills anything not human!@
+` I see, it was only right that the old man exterminated the Nanaya.@ Because you're all emotionless killers……!"@
+`"[line=9]"@
+` The last step.@
+` With this,
+` I will be able to kill this monster[line=4]
+\
+`"[line=3]See, that's the kind of creature you are, Shiki.@ If you're fighting anyone not human, all you do is kill them no matter how much they look human.@
+` Then, are you going to kill Akiha too after you kill me?"@
+wavestop
+`"[line=6]"@
+` What in the world?@
+` I would never[line=7]
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Can you say that you won't?@ I'll tell you, but Akiha is more like a monster than I am.@ With her in front of you, there's no way you'll be able to hold down your impulse.@
+` …… See, if you have any reasoning left in you as Tohno Shiki and not Nanaya Shiki, you should understand.@
+` You are going to be killed by me, or[line=4]that it's best if you kill yourself[line=4]!!"
+\
+cl a,lcartain,400
+`"[line=12]!"@
+` He disappears.@
+` No, he ran away.@
+` I can hear the sound of the grass as he runs.@
+` He is running into the forest.
+\
+`"[line=12]Oh."@
+` …… I let him get away.@
+` I could have definitely killed him, but I let him get away.@
+` Why?@
+` Part of me is angry[line=4]part of me thinks it was a good thing.
+\
+`"…… I can't let him get away."@
+` …… There is a trail of blood on the grass.@
+` I cut off one of his arms.@
+` His trail of blood will tell me exactly where he went.@
+` But if I don't hurry up, I might lose him.
+\
+monocro off

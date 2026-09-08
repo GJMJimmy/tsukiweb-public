@@ -1,0 +1,192 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_50",notrans,0
+`"…… This can't be good as it is.@ Senpai, hey!"@
+` I hurry after her.@
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*2"
+ld c,"tachi/cel_t12",lshutter,800
+`"Oh?@ Tohno-kun, fifth period will start soon you know.@ You should hurry back to class."@
+`"Idiot, the same goes for you.@ Why are you out here in the courtyard[line=3]"@
+` …… I see.@
+` She's only pretending to be a student, so she doesn't really need to go to class.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Hehe, that's right.@ I will be late to fifth period too.@ I thought I would skip the rest of class, but maybe I should seriously attend class after all."@
+` Senpai smiles happily.@
+`"…… Senpai?@ Don't tell me, you've been taking classes……?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Of course I was!@ I wouldn't be dressed like this if I wasn't!"@
+` …… She seems quite angry.
+\
+`"[line=4]Ha, haha."@
+`"Hey, what's so funny, Tohno-kun!?"@
+`"No, it's just[line=3]so happy and so angry, I knew that you really were Ciel-senpai after all."@
+` I really am happy.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Huh?@ I am me, but why would that make you laugh, Tohno-kun?"@
+`"Ah, it's nothing.@
+` More importantly, Senpai.@ About, um.@ Arcueid[line=3]"@
+ld c,"tachi/cel_t07a",crossfade,400
+\
+`"[line=3]Ugh."@
+` In a flash, Senpai looks up at me with emotionless eyes.@
+` …… It's hard to speak.@ It's hard to speak, but this is why I came after her.
+\
+`"…… Please listen to me without getting angry.@ You told me to stop, but I just can't leave this vampire thing alone."@
+ld c,"tachi/cel_t06a",crossfade,400
+` …… Uh-oh.@ Her emotionless eyes seem to become tinged with anger.
+\
+`"…… Anyways, I can't just ignore this vampire.@ But I kind of broke up with Arcueid because of yesterday, and I can't do anything without help.@
+` So[line=3]if you're looking for this vampire, can I help you?"@
+br
+` …… Senpai is quiet.@
+` She takes a deep breath.@
+ld c,"tachi/cel_t04",crossfade,800
+`"I refuse."@
+` And says so with a smile.
+\
+`"You refuse?@ Why!?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Of course I would!@ Tohno-kun, don't you remember almost being killed by her!?@
+` Hunting vampires means being in continual danger of death.@ I will not let you be involved in such a thing, Tohno-kun!"@
+`"[line=3]I know, but I'm saying I'm prepared for that!@ I might not look like it, but I've experienced many near-death situations.@ I can at least protect myself!"
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Um, Tohno-kun.@ How can you say that?@
+` I will admit that you have very good athletic abilities.@ Even though you have a weak constitution, your body itself is excellent."@
+` Slumping her shoulders, Senpai says something very surprising.@
+`"…… R, really?"@
+` The tension seems to disappear, and I blurt that out in response.
+\
+`"Yes.@ Tohno-kun, you got naked when you spent the night at my house.@ I saw you then.@ Not flabbiness, but tight muscles.@
+` You were far away, but I thought your body was very well-formed."@
+`"…… Naked[line=5]But I, didn't get naked."@
+`"Did you forget?@ Tohno-kun, did you not change before you entered the bath?"@
+` Ah, that's right.@
+` Certainly I did take off my clothes and had her wash them for me[line=3]
+\
+`"Senpai, I didn't know you were someone who likes to peek at people who are changing."@
+ld c,"tachi/cel_t11",crossfade,400
+`"[line=3]Eh, no, that was, just an accident, I, um, happened to see it, and was a little curious, and thought maybe it would be alright…"@
+` Her face turns a deep red as she stammers her excuses.@
+` …… I guess she's remembering what she saw that time.
+\
+ld c,"tachi/cel_t08b",crossfade,400
+`"Geez, look!@ No matter how good your body is Tohno-kun, ordinary people cannot stand up against a vampire."@
+` Oh, that's why she doesn't want me to fight.@
+cl c,crossfade,400
+\
+`"I see.@ Then, it's no problem."@
+` I take off my glasses.@
+br
+bg "bg/bg_05b",crossfade,800
+br
+` I take out my knife.@
+bg #9c0120,crossfade,400
+bg "bg/bg_05b",crossfade,400
+br
+` My headache starts to flare up.@
+` Resisting that, I cut an appropriate "line" on a nearby tree.
+\
+bg "bg/bg_05a",crossfade,400
+ld c,"tachi/cel_t09",crossfade,400
+`"Tohno-kun, that[line=3]"@
+`"…… That's how it is.@ Sorry, but my eyes aren't normal.@
+` Arcueid told me I can see the 'death' of things, and they're called something like the Mystic Eyes of Death Perception."@
+` Her eyes widen as she takes it all in.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=2]I, see.@ So it isn't the knife that's special, but it's you, Tohno-kun."@
+`"…… Not special.@ It's just a side effect of an accident I had."@
+`"[line=3]That is why she was so interested in you.@ Your eyes have too much power for an individual to have."@
+` She suddenly seems drained of all energy.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Certainly, with that kind of power, it is more dangerous to leave you alone Tohno-kun.@
+` And even if I did refuse, you would probably search for the vampire yourself anyway, and he[line=3]couldn't afford to ignore you."@
+`"Senpai……?@ You mean[line=3]"
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Yes.@ I do not want you to be involved, but it's too late.@ I cannot deny that you have any connection to this any longer."@
+`"So, it's okay if we go after this vampire together?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Yes.@ I am prepared to do that."@
+` Senpai extends a hand.@
+` But I can feel it's different than when we shook hands in the cafeteria.
+\
+`"[line=5]"@
+` Of course, I take her hand.@
+` Our hands meet briefly, and the handshake is over.@
+br
+ld c,"tachi/cel_t03",crossfade,400
+`"This makes us a team now.@ I am counting on you Tohno-kun, so please count on me.@
+` From now on, the two of us will hunt down the vampire in this city."@
+` She speaks with a gentle smile.@
+` As I nod wordlessly, the chime sounds, signaling the end of lunchtime.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"After classes, please come to the tea ceremony room.@ We can talk more then."@
+cl c,lshutter,400
+` Senpai runs towards the school building.@
+` I'm late too, so I run as well.
+\
+bg #000000,lcartain,800
+playstop
+!w1000
+bg "bg/bg_06b",crossfade,1500
+` The end of the day homeroom session is over.@
+` My chattering classmates all get up from their seats.@
+` I usually just linger until the chaos has passed over, but today I stand up with everyone else.
+\
+bg #000000,lcartain,400
+bg "bg/bg_11b",lcartain,400
+` I quickly walk out of the classroom.@
+` I head for the tea ceremony room.@
+` A lot has happened between Senpai and me, but it really turned out well.@
+` I'm glad to be able to help her, and I can be more assured than I was fighting by myself.@
+br
+` But, more than that[line=3]I'm excited just to have the chance to be with Senpai once more.
+\
+br
+` I breathe hard[line=4]
+br
+` I dash towards the tea ceremony room.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09b",lcartain,800
+` There isn't anyone here.@
+` It seems like she hasn't come here yet.@
+br
+` …… *pant*…… *pant*.@
+br
+` …… I think I got too excited.@
+` Sitting down on the tatami mat, I catch my breath.
+\
+br
+` …… *pant*…… *pant*…… *pant*.@
+br
+` My heated body doesn't cool off that easily.@
+` I painfully gasp for air.@
+` My body is drenched in sweat, and I feel terrible.
+\
+br
+` My gasping fills the air.@
+br
+` There's[line=3]something weird.@
+` I've been resting for a while, but my breathing is getting worse.@
+` In the first place, why is my body tired after only running this little distance……?
+\
+monocro #ff0000
+bg "bg/bg_09b",crossfade,400
+play "*4"
+quakey 2,100
+br
+`"[line=3]Gah!?"@
+br
+` Suddenly,
+` pain fills my chest.
+\

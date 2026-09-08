@@ -1,0 +1,16 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_08b",notrans,0
+` [line=4]Tenho que procurar pela Arcueid.@
+br
+` Independente do quão impossível pareça, independente do quão desesperada seja minha ideia, é a única coisa em que consigo pensar.@
+` Vou continuar procurando até encontrá-la.@
+` Eu não posso abandoná-la, e não posso deixar que[line=4]ela resolva as coisas com o Roa sozinha.
+\
+`"[line=4]É isso que vou fazer."@
+` Estou decidido.@
+` Não vou mais perder meu tempo aqui.@
+` Vou para o centro da cidade neste minuto, e mesmo que signifique procurar uma agulha em um palheiro, eu tenho que encontrar a Arcueid[line=4]
+\
+bg #000000,lcartain,800

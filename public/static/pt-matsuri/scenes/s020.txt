@@ -1,0 +1,510 @@
+phase #000000,r,others,pro,0
+bg #ffffff,crossfade,800
+bg "bg/bg_51",crossfade,800
+wait 1000
+bg "bg/bg_51b",crossfade,800
+waveloop se_11
+` Quando acordo, percebo que estou em uma cama de hospital.@
+` A cortina da janela balança gentilmente.@
+` Está um belo dia lá fora,
+` o vento seco indica o final do verão.
+\
+`"Olá, Tohno Shiki-kun.@ Parabéns pela sua recuperação."@
+br
+` Um senhor desconhecido estende sua mão para me cumprimentar.@
+` Seus óculos de aro-quadrado e seu sorriso lhe são muito condizentes.@
+` Suas roupas brancas também lhe caem perfeitamente.
+\
+`"Shiki-kun, você consegue entender o que estou dizendo?"@
+`"…… Sim.@ Por que estou em um hospital?"@
+`"Você não se lembra, não é mesmo?@ Você foi atingido por um carro enquanto caminhava pela rua.@
+` Seu peito foi perfurado por um caco de vidro e era muito improvável que sobrevivesse."@
+` Muito impróprio um médico dizer uma coisa dessas, mesmo assim ele diz e sorri.
+\
+br
+br
+br
+br
+br
+br
+` [line=6]Horrível.@
+`     Estou me sentindo horrível.
+\
+`"…… Estou cansado.@ Posso dormir?"@
+`"Sim, você deve descansar.@ Você precisa se concentrar em sua recuperação e não deve se esforçar."@
+` O médico ainda está sorrindo.@
+` Para ser sincero, não suporto mais esse sorriso…
+`"Doutor, posso te perguntar uma coisa?"@
+`"O que é, Shiki-kun?"@
+`"Por que há rabiscos por todo seu corpo?@ E há rachaduras por todas as paredes… Por que há rachaduras nas paredes?"@
+br
+` Seu sorriso desaparece por um breve instante, mas retorna quase que imediatamente.@ Ele se vira e começa a sair do quarto.
+\
+`"[line=3]Parece que houve algum dano cerebral.@ Coloque-me em contato com o Dr.Ahiya da neurologia.@ Eu também suspeito que ele pode ter lesionado os olhos.@ Examine-os de tarde."@
+br
+` O médico sussura para a enfermeira, para que eu não possa ouvi-lo.
+\
+bg #000000,lshutter,1500
+bg "bg/bg_51b",lshutter,800
+`"……… Que esquisito.@ As pessoas estão cheias de rabiscos por todo o corpo."@
+` As linhas pretas fazem zigue-zague por todo o chão, pelas paredes, pelo teto…
+` Eu não entendo o que elas significam, mas olhá-las me deixa enjoado.@
+`"…… O que significa isso!?"@
+` A cama também está cheia desses rabiscos.@
+` Quando encosto o dedo na linha, ele afunda para dentro da rachadura.@
+`"[line=3]Ah!"@
+` Parece que vou conseguir chegar mais fundo com algo mais estreito.@ Pego a faca de cortar frutas de cima da mesa de cabeceira e enfio ela na linha.
+\
+` Não coloco força na mão, mesmo assim a faca afunda.@
+` Foi divertido, então resolvo passar a faca por toda a linha.@
+br
+` BAM!@
+br
+` Com um baque, a cama é partida ao meio.@
+`"Kyaaaah!"@
+br
+` A garota deitada na cama ao lado solta um grito.@
+` As enfermeiras vêm correndo e tomam a faca de mim.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_55b",crossfade,1500
+`"Como você quebrou a cama, Shiki-kun?"@
+br
+` Os médicos não perguntam o motivo, só perguntam COMO eu fiz isso.
+\
+`"Eu passei a faca pela linha preta e a cama quebrou.@ Ei, por que este hospital está cheio de rachaduras?"@
+`"Shiki-kun, você deveria parar de falar isso.@ Não há rachaduras em lugar algum.@
+` Agora me diga, como você quebrou a cama?@ Pode me contar, prometo que não vou ficar bravo."@
+`"[line=3]Mas eu já contei, tudo que fiz foi passar a faca pela linha preta…"@
+`"…… Entendo.@ Certo, continuaremos esta conversa amanhã."@
+br
+` O médico se retira.@
+` No final das contas, ninguém acreditou na minha história.
+\
+wavestop
+bg #000000,lcartain,800
+bg "bg/ima_06",lcartain,800
+` Quando eu passo a faca nessas linhas, posso cortar qualquer coisa.@
+` Nem preciso me esforçar muito.@
+` É tão fácil quanto cortar papel com tesoura.@
+` A cama, a cadeira, a mesa, as paredes, o chão.@
+br
+` ……Eu nunca tentei mas, provavelmente… não, com certeza, até mesmo pessoas.
+\
+` Mas parece que mais ninguém pode ver estas linhas.@
+` Somente eu posso vê-las.@
+` Apesar de ser apenas uma criança, pouco a pouco fui entendendo o que as linhas significavam.@
+` Elas são como pontos.@
+` Pontos que impedem um machucado de se abrir após uma cirurgia, acho que são como 'pontos fracos'.@
+` Afinal, seria impossível eu conseguir cortar essas coisas com a minha própria força, já que sou apenas uma criança.@
+br
+` [line=4]Eu não sabia até agora.@
+br
+` Que o mundo está coberto por estas linhas, estas "linhas que se quebram" são o que conecta tudo neste mundo.
+\
+` Ninguém mais pode vê-las.@
+` E por isso elas estão bem protegidas.@
+` Mas eu consigo vê-las.@
+` Estou assustado… tão assustado que não consigo nem falar…@
+` É como se eu fosse o único que ficou louco.
+\
+` Talvez… seja esse o motivo.@
+` O motivo de ninguém acreditar em mim, mesmo depois de duas semanas.@
+` Mesmo depois de duas semanas, ninguém veio me visitar.@
+br
+` Mesmo depois de duas semanas,
+` continuo vivendo sozinho em um mundo cercado por linhas pretas…
+\
+bg #000000,crossfade,1500
+` Preciso sair daqui… não quero mais ficar neste quarto.@
+` Não quero ficar em um lugar cheio de linhas pretas por todos os lados.@
+` É por isso que decidi fugir para algum lugar onde não haja ninguém.@
+br
+` Mas o ferimento no meu peito ainda dói, por isso não consegui chegar muito longe.@
+` Foi quando eu percebi.@
+` Estou no gramado do lado de fora da cidade... Realmente não cheguei muito longe.
+\
+`"…… *cof cof*"@
+br
+` Meu peito está doendo… e estou tão triste… que caio de joelhos no chão e começo a tossir.@
+br
+` *cof cof* *cof cof*@
+br
+` Não tem ninguém aqui.@
+` Afogando-me neste oceano de verde no fim do verão,
+` sinto como se estivesse prestes a desaparecer.@
+br
+` Mas antes que isso aconteça.@
+br
+`"Ei, você.@ É perigoso ficar sentado em lugar destes."
+\
+bg "bg/cmo_01",lshutter,400
+play "*7"
+br
+` Ouço a voz de uma mulher vindo de trás de mim.
+\
+`"Hã………?"@
+`"Não é 'hã' que eu quero ouvir como resposta.@ Você já é nanico, não vou conseguir te enxergar se estiver sentado na grama.@ Faltou pouquinho para eu te chutar para longe, tome mais cuidado."@
+` Ela aponta para mim, um pouco irritada.@
+` …… Eu fico nervoso.@
+` Na escola, eu sento na quarta cadeira da frente, não sou tão baixinho assim.@
+`"Eu ia ser chutado?@ Por quem?"@
+`"Não é óbvio, idiota?@ Nós dois somos os únicos que estão aqui, quem mais poderia ser?"@
+` Ela diz isso toda confiante, com os braços cruzados.
+\
+`"Bem, deve ter sido obra do destino termos nos encontrado aqui.@ Vamos conversar um pouquinho?@ Meu nome é Aozaki Aoko.@ Qual é o seu?"@
+` Ela estende a mão para mim, com uma alegria no rosto que se mostraria apenas para um velho amigo.@
+` Não tenho motivos para recusar sua gentileza, por isso digo a ela que meu nome é Tohno Shiki e aperto sua mão fria.
+\
+bg #000000,lshutter,800
+bg "bg/cmo_02",lshutter,800
+` Conversar com ela era muito divertido.@
+` Ela não ignorava o que eu dizia só porque eu era criança.@
+` Ao invés disso, ela me ouvia… ela ouvia o que eu tinha para falar, como uma amiga.
+\
+` Nós conversávamos sobre muitas coisas.@
+br
+` Sobre a minha família.@ Sobre como ela era uma família antiga e respeitada, com regras muito severas e tradicionais.@ Conversávamos também sobre meu pai, que também era uma pessoa muito severa.@
+` Sobre a minha irmãzinha, Akiha… que era uma garotinha muito tímida e que sempre me seguia para todos os lugares.@
+` Sobre a nossa mansão enorme e seus jardins vastos.@ Sobre como a Akiha e eu brincávamos com nossos amigos.@
+br
+` [line=3]Contei a ela sobre muitas coisas, sempre muito animado.
+\
+`"Oh, já está tarde assim!?@
+` Desculpe-me, Shiki.@ Preciso resolver alguns assuntos, vamos ter que parar por aqui."@
+` Ela se levanta para ir embora.@
+` …… Sinto um aperto no peito, uma tristeza, só de pensar que vou ter que ficar sozinho de novo.@
+bg "bg/ima_05",crossfade,800
+br
+`"Até amanhã.@ Vou estar te esperando aqui, tá bom?@ Você devia voltar para o seu quarto e obedecer seu médico."@
+`"Ah…"@
+` Ela fala com muita naturalidade enquanto se retira.
+\
+`"…… Até amanhã."@
+` Amanhã vamos conversar de novo, assim como fizemos hoje.@
+` Estou feliz.@
+` Foi a primeira vez que me senti vivo novamente desde que acordei após o acidente.
+\
+bg #000000,crossfade,800
+` Desde aquele dia, ir até aquele campo gramado durante a tarde tornou-se parte da minha rotina diária.@
+` Ela sempre ficava brava quando eu a chamava de "Aoko".@
+` Por alguma razão, parecia que ela odiava o seu próprio nome.@
+` Depois de pensar um pouco, decidi que ela parecia uma pessoa muito importante e inteligente, por isso comecei a chamá-la de "Sensei".
+\
+` A Sensei me ouvia atentamente, independente do que eu tinha a dizer.@ Ela sempre acabava com a minha ansiedade com apenas uma palavra, sem nunca falhar.@
+` …… Eu estava deprimido desde o acidente, mas lentamente, graças à Sensei, eu fui voltando ao normal.@
+` Até mesmo aqueles rabiscos negros que estavam por todos os lados deixavam de ser tão assustadores quando eu estava conversando com ela.@
+` Eu não sabia quem ela era ou de onde veio... talvez ela fosse uma professora de verdade.@
+br
+` Mas para mim, isso não importa.@
+` Porque é divertido ficar com a Sensei.@
+` É só isso que importa… e isso é mais do que suficiente.
+\
+bg #000000,crossfade,400
+bg "bg/cmo_02",crossfade,400
+`"Ei, Sensei!@ Olha o que eu consigo fazer!"@
+br
+` Um dia quis surpreendê-la.@ Peguei a faca de cortar frutas que trouxe do hospital e cortei uma árvore que crescia no campo.@
+` Assim como antes, passei a faca pela linha preta e fiz um corte limpo em sua base.@
+bg #000000,lshutter,400
+`"É incrível, não é?@ Eu posso cortar qualquer coisa facilmente, só preciso passar a faca nestes rabiscos.@ Ninguém mais consegue fazer isso, né?"@
+`"Shiki…!"@
+br
+` Ela me dá um tapa no rosto.
+\
+bg "bg/cmo_03",lshutter,400
+`"Sen… sei?"@
+`"…… O que você acabou de fazer foi algo extremamente imprudente."@
+` Ela me olha de forma severa.@
+br
+` …… Eu não entendi,
+` mas percebi que fiz algo que não deveria ter feito.@
+br
+` A expressão severa da Sensei e a dor do tapa que levei na bochecha,
+` me fez sentir muita tristeza.
+\
+`"…… Desculpe-me."@
+` Quando me dei conta, eu já estava chorando.@
+`"[line=5]Shiki."@
+br
+bg #000000,crossfade,400
+` Então, uma sensação suave e quente me envolveu.@
+br
+`"…… Não precisa pedir desculpas.@
+` É verdade que você fez algo que deveria ter me deixado muito brava, mas não é sua culpa."@
+` A Sensei se agacha e me abraça.
+\
+`"Mas se ninguém te ensinar a diferenciar o certo do errado agora, um dia você vai cometer um erro que nunca poderá ser consertado.@
+` É por isso que não vou pedir desculpas pelo que fiz… você pode me odiar o quanto quiser."@
+`"…… Não, eu não te odeio, Sensei."@
+`"…… Sério?@ Fico feliz que não me odeie… realmente só pode ter sido obra do destino termos nos encontrado aqui."@
+` A Sensei começou a me perguntar sobre os rabiscos que eu conseguia ver.@
+` Enquanto contava a ela sobre as linhas pretas e tortas que só eu conseguia ver, o abraço da Sensei foi ficando mais forte.
+\
+`"…… Shiki, o que você vê é algo que não deveria ser visto por ninguém.@
+` Todas as coisas neste mundo possuem pontos onde podem ser facilmente destruídas.@ Nós, que seremos destruídos um dia, somos imperfeitos por esse motivo.@
+` Seus olhos possuem a habilidade de ver o destino de todas as coisas… simplificando, você pode ver o futuro."@
+`"…… Ver…… o futuro?"@
+`"Isso mesmo.@ Você pode ver a morte.@
+` …… Você não precisa saber mais do que isso.@
+` Se algum dia tiver que trilhar esse caminho, os princípios se tornarão claros para você como algo necessário."
+\
+`"…… Sensei.@ Eu não entendi…"@
+`"Isso é bom, é importante que não entenda agora.@
+` O que você precisa entender agora é que nunca deve cortar essas linhas por capricho ou por brincadeira.@
+` [line=3]Se fizer isso, seus olhos vão começar a menosprezar as vidas das pessoas e isso seria a pior coisa que poderia acontecer."@
+`"…… Certo.@ Como você está me pedindo, não vou fazer isso.@ Além disso, meu peito dói quando corto as linhas.@ …… Desculpe-me, Sensei.@ Nunca mais vou fazer isso de novo."@
+`"…… Que bom, Shiki.@ Nunca se esqueça dos sentimentos que experimentou hoje.@ Se você continuar como é hoje, tenho certeza de que encontrará a felicidade."@
+br
+` A Sensei finalmente me solta.
+\
+bg "bg/ima_05",crossfade,400
+`"Mas Sensei, fico preocupado por ser capaz de ver essas linhas.@
+` Elas serão cortadas assim que eu percorrê-las com o dedo, certo?@ Então não seria estranho se tudo à minha volta se desfizesse a qualquer momento."@
+`"Você tem razão.@ Mas eu vou te ajudar com isso… parece que foi por isso que nos conhecemos aqui."@
+` Ela suspira e, em seguida, me presenteia com um sorriso aconchegante.@
+`"Shiki, amanhã vou te dar um presente muito especial.@ Vou te devolver a sua antiga vida, aquela que você estava vivendo antes do acidente."
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/cmo_01",lshutter,800
+` No dia seguinte.@
+` Exatamente no sétimo dia depois de ter conhecido a Sensei, ela chega no gramado carregando uma mala enorme em uma das mãos.
+\
+`"Aqui está.@ Se você colocá-los, esses rabiscos estranhos não serão mais visíveis."@
+` O que ela me deu foi um par de óculos.@
+`"Mas eu não tenho problemas de vista."@
+`"Apenas coloque-os.@ As lentes não têm grau."@
+` Ela coloca os óculos no meu rosto.@
+` De repente[line=3]
+\
+`"Uau!@ Incrível!@ Isso é incrível, Sensei!@ Não vejo mais os rabiscos, nenhum deles!"@
+`"Mas é claro.@ Eu tive um pouco de trabalho para roubar o Inibidor de Olhos Místicos da minha irmã mais velha e criar esta "obra-prima da Aozaki Aoko"!@ Então cuide bem deles, senão todo o trabalho que tive não terá valido a pena, entendido?"@
+`"Sim!@ Vou cuidar muito bem deles!@ Você é incrível, Sensei!@ Você fez aquelas linhas horríveis desaparecerem só com isso!@ Parece mágica!"@
+br
+`"Mas é claro, eu sou uma feiticeira."@
+br
+` Com um sorriso orgulhoso, ela coloca a mala no chão.
+\
+`"Mas você precisa saber de uma coisa, Shiki.@ Aquelas linhas não desapareceram.@ Você apenas não está vendo elas.@ Se tirar os óculos, voltará a vê-las."@
+`"[line=3]S-sério?"@
+`"Sim.@ Isso é algo que não pode ser corrigido.@ Sua única escolha é continuar vivendo com os olhos que possui agora."@
+`"……… Não.@ Eu não quero esses olhos assustadores.@ Se eu cortar aquelas linhas de novo, vou quebrar minha promessa com você."@
+`"Oh, quer dizer que você nunca mais vai cortar aquelas linhas?@ Bobinho, você pode quebrar essa promessa quando quiser."@
+`"…… Sério?@ Mas você disse que era algo que eu não deveria fazer."
+\
+`"Sim, eu disse mesmo.@
+` Mas este é o seu dom.@ É seu para usar como quiser.@ Ninguém além de você mesmo, tem o direito de te julgar.@
+` Mas de todas as habilidades que alguém pode ter, a sua é única.@
+` Se você possui esse poder, há um significado por trás disso.@
+` Deus não nos dá poderes sem motivo.@
+` Podemos dizer que você recebeu os Olhos Místicos de Percepção da Morte, porque chegará um dia em que precisará usá-los.@
+` É por isso que você não deve viver negando a existência deles."@
+` A Sensei se agacha para que nossos olhos estejam no mesmo nível.
+\
+bg #000000,lshutter,1500
+bg "bg/cmo_04a",lshutter,1500
+`"Shiki, nunca se esqueça.@
+` Você é um garoto muito gentil e sincero.@
+` Enquanto continuar sendo assim, seus olhos nunca farão o mal."
+\
+`"Mas não estou te dizendo para virar um santo.@
+` Apenas seja verdadeiro consigo mesmo e torne-se o homem que você achar ser o ideal.@
+` Já que você consegue admitir seus erros e é capaz de pedir desculpas, eu sei que daqui há uns dez anos, você vai se tornar um ótimo rapaz."@
+br
+` Depois de dizer essas palavras,
+` a Sensei se levanta e vai até sua mala.
+\
+`"Ah, mas devo dizer que, a não ser em circunstâncias excepcionais, você não deve tirar os óculos.@
+` Poderes especiais atraem outros poderes especiais.@
+` Somente quando você decidir que não há outro jeito é que deve tirá-los, e mesmo assim, pense bem em como vai usar seu poder.@
+` O poder, em sua essência, não é algo maligno.@ A maldade existe apenas nos corações daqueles que possuem o poder.@ Seja para fazer o bem ou para fazer o mal, vai depender de você e das escolhas que fizer."@
+br
+` Ela pega a mala.@
+br
+` [line=3]A Sensei não diz mais nada,
+` bem no fundo, eu sabia que teríamos que nos despedir.
+\
+`"[line=3]É impossível, Sensei.@ Não posso fazer isso… não vou conseguir entender sozinho.@
+` A verdade é que eu estava morrendo de medo antes de te conhecer.@ Só fui capaz de voltar ao normal porque você estava comigo…
+` …… Eu não vou conseguir.@
+` Nem mesmo com estes óculos.@ Se você for embora, eu não vou conseguir…!"@
+`"Se você contar mentiras que nem mesmo você consegue acreditar, a única coisa que vai conseguir é deixar triste qualquer um que te ouvir."@
+` A Sensei levanta as sobrancelhas com desgosto e cutuca a minha testa.
+\
+`"[line=3]Você sabe muito bem disso, não é?@
+` Está tudo bem com você agora.@ Então não diga besteiras e não desista da sua identidade que acabou de encontrar.@ Somente você pode decidir quem quer ser, ninguém pode fazer isso por você."@
+br
+` Ela se vira.
+\
+`"Bem, isso é um adeus.@
+` Ouça, Shiki.@ A vida não é fácil; ela é uma estrada longa, pedregosa e cheia de armadilhas.@
+` Você tem mais poder do que qualquer um para fazer algo quanto a tudo isso, portanto você tem que se manter firme."@
+` Ela está indo embora.@
+` Estou triste, mas sou amigo da Sensei, então tenho que me despedir adequadamente.
+\
+`"Certo.@ Adeus, Sensei."@
+`"Muito bem… Isso mesmo, Shiki.@ Agarre-se a essa confiança e sempre seja sincero consigo mesmo.@
+` Quando estiver com problemas, acalme-se e pense com cuidado.@ Entendeu?@ Você sempre conseguirá encontrar uma solução se fizer isso.@
+` Vai ficar tudo bem.@ Você vai conseguir, mesmo estando sozinho."@
+` Ela ri com uma expressão muito feliz.
+\
+bg "bg/cmo_04b",crossfade,1500
+wait 2000
+bg "bg/ima_03",lshutter,800
+` O vento sopra.@
+` O gramado balança junto com ele.@
+` A Sensei já foi embora.@
+br
+`"…… Adeus, Sensei."@
+br
+` Depois de dizer isso, realmente senti que não a veria novamente.@
+` Tudo que restou foram suas palavras, muitas palavras.@ E também estes óculos misteriosos.@
+` Foram apenas sete dias, mas ela me ensinou coisas mais valiosas do que qualquer outra pessoa.
+\
+` Enquanto permanecia sozinho naquele campo gramado, sentia as lágrimas enchendo meus olhos.@
+br
+` [line=3]Nossa, como fui tolo.@
+br
+` Eu só consegui dizer adeus.@
+` Eu não consegui dizer sequer uma única palavra de agradecimento.
+\
+bg #000000,crossfade,1500
+` Eu saí do hospital logo depois disso.@
+` E não voltei para a mansão da família Tohno.@ Fui levado para viver com alguns parentes.@
+` Mas está tudo bem.@
+` Tohno Shiki ficará bem, mesmo sozinho.@
+` Vou começar uma vida nova com a minha nova família.@
+br
+` E assim, o nono verão de Tohno Shiki chegou ao fim.@
+` O novo outono chegou e acho que amadureci um pouco……
+\
+playstop
+bg #000000,crossfade,1500
+!w2000
+phase "bg/bg_06a",r,ark,01a,1
+br
+br
+br
+` [line=5]Outono.@
+br
+` Os últimos resquícios do verão desaparecem hoje.@ Uma quinta-feira no meio de outubro.@
+` Este é o dia em que eu, Tohno Shiki, volto para a minha casa.@ Já faz oito anos desde que a deixei.
+\
+!w1000
+bg #ffffff,crossfade,800
+bg "bg/ima_03",crossfade,800
+play "*2"
+`"Shiki, apresse-se.@ Você vai chegar atrasado na escola."@
+` Ouço a voz da Keiko-san vindo da cozinha.@
+br
+`"Certo, estou indo~!" Eu respondo a ela.@
+br
+` Dentro do meu quarto na casa dos Arimas, eu junto as mãos em prece.@
+br
+`"Estou indo.@ Obrigado por me deixar viver aqui nesses oito anos."@
+` Clap Clap.@ Bato duas palmas finalizando meu agradecimento.@
+` Pegando a minha única pasta, saio do quarto que se tornou tão familiar para mim.
+\
+bg "bg/bg_57",lshutter,800
+` Passo pela entrada da casa dos Arimas e me viro para ela.@
+`"Shiki."@
+` A Keiko-san, que veio até a porta para se despedir de mim, chama o meu nome melancolicamente.@
+`"Até mais tarde.@ Cuide-se, mãe."@
+` Que coisa estranha de se dizer.@ Eu não vou mais voltar.@
+` Nunca mais vou passar por essa porta como um membro da família Arima.
+\
+`"Muito obrigado por cuidar de mim por todo esse tempo.@ Por favor, agradeça ao pai por mim."@
+` A Keiko-san apenas faz um gesto afirmativo com a cabeça.@
+` Oito anos[line=3]os olhos da pessoa que tem sido a minha mãe estão tão tristes.@
+` Acho que nunca tinha visto ela assim.@
+`"Tenho certeza de que será difícil para você na casa dos Tohnos.@ Por favor, cuide-se.@ Seu corpo é frágil; você não deve se esforçar demais."@
+`"Eu vou ficar bem.@ Depois de oito anos, sou tão saudável quanto qualquer outra pessoa.@ Sou muito mais forte do que pareço."@
+`"Sim, acho que tem razão, mas… os Tohnos são bem diferentes.@ Estou preocupada que talvez seja um fardo muito pesado para você morar naquele lugar."
+\
+` Eu entendo o que a Keiko-san quer dizer.@
+` De agora em diante, minha casa será uma mansão, algo incomum nos dias de hoje.@
+` Não é só a casa que é incrível, a família também é muito respeitada.@ Dizem que eles possuem muitos investimentos em diversas empresas.@
+` Para piorar as coisas, lá é o meu verdadeiro lar.@ Os Arimas só estavam cuidando de mim.@
+`"Mas já está decidido."@
+` Sim, é algo que já foi decidido.@
+`"Bem, então vou indo.@ Muito obrigado por cuidar de mim por todo esse tempo."@
+` Repito essas palavras uma última vez e viro as costas para a casa onde me acostumei a morar nesses últimos oito anos.
+\
+bg #ffffff,crossfade,800
+bg "bg/ima_05",crossfade,800
+` …… *suspiro*@
+` Com um aperto no coração, saio da casa dos Arimas e começo a caminhar na direção da escola.
+\
+br
+` [line=3]Há oito anos.@
+` Eu me recuperei de um ferimento grave, que normalmente teria resultado em morte.@ Logo depois fui confiado aos Arimas, parentes que fazem parte de uma ramificação da família Tohno.@
+` Eu morei com meus pais verdadeiros na mansão dos Tohnos até meus nove anos idade.@ Morei com os Arimas por oito anos, até hoje, enquanto estou cursando o segundo ano do ensino médio.
+\
+` Eu tive uma vida normal como filho adotivo.@
+` Desde o dia que encontrei a Sensei[line=3]aquelas circunstâncias excepcionais que ela me falou enquanto partia, nunca aconteceram.@ E enquanto eu os usar, os óculos continuarão escondendo as "linhas" de mim.@
+` A vida de Tohno Shiki foi pacífica.@
+` Ela seguia a correnteza tranquilamente…
+` …… até alguns dias atrás.@
+` Até o dia em que a chefe da família Tohno me enviou um recado.@
+` "Volte para a mansão dos Tohno."@
+` A mesma famílía que, até hoje, tinha me evitado.
+\
+bg "bg/bg_23a",lshutter,800
+` *suspiro*@
+` Eu suspiro outra vez.@
+` Para ser sincero, mesmo antes do acidente, eu nunca convivi muito bem com a família Tohno.@
+` Talvez seja porque eu era criança naquela época, mas nunca gostei da formalidade exigida pela família.@
+` E talvez seja por isso que não reclamei quando meu pai de verdade me disse que eu iria morar com os Arimas.
+\
+` No final das contas, acho que deu tudo certo.@
+` Eu me dei muito bem com os meus pais adotivos, a Keiko-San e o Fumio-San.@ Era como se eles fossem meus pais verdadeiros.@
+br
+` Eu tive uma vida normal como filho dos Arimas, uma família muito amorosa.@ Foi tudo do jeitinho que sempre desejei.@ Não me arrependo de ter vivido lá.
+\
+` …… Exceto por um único motivo.@
+` Minha irmã, um ano mais nova do que eu, que ficou para trás com os Tohnos.
+\
+`"Akiha.@… Aposto que ela me odeia agora."@
+` Seria completamente normal ela me odiar.@
+` Ela teve que viver sozinha naquela mansão, sob a supervisão constante daquele velho cabeça-dura.@
+` Eu tenho uma ideia do que a Akiha pensou de mim, aquele que fugiu.@
+` Deixo escapar outro suspiro.@
+` Bem, não tem nada que eu possa fazer agora.@
+` O que tiver que ser, será.@
+` Hoje, depois da escola, vou voltar para a minha casa de verdade.@ Só Deus sabe o que vai acontecer.
+\
+`"Mas agora, tenho problemas mais urgentes."@
+` Meu relógio mostra que são sete horas e quarenta e cinco minutos.@
+` A aula começa às oito horas em ponto e quem não estiver presente, será marcado como atrasado.@
+` Segurando minha pasta com mais força, começo a correr na direção da escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+` *huff*… *huff*… *huff*…@
+` Consigo chegar na escola em menos de dez minutos.@
+` Eu entro pelo portão dos fundos, realizando uma façanha que traria correndo os olheiros do time de atletismo, caso eles soubessem.@
+`"…… Pensando bem, hoje também é o último dia em que entro pelo portão dos fundos."@
+` As residências Arima e Tohno estão localizadas em direções opostas à escola, a dos Arimas fica atrás e a dos Tohnos fica na frente.@
+` Obviamente, vou começar a usar o portão da frente a partir de amanhã.
+\
+`"E eu meio que gostava da atmosfera solitária daqui."@
+` Por algum motivo, o portão dos fundos da nossa escola não é muito popular.@
+` Apenas umas dez pessoas, incluindo eu, o usam.@ É muito tranquilo e deserto, seja de dia ou de noite.@
+br
+` Clang!@ Clink, Clink, Clang!@
+br
+` …… Como eu dizia, é bem tranquilo.@
+` O som de um martelo misturado com o canto de pássaros, chega até os meus ouvidos.@
+`"Marteladas… Hein?"
+\
+` Clang!@ Clink!@ Clong!@
+br
+` O barulho meio ritmado vem de um canto do pátio.@
+` "…………"@
+` O que é isso?@
+` A aula começa em menos de dez minutos.@
+` Eu não tenho tempo para parar e descobrir o que está acontecendo, mas estou muito curioso.@
+` Então[line=3]
+\
+playstop

@@ -1,0 +1,45 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_15c",notrans,0
+br
+` [line=4]Me niego.@
+` No puedo enfrentarme a ese monstruo.@
+` Ella me pidió que fuese su escudo y la custodiara mientras dormía, pero ni siquiera eso pude hacerlo bien.@
+` Y aunque decidiera pelear a su lado, probablemente sólo sería un estorbo.
+\
+`"Arcueid.@ Lo siento, pero no puedo.@ Él es demasiado diferente.@ Aun si peleo con él, no podría hacerle siquiera un rasguño."@
+ld c,"tachi/ark_t11",crossfade,400
+`"¿Qué?@ ¿En serio…?"@
+` …… No sé de dónde saca esa conclusión, pero ella ladea su cabeza como si dudase de mí.
+\
+`"…… Me alegra que me tengas tanta confianza, pero no puedo hacerlo.@ Nuestra promesa fue que te cuidaría sólo por una noche.@ No quiero tener nada más que ver con ese monstruo."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hmm, puede que sea demasiado tarde.@ Nrvnqsr te conoció.@ Aunque no sigas conmigo, no creo que él vaya a dejarte en paz."@
+` Ella habla relajadamente como si se refiriese a terceras personas.
+\
+`"Qué[line=6]"@
+` Digo sin querer, y entonces comprendo.@
+` El vampiro Nrvnqsr es el que está asesinando gente en esta ciudad.@ No hay razón para que me deje en paz una vez que haya visto su rostro.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Pero soy más rápida que Nrvnqsr.@ Él no se puede mover durante el día, y tú estás justo frente a mí, así que la situación está abrumadoramente a mi favor."@
+`"…… ¿Qué quieres decir?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Oh, nada.@ Sólo estaba pensando que si vas a escapar, te mataría aquí mismo."@
+` Arcueid sonríe mientras bromea, pero también parece seria.
+\
+`"U…………, gh."@
+` Su sonrisa no desaparece.@
+` …… En verdad parece decidida a obligarme.@
+cl c,crossfade,400
+\
+`"………… Mujer diabólica."@
+` …… Estoy atrapado.@
+` Si voy a ser atacado de cualquier forma, entonces no tengo más opción que ayudar a Arcueid.@
+` Miro hacia el techo y respiro profundamente.@
+` Afortunadamente, eso me prepara un poco para lo que está por venir.
+\
+`"De acuerdo, estoy listo.@ …… Ahora que lo pienso, no ha habido forma de escapar desde que te conocí.@ Habiendo llegado tan lejos, supongo que no tengo más opción que seguir hasta el final."
+\
+bg #000000,crossfade,800

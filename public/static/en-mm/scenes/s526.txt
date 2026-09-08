@@ -1,0 +1,63 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@
+` Congratulations!@ It's Ciel-san's Good Ending!@
+br
+` …… Eh?@
+` ………… Huh?@
+` ………… Huh?@ Huh???@
+` Wait just a minute!@
+` What is this?@
+` What is this ending!?
+\
+ld l,"tachi/ark_t30",crossfade,800
+`"……………………………… Sneak, sneak."@
+br
+` Hey you!@ Stop, you thief cat[line=4]!@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+!w1000
+ld l,"tachi/ark_t31a",crossfade,800
+br
+`"Owieeee!@ Don't be so violent!@ Ciel-sensei, you shouldn't resort to corporal punishment!"
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+ld r,"tachi/cel_t20",lshutter,400
+` [line=4]Dismissed.@
+` …… Oh, geez, okay!@
+` Each heroine has two different kinds of endings.@
+` This is Ciel-san's Good End.@
+` Please return to a previous choice and choose a different story!@
+` That will be the True End!
+\
+` Oh, and one more thing.@
+` Ciel-san's and Arcueid's routes are the Near Side of the Moon routes.@ But there is also a completely different story: the Far Side of the Moon routes.@
+` It is the "Tohno Family" routes, associating with people like Akiha-san.@
+` It seems difficult to know what requirement is needed to be able to choose this path, so I will give you a little hint.
+\
+` On the first day, you should not go meet Ciel-san.@
+br
+` It might be better to stay in your classroom during lunch.@
+br
+` And most importantly.@
+` I think that if you don't meet the vampire called Nrvnqsr, this current storyline will never happen.@
+` So first, how to cause the new storyline.@
+` During that specific time, if you do not try to perform that one action, a completely different event should be waiting for you.@
+br
+` Well then, let's meet again once more in the main story!
+\
+bg #000000,crossfade,800
+playstop

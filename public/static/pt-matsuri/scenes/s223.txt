@@ -1,0 +1,33 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_03a",notrans,0
+` …… Espera um pouco.@
+` Depois de tudo aquilo que aconteceu, a Senpai ainda me cumprimenta com seu sorriso de sempre!?@
+` Ontem à noite[line=4]se ela tivesse me visto enfrentando o Nrvnqsr, com certeza não seria capaz de me cumprimentar dessa forma.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Tohno-kun?@ Você não queria me fazer uma pergunta?"@
+`"Hum, espera um pouco."@
+` …… Pensando bem, a pessoa que me ajudou ontem talvez não seja parecida com a Ciel-senpai.@
+` Não pude dar uma boa olhada no rosto dela porque estava muito escuro, e o jeito daquela pessoa era completamente diferente.
+\
+`"Senpai, posso dar uma boa olhada no seu rosto?"@
+`"Humm, sim…?"@
+` Ela inclina a cabeça e me olha com curiosidade.@
+br
+` …… Humm.@
+` Agora que estou pensando com calma, aquela pessoa não se parece com a Senpai.
+\
+`"…… Desculpa, eu me enganei.@ Não era nada."@
+`"Você se enganou?@ Estou curiosa[line=2]Você se enganou em relação a quê?"@
+` Ela está me encarando.@
+`"Hum…… é, hummm."@
+` Desviando o olhar, tento esconder meu rosto corado.@
+` …… É constrangedor estar tão perto dela no portão da escola.
+\
+`"N-nada não.@ É que pensei ter visto uma pessoa parecida com você ontem à noite, mas acho que me enganei."@
+`"…… Humm, uma pessoa parecida comigo?"@
+` A Senpai parece muito interessada no assunto.@
+` Parece que ela não vai simplesmente esquecer desse assunto.
+\

@@ -1,0 +1,17 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_27b",notrans,0
+`「[line=3]等等。@学姐，你不是说过我可以随意的吗……？」@
+ld c,"tachi/cel_t01b",crossfade,400
+`「是的，远野君请随意」@
+`　学姐笑着点头。
+\
+`「……太好了，看来不是我的幻听啊。@那么，就在这里说再见吧。@别再跟着我了」@
+ld c,"tachi/cel_t07b",crossfade,400
+`「啊，我才不是跟着远野君什么的」@
+`「[line=3]那个，学姐？」@
+ld c,"tachi/cel_t01b",crossfade,400
+`「我只是有点事情要到公园里去做罢了。@远野君要去哪里我是不知道的啦，不过如果不是要去公园的话，那就在这儿说再见吧」
+\
+cl c,crossfade,400

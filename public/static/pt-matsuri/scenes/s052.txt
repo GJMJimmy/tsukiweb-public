@@ -1,0 +1,83 @@
+phase #000000,l,ark,13a,epi
+bg #ffffff,crossfade,1500
+play "*2"
+`"Shiki-sama, já amanheceu.@ Por favor, acorde."@
+br
+` …… Ouço uma voz familiar.
+\
+br
+`"Shiki-sama…… Por favor, acorde.@ Se você se atrasar como ontem, vai quebrar sua promessa com a Akiha-sama."@
+br
+` …… Uma voz meio tensa e meio relaxada.
+\
+`"Shiki-sama.@ Tudo bem assim?@ A Akiha-sama vai acabar te dando outro sermão."@
+br
+` …… Não, não está nada bem.@
+br
+`"…… Já acordei.@ Já acordei, já vou levantar."@
+` Ainda embaixo dos lençóis, respondo enquanto vou abrindo os olhos lentamente.
+\
+bg "bg/bg_40a",crossfade,800
+ld c,"tachi/his_t01",crossfade,400
+`"Bom dia, Shiki-sama."@
+`"Ah, bom dia."@
+` Cumprimento-a sonolento e coloco os óculos.@
+` Já passa das sete horas da manhã.@
+` A Hisui veio no seu horário habitual e conseguiu me acordar.@
+br
+`"Vou preparar seu café da manhã.@ Por favor, dirija-se à sala de estar depois de se trocar."@
+cl c,lshutter,800
+` Ela faz uma mesura e sai do quarto.
+\
+` Deixo escapar um bocejo bem demorado.@
+` Depois de uma boa espreguiçada, eu levanto da cama.@
+` Visto meu uniforme e olho para a mesa.@
+` …… Em cima dela está a faca que nunca mais vou usar.
+\
+` As cortinas balançam ao vento.@
+` A Hisui deve ter aberto a janela; o céu está muito azul e claro.@
+` Mas está meio frio.@
+br
+` Vou até a janela para fechá-la.
+\
+bg "bg/ima_03",lshutter,800
+br
+br
+br
+br
+br
+br
+` [line=4]No final das contas,
+` acabei acordando no meu quarto.
+\
+` Parece que a Senpai me carregou até aqui.@ Por sorte, a Akiha e as garotas não ficaram sabendo que saí.@
+` Já faz uma semana desde aquela noite.@
+` A vida de Tohno Shiki não mudou nada do que era antigamente.
+\
+` Minha relação com a Akiha fica meio complicada de vez em quando, mas é assim mesmo que tem que ser, pois somos irmãos.@
+` Exceto pelo corredor que está sendo reparado, a escola não mudou nada.@
+br
+` …… Não, mudou sim.@
+` Não existe nenhuma Senpai chamada Ciel em lugar algum e ninguém se lembra dela.@
+` Não houveram mais casos de assassinatos em série desde então.@ Como ninguém foi preso, as ruas da cidade continuam vazias de noite, mas provavelmente devem voltar ao normal em um mês.
+\
+` Quanto a mim,
+` carrego um vazio no coração que não pode ser preenchido, mas sigo em frente como antes.@
+` …… Ou melhor, consigo suportar tudo isso.@
+` Às vezes sou dominado pelas lembranças, mas acho que não vou ficar louco por enquanto.@
+br
+` Algum dia.@
+` Será que vou ficar louco por ser incapaz de suportar as lembranças, ou simplesmente vou voltar a viver uma vida normal depois de me acostumar com elas?
+\
+` Talvez as chances sejam iguais para as duas opções.@
+` [line=3]Mas até lá,
+` mesmo que seja meio infantil, vou manter a última promessa que fiz a ela.@
+br
+`"[line=4]O outono está terminando, não é mesmo?"@
+br
+` Esse belo céu azul é o bastante para me deixar sem fôlego.@
+` Respirando profundamente, fecho a janela.
+\
+bg #000000,crossfade,800
+playstop
+!w2000

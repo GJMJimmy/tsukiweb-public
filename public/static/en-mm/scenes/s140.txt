@@ -1,0 +1,123 @@
+monocro off
+wavestop
+bg "bg/bg_29b",notrans,0
+play "*3"
+`"Huh?"@
+` What does she mean by last night?@
+` I don't understand what she's talking about.@
+` After all, I'm the idiot who mistook Arcueid's words and made such a stupid mistake, so of course I don't understand what she is saying, and[line=3]huh?@
+br
+` Did Arcueid ask me who came last night[line=3]?
+\
+`"…… Arcueid.@ What do you mean by 'last night'?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hm?@ That's strange, I know I sent you a dream familiar."@
+`"Wait, what's that dream familiar thing?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Um, it's like a familiar that lets you see a dream about what you desire the most.@ You're a male, so I sent you a succubus.@ Wasn't it a good dream?"@
+cl c,crossfade,400
+`"I[line=5]"@
+br
+` A good dream?@ That was…
+\
+bg #ffffff,crossfade,400
+monocro #ffff00
+bg "event/ark_h02",crossfade,400
+monocro off
+bg "bg/bg_29b",crossfade,400
+` I remember the realistic dream I had and my face turns red.@
+`"You, that was your doing[line=3]!"@
+` Arcueid grins even more.@
+` [line=3]Crap.@
+` If I stayed quiet this conversation would have been over, but since I reacted so strongly[line=3]
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah, so you did get it.@ So, who came?@ I know, it was your sister, right?"@
+`"N, n, not Akiha[line=4]!@ What kind of a guy do you think I am!@ I'm not crazy to do that to a sister!"@
+`"Hmm.@ If it wasn't your sister, then was it the maids at the mansion?"@
+cl c,notrans,0
+` Arcueid looks up at me full of amusement.
+\
+`"Uh[line=4]"@
+` She's acting like the Arcueid from last night's dream.@
+br
+`"It doesn't concern you, so leave me alone."@
+` I look away from her and refuse.@
+` But Arcueid keeps saying "Come on, come on," over and over.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Come on, tell me.@ You can at least tell me who you dreamed about."@
+` She asks like a curious kid.@
+` Every time I turn away she keeps jumping in front of me, saying "Come on, come on."@
+br
+` …… This is pure torture.@
+` She's as mischievous as last night's dream.
+\
+` I bury my face in my hands.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hey Shiki, don't be quiet and tell me."@
+` Arcueid keeps looking at me with those upturned eyes.@
+br
+` [line=3]I can't, God.@
+` This is my limit.@
+br
+`"…… You."@
+` I hesitatingly let it out in a quiet voice.
+\
+`"[line=3]Eh?@ What about me?"@
+`"Don't make me say it again.@ I'm saying that it was you who came!"@
+` I shout angrily as I look away.@
+` Arcueid's eyes widen in surprise.@
+play "*1"
+ld c,"tachi/ark_t12",crossfade,400
+`"M, me……?"@
+`"Yeah, it's not a joke.@ You came, and[line=4]"@
+` There's no way I can finish.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"Ah[line=4]"@
+` Now Arcueid looks away from me, looking very uncomfortable.@
+cl c,crossfade,400
+br
+`"………………"@
+`"………………"@
+` Neither of us know what to say.@
+` The uncomfortable silence continues.
+\
+` ……@
+` …………@
+` …………………
+` …………………………@
+` ………………………………… *ahem*@
+` I can't bear the silence any longer and force out that cough.
+\
+br
+`"…… In the first place, why did you send me that dream familiar thing?@ Are you still angry at me for killing you?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"That's not it at all.@ I sent it as thanks for defeating Nrvnqsr.@ I really am grateful to you, I thought you'd be extremely happy."@
+`"As thanks?[line=3]I'll pass on that kind of thanks.@ Having that kind of poor taste, just what are vampires thinking?"@
+` I slump my shoulders.@
+` I don't know what she's mad about, but she looks at me with a dissatisfied expression.@
+ld c,"tachi/ark_t06",crossfade,400
+`"What's that all about, you meanie?@ I know I'm not human."@
+cl c,lshutter,400
+` She turns away, then starts walking off.
+\
+playstop
+`"Hey, hold on.@ Where are you going?"@
+`"It has nothing to do with you.@ Don't follow me!"@
+` Is she really that angry?@ Arcueid walks away without even turning around.
+\
+`"…………"@
+` Where does she plan on going anyway?@
+`"…………"@
+` Maybe I did say too much.@
+` No matter what the results were or the methods used, she really thanked me with good intentions.@ I start to feel intense regret and think that maybe I should have just accepted her gift happily.
+\
+`"[line=5]"@
+` Damn it.@ Why is it that I just can't leave Arcueid alone……!?@
+br
+`"Aw[line=3]Hey, I said wait!"
+\
+bg #000000,lcartain,800

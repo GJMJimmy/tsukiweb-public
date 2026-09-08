@@ -1,0 +1,52 @@
+playstop
+wavestop
+bg "bg/bg_34a",tcartain,800
+play "*3"
+ld c,"tachi/koha_t03",crossfade,400
+`"Vamos brindar à volta do Shiki-san ao seu lar.@ Fiquem à vontade para tomarem a bebida que mais gostarem."@
+` Com um sorriso livre de malícia, a Kohaku-san enfileira as bebidas na nossa frente.@
+cl a,crossfade,400
+` A maioria das bebidas não são sucos nem nada do tipo, são bebidas alcoólicas.
+\
+`"…… Akiha!?"@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Hum?@ O que foi, Nii-san?"@
+` …… Ele enche o seu copo com um líquido escuro, em seguida adiciona um pouco de suco de laranja.@
+`"Is… Isso não é uísque, né?"@
+`"É sim.@ Algum problema?"@
+`"E você responde apenas 'é sim' …?@ Akiha…"@
+` Não somos todos jovens demais para beber álcool…?
+\
+ld c,"tachi/aki_t08b",crossfade,400
+`"Esta é a sua festa de boas-vindas.@ Tem que ter álcool, não acha?@
+` Ah… Nii-san, você é fraco para bebidas?"@
+` Ela parece feliz.
+\
+cl a,crossfade,400
+ld l,"tachi/koha_t01a",crossfade,400
+`"Hisui-chan.@ Que coisa incomum, não vai tomar suco hoje?"@
+ld r,"tachi/his_t20",crossfade,400
+`"…………………"@
+` Um pouco tímida, a Hisui coloca vinho no copo.
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t04b",crossfade,400
+`"Viu, Nii-san?@ Até a Hisui está bebendo.@ Certamente você não vai querer ser o único a tomar suco, não é mesmo?"@
+`"………… Nossa.@ Mas você realmente quer aproveitar esta festa ao máximo, hein, Akiha?"@
+ld c,"tachi/aki_t08b",crossfade,400
+`"Sim.@ Normalmente, não gosto de festas, mas hoje é uma excessão."@
+cl a,crossfade,400
+br
+` [line=4]Hum.@
+` Bem, não tenho escolha.@ Tomar muito álcool não faria bem ao meu corpo, mas só um pouquinho não tem problema.@
+` Parece que a bebida mais fraca que tem na mesa é o vinho.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Agora quero que todos levantem os seus copos!@
+` Saúde!"@
+br
+` Com o barulho dos vidros se chocando, nossos copos se juntam.@ A Kohaku toma tudo em um gole só, a Akiha bebe traquilamente e a Hisui toma só um pouquinho.@
+br
+` …… Ai ai, eu não me responsabilizo por nada disso.
+\
+bg #000000,lshutter,1500

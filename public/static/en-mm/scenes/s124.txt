@@ -1,0 +1,20 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Good morning, you two."@
+ld r,"tachi/koha_t01a",lshutter,400
+`"Good morning, Shiki-san."@
+` Wearing a white apron that suits her, Kohaku-san replies with a smile that could not possibly be any larger.@
+cl r,crossfade,400
+` On the other hand, Akiha just casts a glance at me.@
+ld l,"tachi/aki_t01a",lshutter,400
+`"Good morning.@ You certainly took your time this morning, Nii-san."@
+` She certainly knows how to put a damper on things.
+\
+`"Took my time?@ It's barely past seven!@ It only takes thirty minutes to get to school from here, so I'm actually up early."@
+ld l,"tachi/aki_t18a",crossfade,400
+`"So you're saying you're going to finish breakfast in just ten minutes?@ You're not some starving dog, so if you're going to eat breakfast, I'd like you to take your time."@
+cl l,crossfade,400
+`"[line=6]"@
+` Akiha's words really do have thorns.
+\

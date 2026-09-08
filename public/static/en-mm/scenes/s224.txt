@@ -1,0 +1,42 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_03a",notrans,0
+` [line=3]I gather up my courage and ask her about last night.@
+br
+`"…… Uh[line=2]Senpai.@ Last night, were you in the park?@ I thought I saw you wearing something like a black coat, with your skirt flowing in the wind."@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… What is that?"@
+`"Um……!@ well[line=2]yeah, the high-laced boots suited you.@ I was kind of fascinated, you looked… really cool."
+\
+ld c,"tachi/cel_t08",crossfade,400
+` ……"Huh?" Senpai tilts her head.@
+` She frowns like she doesn't understand my words completely, and then denies it.
+\
+`"Um, I don't quite understand, but you're saying that I was near your house two nights ago, looking like that?"@
+`"Yeah.@ Senpai, that was you, right?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"No way.@ Tohno-kun, are you saying I look like I really have that much free time?"@
+` [line=3]Senpai is really angry.@
+` She can't be playing ignorant or lying.
+\
+`"Ah[line=4]No, that's not it, but I just…… saw someone that looked like you in park last night, so[line=3]"@
+` Senpai gives a sigh.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, that wasn't me.@ I don't have that kind of hobby."@
+`"Ah[line=3]Yeah, I know.@ I just wanted to ask."
+\
+` Certainly after having her say that, she is right.@
+` Ciel-senpai and the person that night aren't related at all.@
+` In the first place, Senpai's just a normal person, and if she was actually there[line=3]she had to have seen me kill that vampire with my knife.@
+` If she saw such a gruesome scene, there'd be no way she could talk with me normally like this.
+\
+`"…… Sorry, please forget about it.@ I guess it was just someone else."@
+ld c,"tachi/cel_t09",crossfade,400
+`"That's fine, but…… did that person really look like me?@ That weird person?"@
+`"Well, I'm not too sure.@ It was dark, and far away………… huh?"@
+` Yeah, it was far and I couldn't make out her face.@
+` So why did I think it looked like Senpai……?@
+`"…… Hmm… Maybe there is something wrong with me."@
+` I cross my arms and think.
+\

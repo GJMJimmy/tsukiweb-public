@@ -1,0 +1,674 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_40d",crossfade,400
+` …… Será que é a Ciel-senpai?@
+br
+`"…… Que idiotice.@ Nunca poderia ser ela[line=4]"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Boa noite, Tohno-kun."@
+`"Hein[line=3]!?"@
+` Eu dou um pulo de susto.
+\
+play "*1"
+`"S-S-Senpai………!?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Sim.@ Eu queria te ver, por isso vim."@
+` Ela diz isso com um sorriso, como se fosse a coisa mais normal do mundo.
+\
+`"Você veio me ver[line=4]não acredito."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Mas está acontecendo.@ A realidade é que estou aqui."@
+`"É por isso que estou dizendo que não acredito……!@ Está muito tarde!@ E este é o meu quarto, não é um lugar onde você possa entrar sem mais nem menos……!"
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Tudo é possível.@ Porque isto é um sonho."@
+`"[line=4]Hã?"@
+br
+` Um sonho?@ Hein?@
+br
+`"Isso é um sonho[line=3]Senpai?"@
+`"Sim, você está sonhando.@ Vamos pensar assim."
+\
+` Ela sorri.@
+` …… A Senpai está agindo do mesmo jeito de sempre.@
+` Mas sinto que tem algo[line=3]incrivelmente errado com ela.@
+` Seus olhos que normalmente estão cheios de bondade, me dão a sensação de que planejam algo malicioso.@
+` Suas palavras estão me deixando desconfortável.@
+br
+` [line=3]O mais estranho de tudo isso é o fato de a Senpai estar no meu quarto.
+\
+` Olho para o relógio.@
+` São três horas da manhã.@
+` Esta situação[line=3]
+br
+`"Não, sonhos não podem ser tão reais assim……!"@
+` Levanto da cama.@
+` Tento caminhar até onde ela está, no meio do quarto.
+\
+bg #000000,crossfade,400
+bg "bg/bg_40d",crossfade,400
+`"H……… ã?"@
+` Minhas pernas.@ Elas não se mexem……!?@
+ld c,"tachi/cel_t12",crossfade,400
+`"Isso não vai funcionar, não adianta tentar se mexer.@ Por favor, fique onde está, Tohno-kun."@
+`"…… Ficar onde estou?[line=3]como assim!?@
+` Minhas pernas, por que elas não se mexem……?"
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Obviamente porque isto é um sonho.@ Ainda não acredita em mim?"@
+` Ela levanta os ombros, como se estivesse perplexa.@
+` Mas sou eu que estou perplexo.
+\
+`"Um sonho?[line=3]já chega dessa brincadeira.@ Por que está no meu quarto a essa hora, Senpai!?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Você ainda pergunta?@ Só existe uma razão para uma garota ir ao quarto de um garoto."@
+` Corando, ela sorri maliciosamente.
+\
+`"Hã…… só uma razão…… hum, Senpai?"@
+` Hum, hum, ah[line=3]não é para fazer comida nem jogar cartas, então[line=3]
+!w750
+ld c,"tachi/cel_t01a",crossfade,400
+br
+`"Sim.@ Vamos fazer algo obsceno."@
+br
+` Com seu tom despreocupado habitual,
+` ela diz uma coisa absurda.
+\
+`"E[line=3]ei, como assim……!?@ P-p-por que está pensando nessas coisas assim tão de repente?……!"@
+` Descontroladamente balanço as mãos no ar e fico vermelho como um tomate.@
+` Não sei como as coisas ficaram assim, mas definitivamente há algo de errado com o que a Senpai está falando.
+\
+` Primeiramente, ela é minha Senpai,
+` hum, não somos amantes nem nada do tipo,
+` estamos mais para amigos e…
+` hum, estou muito feliz com o que ela disse, mas estou chateado comigo mesmo por pensar assim e[line=3]
+\
+`"Ah, já chega.@ Não acha estranho?@ Por que você diria isso para mim……!?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"…… "@
+` Ela suspira.@ "Entendo, você não quer fazer isso porque sou eu."@
+`"Ah[line=3]não, não é isso…… b-b-bem, quero dizer, é isso!@ Mas não é estranho?@
+` Para mim você é uma pessoa muito importante, uma confidente.@ Nunca pensei que nossa amizade tivesse algo a ver com amor e sempre pensei que seria incrível se nós três, incluindo o Arihiko, sempre pudéssemos nos divertir juntos.@
+` Então[line=3]mesmo que…… isto seja um sonho, tem algo errado com ele."
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Hummm.@ Entendo o que você quer dizer."@
+` Ela desvia o olhar.@
+cl c,lshutter,400
+`"Ah………"@
+` Recupero o movimento das pernas.@
+` Não sei o porquê de não conseguir mexê-las até esse momento, mas agora posso tirar a Senpai daqui[line=3].
+\
+`"Tohno-kun."@
+` Sua voz está afiada e severa.@
+`"Hã[line=3]s-sim?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Já me decidi.@ Vou ser mais malvada com você."@
+` Ela sorri maliciosamente.@
+` E dá um passo na minha direção.@
+cl c,lshutter,400
+\
+`"Ei[line=2]Senpai, pare com essa brincadeira."@
+`"Eu não estou brincando.@
+` Isso que ela está fazendo não é brincar?"@
+` Ela estala os dedos.@
+br
+` [line=3]E nesse instante.@
+br
+`"[line=4]!?"@
+quakey 2,200
+` Subitamente caio na cama.
+\
+`"O qu[line=4]!"@
+` O qu-o que está acontecendo!?@
+` Minhas mãos estão presas nas minhas costas.@ Estão[line=3]amarradas com um cinto de couro.@
+` Meus tornozelos também estão amarrados com um cinto e não consigo mais me mexer.
+\
+`"P-por que isso está acontecendo assim de repente……!?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Porque isto é um sonho, por isso que é tão fácil te dominar."@
+`"O qu[line=4]"@
+cl c,lshutter,400
+` Faço força com os braços, tentando me libertar.@
+` O cinto apenas faz ruídos estranhos com o meu esforço, mas não parece que vai ceder.@
+`"……………… Como assim?@ É um cinto ou são correntes de ferro?"@
+` Essa situação está começando a exercer um certo peso sobre mim.
+\
+` Parece impossível libertar minhas mãos e pés.@
+` A Ciel-senpai diante de mim não está em seu juízo normal.@
+` Não acho que estou correndo algum perigo[line=3]mas estou um pouco preocupado.
+\
+` Vamos fazer algo obsceno.@
+br
+` A Senpai disse isso.@
+` Ela disse essas palavras no meu quarto à noite, com apenas nós dois dentro.@ O mais estranho é não ficar excitado com essa situação.@
+` Na verdade, meu coração está batendo tão forte que parece até que vai explodir.@
+` Mas[line=3]ainda há algo errado.@
+` Sinto que é errado fazer isso com a Senpai[line=4]
+\
+`"[line=7]"@
+` Não me importo com mais nada agora.@
+` Minha boca não está amordaçada, se eu gritar, provavelmente a Hisui virá[line=3]!@
+ld c,"tachi/cel_t04",crossfade,400
+`"Não vai dar certo.@ Se você gritar, não virá alguém para ver o que está acontecendo?@ E então, o que você dirá para essa pessoa?"@
+cl c,lshutter,400
+\
+` Ela senta na cama.@
+` A cama range com o peso de duas pessoas.@
+` E então,
+` o som de um laço sendo desfeito.
+\
+eroskip 93
+`"O q[line=4]"@
+` Não consegui detê-la,
+` …… Não, meu pensamento de detê-la foi vencido pelo meu desejo de vê-la nua…@
+` E então,@
+br
+bg #000000,crossfade,400
+play "*5"
+bg "event/cel_h01",lshutter,800
+` Prendo a repiração enquanto a Senpai começa a se despir, ela tira até a calcinha e o sutiã.
+\
+`"…… S-Senpai[line=4]"@
+`"Já tirei tudo.@ Se alguém vier aqui, você estará encrencado."@
+` Com um sorriso malicioso ela sobe novamente na cama, caminhando de quatro na minha direção, como uma gata.
+\
+`"[line=7]"@
+` Minha garganta está quente.@
+` Minha cabeça está girando como se eu estivesse bêbado e não consigo pensar em nada para falar, nem no que devo fazer, nem ao menos me lembro o que estava fazendo até este momento[line=5]
+\
+`"………… Ah."@
+` Engulo em seco.@
+` Na minha frente está a Senpai, peladinha.@
+` O certo seria eu tentar não ficar olhando para o seu corpo nu[line=3]mas meu corpo não obedece minha mente.
+\
+` …… Seus seios enormes parecem muito macios.@
+` Sua pele branca me seduz.@ Quase posso sentir o cheiro da sua luxúria vindo lá de baixo.
+\
+` Meu coração acelera de excitação.@
+` Eu sei que não devia olhar[line=3]mas este corpo tão sensual cativa tanto meus olhos quanto a minha mente.
+\
+`"Hum, o que devo fazer agora?@ Eu poderia simplesmente te estuprar, mas isso não teria graça, não acha?"@
+` Com um sorriso estranho, ela se aproxima.
+\
+` …… É diferente.@
+` Agora há pouco, havia pensado que ela se parecia com uma gata, mas é diferente.@
+` O que engatinha na minha direção não é uma gata, é um pantera perseguindo sua presa.
+\
+`"S-Senpai……!@ Pare com isso.@ Por favor, vista suas roupas……!"@
+` Consigo resistir aos meus desejos tempo suficiente para dizer essas palavras.
+\
+`"………… Céus, Tohno-kun.@ Parece que você ainda não entendeu a situação em que está."@
+` Ela me olha decepcionada.@
+`"Neste momento, são poucas as partes do corpo que você consegue mexer.@
+` E quando você diz essas besteiras, me dá vontade de provocá-lo mais ainda."
+\
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Hã[line=3]Senpai!?"@
+` De repente, ela desaparece.@
+` Não há mais ninguém na cama.@
+` Não a vejo em parte alguma, apenas sinto a presença de alguém no quarto[line=3]
+br
+`"Ufa."@
+br
+`"Uwaaaaaaa!?"@
+` [line=3]De repente,
+` atrás de mim, ela sopra no meu ouvido.
+\
+`"Se-Se-Se-Senpai……!?"@
+`"Eu te surpreendi?@ Não foi minha intenção, você deve ser bem sensível, acho que devo ter te surpreendido mesmo, Tohno-kun."@
+` Dizendo isso,
+` ela pressiona seu corpo nu contra o meu.
+\
+bg #000000,lshutter,400
+bg "event/cel_h01",lshutter,400
+`"[line=5]!!!!!!"@
+`"Você não devia fazer tanto barulho.@ Estamos no meio da noite, alguém pode aparecer para ver o que está acontecendo."@
+br
+` …… Ouço sua voz pertinho do meu ouvido.@
+` Seus dedos deslizam pela minha nuca.@
+`"Nn[line=5]………………!"@
+` Sinto um arrepio.@
+` Meu coração bate desesperadamente.@
+` Tu, dum.@
+` Como se agisse em conjunto com minha pulsação, minha mente transborda de tesão.
+\
+`"…… Pare…… ei, Senpai……!"@
+`"Nossa, você me odeia tanto assim, Tohno-kun?"@
+br
+` [line=3]Não.@
+`  Não é… nada… disso.@
+br
+` Do meu pescoço para as minhas costas.@
+` Das minhas costas, como se fosse me abraçar, seus dedos chegam até o meu peito.
+\
+` Uma sensação muito agradável.@
+` Posso sentir seus seios macios pressionados contra minhas costas.
+\
+`"Tss………………!"@
+` Isso não é bom.@
+` Não tenho intenção de fazer nada[line=3]mas EU SOU HOMEM, então[line=3]
+\
+`"Por isso que vim aqui desse jeito.@ Mesmo você sendo teimoso, imaginei que seria mais sincero em seus sonhos."@
+` Ela sussurra no meu ouvido.@
+` Seus lábios estão tão próximos que posso sentir sua respiração na minha pele.
+\
+`"…… Um sonho…… sério……?"@
+`"Sim.@ Se isso não fosse um sonho, não poderíamos estar fazendo isso."@
+`"…… Ei…… então, mesmo se eu gritar…… não vai vir ninguém."@
+` Falo pausadamente, tentanto resistir à pressão que cresce na minha virilha.@
+br
+` Ela dá uma risadinha no meu ouvido.
+\
+`"Elas virão.@ Se você gritar, sua irmã vai ficar desconfiada e virá até aqui para ver se está tudo bem.@ Este, é AQUELE tipo de sonho."@
+br
+` [line=3]Talvez,
+` esta seja uma realidade que não pode ser chamada exatamente de sonho?
+\
+` Seus dedos descem pelo meu peito.@
+` Um a um, como as pernas de uma aranha, eles vão descendo sensualmente.@
+` Meu coração acelera.@
+` Não sei como isso aconteceu, mas estou completamente nu e com o pinto duro.@
+br
+` Bem devagarzinho.@
+` Seus dedos continuam descendo.
+\
+`"Muito bem, a brincadeira vai começar.@ Prepare-se, Tohno-kun."@
+` Seus dedos tocam meu pinto.@
+` Ele é envolvido pela mão de outra pessoa.@
+` Apenas isso já é constrangedor, mas como são os dedos da Senpai[line=3]fico tão envergonhado que dá vontade de morrer.
+\
+`"[line=2]Uau, ele já está tão duro.@ Neste caso, posso ser um pouco mais bruta."@
+` Sua voz está muito sensual.@
+` Seus dedos[line=2]que até agora me provocavam gentilmente[line=2]envolvem completamente meu pinto.@
+` Ela o aperta com tanta força que parece que vai parti-lo ao meio.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "event/cel_h01",notrans,0
+`"Nn…………!"@
+` Deixo escapar um gemido.@
+` Um choque corre por todo o meu corpo.@
+`"Ah, te surpreendi?@
+` Desculpe, ele nem está molhado ainda.@ Não se preocupe, vou ser mais gentil."@
+` Ela para de apertar.@
+` Desta vez, seus dedos seguram meu pinto delicadamente.@
+`"Ah[line=3],[line=3]!"@
+` A sensação tira o meu fôlego.
+\
+`"Não[line=3]Senpai, isso… não é[line=3]"@
+` Eu… só quero… que ela… pare.@
+` Tento mexer os braços.@
+br
+` [line=3]Mas não consigo.@ Não tenho liberdade alguma.@
+br
+` Com olhos cintilantes, ela observa minha tentativa inútil de tentar me soltar e abafar minha voz[line=3]
+\
+`"Hehe, estou ansiosa por isso.@ Quanto tempo será que você vai resistir, Tohno-kun?"@
+` Falando de uma forma sedutora, ela desliza sua língua para dentro do meu ouvido.
+\
+`"……… Nn!"@
+` Fecho os olhos.@
+` …… Lá embaixo, uma provocação bem mais direta está acontecendo.@
+`"[line=3]Pa… re[line=3]"@
+` Ela usa três dedos para me masturbar bem lentamente.
+\
+br
+` Para cima.@ Para baixo.@ Deslizando.@
+br
+` O som seco da carne, lentamente se torna molhado.@
+` Esfregando.@
+` Apertando.@
+` Puxando.
+\
+`"…… Mm, você está ficando muito excitado.@
+` Ei, seus olhos estão livres.@ Por que não dá uma olhada em si mesmo?"@
+`"O qu[line=3]"@
+` Sua voz me deixa com mais vergonha ainda.
+\
+br
+` O som dela me massageando enche o ambiente.@
+br
+` De novo e de novo, meu pinto fica cada vez mais duro e inchado conforme ela me acaricia.@
+` Por mais difícil que seja[line=3]apenas assistir a isso me enlouquece.@
+br
+` …… Seus dedos giram em uma carícia sem fim.
+\
+`"[line=4]K, ha[line=3]"@
+` Tento o máximo possível, mas não consigo segurar minha voz.@
+` Cerro os dentes, dizendo a mim mesmo que não estou sentindo nada[line=3]mas meu corpo não ouve o que eu digo.
+\
+` Meu pinto está duro como uma rocha e sinto como se fosse gozar a qualquer momento.@
+` Só de ela me tocar já perco a razão[line=3]mas o movimento dos seus dedos é bem mais avassalador.@
+` Só com ela movendo-os para cima e para baixo,
+` quase enlouqueço para liberar todo o calor que cresce dentro de mim.
+\
+`"Ha[line=3]aah,[line=3]"@
+` Enquanto controlo minha voz,
+` tento controlar a respiração.@
+` …… E toda vez que faço isso,
+` ela ri.@
+`"Estou ficando excitada.@ Seus gemidos estão tão cheios de paixão, Tohno-kun."@
+`"Não seja ridí[line=3]"@
+` Antes que eu possa terminar, seus dedos voltam a se mexer.
+\
+` Esse movimento.@
+` Meu corpo está sendo dominado por movimentos tão simples.@
+br
+` …… Não consigo resistir a ela.@
+` Preso como estou e sendo acariciado dessa forma.@
+` Respirando descontroladamente, tento resistir ao prazer.
+\
+` …… Mas… não consigo.@
+br
+` Normalmente, isso me deixaria nervoso.@
+` Mas[line=2]agora, apenas entorpece minha consciência.
+\
+`"Senpai[line=3]vamos parar.@ Isso…… é… errado……"@
+` …… Sim, é errado.@
+` Isso não é nem um pouco certo.@
+` Eu não amo ela, então, não devia estar fazendo isso.@
+` …… Eu não amo ela……?@
+` Será que não amo mesmo?@ Se isso realmente é um sonho que estou tendo, significa que é um desejo meu.
+\
+`"Hhaahhh……hhaahhh…… haagggghhh…… [line=3]"@
+br
+` …… Não, eu não consigo pensar… com clareza.@
+` Está[line=3]tão gostoso.@
+` Por que estou com tanto tesão?@
+` Não é a primeira vez que dedos envolvem meu pinto.
+\
+` Mas isto é muito diferente de quando faço sozinho.
+` Desse jeito, não consigo me segurar.@
+` É por isso que quero que eles parem… mas como não são os meus dedos, eles não me obedecem.@
+` Meu pinto já está muito molhado.@
+` O fluido pré-ejaculatório escorre tanto, que meu pinto fica todo lambuzado com ele.@
+`"Ha… gah……"@
+` Mas a sanidade que me resta está me impedindo de gozar.
+\
+`"…… Céus, como você é teimoso.@ Seu corpo é tão sincero, por que sua mente é… tão teimosa!?"@
+` Junto com sua voz,
+` suas unhas enterram-se na minha pele.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "event/cel_h01",notrans,0
+`"[line=8]!!"@
+br
+` [line=4]Aah!@
+` Minhas costas arqueiam em resposta.@
+` O prazer que crescia dentro de mim se transforma no desejo de fugir.@
+` Uma colisão de dor e prazer.@
+` Essa sensação vai da minha virilha para o meu cérebro.
+\
+` Meus braços lutam contra as correntes.@
+` Forço-as com todas as minhas forças, tentando me libertar.@
+` Mas elas nem se mexem.
+\
+`"Ah[line=3]a, a[line=4]!"@
+` Suas unhas ainda estão cravadas na minha pele.@
+` Ela tortura meu pinto, como se tentasse impedir o que eu estava prestes a liberar.
+\
+`"S-Sen… pai………!"@
+`"Ah, você devia parar de se debater, Tohno-kun.@ Estas correntes não vão se abrir, se forçar demais, vai acabar se machucando."@
+`"Não[line=2]não é isso, suas… unhas[line=3]!"@
+`"Ah?@ Meus dedos estão te dando prazer?"@
+` Não acredito que ela consiga falar isso com uma voz tão maliciosa.
+\
+`"………………!"@
+` Cerro os dentes para aguentar a dor.@
+` Ela retira as unhas do meu pinto.@
+` Mas as marcas delas permanecem.@
+` Graças a isso, parece que a minha vontade de gozar desapareceu.
+\
+`"…… Senpai, por favor, pare…… se você… continuar… vou ficar bravo de verdade[line=3]"@
+`"Eu sei disso.@ Não vou fazer mais nada caso você realmente não queira."@
+` Com olhos que parecem ver dentro do meu coração, ela começa a mover os dedos novamente.
+\
+`"……!@ Você não entende, idiota!"@
+` Ela não responde.@
+` Simplesmente volta a me masturbar.@
+` Bem devagarzinho.@
+` Seus dedos vão do meu saco até a cabeça do meu pinto.@
+` Devagarzinho.@ Carinhosamente.@ Fazendo breves sons molhados.
+\
+` Continuamente.@
+` Ela está fazendo tão devagar[line=3]que gostaria que fizesse mais rápido e terminasse logo de uma vez.
+\
+`"…………… Ah."@
+` Minha respiração está voltando ao normal.@
+` Agora que já estou acostumando com seus dedos, ela finalmente se normaliza.@
+` Mas já é tarde demais.@
+` Está tão lento e tão gostoso, mas não consigo gozar.@
+` Meu pinto está tão molhado quanto a boceta de uma mulher excitada.@
+` Mas até agora não gozei nem uma vez.
+\
+`"…… Ah………"@
+` Com esses movimentos lentos.@
+` A única coisa que sai é o fluido pré-ejaculatório.@
+`"Ah……… gah."@
+` Quero gozar logo, mas não consigo.@
+` Estou mais do que pronto para gozar, mas estou tão acostumado com essa sensação gostosa que não consigo atingir o clímax de jeito nenhum.
+\
+` Quero gozar.@
+` Mas não consigo.@
+` Quero atingir o clímax.@
+` Mas não consigo.@
+` Seus dedos,
+` estão muito lentos[line=2]não estão nem perto da velocidade que me faria gozar… por quê?@ Ela já chegou tão longe.@
+` Por que simplesmente não aperta meu pinto como fez antes e me faz gozar logo?
+\
+` [line=3]Anda logo.@
+br
+` Anda logo, senão vou enlouquecer.@
+` A sensação que se prolonga dentro de mim é tão forte e dolorosa que se não expulsá-la logo[line=2]
+` este prazer nunca vai acabar e vai me deixar louco……!
+\
+`"…… Que…… droga."@
+` Meu cérebro está quase parando de funcionar.@
+` Anda logo[line=2]já não me importo mais.@
+` Não me importo mais com a Senpai, nem com a minha consciência, isso já não faz diferença alguma para mim.@
+` Já parei de ser teimoso, então anda rápido[line=3]
+\
+`"Ei, Tohno-kun.@ Você já está quase gozando?"@
+` Ela diz isso baixinho no meu ouvido.@
+` Sua voz não está sensual como antes, está muito séria.
+\
+`"O qu[line=3]não.@ Eu não… estou sentindo nada[line=3]está perdendo seu tempo."@
+` …… Minhas palavras contradizem o que estou sentindo.
+\
+` Ela suspira.@
+`"Tudo bem, eu perdi.@ Já que não posso te vencer, vou parar."@
+`"[line=4]Hã?"@
+` Seus dedos largam meu pinto.@
+` As carícias são interrompidas.
+\
+bg #000000,lshutter,800
+bg "bg/bg_40d",lshutter,800
+`"Pronto, está se sentindo melhor assim?"@
+`"[line=4]Ah."@
+` Isso[line=3]não pode estar acontecendo.@
+` Os movimentos deliciosos dos seus dedos desapareceram e meu pinto está mais duro do que antes.@
+br
+` Está muito duro.@
+` Ele está muito inchando e pingando.
+\
+` Mas eu não consegui gozar.@
+` Seus dedos me deixaram com tanto tesão que fiquei prestes a gozar.@
+` Mas continuo preso e agora eles me abandonaram.
+\
+`"……… Nã…"@
+`"Sim?@ O que foi, Tohno-kun?"
+\
+`"Não………"@
+`"Eu já não parei?@ Ou tem alguma outra coisa que você queira?"@
+` Sua voz está muito alegre.@
+`"O que você quer?@ Se não me disser, não tenho como saber."
+\
+`"……………"@
+` Não posso falar.@ Aconteça o que acontecer, não posso falar.@
+` Mas se eu não falar, vou ficar louco[line=3].
+\
+`"…… Não…… pare……"@
+`"Não consegui te ouvir, fale mais alto."@
+` E novamente sua voz volta a ficar muito sensual.@
+` …… Eu não sabia.@
+` Não fazia ideia de que ela era tão má.
+\
+`"…… Por favor, não pare.@ Quero…… que continue, Senpai……"@
+` Falo hesitante.@
+` Bem do meu lado,
+` posso ouvi-la rir novamente.@
+`"Tudo bem.@ Então… aqui está a sua recompensa por ser sincero."
+\
+bg #000000,lshutter,400
+` Ela se afasta.@
+` Uma batida de leve.@
+` A Ciel-senpai se ajoelha na minha frente.
+\
+bg "event/cel_h02",lshutter,800
+`"Se[line=3]Senpai………!?"@
+` Retraio os quadris, surpreso.@
+` Porque ela se ajoelhou na minha frente e[line=3]e deu um beijo no meu pinto.
+\
+`"Mm…… Que quantidade incrível de fluidos.@ Tohno-kun, isso aconteceu porque você foi teimoso."@
+` Segurando meu pinto pegajoso, ela o cheira.@
+` Seu rosto está tão perto do meu[line=3]
+\
+` [line=4]Tum.@
+br
+`"…… Ha……"@
+` Ela ainda não fez nada, mas meu pinto começa a se contrair.@
+` Não sei se o prazer é físico ou mental, mas só pelo fato da Senpai estar com o rosto tão perto dele, as sensações ardentes que haviam desaparecido, retornam ao meu corpo[line=3]
+\
+` …… O rosto dela também está corado.@
+` Pensei que eu era o único que estava envergonhado aqui.@
+` Mas, será que[line=3]o rosto dela estava vermelho assim, esse tempo todo?
+\
+` [line=3]Tum.@
+br
+` Mais do que nunca,
+` minhas emoções dominam meu corpo.
+\
+`"…… Senpai,…… não aguento mais esperar."@
+`"…… Eu sei.@ Mas isso é incrível[line=3]Tohno-kun, você está pegando fogo."@
+` Ela parece admirada.@
+` E neste momento, a Senpai coloca a língua para fora… e lentamente lambe a cabeça do meu pinto.
+\
+`"H[line=4]!"@
+` A sensação é completamente diferente da sensação dos dedos.@
+` A língua dela é tão macia e ainda assim tão forte.
+\
+`"Haa[line=3]ah, ah."@
+` Sua língua gira em volta do meu pinto, fazendo barulhos indecentes.
+\
+`"[line=3]N!"@
+` Só isso já ameaçava me dominar por completo, mas seus dedos também entram em ação.@
+` Ela agarra meu pinto e começa a me masturbar.@
+` As veias grossas se destacam na minha pele quente e meu pinto lambuzado com fluidos pegajosos, reflete a luz.
+\
+` Ela continua acariciando esse membro grotesco.
+\
+` Ela o acaricia como se tentasse espremer o que está lá dentro.@
+` Ela leva o polegar até a cabeça do meu pinto e aperta o orifício na ponta.
+\
+`"Senpa[line=3]eu[line=3]vou[line=2]"@
+` Mal consigo falar.@ Mal consigo respirar.@
+` Ela não para.@
+` Sua língua e seus dedos continuam se movendo, ignorando o meu aviso.
+\
+`"Não vou conseguir[line=2]segurar[line=3]!"@
+` Não posso fazer isso[line=3]não posso… na cara dela.@
+` Tento me segurar o máximo possível.@
+` Meus braços.@ Se eles estivessem livres, eu poderia afastá-la[line=3]!
+\
+`"Tohno-kun, por que está se segurando?"@
+` Sem saber o que estou sentindo, ela faz essa pergunta.@
+`"…… Eu…… não posso…… gozar na sua cara……"@
+` Respondo pausadamente.@
+` Mas[line=2]não consigo mais segurar.
+\
+`"…… Hehe, você é tão fofo."@
+br
+` Ela ri e…
+br
+!w750
+`"Então[line=3]vou ter que ser mais malvada ainda."@
+!w750
+\
+` Com a outra mão, ela pressiona um ponto abaixo do meu pinto[line=3]bem na base do meu saco.
+\
+`"[line=5]!?"@
+` Meu corpo treme incontrolavelmente.@
+` É como se alguém tivesse me dado um tiro na cabeça.
+\
+`"Sabe, se você pressionar este ponto, o homem não consegue gozar."@
+`"Ah[line=3]hein?"@
+` Meu pinto se contrai.@
+` Mas o que normalmente deveria sair, não sai, ele apenas fica se contraindo.
+\
+`"Humm, se eu continuar fazendo isso você pode acabar ficando louco de verdade."@
+` Lambida.@
+` Com a língua ainda lambuzada com meus fluidos, ela contorna seus lábios.
+\
+`"Mas como você disse que queria que eu te deixasse louco.@ Então[line=3]"@
+`"Ah…… Sen-pai……?"@
+`"[line=3]Agora vou acabar com você, Tohno-kun."@
+` Após dizer isso,
+` ela enfia a ponta da língua no orifício na cabeça do meu pinto.
+\
+`"Ha[line=6]ah!"@
+` Está[line=3]lá dentro……!@
+` Em um lugar que nada deveria tocar.@
+` Vou ficar louco com a língua dela forçando sua entrada.@
+` Sendo atacado pela sensação mais avassaladora que já senti, meu pinto tenta ejacular de qualquer forma.@
+` Mas não consegue.@
+` O dedo da Senpai está bloqueando o caminho, me impedindo de gozar.
+\
+`"Ha[line=3]ah, ah, ah[line=3]!"@
+` Caio na cama.@
+` O barulho das correntes ecoa pelo quarto.@
+` Não[line=3]ligo se alguém acordar e vier até aqui para ver o que está acontecendo.@
+` Se ficar pensando nisso vou ficar doido.
+\
+` Sl… ur… p[line=3]
+br
+` A sensação muda.@
+` A língua invasora recua.@
+` E os lábios da Senpai me chupam.
+\
+` Mesmo sabendo que não vai sair nada, ela me chupa, tentando fazer minha porra sair.@
+` É como se estivesse sugando todo o meu ser.
+\
+bg #ffffff,crossfade,800
+`"Ga[line=5]!!"@
+` Sinto como se alguém tivesse colocado álcool naquele lugar onde levei o tiro na cabeça.@
+` Minha mente fica completamente vazia.
+\
+` Ela tira o dedo do meu saco.@
+` E o que estava impedindo minha porra de sair desaparece, e finalmente consigo gozar.
+\
+` Tum.@
+` Tum, Tum, Tum.
+\
+` Como se levasse junto minha consciência e minha memória, o fluido branco jorra para fora de mim.@
+br
+` [line=3]Minha mente entorpecida já nem consegue mais ver claramente o rosto da Senpai.
+\
+` Desmorono na cama.@
+` As correntes que me prendiam desaparecem, como se nunca tivessem existido.@
+br
+`"Ha[line=5]"@
+br
+` …… Ainda sinto a boca dela no meu pinto.@
+` A Senpai continua chupando e engolindo até a última gota da minha porra.
+\
+`"[line=6]Ah."@
+br
+` Mas já estou acabado.@
+` Parece que o último resquício de consciência que havia me restado, foi completamente engolido pela Senpai[line=4]
+\
+playstop
+!w3000

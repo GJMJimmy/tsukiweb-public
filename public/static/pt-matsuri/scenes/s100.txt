@@ -1,0 +1,41 @@
+monocro off
+playstop
+waveloop se_02
+bg "bg/bg_29c",notrans,0
+` …… Ainda é muito cedo.@
+` Há cerca de dez metros entre o Nrvnqsr e eu.@
+` Preciso de uma abertura mais definitiva antes de poder me aproximar sem que ele perceba.
+\
+`"[line=6]"@
+` Eu engulo em seco.@
+` Mais um pouco[line=4]só mais um pouquinho[line=4]
+\
+`"…… Eu não entendo."@
+` Murmurando.@
+` Como se estivesse conversando com a lua no céu, ele murmura.
+\
+`"É desagradável ser encarado por essa hostilidade, mas não posso acreditar que ele é um dos familiares da Princesa.@ Será que é só um saco de lixo?"@
+`"[line=6]!@ Shiki, fuja!"@
+` Ouço a voz da Arcueid.
+\
+`"……… Hã?"@
+` Mas eu não consigo entender a tempo.
+\
+bg #000000,bcartain,1500
+wavestop
+` Minhas pernas começam a se afundar em alguma coisa.@
+` O chão firme está parecendo areia movediça.@
+`"Ah[line=6]"@
+` O chão está cheio de uma coisa preta como o piche.@
+` Eu perco o equilíbrio.@
+` Meus tornozelos que afundaram na poça preta não estão ligados a nada.
+\
+`"[line=6]"@
+` Eu caio na poça fazendo um esguicho.@
+` …… Não tem fundo.@
+` Essa poça preta se transforma na boca de um animal enorme e comprime o meu corpo[line=5]
+\
+wait 2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

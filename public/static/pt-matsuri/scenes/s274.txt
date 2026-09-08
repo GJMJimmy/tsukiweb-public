@@ -1,0 +1,19 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",notrans,0
+`"……"@
+` Vou esperar aqui.@
+` Eu acho que a Senpai não vai vir… mas pode ser que ela venha, que nem ontem.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_01a",lshutter,800
+` [line=3]Que demora.@
+br
+` Faltando dez minutos para a primeira aula, o portão principal é fechado.@
+`"……"@
+` Acho que ela não vem mesmo.@
+` Suspirando, vou para a sala de aula com passos pesados.
+\
+bg #000000,lcartain,800

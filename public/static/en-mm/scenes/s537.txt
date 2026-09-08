@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` The hint corner for Tohno-kun, who has ended up in this Dead End with only a bit left to go,
+` It is time for "Teach me, Ciel-sensei!"
+\
+` The fifth period is about battles with vampires.@
+` I have brought Professor Roa as a special guest.@
+` Professor Roa, what is the reason for Tohno-kun's loss this time?@
+br
+ld l,"tachi/roa_t04a",lshutter,400
+`"I have to say he was a bit careless.@
+` Finding out about your enemy's weapon is the top priority in a battle against the transcendent race.@
+` Well, in this case, I think that he knew about it, but didn't act very intelligently."
+\
+` I see.@
+` Excuse me, Professor, but why does SHIKI-san in this route look different than you?@
+` I've been wondering about this for a long time.@
+br
+ld l,"tachi/roa_t02a",crossfade,400
+`"Yes, I think it's just a difference in tastes.@
+` When SHIKI's mind was weak, Roa's preferences surfaced and I dressed like this.@
+` But in this case, SHIKI-kun completely lost his mind for some reason, and Roa could not come out since he relies on taking control of someone's mind.@ That is my theory on what happened."
+\
+` Oh really?@ So in Akiha-san's route, SHIKI-san is the real Tohno SHIKI.@
+` …… They say Tohno-kun is like SHIKI-kun, but they're not alike at all……
+\
+bg #000000,crossfade,800
+playstop

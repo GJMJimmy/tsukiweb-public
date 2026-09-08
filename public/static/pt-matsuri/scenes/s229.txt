@@ -1,0 +1,19 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01b",lcartain,800
+` Saímos pelo portão.@
+` A partir daqui, temos que seguir caminhos diferentes.@
+br
+ld c,"tachi/cel_t03",crossfade,800
+`"Bem, hora de nos despedirmos.@ Chegamos aqui muito rápido."@
+` …… Sinto a mesma coisa.@ Estava pensando em como seria melhor se a escola fosse um pouco maior.
+\
+`"Então, até amanhã, Senpai."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Até amanhã, Tohno-kun."@
+cl c,lshutter,800
+` Sorrindo enquanto responde, ela desaparece na direção oposta.@
+` Depois de ficar observando-a ir embora, começo a caminhar em direção à minha casa.
+\
+bg #000000,lcartain,1500

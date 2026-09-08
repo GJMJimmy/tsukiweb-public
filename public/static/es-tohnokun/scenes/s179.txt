@@ -1,0 +1,54 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Iré al apartamento de Arcueid.@
+br
+` No sé qué hay detrás de todo esto, pero ella estaba respirando dolorosamente.@
+` En vez de intentar cazar a Los Muertos, podría simplemente haber vuelto a casa.
+\
+bg #000000,lcartain,800
+bg "bg/bg_12b",lcartain,800
+bg "bg/bg_13b",lcartain,800
+` …… Toco el timbre.@
+` Parece que nadie va a salir.@
+`"[line=4]Mierda, ¿no ha regresado?"@
+` Sin importar cuántas veces presiono el botón, su puerta no se abre.
+\
+`"………"@
+` ¿No ha regresado, o simplemente no va a salir?@
+br
+` [line=4]Después de vacilar, decido entrar.@
+br
+` Sería muy simple cortar las "líneas" sobre la puerta.@
+` Pero, debería revisar el pomo primero.
+\
+`"…… ¿Huh?"@
+` No está cerrada.@
+` La puerta se abre con un simple giro.
+\
+bg #000000,lcartain,800
+bg "bg/bg_15b",lcartain,800
+`"…… Arcueid, ¿estás aquí?"@
+` …… No hay respuesta.@
+` ¿No cerró la puerta cuando salió?@ No hay nadie alrededor.@
+`"¿¡Adónde piensa ir en ese estado……!?"@
+quakex 1,300
+` Golpeo la pared mi puño.@
+`"…… Grr."@
+` …… ¿Qué estoy haciendo?@
+` Si tengo tiempo para desahogarme con la pared, tengo que salir a buscarla[line=4]
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_25b",lcartain,800
+` …… No puedo encontrarla.@
+` Ahora que lo pienso, si en verdad pretende no ser hallada, no tengo ninguna oportunidad de encontrarla.
+\
+`"…… Ella dijo que mañana nos veríamos de nuevo."@
+` Todo lo que puedo hacer en esta situación es confiar en ella y esperar hasta la noche de mañana.@
+`"………………"@
+` Con una gran inquietud en mi pecho, regreso a la mansión.
+\
+bg #000000,lcartain,800
+!w2000

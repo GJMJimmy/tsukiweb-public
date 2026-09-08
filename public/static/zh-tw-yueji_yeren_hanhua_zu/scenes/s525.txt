@@ -1,0 +1,40 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*4"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/nero_t02a",tshutter,800
+`「年青人、有問題嗎」@
+br
+ld l,"tachi/ark_t31a",lshutter,400
+`「啊、太過分了。@為了搶鏡頭，連你都跑出來了啊」@
+br
+ld r,"tachi/nero_t03",crossfade,400
+`「笨蛋。@知得留君去咖哩店了。@我是來代課的」@
+br
+`「哼。@那麼給點提示吧」@
+br
+cl r,crossfade,400
+ld r,"tachi/nero_t04",crossfade,400
+`「合則兩利，鬥則兩傷。@殺生無益，不可妄作」
+\
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「聽起來完全沒說服力哪～。@就算不想和希耶爾作戰，志貴也還是會無條件脫掉眼鏡的喵。@
+`　這真是怎麼好」@
+ld r,"tachi/nero_t02a",crossfade,400
+br
+`「不偷盜、不邪淫、不妄語。@犯諸戒者，宜歸正道。@那麼，請回到今天早晨重新開始吧。@
+`　呵。@看來公主殿下有話要說？」
+\
+ld l,"tachi/ark_t30",lshutter,400
+`「什麼喵？@　我聽不懂你在說什麼喵」@
+br
+ld r,"tachi/nero_t02c",crossfade,400
+`「……算了，紅塵多瑣事。@
+`　那麼我便在這裡靜待你們的終末[line=5]」
+\
+bg #000000,crossfade,800
+playstop

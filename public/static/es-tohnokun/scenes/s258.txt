@@ -1,0 +1,61 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_29b",notrans,0
+` Yo… a pesar de todo esto[line=4]no quiero siquiera pensar que Senpai es mi enemiga.@
+br
+`"…… Senpai es una amiga importante.@ Enemiga o aliada, no puedo etiquetarla de esa manera."@
+ld c,"tachi/ark_t04",crossfade,400
+`"¿Qué es esto?@ ¿Entonces qué soy yo para ti?"@
+`"Tú[line=3]eres alguien a quien no puedo dejar sola, y um……"@
+` Rasco mi mejilla.@
+cl a,crossfade,400
+` Alguien a quien no puedo dejar sola[line=3]y estoy preocupado por ella de una manera totalmente distinta a la de Senpai.
+\
+` Incluso esta noche, simplemente la estaba buscando, pero me estaba frustrando tanto al no poder encontrarla.@
+` Fue, como si me sintiese preocupado por un ser amado.
+\
+`"[line=5]Ah."@
+` …… ¡No, eso no puede ser verdad de ninguna manera!@
+` Ciertamente es hermosa, pero yo[line=3]
+\
+bg #000000,crossfade,400
+bg "event/ark_e06b",crossfade,400
+bg #000000,crossfade,400
+bg "bg/bg_29b",crossfade,400
+`"¡Mira, ya déjalo así!@ ¿¡Por qué me preguntas eso de todas formas!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"¡Cómo puedo saber!"@
+` Recibiendo gritos irracionales, ella me devuelve gritos irracionales.@
+`"¡Bien!@ ¡Entonces no te conozco en absoluto, Shiki!"
+\
+cl a,crossfade,400
+`"Oye, espera.@ ¿Adónde vas?"@
+`"No tiene nada que ver contigo.@ ¡No me sigas!"@
+` ¿En verdad está tan furiosa?@ Arcueid se va caminando sin siquiera voltear.@
+` Su figura se desvanece rápidamente en la distancia.@
+`"…………… Ah."@
+` ¿Adónde planea ir?@
+`"…… ¿Qué es esto, por qué se desahoga conmigo de esa manera?"@
+` Sí.@ Ella es la que me envió ese familiar de sueño, soy yo quien debería estar furioso."
+\
+`"…… ¿Acaso hice algo, para hacerla enojar……?"@
+` No lo sé.@
+` En primer lugar, no hay manera de que pueda entender cómo piensan los vampiros.@
+`"[line=5]"@
+` …… Arcueid se enfureció y se fue a algún lugar por su cuenta, y ya le pregunté lo que quería, así que debería regresar a la mansión.@
+` …… Pero, mis pies no se mueven siquiera un paso hacia allá.
+\
+` Mi lógica me dice adónde debería ir, pero mi corazón no escucha.
+\
+br
+` [line=3]Ha sido dicho un millón de veces, pero.@
+` Los sentimientos de amor y odio, no tienen nada que ver con la lógica.@
+br
+`"[line=5]¡Demonios!"@
+` Maldición.@ ¿¡Por qué será que no puedo dejar a Arcueid sola……!?@
+`"¡Arcueid!@ ¡Dije que esperes!"@
+` Alzando la voz, persigo a Arcueid, quien continúa caminando.
+\
+playstop
+bg #000000,crossfade,1500

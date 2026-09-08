@@ -1,0 +1,59 @@
+play "*3"
+wavestop
+monocro #0000ff
+bg "bg/bg_29b",notrans,0
+cl c,notrans,0
+` A Arcueid me olha, cheia de alegria.
+\
+`"Hum[line=4]"@
+` Ela está agindo como a Arcueid de ontem à noite.@
+br
+`"Não é da sua conta, me deixa em paz."@
+` Desvio meu olhar e me recuso a responder.@
+` Mas ela continua tagarelando: "Vamos, conta logo, vamos, conta logo," o tempo todo.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Conta, eu quero saber.@ Não custa nada me dizer com quem você sonhou."@
+` Ela parece uma criança curiosa.@
+` Toda vez que dou as costas para a Arcueid, ela aparece na minha frente novamente dizendo: "Vamos, conta logo, vamos, conta logo."@
+br
+` …… Que tortura!@
+` Ela está parecendo a mesma garota travessa de ontem à noite.
+\
+` Eu escondo o rosto com as mãos.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ei, Shiki, deixa de ser bobo e me conta logo."@
+` Ela continua me olhando com os olhos virados para cima.@
+` [line=3]Eu não aguento mais.@
+` Esse é o meu limite.@
+br
+`"…… Você."@
+` Com hesitação, deixo escapar a resposta em voz baixa.
+\
+`"[line=3]Hã?@ O que tem eu?"@
+`"Não me faça repetir de novo.@ Estou dizendo que foi você quem apareceu!"@
+` Eu grito a resposta e desvio meu olhar.@
+` Ela arregala os olhos de surpresa.@
+ld c,"tachi/ark_t13",crossfade,400
+`"E-eu……?"@
+`"Sim, não estou brincando.@ Você apareceu e[line=4]"@
+` Não posso terminar de contar.
+\
+ld c,"tachi/ark_t10",crossfade,400
+playstop
+`"Ah[line=4]"@
+` Agora é a Arcueid quem está desviando seu olhar e parecendo muito desconfortável.@
+cl c,crossfade,400
+br
+`"………………"@
+`"………………"@
+` Nenhum dos dois sabe o que dizer neste momento.@
+` O silêncio desconfortável continua.
+\
+` ……@
+` …………@
+` …………………@
+` …………………………@
+` ………………………………… *ahem*@
+` Não consigo mais suportar o silêncio e forço uma tossida.
+\

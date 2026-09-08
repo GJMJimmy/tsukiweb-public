@@ -1,0 +1,55 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Bom dia, Kohaku-san.@ Está um dia adorável, não acha?"@
+ld r,"tachi/koha_t05",lshutter,800
+`"Está sim.@ Bom dia, Shiki-san."@
+` A Kohaku-san me cumprimenta sorridente.
+\
+ld r,"tachi/koha_t03",crossfade,400
+`"Dormiu bem essa noite?@ Fiquei preocupada que talvez você não conseguisse dormir por estar em lugar estranho."@
+`"Ah, não, não tive problemas.@ Eu costumava morar aqui e agora tenho você para cuidar de mim, Kohaku-san."@
+ld r,"tachi/koha_t05",crossfade,400
+`"Ah, você é muito bom nisso, Shiki-san."@
+`"Hein?@ Não, só estou dizendo o que penso… no que é que eu sou bom?"@
+` Ela apenas fica me olhando e sorrindo.@
+cl r,crossfade,400
+` …… Eu fico envergonhado quando ela me olha desse jeito, por isso desvio o olhar.
+\
+br
+` [line=3]E então.@
+br
+ld c,"tachi/aki_t02",crossfade,400
+` [line=2]percebo outro olhar sobre mim, um olhar que me fitava silenciosamente há um tempo.@
+cl c,crossfade,400
+`"Ah… olá."@
+` Aceno com a mão para cumprimentá-la.@
+` A Akiha continua só me olhando… não, talvez "encarando" seja uma palavra melhor.
+\
+`"Bem… hum… bom dia, Akiha."@
+ld l,"tachi/aki_t18a",crossfade,400
+`"Ah?@ Não precisa se forçar para me cumprimentar.@ Por favor, pode continuar me ignorando.@ Afinal de contas, parece que você prefere aproveitar a sua manhã com a Kohaku."@
+`"Ai…"@
+` As palavras da Akiha são como ferroadas.@
+` …… Eu não tive a intenção de ignorá-la.@ Só cumprimentei a Kohaku-san primeiro…
+\
+ld r,"tachi/koha_t02",crossfade,400
+`"Por favor, pare de pegar no pé do Shiki-san, Akiha-sama.@ Nós não temos muito tempo e o Shiki-san ainda não tomou o café da manhã."@
+ld l,"tachi/aki_t03a",crossfade,400
+`"Bem, isso é culpa do Nii-san por acordar tarde, não acha?@ Ele só está recebendo o que merece por deixar para fazer tudo na última hora."@
+`"Hmph!" Ela resmunga.@
+` …… Parece que a minha falha em cumprimentá-la foi outro ponto negativo com o qual ela não ficou impressionada, somada à minha chegada tardia.
+\
+`"Hum… Kohaku-san.@ Meu café da manhã está pronto?"@
+ld r,"tachi/koha_t03",crossfade,400
+`"Sim, está na sala de jantar.@ Coma bastante."
+\
+ld l,"tachi/aki_t18a",crossfade,400
+`"Não vai dar, Kohaku.@ O Nii-san não tem tempo para comer a essa hora."@
+`"Ei, escuta aqui, Akiha.@ São sete horas da manhã, tenho tempo de sobra.@ É uma caminhada tranquila de trinta minutos daqui até a escola, eu posso comer calmamente por cerca de dez minutos, deu para entender?"@
+`"Está dizendo que vai terminar de tomar o café da manhã em apenas dez minutos?@ Você é o que agora?@ Um cachorro de rua passando fome?@ Se for tomar o café da manhã, faça isso como um ser humano normal."@
+`"[line=6]"@
+` As palavras da Akiha estão completamente recheadas de espinhos.
+\
+cl a,crossfade,400
+\

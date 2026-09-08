@@ -1,0 +1,63 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ¡Merci!@
+` ¡Felicitaciones!@ ¡Es el Final Bueno de Ciel-san!@
+br
+` …… ¿Eh?@
+` ………… ¿Huh?@
+` ………… ¿Huh?@ ¿¿¿Huh???@
+` ¡Espera sólo un minuto!@
+` ¿Qué es esto?@
+` ¿¡Qué es este final!?
+\
+ld l,"tachi/ark_t30",crossfade,800
+`"……………………………… Adiós, adiós."@
+br
+` ¡Oye tú!@ ¡Detente, gata ladrona[line=4]!@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+!w1000
+ld l,"tachi/ark_t31a",crossfade,800
+br
+`"¡Auieeee!@ ¡No seas tan violenta!@ ¡Ciel-sensei, no deberías recurrir al castigo corporal!"
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+ld r,"tachi/cel_t20",lshutter,400
+` [line=4]Ya puede irse.@
+` …… ¡Oh, cielos, de acuerdo!@
+` Cada heroína tiene dos tipos diferentes de finales.@
+` Éste es el Final Bueno de Ciel-san.@
+` ¡Por favor regresa a una decisión previa y elije una historia diferente!@
+` ¡Ése será el Final Verdadero!
+\
+` Oh, y una cosa más.@
+` Las rutas de Ciel-san y Arcueid son las rutas de la Cara Visible de la Luna.@ Pero también hay una historia totalmente distinta: la ruta de la Cara Oculta de la Luna.@
+` Es la ruta de la "Familia Tohno", asociada con personas como Akiha-san.@
+` Parece difícil saber qué requerimiento es necesario para poder escoger esa ruta, así que te daré una pequeña pista.
+\
+` En el primer día, no deberías ir a ver a Ciel-san.@
+br
+` Podría ser mejor permanecer en tu salón de clases durante al almuerzo.@
+br
+` Y lo más importante.@
+` Creo que si no conoces al vampiro llamado Nrvnqsr, esta historia en la que estamos nunca sucederá.@
+` Entonces, cómo causar la historia nueva.@
+` Durante ese momento específico, si no intentas realizar aquella acción, un evento completamente diferente debería esperarte.@
+br
+` ¡Bien, entonces, veámonos de nuevo una vez más dentro de la historia principal!
+\
+bg #000000,crossfade,800
+playstop

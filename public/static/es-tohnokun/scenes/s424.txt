@@ -1,0 +1,43 @@
+playstop
+wavestop
+bg "bg/bg_40c",tshutter,800
+play "*1"
+` Me percato de que alguien está cuidando de mí.
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Buenas noches.@ ¿Cómo se siente, Shiki-san?"@
+` Ella habla con su sonrisa habitual.@
+`"Ah…… Kohaku, san."@
+` De alguna manera logro hablar a través de mi entrecortada respiración.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Ah, no tiene que hablar.@ Probablemente entiendo su condición mejor que usted."@
+` Ella retira la toalla de mi frente, aún sonriendo.
+\
+` [line=3]¿Lo de antes fue sólo una ilusión?@
+br
+` Kohaku-san está actuando normalmente.@ Sigue sonriendo y continúa con su interpretación de Hisui.@
+` …… Eso.@
+` ¿Voy a morir aquí sin siquiera ser capaz de quitarle esa máscara?
+\
+`"Akiha-sama me lo dijo todo.@ Dijo que esperaría hasta mañana, pero podría ser muy tarde para entonces.@
+` Akiha-sama parece haber perdido la capacidad para pensar claramente.@
+` Creo que no pasará de esta noche en ese estado, Shiki-san."@
+`"[line=9]"@
+` *resollo* *resollo*
+` Las palabras de Kohaku-san son despiadadamente verdaderas.
+\
+ld c,"tachi/koha_t08",crossfade,400
+`"Shiki-san, estoy asombrada.@
+` ¿Entiende el peligro en que se encuentra su cuerpo, Shiki-san?@ Akiha-sama sólo tiene pensarlo y usted morirá.@
+` ¿Por qué sigue actuando en su contra?@ Es totalmente inútil."@
+`"[line=9]Kohaku, san."@
+` …… Estoy sorprendido.@
+` La voz de Kohaku-san, es completamente diferente.
+\
+`"…… Lo sé.@ Sé que no podré sobrevivir esta noche en este estado."@
+`"¿Entonces no le teme a la muerte?@ Si acepta a Akiha-sama se recuperará rápidamente, pero no lo hace.@ Hay algo mal en usted."
+\
+`"…… Tal vez.@ Pero, creo que está bien.@ Me gusta actuar de esta manera, y amo a Akiha por quererme como soy.@
+` …… Sí, y, bueno… disfruto las cosas pequeñas, como poder hablar contigo, Kohaku-san.@
+` …… Pero siento que si me miento a mí mismo, se perdería el placer de todas esas pequeñas cosas, y eso me aterra[line=4]"
+\

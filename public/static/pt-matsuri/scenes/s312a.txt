@@ -1,0 +1,308 @@
+bg "event/stk_e01a",notrans,0
+playstop
+wavestop
+` [line=4]E assim, tudo termina.@
+br
+` Tohno Shiki desaparecerá em breve e tudo chegará ao fim.@
+play "*7"
+bg "event/aki_e01",crossfade,800
+bg "event/stk_e01a",crossfade,800
+br
+`"[line=8]Ah."@
+` Chegará…… Ao fim… Está tudo bem mesmo?
+\
+bg #000000,crossfade,400
+ld c,"tachi/aki_t17b",crossfade,400
+bg "event/stk_e02",crossfade,400
+br
+` …… Você vai voltar, não é……?@
+br
+` Foi o que a Akiha me perguntou.@
+` A irmã que abandonei por oito anos.@
+` A garota de cabelos negros pela qual nunca fiz nada como irmão.@
+br
+` [line=4]Ela[line=4]
+`   Tohno Akiha sempre esteve sozinha naquela mansão.
+\
+`"[line=8]"@
+` Agora há pouco, eu empunhei a minha faca para salvar a Yumizuka através da morte.@
+` Mas, neste momento, estou desistindo de tudo para salvá-la com a minha própria vida.@
+br
+` Só que…
+` Ao fazer isso, quem é que vai ser salvo?@
+` Não vou estar ajudando a pessoa mais importante para mim neste mundo[line=4]
+\
+`"Aki[line=4]ha."@
+br
+` …… Eu não posso morrer.
+\
+` Mesmo que esteja agindo de forma errada, não posso morrer agora.
+\
+`"Yumi[line=4]zuka[line=4]"@
+` Eu movo a minha faca.@
+` …… Para a "linha" no seu peito.@
+` A linha no coração da garota que acreditou em si mesma e teve a esperança de ser salva[line=4]
+\
+br
+br
+br
+br
+br
+br
+` …… Eu enfio a faca o mais fundo possível.
+\
+bg #000000,lshutter,400
+bg "event/stk_e01b",lshutter,400
+`"[line=4]Shiki[line=7]kun?"@
+` Os seus lábios se afastam.@
+` A força que ela exercia desaparece.@
+br
+`"[line=4]Desculpa.@ Eu não fui capaz de te salvar, Yumizuka."@
+br
+` Essa é a única saída que encontrei.@
+` Se ela não pode fugir da dor,
+` então, pelo menos[line=4]posso dar a ela uma morte indolor.
+\
+bg "event/stk_e01c",crossfade,800
+`"Entendi[line=4]acho que já sabia disso… Você não poderia ficar comigo para sempre, né, Tohno-kun?"@
+` Sua voz está muito pacífica.@
+` Está igual há dois dias enquanto voltávamos da escola.@
+`"Mesmo assim estou feliz.@ Mesmo que tenha sido por um breve momento, você me escolheu, Tohno-kun…… Neste caso, talvez[line=4]morrer assim não seja tão ruim.@
+` Toda a dor que eu sentia sumiu e aqueles sentimentos assustadores desapareceram como mágica[line=4]"@
+` Sinto algo sendo soprado nos meus pés.@
+` Quando olho[line=4]
+` vejo que as pernas da Yumizuka se transformaram em cinzas dos joelhos pra baixo.
+\
+`"[line=4]E está até um pouco quentinho agora.@
+` Hehehe, deve ser o seu calor, Tohno-kun."@
+` Ela fala, muito alegre.@
+br
+br
+br
+br
+` [line=6]Esse arrependimento que estou sentindo
+`     é tão forte, mas tão forte, que quero morrer junto com ela.
+\
+` [line=4]Eu me preparei.@
+br
+` Quando a traí, eu me preparei para qualquer palavra de ódio que ela dissesse.@
+br
+` [line=4]Então, por quê?@
+br
+` Por que essa voz tão tranquila e alegre?@
+` Ela nem está me culpando.
+\
+`"[line=4]Desculpa.@ Eu[line=4]fui um inútil.@ Sou o pior tipo de pessoa que existe no mundo."@
+` Os meus olhos estão queimando.@
+` A minha visão oscila.@
+`"Aha.@ Tohno-kun, você está chorando.@
+` …… Você realmente é muito gentil.@ Depois de eu ter feito tantas coisas horríveis, você ainda chora por mim.@
+` …… Isso é o que eu mais gosto em você.@
+` Eu estive te observando desde o ensino fundamental II, Tohno-kun[line=4]por isso sempre soube desse seu lado que mais ninguém conhece."
+\
+` Sua voz orgulhosa[line=4]e a sensação de algo sendo levado pelo vento.@
+` A parte de baixo do seu corpo não existe mais.
+\
+`"…… Eu[line=4]queria ter conversado mais com você, Tohno-kun.@ Conversas bobas, apenas como colegas de classe, nada mais.@ É por isso que eu não quero morrer agora.@ Eu não quero morrer, Tohno-kun, eu não quero morrer."@
+`"[line=6]"@
+` Eu não consigo falar nada.@
+` Pois não existe nenhuma palavra para se dizer em um momento como esse.
+\
+br
+br
+br
+br
+br
+br
+` [line=4]No seu momento final, ela encosta a cabeça na minha testa.
+\
+bg "event/stk_e01d",crossfade,400
+`"Pode ter certeza de que essa foi a melhor maneira para acabar.@
+` [line=3]Então, não chore, Tohno-kun.@ Você fez a coisa certa."@
+` A pressão da faca não existe mais.@
+` O corpo da Satsuki já não possui mais um coração.
+\
+`"Ah, parece que não vou conseguir mais falar.@
+` Bem, minha casa é por aqui.@ Acho que agora é adeus."@
+`"Yumi[line=4]zuka……!"@
+`"Então, não vamos nos ver na escola amanhã.@ Tchauzinho, Tohno-kun.@ Obrigada por tudo[line=3]e[line=4]me desculpe."@
+br
+bg #000000,tshutter,800
+` Whoosh.@
+br
+` Como cinzas jogadas ao vento,
+` a Yumizuka Satsuki desaparece por completo diante dos meus olhos.
+\
+bg "bg/bg_31b",bshutter,800
+` …… Ela desapareceu como se fosse uma miragem.@
+`"[line=6]"@
+` Tudo o que ficou foi uma tontura forte.
+\
+` Eu matei ela.@
+` Eu queria salvá-la[line=4]eu disse que ia salvá-la[line=3]mas no fim[line=4]eu a matei para salvar a mim mesmo.@
+br
+`"A[line=4]a."@
+` Mesmo assim.@
+` Mesmo assim[line=4]teria ficado tudo bem se ela tivesse me chamado de mentiroso no final.@
+` Se tivesse feito isso, eu realmente teria me tornado uma pessoa ruim, então por que[line=4]
+\
+` Obrigada por tudo.@ E me desculpe.@
+` Ela não tinha nada pelo que me agradecer.@ Não havia motivo algum para ela pedir desculpas.@
+`"Eu[line=4]te matei."@
+` …… Mesmo assim ela me agradeceu.@
+` É por isso que[line=4]@
+` Eu queria muito ter salvado ela.
+\
+`"[line=6]"@
+` Meu corpo entorpecido se levanta por conta própria.@
+` Não consigo pensar em mais nada.@
+` Será que o meu corpo e a minha mente são coisas tão separadas assim?@
+` Sem pensar no que estou fazendo, saio do beco[line=4]
+\
+bg #000000,lcartain,1500
+playstop
+!w2000
+bg "bg/bg_33d",lcartain,800
+` A porta abre com um rangido.@
+` Finalmente voltei para a mansão, coberto de machucados.@
+ld c,"tachi/aki_t19c",crossfade,800
+`"[line=6]Ah."@
+` A Akiha está no saguão.@
+` Será que esteve me esperando voltar todo esse tempo?@
+` …… No momento, não consigo entender nada.
+\
+ld c,"tachi/aki_t23b",crossfade,400
+`"Nii-san, o que esteve fazendo esse tempo todo na rua?@ Que horas acha que já é[line=4]"@
+ld c,"tachi/aki_t15b",crossfade,400
+`"N[line=2]Nii-san, você está[line=4]"@
+` …… A Akiha está chocada.@
+` Por quê?@
+` Na verdade, nem estou interessado no motivo.
+\
+ld c,"tachi/aki_t17b",crossfade,400
+`"Nii-san……!@ O que foi que aconteceu?@ Você está todo machucado e…… Está terrível."@
+`"………………"@
+` Eu não digo nada.@ Não consigo dizer nada.@
+` Para falar a verdade, nem sei o que ela está falando.@
+ld c,"tachi/aki_t23b",crossfade,400
+`"[line=6]"@
+` Ela engole em seco e vem na minha direção.
+\
+`"Eu vou cuidar dos seus ferimentos.@ Nii-san, você consegue andar?"@
+`"………………"@
+` Sim.@ Estou vivo, consigo andar.@
+`"Eu vou cuidar desses ferimentos, por favor, venha para a sala de estar.@ Ah, seria bom tomar um banho[line=4]mas acho que é impossível; vou te limpar com água quente."@
+cl a,lshutter,800
+` Ela vai para algum lugar.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40d",lcartain,800
+` [line=4]A Akiha cuida de mim sozinha.@
+` Ela limpa toda a sujeira do meu corpo com uma toalha e chega ao ponto de me preparar uma refeição, e ainda me acompanha até o meu quarto.@
+` Durante todo esse tempo… Eu não fui capaz… De dizer uma única palavra.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"…… Vou para o meu quarto agora.@ Por favor, descanse bem esta noite, Nii-san."@
+` Ela não me perguntou nada.@
+` Ela não me perguntou nada e saiu tranquilamente.@
+br
+` Desaparecendo.@
+` Assim como… A garota… Que eu matei.@
+br
+` [line=4]Quando esse pensamento passa pela minha cabeça, eu agarro o braço da Akiha.
+\
+play "*9"
+bg "event/aki_e02",crossfade,800
+`"Nii-san[line=2]!?"@
+` E em seguida, eu a abraço…
+` …… Abraço com muita força.@
+` Eu queria sentir o calor do corpo de alguém, não quero ficar sozinho.
+\
+`"Aki[line=4]ha."@
+` Abraço ela sem pensar direito no que estou fazendo.@
+` …… A Akiha não diz nada.@
+` Embora devesse, ela não se afasta do meu corpo trêmulo.@
+` Só o que eu quero é ficar desse jeito.
+\
+`"Eu[line=4]sou o pior tipo de pessoa que existe no mundo."@
+` Eu confesso.@
+` Do meu pecado[line=4]eu escapo para os braços da Akiha.@
+`"…… Eu queria salvá-la…… Eu queria salvá-la…… Mas não pude fazer nada."@
+` Como se buscasse salvação, aperto mais ainda o abraço da minha irmã.@
+!w3000
+` Ela não fala nada.@
+` Como se fosse repelida pela minha fraqueza, a Akiha se afasta.
+\
+bg #000000,tshutter,400
+bg "bg/bg_40d",tshutter,400
+ld c,"tachi/aki_t11b",crossfade,800
+`"…… Nii-san.@ Eu não sei o que te aconteceu.@ Acredito que seja algo que eu não deveria perguntar."@
+`"[line=4]"@
+`"Não posso te dar nenhuma solução.@ Você precisa resolver os seus próprios problemas.@
+` Então[line=4]por favor, não corra para mim por algo assim."
+\
+` …… Suas palavras me acertam como sal grosso em uma ferida aberta.@
+` Ela me repreendeu de uma forma tão correta que finalmente voltei ao normal.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"…… Desculpa.@ Esqueça de tudo isso, por favor."@
+`"…………"@
+cl a,lshutter,800
+` Ela vai na direção da porta sem responder.@
+` E quase sai, mas para de repente.
+\
+`"[line=4]Não vou perguntar o que houve.@
+ld c,"tachi/aki_t12b",lshutter,400
+` Mas quando você saiu, eu fiquei com muito medo.@ Tive a sensação de que nunca mais iria voltar.@ Igual aconteceu oito anos atrás, eu tive essa mesma premonição."
+\
+`"[line=7]"@
+ld c,"tachi/aki_t25",crossfade,400
+`"Mas você voltou, Nii-san.@
+` …… Você falou que não foi capaz de salvar alguém.@ Mas pelo menos, foi capaz de me salvar dessa premonição."
+\
+`"[line=4]Então[line=4]seja bem-vindo de volta, Nii-san.@
+` O seu retorno me deixou extremamente feliz…… Lembre-se sempre disso."@
+ld c,"tachi/aki_t09b",crossfade,400
+` Envergonhada ao dizer essas palavras, ela faz uma breve mesura.
+\
+`"Akiha[line=6]"@
+`"Era tudo que eu tinha para falar.@
+ld c,"tachi/aki_t16b",crossfade,400
+` …… Vou ser bem clara para que o lerdo do meu Nii-san possa entender.@ Estou te dizendo para nunca mais abandonar a sua irmãzinha linda e fofa."@
+`"Aha-haha[line=4]tá bom, já entendi.@ Mas[line=4]linda e fofa?@ Não está certo falar isso de si mesma."@
+` Finalmente consigo responder.@
+` Mas só de ouvir isso ela sorri cheia de orgulho.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Bem.@ Até amanhã.@ Tenha bons sonhos, amanhã será um novo dia.@
+` Não vou permitir que continue nesse clima amanhã."@
+cl a,lshutter,800
+` Ela sai do quarto.@
+` Eu[line=4]olho para o meu corpo todo machucado e caio na cama.
+\
+`"Ha[line=5]ah."@
+` Um suspiro profundo.@
+` Como se estivesse me despedindo de alguma coisa, eu suspiro profundamente.
+\
+`"…… Desculpa, Yumizuka.@ Eu decidi que[line=4]não vou passar o resto da vida com esse remorso."@
+` …… Tudo que aconteceu em relação à ela será uma cicatriz permanente em mim.@
+` Mas preciso acreditar que foi a coisa certa a se fazer.@
+` Sei que cometi um pecado e um dia vou ter que aceitar a minha punição.@
+` Mas não posso ficar arrependido por estar vivo.
+\
+`"…… Estou de volta, Akiha."@
+` Eu murmuro em voz alta meus agradecimentos sinceros.@
+br
+` …… A minha mente começa a flutuar.@
+` Tanto o meu corpo como a minha mente estão exaustos e se aproximam rapidamente do sono iminente.@
+br
+` Neste momento[line=4]eu pensei…
+br
+` É bom estar vivo.@
+` Pelo menos, tenho um lar para onde retornar.@
+` E a minha família inestimável é quem me aguarda neste lar[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w3000

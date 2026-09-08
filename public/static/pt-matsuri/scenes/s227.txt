@@ -1,0 +1,135 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+br
+` [line=3]Eu não posso.@
+` Pular duas refeições não vai me matar.@
+br
+`"…… Não vou almoçar."@
+` Não quero ter outra visão de um alimento com algo vermelho em cima.@
+` Para ser sincero, estou me sentindo mal só de olhar para o sanduíche do Arihiko.@
+` Porque tem vários tomates no meio dele.
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"Qual o problema?@ Sua saúde anda piorando, né?@ Não está se adequando ao novo estilo de vida?"@
+`"Ah, deve ser isso.@
+` Elas reclamam que estou atrasado mesmo quando acordo às sete horas em ponto e tem um toque de recolher às oito da noite.@ Se eu passar a noite em outro lugar sem pedir permissão, tenho que passar por um interrogatório depois.@ É como se fosse uma prisão, não concorda?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Mas assim não é melhor?@ É uma vida mais adequada.@ Dormir cedo e acordar cedo.@ Você não vai ser um adulto muito bom se abusar demais na juventude."@
+`"Eu concordo.@ …… Mas parece que você consegue dar mais força ao argumento do que qualquer outra pessoa."@
+br
+` Foi um contraexemplo extremamente poderoso.
+\
+ld c,"tachi/ari_t02",crossfade,400
+`"Sério?@ Você está sendo bem sincero hoje.@ Tá bom, vou dividir meu sanduíche com você."@
+`"Já falei que não vou comer.@ Não se preocupe comigo e coma rápido, o horário do almoço vai acabar logo."@
+`"Então tá."@
+` Ele segura seu sanduíche com as duas mãos e começa a comer.@
+cl a,crossfade,400
+br
+` [line=6]E então.@
+br
+ld l,"tachi/cel_t04",lshutter,400
+`"Olá, meninos."@
+` A Senpai chega com algo que parece um bentô.
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Ah?@ Senpai, pensei que você sempre comesse no refeitório."@
+ld l,"tachi/cel_t01a",crossfade,400
+`"Não, eu não tenho uma rotina definida para o almoço.@ Depende só do meu humor."@
+` Ela desfaz o nó do belo lenço que envolve seu bentô.@ Mas parece muito grande para uma garota.@
+`"…… Quer dizer que você acordou mais cedo e preparou seu almoço de manhã?"@
+`"Sim.@ Acordei antes das sete horas hoje e…… espera aí, o que está me fazendo dizer, Tohno-kun!?"@
+ld l,"tachi/cel_t08",crossfade,400
+`"…… Ahahaha, nada demais, mas…… Senpai, você não é boa em acordar cedo?"
+\
+ld l,"tachi/cel_t02",crossfade,400
+`"Hã[line=4]?@ Ah, não, não mesmo… não sou boa em acordar cedo de jeito nenhum."@
+` De repente, ela ficou parecendo uma aluna sendo repreendida pelo professor.@
+ld l,"tachi/cel_t01a",crossfade,400
+`"Minha família era dona de uma padaria, por isso tínhamos que acordar cedo todos os dias.@
+` Mas sempre fui péssima nisso.@ Meu pai sempre ficava bravo comigo quando eu era criança."
+\
+` O quê!?@ Uma padaria!?@
+ld r,"tachi/ari_t04",crossfade,400
+` O Arihiko e eu trocamos olhares.@
+` Ele deve estar imaginando a mesma coisa que eu: A Ciel-Senpai fazendo a massa do pão com seus belos dedos branquinhos e depois colocando para assar.
+\
+ld l,"tachi/cel_t03",crossfade,400
+`"Minha batalha diária com meu pai durou dez anos, mas no final, ele desistiu e me disse que era melhor trabalhar por duas pessoas do que tentar me treinar.@
+` Desde então, posso acordar quando quiser."@
+br
+` A Ciel-senpai estufa seu busto muito bem desenvolvido.@
+br
+`"Ah, é mesmo?@ Estou meio surpreso; você parece tão confiável."@
+ld l,"tachi/cel_t02",crossfade,400
+`"Bem, sempre me esforço para não cometer nenhum erro perto de vocês.@ Mas a verdade é que sou bem desajeitada."
+\
+` Hum, talvez ela esteja certa.@
+` Pensando bem, eu comecei a me aproximar da Senpai quando a vi, uma veterana, sozinha no pátio consertando aquela cerca, e aí resolvi ajudá-la.@
+` Se ela fosse tão desajeitada assim, nunca faria algo que não a beneficiasse em nada.
+\
+`"Entendi.@ [line=3]Mas eu gosto de pessoas desajeitadas.@ Posso ficar mais relaxado perto delas."@
+`"Verdade." O Arihiko concorda comigo.@
+`"Então, por não ser boa em acordar cedo, você come no refeitório?"@
+ld l,"tachi/cel_t03",crossfade,400
+`"Sim, embora eu costume comer no refeitório, às vezes faço o meu próprio almoço.@ Vocês também não fazem parte dos que comem no refeitório?"@
+ld r,"tachi/ari_t03",crossfade,400
+`"Não, no nosso caso também depende do nosso humor.@ Quando éramos calouros, minha irmã costumava preparar meu almoço, mas o Tohno aqui sempre comeu no refeitório ou senão comprava pão, então eu acabei fazendo a mesma coisa."
+\
+ld l,"tachi/cel_t12",crossfade,400
+`"Humm.@ Então o Tohno-kun é uma pessoa que muda de humor com frequência."@
+ld r,"tachi/ari_t02",crossfade,400
+`"Pois é.@ Ficar perto dele acaba te esgotando, tenha cuidado, Senpai."@
+ld l,"tachi/cel_t04",crossfade,400
+br
+` "É verdade," a Senpai concorda com ele e abre seu bentô.@
+` A metade do lado esquerdo está cheia de arroz e a do lado direito está completa com os acompanhamentos, mas continuo achando que é grande demais.
+\
+ld l,"tachi/cel_t01a",crossfade,400
+`"Bem, vou começar a comer.@ Tem algum problema de eu usar essa cadeira?"@
+`"Uma pessoa que não está presente não vai se importar com isso.@ Tenho certeza que o Takada-kun iria adorar que você usasse a cadeira dele, Senpai."@
+` O Takada-kun é um cara que senta perto de mim.@ Ele é meio gordo e também uma ótima pessoa.@
+` De vez em quando ele pega dinheiro emprestado por um período que dura mais ou menos até o fim da eternidade.@
+cl a,crossfade,400
+` Ao invés de colocar o bentô em cima da minha mesa, a Senpai o coloca no colo.@
+` Ao lado dela, ainda de pé, o Arihiko começa a abrir o pacote de plástico do seu segundo pão.@
+` E ao lado deles, eu fico olhando à esmo pela janela.
+\
+ld l,"tachi/cel_t12",crossfade,400
+`"Ué?@ Tohno-kun, não vai almoçar?"@
+`"Não, hoje não."@
+ld l,"tachi/cel_t08",crossfade,400
+`"Ficar sem o almoço…… Não vai acabar ficando faminto o resto do dia?"@
+`"Nada.@ Não estou com fome, por isso ficar sem o almoço não vai me afetar nem um pouquinho."@
+ld l,"tachi/cel_t02",crossfade,400
+`"Uau, isso é incrível.@ Se eu pular uma refeição sequer, paro de funcionar na mesma hora.@ Eu até desmaio de fome.@
+` …… É meio constragedor mas, eu sempre como mais do que as outras pessoas, e mesmo assim fico com fome rapidinho."
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Não se preocupe com isso.@ Senpai, você é muito mais desenvolvida que muitas garotas por aí.@ Tenho certeza que você tem que comer muito para manter esses seus seios grandes."@
+` É[line=4]o Arihiko falou a verdade.@
+` Para ser sincero, ambos queremos que ela coma muito para crescer mais.@
+ld l,"tachi/cel_t11",crossfade,400
+` Será que ela ficou com vergonha?@ Ela está com uma expressão que não entendo.@
+` …… Bem, provavelmente deve ter ficado feliz com o elogio.
+\
+ld l,"tachi/cel_t01a",crossfade,400
+`"Mas Tohno-kun, tem certeza que vai ficar bem se pular o almoço?"@
+`"Sim.@ Pular algumas refeições não é algo raro para mim.@ Hoje eu só não tomei o café da manhã e não vou almoçar, devo ficar tranquilo até a hora da janta."@
+ld l,"tachi/cel_t08",crossfade,400
+`"Nossa[line=3]Tohno-kun, seu corpo vai acabar quebrando com esse estilo de vida."@
+`"Fique tranquila.@ Isso é meio que uma restrição mental.@ …… Devido a um acidente que sofri há alguns anos, meu médico disse que eu não deveria ganhar peso, então é até melhor eu pular algumas refeições de vez em quando."
+\
+ld l,"tachi/cel_t12",crossfade,400
+`"Hum.@ Acho que até os garotos pensam em dieta de vez em quando."@
+` A Senpai me observa por um tempo e, depois de pensar um pouco, fecha seu bentô.@
+ld l,"tachi/cel_t08",crossfade,400
+`"Acabei de me lembrar que tenho que fazer uma coisa, com licença."@
+` Reunindo suas coisas rapidamente, ela desaparece como o vento.@
+cl l,lshutter,400
+`"[line=3]Mmm, que fofa!"@
+` O Arihiko comenta sobre a reação da Senpai enquanto a observa sair.
+\
+bg #000000,crossfade,1500

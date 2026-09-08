@@ -1,0 +1,140 @@
+monocro off
+wavestop
+playstop
+bg "bg/bg_06b",crossfade,1500
+` Después de clases, la oscuridad del ocaso llena rápidamente el salón.@
+` El sol se está hundiendo bajo el horizonte.@
+` No hay nadie más en el salón.@
+` Soy al único que le gusta sentarse aquí y no hacer nada.@
+br
+`"[line=5]"@
+` El salón está pintado de rojo.@
+br
+bg #000000,crossfade,800
+bg "bg/ima_07",crossfade,800
+wave se_01
+` [line=3]No me gusta observar la puesta del sol.@
+` Me hace pensar en la sangre, y me recuerda los eventos de los últimos días.
+\
+`"[line=6]"@
+` Pero, no me siento particularmente con ganas de regresar a casa.@
+` Miro inexpresivamente por la ventana.@
+br
+` Rojo.@
+` Rojo, anochecer.
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
+br
+`"Ah[line=4]au."@
+br
+` La vieja herida sobre mi pecho duele.
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
+` El color rojo.@
+` Algo… rojo.@
+` Tal como, sangre humana.@
+` Montones de sangre… pegajosa, con un fuerte olor.
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
+`"[line=4]Gah."@
+br
+` Duele.@
+` Tengo puestos mis lentes, pero, me duele la cabeza.@
+br
+`      ¿Por qué?
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+br
+br
+wave se_01
+` Dolor palpitante.@ Mi cabeza
+`   ¿Por qué?@
+`          Mi cabeza.@
+` ¿Por qué?@
+`                Palpit
+` a  p    por qué[line=4]
+!w750
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+quakey 3,100
+wave se_10
+wave se_05
+quakey 3,100
+bg "bg/bg_06b",crossfade,1500
+br
+br
+br
+` Comienzo a jadear con fuerza.@
+br
+br
+` Mi respiración es entrecortada.@
+` Me estoy poniendo[line=4]horriblemente nervioso.@
+` Estoy irritado; hay algo que no puedo soportar, y no puedo calmarme a menos que me desquite con algo[line=4].
+\
+`"…… ¿Eres tú[line=2]Tohno-kun?"@
+ld c,"tachi/cel_t07a",crossfade,1500
+play "*3"
+`"¿Huh[line=4]Sen… pai?"@
+` Senpai tiene una mirada muy seria en su rostro al entrar en el salón.@
+`"Escuché un sonido como de alguien volcando pupitres…… ¿eras tú, Tohno-kun?"@
+`"[line=4]¿Eh?"@
+` Me doy la vuelta.@
+` Ciertamente, hay pupitres esparcidos y volcados por todas partes.
+\
+`"…… Ah…… sí, así parece.@ Supongo que me irrité un poco sin razón, um[line=2]"@
+` ¿En verdad hice esto?@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Cielos, no puedes hacer eso.@ No sé qué sucedió, pero no deberías desquitarte con las cosas."@
+cl c,crossfade,400
+br
+` Senpai comienza a reorganizar los pupitres.@
+` Hago lo mismo en silencio.
+\
+`"…… Lo siento.@ No me… reconozco a mí mismo."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Hmm.@ Tohno-kun, estás actuando extraño.@ Estabas distraído bajo la lluvia en aquella ocasión, y hoy te dristraías en medio de este revoltijo de pupitres."@
+`"Sí[line=2]sí, estoy cansado y eso me está haciendo actuar extraño."@
+` Respiro profundamente.@
+` …… ¿Será porque vi la cara de Senpai?@
+` Ese dolor de cabeza y la irritación que tenía se desvanecen como si nunca hubiesen estado ahí.
+\
+`"Lo siento, te he causado problemas de nuevo.@ Me iré ahora, así que te veré mañana."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Oh, Tohno-kun, ¿ya te vas a casa?"@
+` Sí, asiento.@
+` Como si nada acabase de suceder, ella me muestra una sonrisa cordial.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Qué coincidencia.@ También estaba pensando en volver a casa.@ Ya que se da la ocasión, ¿puedo acompañarte?"@
+`"No, en verdad aprecio la oferta, pero…… ¿tu casa no está en la dirección opuesta?@ No podemos ir juntos a casa."@
+`"Lo sé, así que caminaremos juntos hasta la entrada."@
+`"…… Bien, en ese caso, será un placer."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Sí.@ Tengo que buscar mis cosas, por favor espera un minuto."@
+cl c,lshutter,800
+` Con pasos ligeros, Senpai sale corriendo del salón.@
+br
+` En verdad sólo tardó un minuto en regresar.
+\
+ld c,"tachi/cel_t01a",lshutter,400
+`"Gracias por esperar.@ ¡Bien y ahora, vamos!"@
+` Ella es muy alegre.@
+` ¿Cómo podría decir esto?@ Sólo verla aleja los oscuros sentimientos que tenía anteriormente.@
+` Si una persona tan genial me pide que la acompañe, debería ser castigado si todavía me sintiese desdichado.
+\
+`"…… De acuerdo, vamos.@ Pero, es un viaje muy corto hasta la entrada principal."@
+ld c,"tachi/cel_t02",crossfade,400
+`"Ah, es cierto.@ Tendremos que ir lo más lentamente posible para hacer que tenga valor."@
+` Senpai comienza a caminar.@
+` Siguiéndola, dejo al oscurecido salón de clases detrás de mí.
+\
+bg #000000,lcartain,1500
+playstop

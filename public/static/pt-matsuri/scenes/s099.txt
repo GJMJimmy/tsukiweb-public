@@ -1,0 +1,37 @@
+monocro off
+playstop
+waveloop se_02
+bg "bg/bg_29c",notrans,0
+` …… Não, ainda é muito cedo.@
+` O Nrvnqsr acabou de chegar.@
+` Tenho que esperar mais um pouco[line=3]enquanto sua atenção não estiver concentrada apenas na Arcueid, não vou poder fazer um ataque surpresa.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Você está enganado, Nrvnqsr.@ Os Ancestrais dos Apóstolos da Morte não são um grupo de vinte e sete, são vinte e oito.@ Você não reconhece 'A Serpente' como um dos seus?"@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Claro que não.@ Os ideais dele são diferentes dos nossos.@ Ele é um vampiro, mas não possui dentro de si o propósito de ser um vampiro.@ Consequentemente, não o aceitamos como um de nós."
+\
+ld c,"tachi/nero_t02c",crossfade,400
+`"[line=4]Mas nós somos velhos amigos.@ Acho que eu entendo ele melhor do que os outros Apóstolos da Morte."@
+cl c,crossfade,400
+ld c,"tachi/ark_t07",crossfade,400
+`"…… Entendo.@ Pensando bem, você é parecido com 'A Serpente', já que também é diferente dos outros vampiros.@ Como ambos são hereges, devem compartilhar interesses comuns."
+\
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Não.@ Você está sendo redundante, os Apóstolos da Morte já são criaturas hereges por natureza.@ O fato de termos nos separado do rebanho não significa que somos parecidos."@
+cl c,crossfade,400
+ld c,"tachi/ark_t07",crossfade,400
+`"Sério mesmo?@ Vindo até este país para me perseguir, acho que vocês dois são bem parecidos."@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Não seja ridícula.@ Você que é cheia de caprichos.@
+` Seu objetivo é executar os Apóstolos da Morte, então por que persegue a Serpente de Akasha com tanta insistência?@ O veneno da 'Serpente' não é algo que a Princesa dos Ancestrais Originais deveria perseguir com tanta teimosia."
+\
+cl c,crossfade,400
+` …… A voz do Nrvnqsr fica um pouco mais alta.@
+` A provocação da Arcueid deve estar funcionando.@ O Nrvnqsr está olhando apenas para ela, sua inimiga.@
+br
+` [line=3]O que eu devo fazer agora?
+\

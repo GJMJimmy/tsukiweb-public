@@ -1,0 +1,38 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` Não estou com vontade de ir direto para a mansão, vou perambular um pouco pela cidade.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25a",lcartain,800
+` [line=4]Chego em frente a estação, sem motivo aparente.@
+br
+` Desde que fui convidado a voltar a viver na mansão Tohno estive com pouco dinheiro, então não quero ficar gastando aqui.
+\
+` Quando morava com os Arimas, a Keiko-san sempre me dava algum dinheiro para limpar ou cuidar do jardim…… mas agora que estou na mansão, acho que não posso esperar por esse tipo de renda.@
+` Gostaria de fazer um trabalho de meio período, mas a Akiha nunca permitiria isso.
+\
+` ……………… *suspiro*@
+` Refletindo sobre minha situação complicada, deixo escapar um suspiro.
+\
+bg #000000,lshutter,800
+bg "bg/bg_25a",lshutter,800
+` Sem ter nada para fazer, fico observando as pessoas passarem.@
+` Passo cerca de uma hora assim, até que percebo o quão sem sentido é fazer isso.
+\
+`"…… Mas que droga estou fazendo?"@
+` Eu mesmo não sei.@
+` Será que eu estava pensando que poderia ver alguém com cabelos dourados passando se ficasse aqui observando as pessoas?
+\
+`"…… Que estupidez.@ Você nunca mais vai ver a Arcueid, Shiki."@
+` Desencosto da parede e sigo para a mansão.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_32b",lcartain,1500
+` Subindo a colina, retorno à mansão.@
+` Ainda não são nem seis horas da tarde.@
+` Ainda falta uma hora para o jantar.@ Vou passar o tempo no meu quarto[line=3]
+\
+bg #000000,lcartain,800
+!w1000

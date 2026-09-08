@@ -1,0 +1,91 @@
+monocro off
+play "*3"
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+play "*3"
+` For the time being, we go into town.@
+` All that's left is to branch off the main street and go to the empty alley[line=4]
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Huh?@ What is it, Shiki?"@
+`"Nothing.@ It's different that normal, so I was just a little confused."@
+`"?"@
+cl c,crossfade,800
+` Arcueid perplexedly cocks her head to the side.@
+` …… It seems like she doesn't notice at all.
+\
+` I can feel the weight of stares all around me.@
+` Just walking down the street causes people all around to cast glances at us.@
+` …… It doesn't need to be said, but it's probably because Arcueid really stands out.
+\
+` I'm a little aware of it, but everyone else's reactions make me even more conscious of it, and it's a bit troubling.@
+` Arcueid acts just like she normally does, but since I can't help but be overwhelmed by her femininity, I can't seem to make any meaningful conversation.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Hey, do you hear me Shiki?@ I'm asking you where we're going."@
+`"We're almost there so hold on.@ We're going somewhere you can relax."
+\
+bg #000000,lcartain,1500
+bg "bg/bg_31a",lcartain,1500
+br
+` [line=4]And we arrive at the alley.
+\
+`"Here we are.@ People don't normally come by here, so you can relax here[line=4]"@
+ld c,"tachi/ark_t06",crossfade,400
+`"……………………"@
+` Huh[line=4]?@
+` Her gaze suddenly turns heartless, almost deadly.
+\
+`"Arcueid……?@ Don't tell me, you're not happy with this place……?"@
+`"……………………"@
+` …… She seems so angry she can't even speak.
+\
+`"That's odd…… You're a vampire, so I thought you would like a place like this better than somewhere crowded[line=4]"@
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=10]!"@
+` The light in her eyes sharpens.@
+` …… This isn't good.@ This might be the first time I've seen her this angry.@
+cl c,crossfade,800
+\
+` Giving a deep sigh, Arcueid looks up again.@
+ld c,"tachi/ark_t09",crossfade,400
+`"Hey, Shiki.@ What kind of a joke is this?"@
+`"Ah[line=4]uh."@
+` Frightening.@ Her smiling face is really frightening.
+\
+`"No, um…… I'm really sorry.@ I really messed up."@
+` I bring my hands together and implore forgiveness.@
+` She keeps smiling.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"That's right, there's really nothing to do here.@ The only thing we could do here is to replay the time we first met."@
+br
+` When we first met!?@ That means[line=4]
+br
+`"Yeah, the results may turn out a little different from back then, but that might be fun too, right Shiki?"
+\
+br
+br
+` [line=4]This is a threat.@
+` She counterattacks with a smile.
+\
+`"…… I said I'm sorry.@ I'll make it up to you, so please stop smiling like that.@ I'll take you somewhere better."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Really?@ I was getting in the mood for it too."@
+` She looks disappointed.
+\
+` …… I really must contemplate my actions.@
+` Even though Arcueid is a vampire, I must have been really stupid to take her to an alley for a date……
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_25a",lcartain,800
+` For four hours…
+` Appropriate for the ball of curiosity that is Arcueid, we end up going to the department store in front of the station.
+\
+` It seems like Arcueid made me take her there just to trouble me, but somewhere along the way, I guess it started to be pretty fun for her and she became happy again.@ It was a little tiring, but I think it was a good time.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

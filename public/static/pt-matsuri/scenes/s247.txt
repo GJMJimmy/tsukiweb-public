@@ -1,0 +1,28 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11a",notrans,0
+`"…… Senpai, eu fiz alguma coisa errada?"@
+` Faço uma pergunta direta.
+\
+`"……………"@
+` Ela não responde.@
+` Posso sentir sua inquietação através da porta.@
+`"Senpai?"@
+` Toc toc.@ Tento chamar novamente.@
+br
+` Depois de alguns segundos…
+` Depois de um silêncio extremamente desconfortável, ouço a voz dela mais uma vez.
+\
+`"…… Não, você não tem culpa de nada.@ Não posso te ver agora por causa das minhas atuais circunstâncias."@
+`"?@ Que circunstâncias, Senpai?"@
+`"Está tudo bem, por favor, almoce sozinho!@ Vou estar mais calma quando as aulas terminarem, então até lá, eu não vou te ver!"
+\
+`"………… Hum."@
+` Seu tom de repreensão me afasta e me obriga a levantar a bandeira branca.@
+br
+`"Entendi.@ Vou voltar para minha sala."@
+` Dizendo isso, deixo para trás a sala do clube de cerimônia de chá.
+\
+bg #000000,lcartain,800
+!w1000

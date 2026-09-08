@@ -1,0 +1,94 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Deve ter alguém na sala de estar.@
+br
+` Ficar com alguém certamente é mais agradável do que ficar sozinho.
+\
+bg #000000,lcartain,400
+play "*3"
+bg "bg/bg_34c",lcartain,400
+` Entro na sala de estar e vejo a Kohaku-san.@
+ld c,"tachi/koha_t02",crossfade,400
+`"Shiki-san.@ O que posso fazer por você?@ O jantar é só daqui a uma hora."@
+`"Nada, eu vim aqui para relaxar, não para comer.@ Estou atrapalhando?"@
+`"Não, fique à vontade.@ Vejamos…"
+\
+cl a,crossfade,400
+ld c,"tachi/his_t23",tshutter,800
+`"Nee-san, em relação à edícula…"@
+`"Olá.@ Desculpe a intromissão, Hisui."@
+ld c,"tachi/his_t01",crossfade,400
+`"…… Seja bem-vindo de volta, Shiki-sama.@ Sinto muito por não poder ter te recebido quando chegou."@
+`"Está tudo bem.@ Eu que peço desculpas por não avisar assim que cheguei."@
+ld c,"tachi/his_t02",crossfade,400
+`"[line=7]"@
+` As bochechas da Hisui ficam levemente vermelhas.@
+` Pouco a pouco, estou conseguindo arrancar algumas expressões desta garota.@ Estou contente com isso.
+\
+cl a,crossfade,400
+ld l,"tachi/koha_t01a",crossfade,400
+`"Você chegou na hora certa.@ Hisui-chan, poderia preparar uma bebida para o Shiki-san?"@
+ld r,"tachi/his_t01",crossfade,400
+`"Sim.@ Shiki-sama, o que gostaria de tomar?"@
+`"Hum.@ Como não falta muito para o jantar, só um chá está ótimo.@ Eu só vim aqui para conversar, não quero causar problemas a vocês."@
+`"Só um momento, por favor."
+\
+cl a,crossfade,400
+bg #000000,tshutter,800
+bg "bg/bg_34c",bshutter,800
+` A Hisui retorna com três xícaras de chá e o tempo passa lentamente e silenciosamente.@
+br
+`"A propósito, você estava falando sobre a edícula, né, Hisui?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim.@ Você tem alguma pergunta em relação a ela?"@
+`"Nada de especial, é que a Akiha estava dizendo que ninguém tinha permissão para ir até lá.@ Por acaso aconteceu alguma coisa naquele lugar?"
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t02b",crossfade,400
+`"Não, não aconteceu nada.@ A edícula simplesmente servia como alojamento para os empregados, por isso não há motivos para você ir até lá, Shiki-san."@
+`"Alojamento para os empregados……?"@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Sim.@ Agora somos apenas a Hisui-chan e eu, mas há pouco tempo havia mais de dez empregados nesta casa.@ Como não havia espaço suficiente para tanta gente dentro da mansão, aquela edícula foi construída."
+\
+cl a,crossfade,400
+ld r,"tachi/his_t09",crossfade,400
+`"Nee-san[line=3]você não deveria falar sobre isso."@
+ld l,"tachi/koha_t11",crossfade,400
+`"Ah."@
+cl a,crossfade,400
+` Depois que a Hisui diz isso, a Kohaku-san fica olhando à sua volta com um ar de culpa.@
+` …… Como não há qualquer sinal da Akiha estar por perto, a Kohaku-san suspira aliviada.
+\
+ld c,"tachi/koha_t04b",crossfade,400
+`"Shiki-san!"@
+`"Hum… Sim…?"@
+`"…… Essa conversa que acabou de acontecer é um segredo!"@
+` Ela aperta a minha mão com força.@
+`"Tudo bem[line=3]não vou falar nada para a Akiha."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Muito obrigada."@
+` Ela suspira aliviada outra vez.@
+` Parece que a Akiha proibiu que se falasse sobre a edícula.
+\
+cl a,crossfade,400
+` [line=4]Mas por que será?@
+` A edícula que costumava ser usada como alojamento dos empregados.@
+` A Akiha não quer que ninguém vai lá.
+\
+`"Kohaku-san.@ Há quanto tempo a edícula está fora de uso?"@
+ld l,"tachi/koha_t11",crossfade,400
+`"Uhhh… Hisui-chan?"@
+ld r,"tachi/his_t01b",crossfade,400
+`"…………"@
+` A Hisui apenas balança a cabeça em silêncio.@
+` Parece que nem isso podem falar.@
+`"Mas o que é isso?@ É segredo?"
+\
+ld r,"tachi/his_t01",crossfade,400
+`"[line=3]Sim.@ Falar sobre a edícula seria ruim para a sua saúde, Shiki-sama."@
+` E com essa última resposta, a conversa sobre a edícula termina.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

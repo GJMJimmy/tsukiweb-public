@@ -1,0 +1,222 @@
+playstop
+wavestop
+bg "bg/bg_40d",notrans,0
+`[line=3]今天晚上要是也不睡就可以了。@
+br
+`「……是啊。@今天晚上不睡觉的话，如果[line=2]」@
+`　明天，又出现了新的受害者的话、就说明我和杀人事件没有关系了。
+\
+`「[line=4]好」@
+`　这个方法，在某些地方有一些微妙的偏差，这我也清楚。@
+`　就这样一直醒着，期待着我不认识的某个人被杀死，怎么想也觉得很奇怪。@
+`「[line=3]但是，除了这个以外我还能做些什么吗」@
+`　对于我[line=3]对于连记忆都模糊不清的我来讲，没有什么别的办法了。@
+br
+`[line=3]无论如何。@
+`　除了今天晚上不睡觉，也不做梦，一直等到早上之外，也没有其他方法了。
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+`[line=4]过了一个小时。@
+`　还能够，维持意识的清醒。
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+br
+br
+`[line=4]又过了一小时。@
+`　还能够，维持意识的清醒。
+\
+bg #000000,crossfade,400
+bg "bg/bg_40d",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+`[line=4]一小时。@
+`　还能够　维持意识　的清醒。
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`[line=4]时间，已经到了凌晨一点。@
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+`　还能够　维持　意识　的清醒。
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`[line=4]还剩、四个小时、就到早上了。
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+`　……有些，不对劲了。@
+`　明明　意识　还在。@
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+`　……视野、却已经　关闭了起来。@
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_40d",crossfade,800
+br
+`　明明，一定要醒着才成。@
+`　明明，还一点也不困。@
+`　为什么
+!w750
+`　为什么
+!w1350
+`　为什么
+!w1750
+`　身体　却如此　想、睡、觉、呢[line=5]
+\
+bg #000000,tcartain,800
+!w2000
+!w3000
+waveloop se_11
+bg "bg/bg_26a",notrans,0
+`「哈啊[line=3]哈啊[line=4]哈啊」
+\
+`　感觉，在被什么人注视着。@
+`　“我”。@
+`　用布满血丝的眼睛，寻找着在路上行走的人。
+\
+br
+br
+br
+br
+br
+br
+`[line=3]因为时间的问题吗。@
+`　　和昨夜想比，行人更加稀少了。
+\
+`　……谁，在盯着我看。@
+`　找不到。@
+`　今晚，也找不到想找的人物。@
+br
+br
+br
+br
+textcolor #ff0000
+`　　　　变得　有些烦躁
+\
+textcolor #ffffff
+`「哈啊[line=3]哈啊[line=3]哈啊[line=4]」
+\
+`　应该改变地点了。@
+`　今天晚，街上已经不会有收获了。
+\
+bg "bg/bg_24c",crossfade,400
+`　在屋顶走啊走，到了一个乱七八糟的地方。@
+`　……从最高的屋顶，扫视着街上。
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #ff0000
+`　　　　　不要看
+\
+textcolor #ffffff
+`「[line=4]有了」@
+`　看到了一个独自行走的人。@
+`　是个女的。@
+`　这次不会错了
+`　如果是秋叶 的话，就好了。
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`　　　　不要　看着“我”
+\
+textcolor #ffffff
+`　不，其实也无所谓。@
+`　再一次。@
+`　再一次、我想品尝那种感觉[line=4]
+\
+bg #000000,notrans,0
+wave se_13
+bg "bg/ima_12b",lshutter,400
+`　从后面，尽可能不伤到她的身体，把她杀了。@
+`　拽着头发，拖着秋叶 的尸体。@
+bg "bg/bg_22c",lshutter,800
+`「哈啊[line=4]哈啊[line=4]哈啊」@
+`　从秋叶 的脖子咬进去，吸着血。@
+br
+`[line=3]真无聊。@
+`　今晚，没有昨晚，那么好玩了。@
+`　这么短的头发，根本就不是秋叶 。
+\
+`「……真无聊……！」@
+`　开始生气了。@
+`　就算把尸体撕成碎片，也消不了气。@
+`　伪物。@
+`　这个伪物，真不爽。
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`　　　　　别偷看
+\
+textcolor #ffffff
+`「哈啊[line=4]哈啊[line=4]哈啊[line=4]」@
+br
+`　好像用力过度了。@
+`　马上夜晚就会结束。@
+`　到了早晨，志贵就会醒过来。@
+br
+`「今天晚上，也够累了。@还是明天，再做吧」@
+`　嗯，这就好了。@就这样吧。
+\
+`　那么。@
+`　在早晨来临之前，在谁也没有注意到之前，今天也要回到学校去[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

@@ -1,0 +1,248 @@
+play "*9"
+br
+br
+br
+br
+br
+br
+br
+`[line=7]문득，눈을　떴다．
+\
+br
+br
+br
+br
+br
+`[center]어두운　밤．@
+`[center]집안에는　아무도　없다．
+\
+br
+br
+br
+br
+br
+br
+`[center]혼자　있으면　무서우니까
+`[center]모두를　만나고　싶어서　정원에　나왔다．
+\
+bg "bg/ima_02",crossfade,800
+!w1000
+br
+br
+br
+br
+br
+`[center]저택의　정원은　굉장히　넓고
+`[center]주위는　깊고　깊은　숲으로　둘러싸여서．@
+`[center]숲의　나무들은　검고　검은
+`[center]커다란　커텐　같았다．
+\
+br
+br
+br
+br
+br
+`[center]주위는　마치　어딘가의　극장　같다．@
+`[center]사락　하고　나무들로　된　커텐이　열리면서，
+`[center]바로　연극이　시작될　것　같아　두근거렸다．
+\
+br
+br
+br
+br
+br
+`[center]멀리서　이런저런　소리가　난다．@
+`[center]검은　나무들로　된　커텐　너머．@
+`[center]숲　속에서　다들　즐거운　듯　떠들고　있다．
+\
+br
+br
+br
+br
+br
+br
+`[center]막은　아직　열리지　않는다．@
+`[center]참지　못하고　숲　속으로　들어갔다．
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+br
+br
+`[center]정말，어둡다．@
+`[center]숲은　깊어서　차가운　빛도　닿지　않는다．
+\
+br
+br
+br
+br
+br
+`[center]그저　춥다．@
+`[center]안구　속이　저릴　만큼　추운　겨울．
+\
+br
+br
+br
+br
+br
+`[center]내　이름이　들린　것　같아서
+`[center]좀더　안쪽으로　걸어갔다．
+\
+br
+br
+br
+br
+br
+`[center]나무들로　된　베일을　빠져나온　다음．@
+`[center]숲의　광장엔　모두　모여서　기다리고　있었다．@
+`[center]모두　제각각의　모습．@
+`[center]모두　발기발기　흩어진　손발．
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]새빨갛게　되어　있는　숲의　공터．
+\
+br
+br
+br
+`　[line=3]모르겠어．
+\
+br
+br
+br
+br
+br
+br
+`[center]발기발기　찢으려고　낯선　사람이　다가온다．
+\
+br
+br
+br
+br
+br
+`　[line=3]잘　모르겠어．
+\
+br
+br
+br
+br
+br
+br
+`[center]하지만　누군가가　앞에　나타나서
+`[center]대신　발기발기　찢겨　주었다．
+\
+br
+br
+br
+br
+br
+br
+br
+`　[line=3]난　어린애라서　잘　모르겠어．
+\
+bg "bg/ima_13b",crossfade,400
+br
+br
+br
+br
+br
+`[center]찰팍．@
+`[center]따뜻한　게　얼굴에　튀었다．@
+`[center]빨간．@
+`[center]토마토처럼　빨간　물．
+\
+br
+br
+br
+br
+br
+`[center]발기발기　찢긴　사람．@
+`[center]그　어머니　라는　사람은
+`[center]그걸로　내　이름을　부르지　못하게　되었다．
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+`　[line=5]정말　잘　모르겠지만．
+\
+br
+br
+br
+br
+br
+br
+`[center]그저　추워서．@
+`[center]이유도　없이　울어　버릴　것　같았다．
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+br
+br
+`[center]눈에　따뜻한　빨간색이　섞여든다．@
+`[center]안구　속으로　스며들어　온다．@
+`[center]그래도　전혀　신경쓰이지　않는다．@
+`[center]밤하늘엔，그저　외로이　달만이　있다．
+\
+bg "bg/ima_01",crossfade,1500
+br
+br
+br
+br
+br
+br
+`[center]참　신기하다．@
+`[center]어째서　지금까지　모르고　있었을까．
+\
+br
+br
+br
+br
+br
+br
+br
+`　　[line=3]너무도，차가운[line=3]나쁜，꿈．
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]아아[line=3]알지　못했다．
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]오늘밤은　이렇게도
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]달이，아름답[line=7]다[line=5]
+\
+playstop

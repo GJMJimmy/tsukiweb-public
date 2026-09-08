@@ -1,0 +1,23 @@
+monocro off
+playstop
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+`　漫无目的地去镇上闲逛。@
+`　为什么，我会在这样的地方，没有任何意义的漫步呢？@
+br
+bg "bg/bg_25a",crossfade,400
+ld c,"tachi/ark_t22",crossfade,400
+bg "bg/bg_25a",crossfade,400
+`「[line=3]啊」@
+`　是错觉啊。@
+`　那家伙不会还留在这里的，而且我也没有主动跟她打招呼的理由。
+\
+`　那么，为什么会有那样的错觉。@
+`　为什么会[line=3]毫无意义地，一个人在镇上瞎逛。@
+br
+`「……该回家了」@
+`　我仿佛为了让醉了的自己清醒似的摇摇头，转身离开那爱尔奎特的幻影。
+\
+bg #000000,crossfade,800
+!w1000

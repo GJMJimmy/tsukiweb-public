@@ -1,0 +1,28 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"…… Let's see, isn't it because you hate me?@ I haven't been able to meet you on time, and I've done a lot of horrible things to you."@
+br
+` …… Leaving my feelings about Arcueid aside, I calmly analyze the situation.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"[line=4]Is that so?@ This is the first time I've ever felt emotion towards someone, so I don't really understand it myself……"@
+cl c,crossfade,800
+` After being quiet for a few moments, she raises her head.@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Um, Shiki, do you hate me……?"@
+br
+` And asks me such a question.
+\
+`"M, me……?@ I, um[line=4]"@
+`"………………"@
+` Arcueid stares at me silently.@
+`"I[line=4]I don't hate you, that's why I'm helping you."@
+` …… For now, that's the honest truth.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"…… I see.@ Then maybe I feel the same way too."@
+` Arcueid gives an ambiguous nod.@ I'm not sure if she understands.@
+cl c,crossfade,400
+\

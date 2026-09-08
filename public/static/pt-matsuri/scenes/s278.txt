@@ -1,0 +1,84 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Vou ficar na sala de aula mesmo.@
+br
+` A Senpai não está em lugar algum, não importa aonde eu vá.@ Não importa o que eu faça, ela não vai voltar[line=3]
+\
+bg #000000,lshutter,1500
+bg "bg/bg_06b",lshutter,1500
+` A última aula do dia termina.@
+` Meus colegas de turma barulhentos levantam-se das suas carteiras.@
+` Após observá-los com um olhar vago, eu levanto da minha carteira para voltar para a mansão.
+\
+` [line=3]Para voltar para a mansão[line=4]@
+` Mas não tenho nada para fazer lá.@
+br
+bg #000000,crossfade,400
+monocro #ffff00
+bg "event/cel_e05a",crossfade,400
+monocro off
+bg "bg/bg_06b",crossfade,400
+`"…………"@
+` Sei que pode ser que nunca mais eu consiga falar com ela, mas não posso desistir.@
+`"Droga[line=3]o que eu deveria fazer……!?"@
+br
+` Pensando em voz alta, eu saio da sala de aula.
+\
+bg "bg/bg_11b",lcartain,800
+` …… Olho para cima e me vejo de frente para a sala de cerimônia de chá.@
+` Mesmo sabendo que ela não vai estar aqui, minhas pernas se movem para dentro da sala por conta própria.
+\
+bg "bg/bg_09b",lcartain,800
+`"[line=7]Ha."@
+` É claro, não tem ninguém aqui.@
+` Eu não estava esperando por nada, mas subitamente sou atingido por uma pancada forte, e minha visão fica turva.@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_09b",crossfade,400
+` Tudo ao meu redor começa a girar.
+\
+play "*4"
+bg #ffffff,notrans,0
+br
+br
+br
+br
+br
+br
+br
+`     De repente, acontece.
+\
+bg "bg/bg_09b",notrans,0
+quakey 1,100
+` O chão treme.@
+` Imagino que seja um terremoto forte[line=3]mas aí percebo que não é o chão que está tremendo, e o que senti foi o impacto do meu corpo caindo no chão.
+\
+`"Ah[line=4]hein?"@
+` Não consigo falar direito.@
+br
+` Ouço uma respiração ofegante.@
+` A respiração ofegante que preenche o ambiente não pertence a ninguém menos do que eu.@
+` Mas não estou me sentindo mal.@
+` Não estou sentindo nada, é como se tivesse perdido a capacidade de sentir.
+\
+` Ouço uma respiração frenética.@
+br
+` Embora eu não esteja cansado, minha garganta tenta respirar penosamente.@
+` Não sinto nada.@
+` É como se o corpo caído aqui não fosse o meu.
+\
+` A respiração ofegante continua preenchendo o ambiente.@
+br
+` Tem alguma coisa[line=3]estranha.@
+` Enquanto estou no chão, respirando com dificuldade, o sangue se espalha pelas esteiras do tatame[line=4]
+\
+monocro #ff0000
+quakey 1,100
+`"[line=4]Gah."@
+br
+` De repente,
+` uma dor excruciante toma conta do meu peito.
+\
+monocro off

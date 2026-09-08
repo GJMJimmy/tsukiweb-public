@@ -1,0 +1,243 @@
+bg "bg/bg_01b",lcartain,800
+` Como não tenho nada para fazer, vou embora para casa.@
+` …… Pensando bem, eu não saio pela entrada principal desde a cerimônia de abertura.@
+`"Parece que essa será a minha entrada e saída de agora em diante, já que agora estou morando na mansão…"
+\
+bg #000000,lcartain,800
+bg "bg/bg_24b",lcartain,800
+` Saio pelo portão principal e logo chego à interseção que leva ao distrito residencial.@
+` É aqui que os caminhos que levam à cidade e ao distrito residencial, onde a mansão está, se separ[line=4]
+br
+play "*3"
+ld c,"tachi/stk_t01",lshutter,800
+`"Ah, olá Tohno-kun."@
+` De repente, dou de cara com a Yumizuka.@
+`"Olá, Yumizuka-san."@
+` Ela me observa, um pouco confusa.
+\
+`"Hum… Yumizuka-san?@ Tem alguma sujeira no meu rosto?"@
+`"Hum, eu estava imaginando o que você estaria fazendo aqui, Tohno-kun.@ A sua casa não é para o outro lado?"@
+`"Ah… Bem, era até ontem, mas a partir de hoje vou morar em outro lugar.@ De agora em diante, vou morar naquele lugar no topo da colina, no final do distrito residencial."@
+ld c,"tachi/stk_t07",crossfade,400
+`"Ah, então era disso que você estava falando hoje de manhã!"@
+` Ela deixa cair um punho fechado na palma da mão aberta, mostrando que entendeu.@
+` …… Bem, elogios à parte, esse gesto foi incrivelmente fofo.
+\
+`"…… Isso mesmo.@ Acho que não tenho motivos para esconder o resto de você agora que sabe disso.@ Estou saindo da casa dos meus guardiões, os Arimas, e voltando para a minha casa de verdade."@
+ld c,"tachi/stk_t13",crossfade,400
+`"Sua casa de verdade… É a mansão dos Tohnos?"@
+`"Sim.@ Eu também acho que não combina comigo."@
+ld c,"tachi/stk_t01",crossfade,400
+`"Entendo.@ Você é mesmo um príncipe no topo da colina.@ Isso era um segredo que apenas o Inui-kun e eu sabíamos, mas agora acho que todos vão descobrir."@
+` Sorrindo, ela lança seu olhar à distância.@
+` Ela fita o horizonte, como se olhasse para a mansão Tohno, bem ao longe, no topo da colina.
+\
+`"Mas você vai ficar bem?@ Mesmo sendo a sua casa, você esteve fora por oito anos, né?@ Não está com medo, ou preocupado?"@
+`"Sim.@ Para começar, nunca gostei daquela mansão e agora vou me sentir como se estivesse na casa de outra pessoa.@ Mas mesmo assim[line=3]"@
+br
+` …… Eu não posso levar uma vida despreocupada e deixar a minha irmã, Akiha, sozinha naquele lugar.@
+` Não importa o quão receoso eu esteja, tenho que voltar para a mansão.
+\
+`"[line=3]No final das contas, ainda é a minha casa.@ Acho completamente normal voltar para lá."@
+`"…… Entendi.@ Ah, me desculpe por te atrasar, Tohno-kun.@ Você deve estar com pressa, né?"@
+`"Não, não estou.@ Eu estava apenas tomando um ar antes de ir para a mansão."@
+`"Hum…"@
+cl a,crossfade,400
+` A Yumizuka parece deprimida e fica em silêncio.
+\
+`"…… O que foi, Yumizuka-san?@ Não está se sentindo bem?@
+` Quebro o silêncio, mas ela apenas continua olhando para baixo.@
+`"……"@
+` Eu não posso simplesmente deixá-la aqui, por isso continuo parado, olhando para ela.@
+br
+` [line=3]E então.
+\
+ld c,"tachi/stk_t07",crossfade,400
+`"H… hum!"@
+`"Sim, o que foi?"@
+`"Hum… hum… eu vou para casa pelo mesmo caminho que você até chegarmos na colina…"@
+`"Sério?@ Então vamos juntos nessa parte do caminho."@
+`"…… Hã?"@
+` Ela arregala os olhos e fica imóvel por um instante.@
+ld c,"tachi/stk_t03",crossfade,400
+`"É… é mesmo!@ Você está certo.@ Vamos voltar pelo mesmo caminho, não tem nada de estranho voltarmos juntos, né!?"@
+` Ela diz isso com uma voz muito animada e começa a caminhar ao meu lado.
+\
+`"E nos encontramos na hora certa.@ Eu não conheço muito bem as ruas por aqui, você se importaria de me guiar?"@
+ld c,"tachi/stk_t07",crossfade,400
+`"Claro que não me importo.@ Bom, então vamos por esta rua.@ Ela vai nos levar até a rua que leva à colina."
+\
+cl a,crossfade,400
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+` [line=3]Volto para casa conversando com a Yumizuka.@
+br
+` Conversar com ela não é algo particularmente especial, mas é agradável, pacífico de alguma forma.@
+` …… Apesar do que o Arihiko disse, Yumizuka Satsuki tem uma aura muito gentil e eu me sinto seguro estando perto dela.
+\
+ld c,"tachi/stk_t03",crossfade,400
+`"[line=3]Huhu."@
+` No meio da conversa, ela dá uma risada, como se tivesse se lembrado de algo.@
+`"Por que está rindo, assim do nada?@ Eu disse algo engraçado?"@
+`"Não, não é isso.@ É que a partir de amanhã, vamos para a escola pelo mesmo caminho."@
+` Ela ri, parecendo feliz de verdade.@
+` Esse sorriso sincero no rosto dela é o suficiente para me deixar feliz só de olhá-la.
+\
+cl a,crossfade,400
+` …… Eu não havia percebido até hoje.@
+` Mesmo deixando sua aparência e seus modos de lado, a Yumizuka Satsuki é bem bonitinha.@
+` Lentamente começo a entender o porquê dos garotos da nossa classe serem loucos por ela há tanto tempo.
+\
+` O assunto termina.@
+` Nós dois ficamos em silêncio.@ Estou simplesmente fascinado pelo sorriso dessa garota.@
+` Sem dizer mais nada, caminhamos em direção ao distrito residencial sob o pôr do sol.@
+` De repente[line=3]
+\
+playstop
+bg "event/stk_e03",crossfade,800
+br
+`"Ei, você se lembra do que aconteceu durante as férias de inverno no segundo ano do fundamental?"@
+br
+` A Yumizuka pergunta, com uma voz baixinha.@
+`"……?"@
+` Inclino a cabeça para o lado.@
+` As férias de inverno do segundo ano do ensino fundamental, foi quando pedi para permanecer na escola até mais tarde para receber aulas extras, porque me sentia mal de ficar nos Arimas.@
+` Eu me lembro muito bem, mas ainda não entendi o motivo de ela me perguntar sobre isso.
+\
+`"É como eu imaginava.@ Alguém como o Tohno-kun nunca se lembraria."@
+` Desapontada, ela encolhe os ombros.
+\
+`"Haviam dois galpões de esportes na escola, lembra?@ Um era novo e usado pelos clubes grandes.@ O outro era velho e usado pelos clubes menores, como o de badminton.@
+` O galpão velho tinha um problema com o alinhamento da porta, de vez em quando ela não abria."
+\
+` Galpão velho… Aquela pequena construção de concreto no fundo do ginásio…?
+\
+`"Ah, aquele galpão.@ Um que pararam de usar porque algumas alunas ficaram presas lá dentro."@
+`"Sim, esse mesmo.@ As alunas eram do segundo ano e membros do clube de badminton."@
+`"[line=4]Ah!"@
+br
+` É, isso aconteceu mesmo.
+\
+playstop
+play "*7"
+bg #000000,tshutter,800
+monocro #0000ff
+bg "bg/ima_06",bshutter,800
+` Foi bem no início do ano, em um dia frio de inverno.@
+` Os três primeiros dias do ano novo tinham passado, me matriculei para aulas extras e pedi para ficar até mais tarde na escola ajudando com o que precisassem, porque me sentia mal de ficar nos Arimas.@
+` Mas mesmo assim era só até as cinco horas da tarde.@
+` Já havia escurecido e eu fui forçado a ir embora, já que todos os professores estavam indo embora também.
+\
+` No meio do inverno.@
+` Mesmo sendo apenas cinco horas, já estava muito escuro naquele dia.@
+` A previsão do tempo anunciou que iria nevar e o frio estava muito intenso.@
+` E então, justo na hora em que decidi ir direto para casa, escutei o barulho de batidas vindo do velho galpão e fui verificar o que era.
+\
+` [line=3]Tem alguém aí?@
+br
+` Eu perguntei e escutei as vozes de várias garotas como resposta.@
+` Elas estavam presas há duas horas.@ Enquanto guardavam o equipamento do clube, fecharam a porta por causa do frio e depois disso ela não abriu mais.@
+` Por mais que tentassem, a porta não abria, então me pediram para chamar algum dos professores para ajudar.
+\
+` …… Mas todos os professores já tinham ido embora.@ Mesmo se eu os chamasse por telefone, ia demorar pelo menos mais uma hora para chegarem.@
+` O frio naquele dia estava terrível.@
+` Naquele frio que ainda deveria trazer neve, achei que seria cruel demais deixar aquelas garotas trancadas naquele galpão vestindo apenas seus uniformes de educação física por mais uma hora.
+\
+` Depois de hesitar um pouco e confirmar que não havia ninguém por perto, tirei meus óculos e cortei a "linha" da porta do galpão.@
+` A porta se abriu e umas cinco garotas saíram, com os olhos inchados de chorar[line=3]
+\
+bg #000000,crossfade,800
+monocro off
+bg "bg/bg_23b",crossfade,400
+`"…… Pensando bem, isso aconteceu mesmo.@
+` Mas estou surpreso que saiba disso.@ A capitã do clube de me disse: 'Isso é importante para a sobrevivência do clube, não conte a ninguém sobre o que aconteceu.' Foi quase como se ela estivesse me ameaçando."@
+`"Ah, Tohno-kun!@ Você nem quis saber quem eram as pessoas que estavam presas lá?@
+br
+` Eu fazia parte do clube de badminton."@
+` Ela não parece estar contente.@
+` Hã… Então quer dizer que…
+\
+bg "event/stk_e03",crossfade,800
+`"[line=3]Ainda me lembro muito bem.@ Quando penso nisso agora, eu só estava presa dentro de um galpão, mas naquela época, além de estar frio e escuro, eu já estava muito preocupada.@
+` Todas acharam que iríamos morrer congeladas.@
+` Minha barriga estava roncando de fome.@ Eu estava prestes a desmaiar."@
+`"Humm… Deve ter sido difícil."@
+` Nunca vou conseguir entender realmente como foi, por isso dou uma resposta vaga.@
+` Despreocupada, a Yumizuka continua contando suas lembranças, trazendo de volta velhos acontecimentos.
+\
+`"E bem na hora que todas já estavam tremendo, você apareceu perguntando: 'Tem alguém aí?' com a sua voz entediada de sempre… aí a capitã ficou brava e gritou: 'Óbvio que tem! Por acaso você é surdo!?'… Você se lembra?"@
+`"Lembro sim.@ Fez um barulhão quando ela jogou uma raquete na porta.@ Fiquei muito surpreso."@
+`"Foi isso mesmo que aconteceu!" Diz a Yumizuka, rindo.
+\
+`"Quando ouvimos que todos os professores já tinham ido embora, perdemos todas as esperanças.@
+` Não aguentávamos ficar lá nem mais um minuto e mesmo assim tivemos que encarar a possibilidade de ficarmos presas até o outro dia.@
+` E quando já estávamos pensando em como odiávamos o mundo, você bateu na porta e falou: 'Eu devo conseguir abrir a porta, mas vocês devem manter isso em segredo.'"@
+`"É verdade.@ Aí eu ouvi outra outra pancada na porta e alguém disse: 'Se fosse tão fácil assim, nós não estaríamos sofrendo aqui dentro!' Ela estava muito nervosa."
+\
+`"Ahaha.@ Estava mesmo, a capitã se sentiu responsável por termos ficado presas, por isso ela estava sem paciência alguma.@ Mas logo depois disso, a porta abriu.@
+` Todo mundo ficou feliz, pensando que a raquete que a capitã jogou na porta havia funcionado e correram para fora, mas eu fiquei te observando.@ Você estava ao lado da porta, indiferente."
+\
+` Ela me olha emocionada.@
+` …… Mas isso apenas me incomoda.@
+` Para mim, aquilo não significou nada, por isso não consigo aceitar a sua gratidão.
+\
+`"Eu estava chorando muito naquele dia.@ Sentia meus olhos inchando, eles estavam horríveis.@ Você se lembra do que disse quando me viu daquele jeito?"@
+`"Não me lembro.@ O que eu disse?"@
+` …… Realmente não me lembro, então pergunto, como se fosse algo que outra pessoa tivesse feito.@
+` Apesar disso, a Yumizuka continua me olhando, toda alegre.
+\
+`"Você colocou a mão na minha cabeça e falou: 'Vá logo para casa e tome um pouco de Ozoni'.@ Eu fiquei um pouco envergonhada porque estava tremendo muito por causa do frio."@
+`"……"@
+`"Humm." Franzo as sobrancelhas.@
+` Não sei por que disse aquilo.
+\
+`"Acho que você quis dizer para eu me aquecer tomando Ozoni."@
+`"…… Ah, é mesmo.@ Isso aconteceu bem no inicinho do ano, né!"@
+` …… Parece mesmo com o tipo de coisa boba que eu diria.@
+` Agora que ela está falando sobre isso, me arrependo de não ter escolhido palavras melhores para dizer.
+\
+`"Naquela época eu sabia que tinha um monte de pessoas confiáveis na escola, mas se algum dia eu precisasse ser salva, seria alguém como o Tohno-kun que iria me salvar."@
+`"Você está exagerando.@ Olha, você está agindo como um filhotinho que acha que o primeiro ser humano que viu é a sua mãe.@ Foi por acaso que acabou sendo eu quem te ajudou."@
+`"Isso não é verdade…!@ Desde então, acredito que, seja qual for o problema, você sempre vai aparecer para me ajudar."@
+` Sua expressão é a de uma pessoa muito determinada.
+\
+bg "bg/bg_22b",tshutter,800
+`"Você está me dando crédito demais, Yumizuka-san.@ Eu não sou tão confiável assim."@
+ld c,"tachi/stk_t07",crossfade,400
+`"Está tudo bem.@ É nisso que eu acredito, então me deixe continuar acreditando."@
+` Ela diz isso olhando direto nos meus olhos.@ Estou envergonhado demais para contra-argumentar.
+\
+`"[line=2]Bem, acho que você pode acreditar no que quiser."@
+ld c,"tachi/stk_t03",crossfade,400
+`"Verdade?@ Então se algum dia eu estiver em apuros, você vai aparecer para me ajudar, né?"@
+` Ela me pergunta, sorrindo.
+\
+` …… Para falar a verdade, isso é meio incômodo.@
+` Ao contrário do que ela pensa, eu não sou o tipo de pessoa que pode fazer qualquer coisa.@
+` Eu não sou… mas ao vê-la sorrindo desse jeito, não quero destruir essa fé que ela tem em mim.
+\
+`"Sim.@ Se estiver dentro do meu alcance, eu vou te ajudar."@
+`"Oba!@ Obrigada, Tohno-kun.@ Sei que é meio tarde para dizer isso, mas fiquei muito feliz com o que você me disse naquele dia."@
+cl a,crossfade,400
+` De repente, a Yumizuka para.@
+` Eu também paro.
+\
+!w500
+ld c,"tachi/stk_t13",crossfade,400
+`"Eu sempre quis conversar com você assim, Tohno-kun."@
+br
+` Sinto um toque de melancolia em meio às suas palavras.@
+` Talvez seja por causa do brilho vermelho do pôr do sol, mas a Yumizuka parece tão solitária.@
+br
+`"…… Como assim?@ Você pode conversar comigo a qualquer hora."@
+`"Não, não posso.@ O Inui-kun está sempre com você e além disso… Eu não posso ser como você, Tohno-kun."@
+` Dando essa resposta reservada, ela se afasta de mim.
+\
+ld c,"tachi/stk_t03",lshutter,400
+`"Bem, minha casa é por aqui, então nos vemos na escola amanhã."@
+`"Tchauzinho!" Sorrindo, ela acena com a mão e começa a caminhar por outra rua.
+\
+cl a,lshutter,800
+!w500
+bg #000000,lcartain,800
+playstop

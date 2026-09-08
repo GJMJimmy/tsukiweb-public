@@ -1,0 +1,101 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+br
+` [line=3]No, I have to find out about Senpai.@
+` I don't have time to eat this morning.@
+br
+ld c,"tachi/his_t01",lshutter,400
+`"[line=3]Shiki-sama?"@
+` Hisui comes from the sitting room.@
+` She must have come to check on me since I did not show up after a while.
+\
+`"…… Sorry.@ I'm going to school, please tell Akiha I'm sorry."@
+ld c,"tachi/his_t07",crossfade,400
+`"…… Please wait Shiki-sama.@ You do not look well.@ Are you sure you are feeling well……?"@
+`"[line=3]I'm fine, just a little headache.@ Well, I'm off…… Sorry, I'm being selfish again."@
+cl a,lshutter,400
+` …… I say something really selfish and open the door before she can respond.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_01a",crossfade,1500
+` I reach the school gate.@
+` Since I ran from the mansion, it's not even half past seven yet.@
+br
+`"…………"@
+` I stand and wait for Senpai by the gate.@
+` It probably looks a little strange to the other students walking by, but I don't really care.
+\
+!w5000
+`"……………"@
+` Senpai doesn't show up.@
+` It's past seven thirty already.
+\
+!w5000
+` Ten more minutes pass by.@
+` The school gate is flooded with students as they arrive.
+\
+!w5000
+` There's only about five minutes before the gate closes.@
+` But Senpai still does not come.
+\
+`"………"@
+` She[line=3]might not come today.@
+` Yesterday, I saw all that happened, so she might not come today, or tomorrow, or the day after[line=3]
+br
+` [line=3]Thump.@
+br
+`"……… Ah."@
+` Thinking that, I feel a little faint.@
+` I shake my head to clear it of terrible thoughts.
+\
+` …… And then,
+` someone pats me on the shoulder from behind.@
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Tohno-kun, what are you doing here?"@
+`"Se, Senpai……!?"@
+`"Yes."@
+` Senpai nods.
+\
+`"R, really……!?@ But yesterday, you were[line=3]"@
+` Mph.@
+` Before I could finish, Senpai puts her hand over my mouth.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+` "Tohno-kun, not here.@ Let's go behind the gymnasium."@
+` Senpai gives her usual smile as she keeps her hand over my mouth and pulls my arm.@
+cl a,lshutter,400
+`"…, …!"@
+` I try to tell her to stop, but I can't speak.@
+` She forcefully pulls me away.
+\
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*3"
+wave se_03
+` [line=4]The school bell rings overhead.@
+!w5000
+` …… Homeroom has begun.@
+` Furthermore, no one else is around.@
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Yes, no one can hear us here."@
+` Senpai finally releases me.@
+` Jumping back, I face Senpai directly.
+\
+`"You want to talk about last night, right?@ If there's anything you want to say, please go ahead, Tohno-kun."@
+` Senpai speaks calmly.@
+` As if what happened last night was not a big deal.@
+`"……………!"@
+` But it was a big deal for me.@
+` Her attitude right now makes me mad.
+\
+`"So that really was you last night……!?"@
+`"Yes.@ I did say your name back then too, so it's impossible to hide it any longer."@
+cl c,crossfade,400
+`" …………!"@
+` I grit my teeth.@
+` …… I didn't expect an apology or anything, but still[line=3]
+\

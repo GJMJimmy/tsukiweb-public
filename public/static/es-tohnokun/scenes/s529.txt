@@ -1,0 +1,54 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ¡Merci!@
+` Y ahora, el rincón de consejos por el bien del loco Tohno-kun, quien ha llegado tan lejos sólo para caer en este Final Muerto,
+` Es la hora de "¡Enséñame, Ciel-sensei!"@
+br
+` Finalmente es la sexta hora del segundo día.@
+` Nos estamos acercando más y más al final.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Te envidio, Ciel.@ Tienes muchas apariciones.@ Soy la heroína principal, pero me siguen tratando como a un garabato."@
+br
+` Oye tú, no digas cosas raras.@
+` Eso no es nada.@ Al menos tienes más dignidad que yo, el personaje para todo uso.@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"¡¡No-!!@ ¡Insatisfactorio!@ ¡¡Quiero vestirme como tú y ser llamada inteligente!!"
+\
+` …………@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!"@
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ciel-lentes!@ ¡Ninguna aparición!@ ¡No Ciel!"@
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ninguna aparición!@ ¡Ciel-lentes!@ ¡Ciel-simplona!@ ¡Ciel-fuera de aquí!@ ¡Ciel-lentes!@ ¡Francesa-falsa!@ ¡Fetiche de pólvora!@ ¡Ciel-India!"@
+br
+` ………… (Ira)
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+`"Kyuuuuuuuuu………………"@
+br
+ld r,"tachi/cel_t20",lshutter,400
+br
+` [line=4]Bueno, comencemos la lección.@
+br
+` Para ser directa, necesitas volver a tomar la prueba.@
+` Parece que Tohno-kun no pudo atraer el corazón de Hisui-san lo suficiente.@
+` Regresa al quinto o sexto día y por favor inténtalo de nuevo.
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,40 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*4"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/nero_t02a",tshutter,800
+`"Young one, do you have a question?"@
+br
+ld l,"tachi/ark_t31a",lshutter,400
+`"Hey, that's dirty.@ You're trying to stand out by coming out here too, Nrvnqsr."@
+br
+ld r,"tachi/nero_t03",crossfade,400
+`"Don't be ridiculous.@ Ciel-kun went to the curry shop.@ I am the substitute."@
+br
+`"Alright.@ Then give us a hint."@
+br
+cl r,crossfade,400
+ld r,"tachi/nero_t04",crossfade,400
+`"Fighting punishes both parties.@ Do not kill needlessly."
+\
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"I'm not convinced.@ Even if you don't want to fight Ciel, there's some people who unconditionally took off their glasses.@
+` What is up with that?"@
+ld r,"tachi/nero_t02a",crossfade,400
+br
+`"Thou shalt not steal, rape, or deceive others.@ It might sound familiar for some of you.@ If so, then go on a journey through time to this morning.@
+` Yes.@ Come to think of it, the princess might have an idea of that, no?"
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Nya, w-what?@ I don't understand what you're talking about."@
+br
+ld r,"tachi/nero_t02c",crossfade,400
+`"…… Well, what happens to others is just a trivial matter for me.@
+` Then, I shall watch how the end plays out for all of you from here[line=5]"
+\
+bg #000000,crossfade,800
+playstop

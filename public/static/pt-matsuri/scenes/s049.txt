@@ -1,0 +1,90 @@
+playstop
+waveloop se_11
+bg "bg/bg_40d",notrans,0
+` Os uivos continuam.@
+` Como vou dormir desse jeito?@
+` …… É impossível.@
+br
+`"…… Estou morto de sono, não vou levantar."@
+` Puxo os lençóis para me cobrir e estico o corpo.@
+` É só imaginar que esses uivos fazem parte do ambiente, como carros passando na rua.
+\
+` *suspiro*@
+` Hoje foi um dia muito longo.@
+` Estou mentalmente cansado do jantar nesta mansão estranha e das minhas conversas com a Akiha e as outras garotas.@
+` Depois de tudo que passei hoje, esses uivos não são nada.@
+` Fecho os olhos e vou adormecendo devagarzinho.
+\
+bg #000000,crossfade,800
+!w2000
+play "*7"
+bg #ffffff,crossfade,800
+br
+` [line=3]Eu tenho um sonho nostálgico.@
+br
+` Foi no final do verão, há oito anos.@
+` Depois do acidente, fui levado para aquele hospital onde ninguém me visitava e conheci a Sensei.@
+` Depois de voltar para a mansão, meu pai disse que eu ia morar com uma família da qual nunca tinha ouvido falar.@
+br
+` Tudo aconteceu muito rápido.@
+` Um dia depois de deixar o hospítal, fui levado para a casa dos Arimas.
+\
+` Não havia uma única nuvem no céu azul daquele dia.@
+` O outono já estava começando.@
+` E fui levado para longe da mansão Tohno.@
+br
+` Mas pouco antes disso…
+` Aquela garota veio falar comigo, passando escondida pelos olhares dos adultos.
+\
+bg "bg/cmo_20",crossfade,800
+br
+br
+br
+br
+br
+br
+`"Quando você estiver indo embora, por favor, vá até aquela árvore do pátio de trás."@
+` Depois de ouvir isso, escapei do meu pai e fui até o pátio da parte de trás da mansão.
+\
+` O céu estava muito azul.@
+` Debaixo daquele lindo céu azul que parecia se estender até o infinito, ela esperou por mim.@
+` Pelo que eu sabia, aquela tinha sido a primeira vez que ela tinha saído de dentro da mansão.
+\
+`"Fique com isso."@
+` Dizendo isso, ela desfez o laço de fita que prendia seu cabelo e me entregou.@
+` Acho que era seu presente de despedida para mim, mas como eu era criança, nem fiquei feliz por recebê-lo.@
+br
+` …… Afinal de contas, que tipo de garoto de nove anos de idade ficaria feliz ao ganhar uma fita de cabelo?
+\
+`"Essa fita de cabelo é a minha favorita, eu quero ela de volta depois, tá bom?"@
+` Mas foram aquelas palavras que me salvaram.@
+br
+` "Eu quero ela de volta," foi o que ela disse.@
+` "Volte," foi o que eu interpretei daquelas palavras.@
+br
+` [line=3]Só aquilo foi o suficiente para mim.@
+` Naquele último dia, sem ninguém lá para se despedir de mim.@
+` Ela, com quem eu nunca tinha conversado, disse aquilo para mim… aquilo me deixou muito feliz.
+\
+` [line=3]Mas eu não pude responder: "Com certeza vou te devolver."@
+br
+` Eu não era bobo, sabia muito bem que nunca mais voltaria para a mansão.@
+br
+` …… Aquela foi a única vez que conversamos.@
+` Seus olhos frios eram muito tristes.@
+` Como já estava na hora de partir, eu fui em direção à porta.@
+` A garota continuou lá, como uma boneca, me vendo partir.
+\
+br
+br
+br
+br
+br
+br
+` Um sonho longínquo do que aconteceu em um dia bonito.@
+` Sob o céu azul e sem nuvens.
+\
+!w1000
+bg #000000,crossfade,800
+playstop
+!w3000

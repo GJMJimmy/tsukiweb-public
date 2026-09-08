@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { glob, rm } from 'node:fs/promises';
 
-const serverUrl = 'https://tsukidev.holofield.fr'
+const serverUrl = ''
 
 // List assets files to use from remote instead of fetching from local
 const remotePaths: string[] = [

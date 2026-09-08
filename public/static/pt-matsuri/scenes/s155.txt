@@ -1,0 +1,26 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=3]Eu me sinto mal por fazer isso com a Hisui, mas não posso contar a ela.@
+` Preciso manter a Arcueid em segredo, e não posso deixar a Hisui, a Kohaku-san ou a Akiha ficarem sabendo que estou atrás do assassino em série.
+\
+`"Não, eu não tenho motivos para sair.@ A Akiha me deu uma bronca hoje, vou ficar quietinho em casa por um tempo."@
+ld c,"tachi/his_t01",crossfade,400
+`"Entendido.@ Então vou fechar o portão no horário normal."@
+` Ela fala claramente, sem qualquer expressão.@
+` A conversa termina e eu subo para o meu quarto.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+playstop
+` Depois do jantar, volto para o meu quarto.@
+` São quase dez horas da noite.@
+` Para não ser descoberto, preciso sair da forma mais discreta possível.@
+br
+`"Bem[line=3]acho que vou indo."@
+` Coloco minha faca no bolso e saio do quarto sem fazer barulho algum.
+\
+bg #000000,lcartain,800
+!w2000

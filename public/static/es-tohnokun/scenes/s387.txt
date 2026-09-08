@@ -1,0 +1,55 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Iré a ver a Hisui.@
+br
+`"…… Pero Hisui no me deja ayudarle, y no quiero estorbarle……"@
+` …… ¿Qué debería hacer?@
+` No quiero ser una carga.@
+` Pero por alguna razón, quiero verla.
+\
+`"…… Ah."@
+` Eso me recuerda.@ Aún tengo que devolverle la cinta.@
+` Hisui dijo que la había olvidado, pero la cinta es suya.@ No tiene sentido que yo la siga conservando, así que debería devolverla.
+\
+bg #000000,lshutter,800
+bg "bg/bg_41",lshutter,800
+play "*8"
+` En la habitación del viejo, Hisui está ordenando libros.@
+` Aunque ya no está siendo usada, su habitación sigue siendo limpiada como antes.
+\
+`"Hisui, ¿tienes un minuto?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Ah[line=3]Shiki-sama.@ Sí, ¿qué desea?"@
+`"Sé que ya lo platicamos anteriormente, pero pensé que debía devolverte esto."@
+br
+` Saco la cinta que Hisui me dio hace ocho años.@
+br
+ld c,"tachi/his_t04",crossfade,400
+`"………………"@
+`"¿Hisui?@ Entonces, ¿en verdad no la quieres……?"@
+ld c,"tachi/his_t17",crossfade,400
+`"……No, la tomaré.@ Es importante para mí, después de todo."@
+` Tomando la cinta, Hisui se queda en silencio.
+\
+`"…………"@
+` No puedo hablarle.@
+` La Hisui frente a mí se parece mucho a la Hisui de hace ocho años, distante de las personas a su alrededor.@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, ¿eso es todo lo que vino a hacer?"@
+` Parece que no puedo hablar, así que simplemente asiento.@
+`"En ese caso, por favor regrese a su habitación.@ Aún tengo trabajo por hacer."@
+cl c,lshutter,400
+` Hisui camina hacia el centro de la habitación.
+\
+`"…… Hisui."@
+` ¿Esa cinta tenía algún significado especial?@
+` Este período de ocho años.@ Puede que finalmente haya cumplido mi promesa, aunque haya sido demasiado tarde.@
+br
+`"…… Entonces, iré a mi habitación.@ Nos vemos luego, Hisui."@
+br
+` Con eso, dejo la habitación.
+\
+bg #000000,crossfade,800
+playstop
+!w1500

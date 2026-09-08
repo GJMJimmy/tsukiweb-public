@@ -1,0 +1,25 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=4]Acho que fica na ala leste do primeiro andar.
+\
+bg #000000,lcartain,400
+bg "bg/bg_34b",tcartain,400
+`"……………… Hã?"@
+` [line=4]No que estou pensando?@
+` Na ala leste do primeiro andar ficam apenas a sala de estar e a cozinha, não tem quarto algum.@
+`"[line=4]Leste[line=4]é leste, mas o quarto dela fica no segundo andar……!"@
+` Amaldiçoando a minha burrice, vou até as escadas.
+\
+bg #000000,lcartain,400
+` …… Subo correndo.
+\
+` O ambiente quente e esse mau pressentimento refletem na escuridão da noite como em um espelho.@
+br
+` [line=4]*arf*, *arf*, *arf*.@
+br
+` Respirando com dificuldade, chego no topo das escadas e caminho pelo corredor.@
+` …… As minhas costas doem.@
+` Essa sensação terrível que paira no ar piora quando me aproximo do quarto da Akiha.
+\

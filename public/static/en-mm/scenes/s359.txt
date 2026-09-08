@@ -1,0 +1,585 @@
+playstop
+wavestop
+bg "bg/bg_04",notrans,0
+` …… I don't have any reason for it.@
+` But I just have a vague feeling she might be the person able to help me with my troubles.@
+br
+`"[line=5]"@
+` There's no time to think.@
+` I can't bear to keep this to myself any longer.@
+`"Sorry, you go on ahead, Arihiko!"@
+ld c,"tachi/ari_t03",crossfade,400
+`"Huh?@ 'Go on ahead'?@ Where are you going, Tohno!?"
+\
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*1"
+` …… Anyway, I get her to come to the rear of the school building so forcefully that it can't be helped if she gets mad at me.@
+` Fifth period has already started.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Geez, pulling me to a place like this… what is it, Tohno-kun?"@
+` …… Senpai is more amazed than angry.@
+`"I'm sorry, Senpai.@ But, I wanted to hear more about what you were saying before."@
+`"What I was saying before… you mean the serial killer?"@
+`"Yes, that.@ About the person who doesn't feel a crime is a crime.@ Are you saying they kill people unconsciously?"@
+` …… For example.@
+` Like if you intend to sleep, but instead go outside to commit murder.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"Hey, that hurts, Tohno-kun.@ I'll answer you, so please let go of me."@
+`"Oh[line=3]I'm sorry."@
+cl a,crossfade,400
+` I let her go.@
+` …… It seems I was really worked up.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"It's alright.@ Anyway, you were asking if the killer might be killing people unconsciously, right?"@
+`"Yeah[line=3]I really want to know."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Well, I don't know, because I'm not the killer."@
+`"Wha[line=3]yes, that's true, Senpai, but…!"
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Yes, it's just a joke.@ Since you seemed so serious, Tohno-kun, I thought I'd be a little playful for a moment."@
+`"…… Senpai, give me a break.@ I'm really serious here."@
+ld c,"tachi/cel_t03",crossfade,400
+`"Yeah, it looks like it.@ But, why?@ The serial killer is none of your concern, is he, Tohno-kun?"@
+`"That's[line=4]"
+\
+ld c,"tachi/cel_t06a",crossfade,400
+`"Yes?@ What is it?"@
+` …… That's.@
+`"If[line=3]if I told you I was the killer, what would you do?"@
+` I finally say it.@
+ld c,"tachi/cel_t05",crossfade,400
+` But,
+` Senpai's face lights up as if I said the funniest joke, and she bursts into laughter.
+\
+`"Senpai, this is no joke, I'm[line=3]"@
+play "*8"
+ld c,"tachi/cel_t01a",crossfade,400
+`"Yes, I know you're serious.@ But that's why it's funny.@ Because the murderer doesn't usually come and ask for help because they're the murderer."@
+`"Senpai[line=5]"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Then I will ask.@ Why do you think so, Tohno-kun?"@
+`"It's because[line=3]recently, I've been… strange.@ I know why.@ I was probably bitten by a vampire."@
+` …… I say it frankly, as if it was a euphemism.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=3]Please, go on."@
+`"…… Since then, it's been strange.@ Suddenly I don't feel like myself, and I have dreams about killing people.@
+` Last night, although I only intended to sleep, it seems that I went out.@ And I had a dream in which I killed someone, and sucked blood."@
+`"[line=6]"@
+` Senpai says nothing, just watching me.
+\
+`"…… My father had a split personality.@ Maybe I just don't know about it, but there might be a killer in me.@ But I have no way of finding out[line=3]"@
+ld c,"tachi/cel_t08",crossfade,400
+`"So that's why you came to ask if the killer was unconscious of his actions."@
+` Senpai sighs in amazement.
+\
+`"Um, if you were truly the killer, you would not be unconscious of yourself.@ The point you're seeing it in your dreams makes it not unconscious.@
+` But more importantly, it's just a dream.@ I don't know what you're worried about, but Tohno-kun is Tohno-kun."@
+cl a,crossfade,400
+`"[line=5]"@
+` …… I'm glad to hear that, but…@
+` There's no reason for me to believe in any of Senpai's words.
+\
+ld c,"tachi/cel_t03",crossfade,400
+` She sighs.@
+`"You must be feeling really uneasy, Tohno-kun."@
+cl a,crossfade,400
+br
+` Saying so,
+` Senpai pats my head.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"[line=3]It's okay.@ You have nothing to worry about, Tohno-kun.@ I myself guarantee it, so it's definitely okay."@
+`"Ah[line=4]yes."@
+` …… Automatically, I nod in complete agreement.@
+` Even if I know it's only while she's doing so, I feel at ease.@
+` Like wrapping up my uneasiness, Senpai's hands are gentle.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06b",lcartain,800
+` School is over now.@
+` I was confused about myself and Akiha, but today is about to end.@
+br
+`"…… Time to go home."@
+` I should go get Akiha and go back to our mansion.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24b",lcartain,800
+play "*1"
+` I walk home together with Akiha.@
+` …… Just like lunchtime, we grow quiet as soon as there's only the two of us.@
+br
+` [line=3]While I want to talk to Akiha, I also feel embarrassed looking at her.@
+br
+`"…… Man, it's not like I'm a middle schooler."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"…?@ Did you say something Nii-san?"@
+`"Oh[line=3]no, it's nothing, just talking to myself."@
+cl a,crossfade,400
+br
+` …… *sigh*@
+` Really, what the hell am I doing?
+\
+bg #000000,lcartain,800
+bg "bg/bg_22b",lcartain,800
+` We reach the long hill.@
+` Once we go up it, our mansion will be right there.@
+br
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san.@ I would like to ask you one thing before we get home."@
+` Akiha's feet stop and she looks straight at me.@
+`"[line=5]"@
+` The kind of silence that was there before is gone.@
+` Akiha looks at me seriously.
+\
+`"Go ahead, what do you wanna ask about?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Um… I asked before, but, what do you think of Ciel?"@
+`"[line=4]What, that again?@ I don't think anything of her.@ She's just my senpai.@ She's a trustworthy senpai I can ask about anything, though."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… I see.@ It seemed like something was bothering you; this morning was a result of it too, wasn't it?"@
+`"[line=5]"@
+` …… I'm surprised.@
+` Akiha knew that I was worrying about the problem by myself.
+\
+`"Akiha… you noticed?"@
+ld c,"tachi/aki_t06",crossfade,400
+`"Of course.@ We are brother and sister.@ I can tell when you are depressed, Nii-san.@
+` So, why didn't you just come and talk to me?@ Do you trust that woman more than you trust me?"@
+`"Y[line=3]you were watching me talk to Senpai…!?"
+\
+ld c,"tachi/aki_t05a",crossfade,400
+`"Yes.@ I could hardly believe my eyes and ears.@ You, being so honest in front of that person!"@
+cl a,crossfade,400
+` With a "hmph", Akiha turns away.@
+`"…… It's not like that.@ I didn't talk to you or Kohaku-san, because[line=3]"@
+` I didn't want to tell them about my body and have them hate me.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Because of what?@ If there's something you want to say, please, say it."@
+`"Are you stupid?@ I wouldn't worry this much if I could say it!@ I asked Senpai since you guys are important to me.@ It's not because I don't trust you or anything."@
+ld c,"tachi/aki_t07",crossfade,400
+`"I don't want to hear such excuses!"
+\
+`"Fine, I'll come out and say it.@
+` That person doesn't suit you.@ So please, do not get any closer to her.@ It is for your sake."@
+`"Wha[line=4]"@
+` It's so sudden I'm at a loss for words.
+\
+`"Akiha.@ Are you saying that ordinary people are not suitable company for those of the Tohno house, then?"@
+`"…………"@
+` Akiha doesn't answer.@
+` The silence means a yes.
+\
+`"[line=3]I see.@ Well, you are the head of the Tohno household.@ You're saying that family and lineage is important like that old man, right?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Nii-san, that's…"@
+`"It's fine.@ I'm not really complaining.@ I'm the one who left you alone in that house.@ I should have been the one raised that way originally.@ So, I'm not speaking badly of you."@
+ld c,"tachi/aki_t17a",crossfade,400
+`"…………"@
+`"But, I can't let what you said right now go.@ Even though you don't know anything about Senpai, don't just say she's unsuitable."
+\
+cl a,crossfade,400
+` Looking down, Akiha says nothing.@
+` For a while, we stand in silence.@
+br
+`"…… You don't…"@
+`"Eh[line=3]?"@
+ld c,"tachi/aki_t10",crossfade,400
+`"Nii-san, you don't know anything about the Tohno house, don't say such selfish things!"@
+` Crying out painfully, Akiha pulls away from me.
+\
+ld c,"tachi/aki_t14",crossfade,400
+`"[line=3]Anyway, you mustn't get close to that person.@ She's not like us.@ If you get any closer to her, you're the one who would suffer."@
+cl a,lshutter,400
+` Akiha runs up the hill.@
+br
+`"[line=3]What does that mean?"@
+` All I can do is gaze up after her, aghast.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,800
+` I return to the mansion.@
+` Though I usually go into the lobby without thinking, right now it's hard to enter.@
+` …… I have made Akiha angry many times since I came back to the mansion.@
+` But, she was really mad back then.@
+` For the first time, I really angered Akiha, and made her sound so hurt.
+\
+`"…………"@
+` I don't think it matters who was wrong.@
+` I'm sure that in time Akiha will calm down and explain why she doesn't like Ciel-senpai.@
+br
+`"…… I could hang around the garden for a bit."@
+` If I go into the mansion, I might face Akiha, so I'll take a walk in the garden for a while.
+\
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+`"Huh?@ Kohaku-san?"@
+` It's Kohaku-san.@
+` She doesn't seem to have noticed me, and she's heading into the forest.@
+br
+` She hasn't noticed me.@
+` I don't know what she's doing, but she disappears into the forest.@
+`"?"@
+` I'm curious, so I'll follow her.
+\
+playstop
+bg #000000,lshutter,800
+bg "bg/bg_54b",lshutter,800
+` It seems there's a small clearing where Kohaku-san headed to.@
+`"……… There's a clearing there……?"@
+` Tilting my head to the side, I try to remember, but for some reason, my memory is a bit vague.@
+` In the forest of the mansion, I can see a clearing as if the trees were cut there.
+\
+` [line=3]No, "can see" is not quite right.@
+br
+` If you walked by normally, you probably would never notice it.@
+` If Kohaku-san didn't walk there, hidden enough by the surrounding trees as it is, I would never have noticed even if I lived here all my life.
+\
+`"…… There's a clearing there?@ …… If so, we probably did play there as kids."@
+` To say the least, I don't remember ever playing with Akiha in the clearing.
+\
+br
+` [line=4]I feel like I've never, been there, before.@
+br
+`"…………"@
+` After thinking for a bit, I decide to go into the clearing.
+\
+bg #000000,lshutter,800
+bg "bg/bg_53",lshutter,800
+` …… The clearing doesn't strike me as anything out of the ordinary.@
+` There's no sign of Kohaku-san, who entered before me.@
+br
+`"What's this[line=3]just an empty place."@
+br
+` I walk to the middle of the clearing.@
+` This clearing really is just an empty space.@
+` The perfectly level open ground.@
+` The deep woods enclosing the area.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_53",notrans,0
+wave se_01
+` The voice of the cicadas.@
+` And the strong, summer sunshine that feels like it could dissolve[line=6]
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_53",notrans,0
+br
+`"Eh…………?"@
+` Summer, sunshine[line=3]?@
+br
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_53",notrans,0
+wave se_01
+`"Ou[line=4]ouch……"@
+` The wound on my chest starts to hurt.@
+`        Like / Stabbing.@
+` This pain  / that feels like  / a kitchen knife stabbing my chest.
+\
+bg #ffffff,crossfade,800
+waveloop se_02
+br
+br
+` Chiiirp.@ Chirp Chirp.@
+!w750
+` Chiiirp.@ Chirp Chirp.@
+!w750
+` Chiiirp.@ Chirp Chirp[line=5]
+!w750
+br
+` [line=4]From somewhere, I can hear the voice of cicadas.@
+br
+` But, it's autumn now.
+\
+br
+` [line=4]The summer sunshine that bathes everything in white.@
+br
+` The columns of summer clouds in the far off sky.@
+` I can practically see the voices.@
+` At my feet, there are the discarded shells of cicadas.@
+` Discarded shell.@ Someone's[line=2]discarded shell.
+\
+br
+br
+br
+`"[line=4]………"@
+br
+` Third.@
+` The third child's discarded shell.@
+` The third child I no longer remember.
+\
+bg "bg/cmo_06b",crossfade,800
+br
+br
+br
+br
+br
+` …… Someone's crouching shadow.@
+` Young Akiha's approaching footsteps.@
+` Clouds high in the emptiness.@ Cicadas in the blue sky.
+\
+br
+br
+br
+br
+br
+`   I was just, in a trance.@
+`   Akiha would have been killed.@
+`   That was really all I knew.
+\
+br
+br
+br
+br
+br
+`   I just, ran.@
+`   That was all I understood.@
+`   As for the danger to myself,
+`   I never even thought about it.
+\
+br
+br
+br
+br
+br
+br
+`   I wanted to protect Akiha,
+`   and I just took her place.
+\
+br
+br
+br
+br
+br
+br
+br
+`   In the distance.@
+`   The voices of the cicadas.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]After that.@
+`   My body that died from having its chest pierced.@
+br
+br
+br
+br
+`   And a figure that looks down at my dead body in shock.@
+`   A third child's figure[line=5]
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_53",crossfade,400
+`"Ua[line=3]gh."@
+` My chest hurts.@
+` I feel sick.@
+` The wound in my chest should have closed long ago, so why does it hurt now?
+\
+bg #9c0120,crossfade,400
+bg "bg/ima_13",notrans,0
+` My chest, rips.@
+` The old wound opens, and a crimson stream flows out.@
+br
+` [line=4]What is this?@
+` My wound, it didn't heal at all.
+\
+br
+` It hurts.@
+`   I'm scared.@
+br
+` [line=4]I feel dizzy.@
+br
+`    This is,
+`       the impulse of death.
+\
+bg #000000,crossfade,800
+` Consciousness fades.@
+` My wound aches.@
+br
+` I hear a thump as my body falls to the ground.
+\
+wavestop
+bg #ffffff,crossfade,800
+!w4000
+bg "bg/bg_40c",crossfade,1500
+play "*1"
+` …… I can hear voices talking.@
+br
+`"Akiha-sama, are you not going to call for a doctor?"@
+`"Don't be stupid, Hisui.@ There's no way I could do that, since Nii-san's wound isn't normal…!"
+\
+` …… Akiha   and   Hisui are talking.@
+` This  is   SHIKI's room.@
+` It looks   like   I am  sleeping  on the bed.@
+br
+` I planned to say "Yo!" and get out of bed, but I can't move at all.@
+` My chest doesn't hurt anymore, but my body is as heavy as lead.@
+` All I can move are my eyes and mouth.
+\
+ld l,"tachi/aki_t11b",crossfade,400
+`"Just what were you thinking, Hisui?@ Nii-san mustn't be allowed to go there, you know that…!"@
+ld r,"tachi/his_t21b",crossfade,400
+`"Please…… Forgive me."@
+`"This can't be solved by apologizing.@ You were assigned to serve Nii-san to avoid this kind of situation.@ So what were you doing…!?"
+\
+` Completely different from her usual manner, Akiha gives full vent to her anger.@
+` In comparison, Hisui is accepting the scolding silently, looking down.@
+br
+` …… I'm not sure how this all came about.@
+` But I can at least tell Hisui is being yelled at because of me.
+\
+ld l,"tachi/aki_t10b",crossfade,400
+`"Answer me, Hisui.@ Why did Nii-san go there?"@
+` Hisui does not answer Akiha's question.@
+` The air between them is becoming heavy.@
+` Biting her lip, Akiha takes a step closer to Hisui.@
+br
+` …… Even I can tell that she's about to raise a hand against her.@
+` I'm sure Hisui knows too, but she's just looking down, accepting it.
+\
+playstop
+`"[line=4]Hold on, Akiha."@
+ld l,"tachi/aki_t17b",crossfade,400
+`"Nii-san[line=2]you're awake!?"@
+`"Yeah, you were so loud, I woke up."@
+`"Ah…………"@
+ld l,"tachi/aki_t05b",crossfade,400
+` Akiha looks away uncomfortably.
+\
+`"You know, you shouldn't let it out on Hisui.@ I don't know the circumstances, but this has to do with me collapsing, right?@ It's not her fault, I just collapsed on my own."@
+` I strain hard and somehow manage to lift the upper half of my body off the bed.@
+br
+` But that's all I can manage, and I don't think I can even move an inch more.@
+` But since Hisui is depressed, I have to force myself to act as fine as possible.
+\
+`"…… Honestly, getting into a fight over me.@ Even if you look like an adult, you're still a child."@
+ld l,"tachi/aki_t14b",crossfade,400
+play "*8"
+`"But[line=4]you were out for a long time, Nii-san.@ You were out for more than five hours, and nothing like this has happened before.@ What would I have done if you'd never woken up…!"
+\
+`"Idiot, don't say things like that.@ This is just anemia… Eh?@ It's ten o'clock already?"@
+ld l,"tachi/aki_t12b",crossfade,400
+`"…… Yes.@ Nii-san, you have been out all evening."@
+` Akiha speaks reluctantly.@
+`"[line=6]"@
+` The strength flees from my body.
+\
+`"…… Geez.@ I haven't fainted for that long since elementary school.@ Yeah, I used to faint all the time back then.@ I wasn't used to the Arimas and my mind was always under stress."@
+` It seems like I'm still dreaming, maybe an after-effect of the anemia attack.
+\
+`"…… I remember.@ The Arimas were all good people; they treated me like their own child."@
+` [line=3]Keiko-san was strict but thoughtful and always treated me like I was her own son.@
+` "…… So, I thought I had to become their real child, too."
+\
+ld l,"tachi/aki_t23b",crossfade,400
+`"Nii-san, don't push yourself.@ This is the Tohno mansion.@ You don't have to tell yourself that anymore…!"@
+`"[line=4]I know.@
+` But, for a long time, I thought that way.@ From the beginning, I always thought that.@
+` …… The Arimas, and you, you're all good people, so, it was so hard[line=3]"@
+br
+` …… What am I saying?@
+` Gazing vacantly at the ceiling, thinking back to memories of long ago.
+\
+`"…… Please, don't push yourself, Nii-san.@ You've only been back here for a week.@ So you must be tired."@
+`"[line=2]Really.@ Well, I'm tired, but…"@
+`"Right?@ So, please, just rest today.@ Since your body's weaker than most people's, if you don't take a day to rest from time to time, you'll collapse like you did today."@
+` Akiha looks at me seriously.
+\
+`"…………"@
+` …… Certainly, it's just as she says.@
+` Forgetting about everything.@
+` Unless I rest without thinking about vampires or about myself, I'll really be out of it.
+\
+`"…… You're right.@ As you say, I'll just lie quietly today."@
+` Saying so, I lie down again.@
+ld l,"tachi/aki_t12b",crossfade,400
+`"Really…?@ No more sneaking out of your room later, too?"@
+`"What is that?@ Am I that untrustworthy?"@
+` …… Yeah, I guess so.@
+` I've left Akiha alone for all this time.
+\
+`"Hisui, tell Kohaku that Nii-san is up.@ Nii-san, what will you do about dinner?"@
+`"…… I see.@ Well, my apologies to Kohaku-san, but I don't feel like eating."@
+`"…… I understand.@ Well, Hisui, please inform Kohaku."@
+` Still looking down, Hisui nods in assent and leaves the room.
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t12b",crossfade,400
+`"Well, Nii-san.@ Please go to sleep for tonight."@
+` Akiha speaks in a very gentle tone.@
+br
+` But, to sleep…
+` I'm afraid that if I sleep, I'll see that nightmare.@
+br
+`"No, I[line=3]"@
+`"Please, Nii-san.@ Didn't you say you'll listen to what I say, just for today…?"@
+` Akiha's eyes are pleading.@
+` …… From the bottom of her heart, Akiha is really worried about me.
+\
+`"Alright.@ I'll sleep quietly."@
+`"…… Yes.@ Thank you."@
+`"Silly.@ Why are you thanking me?@ I should be the one thanking you."@
+` …… Thanking me?@
+` Even though I neglected you for eight years, you're the one who called me back to this mansion.
+\
+`"[line=3]Akiha.@ I'm… sorry for everything.@ I'm selfish, and never thought about you.@ But, from now on…"@
+`"It's fine.@ Please stay as you are, Nii-san.@
+` And, I should be the one who's apologizing.@ Please, don't apologize to me.@ If you do, I'll feel like a really horrible person."
+\
+` Akiha grasps my hand, tears welling in her eyes.@
+` …… I don't understand.@
+` Why Akiha is saying such things.@
+` Or why she keeps repeating "I'm sorry".
+\
+`"…… I'm, getting tired.@ I'll, sleep for a bit."@
+`"[line=3]Yes.@ Good night, Nii-san."
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+play "*7"
+` …… The wound in my chest hurts.@
+` The third child.@
+` …… Probably, it's the child who was adopted ten years ago, and died soon after.@
+br
+` A hot summer day.@
+` A figure of a bloody child.@
+` The world of Tohno Shiki, filled with ill omens.
+\
+` [line=3]Thump.@
+br
+` But, it's so quiet.@
+br
+` [line=3]Thump.@
+br
+` I feel at ease.@
+br
+` [line=3]Thump.@
+br
+` Akiha's heartbeat is very close.
+\
+br
+` [line=3]Thump.@
+br
+` It's really quiet.@
+br
+` [line=2]Thump.@
+br
+` And for the first time in days, I sleep calmly, untroubled by nightmares.
+\
+playstop
+!w4000

@@ -1,0 +1,128 @@
+bg #000000,notrans,0
+wavestop
+play "*1"
+` La cena, como siempre, es un asunto silencioso con sólo Akiha y yo en la mesa.@
+` Kohaku-san permanece detrás de Akiha, y Hisui detrás de mí durante nuestra silenciosa cena.
+\
+`"…………"@
+` Lo único distinto es la manera en que Akiha está actuando.@
+` Hasta ahora, cada vez que hacía ruido con mis cubiertos, Akiha levantaba la vista con el ceño fruncido.@ Hoy, sin embargo, es ella quien está causando el mayor traqueteo.@
+` Al final,
+`"[line=3]Voy a mi habitación.@ Por favor retira mi plato."@
+` Diciendo eso, ella sale del comedor.
+\
+bg "bg/bg_34b",lshutter,800
+`"…… ¿Qué le sucede?@ No estaba así cuando veníamos de la escuela…"@
+ld c,"tachi/his_t01",crossfade,400
+`"…………"@
+` Hisui no dice nada.@
+` Kohaku-san recoge los platos, sonriendo como siempre.@
+br
+` [line=4]Y entonces.@
+wave se_05
+br
+` Escucho el sonido de alguien cayendo en el vestíbulo.@
+`"[line=3]¿¡Akiha!?"@
+` Temiendo lo peor, corro hacia el vestíbulo.
+\
+bg "bg/bg_33c",lshutter,800
+ld c,"tachi/aki_t20b",crossfade,400
+`"¡[line=5]!"@
+` Allí, veo a Akiha inclinada sobre las escaleras.@
+` Su respiración es irregular, y puedo escucharla resollar desde aquí.@
+` Su rostro está pálido, y hay gotas de sudor sobre su piel.@
+br
+` …… Puedo ver que no se encuentra bien con una sola mirada.
+\
+`"¡Oye, Akiha!"@
+`"¡No te acerques…!"@
+`"¡…!"@
+` Me detengo.@
+` Apoyándose de las escaleras, Akiha me rechaza violentamente.
+\
+`"¿Qué[line=3]que no me acerque…?@ ¿¡De qué estás hablando!?@ ¡No sé qué sucedió, pero no puedo dejarte en ese estado!"@
+`"[line=3]Estoy bien, sólo… no te acerques más… Nii-san."@
+` Akiha respira con dificultad.@
+wave se_01
+`"Oye[line=4]"@
+` Mi corazón palpita.@
+` Akiha sólo respira dolorosamente.@
+` …… Hay algo mal en mí.@
+` Por un momento, siento que se asemeja a la figura de Yumizuka Satsuki.
+\
+`"Aki… ha[line=3]"@
+`"Estoy bien, por favor, no te acerques.@ Si estás cerca de mí, de ninguna manera podré… así que no te acerques más.@ Mientras no estés cerca, estaré bien, así que…"@
+cl a,tshutter,800
+` Con un sonido audible,
+` Akiha cae una vez más.
+\
+ld c,"tachi/koha_t02",lshutter,400
+`"¿Akiha-sama?"@
+` Kohaku-san pasa a mi lado, corriendo hacia Akiha.@
+cl a,crossfade,400
+` Le susurra algo a Akiha, y le ayuda a levantarse.@
+` Con la ayuda de Kohaku-san, Akiha regresa a su habitación.
+\
+`"¿Qué[line=4]qué fue todo eso?"@
+` En verdad no entiendo.@
+` La atormentada condición de Akiha; me pide que no me acerque, pero permite la ayuda de Kohaku-san.@
+ld c,"tachi/his_t01",lshutter,800
+`"[line=3]Shiki-sama."@
+`"Hisui… ¿qué fue eso?@ ¿Por qué Akiha estaba así?"
+\
+`"A veces, Akiha-sama sufre de disnea repentina.@ Es igual a su anemia, Akiha-sama también es una miembro de la familia Tohno."@
+`"Ah[line=4]"@
+br
+` [line=3]Los miembros de la familia Tohno tienen ese tipo de enfermedades.@
+br
+` Akiha dijo eso durante el almuerzo.
+\
+`"No puede ser… Akiha siempre parece tan saludable."@
+`"Akiha-sama se esforzó para mantenerlo en secreto.@ También teníamos órdenes de no hablarle a usted al respecto."@
+`"[line=8]"@
+` No hay nada que decir.@
+` Sólo puedo mirar con horror las escaleras que Akiha acaba de ascender.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40c",tshutter,400
+ld c,"tachi/his_t01",crossfade,400
+`"Bien, entonces, buenas noches.@ Por favor deje que Nee-san atienda a Akiha-sama.@
+` Makihisa-sama estuvo bajo su cuidado durante muchos años, así que tiene experiencia médica."@
+`"Cierto.@ Si la dejamos en manos de Kohaku-san, estoy seguro de que Akiha estará bien."@
+` …… Ya que no parece haber nada más que yo pueda hacer, supongo que tendré que dejarla a cargo de Kohaku-san.
+\
+ld c,"tachi/his_t17",crossfade,400
+`"Shiki-sama, es raro que Akiha-sama esté en ese estado.@ Ya que puede ser aliviada fácilmente con medicación, no creo que necesite preocuparse.@
+` …… En vez de preocuparse por su propia enfermedad, Akiha-sama está más preocupada por su salud, Shiki-sama."@
+`"[line=3]Lo sé.@ Maldición, soy una porquería de hermano mayor.@ Supongo que en verdad no me percato de nada."
+\
+ld c,"tachi/his_t21b",crossfade,400
+`"¿Usted[line=3]no sabe nada?"@
+` Hisui murmura para sí misma, mirando hacia abajo.@
+`"¿Hisui?@ ¿Qué sucede?@ No me digas que tú también te sientes mal."@
+`"[line=3]No, es sólo que… Shiki-sama, ¿en verdad no recuerda nada sobre el edificio separado?"@
+`"[line=5]¿Eh?"@
+br
+` …… ¿Recordar… qué?@
+br
+`"…… Hisui, eso es…"@
+`"[line=3]En verdad se convirtió en Tohno Shiki, ¿cierto, Shiki-sama?"
+\
+`"¿Hisui?"@
+ld c,"tachi/his_t01",crossfade,400
+`"…… Ese edificio separado cayó en desuso justo después de que usted fuese a vivir con la familia Arima.@ Makihisa-sama decidió demolerlo, pero Akiha-sama se opuso fervientemente, así que permanece en pie hasta el día de hoy.@
+ld c,"tachi/his_t09",crossfade,400
+` [line=3]Por eso, Shiki-sama, si le tiene algo de estima a Akiha-sama, por favor no se acerque a ese edificio separado."@
+cl a,lshutter,400
+` Diciendo eso, Hisui deja la habitación como si estuviese corriendo.
+\
+bg #000000,bshutter,400
+!w2000
+bg "bg/bg_40d",crossfade,400
+` Son las diez en punto, y todas las luces de la mansión son apagadas.@
+`"…………"@
+` No puedo dormir.@
+` Akiha.@
+` El edificio separado que quiere mantener como un secreto para mí.
+\

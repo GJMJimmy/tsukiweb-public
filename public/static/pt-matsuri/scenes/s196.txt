@@ -1,0 +1,13 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_08b",notrans,0
+` [line=2]Eu vou voltar para a mansão.@
+br
+` Eu não desisti da Arcueid, mas sem alguma pista, nunca vou conseguir encontrá-la.@ Por isso não vou sair correndo por aí às cegas, vou voltar para a mansão e pensar com muita calma sobre o que devo fazer.
+\
+`"…… Isso é tudo que posso fazer mesmo?"@
+` Estou angustiado pela minha falta de habilidade para fazer alguma coisa em relação a essa situação.@
+` Mas por enquanto, isso é tudo em que consigo pensar.
+\
+bg #000000,lcartain,800

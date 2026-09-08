@@ -1,0 +1,192 @@
+playstop
+wavestop
+bg "bg/bg_40c",notrans,0
+`"[line=4]Eu não posso."@
+` Eu não posso ir.@
+` São tão poucas as coisas que me restam das quais tenho certeza.@
+` A minha vida na escola, a Ciel como a minha Senpai… Não posso perder isso.@
+`"[line=8]"@
+` Sei que isso não vai durar para sempre.@
+` Mas mesmo assim[line=4]não quero perder a vida pacífica que me resta.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_40d",crossfade,800
+` [line=4]Já é noite.@
+br
+` A hora combinada com a Senpai já passou e vou ter aquele sonho novamente esta noite.@
+`"…………"@
+` Não é certo.@
+` Não vou depender da ajuda da Senpai.@ Esse problema é meu, vou resolvê-lo sozinho.@
+` Para que eu possa continuar vivendo da forma que vivi até agora, vou ter que resolver esse problema com o "assassino"[line=4]
+\
+bg #000000,lcartain,800
+br
+` Para provar se sou ou não um assassino.@
+` …… Nem preciso pensar muito.@
+` Só preciso perambular pelas ruas à noite e encontrar o verdadeiro assassino que não sou eu[line=6]
+\
+!w2000
+wave se_01
+bg "bg/bg_25b",crossfade,800
+` Solto um suspiro demorado.@
+br
+` [line=6]Caminho pela cidade envolta pela noite.
+\
+br
+` Enquanto caminho, coloco a mão no bolso e sinto a faca nas pontas dos dedos.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_26a",crossfade,800
+play "*6"
+` *arf*[line=5]*arf*
+br
+` [line=7]Respiro tranquilamente enquanto caminho.@
+` Tento não chamar a atenção de ninguém.@
+` Observo as pessoas passando enquanto escondo a minha presença.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_27b",crossfade,800
+br
+` *arf*[line=6]*arf*, *arf*.@
+br
+` [line=8]Estou procurando pelo assassino.@
+` Alguém vai ser atacado esta noite.@ Ele está atrás de uma nova vítima.@
+` Talvez[line=4]uma garota de cabelos compridos e negros.@
+` Uma garota com mais ou menos a minha idade seria o ideal.@
+` Nem preciso mencionar a beleza das suas mãos e dos seus pés, mas a beleza do seu pescoço precisa ser considerada.@
+` No final das contas, tudo leva a esse lugar.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_30b",crossfade,800
+` *a-arf*, *arf*, *arf*.@
+br
+` [line=8]Eu procuro pelo assassino.@
+br
+` …… Eu sei que não vai ser fácil encontrá-lo.@
+` Pelos meus sonhos, sei que a presa perfeita é difícil de se encontrar.
+\
+wave se_01
+` *arf*…… *arf*…… *arf*
+br
+` M… A… S
+` Esta noite, esta cidade está me entediando.@
+` Não consigo encontrar a minha PRESA.@
+` Estou ficando nervoso.@ O meu objetivo era encontrar alguém[line=2]ou matar alguém[line=2]ou algo desse tipo.
+\
+`"[line=12]Ha."@
+br
+` Seguro meu fôlego.@
+` Eu vou pegar a minha faca.@
+` Devo me concentrar, assim vou ser capaz de devolver a morte a qualquer instante.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_31b",crossfade,800
+` Fico mais ofegante a cada segundo.@
+br
+` [line=3]Eu procuro pelo ASSASSINO.@
+br
+wave se_01
+` Mas não consigo encontrá-lo.@
+` O tempo passa.@
+` *arf*, *arf*.@
+wave se_01
+` Transbordando, se aguçando, sendo usado, sendo usada, ao longo do tempo se ergue[line=4]e muda de forma e[line=7]
+\
+wave se_01
+bg #ffffff,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+waveloop se_02
+` Na minha frente está a presa de hoje.@
+br
+` A minha respiração ofegante domina o ambiente.@
+br
+` É o cadáver de uma mulher.@
+` Tem uma faca na minha mão.@ O sangue pinga da ponta da faca e cai no chão.@
+br
+` [line=8]Por quê?@
+` Eu estava procurando pelo assassino, mas subitamente aparece o cadáver de uma mulher bem na minha frente.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` *arf*, *arf*, *arf*, *arf*.@
+` A minha respiração fica fora de controle.@
+` Tem um cadáver na minha frente.@
+` Tem uma faca sangrenta na minha mão.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=14]Eu não entendo.
+\
+` Quando[line=4]que horas[line=4]o que fiz?@
+` Será que aconteceu algo com a minha cabeça?@
+` Sim, algo do tipo…
+` Transbordando, se aguçando, sendo usado, sendo usada, ao longo do tempo se ergue[line=4]e muda de forma e[line=4]muda seu significado[line=4]se torna livre[line=4]explode[line=4]e se alivia.@
+` Nesse caminho.@
+` A teoria da evolução da consciência e do seu significado.@
+` Mas há um caminho importante faltando.
+\
+br
+br
+` Desde quando.@
+br
+br
+` Eu.@
+br
+br
+` Me transformei.@
+br
+br
+` No meu outro "eu"?
+\
+` [line=9]Entendo.@
+` Eu não precisava te dar um empurrão, Shiki.
+\
+` Ouço uma voz
+` vindo por trás de mim.@
+br
+` Uma respiração pesada.@
+br
+` Eu me viro.@
+` Ali.@
+ld c,"tachi/hal_t01",crossfade,400
+cl c,crossfade,400
+br
+` Ali está alguém que eu nunca vi na vida, mas é alguém que se parece comigo.
+\
+` [line=6]Não há o que se fazer se você já está corrompido.@
+`  Tchau, Shiki.@ Eu queria brincar com você mais um pouquinho.
+\
+wave se_06
+bg "bg/ima_12b",crossfade,400
+` Slash.@ Sou cortado por uma faca.@
+br
+` Está doendo.@
+` É engraçado.@
+` Está profundo.@
+` É ótimo!
+\
+`"Ahaha[line=6]hahahaha."@
+` Começo a desmaiar.@
+` E assim, neste estado ambíguo, eu fui morto.@
+` …… De certa forma, eu estou feliz.@
+` O Tohno Shiki foi morto pelo assassino.@
+` Essa é a prova de que eu não era o assassino.
+\
+playstop
+bg #000000,crossfade,800
+monocro off
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

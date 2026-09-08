@@ -1,0 +1,42 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=4]Vou ignorar ela.@
+br
+` Se eu simplesmente sair correndo atrás dela e as pessoas me virem, vai ser um problemão.@
+` Não importa o que ela faça, se eu agir como se ela fosse uma estranha, nada de mau vai me acontecer.@
+` …… É provável que hoje de noite ela venha com a conversinha fiada de "Por que você me ignorou?", mas é assim que vai ser.@
+` A única coisa que quero é que minha escola continue em paz.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` Está na hora do almoço.@
+` Não estou com vontade de comer pão no almoço, por isso vou até o refeitório.@
+`"…… Hum?"@
+` Tenho a sensação de que estou esquecendo alguma coisa, mas, ah, tanto faz.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_50",lcartain,1500
+` O refeitório está um caos como de costume.@
+` A maioria das mesas já estão ocupadas, se não me apressar vou ter que comer em pé.
+\
+`"Ah, Senpai."@
+` Vejo a Ciel-senpai sentada junto com um grupo.@
+` Será que são suas colegas de classe?@ Enquanto conversa com um grupo de garotas, ela come seu udon de curry.@
+br
+` …… Parando para pensar, ela sempre está comendo "alguma coisa de curry".@
+`"Ela deve amar mesmo curry."@
+` Depois vou perguntar isso para ela.
+\
+`"………"@
+` Mas tem uma coisa me incomodando.@
+` Sinto que esqueci algo importante.@ Algo perigoso parece ter sido esquecido em algum lugar.@
+br
+`"…… Ah, se não consigo me lembrar é porque não é tão importante assim."@
+` Embora pareça muito importante, eu simplesmente foco toda a minha atenção no meu almoço.
+\
+bg #000000,crossfade,1500
+!w1000

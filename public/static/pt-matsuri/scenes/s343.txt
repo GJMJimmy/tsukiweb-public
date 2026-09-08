@@ -1,0 +1,75 @@
+phase "bg/bg_47",l,aki,06a,6
+bg #ffffff,notrans,0
+!w500
+bg "bg/bg_40a",crossfade,800
+waveloop se_02
+`"…!"@
+` Incapaz de suportar, dou um pulo da cama.@
+` A minha respiração está pesada.@
+` Coloco as mãos na boca e resisto à vontade de vomitar.@
+`"O qu[line=5]"@
+` O que foi aquilo?@
+` Um sonho.@ Foi um sonho.@ Mas por quê?@
+` Por que tive um sonho tão horrível assim?@ Um sonho que eu mato as pessoas e ainda bebo o sangue delas?
+\
+` Tento recuperar o fôlego.@
+` A sede na minha garganta.@
+` A sensação de morder a carne.@
+` O prazer ardente de matar.@
+` …… Por que isso parece tão real?@
+` Ainda consigo me lembrar perfeitamente do som do coração enquanto eu o arrancava.
+\
+` Continuo tentando respirar loucamente.@
+` Não sei dizer se aquilo foi realmente "prazer".@
+` Foi como se eu tivesse sido alvejado na cabeça por uma bala de entusiasmo condensado.@
+`"Guh…"@
+` A minha respiração para quando lembro.@
+` Então[line=3]talvez aquele impacto é o que pode ser chamado de "prazer".
+\
+`"Por que tive… Um sonho assim?…"@
+` Olho para as minhas mãos.@
+` Mas é claro que elas estão limpinhas, sem nenhum traço de sangue.@
+` Eu estou no meu quarto e os raios do sol da manhã atravessam a janela.@
+br
+` …… Aquele dia.@ O meu primeiro encontro com a vampira Yumizuka em um beco afastado… Será que aquilo ainda está no meu subconsciente?@
+` Talvez seja por isso que tive um sonho tão macabro.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+`"Ai ai[line=4]"@
+` O meu pescoço dói bem no lugar que a Yumizuka mordeu.@
+br
+` [line=3]Aqueles que são mordidos por vampiros também se tornam vampiros.@
+` Essa frase comumente conhecida surge na minha cabeça.@
+`"…… Não pode ser.@ Eu estou pensando demais nessas besteiras."
+\
+wave se_04
+` A Hisui pede licença e entra no quarto.@
+` Do mesmo jeito e com a mesma voz de sempre.@
+play "*2"
+ld c,"tachi/his_t01",lshutter,800
+`"Bom dia, Shiki-sama."@
+` Ela me cumprimenta educadamente.@
+` Todas as manhãs, a Hisui traz com ela uma tranquilidade muito agradável.@
+` Enquanto penso nisso, o tumulto de pesadelos na minha cabeça desaparece.
+\
+ld c,"tachi/his_t07",crossfade,400
+`"…… Shiki-sama?@ Algum problema?"@
+`"[line=3]Ah, não.@ Só fiquei muito feliz por um momento.@ …… Bom dia, Hisui.@ É uma manhã como todas as outras!"@
+ld c,"tachi/his_t05",crossfade,400
+`"Sim.@ Desculpe-me por não ser uma manhã melhor dos que as outras."@
+`"Eu não estava reclamando.@ Apenas senti que, como você continua do mesmo jeito, essa manhã está tranquila como todas as outras."@
+` Certo!@ Com vigor, vou começando a me preparar.
+\
+`"Eu vou me trocar e descer para a sala de estar.@ Você já pode ir."@
+ld c,"tachi/his_t16",crossfade,400
+`"Muito bem.@ Com licença."@
+cl a,lshutter,800
+` Ela sai do quarto e fecha a porta bem devagar.@
+`"Certo, vou deixar os pensamentos idiotas de lado e ir para a escola…"@
+` Tomo um fôlego enorme e assumo o controle dos meus pensamentos.@
+` Faltam dez minutos para as sete horas da manhã.@
+` Assim como ontem, não vou precisar de fazer nada com pressa, por isso eu[line=3]
+\

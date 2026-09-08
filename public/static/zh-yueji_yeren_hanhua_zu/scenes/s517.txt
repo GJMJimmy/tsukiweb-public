@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　大家好。@我是本教室的负责人，知得留是也。@
+`　第六课是关于找人的基本，请各位好好思考一下。@
+br
+`　一针见血地说，远野君根本就不懂怎么找人。@
+`　仔细考察爱尔奎特离去的理由，好好推理她是因何故、往何处、要做何事而离去的，那么答案也就很显而易见了。@
+br
+`　简单的说，她就是肚子饿了，所以跑到小巷子里面去“啾～啾～”去了！
+\
+ld l,"tachi/ark_t31a",lshutter,400
+ld l,"tachi/ark_t31b",lshutter,400
+`「胡说八道ー！@　希耶尔暴权ー！@　眼镜娘ー！@　印度人ー！」@
+br
+`　………………。@
+`　那么这次先到此为止。@
+`　请继续欣赏游戏本篇的剧情。
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lshutter,400
+`「喵？@　希耶尔你干啥？@　为啥突然掏出霰弹枪、机关枪、还有巴尔干炮这种大杀器」@
+br
+wave se_07
+`　Arc ！@　和印度有毛关系啊，印度！@
+br
+`「眼镜娘暴走了瞄～！@　Biuu～（音效）」
+\
+cl c,bscroll,800
+playstop

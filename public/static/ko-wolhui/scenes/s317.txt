@@ -1,0 +1,25 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`　……그래．@
+`　후회는　하지　않는다고　결심했고，무엇보다　날　신경써　준　코하쿠씨의　마음을　소중하게　여겨야겠지．@
+`「찬성하는　게　당연하지．@내　환영회니까，거절할　리가　없잖아」
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`「결정이네요！@　그럼　전　요리　준비를　할께　요．@히스이는[line=3]오늘　내가　할　일을　맡겨도괜찮아？」@
+ld r,"tachi/his_t02",crossfade,400
+`「알겠습니다．@로비와　동관　청소지요」@
+ld r,"tachi/aki_t04b",crossfade,400
+`「그럼　난……어떻게　할까，코하쿠？」@
+ld l,"tachi/koha_t05b",crossfade,400
+`「아키하님이랑　시키씨는　방에서　쉬세요．@저녁식사를　일찍　하고　환영회를　열　테니까요，하실　일이　있으시면　그때까지　끝내　주세요」
+\
+cl a,lshutter,800
+`　코하쿠씨는　주방으로，히스이는　안마당으로　향했다．@
+ld c,"tachi/aki_t08b",crossfade,400
+`「그럼　전　방으로　돌아갈께요」@
+cl a,lshutter,800
+playstop
+br
+`　자．@난　어떻게　할까？
+\

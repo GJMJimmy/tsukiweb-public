@@ -1,0 +1,26 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",notrans,0
+`"………"@
+` Não, estou com um pressentimento de que não vou conseguir me encontrar com a Senpai se ficar esperando aqui.@
+` Se a Senpai não quiser me ver, ela simplesmente vai embora no instante em que bater os olhos em mim.@
+` …… Se esse for o caso, ela não vai entrar pelo portão da frente.@
+br
+`"…… Se ela vier para a escola, será pelo portão de trás."@
+` Com isso em mente, corro para os fundos da escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+` [line=4]*suspiro*@
+` Não tem ninguém aqui.@
+` Nem mesmo estudantes entrando chegando pelo portão de trás.@
+` …… Mesmo assim vou esperar pela Senpai, que com certeza não virá.
+\
+bg #000000,lshutter,800
+bg "bg/bg_05a",lshutter,800
+` O sinal toca uma vez, me dizendo que o portão está sendo fechado.@
+` …… A Senpai não veio.@
+` Eu devia voltar antes que a primeira aula comece.
+\
+bg #000000,lcartain,800

@@ -1,0 +1,223 @@
+playstop
+wavestop
+bg "bg/bg_40d",notrans,0
+` [line=3]Vai ficar tudo bem se eu não dormir.@
+br
+`"…… Isso aí.@ Se eu não dormir, e se[line=2]"@
+` Se houver outra vítima amanhã, vou ter certeza de que não tenho nada a ver com tudo isso.
+\
+`"[line=4]Beleza."@
+` Entendo que é um pouco exagerado.@
+` Sei que é um tanto estranho ficar aqui sem dormir, esperando que alguém que não conheço morra.@
+`"[line=3]Mas que outra opção eu tenho?"@
+` Já que[line=4]não posso confiar na minha memória, não há outra escolha.@
+br
+` [line=3]Enfim.@
+` Não tenho outra opção senão ficar no meu quarto sem dormir e aguardar até o dia amanhecer.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+` [line=5]O tempo passa.@
+` Ainda consigo ficar acordado.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+br
+br
+` [line=4]Mais uma hora se foi.@
+` Ainda consigo ficar acordado.
+\
+bg #000000,crossfade,400
+bg "bg/bg_40d",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Mais uma hora se foi.@
+` Ainda[line=3]consigo… Ficar acordado.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Agora já passa da uma da manhã.@
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+` Eu… Ainda  consigo   ficar    acordado.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Daqui a apenas quatro horas, será de manhã.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+` …… Algo está errado.@
+` Eu ainda… Estou  consciente… Mas…
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+` …… A minha visão desaparece.@
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_40d",crossfade,800
+br
+` Preciso ficar acordado.@
+` Eu ainda não estou com sono, mas…
+` Por quê?@
+!w750
+` Por quê?@
+!w1350
+` Por quê?@
+!w1750
+` Por que o meu    corpo   quer   dormir   tanto assim[line=5]?
+\
+bg #000000,tcartain,800
+!w2000
+!w3000
+waveloop se_11
+bg "bg/bg_26a",notrans,0
+` *arf*[line=3]*arf*[line=4]*arf*
+\
+` Sinto que estou sendo observado.@
+` Eu.@
+` Olho as pessoas andando pela rua com os meus olhos vermelhos como sangue.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Será por causa da hora?@
+`   Comparado a ontem à noite, não tem quase ninguém na rua.
+\
+` …… Alguém está me observando.@
+` Não consigo encontrar quem estou procurando.@
+` De novo.@ Esta noite também não consigo encontrar quem procuro.@
+br
+br
+br
+br
+textcolor #ff0000
+`      Estou começando a ficar irritado.
+\
+textcolor #ffffff
+` Estou arfando muito.
+\
+` Vou mudar de lugar.@
+` Vou parar de procurar na cidade.
+\
+bg "bg/bg_24c",crossfade,400
+` Vou de telhado em telhado e acabo em um lugar cheio de gente.@
+` …… Observando do telhado da casa mais alta, verifico as ruas.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #ff0000
+`             Não olhe!
+\
+textcolor #ffffff
+`"[line=4]Lá."@
+` Vejo uma pessoa caminhando sozinha.@
+` Uma mulher.@
+` Dessa vez, não pode ter erro…
+` Seria ótimo se fosse a Akiha.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`        Não olhe pra mim.
+\
+textcolor #ffffff
+` Não, realmente não importa.@
+` Novamente.@
+` Quero provar daquela deliciosa sensação novamente[line=4]
+\
+bg #000000,notrans,0
+wave se_13
+bg "bg/ima_12b",lshutter,400
+` Eu mato ela por trás, com cuidado para não ferir o seu corpo.@
+` Segurando os seus longos cabelos, arrasto a Akiha.@
+bg "bg/bg_22c",lshutter,800
+` *arf*[line=4]*arf*[line=4]*arf*
+` Mordo o seu pescoço e sugo o seu sangue.@
+br
+` [line=3]Que coisa entediante.@
+` Não chega nem perto da excitação de ontem.@
+` Não tem como ela ser a Akiha com o cabelo curto desse jeito.
+\
+`"…… Que coisa entediante……!"@
+` Começo a ficar irritado.
+\
+` Eu despedaço todo o seu corpo, mas ainda estou muito bravo.@
+` Impostora.@
+` Essa impostora me irrita muito.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`         Pare de me observar!
+\
+textcolor #ffffff
+` *arf*[line=4]*arf*[line=4]*arf*[line=4]
+br
+` Eu usei até energia extra.@
+` A noite não é tão longa.@
+` Assim que amanhecer, o Shiki vai acordar.@
+br
+`"Estou cansado, já chega por hoje.@ Vou recomeçar amanhã."@
+` Sim, já tive o suficiente para hoje.@ Amanhã tem mais.
+\
+` Agora.@
+` Preciso voltar para a escola, antes que amanheça e sem que ninguém perceba[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

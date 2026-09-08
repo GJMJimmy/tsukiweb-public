@@ -1,0 +1,387 @@
+bg #000000,crossfade,800
+wait 750
+br
+br
+br
+br
+br
+br
+`  Kinoko's Masterpiece Experimental Theater.
+wait 1000
+\
+bg #000000,crossfade,800
+wait 750
+br
+br
+`  This story was made when the half-moon version was completed.@
+`  Some settings might be totally different from the main storyline, so please enjoy this as a completely different story.@
+`  And we will dismiss any requests for payback of the time and effort you have wasted to enjoy this story.@
+br
+`  Now, please enjoy the side story with 0 minutes of planning and 60 minutes of production.
+\
+ld c,"tachi/kemo_t01",bshutter,400
+br
+br
+br
+br
+br
+br
+`      Three.
+wait 800
+\
+cl c,bshutter,400
+ld c,"tachi/kemo_t04",bshutter,400
+br
+br
+br
+br
+br
+br
+`      Two.
+wait 800
+\
+cl c,bshutter,400
+ld c,"tachi/kemo_t05",bshutter,400
+br
+br
+br
+br
+br
+br
+`      One.
+wait 800
+\
+cl c,bshutter,400
+ld c,"bg/matu",bshutter,400
+br
+br
+br
+br
+br
+br
+br
+`      Start!
+\
+bg #000000,crossfade,800
+wait 1000
+bg "bg/bg_40a",crossfade,800
+play "*02"
+br
+`  The morning light wakes me up.@
+br
+`  "Hm......"@
+`  This awakening of mine seems to be filled with a sense of foreboding.@
+`  I feel slightly feverish and dizziness from my anemia might come at any moment.@
+`  "... But the mornings in this room sure don't change."@
+`  I say something I should never say.@
+`  I feel bad that it's the same every time, but there's only one morning background graphic, so please let this pass.
+\
+`  "... It can't be helped.@
+` There's so many background graphics already, so I can't just go and ask for one made exclusively for mornings.@
+` There's a limit to how much one can explain with words using just one graphic[line=3]"@
+`  I grumble. Akiha would probably scold me to do something about it since I'm the main character.@
+`  Then.@
+bg #000000,bcartain,800
+playstop
+`  Shutters come rolling down to block the windows.
+\
+`  "[line=4]What's going on!?"@
+`  The room is instantly filled with darkness.@
+`  I feel the window, but it doesn't even budge.@
+`  ... This room is like a prison now.@
+`  "What is this?@
+` Don't tell me this is some sorta anti-robbery mechanism."@
+`  ... Actually...@
+`  Akiha would do something like this.@
+` Not to keep robbers out, but to keep Arcueid out.@
+`  And of course, Kohaku-san would have proposed the idea to Akiha.
+\
+`  "... But why?@
+` Do they want me to do it like this since I ran out of vocabulary to describe the morning scenery...?"@
+`  Well, I don't mind, but this is hopeless as a story.@
+`  "No.@
+` I think that is only because you lack poetic talent."@
+ld c,"tachi/his_t09",tscroll,800
+`  "H-Hisui!!!!?"@
+ld c,"tachi/his_t01",crossfade,400
+`  "Yes.@
+` Good morning, Shiki-sama."@
+`  "Oh... yeah, morning, Hisui.@
+` Um... you sure came out violently this morning."@
+ld c,"tachi/his_t08",crossfade,400
+`  "......"
+\
+cl c,rscroll,800
+`  Oh, she ran away.@
+`  "Hey, Hisui!@
+` Where's my change of clothes?"@
+`  I yell, but there's no reply.@
+`  Hisui exits the room as if she had a jet engine.@
+bg "bg/bg_40a",tcartain,800
+`  Oh, it's back to normal.
+\
+play "*03"
+`  "... This is bad.@
+` Akiha severly scolded me when I went out into the hallway with my pajamas on before..."@
+`  ... Yes.@
+`  I'll sleep until my change of clothes come.@
+`  It's summer vacation, so there's no reason for me to get up earl[line=3]
+br
+quakey 16,200
+`  "!?"@
+`  Wha-wha-wha...!@
+br
+quakey 24,150
+`  W-What's going on!?
+\
+ld c,"tachi/koha_t06",rshutter,400
+`  "Alright, please get up and leave.@
+` It's time to clean your room."@
+`  Then.@
+`  Kohaku-san comes into the room swinging her broom.@
+`  ... It seems the earthquake is an after-effect of her cleaning.
+\
+ld c,"tachi/koha_t04",crossfade,400
+`  "Geez! You mustn't be so lazy just because you're on a vacation, Shiki-san!@
+` Breakfast is ready, so please go on to the dining room!"@
+`  "... I don't mind, but I don't have a fresh change of clothes.@
+` Hisui's been acting strangly this morning and she ran away after she woke me up."@
+ld c,"tachi/koha_t05",crossfade,400
+`  "Oh, really?@
+` I knew Hisui-chan would eventually run out of patience and let her true self show. So she finally exploded, huh?"@
+`  "...Oh.@
+` Explode, huh?"
+\
+ld c,"tachi/koha_t02",crossfade,400
+`  "Yes.@
+` It's probably because she sampled your food last night.@
+` I'm always mixing in new medicine in your food, but Hisui-chan sampled your food last night when I wasn't watching."@
+`  "... Geez.@
+` So your habit of mixing medicine in my food isn't gone yet, huh?"@
+`  "No. I know it's a bad habit, but I'm mixing it in before I even realize it.@
+` But it's boring because you're getting resistant to it so the effects are small."@
+`  Kohaku-san is crazy like always.
+\
+ld c,"tachi/koha_t06",crossfade,400
+`  "I'm going to clean your room, so please get out.@
+` I'll be done in about an hour, so please go and eat in the meantime."@
+cl c,crossfade,400
+`  Kohaku-san urges me by poking my face with the broom.@
+`  "[line=6]"@
+`  Even though this bad feeling doesn't fade, I decide to leave.
+\
+bg #000000,rcartain,800
+wait 1000
+bg "bg/bg_34a",rcartain,800
+`  Akiha is in the living room as usual.@
+ld c,"tachi/aki_t04a",crossfade,400
+`  "Good morning, Nii-san.@
+` Your food is ready."@
+`  "Yeah, I know.@
+` I'm gonna go eat some morning grub."@
+ld c,"tachi/aki_t03a",crossfade,400
+`  "Geez, how many times do I have to tell you?@
+` You are the eldest son of the Tohno family, so please watch your language[line=4]"@
+cl c,crossfade,400
+`  Then.@
+`  Akiha's scolding is interrupted by a loud noise.
+\
+`  The sounds of vigorous footsteps come rushing into the room, filling the air.@
+ld l,"tachi/nero_t03",rshutter,400
+br
+`  "Akiha-kun!!!!!"@
+br
+`  "[line=3]What?"@
+`  A strange man wearing a black coat comes in.
+\
+ld r,"tachi/aki_t08a",crossfade,400
+`  "Oh, so it's you, Uncle.@
+` Why the disturbed face?"@
+br
+`  What!?@
+br
+`  "Hold on, Akiha!@
+` Who the hell did you call "Uncle"!?"@
+ld r,"tachi/aki_t04a",crossfade,400
+`  "Oh, please do not say such a thing, Nii-san. Is he not our uncle?@
+` I am sorry, Uncle Nrvnqsr.@
+` Nii-san loses his memory from time to time."@
+ld l,"tachi/nero_t02c",crossfade,400
+`  "I don't mind.@
+` Such petty things are not of my concern."
+\
+ld l,"tachi/nero_t03",crossfade,400
+playstop
+`  "By the way, Akiha-kun.@
+` Do you know where the pudding I've been looking forward to since last night went?@
+` It is pudding-a-la-mode I bought at Fujiya for 700 yen."@
+ld r,"tachi/aki_t09",crossfade,400
+`  "Oh.@
+` Nii-san ate that last night like a panda eats bamboo grass."@
+`  "[line=6]What!?"@
+`  S-s-stop lying, Akiha!@
+`  I never ate it, and first of all, I like Japanese snacks more than Western snacks...!@
+play "*04"
+ld l,"tachi/nero_t04",crossfade,400
+`  "Nuuuuuuuu!!!!!@
+` I shall strike you 666 times!"@
+`  "Heeeeee, that's a false charge!!"
+\
+bg #000000,rcartain,400
+wait 2000
+bg "bg/bg_53",rcartain,800
+play "*03"
+`  ............ Phew.@
+`  I managed to escape.@
+`  I managed to escape, but...
+ld c,"tachi/roa_t03a",rshutter,400
+br
+`  "Did you see it!?"@
+br
+`  ... A really suspicious looking guy is trespassing in our yard.
+\
+`  "... Hey.@
+` Are you a burglar?"@
+`  "Did you see it!?@
+` You saw it, right!?"@
+`  ... Man.@
+`  Why am I coming across all these crazy people today?
+\
+`  "What are you talking about?"@
+`  "Why you, why you, why you!@
+` How dare you peek at my radio exercise!@
+` You're always getting in my way!@
+` Don't come here before me!@
+` Don't finish the exercise before me!@
+` Don't get more stamps than me!@
+`   Man, don't peek inside my head!"@
+`  "............"@
+`  ... I hate this.@
+`  I usually can't follow this kind of stuff.
+\
+`  "I didn't take a peek.@
+` I didn't take a peek, so please go ahead and exercise all you want.@
+`   I'll get going now."@
+`  So please don't mess with me anymore.@
+ld c,"tachi/roa_t04a",crossfade,400
+`  "Whaaat?"@
+`  The man tilts his head in displeasure.@
+`  There...@
+cl c,crossfade,400
+ld c,"tachi/ark_t08",rshutter,400
+`  "Hey!@
+` I'm here to hang out, Shiki."@
+`  A more troublesome person appears.
+\
+`  "... Arcueid.@
+` I'm sorry, but I don't feel like it today."@
+cl c,crossfade,400
+ld r,"tachi/ark_t11",rshutter,400
+`  "Whaaat?"@
+`  I want to be alone even if she makes a face like that.@
+`  "... Play with that guy if you're bored.@
+` You guys just might get along."@
+ld l,"tachi/roa_t04a",crossfade,400
+`  "Whaaat?"@
+`  "... You guys seem pretty coordinated."@
+`  I get dizzy after saying that.@
+`  This head is making me sick enough... I just might die of nausea if I associate myself with them on top of that.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+`  See.@
+` It's the usual.@
+`  "Man! Radio exercise, folk dance, do whatever you want!@
+` I'm going back to my room, so don't follow me!"@
+ld l,"tachi/roa_t03a",rshutter,400
+`  "Huhahahaha, I'm coming too!"@
+ld r,"tachi/ark_t08",rshutter,400
+`  So.@
+`  Why doesn't anyone ever listen to me?
+\
+bg #000000,rcartain,800
+playstop
+wait 2000
+bg "bg/bg_54a",lcartain,800
+`  "...Haa... Haa... Haa..."@
+`  I managed to lose them, but I'm out of energy.@
+`  When I take a step back and think about it calmly, it's been crazy since this morning.
+\
+play "*10"
+ld c,"tachi/kemo_t05",crossfade,400
+`  "So you finally realize now, huh, boy?"@
+`  "Whoa! Who are you!?"@
+`  "This? The talking horse, Eto.@
+` The strange object that appeared at the start."@
+`  "............ Excuse me?"@
+`  The strange object says something strange.@
+`  "Um... Are you a deer god?@
+`  "No."@
+`  Well, you don't look like anything else.
+\
+`  "So what is this deer god doing in my yard?@
+` Are you going to save me from this strange situation?"@
+`  "I'm the one that wants to be saved, you idiot!"@
+`  He's angry at me now.@
+`  I don't get it at all.
+\
+`  "Don't cause me more trouble when I'm already busy with the summer festival preparations!@
+` If you think this is strange, you should have woken up right then and there!"@
+`  "......?@
+` Um, so this is a dream like I thought?"
+\
+`  "Of course.@
+` The terminology dictionary said it too.@
+` A dream is a convenient thing.@
+` One can only do such crazy stories if they end up being dreams."@
+`  Well, so it's as I thought, huh?@
+`  "I see.@
+` But I want to know why it's like this."@
+`  "You can look forward to the upcoming summer.@
+`   Hehehe, you'll be able to savor a kaleidoscope of absurdities. You are such a fortunate guy."@
+`  It laughs.
+\
+bg #000000,tshutter,400
+`  "[line=3]Oh."@
+`  "Then you should go back to your normal morning now.@
+` Make sure you work hard to get to the next day properly, okay?"@
+`  The deer god runs behind me.@
+`  "Tuesday laboratory!"@
+`  The deer says something incomprehensible and pushes my back.
+\
+playstop
+`  "Noooooooooooooooo."@
+`  I fall like a raster scroll.@
+`  Roll.@
+`  Roll.@
+`  Roll.@
+`  ... Ugh, I'm starting to pass out.@
+`  I bet it'll be the usual morning when I wake up.@
+`  Man, when will I be able to go on a date to the firework show with **** (Please insert your heroine of choice here)......
+\
+wait 1000
+bg #ffffff,crossfade,1500
+play "*02"
+bg "bg/bg_40a",crossfade,800
+br
+`  The morning light wakes me up.@
+br
+`  "Hm......"@
+`  This awakening of mine seems to be filled with a sense of foreboding.@
+`  I feel slightly feverish and dizziness from my anemia might come at any moment.@
+`  "... Oh, it's morning already."@
+`  Well, I guess summer vacations are like that.@
+`  There's no school, so it's just a fact of life that every day is the same.
+\
+br
+br
+br
+br
+br
+`  Well.@
+`  The firework show is tomorrow, so should I go to school or stay at the mansion today[line=3]?
+\
+bg #000000,crossfade,1500
+playstop
+wait 5000
+bg #000000,crossfade,1500

@@ -1,0 +1,118 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]As coisas não vão se resolver sozinhas se eu ficar aqui parado.@
+br
+` Além disso, não estou me sentindo muito bem, vou acabar desmaiando se não comer alguma coisa.@
+`"Acho que vou para o refeitório."@
+` Pensando alto, levanto da carteira.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` O movimento deve ter diminuído, pois não vejo nenhuma fila.@
+` A maioria das mesas estão ocupadas.@
+` Olho em volta para ver se tem algum lugar vago.@
+br
+` [line=3]Nesse momento,
+ld c,"tachi/cel_t01a",crossfade,400
+cl c,crossfade,400
+br
+` …… vejo uma pessoa parecida com a Senpai.
+\
+`"[line=4]Haha."@
+` Dou uma risada alta.@
+` Confundir a Ciel-Senpai com outra pessoa por causa de uma pequena semelhança… devo estar louco.
+\
+` Sei que estou louco, mas não consigo parar de olhar para aquela garota.@
+` A garota que se parece com a Senpai senta e começa a comer o seu udon.@
+` Na verdade, é udon de curry.@
+` Até o que ela está comendo parece com o que a Senpai escolheria.@
+br
+`"[line=6]Ah."@
+br
+` Na verdade, ela é a Senpai.
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+play "*3"
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=4]Senpai!"@
+` Corro o mais rápido que consigo na direção dela.@
+`"[line=7]"@
+cl c,crossfade,400
+` Ela olha para mim, e em seguida desvia o olhar.@
+` Sem dúvida alguma, está me evitando.@
+` Mas isso não importa.
+\
+`"Senpai, o que você está fazendo aqui……!?"@
+` Acabo dizendo isso por não conseguir pensar direito no que falar.@
+ld c,"tachi/cel_t12",crossfade,400
+`"O que estou fazendo aqui?@ Eu estudo nesta escola.@ E posso acabar desmaiando se não comer na hora do almoço."@
+`"Não, não foi isso que eu quis dizer, mas[line=3]"@
+cl c,crossfade,400
+` Não sei o que dizer.@ Meu cérebro parou de funcionar.@
+` Ela desvia o olhar novamente, como se quisesse reclamar.
+\
+`"Só achei estranho você vir para a escola.@ Ontem mesmo você me disse adeus, por isso pensei que nunca mais te veria de novo[line=3]"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Sim, eu disse adeus porque estava ficando tarde.@ Estudantes devem voltar para casa naquele horário, não sabia?"@
+` Calmamente.@
+` Com uma expressão séria, ela solta essa piada totalmente sem graça.
+\
+`"O qu[line=3]"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Ou você está dizendo que pessoas como eu não deveriam vir à escola, Tohno-kun?"@
+` Seus olhos, que ontem estavam tão desprovidos de emoções, olham diretamente para os meus.@
+br
+` …… 'Pessoas como eu'.@ Foi isso que ela disse.@
+` Ainda não sei se ela é realmente uma vampira ou não.@
+` Mas ela se curou daquele ferimento bem rápido, então deve ser algo diferente de um ser humano, assim como a Arcueid.@
+` Não dá pra chamar alguém assim de um 'ser humano normal'.
+\
+` Mesmo assim.@
+` Para mim, ela é uma pessoa muito querida.@
+` Ainda não sei exatamente o que sinto por essa garota.@
+` Mas depois de apenas doze horas.@ Foi só a metade de um dia, mas só de pensar que ela havia desaparecido do meu mundo, me fez sentir que a realidade havia perdido todo o seu valor.@
+` Então[line=3]para mim, ela é alguém que não posso perder.
+\
+`"…… Senpai, eu[line=3]"@
+` Preciso pensar antes de falar a primeira coisa que me vier à mente.@
+` Mesmo que ela seja igual à Arcueid, a Senpai ainda é a Senpai.@ Essa é uma verdade absoluta em que acredito cegamente.@
+` Eu devia falar o que não consegui dizer ontem à noite.@
+br
+` Entretanto, antes disso…
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tudo bem.@ Não posso fazer nada se você me odeia, Tohno-kun.@ Mas este é o meu cotidiano, por isso não importa o que você diga, eu decidi fazer o que bem entendo."@
+br
+` Ela vai direto ao ponto.@
+` "Você tem alguma objeção?" a Senpai faz essa pergunta e me encara.
+\
+`"………… Hã?"@
+` Claro que não tenho objeções.@
+` Sinto-me um idiota tão grande por ter me preocupado dessa forma, que acabo perdendo todas as energias do meu corpo.@
+` Mas deixando isso de lado, estou muito feliz.@
+`"…… Não, é claro que não tenho objeções.@ Pois eu também estive ignorando todos os seus avisos e fazendo o que queria, Senpai."
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Isso é aceitável.@ Então, vamos apertar as mãos."@
+` Ela estende a mão.@
+` Não sei no que está pensando, mas pego em sua mão.@
+br
+` Apertamos as mãos.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Pronto, este é um sinal de que fizemos as pazes.@ Vamos manter as coisas assim, tá bom, Tohno-kun?"@
+` Ela abre um sorriso enorme, demonstrando muita felicidade.@
+cl c,lshutter,1500
+` Em seguida, se levanta, pega sua bandeja e sai andando.@
+br
+` …… Não sei para onde pretende ir, mas parece que ela vai sair daqui.
+\
+`"Ah[line=4]"@
+` Depois de devolver os pratos, ela sai do refeitório.@
+` …… Certo.@
+` Estou feliz que ela ainda esteja aqui e que tenhamos nos entendido, mas[line=3]como fica a nossa situação em relação à Arcueid e àquele vampiro que estávamos caçando?
+\
+playstop

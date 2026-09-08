@@ -1,0 +1,59 @@
+play "*3"
+wavestop
+monocro #0000ff
+bg "bg/bg_29b",notrans,0
+cl c,notrans,0
+` Arcueid me mira muy entretenida.
+\
+`"Uh[line=4]"@
+` Está actuando como la Arcueid del sueño de anoche.@
+br
+`"No te concierne, así que déjame en paz."@
+` Aparto la vista de ella y me niego.@
+` Pero Arcueid continúa diciendo "Vamos, vamos," una y otra vez.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Vamos, dime.@ Puedes al menos decirme con quién soñaste."@
+` Ella pregunta como una niña curiosa.@
+` Cada vez que le doy la espalda sigue saltando frente a mí, diciendo "Vamos, vamos."@
+br
+` …… Esto es tortura pura.@
+` Es tan traviesa como en el sueño de anoche.
+\
+` Entierro mi rostro en mis manos.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Oye Shiki, no te quedes callado y dime."@
+` Arcueid continúa mirándome con esos ojos volteados.@
+` [line=3]No puedo, Dios.@
+` Éste es mi límite.@
+br
+`"…… Tú."@
+` Lo dejo salir con vacilación y una voz débil.
+\
+`"[line=3]¿Eh?@ ¿Qué pasa conmigo?"@
+`"No me hagas decirlo de nuevo.@ ¡Estoy diciendo que fuiste tú quien vino!"@
+` Grito vigorosamente mientras miro hacia un lado.@
+` Los ojos de Arcueid se ensanchan, sorprendidos.@
+ld c,"tachi/ark_t13",crossfade,400
+`"¿Y, yo……?"@
+`"Sí, no es una broma.@ Tú viniste, y[line=4]"@
+` No hay manera de que pueda terminar de decirlo.
+\
+ld c,"tachi/ark_t10",crossfade,400
+playstop
+`"Ah[line=4]"@
+` Ahora Arcueid aparta la vista de mí, parece muy incómoda.@
+cl c,crossfade,400
+br
+`"………………"@
+`"………………"@
+` Ninguno de los dos sabe qué decir.@
+` El incómodo silencio continúa.
+\
+` ……@
+` …………@
+` …………………@
+` …………………………@
+` ………………………………… *ejem*@
+` No puedo soportar más el silencio y fuerzo a salir esa tos.
+\

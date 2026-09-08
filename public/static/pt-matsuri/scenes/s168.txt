@@ -1,0 +1,13 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"Está tudo esclarecido?@ Então vamos indo…… Arcueid, você tem algum lugar em mente?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Humm, não sei, vou deixar você decidir.@ Apenas me leve para onde quiser."@
+cl c,crossfade,400
+` …… Ela diz que quer passar o dia comigo e agora me vem com essa?
+\
+` Hummmmm[line=2]Não faço ideia do tipo de lugar que ela gosta, mas vou levá-la para um lugar bom para se passar o tempo.@
+` Bem, então[line=2]
+\

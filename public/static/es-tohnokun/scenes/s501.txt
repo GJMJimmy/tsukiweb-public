@@ -1,0 +1,189 @@
+playstop
+waveloop se_02
+bg "event/aki_e05a",notrans,0
+` *jadeo* *jadeo* *jadeo*
+br
+` No puedo respirar correctamente.@
+` Los ojos de Senpai ni siquiera parecen interesados en mi muerte.@
+` Su daga está suspendida directamente sobre mi corazón.@
+` Una situación en la que estoy a un segundo de ser asesinado.
+\
+`  *jadeo* *jadeo* *jadeo* *jadeo*
+br
+`"Qué raro.@ Has matado a tantas personas, pero tienes miedo de morir."@
+` Su voz, teñida de disgusto.@
+` Sus ojos, rodeados de desprecio.@
+br
+` Su daga, lista para matarme.
+\
+bg "bg/ima_13b",notrans,0
+` Seré asesinado.@
+` Seré asesinado.@
+` Seré asesinado.@
+` Seré asesinado.@
+` SERÉ asesinado.@
+` SERÉ ASESINADO.@
+`                 Entonces.@
+monocro #ff0000
+bg "bg/ima_13b",notrans,0
+` Si yo mato.@
+` Si yo mato.@
+` Si yo mato.@
+` Si yo mato.@
+` SI YO Mato.@
+` SI YO MATO.@
+`                 ¿Estará bien?
+\
+monocro off
+bg "bg/bg_10f",notrans,0
+`"[line=6]Ha[line=6]ha, ah."@
+br
+` Yo.@
+br
+`"Adiós.@ Por favor muere aquí, Tohno-kun."@
+br
+` Difícilmente puedo.@
+br
+`"[line=4]Haha[line=4]a[line=4]ha, ha[line=4]"@
+br
+` Respirar.
+\
+bg #000000,notrans,0
+!w500
+wave se_13
+bg "bg/ima_12b",notrans,0
+` Pero, yo fui más rápido.@
+` Antes de que pueda hundir su daga profundamente dentro de mí, atravieso la 'línea' sobre el cuello de Senpai con mi cuchillo.@
+br
+`"A[line=8]"@
+br
+` ¿Cuál de los dos dijo eso?@
+` El sonido de una cabeza golpeando el suelo y un gorgoteo.@ El cuello, "cuello", / ¿rostro?@ / rueda, rueda, rueda, rueda.
+\
+monocro #ff0000
+bg "bg/ima_13b",tshutter,400
+play "*4"
+`"Ah[line=6]¿eh?"@
+br
+` Pero, es extraño.
+\
+` Debimos haberlo hecho al mismo tiempo.@ Pero sólo yo estoy vivo.@ La cabeza de Senpai, CABEZA, es la única cosa rodando y rodando y rodando.
+\
+`"¡Jaja[line=4]a!"@
+br
+` En otras palabras.@
+` Desde un principio,
+` Senpai nunca… tuvo la intención… de matarme.@
+br
+`"¡A, jaa, a, jaajaajaajaa, jaja!"@
+br
+` Mi garganta parece atorada.@
+` El cuerpo de Senpai es tan rojo.@
+` El pasillo se humedece.
+\
+` Pintura roja cubre todo.
+\
+bg "bg/bg_10f",bshutter,400
+`"Jaja[line=4]"@
+` Una vez que alguien es decapitado, parece que adquiere una nueva función.@
+` Borbotear.@
+` Como un aspersor, esparciendo sangre roja por todas partes.@
+br
+`"Ja, jaja[line=6]ja."@
+br
+` Todo mi cuerpo ahora es carmesí.@
+` Más que mi cuchillo, desde el cabello hasta los zapatos, estoy repugnantemente manchado de rojo.
+\
+`"[line=4]¿Qué pasa?@ Esto no es gran cosa."@
+br
+` Sí, en verdad no es gran cosa.@
+` Pensé que habría algo más, pero sólo tengo esta sensación de flote.@
+br
+`"Si esto es todo… mis sueños eran más…"@
+br
+` Vívidos y reales.
+\
+` Me levanto y comienzo a caminar.@
+` Mis pies chapotean con cada paso.@
+` Frente a mi yace la cabeza de la mujer llamada Ciel.@ Sus ojos parecen mirarme fijamente.@
+br
+`"Qué estúpida, Senpai.@ No sé cuánta confianza tenías, pero no hay nada que no pueda morir."@
+br
+` Así que, fue tu error.@
+` Error.@
+` Error.@
+` Error.@
+` Error.@
+`                 No.
+\
+br
+br
+br
+br
+br
+br
+br
+` Lo que está errado es todo.
+\
+` La ilusión ha terminado.@
+` Aunque lo negué desesperadamente hasta ahora, esto lo confirma.@
+` Soy sólo un asesino.@
+` Con mis propias manos, destruí lo que no debía ser destruido.@ Las bases de mi existencia se están desmoronando.@
+br
+`"Kk[line=4]¿qué es esto, Yumizuka?@ Es justo como dijiste."@
+br
+` Comienzo a reír.@
+` Parece que me he vuelto loco.@
+` La verdad de que soy el asesino me parece tan graciosa.
+\
+bg #000000,lshutter,400
+bg "bg/ima_18",lshutter,400
+` Afuera de la ventana, brilla la luna distante.@
+` Mi visión se ha tornado roja, sin ningún indicio de volver a la normalidad.@
+` Pero mi mente terrestre ha sido cambiada por una de algún otro planeta.@
+` Los años de percepciones acumuladas se reducen en gran a medida a desconocidas ecuaciones de evolución.@
+` Nada es siquiera remotamente igual.@ No puedes notar la diferencia entre el carmesí que tú ves y el carmesí que yo veo.@
+` Desgraciadamente.@
+` Parece que estoy averiado.@
+br
+br
+br
+textcolor #ff0000
+` ¿O todo fue sólo una cómica mentira desde el principio?@
+` En ese caso, por favor deja que todo desaparezca mañana.
+\
+textcolor #ffffff
+br
+br
+br
+br
+br
+` …… La escena montada en el oscuro bosque da inicio.@
+` No entiendo muy bien pero, si soy un asesino, debo actuar como un asesino.@
+` Para comenzar, iré a la ciudad para continuar con mis sueños.
+\
+bg #000000,crossfade,800
+` Atrapo a una persona al azar.@
+` La llevo al callejón y espero que la persona despierte.@
+br
+` Después de un rato, los ojos de la persona se abren.@
+` Con la mayor gentileza posible, ofrezco una bienvenida con los brazos abiertos.
+\
+bg "bg/bg_31b",bcartain,800
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Bien, ahora,
+`    bienvenido a esta maravillosa cámara de matanzas.
+\
+bg "bg/ima_12b",notrans,0
+monocro off
+playstop
+bg #000000,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

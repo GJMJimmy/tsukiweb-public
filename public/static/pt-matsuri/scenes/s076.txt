@@ -1,0 +1,82 @@
+monocro off
+wavestop
+bg "bg/bg_31a",notrans,0
+play "*9"
+`"Eu[line=3]"@
+br
+` …… Por alguma razão, não consigo recusar.@
+` Afinal de contas, eu a matei.@
+` É minha culpa que ela esteja fraca e tenha que pedir ajuda aos outros.@
+br
+` [line=3]É minha responsabilidade.@
+` Além disso, mesmo que faça pouco tempo que a tenha conhecido, ela não parece ser uma pessoa ruim.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"E então?@ Um humano como você não pode cooperar com uma vampira como eu?"@
+`"[line=3]Bem, essa seria a resposta óbvia, mas…"@
+ld c,"tachi/ark_t17",crossfade,400
+`"[line=4]"@
+` Argh, não me olhe assim!@
+` …… Por que será?@ Esse olhar está me fazendo sentir muita culpa e me deixando incapaz de recusar.@
+`"Mas agora que já me meti nessa confusão, não vou conseguir dormir essa noite se simplesmente negar toda a responsabilidade."@
+br
+` [line=3]Poxa, eu sei que vou me arrepender disso.
+\
+`"…… Sim.@ Acho que posso fazer isso.@ O inimigo é o assassino em série, né?@
+` Como morador desta cidade, provavelmente receberia alguma punição divina se me recusasse a te ajudar."@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Hã[line=2]?@ Quer dizer que[line=3]"@
+`"Não vou ser o seu escudo, se for apenas para ficar de guarda, eu aceito."@
+` Fico enojado com minha estupidez assim que essas palavras saem da minha boca.@
+br
+` Fico enojado, mas[line=4]
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=6]"@
+` Essa expressão profundamente chocada dela[line=4]
+\
+br
+`"Uau!@ É sério!?@ Eu sou uma vampira de verdade, sabia!?"@
+`"…… Ei, escuta aqui.@ Por que está dizendo isso agora, depois de ter me ameaçado tanto?"
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Ah… Hum.@ É mesmo, né[line=3]"@
+ld c,"tachi/ark_t08",crossfade,400
+`"[line=3]Bem, tanto faz!@ Fico grata por você cooperar!"@
+` …… Sentado no chão e encostado na parede, vejo ela se aproximando de mim com uma expressão muito feliz no rosto.
+\
+ld c,"tachi/ark_t09",crossfade,800
+`"Nosso contrato está oficializado."@
+` Ela estende a mão para mim.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Acho que finalmente posso me apresentar.@
+` Meu nome é Arcueid[line=3]humm… meu sobrenome é muito longo, por isso só Arcueid está bom.@ Sou uma vampira do tipo Ancestral Original.@ E quanto a você?"@
+cl c,crossfade,400
+br
+` Dou um longo suspiro com sua sua introdução repentina.@
+` …… É um suspiro de resignação, prova de que decidi aceitar essa situação absurda.
+\
+`"Meu nome é Tohno Shiki.@ Infelizmente, sou apenas um estudante normal.@ …… Já havia dito antes, mas realmente não vou ser de muita utilidade."@
+br
+` Segurando a mão dessa[line=3]a mão da Arcueid, me levanto.@
+br
+` Ela me observa durante um bom tempo e em seguida estende sua mão para mim outra vez.
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"Prazer em conhecê-lo, Shiki.@
+` Vou fazer você assumir a responsabilidade por ter me matado."@
+` A Arcueid sorri enquanto estende sua mão esquerda.@
+cl c,crossfade,400
+\
+` *suspiro*@
+br
+` …… Existem vários tipos de responsabilidades neste mundo, mas provavelmente essa é a primeira e a última vez que alguém assume a responsabilidade de ajudar alguém que matou.@
+br
+`"…… Droga… isso virou uma confusão muito séria."@
+` Mas não há mais nada que eu possa fazer.@
+br
+` A contragosto, estendo minha mão e aperto a mão dessa garota que afirma ser uma vampira.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

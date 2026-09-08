@@ -1,0 +1,42 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` …………… *suspiro*@
+` No tengo ganas de regresar a la mansión, así que mataré algo de tiempo distrayéndome en el salón de clases.
+\
+` Afuera, el sol se está poniendo.@
+` Puedo escuchar las voces de los que practican en clubes atléticos; estoy bastante cómodo sentado tranquilamente en mi pupitre.@
+` Probablemente porque ayer y el día anterior fueron sacados de un mundo extraordinario.@
+br
+` [line=4]Y entonces,
+br
+ld c,"tachi/cel_t01a",lshutter,400
+`"Qué bueno.@ Veo que aún estás aquí, Tohno-kun."@
+` La cara de Senpai aparece repentinamente.
+\
+`"¿Hm?@ ¿Senpai……?@ ¿Qué te hizo bajar a un salón de segundo año?@ ¿Hay algo en especial que tengas en mente?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Sí, me preguntaba si aún estabas aquí, así que vine a echar un vistazo."@
+` Senpai dice algo que me hace feliz.
+\
+`"Sí, estoy aquí… ¿De qué se trata?"@
+`"Hay algo que olvidé decirte durante el almuerzo.@ Estaba pensando en esperar hasta mañana, pero pensé que debía decirlo lo más pronto posible."@
+`"…… Hm.@ ¿Algo que olvidaste decir?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Sí.@ Tohno-kun, parece que has estado saliendo de noche últimamente, así que quería prevenirte.@ Han estado ocurriendo muchas cosas peligrosas, así que no deberías estar afuera demasiado tarde."@
+`"Ah[line=4]um, bueno……"@
+` ¿……?@ ¿Cómo sabe eso Senpai?@ ¿Me veo pálido por falta de sueño?@ ¿O, tal vez me vió caminando por ahí durante la noche……?
+\
+`"Bien Tohno-kun, te lo haré saber.@ No deberías involucrarte en cosas peligrosas."@
+cl c,lshutter,800
+` Tan rápidamente como llegó, Senpai desaparece como una ráfaga de viento.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01b",lcartain,1500
+` Después de pasar una hora sin hacer nada en el salón de clases, decido ir a casa.@
+` Son más de las cinco en punto.@
+` Si me tardo demasiado, Hisui se preocupará, así que debería regresar pronto[line=4]
+\
+bg #000000,lcartain,1500
+!w1000

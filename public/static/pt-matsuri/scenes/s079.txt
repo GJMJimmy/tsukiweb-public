@@ -1,0 +1,25 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25a",lcartain,800
+ld c,"tachi/ark_t03",crossfade,400
+`"…… Hummm?"@
+` Enquanto saímos do beco, essa garot[line=2]A Arcueid[line=2]franze as sobrancelhas e me lança um olhar suspeito.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ei, Shiki.@ Por acaso você é cristão?"@
+br
+` …… Não tenho a mínima ideia do que ela está falando.@
+`"Cris-chan…?@ Que pergunta repentina é essa?@ Não conheço nenhuma garota com um nome assim."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Entendo.@ Então devo ter me enganado."@
+` Depois de parecer ter tomado uma decisão, ela vai em direção ao distrito de escritórios.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Bem, vamos indo.@ Por ora temos que encontrar um lugar seguro."@
+` Ela começa a andar.@
+` "[line=4]Tá bom."@
+br
+` Já não posso mais voltar atrás.@
+` Suspirando, sigo ela.
+\
+bg #000000,lcartain,800

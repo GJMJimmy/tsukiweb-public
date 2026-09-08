@@ -1,0 +1,289 @@
+phase "bg/cmo_19",r,aki,03a,3
+bg #ffffff,crossfade,800
+play "*9"
+bg "bg/cmo_05b",crossfade,400
+` A hot, summer day.@
+br
+` A blue sky and large, large columns of summer clouds.@
+` The wafting breeze.@
+` The droning voice of the cicadas.@
+br
+` The voice of cicadas.@
+br
+!w500
+` Chiiirp.@ Chirp Chirp.@
+!w750
+` Chiiirp.@ Chirp Chirp.@
+!w1000
+` Chiiirp.@ Chirp Chirp.@
+!w1500
+br
+` [line=4]So loud I want to die.
+\
+` Cicada shells are lying in the clearing.@
+` As if the sun is right by my side,
+` the clearing is roasting.@
+br
+` A hot midsummer's day.@
+br
+` As if the entire world became a frying pan.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06b",crossfade,400
+br
+br
+br
+br
+br
+br
+!w500
+` waa, u, uwaaa.@
+!w750
+` waa, u, uwaaa.@
+!w1000
+` waa, u, uwaaa.
+\
+` Akiha is crying.@
+` A child lies collapsed at her feet.@
+` His white shirt is painted red with blood and he doesn't move at all.@
+br
+` I'm, looking down at that.@
+` My hands are red, just like that child on the ground.@
+` No, that's not it.@
+` These hands are red with the blood of that child.
+\
+`"Akiha[line=4]!"@
+br
+` The adults are coming.@
+br
+`"What in the[line=4]"@
+br
+` The adults take Akiha away.@
+` The child lies there, dead.@
+` Alone by myself, the adults press the hands which killed the child to the ground.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_05",crossfade,400
+`"Did you kill him[line=3]!?"@
+br
+` The adults are yelling at me.
+\
+` They shout my name, the one who killed the child.@
+` Those two syllables, shouting as if they went crazy.
+\
+playstop
+br
+br
+br
+br
+br
+` Just those two syllables.@
+` Those adults call me SHIKI, as my hands are stained in red.
+\
+bg #ffffff,crossfade,1500
+!w500
+play "*2"
+bg "bg/bg_40a",crossfade,1500
+`"Shiki-sama, if you do not get up now, you shall be late.@ Please, wake up."@
+br
+` …… Hearing my own name called, I awaken from a deep dream.
+\
+ld c,"tachi/his_t01",crossfade,800
+`"Hisui…?"@
+`"Yes.@ Good morning, Shiki-sama."@
+ld c,"tachi/his_t16",crossfade,400
+` Hisui bows deeply.@
+` Autumn sunlight shines through the window; this is unmistakably my room.
+\
+`"[line=2]Hi… sui."@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, are you feeling unwell?"@
+`"Ah… No, I'm fine."@
+` …… I just had a terribly nostalgic dream.@
+` But I can't remember the details that well.@
+`"What was it… I can't remember…"@
+`"?"@
+` Hisui tilts her head slightly.@
+` …… Well, there's no point in telling Hisui.@
+` The dream[line=3]what kind of a dream was it?@
+` A dazzling white bright enough to bring tears to my eyes, and furiously gushing spots of red.
+\
+br
+br
+br
+br
+br
+br
+` [line=7]Something.@
+`      SOMETHING, LIKE AN INAUSPICIOUS DREAM.
+\
+`"…… SHI… KI…"@
+`"Yes?@ What is it, Shiki-sama?"@
+`"…… It's nothing.@ I'm sorry[line=2]I'll go straight to the dining room."@
+cl a,lshutter,800
+` With a nod, Hisui walks to the door.@
+` Clack, clack, clack.@
+` Hisui's footsteps are louder than usual.@
+` Just as she is about to leave the room, she turns back.
+\
+ld c,"tachi/his_t08",lshutter,800
+`"Shiki-sama, forgive me for asking.@
+` What time did you return last night?"@
+`"Ah… yesterday… Quite late at night."@
+`"…… Shiki-sama, you said your return would be at four o'clock.@ I assume the schedule changed?"@
+`"[line=4]Ah."@
+` I remember.@
+` Yesterday morning, I told Hisui that she should expect me at four.
+\
+`"I'm sorry.@ Things happened, and I didn't make it back.@ I will be prompt from now on so it would be great if you could overlook it this time……"@
+ld c,"tachi/his_t01",crossfade,400
+`"…… No, it is not necessary for you to say such a thing, Shiki-sama.@ It is the duty of us servants to work in accordance with the schedules of our masters.@
+ld c,"tachi/his_t09",crossfade,400
+` However, I humbly request that you at least contact us.@ Whatever the circumstances, you should still be able to let us know."@
+`"[line=4]You're right.@ Sorry.@ I'll keep my promise from now on."@
+ld c,"tachi/his_t16",crossfade,400
+`"I understand.@ Then please excuse me."
+\
+cl a,lshutter,400
+`"…… That was rare.@ Hisui seemed pretty angry."@
+` She's always so expressionless, it seemed she gets extremely angry when she does get angry.@
+` …… As if I did something really terrible.
+\
+`"[line=4]Well then, time to get up."@
+` Pulling away the sheets, I get up.@
+br
+` [line=3]At that moment.@
+br
+waveloop se_02
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+` My body aches terribly.@
+`"Guh…!"@
+` The pain[line=2]it's not from the gash in my shoulder.@
+` It's from a much deeper place, aching with my heartbeat.
+\
+`"A[line=3]gah[line=3]"@
+` Clenching the sheets, I somehow weather the pain.@
+wavestop
+`"Ahhh[line=2]"@
+` It fades away.@
+` There's nothing lingering.@ Perhaps just a sudden fit?@
+`"…… Chest… wound."@
+` I touch my chest over my cloth.@
+` There is a great scar there, and even now that it has healed, at times it still hurts like it did just now.@
+` The doctor said the physical wound is healed, but that the mind must be replaying the pain over and over again.
+\
+` Usually, the scar begins throbbing after I see a traffic accident or something dead.@
+` The image of blood or death must make me recall the accident eight years ago.@
+`"…… Because of last night, I guess."@
+` The red back alley.@
+` And the normal, smiling face of Yumizuka.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+`"Guh[line=2]!"@
+` My chest[line=2]hurts.@
+` The image of Yumizuka doesn't leave my mind.@
+` But I don't know what I should do, what I can do.@
+` I can only live my everyday life.@
+`"…… Shi… t…"@
+` Swearing at myself, I roll out of bed.@
+` After changing out of my pajamas and into my school uniform, I head to the sitting room.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Akiha and Hisui are in the sitting room.@
+` Kohaku-san is probably in the kitchen cooking my breakfast.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Good morning, Nii-san."@
+` Sitting on the sofa, Akiha greets me and looks at my expression.@
+`"…… Ah, morning.@ I'm sorry about yesterday."@
+` Returning her greeting, I head to the dining room.@
+` There really isn't that much time for me to stay and chat with Akiha[line=2]and I don't really feel like talking to anyone at all.
+\
+`"Nii-san, I would like to speak with you a little[line=3]is that alright?"@
+`"…… Alright.@ But please make it short since I don't have much time."@
+` I sit on the sofa across from her.@
+ld c,"tachi/aki_t02",crossfade,400
+`"Continuing last night's talk… Nii-san, what were you doing yesterday?"@
+` Akiha asks me with a direct stare.@
+`"Nothing.@ Just went for a walk in town.@ I'm sorry for getting back late, but it's no big deal."@
+` Since I don't want to lie to Akiha, I answer as evasively as possible.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Just walking the streets IS something.@ You are still a minor, so please do not wander out late at night.@ Even if you weren't, there have been a lot of disturbances going on."@
+cl a,crossfade,400
+wave se_01
+`"Ah[line=6]"@
+` Disturbances[line=2]the killer skulking around the town at night.@
+` Why?@
+` Why didn't I realize?@
+` The killer that murders people and drinks their blood.@
+` That phrase perfectly matches Yumizuka's behavior yesterday[line=2]
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… I shouldn't have to say this, but you shouldn't strain your body.@ If you come back with an exhausted face like last night's again, I'll get worried.@
+` If you're in trouble, please tell me.@ I may not be able to do much, but if you could…"@
+br
+` [line=5]I don't want to think about it, but…
+` Yumizuka.@ Yumizuka could be the killer terrorizing the town.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"…… Nii-san?@ Are you listening to me?"@
+`"Eh[line=4]uh, yeah.@ I'm listening."@
+` I hear Akiha's voice.@
+` But, the only thing in my mind is the image of Yumizuka from yesterday.@
+ld c,"tachi/aki_t02",crossfade,400
+` Akiha glares at me.
+\
+`"So.@ You can't talk about your situation, Nii-san?"@
+`"Yeah.@ It has nothing to do with you, Akiha."@
+` Right now, I can think only of Yumizuka.@
+` I want to be alone[line=2]and so I said that.@
+`"You're going to keep going your own way, is that what you're saying, Nii-san?"@
+`"……………"@
+`"I understand.@ Well, please, feel free.@ If that's what you want, Nii-san, I'll do the same."
+\
+cl c,lshutter,400
+` Akiha stands, and walks out to the lobby.@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama?@ Is this acceptable?"@
+`"…… Acceptable?@ Is what acceptable?"@
+`"I believe Akiha-sama is deeply concerned about you, Shiki-sama.@ But I think it is difficult for her since she does not often talk about her feelings[line=4]"@
+`"I know.@ But right now, my head's full, and I can't… I do feel sorry."@
+`"…………"
+\
+cl a,crossfade,400
+` Hisui falls silent.@
+`"Shiki-saaaan, breakfast!"@
+` Kohaku-san's voice can be heard from the dining room.@
+` I stand up and head towards it.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, around what time will you be returning today?"@
+`"Ahh… since today's Saturday… [line=2]No.@ It'll probably be in the evening.@ There's something I want to look for."@
+ld c,"tachi/his_t16",crossfade,400
+`"I understand.@ Please, take care until then."@
+` She bows deeply.@
+cl a,crossfade,400
+` After Hisui sees me off, I leave the mansion.
+\
+bg #000000,lcartain,800
+playstop
+!w2000
+play "*1"
+bg "bg/bg_06a",rshutter,800
+` [line=3]There was no point coming to school.@
+br
+` Yumizuka Satsuki was treated as an absentee, and no one seemed to be the slightest bit concerned about her.@
+` Time passed without my realizing it.@ Perhaps Arihiko or Ciel-senpai came by sometime, but I don't really remember.
+\
+` Noon comes, and school ends.@
+` I have no idea.@
+` I have no idea, but I still have to look for Yumizuka.
+\

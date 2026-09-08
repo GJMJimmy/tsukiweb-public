@@ -1,0 +1,334 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_31a",notrans,0
+`"[line=6]Ahaha… ahaha…"@
+` A única coisa que posso fazer é rir.@
+` …… Mas não é tão ruim assim.@
+` Se a pessoa que matei voltou à vida, então quer dizer que na verdade eu não matei ninguém, certo?@
+` Bem, acho que isso não muda o fato de eu ter "matado" uma pessoa, mas essa pessoa continua viva.@
+br
+` [line=3]E isso me deixa muito feliz[line=3]
+\
+` Sim.@ Assim devo conseguir voltar a viver minha vida normalmente.@
+` Uma vida escolar normal, exatamente como era até antes de eu conhecer essa garota.@
+` …… Bem, para compensar, parece que fui encurralado por essa pessoa estranha, mas isso é muito melhor do que ser um assassino.
+\
+`"…… Certo, eu me acalmei.@ Se você tem algo a dizer, eu vou escutar tudo.@ Queixas, ressentimentos, qualquer coisa.@ Fale tudo o que tiver vontade."@
+`"Sim, eu tenho um monte de coisas para te dizer… mas você é esquisito."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Pode-se dizer que adquiri uma resistência para coisas estranhas desse tipo."@
+` Apesar de achar que essa resistência não vai ser de muita ajuda nesse caso.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Hmph……"@
+` Ela fica me encarando.@
+` Não é um olhar malicioso.@
+br
+` …… É estranho.@ Eu pensava que revidar quando alguém lhe faz algo fosse uma das regras básicas da vida.@
+` Por isso ela deveria estar tentando me matar, mas[line=3]
+\
+`"[line=2]O que você tanto olha?@ Não está aqui para se vingar?@ Então[line=2]"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sim, teoricamente acho que devia te matar, né!?@ Eu posso te matar se você quiser isso de verdade, mas prefiro evitar por enquanto.@ Fazer isso não seria muito eficiente."@
+` Ela me encara exalando arrogância.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"E então!?@ Você se arrepende?"@
+`"[line=4]Hã?"@
+` Fico sem reação por um momento.@
+` Ela diz cada coisa… absurda.
+\
+`"Estou te perguntando se está arrependido de ter me matado.@
+` Veja bem, estou pensando em te perdoar caso esteja arrependido.@
+` Além disso, tenho a impressão de que, para um humano, você é um péssimo mentiroso."@
+`"Se estou[line=3]arrependido?"@
+`"Exato.@ Se você pedir desculpas já está ótimo."
+\
+br
+` [line=3]Isso é inacreditável.@
+br
+` O que é tão inacreditável?@
+` Não é o fato da pessoa que matei estar me perdoando, mas… sua voz é tão gentil.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Ei!@ Você tem que responder quando alguém te faz uma pergunta.@ Responda logo.@ Não vamos sair disso até que fique claro se você está ou não arrependido."@
+` Ela está nervosa.
+\
+cl c,crossfade,400
+` [line=3]Ela quer saber se estou arrependido?@
+` Não preciso nem pensar para responder[line=3]
+\
+br
+`"…… Claro que sim, eu me arrependo.@ Não importa qual tenha sido o motivo, eu matei alguém."@
+br
+` Sem piedade ou razão.@ Matei apenas porque tive vontade.@
+br
+`"…… É claro que me arrependo de ter matado alguém.@ E a pessoa que matei foi você e sendo assim[line=3]"
+\
+` …… É ilusão pensar que está tudo bem só porque ela está viva.@
+` É fato que eu a matei.@
+` Cometi a violação suprema; a maior violência possível.@
+br
+`"Sendo assim[line=3]tudo bem se você se vingar[line=2]acho que é completamente normal você estar aqui para se vingar de mim."@
+br
+` …… Abaixo a cabeça, falando com hesitação, como se estivesse me confessando para alguém.
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"[line=3]Entendo.@ Humm.@ Você não é uma má pessoa."@
+` Ela sorri.@
+` Apesar de se dizer uma vampira, ela tem um olhar muito sincero.@
+br
+ld c,"tachi/ark_t01a",crossfade,400
+`"Já decidi.@ Você vai ter que me ajudar."@
+`"Hein[line=5]?"@
+` Ajudar?@ Do que ela está falando?
+\
+`"…… Ei.@ Como assim te ajudar?"@
+`"É simples.@ Você vai me ajudar a acertar as contas com o vampiro que está morando nesta cidade."@
+br
+`"[line=4]?"@
+` …… Calma aí, estou ficando cada vez mais confuso.@
+br
+`"Acertar contas com vampiros?@ Mas você é uma[line=3]"@
+`"Ah, não, não.@ Eu sou uma vampira, mas o vampiro que está morando aqui é de um tipo completamente diferente.@
+` Você mora aqui, não mora?@ Então deve estar sabendo sobre os assassinatos que estão ocorrendo, né?"@
+`"Estou, várias pessoas já morreram… ei, espera aí."
+\
+` …… Acabei de me lembrar.@
+` Todas as vítimas tiveram o sangue extraído ou algo do tipo, não foi?@
+br
+`"Não me diga que[line=4]"@
+`"Exatamente.@ Até nos noticiários estão falando coisas como 'isso é obra de um vampiro', não estão?@ É algo bem engraçado; obviamente todos sabem que tipo de criatura está fazendo isso, mas não tem ninguém vasculhando a cidade para acabar com ele.@ É por isso que tenho que fazer isso por vocês."@
+`"Espera, mas[line=3]vampiros não existem."
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Hmph!"@
+` Ela franze as sobrancelhas, irritada.@
+` …… Ah, é mesmo.@
+` Tem uma desconhecida se dizendo uma vampira bem aqui na minha frente.
+\
+`"[line=3]Eu não estou entendendo muito bem, mas você está tentando dizer que está nesta cidade para exterminar vampiros, é isso…?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Isso mesmo, mas antes que eu pudesse fazer alguma coisa, fui atacada e morta por um assassino desconhecido.@
+` Você me pegou de jeito.@ Foi um ataque surpresa perfeito e fui cortada em dezessete pedaços sem ter qualquer chance de fazer alguma coisa."@
+`"Ugh[line=4]"@
+` Entendi.@ Ela deve estar falando de mim.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Pois é.@ Até antes de estar recuperada como estou agora, eu estava ansiosa para te matar.@ É a primeira vez que alguém me faz passar por tamanho constrangimento.@ E ainda me custou cerca de oitenta por cento do meu poder para me recuperar completamente."@
+ld c,"tachi/ark_t07",crossfade,400
+`"Mas deixando isso de lado, aquilo doeu, doeu muito mesmo.@
+` Doeu tanto que achei que ia enlouquecer completamente.@ No entanto, a dor foi tão absurda que me fez recobrar a sanidade.@
+` Você consegue imaginar o que é sentir aquilo repetidamente por uma noite inteira?"@
+br
+`"…………"@
+` Não consigo.@
+` Na verdade, nem quero imaginar.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Então, transbordando de ódio, eu saí procurando por você.@ Eu estava tão ansiosa que nem me importei mais com o vampiro, que é a única razão de eu estar aqui.@ Eu sabia que você era um estudante, por isso fiquei naquele lugar te esperando."@
+`"…… Não estou te entendendo.@ Se você me odiou tanto assim, por que está me perdoando agora?"
+\
+`"[line=3]Hum… simplificando, eu me acalmei depois de algum tempo.@
+ld c,"tachi/ark_t01a",crossfade,400
+` Já usei poder demais e pensei que seria mais eficiente usá-lo como escudo ao invés de matá-lo."@
+`"…… Espera aí.@ Você acabou de dizer um destino horrível para mim."@
+`"Hã?@ O quê?"@
+`"Você disse que vai me usar como escudo."
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Mas é claro.@ Eu já te perdoei, mas isso é apenas o meu sentimento pessoal.@ Você tem que se redimir pelo que fez com ações e não apenas com sentimentos, não acha?"@
+`"[line=3]Bem, mesmo que você me pergunte isso…"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Qual é o seu problema?@ Não sei quando você está sendo sincero ou quando não está.@ Vamos esclarecer uma coisa: você me matou.@ Você não faz ideia do quanto de energia que é preciso para se regenerar quando alguém te mata.@
+` Na verdade, não seria nada demais se você tivesse apenas me matado, mas a maneira que me matou foi algo que nunca havia acontecido antes.@ Eu não consegui curar os ferimentos, fui obrigada a refazer todo o meu corpo.@ Foi por isso que gastei tanta energia para reviver[line=3]"
+\
+` Ela parece nervosa.@
+` …… É como se sua raiva adormecida estivesse acordando enquanto conta a história.
+\
+`"Enfim, eu estou fraca agora!@ Acho que devo me recuperar daqui a duas noites, mas se o inimigo me atacar antes disso, vou correr perigo.@
+` É por isso que você vai ser o meu escudo."@
+`"Vou ser seu escudo[line=3]?@ Que atitude é essa, decidindo tudo sozinha?"@
+`"O quê?@ Para começo de conversa, isso é tudo culpa sua, é o mínimo que você pode fazer."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ou você não está arrependido?"@
+cl c,crossfade,400
+` Ela me pergunta com um olhar sincero.
+\
+`"……… Hummmm."@
+` Isso não é justo.@
+` Arrependido ou não, não é justo usar aquele olhar.@
+` …… Não é justo ela ter um olhar tão puro e ao mesmo tempo se dizer uma vampira[line=3]
+br
+`"Eu… hum[line=3]"@
+` Na procura de uma resposta, olho para cima.
+\
+playstop
+`"…… Hã?"@
+br
+` …… O que é aquilo?@
+` Tem uma coisa estranha no beco entre os prédios.@
+br
+`"Espera um pouco.@ O que é aquilo?"@
+` Eu me levanto e ando.@
+` Vou até a metade do beco e finalmente descubro o que é.
+\
+play "*6"
+` Um pássaro azul.@
+` Um corvo, para ser mais preciso.@
+br
+` …… Um corvo… azul.@
+` A mesma criatura tenebrosa que vi há duas noites[line=3]
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=3]Ah, poxa…"@
+` A garota murmura.@
+br
+` O corvo está nos observando.@
+br
+`"Que ótimo, graças à sua lerdeza ele nos encontrou."@
+` Ela olha para a entrada do beco.@
+`"Hã?@ Quem nos encontrou?"@
+cl c,notrans,0
+` Eu também olho para a entrada do beco.@
+br
+` [line=5]E então.
+\
+`"[line=5]!"@
+` Dou um passo para trás, em estado de choque.@
+` De repente, um cachorro aparece do nada.@
+bg #000000,crossfade,800
+ld c,"tachi/kemo_t01",crossfade,400
+` Ele tem quatro pernas fortíssimas e um pescoço que parece uma barra de aço.@
+` Essa criatura existe unicamente para caçar.
+\
+` …… Ele não precisa recorrer à intimidação verbal.@
+` A maioria das pessoas ficariam nervosas só de olhar para essa "máquina de matar".@
+` Uma forma de vida que inspira respeito por suas habilidades atléticas absurdamente superiores.
+\
+bg "bg/bg_31a",crossfade,800
+`"…… Um cachorro… preto?"@
+br
+` [line=3]Eu começo a tremer.@
+br
+` …… O cachorro é enorme.@
+` Tão grande quanto um Pastor Alemão ou um Doberman.@ Ele apenas nos observa, nos intimidando.
+\
+ld c,"tachi/ark_t05c",crossfade,400
+`"………"@
+` A garota não diz nada, mas olha para o cachorro com um olhar desinteressado.@
+cl c,notrans,0
+\
+` E então…
+` De repente, o cachorro pula.@
+` Não, ele está correndo, mas com uma velocidade que faz parecer que está pulando.@
+br
+`"[line=6]Hein?"@
+br
+` Não consigo reagir.@
+` Ele está visando a minha garganta.
+\
+` Eu posso vê-lo.@
+` Posso ver seu corpo preto vindo na minha direção, mas nem tenho tempo para pensar em me esquivar.
+\
+bg #000000,notrans,0
+quakex 4,100
+` Tum!@
+br
+` Sinto um impacto.@
+`"Guh[line=5]!"@
+` Fui acertado em cheio pelo lado.@
+` Não foi o cachorro.@
+br
+` A garota me empurrou antes que ele pudesse destroçar minha garganta.@
+` Com um movimento suave, como se estivesse arremessando um bola, ela me joga na parede usando apenas uma mão.
+\
+wave se_05
+`"[line=5]!"@
+` Eu caio sentado.@
+bg "bg/bg_31a",notrans,0
+`"Ei… qual é!?@ Por que fez isso!?"@
+`"Esqueça isso, olhe para frente!"@
+` A garota grita para mim.@
+` Eu olho[line=3]Como errou o alvo, o cachorro bate na parede.@
+` Ele gruda na parede como um lagarto e pula de novo.@
+` Ele vem na minha direção.@
+` Ele parece um relâmpago negro.
+\
+ld c,"tachi/kemo_t02",notrans,0
+`"[line=3]!"@
+` É rápido demais; não consigo reagir.@
+` O cachorro abre a boca cheia de dentes e derramando saliva.@ Ele vem na direção da minha traqueia[line=4]
+\
+`"Kuh……!"@
+bg #000000,notrans,0
+` Eu fecho os olhos.@
+` Seus dentes perfuram minha garganta.@
+` Mas no mesmo instante,
+` o cachorro dá um ganido e me solta.
+\
+bg "bg/bg_31a",notrans,0
+`"Hã[line=3]?"@
+br
+` [line=3]Isso é… impossível.@
+br
+` O cachorro grita e dispara para cima.@
+` Nada sequer encostou nele, mesmo assim ele sai voando sozinho.@
+` Simples assim[line=3]depois de ter subido vários metros, ele dá um grito e despenca no concreto.@
+br
+` Não, talvez seja mais correto dizer que ele foi arremessado no concreto.
+\
+playstop
+`"[line=4]O que aconteceu?"@
+ld c,"tachi/ark_t07",crossfade,400
+`"Que ótimo, você acabou de me fazer desperdiçar mais energia."@
+cl c,crossfade,400
+` A garota se aproxima do cachorro.@
+` Ele está espremido contra o concreto como uma flor que foi pisada.
+\
+`"[line=3]Que familiar mais patético.@ …… Devia ser só para espionar."@
+` O cachorro se liquefaz em uma substância parecida com petróleo e é absorvido pelo concreto.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"…… Ele derreteu… não, apenas dissolveu.@ [line=4]Não pode ser!@ Não é possível que o Chaos esteja em um lugar assim."@
+` Suspirando, ela se aproxima de mim.
+\
+play "*1"
+ld c,"tachi/ark_t03",crossfade,400
+`"Parece que você não se machucou, então tudo bem."@
+` …… Ela está murmurando alguma coisa.@
+` Minha garganta[line=3]ainda posso sentir os dentes do cachorro a perfurando.
+\
+`"Ei[line=3]o que era aquela coisa?"@
+`"Um familiar de um vampiro inimigo.@ Nós fomos descobertos porque você não estava sendo claro."@
+`"Descobertos[line=3]quer dizer… por aquele vampiro inimigo que você mencionou?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sim, e isso não é nada bom.@ Parece que agora realmente vou precisar de você como escudo."@
+` Ela diz isso casualmente e com um sorriso.
+\
+`"P[line=3]pare de dizer essas maluquices, sua idiota!@ Você me viu!@ O que acha que posso fazer!?@ Você está bem melhor sozinha…!"@
+`"Não mesmo.@ Com o poder que usei para te proteger, fiquei sem nenhuma energia sobrando."@
+`"O qu[line=3]!?"@
+` Mas que merda!@
+` Sou grato por ela ter me ajudado, mas mesmo assim[line=3]
+`"…… Eu não posso fazer nada.@ Simplesmente não consigo.@ Não tenho poder para lidar com coisas daquele tipo.@ Desculpe-me, mas eu não sirvo nem mesmo de escudo."
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"[line=4]Mentiroso.@ Você me matou.@ Por que está mentindo depois de ter realizado aquela façanha?"@
+`"Aquilo foi[line=3]"@
+br
+` Aquilo foi algo que nem eu mesmo entendo.@
+br
+`"[line=3]Não.@ Veja bem, eu não sou útil para você.@ Sou apenas um ser humano normal.@ Não posso te ajudar."@
+ld c,"tachi/ark_t04",crossfade,400
+`"…… Não é verdade.@ A única coisa que você precisa fazer é ficar de guarda enquanto eu durmo, só isso.@ Você consegue fazer isso sem nenhuma dificuldade, né?"
+\
+`"Bem[line=3]"@
+cl c,notrans,0
+br
+` Ela me encara.@
+` …… Por algum motivo, seus olhos estão me deixando fraco.@
+` Eu[line=3]
+\

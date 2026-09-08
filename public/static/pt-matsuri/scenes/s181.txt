@@ -1,0 +1,86 @@
+monocro off
+playstop
+waveloop se_02
+bg "event/ark_h03",notrans,0
+` [line=4]Eu não posso fazer isso.@
+` Não posso fazer algo contra a vontade dela novamente.@
+` Na outra vez, eu me entreguei a essa dor de cabeça e a matei.@
+br
+` Isso nunca mais vai se repetir.@
+` Eu não posso me entregar e fazer a Arcueid chorar.@ Mesmo que essa dor parta minha cabeça ao meio, eu não farei isso[line=4]
+\
+bg #ffffff,crossfade,800
+wavestop
+bg "bg/bg_31b",crossfade,400
+play "*9"
+`"Ha[line=4]ah!"@
+` Eu me afasto do seu corpo.@
+` A dor de cabeça some e meu coração volta ao normal.@
+` Os impulsos que me controlavam também desaparecem e finalmente compreendo o que acabei de fazer.
+\
+`"[line=4]O que[line=4]eu fiz…"@
+` Não posso acreditar.@
+` Mas a lembrança é clara como o dia.@
+` A forma como a joguei no chão.@
+` Como montei nela e a segurei com a faca nas mãos.@
+` …… e as coisas vergonhosas que fiz logo em seguida.
+\
+`"[line=6]"@
+` Não sei o que dizer.@
+` A Arcueid arruma a roupa no corpo e se levanta.@
+` Eu[line=4]não sei como me desculpar.@
+` Simplesmente dizer "me desculpe"… como isso pode ser o suficiente?@
+`"[line=4]Arcueid, eu[line=4]"@
+ld c,"tachi/ark_t10",crossfade,400
+`"Não se preocupe com isso…… Sou eu quem devia me desculpar."@
+` Ela desvia o olhar, se sentindo desconfortável.
+\
+`"D[line=2]Do que está falando?@ Fui eu quem fez algo de errado aqui.@ Se eu[line=4]tivesse sido mais forte, isso nunca teria acontecido."@
+ld c,"tachi/ark_t17",crossfade,400
+`"Não.@ Não era algo que você conseguiria resistir, você viu os meus 'Olhos Místicos'."@
+`"Hein[line=4]?@ Olhos Místicos?@ Igual os do Nrvnqsr……?"
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Exatamente.@ Eu não estava sã naquela hora.@ Estava com tanta sede que não conseguia me controlar.@
+` Por isso que[line=4]fui atrás dos Mortos e tentei substituir aquele impulso pelo desejo de destruí-los.@
+` Por eu não ter conseguido me controlar[line=4]você viu meus Olhos Místicos quando chegou."@
+`"…… É verdade, eu me senti estranho quando vi seus olhos dourados[line=4]mas foi só isso.@ Eu[line=4]com a minha própria vontade[line=2]"
+\
+`"Não, você não sabe do que está falando.@
+` Shiki, os meus olhos Místicos de Encantamento enfeitiçam completamente qualquer um que olhe para eles.@ …… Acho que foi por isso que você começou a sentir aqueles desejos sexuais."@
+`"[line=2]Não pode[line=4]ter sido por isso."@
+` Porque mesmo que ela não estivesse me controlando.@
+` Eu[line=4]Eu ainda ia desejá-la.
+\
+`"Enfim, foi tudo por causa de um descuido meu.@ …… Desculpa, Shiki.@ Eu manipulei seu corpo sem nem me importar com os seus sentimentos."@
+cl c,crossfade,400
+` Seu olhar se afasta quando termina de dizer isso.@
+` …… Ver ela me pedindo desculpas dessa forma machuca meu coração.@
+` Porque em momento algum senti que estava sendo manipulado.@
+` Na verdade[line=4]parece que eu usei a situação para obedecer meus desejos carnais.
+\
+`"Arcueid, eu[line=4]"@
+ld c,"tachi/ark_t17",crossfade,400
+`"Não peça desculpas.@ …… Shiki, foi um acidente.@ Eu vou me esquecer disso, por favor, esqueça também.@ Vai ser melhor para nós dois dessa forma."@
+cl c,lshutter,800
+` Dizendo isso, ela começa a ir embora em silêncio.
+\
+`"…… Arcueid……?"@
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=4]Foi o bastante por essa noite.@ Olha quantos Mortos eu matei, não faz sentido continuar procurando por mais."@
+`"…… Tudo bem, mas o que faremos com essa montanha de corpos?@ Se alguém encontrá-los teremos muitos problemas."@
+`"Não precisa se preocupar.@ Quando alguém se torna um vampiro e morre, ele não deixa rastros.@ Aqueles que se recusam a voltar para a Terra, transformam-se em cinzas que são espalhadas ao vento.@ Eles vão desaparecer sozinhos em breve."
+\
+cl c,lshutter,800
+` Sem se virar, ela desaparece do beco com passos fracos.@
+`"………………"@
+` Não posso pará-la.@
+` Ainda sinto a Arcueid em ambas as mãos.
+\
+`"[line=4]Idiota.@ Que idiota mais estúpido que eu sou."@
+` Resmungo para mim mesmo.@
+` Eu observo a lua, com remorso, no beco que se tornou o palco de uma tragédia.
+\
+bg #000000,crossfade,1500
+playstop
+!w3000

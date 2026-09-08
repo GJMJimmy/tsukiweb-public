@@ -1,0 +1,139 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+ld l,"tachi/ari_t05",lshutter,400
+`"Aqui está, trouxe almoço para três pessoas… Hum?@ Estou interrompendo alguma coisa?"@
+ld r,"tachi/aki_t01a",crossfade,400
+`"Não, não está interrompendo nada, Senpai.@
+ld r,"tachi/aki_t04a",crossfade,400
+` Você é um amigo do Nii-san, certo?@ Eu sou a irmã mais nova do Tohno Shiki, me chamo Akiha.@ É um prazer conhecê-lo."@
+` Ela faz uma breve mesura.
+\
+ld l,"tachi/ari_t01",crossfade,400
+`"O prazer é todo meu.@ Eu me chamo Inui Arihiko e conheço o Tohno desde a época do ensino fundamental, mas hoje foi a primeira vez que ouvi falar sobre você, Akiha-chan."@
+` …… Talvez ele ainda esteja guardando algum rancor por eu nunca ter contado sobre a Akiha, já que está dizendo coisas desnecessárias.
+\
+`"Já chega, Arihiko, vamos comer.@ O intervalo do almoço é muito curto, não dá tempo pra ficar de conversa fiada com a Akiha."@
+ld r,"tachi/aki_t02",crossfade,400
+` Ignoro o olhar da Akiha que não para de me encarar e aceito o almoço que o Arihiko trouxe.@
+`"Toma aqui, Akiha.@ Isso aqui é pão de curry e pega o leite também, pode comer aqui mesmo.@ Não temos muito tempo sobrando, não demore muito para comer."
+\
+ld r,"tachi/aki_t21",crossfade,400
+`"Eu sei disso.@ Eu não sou criança, não precisa ficar explicando cada coisinha nos mínimos detalhes."@
+ld l,"tachi/ari_t03",crossfade,400
+`"É verdade, Tohno.@ Você não está sendo meio ruim com a Akiha-chan?"@
+` O Arihiko fala isso só para me encher a paciência.@
+`"…………"@
+` Ignoro os dois, abro o saco plástico do meu pão e enfio o canudinho no leite.
+\
+cl a,crossfade,400
+` Munch.@
+` Munch munch.@
+` Munch munch munch.@
+br
+`"[line=5]"@
+` O intervalo do almoço está terminando e está na hora de voltar para a classe.
+\
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Ah, Nii-san."@
+` A Akiha fala bem tímida.@
+` Olho em sua direção e vejo que ela ainda nem abriu o seu pão de curry.@
+`"O que foi, Akiha?@ Não está com fome?"@
+`"Não é… Não é bem isso[line=4]é que…"@
+` Ela olha para cima, parece que está com vergonha de alguma coisa.@
+br
+`"…… Você podia… Você podia me ensinar como se come isto…?"@
+br
+`"……"@
+` Ela me observa, hesitante.@
+` E… Eu nem sei o que responder!
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"Eita, como assim?@ É só rasgar o saco plástico e mandar pra dentro.@ Não é difícil não, né, Tohno?"@
+`"Arihiko, vai lá no refeitório pegar um guardanapo!"@
+`"…… Hein, eu?"@
+` Faço um gesto afirmativo com a cabeça.@
+ld c,"tachi/ari_t03",crossfade,400
+`"Tá, mas você vai ficar me devendo uma."@
+cl a,lshutter,400
+` O Arihiko sai correndo na direção do prédio da escola.
+\
+`"Aqui, vou te mostrar.@ Você abre o saco plástico dessa forma.@ E agora é só morder do jeito que preferir… É gostoso, mas não espere nada de muito espetacular.@ A  diferença entre a comida da Kohaku-san e esses pães é a mesma diferença entre o céu e a terra."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Ah… É sério, Nii-san?"@
+`"Sim.@ O que vai dizer agora?@ Não me diga que, embora tenha se transferido para esta escola, não é capaz de comer o pão que comemos todos os dias.@
+` Não me faça pensar mal de você."
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"Não, não é isso, é só que… Este pão é muito grande, acho que não vai caber na minha boca…"@
+`"…… Ninguém falou pra você comer só com uma mordida.@ É só um pão, vai dando mordidas e comendo aos poucos.@ Você vai ficar com algumas migalhas na boca, por isso eu mandei o Arihiko buscar um guardanapo."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Está bem.@ Obrigada, Nii-san."@
+cl a,crossfade,400
+` Ela começa a morder o pão.@
+` …… Acho que nunca existiu uma garota neste mundo que ficou tão nervosa assim para comer um simples pão de curry.
+\
+bg #000000,tshutter,800
+bg "bg/bg_04",bshutter,800
+` Já faz uns minutos que a Akiha terminou de comer.@
+` A aparência do Arihiko parece não incomodá-la, já que estão conversando de forma tão agradável.
+\
+ld l,"tachi/aki_t04a",crossfade,400
+`"Então, Inui-san, você é amigo do Nii-san desde o ensino fundamental?"@
+ld r,"tachi/ari_t01",crossfade,400
+`"Sou, acho que deve ter uns cinco anos que o conheço.@ Ele tem sido um incômodo desde o instante em que o conheci.@ Eu o ajudei em variadas situações e antes que percebesse, ele acabou colando em mim."@
+`"…… Arihiko, essa informação não está correta.@ Eu estava apenas te extorquindo."@
+ld r,"tachi/ari_t02",crossfade,400
+`"Ah, chame do que quiser, o negócio é que acabamos ficando presos um no outro!"@
+` Ele ri.
+\
+`"Pois é.@ Eu meio que gosto da forma como as coisas ficam agarradas no fundo do seu sapato.@ Acho que demos muito trabalho um para o outro."@
+` Devolvo a risada do Arihiko de forma bem cínica.@
+ld l,"tachi/aki_t13a",crossfade,400
+`"………………"@
+` …… Parece que a Akiha está tendo problemas para digerir nós dois.
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Ah, Akiha-chan, posso te perguntar uma coisa?"@
+ld l,"tachi/aki_t04a",crossfade,400
+`"Certamente, se for algo que eu puder responder."@
+`"Já tem um tempo que eu tava querendo saber… O Tohno tem anemia crônica, né?@ Ele sempre teve isso?"@
+` …… O mais incrível em relação ao Arihiko é a forma como ele é direto para fazer essas perguntas estranhas.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"Sim, o Nii-san tem anemia desde que nasceu.@ Todas os membros da família Tohno têm problemas similares; o caso dele não é especial ou único."@
+`"Hein…?@ É sério, Akiha?"@
+`"Sim.@ O nosso pai sofria de transtorno maníaco-depressivo ou transtorno bipolar como é mais conhecido.@ Se não me engano o nome completo é transtorno de múltiplas personalidades ou como é vulgarmente conhecido 'dupla personalidade'."
+\
+ld r,"tachi/ari_t03",crossfade,400
+`"O quê?@ Transtorno de múltiplas personalidades…?"@
+ld l,"tachi/aki_t04a",crossfade,400
+`"Comumente conhecido como dupla personalidade.@ Mas o caso do nosso pai não era sério o bastante para causar confusão mental severa."@
+cl a,crossfade,400
+br
+` [line=4]Eu não sabia.@
+br
+` Mas pensando bem, a personalidade de Tohno Makihisa costumava mudar de gentil para bruto com frequência.
+\
+`"Humm… Então aquele velho possuía essa condição médica…"@
+` Vendo as coisas dessa forma, tudo fica claro.@
+` Antes do acidente sempre achei que nosso pai era um homem gentil, mas que mantinha sua distância.@
+` Só que depois do acidente, era muito claro o ódio que o Makihisa sentia por mim.@
+` Agora que sei disso, talvez tenha sido tudo por causa da sua doença.
+\
+wave se_03
+ld l,"tachi/ari_t03",crossfade,400
+`"Argh!@ O intervalo do almoço acabou, Tohno!"@
+`"Anda, Akiha, volte rápido para a sua classe.@ Vai ser uma vergonha você se atrasar logo no seu primeiro dia."@
+ld r,"tachi/aki_t09",crossfade,400
+`"Tudo bem.@ Cuide-se, Nii-san."@
+cl a,crossfade,400
+` Enquanto o sinal da escola continua tocando, nós voltamos para as nossas classes.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06b",rcartain,800
+` Um dia cheio de altos e baixos termina.@
+` O que devo fazer agora[line=3]
+\

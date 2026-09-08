@@ -1,0 +1,247 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+` …… Arcueid doesn't come.@
+` It's only natural.@
+` After doing that[line=4]after trampling over everything she trusted me with, I forcibly violated her body.
+\
+` She probably won't come.@
+` This is what she meant when she said for both of us to forget about it.@
+br
+`"Damn it……!"@
+` My heart wrapped in regret, I leave the park.
+\
+bg #000000,lcartain,800
+bg "bg/bg_47",lcartain,800
+` …… I return to the mansion.@
+` Opening the rear door, I walk inside.
+\
+bg "bg/bg_33d",lcartain,1500
+bg "bg/bg_46c",lcartain,1500
+bg "bg/bg_40d",lcartain,1500
+` I yawn.@
+` I sink onto my bed without thinking.@
+` Tick.@ Tick.@ Tick.@ The sound of the clock echoes through the room.
+\
+`"…………"@
+` …… Just sleep for now.@
+` When I wake up tomorrow things will be different.@
+` About Arcueid, about the vampire roaming this city, when morning comes all of it will be[line=4]
+\
+bg #000000,crossfade,1500
+phase "bg/bg_06a",l,ark,11b,12
+bg #000000,crossfade,400
+waveloop se_02
+` THROB           THROB           THROB
+!w1000
+` THUMP           THUMP           THUMP
+!w1000
+` Throb           Throb           Throb
+!w1000
+` Thump           Thump           Thump
+\
+` …… The pain synchronizes with my pulse.@
+` Every time I feel the throb of pain, my memories fade away.@
+` Every time my heart thumps, memories are plastered on.@
+br
+` The fading away memories are probably extras.@
+` Memories, the past, experiences I don't need.@
+` All of it fades away.@ In other words, oblivion.
+\
+`"Ah[line=6]"@
+` As regret washes over me, as my memories thin, as my past fades away, I reach out with my hand.@
+` But I can't grasp anything.@
+` Because,
+` I've already forgot what kind of memories I've lost.
+\
+` THROB, throb.@
+` The repeating headaches make me feel sick, and even in my dream, I feel like throwing up.
+\
+wavestop
+bg #ffffff,crossfade,800
+`"Shiki-sama, are you awake?"@
+br
+` [line=4]I hear a voice.@
+br
+`"Please hold on.@ I will bring you something to drink."@
+br
+` [line=4]After that, the sound of running footsteps.
+\
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+` I slowly open my eyes.@
+` I'm lying in bed with the radiant sunlight streaming through the window.@
+br
+`"[line=4]Morning?"@
+` Slowing lifting myself up, I feel my own sweat drenching me.@
+`"What……?@ I must've had a nightmare or something."@
+` I try to remember what I dreamt about.
+\
+` …………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… I can't remember.
+\
+`  It is the nature of dreams to fade upon awakening.@
+` But, there's still something.@
+` I feel like there's a vague image of something I've forgotten.
+\
+ld c,"tachi/his_t01",lshutter,800
+`"Shiki-sama?@ Have you woken yet?"@
+`"I'm up.@ Morning, Hisui."@
+`"Yes, good morning, Shiki-sama."@
+` Hisui approaches the bed, expressionless as always.
+\
+`"I have brought you something to drink.@ If you are not feeling well, please drink."@
+` Hisui carries a silver tray with a drink prepared on it.@
+`"No, I don't feel bad or anything.@ I slept deeply, so my head is clear too."@
+`"[line=3]However,"@
+` Hisui offers a rare reply.@
+`"It appeared your condition was bad last night."@
+br
+` …… It seems I did have a nightmare last night.
+\
+`"Nah, there's nothing wrong with me.@ But I'm really grateful you're concerned, Hisui."@
+ld c,"tachi/his_t04",crossfade,400
+`"…… Yes, I am glad you are well, Shiki-sama."@
+` Hisui looks at me with her delicate, glass eyes.
+\
+` …… Um, I feel uneasy.@
+`"I'll go change and head to the dining room.@ Please tell Kohaku-san I'll be having breakfast."@
+ld c,"tachi/his_t01",crossfade,400
+`"I understand."
+\
+cl c,lshutter,800
+` …… Well then.@
+` It's seven o'clock.@
+` I can take my time this morning.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Akiha and Hisui are in the sitting room.@
+` From the kitchen, I can hear Kohaku-san's lilting humming.
+\
+ld c,"tachi/aki_t12a",lshutter,800
+`"Good morning, Nii-san."@
+`"Morning.@ You don't seem very cheerful today, Akiha.@ Was there something you didn't like in your breakfast?"@
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Nii-san, how did you arrive at that conclusion?"
+\
+`"Just came to my mind.@ I just remembered there were many kinds of food you either liked or disliked."@
+`"That's rude… I was that way as a child, but now I have no dislikes."@
+`"…… I see.@ That's odd, cause if that's the case, you should have more physical development for your age……"
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Nii-san.@ Did you just say something?"@
+` Akiha glares at me.@
+` …… Crap.@ I should watch my mouth.
+\
+`"…… No, I didn't say anything.@ I was just thinking aloud, so don't worry about it."@
+ld c,"tachi/aki_t02",crossfade,400
+`"…… Geez.@ It seems there was no need to worry, Hisui.@ I don't think Nii-san will die even if you kill him."@
+`"Yes, I feel the same way."@
+` Akiha sighs and Hisui expressionlessly agrees.@
+` I can guess from their conversation they were both worried about me.@
+cl c,crossfade,800
+\
+`"[line=3]Why?"@
+` I wonder why.@
+ld l,"tachi/aki_t21",crossfade,400
+`"Why?@ Normally, you would worry!@ After you came home last night, you went straight to bed and had nightmares all night.@
+` Even though we tried to wake you, you never woke up.@ Doesn't that sound like you were sick?"
+\
+`"Oh?@ Really[line=3]But I didn't really catch a cold or anything."@
+ld r,"tachi/his_t01",crossfade,400
+`"I do not think you had a cold.@ Shiki-sama, you were sleeping as always, and your temperature and breathing were normal.@ But you were secreting lots of sweat."@
+`"…… Secreting?@ I don't like that word choice."
+\
+ld l,"tachi/aki_t03a",crossfade,400
+`"It was worse on me because I was tending you, so please be a little thankful.@ And thank Kohaku as well.@ I couldn't have done it by myself."@
+`"Yourself…… Akiha, you were caring for me?"
+\
+ld l,"tachi/aki_t16a",crossfade,400
+`"O-of course I was.@ We are siblings.@
+` I was only watching your condition; it was Kohaku who cleaned your sweat."@
+` She looks away and mumbles like she was talking to herself.@
+` This isn't like her as she normally looks at you directly and says things directly.
+\
+`"Really.@ Thanks Akiha.@ Sorry to worry you."@
+ld l,"tachi/aki_t05a",crossfade,400
+`"You don't have to thank me.@ I was just doing my duty.@ If you want to thank someone, thank Kohaku."@
+` She looks away and doesn't even try to look at me anymore.
+\
+`"Shiki-san, breakfast is ready," Kohaku-san's voice rings out from the kitchen.@
+`"Nii-san, please hurry up and eat your breakfast."@
+`"Gotcha."@
+` I head to the dining room.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t01",lshutter,800
+`"Please be careful on your way, Shiki-sama."@
+`"I'm off.@ I'll be back around four o'clock today."@
+` Raising a hand to the bowing Hisui, I leave the mansion.
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_23a",lcartain,1500
+play "*3"
+` I walk the morning path to school.@
+` Monday morning.@ For some reason, my feet feel really light today.@
+` Maybe it's because these past few days were so out of the ordinary, my body welcomes such a normal day.
+\
+`"………… Huh?"@
+` That's strange.@
+` I said 'out of the ordinary', but what kind of life was that?@
+br
+`"………………"@
+` I feel like something very important happened.@
+` But, I can't remember what it was.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+ld c,"tachi/ari_t05",lshutter,800
+`"Yo, Tohno!"@
+` Arihiko whacks me on the back in greeting.@
+`"Mornin'.@ You're pretty early today."@
+`"Ah, just a whim of mine.@ Well, it doesn't hurt to act like a good student every now and then."@
+` Arihiko laughs brightly.@
+` Seeing that smile assures me that this is my world.@
+`"………………"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Mmm, what is it, Tohno?@ Making such a difficult expression...@ Did you forget something at your house?"
+\
+br
+br
+br
+br
+br
+br
+` DID YOU FORGET SOMETHING?@
+!w1000
+br
+` …… Those words reverberate through my head like a curse.
+\
+!w1000
+` But, in the end,
+` I can't remember what it was I forgot.
+\
+playstop
+`"…… Nah, I didn't forget anything.@ Let's hurry on to the classroom.@ After waking up this early, it'd be a waste if you were late, right?"@
+`"Haha, you got a point."@
+cl c,lshutter,400
+br
+` I pass the school gate with my friend.@
+` With that, something ends completely.
+\
+`"[line=6]"@
+` I feel someone staring at me and I turn around.@
+` But there's no one there.@
+` Just the scattering leaves in the courtyard.@
+br
+` Tohno Shiki heads to class.@
+` As if returning to a peaceful, happy, and normal everyday life.
+\
+bg #ffffff,crossfade,1500
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

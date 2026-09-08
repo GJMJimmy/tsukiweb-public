@@ -1,0 +1,19 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01b",lcartain,800
+` We walk out the gate.@
+` From here, we have to go our separate ways.@
+br
+ld c,"tachi/cel_t03",crossfade,800
+`"Well then, this is goodbye for now.@ We got here pretty quickly."@
+` …… I feel the same way.@ I was really thinking it would be better if the school were a bit bigger.
+\
+`"Well then, Senpai, see you tomorrow."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Yes, let's meet at school tomorrow."@
+cl c,lshutter,800
+` Smiling as she responds, Senpai disappears in the opposite direction.@
+` After watching her go, I head down the street towards my house.
+\
+bg #000000,lcartain,1500

@@ -1,0 +1,686 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_19d",notrans,0
+`"[line=6]Certo."@
+br
+` Eu já havia decidido o que fazer desde o início.@
+` Tiro a faca do meu bolso e vou na direção da porta.@
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=4]Shiki?"@
+`"Vou ver o que está acontecendo.@ Não saia deste quarto até eu voltar."@
+` Saio para o corredor, me livrando do olhar da Arcueid que parecia querer dizer alguma coisa.
+\
+bg #000000,lcartain,800
+bg "bg/bg_20a",lcartain,800
+` Não tem ninguém no corredor.@
+` …… Eu não podia ouvir de dentro do quarto, mas o corredor está barulhento.@
+` Não é este andar que está barulhento.@
+` O barulho está vindo de debaixo dos meus pés.@
+` Parece ter um tumulto no andar de baixo, ouço muitas pessoas conversando.@
+br
+` Acho que o impacto deve ter acordado os hóspedes, e agora eles devem estar reclamando com o pessoal do hotel.
+\
+`"……… Não vejo nada de anormal neste andar."@
+` Eu ando pelo corredor.@
+br
+` O barulho do andar de baixo é como o som das ondas do mar.@
+br
+` Barulhento[line=2]mas ainda assim muito solitário e calmo.
+\
+`"[line=6]!"@
+` Meus dedos que estão segurando a faca estão dormentes.@
+` Um calafrio corre pela minha nuca.@
+` Sinto algo perto da minha têmpora.@
+` Uma dor surge por trás dos meus olhos.@
+br
+` Suportando-a, continuo andando pelo corredor.
+\
+!w1000
+bg #000000,crossfade,400
+playstop
+bg "bg/bg_20a",crossfade,400
+waveloop se_02
+`"[line=6]"@
+` Está… doendo.@
+` Meus olhos… doem.@
+` Minha cabeça fica pesada e uma sensação de tontura me domina, como se estivesse prestes a desmaiar.@
+` Eu sei o que é isso.@ Essa é a sensação que tenho bem antes de desmaiar por causa da anemia.
+\
+br
+`"Ha[line=2]aahh."@
+br
+` Que dor!@
+` Que dor!@ Incapaz de aguentar por mais tempo, eu tiro os óculos.
+\
+bg "bg/bg_20b",crossfade,800
+` Estou vendo o elevador.@
+` E um corredor longo.@
+` Deve ter cerca de dez metros daqui até o elevador.@
+br
+` [line=4]E então,
+br
+` fazendo "ding dong", o elevador chega ao décimo primeiro andar.
+\
+bg #000000,crossfade,400
+`"[line=6]"@
+` Posso ver as "linhas" na porta do elevador.@
+` Não, elas são…
+` Elas são muito grossas[line=2]estão quase que completamente negras.
+\
+` A porta abre.@
+` A pequena caixa de aço se abre.@
+br
+` E dentro desta caixa[line=2]
+` Amontoadas ao ponto de transbordar, vejo carne humana.
+\
+bg "bg/ima_13b",crossfade,400
+` Dentro desta caixa de aço chamada de elevador.@
+` A carne humana, vermelha, está empilhada e espremida.@
+` E dois cachorros pretos estão banqueteando vorazmente alguma coisa.@
+br
+`"O qu[line=6]"@
+br
+` Eu paro de respirar.@ Assim como o meu cérebro que acabou de congelar, meus pulmões também param.@
+` Não consigo respirar.@ Mas isso não é importante.
+\
+monocro #ff0000
+bg "bg/ima_13",crossfade,400
+` Minha visão fica vermelha.@
+` Com um som borbulhante, o sangue jorra do elevador.@
+` Em meio ao oceano de sangue também vejo pessoas, braços, pés, ossos, cérebros, dedos, orgãos e outras partes.@
+br
+` Os dois cachorros são as únicas criaturas vivas.
+\
+bg #000000,crossfade,400
+monocro off
+`"[line=6]"@
+` Meus instintos se recusam a acreditar nesta cena.@
+` Os dois cachorros estão tentando se decidir qual dos cadáveres humanos vão comer primeiro.@
+` Se eu escutar com atenção, ainda consigo ouvir os barulhos do andar de baixo.@
+br
+` Se eu escutar com atenção,
+` são barulhos de pessoas sendo devoradas, de carne sendo mastigada, gritos de socorro, e os gritos de morte das pessoas, que já nem podem mais ser chamados de palavras.
+\
+` …… O que está acontecendo?@
+` Embora seja impossível eu estar vendo isso, diante dos meus olhos vejo a imagem de dezenas de animais comendo os hóspedes do hotel vivos.
+\
+` Vejo um homem correndo pelo corredor, tentando escapar.@ Mas as garras parecidas com as de uma pantera, descem do teto e rasgam ele do nariz até as costas da cabeça.
+\
+br
+br
+br
+` Vejo uma garota se trancando em um quarto e chorando.@ Mas para os leões, uma porta é o mesmo que um pedaço de papel.@ Em poucos segundos eles a destroem, deixando-a em uma forma irreconhecível.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+` Esforçando-se loucamente para serem as primeiras, as pessoas correm para o elevador.@ Mas os cachorros que estavam esperando dentro dele, decapitam todos no instante que a porta abre.
+\
+` Não há qualquer excessão.@
+` Debaixo dos meus pés, dentro deste hotel enorme…
+` acontece uma cena infernal que eu posso sentir até nos ossos.
+\
+bg "bg/bg_20b",crossfade,400
+`"Guuuuh!"@
+` Sinto vontade de vomitar.@
+` Mas não posso fazer isso.@
+` Se eu simplesmente ficar aqui e vomitar[line=2]vou me tornar parte deste mar vermelho.
+\
+`"Haah[line=2]ah.@ Ha.@ Ah.@ Ha."@
+br
+` Eu recupero o fôlego.@
+` E cerro meus dentes com força.@
+br
+` Os cachorros notam minha presença.@
+` Todos os barulhos vindos de baixo pararam.@
+br
+`"……… Ha."@
+` Em outras palavras,
+` já não há mais ninguém vivo.
+\
+` Grrrrr……
+br
+` Os cachorros começam a correr.@
+` É claro, na minha direção, a última presa.@
+br
+`"Ha[line=4]aahh."@
+br
+` Eles estão vindo me pegar.@
+` No corpo deles, vejo um número infinito de linhas, e em suas testas, o ponto de morte.@
+br
+` [line=4]Mas mesmo assim.@
+br
+` Minha mente está paralisada e não ordena o meu corpo a brigar ou correr.
+\
+bg #000000,lshutter,400
+` O primeiro cachorro salta.@
+` Sua velocidade contradiz qualquer comparação humana.@
+` Ele não leva nem dois segundos para cobrir os dez metros do corredor.
+\
+ld c,"tachi/kemo_t02",lshutter,400
+` Eles abrem suas bocas.@
+` Bocas cheias de presas muito mais afiadas que a faca que tenho, e elas estão mirando na minha garganta.@
+` Com precisão e rapidez.@
+` No instante que percebo que estão se aproximando de mim,
+` as presas abocanham minha garganta.@
+br
+` E eu morro.
+\
+bg #ffffff,notrans,0
+` Mas isso não está certo.@
+` Não posso ser morto por algo assim, eu me recuso a morrer.@
+` As mortes dos outros não me fizeram hesitar.
+\
+br
+` [line=4]Um dia quente de verão.@
+br
+` Isso aconteceu há muito tempo, há oito anos.@
+` Eu vi algo muito mais terrível[line=4]
+\
+monocro #ff0000
+bg "bg/bg_20b",notrans,0
+` Enfia.@
+br
+` Eu enfio minha faca na testa do cachorro que está mordendo meu pescoço.@
+` Meu braço se moveu um pouco antes do cachorro rasgar minha garganta.
+\
+` Isso foi feito com muita perfeição, mesmo para mim.@
+` Como uma máquina cuja única função é cortar, eu mergulho a faca na testa do cachorro sem nenhum movimento inútil ou desperdiçado.@
+` Porque é ali que estava o primeiro "ponto" do cachorro.@
+` Normalmente, mesmo se o cérebro for destruído, os músculos ainda tentam executar os comandos que receberam antes.@
+` Este cachorro provavelmente teria rasgado a minha garganta se eu tivesse simplesmente perfurado sua cabeça.@
+br
+` Bem[line=2]normalmente isso teria acontecido.@
+` Mas ele está "morto".@
+` A morte é uma paralisação completa.
+\
+` O primeiro cachorro cai no chão.@
+` E agora[line=2]O segundo está voando direto para o meu rosto.@
+bg #000000,lshutter,400
+ld c,"tachi/kemo_t02",notrans,0
+`"[line=6]"@
+` Eu enfio a faca na sua boca aberta.@
+` Mas isso foi um erro.@
+` O "ponto" deste cachorro não está na cabeça, está no peito.@
+` Enfiar a faca na sua boca não vai matá-lo.
+\
+` A faca penetra pela boca e quase sai nas costas da sua cabeça.@
+` Minha mão que está segurando a faca permanece na boca dele.@
+br
+`"[line=6]Ah."@
+br
+` Ele continua vivo.@
+` Sua mandíbula se fecha.@
+` A junta entre o meu braço e a mão que está segurando a faca é mordida, prestes a ser dilacerada.@
+br
+` Pensamentos mais sensatos retornam à minha cabeça com a dor causada pela mordida.
+\
+bg "bg/ima_12",crossfade,400
+`"A[line=2]ah[line=2]!"@
+br
+` [line=3]Só pode ser brincadeira!@
+` É[line=2]é como se eu tivesse pedido a ele para mastigar o meu braço quando enfiei a faca na sua boca!@
+br
+`"Seu[line=2]maldito……!"@
+br
+` Tento puxar meu braço para fora.@
+` Os dentes do cachorro estão profundos no meu braço, parece que não vai dar para puxá-lo.
+\
+` Mas pensando bem[line=2]ele continua vivo mesmo depois de ter a cabeça perfurada.@
+` Apesar de eu ter levantado ele depois de perfurar sua cabeça, ele sacode de um lado para o outro e cai em cima de mim.
+\
+quakey 4,100
+`"Guh…!"@
+` Eu caio no chão.@
+` Ainda não consigo puxar meu braço.@
+` O cahorro, ainda perfurado na cabeça, aplica mais força em sua mordida.@
+`"[line=6]!"@
+` M… Meu braço com certeza vai ser arrancado[line=2]!@
+` Não acredito nisso.@ Nenhum cachorro deveria ser capaz de morder qualquer coisa nesse estado…!
+\
+`"…… S-seu…!"@
+` Sinto algo molhado.@
+` Vejo sangue derramando da boca dele.@
+` Será o sangue dele, vazando do seu ferimento na cabeça?@
+` Ou será que é o sangue saindo do meu braço, prestes a ser arrancado?@
+br
+` [line=3]Para ser sincero…
+` Minha cabeça está muito confusa para sentir a dor,
+` então não importa de quem é o sangue.
+\
+`"Me[line=2]larga!"@
+` Eu tento lutar para me afastar do cachorro, mas ele está firmemente preso ao meu braço.@
+` Não consigo escapar.@
+` Não consigo fugir.@
+` A única forma de escapar[line=2]é "matando" ele.
+\
+`"[line=4]…!"@
+` Mas como?@
+` A faca está na mão que ficou presa na sua boca.@
+` Eu estou no chão, supondo que eu consiga puxar a mão, no instante seguinte a boca dele vai ficar livre para morder a minha garganta[line=4]
+\
+`"Ha[line=4]aaahhh."@
+br
+` [line=4]Tudo bem.@ Acalme-se, Shiki.@
+` Primeiro você tem que analisar bem a situação e depois pensar com calma sobre ela.@
+` Esse é o tipo de pensamento que você sempre manteve.@
+br
+` Nesse caso[line=2]eu posso fazer alguma coisa…
+` Por exemplo, existem várias 'linhas' na parte de trás da cabeça dele.@
+` E eu posso ver o 'ponto' negro no seu peito.@
+` O jeito de sobreviver é muito simples.
+\
+` …… Mas tenho minhas dúvidas sobre a execução desse plano.@
+` Não importa o quão feroz e maligna uma criatura seja…
+` Matar uma criatura ofegante e tão cheia de vida, tão póxima de mim[line=2]é algo que fico hesitante em fazer.@
+br
+`"Guh[line=2]!"@
+br
+` A pressão no meu braço aumenta.@
+` Meu braço inteiro vai ser arrancado nesse ritmo.@
+` Mas mesmo assim, não consigo fazer algo tão cruel[line=2]
+\
+bg #9c0120,crossfade,400
+monocro off
+bg "bg/ima_12b",crossfade,400
+` O sangue vermelho pinga no meu rosto.@
+` Passando pela minha testa, ele pinga nos meus olhos.@
+br
+` [line=3]A escuridão carmesim ensopa o branco dos meus olhos.@
+br
+`"Ver[line=4]melho."@
+` Minha consciência oscila e depois desaparece.
+\
+bg #9c0120,crossfade,1500
+bg "bg/cmo_05",crossfade,800
+` …… Mas mesmo assim, não consigo matar um ser um vivo.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Que hipocrisia!@
+` Você matou algo muito maior do que um simples cachorro.
+\
+` …… Sim, é verdade.@
+` Mas daquela vez foi diferente.@
+` Eu não estava são quando matei a Arcueid.@
+` Mesmo quando matei o outro cachorro, agora há pouco[line=2]não foi por vontade própria.@
+` Mas agora, isso é a minha própria vontade.
+\
+` …… A Sensei não disse, Shiki?@
+` Use esse poder de acordo com a sua própria vontade e a de mais ninguém.@
+br
+` É por isso que…
+` Como eu mesmo, nesse momento, eu nunca poderia tirar uma vida.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Isso também é hipocrisia.@
+`   Porque há muito tempo, você…
+\
+bg "bg/cmo_06",crossfade,400
+bg "bg/cmo_05",crossfade,400
+`"Ah[line=6]"@
+br
+` …… Isso é um pesadelo da minha infância.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Vê, o que você está esperando?
+\
+br
+br
+br
+` …… Era um dia quente de verão.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Matar ou ser morto.
+\
+br
+br
+br
+br
+` …… Diante dos meus olhos, a sombra encharcada de sangue de um menino.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Você já…
+\
+br
+br
+br
+br
+br
+` …… Quente, quente, o sangue vermelho nas minhas mãos.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Você já não matou uma pessoa antes[line=3]!?
+\
+bg "bg/cmo_06",notrans,0
+wait 100
+bg "bg/ima_13",notrans,0
+wait 100
+bg "bg/cmo_05",notrans,0
+wait 100
+bg "bg/cmo_06",notrans,0
+wait 100
+bg "bg/ima_13",notrans,0
+bg #ffffff,crossfade,1500
+monocro #ff0000
+bg "bg/bg_20b",notrans,0
+br
+br
+br
+br
+br
+br
+br
+`"Aaaaaaaaaaaaah!!!!!"
+\
+` Eu enfio.@
+` Eu não puxo, enfio mais fundo na cabeça do cachorro.
+\
+` Ouço seu ganido bem na minha frente.@
+` Acho que ele está gritando.@
+` Com o meu braço em sua boca, ele não poderia gritar corretamente, mas está gritando assim mesmo.@
+br
+` Tenho certeza que é pelo tanto que isso deve doer.@
+` Não me importo.@
+` Eu mergulho a faca mais profundamente, junto com o meu braço.
+\
+` Sem fazer barulho, a lâmina da faca sai na parte de trás da cabeça do cachorro.@
+` É como se tivesse crescido um chifre nele.@
+br
+` Com seu crânio partido, facilmente corto sua pele.@
+br
+` Sangue e pedaços de cérebro se espalham enquanto a faca aparece completamente na parte de trás da cabeça.@
+br
+` Além disso, a minha mão atravessa completamente.
+\
+` *arf* *arf* *arf*@
+` E mesmo assim o cachorro continua vivo.@
+` Então só me resta uma coisa a fazer.@
+` Eu aproximo minha outra mão.@
+` Tiro a faca dos meus dedos ensanguentados e pego ela com a mão livre.@
+` E assim, atravesso o 'ponto' no peito do cachorro.
+\
+wave se_06
+bg "bg/ima_12",notrans,0
+monocro off
+bg "bg/bg_20b",crossfade,800
+` *arf* *arf*@
+` E com isso ele finalmente morre.@
+` A força desaparece das suas mandíbulas e eu puxo meu braço para fora.@
+br
+`"Ah[line=2]que bom que ele não foi arrancado."@
+` Olho para o meu braço coberto de sangue.@
+` Há várias marcas de dentes, mas a carne está praticamente livre de ferimentos.@
+` O sangue deve ser de quando eu empalei a cabeça do cachorro.@
+` A dor de quando eu estava sendo mordido não foi nada, mas o meu medo deve ter amplificado ela muitas vezes.
+\
+` *arf* *arf*@
+` Deitado no chão, fico olhando para o teto.@
+bg #9c0120,notrans,0
+wavestop
+wait 100
+bg "bg/bg_20b",notrans,0
+` Minha cabeça dói.@
+` O mundo se transforma em uma colcha de retalhos e, aqui e ali, posso ver os pontos negros de morte.@
+` Meu corpo está congelando, mas minha mente está queimando de febre.
+\
+`"[line=2]Kuh!"@
+` Bem ao meu lado estão os corpos dos dois cachorros.@
+` Um dos meu braços está coberto de sangue, o outro agarra uma faca vermelha.@
+` …… Além disso, deve haver um número incontável de cadáveres no andar de baixo.@
+br
+`"[line=4]Ha, haha, hahaha."@
+br
+` A única coisa que consigo fazer é rir.@
+` Porque nada disso é real.@
+` Não tem como isso ser real.@
+` Em qual momento eu, com meus olhos bem abertos, comecei a ver um pesadelo[line=4]?
+\
+` Ding dong.@
+br
+`"Hã[line=2]?"@
+` Um som alegre, totalmente fora de lugar.@
+`"Droga, essa dor de cabeça está me matando[line=2]?"@
+` Eu me levanto, suportando a dor que é como uma navalha dentro da minha cabeça.@
+`"Ele… vador…?"@
+` Parece que o som é do outro elevador chegando.
+\
+` A porta abre.@
+` Dentro dele tem um homem usando um sobretudo preto.@
+bg "bg/bg_20b",crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+bg "bg/bg_20b",crossfade,400
+` A dor de cabeça piora.@
+`"Ele é[line=2]"@
+` Sim, já vi ele antes.@
+` Tenho certeza que já vi este homem antes.@
+bg "bg/bg_20b",crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+bg "bg/bg_20b",crossfade,400
+`"[line=7]"@
+` Ele caminha silenciosamente na minha direção.@
+`"Você[line=2]!"@
+` Eu preparo minha faca enquanto o encaro.@
+`"[line=7]"@
+` Mas ele não reage, apenas continua vindo na minha direção.@
+` É como se ele não me notasse.
+\
+` A distância entre nós diminui.@
+` Só mais um pouco[line=3]quando há apenas um metro entre nós, o homem finalmente parece me notar.@
+ld c,"tachi/nero_t03",crossfade,400
+` Estes olhos vermelhos.@
+` No instante em que vejo estes olhos que nenhum ser humano deve possuir, perco toda a liberdade de mexer o meu corpo.
+\
+`"Pensei que tinha matado a todos, mas parece que ainda sobrou um."@
+` Ele se vira e olha para os corpos dos dois cachorros.@
+ld c,"tachi/nero_t02a",crossfade,400
+`"[line=2]Seus pedaços de merda.@ Se nem conseguem cuidar de um pedaço de carne, não são dignos de fazer parte do meu corpo."@
+cl c,crossfade,800
+` O homem expressa seu descontentamento e levanta a mão.@
+` Seu sobretudo levanta como um manto.@
+br
+` [line=3]Que loucura.@
+br
+` Com um esguicho, os restos dos cachorros dissolvem e desaparecem dentro do sobretudo do homem.
+\
+`"Ah[line=4]"@
+` Não consigo nem gritar.@
+` Dentro do sobretudo é escuridão pura, sem nem o traço de um esboço.@
+` Tudo que existe lá é uma escuridão absoluta.@
+br
+`"Is[line=4]"@
+` Isso é perigoso.@
+` Esse cara é muito perigoso[line=4]
+` Meus instintos soam o alarme de perigo descontroladamente na minha cabeça, mas eu não consigo levantar nem um dedo.
+\
+` Ele se aproxima de mim.@
+`"[line=6]!"@
+` Não é uma boa ideia ficar aqui imóvel.@
+` A dor de cabeça constante cresce a um nível insuportável, me dizendo que este lugar é perigoso.@
+` Não importa como, se eu não sair daqui logo, vou perder a minha vida.@
+br
+` [line=5]Mas é tarde demais.@
+br
+` O homem já está na minha frente.@
+` Seus olhos não estão olhando para mim.
+\
+`"Alimente-se."@
+` Ele levanta um dos braços.@
+` Debaixo dele há uma escuridão caótica.@
+` E dela, surge algo enorme.@
+bg #000000,notrans,0
+br
+` Whoosh.@
+` O som do vento.@
+` O que surgiu de dentro do sobretudo é a boca de um crocodilo, grande o bastante para engolir um homem inteiro.@
+br
+`"Ah[line=6]"@
+br
+` Eu vou morrer.@
+` Aqui mesmo, em um instante, mastigado como uma bola de papel.@
+` Quando eu já estava convencido disso, alguém me puxa para trás.
+\
+bg "bg/ima_12",crossfade,400
+` Clomp.@
+br
+`"O qu[line=2]!?"@
+` Eu… não posso acreditar.@
+` As mandíbulas do crocodilo mordem a barriga da Arcueid, que acabou de me tirar da frente delas.
+\
+bg "bg/bg_20b",crossfade,400
+ld c,"tachi/ark_t18",lshutter,400
+`"Ssstt[line=2]!"@
+` O rosto da Arcueid contorce de agonia.@
+` Ela se afasta antes de ser devorada.@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"…………"@
+` O homem a observa em silêncio.@
+` Ela olha de volta para ele com uma expressão de dor, seu ventre manchado de vermelho.
+\
+ld c,"tachi/ark_t18",lshutter,400
+`"[line=3]Não posso acreditar que um vampiro chamado 'Caos' está fazendo esses joguinhos.@ É como um pesadelo mal escrito, Nrvnqsr Chaos."@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+` "Eu me sinto da mesma forma.@ Encontrar um dos sobreviventes dos Ancestrais Originais… Nunca nem sonhei que seria parte de uma palhaçada dessas.@ Isso é um pesadelo para mim também."@
+` O homem chamado Nrvnqsr abaixa o braço tranquilamente.@
+` O sobretudo retorna à sua posição original e a boca do crocodilo desaparece dentro dele.
+\
+` O homem olha somente para a Arcueid.@
+` É como se não estivesse preocupado comigo, de pé atrás dela e com a faca em punho.
+\
+ld c,"tachi/nero_t03",crossfade,400
+`"Mas o que está acontecendo?@ Ouvi dizer que o executor anterior não pôde nem te arranhar.@ Que piada é essa?@
+` Nesse momento, sua presença está extremamente fraca.@ Ainda mais fraca do que um simples membro dos Mortos[line=2]você foi atacada pela Igreja antes de eu chegar, Arcueid Brunestud?"@
+`"……………"@
+` Ela não responde.@
+` O homem fixa seu olhar sem emoção nela.
+\
+`"…… Eu não entendo.@ Existe um número limitado de armas conceituais capazes de te ferir.@ Os únicos que as possuem são os assassinos da igreja, e eu não acho que a Agência Mortuária iria enviar alguém para tão longe assim."@
+` O homem aperta um pouco os olhos enquanto se vira.@
+cl c,crossfade,800
+`"De qualquer forma, isso é favorável para mim.@ Não vou te perguntar o porquê de estar tão fraca.@ Vou apenas reivindicar a sua cabeça enquanto tenho chance de te vencer."@
+`"Ts……!"@
+` Eu ergo minha faca, me preparando para o seu ataque.
+\
+br
+` [line=3]Mas.@
+br
+` Depois de declarar abertamente que iria arrancar a cabeça dela, ele desaparece pelo corredor.@
+` Parece que apesar dessa afirmação, o homem de sobretudo preto está deixando o corredor e indo para o elevador.
+\
+br
+br
+`"[line=6]Hein?"@
+br
+` Não faço a mínima ideia do que está acontecendo aqui!@
+` Sobre aquele homem, sobre os dois cachorros que me atacaram, sobre a realidade que é como um pesadelo neste hotel[line=2]sobre nada disso!
+\
+ld c,"tachi/ark_t18",crossfade,400
+`"Shi[line=2]ki."@
+` A Arcueid se escora em mim.@
+`"Ah[line=4]"@
+` É um ferimento terrível.@
+` Apesar da barriga dela ter parado de sangrar, o seu rosto está encolhido de dor.@
+br
+` [line=3]Aconteceu há poucos segundos.@
+` O ferimento que ela recebeu por me proteger daquele homem.
+\
+`"Por que[line=2]você…?"@
+`"…… Sim.@ Eu subestimei ele um pouco.@ Pensei que poderia te ajudar e então me esquivar, mas[line=2]você foi muito bem, Shiki.@ Acho que o ferimento que recebi de você não foi tão insignificante, afinal de contas."@
+` O rosto da Arcueid, contorcido de dor, se transforma em um pequeno sorriso de brincadeira.
+\
+`"Sua idio[line=2]"@
+` [line=3]Eu não aguento mais olhar para ela.@
+` O ferimento que ela recebeu foi para me proteger, e também foi por minha culpa que ela ficou fraca ao ponto de não conseguir se esquivar[line=2]ela não tem motivos para sorrir desse jeito.
+\
+` Ela se escora em mim e fecha os olhos lentamente.@
+cl c,crossfade,800
+`"…… Espere, não feche os olhos, sua idiota!@ Acorda!@ Você é uma vampira que não pode morrer durante a noite, certo…!?"@
+`"…… É verdade, mas parece que estou no meu limite."@
+`"O qu[line=2]!?"
+\
+`"Desculpe, mas será que você poderia me levar de volta para o meu apartamento?"@
+` O peso da Arcueid cai sobre mim.@
+`"[line=2]Espere um pouco!@ Isso é[line=2]!"@
+` Se ela morrer, eu[line=2]
+\
+`"Ei[line=2]!"@
+` Eu chamo a Arcueid, que permanece de olhos fechados.@
+br
+` E então,
+br
+`"…… Zzz."@
+` Ouço ela respirando tranquilamente em seu sono.
+\
+`"…………"@
+` …… *suspiro*@
+` Fiquei preocupado à toa.@ Ela está apenas dormindo.@
+`"…… E ainda me pediu para levá-la de volta para seu apartamento.@ Que garota egoísta[line=2]"@
+` Realmente foi egoísmo dela, mas não há o que fazer nesta situação.@
+` Além disso.@ Se continuarmos neste hotel por mais tempo, tenho a sensação de que vamos ter um monte de problemas.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_20b",crossfade,400
+`"………… Guh!"@
+` Essa dor de cabeça não vai parar.@
+` Acho que tenho que descansar também ou vou acabar desmaiando.@
+`"…… O apartamento da Arcueid!?@ [line=2]Ah, aquele lugar."@
+` Só estive lá uma vez, mas nunca poderia me esquecer daquele lugar.@
+br
+` [line=3]Sendo assim, não tenho motivos para permanecer aqui por mais tempo.@
+` Carregando a Arcueid, resolvo sair rapidamente do hotel.
+\
+bg #000000,lcartain,800
+monocro #fffff0
+bg "bg/bg_27a",lcartain,800
+` A cidade está pouco iluminada.@
+` Felizmente, ainda é muito cedo para qualquer um estar acordado, por isso eu chego no apartamento da Arcueid sem ser visto por ninguém.@
+`"…… Entendo, então foi esse o motivo."@
+` Finalmente entendo o porquê daquele homem ter ido embora.@
+` As ruas estão começando a ficar cobertas por uma fraca luz laranja.@
+br
+` Acho que o dia já está raiando[line=5]
+\
+monocro off
+bg #000000,crossfade,400
+!w3000

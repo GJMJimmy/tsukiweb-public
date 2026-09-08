@@ -1,0 +1,323 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",crossfade,800
+`"Estou[line=3]exausto."@
+` Eu caio no chão.@
+` Eu caio sentado e apoio o corpo com as mãos.
+\
+` Minha mão direita finalmente solta a faca.
+\
+`"[line=3]Que frio!"@
+` Estou sentindo frio.@
+` A dor foi anestesiada por ele; estou quase me sentindo confortável.@
+` Meu corpo está todo machucado com marcas de mordidas e bicadas.@
+br
+` [line=3]Provavelmente vou morrer desse jeito.
+\
+`"[line=4]Shiki!"@
+` É a voz da Arcueid.@
+`"[line=4]Corre, ele está mirando em você!"@
+` Ela grita enquanto corre na minha direção.@ "………… Hein?"@
+` Eu olho para o céu.@
+` Lá eu vejo,
+` a lua branca,
+bg "bg/cmo_16",crossfade,800
+` e um corvo azul.
+\
+` Ele grasna e vem direto para mim.@
+` Ele mira na minha cabeça para perfurá-la com seu bico afiado.@
+bg #000000,lcartain,400
+br
+`"[line=4]!"@
+` Tento me levantar para fugir.@
+` Mas meu corpo já atingiu seu limite.@
+` Eu caio de volta no chão.@
+` Por ter caído de costas, agora tenho uma visão perturbadora e clara do corvo.@
+br
+bg "bg/ima_14",notrans,0
+` Ele mergulha no céu como uma bala, vindo direto para o meu rosto[line=3]e depois de ouvir um som de carne sendo cortada, vejo o corvo morrer diante dos meus olhos.
+\
+bg #000000,crossfade,400
+` O corvo azul foi acertado por uma garra voadora, muito parecida com uma espada grande.@
+` Ela parece ter vindo de algum lugar do céu.@
+`"…………"@
+` Eu observo o céu noturno.@
+bg "bg/ima_18",crossfade,400
+` Eu vejo a lua.
+\
+bg "event/cel_e04",crossfade,1500
+br
+br
+br
+br
+br
+br
+br
+` E também há uma pessoa vestida de preto, parece com roupa de padre.
+\
+`"[line=5]"@
+` A pessoa está em cima de um poste de luz e olhando para mim.@
+` Apesar de quase ter sido morto há poucos minutos, eu só fico pensando que aquelas botas de cano alto são muito legais.@
+br
+` A pessoa não diz uma palavra.@
+` Estes olhos sem emoções me lembram um pouco o luar.@
+` Lembram…
+` Essa pessoa[line=4]me lembra a Senpai.@
+br
+`"………………"@
+` Minha mente oscila.@
+` Caaaaaaawww.@ O grito de morte do corvo.@
+` E eu fecho os olhos calmamente.
+\
+bg #000000,crossfade,1500
+play "*9"
+` …… Eu continuo sangrando.@
+` Nesse meu estado meio grogue,
+` ouço a Arcueid e outra pessoa discutindo.
+\
+`"Eu não vou deixá-la fazer isso.@ Eu mesma vou curá-lo."@
+` Uma voz muito hostil.@
+`"Não faça nada que não deveria estar fazendo.@ Isso é coisa minha, não é da sua conta."@
+` A Arcueid fala com o mesmo tom de voz.@
+br
+` …… Ela também parece hostil, mas eu gostaria que não me tratasse como seu objeto.
+\
+`"Sim, isso pode não ser da minha conta.@
+` Entretanto, você não é capaz de curar estes ferimentos.@ A única coisa que pode fazer é ficar olhando ele morrer.@
+` Ou[line=4]você pretende transformar este jovem em um dos seus subordinados, Arcueid Brunestud?"@
+`"…… Você acha que eu faria uma coisa dessas?"@
+` …… É mais do que simples hostilidade na voz delas.@
+` Tem tanta tensão no ar que já estou esperando começar outra luta até a morte aqui.
+\
+`"Então, por favor, fique quieta.@ Com estes ferimentos ele não vai durar muito."@
+`"[line=3]Eu te odeio muito.@ Você deveria desaparecer antes que eu te mate."@
+`"Eu te odeio muito também.@ Não precisa me dizer isso; vou embora assim que os ferimentos dele estiverem curados.@
+` E é você quem deveria desaparecer antes que eu te mate.@ Eu não suporto ter que ficar perto de você."@
+br
+` …… Uma conversa cheia de tensão e hostilidade.@
+` Minha mente fica totalmente em branco[line=4]
+\
+bg #ffffff,crossfade,800
+!w2000
+bg "bg/bg_29b",crossfade,1500
+`"[line=4]Du… ro."@
+` Uma coisa dura.@
+` Tem uma coisa dura nas minhas costas, isso me faz acordar assustado.
+\
+ld c,"tachi/ark_t06",crossfade,800
+`"……………………"@
+`"Hã?[line=4]Arcueid?"@
+` Olho ao meu redor.@
+` Estou deitado em um banco do parque.@
+` Olho para o relógio do parque e vejo que já passa da uma hora da manhã.@ Não tem nem uma hora desde que tudo aconteceu.
+\
+`"………………"@
+` A Arcueid me olha sem dizer nada.@
+` …… Ou talvez ela esteja me encarando.@
+`"Ar…… cueid……?"@
+ld c,"tachi/ark_t04",crossfade,400
+`"……………………"@
+` Ela não responde.@
+` Não sei o motivo, mas ela parece muito nervosa.
+\
+`"…… Pronto."@
+` Eu me levanto.@
+`"Ah[line=4]meus ferimentos estão curados."@
+` Eu estava sangrando e todo machucado, mas não ficou nem uma cicatriz.@
+` E também não estou sentindo dor alguma, é como se minha briga com o Nrvnqsr tivesse sido um sonho.@
+br
+` [line=3]Mas aquilo não foi um sonho.@
+` Então, isso[line=3]quer dizer que…
+br
+`"Arcueid.@ Não me diga que você usou outra parte do corpo do Nrvnqsr para me curar……!"
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Não, infelizmente não.@ Teria sido uma solução rápida e você teria ficado mais forte também.@ Mas como você 'matou' o Nrvnqsr completamente, não podemos mais usar o corpo dele."@
+`"Sério?@ Então você me curou de outro jeito?@
+` …… Uau, eu realmente voltei ao normal.@ Não sinto dor nem tontura.@ Como foi que você fez isso, Arcueid?"@
+`"Eu não sei de nada.@ Não fui eu quem te curou."@
+cl a,crossfade,400
+` Ela diz e desvia o olhar, parecendo bem descontente.
+\
+`"…………?"@
+` Parece que esse é o motivo.@
+` Mas… se não foi ela quem me curou, quem foi[line=4]?
+\
+bg "event/cel_e04",crossfade,400
+bg "bg/bg_29b",crossfade,400
+`"[line=6]Ah."@
+br
+` Havia mais alguém.@
+` Havia outra pessoa.@
+` Alguém que me ajudou.@
+` …… Aquela garota de roupas pretas que se parecia muito com a Senpai.
+\
+`"Arcueid… onde está aquela garota de antes!?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"………………"@
+` Ainda descontente, ela vira o rosto e me ignora.@
+`"Ei!@ Estou perguntando o que houve com a garota que estava aqui com você!"@
+`"Sei lá!@ Eu não vi ninguém."@
+` Ela finge que não sabe de nada.
+\
+`"Você acabou de dizer que não foi você quem me curou.@ Se não foi você, quem foi?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Ah, já chega, eu já disse que não sei, então eu não sei e pronto!"@
+br
+` Ah.@ Ela está descontando a raiva em mim.@
+br
+`"Para começo de conversa, por que você está interessado naquela pessoa?@ Ela não tem nada a ver com você."@
+`"Idio[line=3]é que tem uma coisa.@ …… Estava escuro; eu não pude ter certeza, mas ela parecia com alguém que eu conheço."
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=4]Foi só uma coincidência.@ Esqueça tudo sobre aquela pessoa.@ Se você falar sobre isso de novo vou ficar brava de verdade."@
+cl a,crossfade,400
+` Terminando o assunto rapidamente, ela desvia o olhar outra vez.@
+`"…… Por que está tão nervosa?"@
+` Eu que deveria estar nervoso.@
+` Eu só queria saber quem era aquela garota, só isso.
+\
+`"…… Tudo bem, já entendi.@ Não vou mais perguntar.@ De qualque forma, nossa parceria acaba aqui mesmo."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hein[line=3]?"@
+`"Não é óbvio?@ Nós derrotamos o vampiro que fazia o que queria nesta cidade, agora minha responsabilidade acabou.@
+` Eu tenho que ir para casa ou a Akiha vai gritar comigo.@ Acho que já está na hora de nos separarmos."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum[line=4]tem razão.@ Agora que tocou no assunto, já está bem tarde mesmo."@
+` Ela faz um gesto afirmativo com a cabeça.
+\
+cl a,lshutter,400
+`"Tudo bem."@
+` Eu também faço um gesto afirmativo com a cabeça.@
+br
+` …… Mas…
+` fico com uma sensação estranha.@
+` Como se já me arrependesse de estar me separando dela.@
+br
+`"[line=5]"@
+` Isso é ridículo.@
+` Ela é uma vampira, eu sou um ser humano normal.@
+` Se eu continuar perto dela…… algo irreversível vai acabar acontecendo.
+\
+`"…… Tchau, Arcueid."@
+` Levantando a mão, eu me afasto.@
+`"Hum.@ Aconteceram muitas coisas horríveis, mas de certa forma também foi divertido.@ Então[line=3]hum, se cuida."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Pois é.@ Já está tarde e você tem que ir para casa."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Boa noite.@ Até a próxima, Shiki!"@
+cl a,lshutter,400
+`"…………"@
+` …… Acho que ela acabou de dizer uma coisa muito estranha.
+\
+` Eu penso em dizer, "Essa foi a última vez, idiota," mas desisto.@
+`"…… Bem, ela é uma pessoa problemática, mas também é bem interessante."@
+` Eu falo, como se tentasse convencer a mim mesmo.@
+` Mas é a verdade.@
+` Então, mesmo que seja só de vez em quando…
+` Eu acho que[line=2]se por algum acaso do destino nos encontrássemos novamente[line=2]não seria tão ruim assim.
+\
+bg #000000,crossfade,1500
+playstop
+!w1000
+bg "bg/bg_32d",crossfade,1500
+` Eu volto para a mansão.@
+` São cerca de duas horas da manhã e não há nem uma luz acesa na mansão.@
+br
+`"…… Vou ter que entrar escondido."@
+` Eu pulo o muro e entro no jardim.@
+` Por sorte, a porta está aberta e eu entro sem acordar ninguém.
+\
+bg "bg/bg_48d",lcartain,800
+bg "bg/bg_33d",lcartain,800
+bg "bg/bg_40d",lcartain,800
+` *suspiro*@
+` Entro no meu quarto e respiro profundamente.@
+br
+` Acabou.@
+` Eu sinto que todos os acontecimentos desses últimos três dias, todas as coisas estranhas, finalmente terminaram.@
+br
+`"Certo[line=4]hora de dormir."@
+` Eu afundo meu corpo cansado na cama e durmo.
+\
+bg #000000,crossfade,1500
+br
+` [line=3]Ou pelo menos, era o que eu pretendia fazer.@
+br
+`"……………………"@
+` Mas não consigo dormir.@
+` Minha mente e meu corpo estão cansados, mas não consigo parar de pensar sobre aquela garota, por isso não consigo dormir.@
+`"…… Não tem como ela ser…… a Senpai, mas……"@
+` Mas ela lembra demais a Senpai.
+\
+` Eu não pude dar uma boa olhada no seu rosto, por isso não dá para ter certeza.@
+` Então[line=3]acho que devo estar enganado.@
+`"…… Amanhã…… vou perguntar a ela…… na escola."@
+` Sim[line=3]é isso que vou fazer.@
+` É só procurar por ela na escola e perguntar.@ Aí ela vai dizer, "Não era eu", e tudo vai ficar bem.
+\
+`"[line=4]Certo, é isso mesmo que vou fazer."@
+` Está decidido.@
+` Bem, agora[line=3]se eu pegar um livro chato para ler, provavelmente vou cair no sono bem rápido.
+\
+bg "bg/cmo_15",lshutter,800
+waveloop se_11
+br
+br
+br
+br
+br
+br
+br
+`       "Imortalidade".
+\
+` Se essa palavra fosse uma realidade, seria uma das coisas que definiriam a eternidade.@
+` Mas na verdade, nenhuma existência alcançou esse nível.
+\
+` Por exemplo, os vampiros que sempre são mencionados nas lendas não são imortais.@
+` Eles são defeituosos porque precisam roubar dos outros para existirem.@
+` Além disso, o fato de que suas partes adicionais têm que ser da mesma espécie[line=3]neste caso, referindo-me aos humanos em geral[line=4]significa que eles não são nem um pouco versáteis.@
+` Eles chamam a si mesmos de a raça transcendental, mas isso não é uma evolução, é uma degeneração.@
+br
+` Aquilo que não pode funcionar de forma independente e perpétua não pode ser chamado de eterno.@
+` É presunção chamar de imortal algo que depende dos outros para impedir o próprio envelhecimento.
+\
+` Já existe uma coisa próxima da perfeição que pode funcionar de forma independente e perpétua.@
+` Ela se alimenta de si mesma e se multiplica.@ Ela não possui tempo de vida.@ Suas células velhas se tornam alimento e nutrientes e assim as células novas são produzidas.@
+` Assim como a água-viva.@
+` Mas sua existência é perpétua apenas porque não possui inteligência.@
+` Se está tudo bem em não ter inteligência, então não é diferente de receber a eternidade através da morte.
+\
+` Se você quiser ter vida eterna como um ser humano, é impossível pelo método da imortalidade.@
+` O passar dos anos destrói o corpo e desgasta a flexibilidade da mente.
+\
+` Imortalidade ou eternidade.@
+` Eu não tenho qualquer apego pela imortalidade.@
+` Persistir em manter a individualidade torna a eternidade inatingível.@
+br
+` Em vez de ganhar a imortalidade como um único ser humano,
+` eu escolhi o infinito no qual posso continuar existindo eternamente.
+\
+bg #000000,lshutter,800
+bg "bg/cmo_10",lshutter,800
+` …… Entendo; certamente é uma abordagem diferente da minha. Entretanto, com o seu método, você não vai perder a eternidade com a extinção da raça humana?@
+` O seu método sempre requer uma criança que ainda não nasceu.
+\
+` Sim, é verdade.@ Mas se não existirem mais humanos, eu não serei capaz de confirmar minha própria existência.@
+` Por isso[line=4]se os seres humanos fossem extintos, seria inútil continuar vivendo.@ Nesse ponto, minha imortalidade terminaria.
+\
+` …… Não entendo sua teoria.@ Isso está muito longe da tese da eternidade, Serpente.
+\
+` Não está, isso é eternidade.@ Quando chega a hora da morte, tudo deve morrer.@ Se os observadores deixarem de existir, vai significar que tudo será imutável.@
+` A eternidade que eu personifico é temporária até que essa hora chegue.@
+` Eu não posso transformar o tudo em nada.@ Por isso vou continuar vivendo até que isso aconteça.@
+` …… Embora eu tenha encontrado mais uma diversão.
+\
+` Foi por isso que você me chamou?
+\
+` Sim.@ Vou te mostrar um método místico que lhe permite moldar um pouco o que está dentro de você.@ Tem uma uma pessoa que eu gostaria que você capturasse usando essa façanha do tempo dos deuses, Chaos.
+\
+wavestop
+bg #000000,lcartain,800
+!w3000

@@ -1,0 +1,95 @@
+monocro off
+playstop
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_01c",lcartain,800
+`[line=3]有些在意下午的事，所以我往学校去了。@
+br
+`　……回想一下的话，在学校的时候爱尔奎特就变得有些奇怪了。@
+`　虽然没什么逻辑，我总觉得那家伙如果到处游逛的话，这个校舍会是她的目的地也说不定。
+\
+bg "bg/bg_03c",lcartain,800
+`　感觉不出有人在，连一点声音都没有。@
+bg #000000,crossfade,400
+bg "bg/bg_03c",crossfade,400
+`「…………呜」@
+`　虽然如此，我还是有种预感，有谁在，校舍里面。
+\
+wave se_01
+`　是什么呢。@
+!w500
+`　日落之后的这个校舍，变成了，
+!w500
+`　不详的『场』。
+\
+`「……进去吧，志贵」@
+`　没有时间犹豫了。@
+`　小声自言自语道，往校舍之中迈出脚步。
+\
+bg #000000,lcartain,800
+play "*6"
+bg "bg/bg_10c",lcartain,800
+waveloop se_02
+br
+`[line=4]一楼，不见人影。
+\
+bg #000000,lcartain,800
+bg "bg/bg_07b",lcartain,800
+br
+br
+br
+`[line=4]脖子背后一阵麻痹。@
+`　强忍住，爬上二楼。
+\
+bg #000000,lcartain,800
+bg "bg/bg_11c",lcartain,800
+br
+br
+br
+br
+br
+`[line=4]到了二楼。@
+`　没有人影。
+\
+wave se_08
+`　没有人影。@
+wave se_08
+`　没有、人影。@
+br
+`　然而。@
+`　背后，黏糊糊的。@
+`　像是蛇的腹部，既寒冷又柔软的感触。
+\
+`「[line=5]是谁！」@
+`　猛然回头。@
+`　在那里，确实。@
+ld c,"tachi/roa_t07a",notrans,0
+wait 100
+bg #000000,notrans,0
+\
+`「咦[line=4]？」@
+`　穿刺的声音。@
+`　下个，瞬间。@
+`　我的胸口，被切开了。
+\
+bg "bg/ima_12b",lshutter,400
+`　血流不止。@
+`　突然从背后被短刀贯穿胸口，切开了胸口的旧伤。@
+`「啊[line=5]」@
+`　身体倒下了。@
+br
+`[line=4]不明白发生了什么。
+\
+bg #000000,crossfade,800
+`　意识稀薄。@
+`　在这最后的瞬间。@
+br
+wavestop
+bg "bg/cmo_06",crossfade,800
+`　我看到了，遥远的夏日的影像，一遍遍在眼前重演。
+\
+bg #000000,crossfade,1500
+playstop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

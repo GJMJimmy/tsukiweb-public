@@ -1,0 +1,23 @@
+monocro off
+playstop
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+`　漫無目的地去鎮上閒逛。@
+`　為什麼，我會在這樣的地方，沒有任何意義的漫步呢？@
+br
+bg "bg/bg_25a",crossfade,400
+ld c,"tachi/ark_t22",crossfade,400
+bg "bg/bg_25a",crossfade,400
+`「[line=3]啊」@
+`　是錯覺啊。@
+`　那傢伙不會還留在這裡的，而且我也沒有主動跟她打招呼的理由。
+\
+`　那麼，為什麼會有那樣的錯覺。@
+`　為什麼會[line=3]毫無意義地，一個人在鎮上瞎逛。@
+br
+`「……該回家了」@
+`　我彷彿為了讓醉了的自己清醒似的搖搖頭，轉身離開那愛爾奎特的幻影。
+\
+bg #000000,crossfade,800
+!w1000

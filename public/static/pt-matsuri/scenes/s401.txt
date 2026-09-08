@@ -1,0 +1,210 @@
+play "*3"
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… Embora eu ache que ela vai recusar, o que vai acontecer se eu pedir para a Hisui?@
+`"…… Ela está na sala de estar."@
+` Estou meio animado com essa situação.@
+` Eu devia pedir logo para ela.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34c",lshutter,800
+playstop
+ld c,"tachi/his_t08",lshutter,400
+`"Eu me recuso."@
+br
+` Nem um segundo após eu ter pedido…
+` Com um contra-ataque incrível, ela destrói o meu plano.
+\
+play "*3"
+cl c,lshutter,400
+`"E…… Entendi.@ Você está muito ocupada, né?"@
+` Derrotado, caio como um soldado ferido.@
+`"Desculpa te incomodar.@ Pode continuar o que estava fazendo."@
+` Lentamente refaço o meu caminho para o saguão.
+\
+`"Por favor, espere, Shiki-sama.@
+` Hum… Não é que eu não queira preparar algo para você……"@
+`"Hã………?"@
+` Eu me viro sem nem pensar.@
+` E então[line=3]
+ld c,"tachi/his_t26",lshutter,400
+` O semblante da Hisui está muito fofo.
+\
+`"E-eu só pensei que, como você está acostumado com a comida da Nee-san e a minha não chega nem aos pés…"@
+` Inquieta, ela continua falando de uma forma meio desconfortável.@
+`"E-eu quero que você prove da minha comida quando a minha habilidade na cozinha melhorar…"@
+`"[line=7]"@
+` Q…… Que coisa mágica ela disse!@
+` Aquele "eu me recuso" de antes foi um grande choque, mas comparado ao que ela acabou de dizer, não foi nada demais.
+\
+`"Como assim, Hisui?@ Eu vou comer qualquer coisa que você fizer, não precisa se preocupar com essas bobagens."@
+ld c,"tachi/his_t23",crossfade,400
+`"………… Não, eu não vou preparar nada.@ Por favor, peça para a Nee-san te preparar alguma coisa."@
+`"…… Não, eu quero mesmo é algo feito por você.@ Se eu quisesse a comida da Kohaku-san, teria pedido pra ela primeiro.@
+` Vim aqui pedir pra você[line=3]porque quero comer a sua comida."
+\
+ld c,"tachi/his_t04",crossfade,400
+` A Hisui apenas me observa, sem responder.@
+`"………… Hum."@
+` Se é assim que vai ser, então vou ficar aqui na sala de estar até ela dizer que vai me preparar algo.@
+`"……"@
+ld c,"tachi/his_t08",crossfade,400
+`"………"
+\
+`"…………"@
+`"……………"@
+`"………………"@
+`"…………………"@
+`"……………………"@
+`"………………………"@
+`"…………………………"@
+`"……………………………"
+\
+` Continuamos encarando um ao outro sem dizer nada.@
+` …… Mas que coisa!@
+` Como é que terminou assim?
+\
+`"…… Entendido.@ Já que não se importa com o resultado, vou preparar algo para você."@
+`"[line=3]!@ Oba!@ É sério mesmo, Hisui!?"@
+ld c,"tachi/his_t09",crossfade,400
+`"Sim.@ Mas só por insistência sua, agora você vai colher o que plantou."@
+cl c,lshutter,800
+`"Hein………?"@
+` Dizendo algo muito sinistro, a Hisui vai na direção da cozinha.
+\
+bg #000000,crossfade,800
+bg "bg/bg_34c",tshutter,800
+`"[line=6]Hehe.@ Ehehehehe hehehe."@
+` Começo a rir, todo descontrolado.@
+` Logo ali na cozinha, bem atrás daquela parede, a Hisui está fazendo algo para eu comer, ela está fazendo só para mim.@ Quando penso nisso, não consigo conter o meu sorriso.
+\
+` Embora a Kohaku-san prepare a comida todo dia, ela faz isso com tanto profissionalismo que mais parece um cozinheiro profissional, e não ela, quem preparou as refeições.@
+br
+` Por outro lado, nunca vi a Hisui cozinhando, por isso estou muito animado.
+\
+`"…… A Kohaku-san disse que a Hisui não era boa cozinheira, mas……"@
+` Bem, mesmo assim, não acredito que ela vá fazer alguma coisa que seja impossível de se comer.@
+` Quando se tem um paladar normal, é impossível fazer algo que seja completamente não comestível.
+\
+` ……@
+` ………@
+` …………@
+` ……………@
+` ………………@
+` ………………… Mas.@
+` Ela não está demorando demais não?
+\
+playstop
+`"Kya[line=2]!?"@
+br
+` [line=3]E então,
+` escuto um barulho muito alto vindo da cozinha.@
+br
+`"Hisui!?"
+\
+bg "bg/bg_35",lshutter,400
+`"O que aconteceu, Hisui!?"@
+` Corro para a cozinha.@
+`"[line=4]Ah."@
+` Assim que entro, me surpreendo muito.@
+` Ela só poderia estar planejando fazer um banquete, pela quantidade de ingredientes que estão espalhados por toda a cozinha.@
+br
+` Tem uma faca presa em uma tábua de cortar carne parecendo uma lápide ou talvez uma espada sagrada de alguma lenda.
+\
+` E no fogão, a fumaça preta sobe de uma frigideira.@
+`"Hum…… Hisui?"@
+ld c,"tachi/his_t05",lshutter,800
+`"……………………"@
+` Ela abaixa a cabeça, envergonhada.@
+`"Hum.@ Eu teria ficado feliz com algo leve.@ Alguma coisa simples, tipo panquecas."@
+ld c,"tachi/his_t08",crossfade,400
+`"…… Shiki-sama, embora você diga isso, panquecas não são tão simples de se fazer."@
+` A Hisui fala com uma sinceridade tão profunda que parece brotar do fundo do seu coração.@
+` …… Nossa.@ Ela realmente é uma péssima cozinheira[line=3]
+\
+`"Hisui, me deixa ver a sua mão."@
+ld c,"tachi/his_t28",crossfade,400
+`"Hã…… A minha mão?"@
+` Relutante, ela me mostra a mão.@
+`"Como pensei.@ Você se cortou, não foi?"@
+`"…… Sim.@ Não fui capaz de lhe preparar nada adequado e agora ainda apresento a você essa cena deplorável."@
+`"Deixa de bobagem, eu não falei nada disso.@ Se você se cortou, não deveria se forçar a[line=3]"@
+br
+` Ela não deveria se forçar a continuar, deveria cuidar do machucado.
+\
+`"…… Shiki-sama?"@
+` O dedo branco da Hisui está tingido de vermelho.@
+` A ponta do seu dedo[line=4]está tomada pela cor vermelha.@
+`"[line=3]Isso é ruim.@ Foi bem profundo o corte."@
+` Dito isso, pego o seu braço.@
+ld c,"tachi/his_t15",crossfade,400
+`"[line=4]!"@
+` O corpo dela se retrai notavelmente.@
+` Eu nem dou atenção.@ Agora só consigo pensar em tratar desse ferimento.
+\
+play "*8"
+bg "event/his_e05",crossfade,800
+`"Ah[line=4]"@
+` É a voz da Hisui.@
+br
+` [line=3]Não dou atenção.@
+` Igual a quando eu era criança, coloco o dedo dela na minha boca e lambo o sangue.
+\
+`"……… Shiki[line=2]sama."@
+br
+` [line=3]O seu dedo fino.@
+` O vermelho do sangue não combina em nada com esse dedo branquinho.@
+` Por isso eu quis limpá-lo rapidamente.
+\
+`"…… Por favor, pare, Shiki… sama……"@
+br
+` [line=3]Por quê?@
+` O sangue da Hisui é extremamente[line=3]
+\
+`"………… Ah."@
+br
+` [line=5]Doce.@
+` O sangue dela é doce e, apenas lamber o seu dedo, deixou o meu corpo quente desse jeito[line=3]
+\
+`"…………………"@
+br
+` [line=3]Não consigo ouvir a sua voz.@
+` Olho para cima e vejo o rosto da Hisui.@
+` As suas bochechas estão muito coradas.@ Os seus olhos[line=4]um azul tão profundo.@
+` …… Anos atrás[line=4]esses cabelos vermelhos que estavam tão próximos de mim.
+\
+!w2000
+bg #ffffff,crossfade,800
+playstop
+bg "bg/bg_35",notrans,0
+`"[line=5]!"@
+` Eu me afasto dela.@
+` O que… O que é que eu estava fazendo[line=3]
+ld c,"tachi/his_t21",crossfade,400
+` A Hisui apenas abaixa a cabeça, sem se mexer.@
+`"………… Ah."@
+` Eu[line=4]embora eu soubesse que ela detesta ter contato com homens, eu lambi o seu dedo[line=4]e suguei o seu sangue por muito tempo.
+\
+`"…… Desculpa.@ Eu não deveria ter feito isso[line=3]"@
+` Eu realmente não deveria ter feito isso.@
+` Isso aqui é o mundo real, eu não estou dentro de um sonho dessa vez!@
+` Gostar de sugar o sangue de alguém[line=4]não era algo que acontecia apenas nos meus sonhos[line=3]
+\
+ld c,"tachi/his_t26",crossfade,400
+`"…… Você só estava cuidando do meu machucado.@ Não precisa se desculpar."@
+`"[line=3]Não, é que eu[line=3]"@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_35",crossfade,400
+br
+` [line=3]Eu não consigo.@ Não consigo olhá-la nos olhos.@
+` O gosto do seu sangue continua na minha boca.@
+` Não consigo esquecer da sensação de chupar o dedo dela.@
+br
+`"[line=3]Olha, me desculpa.@ Eu sei que fui eu quem pediu, mas vou aguentar ficar sem comer até a hora do jantar.@ Vou voltar para o meu quarto[line=4]e não quero ser incomodado."@
+ld c,"tachi/his_t20",crossfade,400
+` A Hisui não diz nada.@
+` Fujo para o meu quarto, escapando do seu olhar mudo.
+\
+bg #000000,lcartain,800
+!w2000

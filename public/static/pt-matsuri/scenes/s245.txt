@@ -1,0 +1,36 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` A Senpai só pode estar brava por causa do incidente de hoje de manhã.@
+` …… Ela não parecia brava naquela hora, mas se realmente está, então seria melhor não nos econtrarmos mesmo.
+\
+`"…… É, talvez seja melhor comer no refeitório hoje."@
+`"Pois é.@ Vamos logo.@ Só tem lugares suficientes para metade das pessoas que usam o refeitório."@
+` Ele me puxa pelo braço e sai me arrastando.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Eu sento ao lado do Arihiko e começo a almoçar.@
+` No refeitório da escola tem uma televisão, e para o melhor ou pior da nossa educação, eles colocam o noticiário que gravam toda manhã.@
+` De qualquer forma, o noticiário está falando sobre um cliente bêbado que esfaqueou até a morte um funcionário de uma loja de conveniência, algo que me faz não querer ir a uma loja dessas pelo menos por alguns dias.
+\
+ld c,"tachi/ari_t04",crossfade,400
+`"Mas que mundo perigoso este em que vivemos.@ Assassinos em série indiscriminados, bêbados esfaqueando pessoas.@ Um homem não consegue mais se sentir seguro ao sair para se divertir à noite."@
+` Ele parece estar assistindo ao noticiário com atenção.
+\
+`"…… Bem perigoso mesmo.@ Mas pelo menos os assassinatos em série não vão acontecer mais, então as coisas devem voltar ao normal."@
+`"Sério?@ Pegaram o assassino em série?"@
+`"Não, não pegaram ele…"@
+br
+` [line=3]Mas o Nrvnqsr não está mais neste mundo.@
+br
+` Por isso o título ridículo sobre os assassinatos do vampiro moderno não deve mais aparecer nos noticiários, e não haverá mais nenhuma dessas mortes sem sentido.
+\
+`"De qualquer forma, esses incidentes terríveis não vão acontecer mais.@ Não haverá mais nenhuma vítima, e as ruas vão voltar ao normal."@
+`"Hummm, eu não sabia.@ Acho que devia assistir com mais frequência os noticiários."@
+` Com uma expressão muito séria, o Arihiko volta a assistir o noticiário com bastante atenção.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

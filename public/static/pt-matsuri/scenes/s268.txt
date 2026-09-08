@@ -1,0 +1,31 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_27b",notrans,0
+` Tenho que dizer a ela na cara dura para cair fora.
+\
+`"Senpai, não precisa se preocupar comigo, por favor, vá embora.@ As coisas vão ficar feias se continuarmos assim."@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Hein?@ Feias?@ O que quer dizer com isso?"@
+` …… Ela nem parece estar me ouvindo.
+\
+`"[line=3]Olha, por que não me escuta?@ Você não disse que eu podia fazer o que quisesse?@ Por que ainda está me atrapalhando!?"@
+`"Como eu disse, faça como quiser.@ Também estou fazendo o que bem entendo."@
+cl c,lshutter,800
+` Ainda sorrindo, ela anda na minha frente.
+\
+`"Ei[line=3]Senpai!"@
+ld c,"tachi/cel_t07b",lshutter,400
+`"Hum?@ O que foi, Tohno-kun?"@
+`"O que foi!?@ Você se diverte me perturbando desse jeito!?"@
+ld c,"tachi/cel_t01b",crossfade,400
+` Ela sorri.@
+` …… Parece que realmente está se divertindo.
+\
+`"…… Eu já entendi.@ Entendi que você é uma pessoa má, mas me deixe em paz hoje.@ Se continuar me seguindo, a coisa não vai ficar feia só pra mim, mas pra você também."@
+`"Ah, sério mesmo?@ Mas nem estou seguindo você."
+\
+`"Hã[line=3]?"@
+`"Eu tenho um assunto pra resolver no parque.@ Não faço a menor ideia aonde você está indo, Tohno-kun, mas se não estiver indo ao parque, então é aqui que nos separamos."
+\
+cl c,crossfade,400

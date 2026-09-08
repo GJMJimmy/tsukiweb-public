@@ -1,0 +1,83 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` And now the hint corner for the sake of the precocious Tohno-kun who easily meets another Dead End,
+` It is time for "Teach me, Ciel-sensei!"@
+br
+` Now, the first period lesson of the third day.@ The only remaining lessons are about Akiha-san's route.
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Nnya?@ Sensei, why would Hisui's lessons be done before Akiha's?"@
+br
+` Question denied.@
+` Now, Tohno-kun.@
+` I understand how you feel, but Yumizuka-san is in big trouble.@
+br
+`"????@ Isn't Shiki the one in trouble?"
+\
+` Enough, it is big trouble.@
+` A girl your own age is in trouble, so this is no time to be shying away from danger.@
+` Please go back a little earlier and be sure to investigate the back alley.@
+` Well then, see you in the next lesson!
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t31a",lshutter,400
+`"…… I don't get it.@ Why would Hisui be done before Akiha?"@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+`"I just don't get it.@ I'm the main heroine and I don't get much screen time, and Shiki ignores me!"@
+br
+ld r,"tachi/ark_t31b",lshutter,400
+`"Yeah, I don't get it!@ It's just me, and even Ciel has an appearance!@ But you only get to see me from behind.@ What's more, Sacchin is acting more like a vampire than I am!@ What the heck is this, Kinoko!?"
+\
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+wait 100
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+wait 100
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+br
+br
+br
+br
+br
+br
+br
+`"I just don't get it.@ Don't get it, don't get it!!!"
+\
+bg #000000,crossfade,800
+playstop

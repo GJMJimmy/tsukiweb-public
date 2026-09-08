@@ -1,0 +1,29 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"…… Humm.@ Acho que a Akiha fica ótima com o que está usando agora.@ Como ela tem esse cabelo tão bonito, acho que roupas muito coloridas não combinam com ela."@
+ld c,"tachi/ari_t01",crossfade,400
+`"Nossa, que coisa rara ver o Tohno elogiando a aparência de uma mulher assim.@ Acho que é a primeira vez que você faz isso, né?"@
+`"Cala a boca.@ Apenas expressei a minha opinião.@ Acho que ela fica mais bonita com o uniforme de marinheira, por isso não quero vê-la usando um blazer."@
+ld c,"tachi/ari_t05",crossfade,400
+`"Huuuuuuuumm." O Arihiko dá um sorrisinho malicioso.
+\
+`"[line=4]Ah."@
+` …… Droga, ele me pegou.@
+ld c,"tachi/aki_t16a",crossfade,400
+` A Akiha está olhando para o outro lado em silêncio.
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"Agora eu já saquei tudo… É por isso que o Tohno nem liga pras garotas daqui.@ Ele está acostumado a ver a Akiha-chan todos os dias, aí as garotas da nossa escola não são nada em comparaçAAAAAAAAA!!?"@
+quakex 2,150
+cl a,lshutter,400
+ld c,"tachi/cel_t04",lshutter,400
+`"Desculpe, Inui-kun.@ A minha mão escorregou."@
+` A Ciel-senpai ri gentilmente enquanto dá uma cotovelada no estômago do Arihiko.@
+br
+` …… Poxa.@
+` Eu ainda vou ter que continuar a viver essa situação estressante por quase dez minutos…………
+\
+playstop
+bg #000000,crossfade,800

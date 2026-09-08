@@ -1,0 +1,777 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+ld c,"tachi/stk_t04",crossfade,400
+`"Ah[line=3]"@
+` A Yumizuka está tremendo.@
+` Respirando com dificuldade, ela cai de joelhos.
+\
+cl a,crossfade,400
+play "*6"
+` Ela começa a tossir.@
+` Agachada no chão, sua tosse intensifica e ela começa a tossir sangue puro.@
+`"[line=3]Yumizuka!?"@
+` Desta vez, vou correndo até ela.@
+`"Yumizuka, o que você tem?@ Yumizuka…!"@
+` Coloco a mão no seu ombro.@
+`"Ah[line=3]"@
+` Sinto um calafrio.@
+` Mesmo tocando em suas roupas, consigo sentir como o corpo dela está frio.
+\
+`"Sua idiota, você está congelando!@ O que deu na sua cabeça para ficar na rua a essa hora da noite!?"@
+`"[line=3]Shiki[line=4]kun…"@
+` É uma voz vazia que chama pelo meu nome.@
+` Ela desmorona em cima de mim.@
+br
+` Sinto sua respiração quente em minha pele enquanto ela arfa.
+\
+`"Yumi… zuka?"@
+`"Não tem problema você não gostar de mim, Shiki-kun.@ Porque eu também não conseguia te entender direito até este momento."@
+` Ela fala e tosse.
+\
+`"Acalme-se e pare de falar…!@ Vou te levar para o hospítal agora mesmo…!"@
+`"Mas agora eu entendo.@ Entendo quem você é e o que quer fazer.@ Finalmente eu consegui entender.@
+` Porque[line=3]"@
+`"Hã[line=3]?"@
+`"Porque me tornei alguém como você, Shiki-kun[line=3]!"@
+` Dizendo isso, a Yumizuka enfia suas presas no meu pescoço.
+\
+bg #9c0120,crossfade,800
+`"Ah[line=4]"@
+` Desaparecendo.@ A minha consciência está desaparecendo.@
+` As presas da Yumizuka entram fundo no meu pescoço.@
+`"[line=7]"@
+` Estou sendo sugado.@
+` É como se a minha vida tivesse sido transformada em líquido e depois ingerida por ela.@
+` Não consigo pensar, agora que as minhas forças foram sugadas.@
+` Então[line=4]quer dizer que[line=3]a minha consciência não está desaparecendo.@
+` Está simplesmente sendo destruída.
+\
+`"[line=7]Ah."@
+` Não consigo mais pensar.@
+` Eu sei que vou morrer se continuar desse jeito, mas eu nem sequer consigo[line=4].@
+br
+wave se_01
+bg #ffffff,notrans,0
+wait 100
+bg #9c0120,notrans,0
+` Isso não faz sentido.@
+` De algum lugar bem distante da minha mente, meu sangue começa a ferver.@
+`"Yumizuka[line=4]!"@
+` Empurro-a para longe por puro reflexo.
+\
+bg "event/stk_e02",lshutter,800
+` Ela cai de bunda no chão.@
+`"O que você está[line=4]"@
+` Eu me levanto.@
+` Não, eu não consigo me levantar.@
+` Estou tão exausto que mal consigo levantar um braço.@
+` A Yumizuka continua sentada, como se estivesse embriagada.
+\
+`"Ah[line=4]"@
+` Não consigo distinguir o seu rosto.@
+` Está ficando tudo embaçado.@
+` Não consigo controlar o meu próprio corpo.@
+` A única coisa que consigo sentir é a dor no meu pescoço.@
+` O sangue começa a jorrar da ferida.@
+` As marcas dos dentes dela continuam no meu pescoço.@
+` E por esses dois buracos, algo negro começa a entrar no meu corpo[line=3]
+\
+` Ele reveste as minhas veias.@
+` A coisa negra me viola por completo.@
+` Meu corpo começa a queimar quando um pouco dessa coisa negra entra nas minhas veias.
+\
+wave se_01
+`"Ah[line=3]guhhhh!"@
+` Que dor!@ É como se a minha coluna estivesse prestes a se partir.@
+wave se_01
+`"Haa[line=3]arghhh!"@
+` A dor me faz arranhar o chão com as unhas.@
+` Mas isso não me traz alívio algum.@
+` Não consigo me mexer, porque a Yumizuka me sugou completamente, e a dor domina o meu corpo como uma cobra negra me esmagando.@
+` A coisa negra se arrasta e se enrola dentro de mim como bem entende.
+\
+`"Haa[line=3]ah, ah[line=3]"@
+` Eu arranho o chão com as unhas.@
+` A Yumizuka me encara… Com… Olhos vidrados.@
+`"Yumi… zuka… O que você fe…!"@
+`"Fique tranquilo, só dói no início.@ Quando o sangue se misturar a dor vai parar."
+\
+`"Não precisa se preocupar que não vou te matar.@ Eu coloquei o meu sangue em você da forma correta; não vai te acontecer o que houve com as falhas de ontem.@ De agora em diante, você só vai ter olhos para mim."@
+` Ela sussurra alegremente.@
+`"Do que[line=3]está falando… Yumizu… ka[line=3]?"@
+`"Estou te transformando no mesmo que eu sou, Shiki-kun.@ Estou te transformando em uma criatura noturna que se alimenta de sangue em vez de comida normal e que também não pode andar sob a luz do sol.@ Você vai se tornar um ser completamente diferente."@
+br
+` …… Do que ela[line=4]está falando?@
+` Que coisa ridícula, é como se estivesse dizendo que me transformou em um[line=2]
+\
+`"Isso mesmo, um vampiro.@ Eu mesma não entendo como fiquei deste jeito.@
+` Duas noites atrás, eu saí de casa para verificar aquele boato de que você estava perambulando à noite pelo distrito comercial, e quando percebi, estava deitada naquele beco estranho.@
+` Naquela noite, eu só sentia frio e dor em meio à escuridão."
+\
+`"O mais estranho é que depois de um tempo, depois que o meu corpo mudou completamente, eu consegui entender um monte de coisas.@
+` O meu corpo doía porque estava sendo destruído a uma velocidade absurda, e a luz do sol agia como um catalisador para que isso acontecesse.@ E para fazer com que a destruição parasse, eu precisava da informação genética do mesmo tipo de organismo vivo que eu."
+\
+`"Eu não entendi muito bem a lógica disso tudo, mas estava bem claro o que eu precisava fazer.@
+` Eu estava com muito frio e me sentindo muito solitária.@ Eu não queria desaparecer, por isso peguei a primeira pessoa que vi pela frente e suguei o seu sangue.@
+` E quer saber de uma coisa?@ Foi delicioso!@ A dor desapareceu completamente e eu senti que era capaz de fazer qualquer coisa."
+\
+`"Mas foi tão bom que, antes que eu percebesse, já havia acabado.@
+` O homem ficou seco e enrugado, como se tivesse virado uma múmia, e foi aí que eu me senti muito mal.@ Pensei comigo mesma que estava me transformando em um monstro, tanto de corpo quanto de alma.@
+` [line=3]Mas era o que eu precisava fazer para sobreviver.@
+` É como eu disse, não os matei porque os odiava.@ Eu sugo o sangue dos outros da mesma forma que vocês comem os animais.@ Por isso decidi não ficar pensando muito sobre o assunto."
+\
+`"O qu[line=3]"@
+` O que… Está acontecendo?@
+` Ela está dizendo que não tem problema matar outras pessoas para poder sobreviver?@
+` Isso é… Eu…
+\
+`"Ao que parece, me tornei uma vampira de verdade.@
+` A refeição de hoje foi bem divertida.@ Até hoje, estive sugando sangue para acabar com a dor e o frio que sinto, mas agora que estou ficando boa nesse negócio de sugar sangue, está virando algo bem interessante de se fazer.@
+` Você me entende, não é mesmo, Shiki-kun?@ Você é um assassino muito melhor do que eu."@
+`"O qu[line=3]"@
+` O quê…?
+` Do que essa garota está falando?
+\
+`"Eu estive te observando.@ Por isso conheço o seu lado gentil e o seu lado assustador.@
+` Eu nunca conversava com você porque não entendia o seu lado assustador."
+\
+`"Mas agora eu entendo.@ Você é igual a mim.@
+` Não importa se você gosta ou odeia as pessoas.@ Você consegue matar qualquer um, não é mesmo?"@
+`"Deixa de ser[line=4]ridícula."@
+` Nunca na minha vida eu pensei dessa forma.@
+`"Não estou sendo ridícula!@ Eu nunca tinha entendido aquela atmosfera frágil que te cercava, mas consigo entender perfeitamente agora que meu corpo mudou.@
+` Shiki-kun, a sua própria existência é um convite à morte.@
+` Existem muitos assassinos natos neste mundo, mas você é o melhor até entre eles."
+\
+`"Sabe, ontem eu estava muito feliz.@ Foi a primeira vez que fiquei feliz depois de ter me tornado o que me tornei.@
+` E isso aconteceu porque eu finalmente te entendi, Shiki-kun.@ Eu nunca tinha te entendido até então.@
+` Você é igual a mim, não é mesmo?@ Quando vê alguém, seu coração bate forte e a sua garganta fica seca sem motivo aparente."
+\
+`"Para de[line=4]mentir[line=4]uma sensação dessas[line=4]eu nunca."@
+bg #000000,crossfade,400
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=5]"@
+` Não posso dizer… Que nunca tive uma sensação dessas.@
+`"Viu?@ É um impulso homicida puro, que não tem a influência de emoções.@ Um lado frágil que sempre quis entender."
+\
+bg "bg/bg_29b",crossfade,400
+ld c,"tachi/stk_t10",crossfade,400
+`"Ah, estava esquecendo de mencionar uma coisa.@ Um vampiro é alguém que teve o seu sangue sugado por um vampiro.@
+` Isso é verdade mesmo.@
+` Para ser mais precisa, a pessoa que tem o sangue sugado morre.@ Os vampiros colocam o seu próprio sangue dentro do corpo da vítima enquanto as sugam para as transformarem em uma de sua própria espécie.@
+` Aquilo que estava entrando em você era o meu sangue."@
+` A Yumizuka diz isso com satisfação no olhar e se levanta.
+\
+`"…… Então[line=4]isso… É… O seu sangue?"@
+` A coisa negra que contamina o meu corpo.@
+` Não é nem uma quantidade significativa, mas causa uma dor inacreditável, forte o bastante para me enlouquecer.
+\
+`"Bem, acho que já deu.@ Levante-se, Shiki-kun."@
+` Ouço sua ordem.@
+` A dor desaparece.@
+` Consigo sentir meus membros novamente e finalmente sou capaz de me levantar.
+\
+ld c,"tachi/stk_t07",crossfade,400
+`"[line=3]Muito bem.@ De agora em diante, sempre estaremos juntos."@
+`"……"@
+`"Agora venha aqui.@ Fique junto a mim, segure a minha mão e faça eu me sentir melhor."@
+` Ela estende a mão.@
+br
+wave se_01
+` [line=4]Tu, dum.@
+br
+` Meu coração bate forte e as minhas pernas começam a se mexer.@
+` Mas elas não me levam para frente.@ Elas me levam para trás.
+\
+ld c,"tachi/stk_t08",crossfade,400
+`"Shiki…… kun?"@
+` Ela está perplexa.@
+br
+wave se_01
+` [line=4]Tu, dum.@
+br
+` Meu coração bate forte.@
+` A minha gargante está seca.@
+` Cada nervo do meu corpo reconhece essa criatura como uma inimiga.
+\
+` Começo a arfar.@
+` Essa sensação.@
+` Desesperadamente, resisto ao veneno do sangue da Yumizuka e ao impulso fervoroso que cresce dentro de mim.
+\
+ld c,"tachi/stk_t09",crossfade,400
+`"Por quê…?@ Ei, por que não está fazendo o que estou mandando…?"@
+br
+wave se_01
+` Tu, dum.@ Meu coração bate forte.@
+` Será que era esse o impulso do qual ela estava falando agora há pouco?@
+` Tu, dum, tu, dum.@ Meu coração bate audivelmente,
+` como se estivesse repetidamente me ordenando a matar… A matá-la.@
+br
+`"Shiki-kun, você[line=3]"@
+`"Pense direito, Yumizuka."@
+` Ela me observa enquanto respiro com dificuldade.
+\
+ld c,"tachi/stk_t11",crossfade,400
+`"Por quê[line=3]!?@ Por que o meu sangue não funcionou…!?"@
+`"…… Eu não sei, mas realmente tenho a sensação de que tem lama dentro do meu corpo."@
+` Isso deve ser o sangue vampírico da Yumizuka.@
+` Se apenas uma quantidade mínima dessas me fez sentir tão mal,
+` nem posso imaginar a dor que ela sente, já que o seu corpo está completamente preenchido por essa coisa.@
+br
+` …… Ela disse que doía.@
+` Agora entendo o que quis dizer com perfeição.
+\
+`"…… Pare logo com isso, Yumizuka-san.@ Fazer isso não vai te ajudar em nada.@ Você está doente.@ Precisa ir para o hospital, eles vão fazer o seu corpo voltar ao normal."@
+` …… Não quero que a garota que se importa tanto assim comigo continue sofrendo.@
+` Mas ela apenas me encara com muito ódio no olhar.
+\
+`"[line=3]Tenho certeza de que o meu sangue se misturou ao seu!@ Você já deveria ser parte do meu corpo…!@ Será que[line=4]já tem alguém controlando você…!?"@
+`"Eu já disse que não entendo nada dessas coisas que você diz, Yumizuka.@
+` Tudo que entendo é que[line=3]você disse estar solitária no escuro e sentindo frio.@
+` Tudo que me lembro é do seu rosto sorridente há dois dias, me pedindo para ajudá-la quando estivesse com problemas."
+\
+cl c,crossfade,400
+` …… Para ser sincero, não sei bem que tipo de criatura é um vampiro.@
+` Sei que você precisa matar e sugar o sangue dos outros para viver, e que eu preciso fazer você voltar a ser como antes.
+\
+`"…… Yumizuka.@ Você disse que estava sentindo dor."@
+ld c,"tachi/stk_t09",crossfade,400
+`"Sim.@ Mesmo agora continua doendo.@ Os meus vasos sanguíneos ainda são os mesmos de quando eu era humana, e por causa disso, o simples fluxo de sangue me faz sentir dor.@ Eles estouram facilmente por serem delicados e fracos.@
+` Mas se eu continuar a tomar muito sangue, não vou ter mais problemas."
+\
+`"Você disse que era doloroso."@
+`"Sim.@ Meu coração está doendo.@ Eu preciso tomar o sangue de outras pessoas para sobreviver.@ Não penso nisso como um crime, mas é doloroso.@ Tenho medo de que a pessoa que eu era possa desaparecer por completo.@ Mas eu não estaria com medo se não estivesse sozinha."
+\
+`"Você disse que estava frio."@
+`"Sim.@ Estou tão fria que parece que meus dedos vão congelar e cair.@ Mas não acho que seja uma coisa ruim.@ Simplesmente não posso mais sentir qualquer tipo de calor"
+\
+`"Você me pediu por ajuda[line=4]desesperadamente."@
+ld c,"tachi/stk_t03",crossfade,800
+`"E eu quero mesmo ser ajudada, só que é tarde demais.@ Não posso mais voltar a ser como era."@
+` A Yumizuka diz tudo isso comum sorriso igual ao daquele dia.@
+`"Por que[line=3]por que você acabou desse jeito…?"@
+ld c,"tachi/stk_t10",crossfade,400
+`"Por quê?@ Eu também queria saber.@ Quando acordei, meu corpo já estava assim juntamente com a sede por sangue humano.@ Teria sido mil vezes mais fácil se eu tivesse simplesmente morrido."
+\
+`"Mas agora não tem mais volta.@ Assim como os humanos comem os animais para viver, eu preciso comer os humanos para sobreviver."@
+`"O qu[line=3]como assim…!?@ Que besteira você está falando…!@ Para de dizer esses absurdos, Yumizuka[line=3]"@
+` Eu grito, incapaz de aceitar a realidade.@
+`"[line=3]"@
+` Ela apenas balança a cabeça.
+\
+`"Por quê…!?@ Está dizendo que não pode mais rir ou andar e conversar normalmente como antes?@ Foi… Foi há apenas dois dias…!"@
+ld c,"tachi/stk_t13",crossfade,400
+`"…… Pois é.@ Há apenas dois dias eu era uma criatura que estava do mesmo lado que você.@ Era como um sonho.@ Eu entendo muito bem agora que perdi tudo.@ [line=3]Realmente era como um sonho.@ Eu daria qualquer coisa para voltar no tempo."@
+`"Então[line=3]"@
+`"Só que é impossível.@ Não tem como mais voltar.@ Agora eu preciso viver assim.@ Sozinha, no frio e sentindo dor."@
+playstop
+cl a,tshutter,800
+` Ela abaixa a cabeça.@
+` Seu corpo frio treme.
+\
+ld c,"tachi/stk_t04",crossfade,400
+`"[line=3]Por favor, me ajuda, Shiki-kun."@
+` Uma voz fraca escapa da sua garganta.
+\
+`"Eu estou com medo.@ Está muito frio e, independente de onde eu vá, continuo sozinha.@ Por isso[line=4]eu peço[line=3]por favor, me ajuda."@
+` …… Eu entendo.@
+` Eu me lembro da promessa insignificante que fiz dois dias atrás.@
+br
+`"[line=3]Tudo bem.@ Farei tudo que estiver ao meu alcance."@
+br
+` …… Estou falando sério.@
+` Para te fazer voltar a ser a velha Yumizuka Satsuki, eu faço qualquer coisa.@
+` Mas…
+` A resposta dela é bem diferente da minha.
+\
+ld c,"tachi/stk_t03",crossfade,800
+`"…… Ahaha.@ Ah, Shiki-kun, você ainda está com essa ideia de me fazer voltar ao normal?@
+` …… Você realmente é muito gentil mesmo, né!?@ É uma contradição enorme alguém que ama matar ser tão gentil assim em relação à todas as outras coisas."@
+` Ela ri.
+\
+`"Já te disse que é impossível.@ Você não pode me ajudar nesse quesito."@
+`"O qu[line=3]então o que eu posso fazer…!?@ Não me resta mais nada.@ Eu quero muito te ajudar, mas essa é a única coisa em que pude pensar…!"@
+`"Não é verdade.@ Tem uma coisa que você pode fazer pra me ajudar sim."@
+cl c,lshutter,800
+` Dizendo isso, ela caminha na minha direção.@
+br
+wave se_01
+` [line=3]Tu, dum.@
+` Um calafrio percorre as minhas costas, me avisando do perigo.
+\
+`"[line=2]De que forma posso te ajudar, Yumizuka?"@
+br
+waveloop se_02
+`"É facinho.@ Basta se tornar meu amigo…!!"@
+ld c,"tachi/stk_t02",tshutter,400
+`"Q[line=3]!"@
+` Os olhos vermelhos e penetrantes me encaram e não consigo respirar por causa deles.@
+br
+` [line=3]Isso não é bom.@
+` Sei muito bem disso, mas minhas pernas não se mexem.
+\
+`"Amigo[line=4]o qu[line=3]"@
+`"Assim eu não ficarei mais sozinha, nem sentindo frio ou medo.@
+` Na verdade, se você for meu, eu vou ser muito mais feliz do que quando era humana[line=3]!"
+\
+bg #9c0120,lshutter,400
+br
+` [line=3]TU, DUM.@
+br
+` Meu coração acelera muito.@
+` A Yumizuka se aproxima com seu braço estendido, vindo na direção do meu pescoço.@
+` Ela vem na mesma velocidade de uma bala de revólver.@
+` Mas, de alguma forma, consigo vê-la perfeitamente[line=3]ou talvez eu tenha sentido que vi perfeitamente e me joguei no chão.
+\
+quakey 2,50
+`"[line=3]Guh…!"@
+` Eu giro a cabeça desesperadamente e me jogo com força no chão.@
+` Como uma lufada de vento,
+` os braços da Yumizuka passam sobre a minha cabeça.@
+bg "bg/bg_29b",rshutter,400
+br
+`"Haa[line=4]ah."@
+`"[line=3]Não pode ser."@
+` A caça e o caçador.@
+` Nós nos encaramos espantados.
+\
+`"Yumizuka, você[line=3]"@
+ld c,"tachi/stk_t09",crossfade,400
+`"Shiki[line=5]kun?"@
+` Ela me observa de cima, chocada.@
+` Eu[line=3]sei que preciso fugir, mas o meu corpo ainda está paralisado.@
+br
+` Tu, dum.@
+br
+` Meu coração bate forte, como um sino de igreja.@
+` Mesmo com a minha mente estando paralisada, a minha mão agarra algo no meu bolso.
+\
+` A Yumizuka não se mexe.@
+` Apenas seus olhos mudam, de surpresa para prazer.
+\
+ld c,"tachi/stk_t08",crossfade,400
+`"…… Já entendi tudo.@ Pensei que seria fácil te tornar minha posse, mas[line=3]"@
+br
+` Tu, dum.@
+br
+ld c,"tachi/stk_t02",crossfade,400
+`"Esta noite vai ser muito divertida, não é mesmo, Tohno-kun?"@
+` Seus olhos vermelhos e penetrantes estão sedentos por sangue.@
+` Seus braços se abrem selvagemente, sem demonstar qualquer misericórdia.
+\
+cl a,lshutter,400
+` Todos os fios de cabelo do meu corpo se arrepiam.@
+` Antes de eu ser despedaçado,
+` a minha mão pega a faca do meu bolso.@
+br
+` Tu, dum.@
+br
+bg "bg/ima_14",lshutter,400
+wave se_06
+`"[line=5]Hã?"@
+` O movimento do meu braço é mais rápido do que a minha voz.@
+` Com apenas o som do vento, a faca corta a coxa da Yumizuka.
+\
+bg "bg/bg_29b",rshutter,400
+`"Kyaaaa!"@
+` Ela solta um grito estridente.@
+br
+` [line=3]Olho chocado para o meu próprio braço.@
+br
+` E vejo a faca ensanguentada que acabou de cortar a coxa dela.@
+`"…………… Ah."@
+` Meus sentidos voltam.@
+` E meu corpo se mexe.@
+br
+` [line=3]Antes de perceber a situação,
+` já estou tremendo e fugindo da Yumizuka.
+\
+bg #000000,lshutter,400
+play "*4"
+bg "bg/bg_28b",lshutter,400
+` Respiro com muita dificuldade.@
+` Eu simplesmente corri.@
+`"Por que[line=3]por que eu[line=3]"@
+` Eu não sei.@
+` Não entendo o motivo, nem mesmo sei como a esfaqueei.@
+` Tu, dum.@ Meu coração bate audivelmente.@
+` Eu simplesmente cortei sua perna sem saber como.
+\
+` *arf* *arf* *arf* *arf*[line=3]!@
+` O sangue da Yumizuka escorre pela faca.@
+` A sensação de ter cortado carne permanece no meu braço.@
+`"Por que[line=3]"@
+` Sério, por que fiz isso com ela?@
+` Eu só[line=3]eu só queria ajudar a Yumizuka Satsuki.
+\
+wave se_01
+`"Guh[line=3]"@
+` Só de lembrar do seu rosto já faz meu coração acelerar mais ainda.@
+` Medo e excitação.@
+` Ela está tentando me matar.@
+` O meu coração bate em resposta ao perigo.@
+` Eu, Tohno Shiki, não posso competir com aquela criatura.@
+` É como uma maçã e um ser humano.@ Como é que aquela que está sendo comida pode se opor àquele que a come?
+\
+` Essa é a situação.@
+` Assim como Tohno Shiki come um tomate sem oposição alguma… Para a Yumizuka Satsuki, não sou nem um pouco diferente de um tomate.@
+` Se ela me encontrar…@
+` Se ela me alcançar, vai me matar.@
+br
+` Por isso estou fugindo.@
+` Eu corro e ainda sinto que estou vivo.
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+` Corro noite adentro.@
+` Por enquanto, apenas corro.@
+br
+` [line=6]Mas para quê?@
+br
+` Essa é fácil.@
+` É porque se não correr vou ser pego.@
+` Sinto a presença da Yumizuka Satsuki atrás de mim.@
+` A presença que não passava de uma pedra no sapato, fica muito maior e mais ameaçadora.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` *arf* *arf* *arf*[line=4]!@
+` Eu corro para não ser pego.@
+` Mas de quem estou fugindo?
+\
+bg #000000,crossfade,800
+bg "event/stk_e03",crossfade,800
+br
+` …… Foi um sorriso muito bonito.@
+` O rosto sorridente da Yumizuka Satsuki se lembrando da época em que fazíamos o ensino fundamental II… Foi um sorriso muito puro.@
+br
+`"Mer… da…!"@
+br
+` Por que isso teve que acontecer…!?@
+` A Yumizuka se tornou um monstro que mata as pessoas e bebe sangue[line=4]
+\
+wave se_10
+quakey 1,50
+bg "bg/bg_25b",tcartain,400
+`"[line=4]!?"@
+` Subitamente sou atingido nas costas e caio no chão.@
+`"U[line=3]gh[line=4]uh…!!"@
+` Como fui derrubado enquanto corria, fiquei cheio de machucados.@
+` Mas as minhas costas doem mais do que qualquer outro machucado.@
+` Recebi um impacto nas costas como se uma arma pesada tivesse me atingido, e, por causa disso, está impossível respirar.
+\
+`"O que[line=3]"@
+` Eu começo a falar, mas as palavras desaparecem.@
+br
+` Alguma coisa cai ao meu lado.@
+` A coisa que me acertou nas costas está rolando.@
+br
+`"Uma… Pessoa…"@
+` É um cara[line=4]com os braços e as pernas torcidas.
+\
+`"[line=6]Ah."@
+` O sangue jorra do corpo do homem.@
+` O sangue escorre pelo asfalto e me mancha de vermelho.@
+` Isso é…
+` um corpo humano sem cabeça.
+\
+`"Ahh, não era pra te acertar.@ Meus reflexos melhoraram, mas acho que é um problema sério se a minha mira for muito precisa."@
+` Uma voz satisfeita fala por trás de mim.@
+`"Ah[line=3]"@
+` Ainda no chão, olho para trás.@
+` E o que vejo
+` é a Yumizuka Satsuki caminhando[line=4]com uma cabeça de um ser humano em uma das mãos.
+\
+ld c,"tachi/stk_t02",lshutter,800
+`"Desculpa, Shiki-kun; está doendo, né?@ Eu só queria te surpreender jogando ele na sua frente."@
+` Enquanto se desculpa, ela joga a cabeça cortada para longe.
+\
+`"Yumizuka, que foi isso[line=3]"@
+`"Hum?@ Ah, está falando disso?@ Eu me encontrei com ele enquanto estava te perseguindo.@
+` Ele estava falando demais, por isso arranquei sua boca fora.@ Até provei do seu sangue, mas o sangue de bêbados tem um gosto bem desagradável.@ Shiki-kun, você também deve escolher apenas corpos de jovens e saudáveis."
+\
+cl a,lshutter,1500
+` Enquanto fala normalmente, ela se aproxima, sorrindo.@
+` Não é nem um pouco parecido com o sorriso daquele dia.
+\
+` Tchauzinho, ela disse.@
+` Não há qualquer semelhança com a pessoa que se despediu de mim naquele dia.
+\
+`"Você[line=3]realmente não sente nada ao matar as pessoas, Yumizuka?"@
+ld c,"tachi/stk_t02",lshutter,800
+`"Não, não sinto nada.@ Existem os humanos que dá para comer e aqueles que não dá.@ Até mesmo você diferencia os amigos que não dá e os que dá para matar, não é mesmo, Tohno-kun?"
+\
+`"No começo eu não pensava assim.@ Ontem à noite, eu me odiei muito.@
+` Mas eu precisava tomar sangue para acabar com a dor.@ Foi por isso que matei um monte de gente.@ Cada um dos que eu matava fazia meu corpo parar de doer, mas meu coração doía cada vez mais."@
+` Ela para por um momento.@
+` Por um momento, a Yumizuka Satsuki abaixa a cabeça, aparentemente triste.
+\
+`"Mas eu acabei entendendo.@ Mesmo agora ainda dói um pouco, mas até essa dorzinha vai desaparecer.@ Porque[line=4]a sensação maravilhosa de tomar as vidas é infinitamente superior à culpa de matar as pessoas.@
+ld c,"tachi/stk_t08",crossfade,400
+` Eu te falei, não foi?@ Que vou ser igual a você, Shiki-kun.@ Não se preocupe, vou me tornar uma vampira esplêndida que adora matar, assim como você."@
+` Ela se aproxima, sorrindo.
+\
+cl a,lshutter,800
+`"[line=5]Que mentira."@
+` É o que digo, mas percebo que isso que foi mentira.@
+` Uma mentira tão idiota que nem consegui enganar a mim mesmo.@
+br
+` [line=4]Não tem jeito.@
+`    Ela não tem salvação.@
+br
+` A Yumizuka Satsuki não pode ser salva.@
+` No final das contas, foi a conclusão que tive.
+\
+`"[line=8]"@
+` Eu me levanto, segurando a faca firmemente.@
+` Ela quer o meu sangue de qualquer forma.@ Não tenho a intenção de perder a vida e me tornar um desses vampiros imundos.@
+` Por isso.@
+` Só havia uma coisa para se fazer desde o início.
+\
+`"[line=3]Yumizuka, Eu… Não posso te salvar."@
+ld c,"tachi/stk_t02",crossfade,400
+`"Claro que pode.@ Se cooperar, vamos ser felizes juntos."@
+br
+`"[line=3]"@
+` Não.@ Seria uma felicidade muito macabra.@
+br
+`"Mas eu te fiz uma promessa.@ [line=3]Por isso tenho que te ajudar de alguma outra forma."@
+` Dizendo isso, eu tiro os óculos.
+\
+playstop
+monocro #0000ff
+bg "bg/bg_25b",crossfade,400
+waveloop se_02
+` A minha cabeça começa a doer.@
+!w300
+!w300
+!w300
+!w300
+!w300
+` Pela primeria vez na vida,
+` eu aceito ver sem os óculos para matar alguém.
+\
+`"[line=3]Então tá.@ Fico feliz que esteja motivado, Shiki-kun.@ Mas é tarde demais.@ Essa corrida já terminou."@
+quakex 2,50
+monocro off
+bg #000000,crossfade,400
+`"[line=5]!?"
+\
+wave se_15
+`"Gah[line=3]!"@
+` [line=3]O qu[line=4]o que acabou de acontecer…?@
+` A Yumizuka desapareceu bem na minha frente e em menos de um segundo seu rosto surgiu ao meu lado[line=3]e nesse momento, algo me acertou de lado.
+\
+`"Ha[line=3]a, guh…!"@
+` …… As minhas costas doem muito.@
+` Foi um ataque tão simples e mesmo assim fui arremessado na parede de um prédio?@
+`"Kuh[line=3]!"@
+` Agarrando a faca firmemente, consigo me levantar.@
+`"Ah, ainda consegue se mover?@ Até que você é fortinho, né, Shiki-kun?@ Como estava sempre desmaiando por causa da anemia, achei que fosse bem fraco."@
+` A voz da Yumizuka se aproxima.
+\
+` *arf*[line=3]*arf*, *arf*
+` Respirar[line=3]está difícil respirar.@
+` Como assim?@
+` Eu cometi um erro grave.
+\
+`"É inútil esperar alguma coisa dessa faca.@ Para mim, é como se você estivesse paralisado.@ Mesmo que estivesse armado com um revólver, seria a mesma coisa."@
+br
+` Sua risada mostra o quanto ela está se divertindo.@
+br
+`"[line=3]Ghaa[line=3]ah."@
+` Aqui está o meu erro.@
+` Eu posso ver as linhas de morte, mas apesar de vê-las, sou apenas um ser humano comum.@
+` Se o meu oponente for centenas de vezes mais rápido do que eu, como no caso da Yumizuka, eu não vou conseguir nem tocar essas linhas.
+\
+`"Kuh[line=3]"@
+` Ou seja[line=4]
+` contra ela[line=4]esta habilidade é inútil.@
+ld c,"tachi/stk_t02",crossfade,400
+`"[line=3]Ahh.@ Bem, já chega de brincar.@ Vou ser um pouquinho mais bruta.@ Mas não precisa ficar preocupado, se a sua cabeça e o seu coração estiverem intactos, eu ainda posso dar um jeito."
+\
+cl a,lshutter,400
+wave se_15
+quakey 4,50
+waveloop se_02
+bg #000000,lshutter,400
+`"Kuh[line=4]"@
+` Com um baque, tudo fica escuro.@
+` Ela agarrou o meu braço.@
+` E me arremessou para longe…@
+` Ela me arremessou como se eu fosse uma bola de futebol, eu voei longe e cai de costas no chão.
+\
+`"Ah[line=4]ghh[line=4]!"@
+br
+` [line=4]Não consigo ver.@
+` Estou sentindo muita dor e não consigo ver nada.@
+br
+`"Mas que coisa, você não devia dormir aí, Shiki-kun……!"@
+`"[line=4]!"@
+` Eu rolo para o lado rapidamente.@
+wave se_05
+` Os braços da Yumizuka acertam o chão, bem no lugar onde eu estava.@
+waveloop se_02
+` Ouço o som do asfalto sendo quebrado.
+\
+`"Ha[line=4]kk……!"@
+` Forço o meu corpo entorpecido a se mover.@
+` Ainda não estou enxergando nada.@
+` Só consigo sentir a presença dela.@
+`"……… Ora sua……!"@
+` Eu me levanto de frente, para onde sinto sua presença, e coloco a faca na altura dos olhos.@
+`"Já falei que isso é inútil.@ Por que não aceita tranquilamente, Shiki-kun!?"
+\
+bg #ffffff,notrans,0
+wait 100
+bg #000000,notrans,0
+` Sua presença se aproxima.@
+` Tu, dum, é o som do meu coração batendo.@
+` Talvez seja porque não estou enxergando, mas desta vez eu me esquivo facilmente do seu ataque.@
+br
+`"[line=6]Não é possível."@
+br
+` Ouço sua voz de surpresa.@
+` Sei que estou de frente para as costas dela.@
+` Mas como não consigo vê-la, não posso fazer nada.@
+` E da sua direção[line=4]sinto uma presença hostil e assassina se intensificando.
+\
+`"Por que você[line=4]fique quieto, para de se mexer!!!"@
+` Sua voz.@ Carrega a morte iminente.@
+` Mesmo sem ver, balanço a minha faca tentando acertá-la.@
+wave se_12
+bg "bg/ima_14",rshutter,400
+`"Kyaa[line=4]!"@
+` O barulho de carne sendo cortada.@
+` Eu acabei de cortar o braço dela.
+\
+`"Merd[line=4]Yumizuka, você está bem……!?"@
+` Eu odeio esse meu jeito idiota de ser.@
+` Por que estou preocupado com alguém que está tentando me matar[line=4]?@
+br
+wave se_15
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+quakey 1,500
+waveloop se_02
+`"[line=6]Ah."@
+` Meu corpo… Voa.@
+` Sou acertado pela frente e saio voando pelo ar.
+\
+bg "bg/bg_31b",bshutter,400
+`"Ah[line=6]"@
+` Minha visão volta ao normal.@
+` Será que voltou por causa desse ataque forte?@
+`"…… O…… Beco."@
+` Parece que voei até a parede de um beco.@
+` Sinto a parede de concreto nas minhas costas.@
+bg #000000,crossfade,800
+bg "bg/bg_31b",crossfade,800
+`"[line=4]Ah."@
+` Minha consciência começa a desaparecer.@
+` A Yumizuka continua avançando impiedosamente.
+\
+`"Mentiroso[line=4]!"@
+` Com a voz tomada pelo ódio, ela balança os braços na minha direção.@
+`"………………"@
+` Não consigo me mexer.@
+` E por causa disso[line=4]vou ser morto neste momento.
+\
+wave se_10
+`"……………… Hein?"@
+` A parede treme.@
+` O braço da Yumizuka acertou a parede do meu lado.
+\
+play "*8"
+ld c,"tachi/stk_t12",lshutter,400
+`"Mentiroso[line=4]!@ Você disse que ia me ajudar quando estivesse com problemas!"@
+wave se_10
+` Ela continua quebrando a parede à minha volta.
+\
+`"Por quê?@ Não sou boa o bastante só porque fiquei assim?@ Não foi minha culpa……!@ Não fiquei assim porque quis……!"@
+` Bam.@ Bam.@
+` Ela continua gritando, como uma criança dando birra.
+\
+`"…… Está doendo demais, dói demais, por que você não me ajuda, Shiki-kun!?@ Você prometeu que ia me ajudar, então por que[line=2]"@
+br
+wave se_10
+` Bam.@ Bam.@
+` Sua voz desesperada e angustiada.@
+` Nesta situação, em que ela poderia me matar a qualquer instante…
+` Por algum motivo, meu medo da morte iminente começa a desaparecer.
+\
+`"Shiki-kun[line=4]se você ficasse ao meu lado, eu poderia até conseguir suportar essa dor.@ Por quê?@ Por que você não me aceita……!?"@
+wave se_10
+cl c,crossfade,400
+br
+` …… Como sou idiota.@
+` Ela não estava direcionando todo esse ódio a mim.@
+` A Yumizuka Satsuki estava chorando todo esse tempo simplesmente porque não sabia o que fazer [line=4]
+\
+!w2000
+br
+` [line=4]Sua voz vai perdendo a força.@
+br
+` Capaz apenas de mexer os dedos, eu a observo.@
+` …… Por quê?@
+` Ela olha para o meu corpo imóvel como se estivesse surpresa.@
+` …… É como se
+` ela estivesse acordando de um pesadelo e se arrependendo do que fez.
+\
+`"[line=4]Shiki-kun, eu…… Nunca[line=4]quis[line=4]"@
+br
+` Sua voz trêmula.@
+` …… Acho que já se acalmou, mas sua voz ainda parece a de alguém que está prestes a chorar.
+\
+`"……… Está……… Tudo bem."@
+br
+` [line=4]Não precisa ficar se culpando.@
+` Mesmo que sua mente e seu corpo tenham se transformado nas de uma vampira.@
+` No final das contas, você ainda é só mais uma vítima.@
+` De qualquer forma, ainda não posso me mexer.@
+` Yumizuka, se você está se sentindo solitária, com muita dor e sentindo muito frio,
+` só me resta fazer uma única coisa.
+\
+`"…… Está tudo bem, Yumizuka-san."@
+`"Shiki…… kun?"@
+`"Pode sugar o meu sangue.@
+` Eu prometo…… Vou ficar com você, tá bom?"@
+` Acho que a minha voz foi mais gentil do que nunca.@
+` Depois de hesitar, calmamente ela se ajoelha na minha frente e me abraça.
+\
+`"[line=4]Está tudo bem mesmo?"@
+` Sua voz é uma mistura de hesitação e felicidade.@
+`"…… Hã?@ Você veio atrás de mim porque queria fazer isso, não é?@ Por que está hesitando logo agora?"@
+`"Mas eu[line=6]eu realmente quero muito, mas[line=4]"@
+br
+` [line=4]Se eu fizer isso, nunca mais vai ter volta[line=4]
+br
+` Essa última frase mal escapou pelos seus lábios.
+\
+`"…………"@
+` …… Que ironia.@
+` De fato, ela virou uma vampira.@ Porém, no que realmente importa, ela ainda tem um coração humano.@
+` E, por culpa desse coração que continua humano, a Yumizuka Satsuki sofre por ser uma vampira.@
+` Humana.@
+` Ela vai sofrer enquanto essa parte dela ainda for humana.
+\
+`"[line=4]Eu sei que está doendo.@ Então está tudo bem.@ Eu não posso te ajudar.@ É por isso que devemos fazer as coisas do jeito que você queria."@
+`"……… Shiki……… kun."@
+` Ela faz um gesto afirmativo com a cabeça.@
+` E aproxima os lábios do meu pescoço.
+\
+bg #000000,lshutter,800
+playstop
+bg "event/stk_e01a",rshutter,800
+`"Ah[line=6]"@
+` Desaparecendo.@
+` O calor que restava no meu corpo está desaparecendo rapidamente.@
+br
+` Silêncio.@
+` Que morte mais silenciosa.@
+br
+` Não tenho forças para me livrar dela.@
+` As "linhas" na minha visão também vão desaparecer daqui a pouco.
+\

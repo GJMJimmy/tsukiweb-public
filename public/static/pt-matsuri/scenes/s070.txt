@@ -1,0 +1,38 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Akiha.@ Se me lembro bem, você frequenta a Academia Asagami para Garotas, né?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=3]Isso mesmo.@ A Academia Asagami vai desde o ensino fundamental até a universidade."@
+` O olhar da Akiha parece me perguntar: “Qual a razão da pergunta?”@
+`"Bem, é um internato para garotas, né?@ O que quero saber é o motivo de você ir para a escola daqui de casa."@
+`"O prezado Senhor Asagami e o nosso pai eram amigos, por isso ele satisfaz os meus pedidos.@ É possível alguém frequentar a escola diretamente de casa sob certas circunstâncias."@
+` Ela responde de forma concisa.
+\
+`"Não, não é isso o que estou perguntando.@ Você estava morando no dormitório da escola até o nosso pai morrer, certo?@ Por que só agora começou a ir daqui de casa para lá?"@
+`"Hã[line=4]"@
+ld c,"tachi/aki_t16a",crossfade,400
+` Ela retém suas palavras e desvia o olhar.@
+cl c,crossfade,400
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, tradicionalmente a Akiha-sama passa metade de cada semana aqui.@ Não é nada extraordinário que ela vá para a Academia direto da mansão."@
+`"Ah, é mesmo?@ Parece difícil.@ A Academia Asagami fica na cidade próxima, não é?@ Não seria mais fácil para você aproveitar a vida em um dormitório ao invés de ficar voltando para a mansão o tempo todo?"
+\
+cl c,crossfade,400
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Sim, talvez.@ Mas foi assim que nosso pai quis, por isso eu sempre passei metade da semana aqui."@
+`"Humm… mas ele não está mais aqui, você não precisa se forçar a isso, certo?@ A vida em um dormitório parece ser bem divertida."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Bem, eu não precisaria me preocupar se as coisas fossem tão fáceis assim.@ Entretanto, se eu deixasse você por conta própria, não haveria como dizer o que poderia lhe acontecer, não acha?@ Enquanto ocorrerem situações como as de ontem, eu vou continuar frequentando a escola daqui da mansão.@
+` [line=3]E mais uma coisa, Nii-san…"@
+ld c,"tachi/aki_t01a",crossfade,400
+` Endireitando sua postura, ela olha diretamente nos meus olhos.
+\
+`"…… Hum… o que é?"@
+`"As acomodações da Academia Asagami, não são dormitórios.@ São pensões.@ Por favor, não cometa esse erro na próxima vez."@
+cl c,crossfade,400
+` …… As palavras da Akiha estão envoltas em espinhos.@
+` Na verdade, fui picado por eles muitas vezes no meu primeiro dia aqui, mas eles parecem menos ofensivos hoje.
+\

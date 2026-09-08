@@ -1,0 +1,78 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Eu vou tentar contar a verdade.@
+br
+` Não quero mentir para a Akiha e, se eu explicar tudo direitinho, talvez ela entenda.@
+` …… Bem, as chances de isso acontecer são as mesmas de ganhar na loteria.@
+br
+`"[line=2]Certo, vamos ver no que dá."@
+` Respirando fundo, abro a porta da sala de estar.
+\
+bg "bg/bg_34a",lcartain,800
+` A Akiha está no sofá e a Hisui está em pé perto da parede.@
+ld c,"tachi/aki_t02",lshutter,800
+`"[line=2]Bom dia, Nii-san."@
+` Seu olhar está me dizendo: "Eu estou muito brava."@
+`"E aí, bom dia, Akiha."@
+` Uma pessoa desafiadora é forte.@
+` Eu a cumprimento com um grande sorriso no rosto, em contraste com o seu olhar de valentona.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=4]"@
+` Ela deve estar confusa com a minha alegria, já que só fica me encarando.@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Nii-san, vamos dispensar os cumprimentos.@ Por favor, sente-se.@ Quero conversar com você."@
+`"Claro.@ Mas seja breve."@
+` Calmamente, me sento no sofá de frente para ela.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Muito bem.@ Isso pode ser meio abrupto, mas posso saber o que tem você feito nos últimos dois dias?"@
+`"[line=5]Hum."@
+` …… Eu sabia.@
+` Como fiquei fora de casa por dois dias, não tem desculpas.@
+` Está na hora de contar a ela sobre a Arcueid e sobre os dois últimos dias.
+\
+`"Akiha, sobre esse assunto."@
+`"Sim, estou ouvindo."@
+`"Nestes últimos dois dias, eu estava caçando um vampiro.@ Você está sabendo sobre os assassinatos que aconteceram recentemente, né?@ Foram obra de um vampiro, por isso eu estava ajudando o 'vampiro bom', que eu conheci há alguns dias, a derrotar o 'vampiro mau'."@
+br
+` [line=4]E assim, eu explico de uma forma mais resumida.
+\
+ld c,"tachi/aki_t15a",crossfade,400
+`"O qu[line=6]"@
+` A Akiha está muito surpresa.@
+` …… É uma reação normal.@
+` Na sua cabeça, ela deve estar pensando que estou tentando fazê-la de boba, e daqui a pouco ela vai
+bg #000000,notrans,0
+ld c,"tachi/aki_t07",crossfade,400
+`"Está querendo me fazer de boba, Nii-san!!!???"@
+` Gritar algo desse tipo para mim[line=2]
+bg "bg/bg_34a",notrans,0
+\
+ld c,"tachi/aki_t10",crossfade,400
+`"…………………"@
+` ……… Hã?@
+` Ela parece chateada, mas não diz nada.
+\
+`"Hum…… Akiha?"@
+ld c,"tachi/aki_t11a",crossfade,400
+`"…… Nii-san, isso é uma brincadeira de mau gosto?"@
+`"[line=6]Hum."@
+` Ela me observa em silêncio, como se pudesse ler minha mente.
+\
+`"Não…… bem, como devo dizer."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Uma brincadeira, né?"@
+`"…… Eu sei que é isso que está parecendo mas…"@
+ld c,"tachi/aki_t02",crossfade,400
+`"[line=3]Não, só pode ser uma brincadeira de mau gosto.@ Por favor, não repita uma coisa absurda dessas novamente, mesmo que seja apenas uma brincadeira."@
+cl c,crossfade,400
+` Ela me encara, parecendo mais preocupada do que com raiva.
+\
+cl c,crossfade,400
+` E como seu olhar está tão sério,
+`"……………… Tá bom."@
+` eu só posso concordar fazendo um gesto afirmativo com a cabeça.
+\

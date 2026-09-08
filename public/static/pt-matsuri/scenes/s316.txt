@@ -1,0 +1,328 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w3000
+bg "bg/bg_33d",crossfade,800
+waveloop se_11
+` A porta abre com um rangido.@
+` Com o corpo pesado e a mente entorpecida, chego na mansão.@
+` Arrasto meus passos.@
+` O luar me ilumina, me fazendo parecer um fantasma cansado.
+\
+`"[line=11]"@
+` …… O meu braço esquerdo dói no lugar em que a Yumizuka me feriu.@
+` O sangramento parou e a diminuição gradual da dor me diz que não deve ter sido muito profundo.
+\
+`"[line=11]"@
+` Chego nas escadas.@
+` Não estou me importando em tratar dos meus ferimentos.@
+` Só quero chegar no meu quarto e dormir como uma pedra[line=4]
+\
+br
+`"Hã………?@ Nii[line=2]san…………?"@
+br
+` [line=2]E então.@
+` Ouço a voz da Akiha vindo do meio das escadas.
+\
+`"……………… Akiha?"@
+` Levanto a cabeça.@
+` Ela terminou de descer as escadas e está na minha frente.@
+ld c,"tachi/aki_t23b",lshutter,400
+`"Ah…………"@
+` …… A Akiha fica em silêncio.@
+` Tem algo de estranho em sua aparência, mas não consigo me importar de verdade agora e simplesmente continuo arrastando meus passos.@
+` Só quero chegar no meu quarto.@
+` Preciso subir as escadas.@
+` Meio atordoado vou passando pela figura imóvel da Akiha.@ Preciso subir as escadas[line=3]
+\
+ld c,"tachi/aki_t17b",crossfade,400
+`"E…… Ei, espera aí, Nii-san!@ Aonde você foi a essa hora da noite?"@
+`"[line=7]"@
+` E isso importa?@ Além disso, o que ela está fazendo aqui a essa hora também?@
+` Ela estava tentando descer as escadas sem fazer barulho, parece que também ia sair agora mesmo.
+\
+`"…… Não é da sua conta, Akiha.@ Estou indo para o meu quarto, não me incomode."@
+`"Incomodar[line=4]eu[line=3]"@
+` Ela ofega e para a frase no meio do caminho.@
+ld c,"tachi/aki_t11b",crossfade,400
+`"Nii-san, você está[line=3]"@
+` Seus olhos que estavam chocados agora ficam calmos.
+\
+`"O seu braço esquerdo está machucado, não é?@ As suas roupas também estão bem sujas."@
+`"…… Não precisa se preocupar.@ Não está mais doendo."@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Não está mais doendo?@ Não pode ser verdade.@ Parece que você vai desmaiar a qualquer momento e tem sangue coagulado por todo o seu braço.@ Minha nossa, mas o que é que você estava aprontando, Nii-san?"@
+`"……………"@
+` Como não posso responder, apenas desvio o meu olhar.@
+cl c,lshutter,400
+` Seria impossível eu explicar o que aconteceu e além disso[line=3]eu não quero falar sobre a Yumizuka com ninguém.
+\
+`"…… Não estava aprontando nada.@ Simplesmente estava passando na rua e acabei sendo envolvido em uma briga de bêbados."@
+` Respondendo isso, começo a subir as escadas.@
+` Mas sinto que sou puxado[line=4]
+` a Akiha coloca as mãos nos meus ombros.@
+ld c,"tachi/aki_t12b",lshutter,400
+`"Nii-san, vou ficar brava com você."@
+` Com a voz baixinha, ela me olha no fundo dos olhos.@
+`"……………"@
+` Vendo sua expressão me faz ter certeza de que não posso contar a verdade.
+\
+`"[line=5]"@
+`"……………"@
+` E assim o tempo passa sem nenhum dos dois dizer nada.@
+` …… Depois de alguns minutos, a Akiha suspira e relaxa os ombros.@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Tudo bem.@ Vou deixar passar."@
+` Ela agarra o meu braço direito que não está machucado e vai me puxando para a sala de estar.
+\
+`"…… Espera.@ Eu quero ir para o meu quarto e dormir."@
+`"Mas não vai.@ Não vou mais te perguntar o que houve, mas você precisa me deixar cuidar desses machucados, estamos entendidos?@ Venha comigo.@ Não vou conseguir dormir de tanta preocupação se te deixar ir para a cama desse jeito."@
+cl c,lshutter,400
+` Sem soltar do meu braço, ela vai me puxando até o saguão.@
+`"…………………"@
+` Ah.@ Não há o que fazer.@
+` Eu me entrego à sua vontade e a acompanho.
+\
+wavestop
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_34b",lcartain,800
+play "*1"
+` [line=3]O tratamento foi bem simples.@
+br
+` Acho que realmente não era nada tão grave assim.@ O tratamento chega ao fim depois de desinfetar os ferimentos e cobri-los com gaze.@
+` Depois de terminar essa parte, a Akiha pega uma toalha molhada com água quente e limpa o meu rosto.
+\
+ld c,"tachi/aki_t04b",lshutter,400
+`"Prontinho.@ Este uniforme não tem salvação, amanhã providenciaremos um novo."@
+`"………………"@
+` …… A minha mente ainda está entorpecida.@
+` Ela realmente não me perguntou de novo sobre o ocorrido, apenas cuidou dos meus machucados.@
+` Estou um pouco surpreso.@ Eu tinha certeza de que ela ia chamar a Kohaku-san ou a Hisui para cuidar de mim, mas foi a própria Akiha quem o fez e ainda estava sorrindo o tempo todo.@
+` …… Sua gentileza está completamente diferente da que tem demonstrado durante os últimos três dias e por causa disso começo a me lembrar da Akiha do passado.
+\
+ld c,"tachi/aki_t21b",crossfade,400
+`"Nii-san?@ Eu já terminei, pode voltar para o seu quarto.@ Você não disse que preferia dormir a me fazer companhia?"@
+` Ela parece estar ressentida com o que eu disse.@
+`"……………"@
+` Ainda tem algo de muito errado com o meu cérebro, mas posso entender o quanto ela está preocupada comigo.@
+`"…… Muito obrigado, Akiha."@
+` Será que é porque ainda estou meio grogue?@ Por algum motivo, mostro meus agradecimentos sinceros.
+\
+ld c,"tachi/aki_t24",crossfade,400
+`"Hã[line=2]"@
+` O rosto da Akiha fica vermelho e ela se afasta de mim.@
+ld c,"tachi/aki_t16b",crossfade,400
+`"[line=4]Ah?@ Eu[line=4]eu não acho que seja algo que precise me agradecer.@ Você faria o mesmo por mim, não é mesmo, Nii-san?"@
+`"Sim, mas isso me deixou feliz."@
+` Sussurando, finalmente percebo.@
+` Estou muito sentimental no momento, mas estou feliz de verdade que tenha sido a Akiha quem tratou dos meus ferimentos em vez da Kohaku-san ou da Hisui.
+\
+ld c,"tachi/aki_t24",crossfade,400
+`"N[line=3]não fique dizendo essas besteiras, por favor, vá descansar no seu quarto.@ Ou será que ainda tem mais machucados para tratar?"@
+` Ela fala e olha para mim.@
+cl c,lshutter,800
+`"[line=4]?@ Nii-san, tem sangue… No seu ombro."
+\
+` Ela coloca a mão no meu ombro.@
+` E desabotoa a minha camisa.@
+` Expondo o meu ombro e o meu pescoço.@
+` As marcas da mordida da Yumizuka e o sangue seco ainda estão nele.
+\
+`"Nii-san, isso é[line=8]"@
+` Neste instante[line=4]
+` o ar congela.
+\
+`"………………"@
+` O ferimento em forma de presas continua no meu pescoço.@
+` Não faço ideia de como explicar uma coisa dessas e fico em silêncio.@
+`"[line=7]"@
+` Lentamente a Akiha se aproxima mais de mim.@
+`"…… Nii-san…… Ainda está saindo…… Sangue daqui."@
+` Sua voz está muito tensa.@
+` A sua mão aperta o meu ombro com mais força.@
+` O seu corpo fica parado em um posição que está prestes a tocar o meu.
+\
+`"…… O que eu faço…… Precisamos[line=4]parar o sangramento[line=4]não é mesmo[line=4]?"@
+` É a voz de alguém delirando.@
+`"[line=4]Akiha?"@
+` Chamo o seu nome enquanto sou atacado por uma inquietação alarmante.@
+`"Nnn[line=6]"@
+` Ela não responde.@
+` Em vez disso,
+` apenas sinto uma sensação quente pelo meu pescoço.
+\
+`"O qu…………………"@
+` A minha voz perde a força.@
+` O rosto da Akiha está quase colado no meu.@
+br
+` …… A sensação de algo encostando.@
+` …… Um contato.@ Molhado.@
+br
+`"Aki………… ha…… ?"@
+` …… O meu senso entorpecido da razão não consegue entender o que está acontecendo.@
+` Uma língua hesitante está me tocando.@
+` A língua vermelha toca o meu pescoço.@
+` Tremendo.@ Os dedos que me seguram tremem, sinto o calor do corpo da Akiha.
+\
+`"Ahhhhhh[line=8],"@
+` …… A Akiha está lambendo o sangue que escorre pelo meu pescoço.@
+` Mas não é nada demais.@
+` É o mesmo que fazem as crianças quando querem parar um sangramento.@
+` Mas a sensação é tão boa que não consigo dizer nada.@
+` A Akiha deve estar pensando a mesma coisa, já que[line=4]sem motivo algum, ela roça os dentes no meu ferimento.
+\
+!w3000
+` [line=4]De repente.@
+br
+br
+br
+br
+br
+` Ouço um barulho vindo do saguão.
+\
+ld c,"tachi/aki_t24",lshutter,400
+`"[line=6]!"@
+` Ela se afasta de mim.@
+`"Eu[line=4]me desculpe, Nii-san[line=4]!"@
+cl c,lshutter,400
+` Seu rosto está vermelho como um tomate e ela sai apressada.
+\
+`"o qu[line=6]"@
+` Sozinho na sala de estar, coloco a mão no meu pescoço.@
+` Ainda sinto um pouco do seu calor.@
+`"…… Ela não precisava ter saído assim."@
+` Murmuro para mim mesmo e balanço a cabeça.@
+` Lamber um ferimento desse jeito[line=4]eu fiz muito isso quando era criança.@ Fiz com a Akiha e com a Kohaku-san quando elas se machucavam.@
+` …… Mas é um ato de crianças inocentes, que fazemos apenas quando somos crianças.@
+` Agora somos crescidos e de sexos opostos.@ Não podemos mais usar esse método.
+\
+`"…… O que deu nela?@ …… Estava agindo de uma forma muito estranha."@
+` …… Acho que também estou estranho hoje.@
+` Como se estivesse em um sonho, não consigo me lembrar exatamente do que aconteceu.@
+` Mesmo o que acabou de acontecer com a Akiha, sinto que amanhã de manhã não vai passar de um sonho distante.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",lcartain,800
+` …… Finalmente chego no meu quarto.@
+` Eu me jogo na cama.@
+`"[line=6]Nnn."@
+` O cansaço domina a minha mente.@
+` A exaustão está mais concentrada no meu corpo, não na minha mente.@
+` Meu corpo deve estar tentando fazer eu parar de me mover para se curar rapidamente.@
+` Mas antes disso, respiro fundo e passo os dedos pelo meu pescoço mais uma vez.
+\
+`"…………… Ah."@
+` Estou surpreso.@
+` As marcas de presas.@ O sangramento realmente foi parado pelos lábios da Akiha[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+phase "bg/bg_54b",r,his,04a,4
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Eu acordo de um sono profundo.@
+` A intensidade do sol me diz que já não é mais de manhã, parece que passa do meio-dia.@
+` Deve ser porque cheguei muito tarde ontem.@
+` Acho que dormi demais.
+\
+`"……………"@
+` Eu vou me arrastando para fora da cama e em seguida olho para a minha mão.@
+` [line=4]A sensação de ter matado a Yumizuka permanece aqui.@
+` Duas noites atrás.@
+` Eu me encontrei com a Yumizuka e tive aquele sonho terrível.@
+`"…… Se ontem também…… Tivesse sido apenas um sonho."@
+` Mas desejar isso não vai fazer com que se torne realidade.@
+` Não tenho a mínima ideia de como a Yumizuka se tornou uma vampira[line=4]e eu não pude fazer nada para ajudá-la.
+\
+` [line=3]Não.@
+` Depois de ela ter se transformado naquilo, provavelmente ninguém no mundo poderia mais ajudá-la.@
+` Ela já estava morta.@
+` A minha parte nisso foi fazer com que aquele cadáver, que se movia para todos os lados como um ser vivo, voltasse a ser um cadáver.@ Foi a única conclusão na qual pude chegar.@
+br
+` Mas mesmo assim[line=3]
+br
+wave se_04
+`"Com licença, Shiki-sama."@
+` E depois de ouvir essa voz com a qual já me acostumei, a Hisui entra no meu quarto.
+\
+ld c,"tachi/his_t01",lcartain,800
+`"Bom dia, Shiki-sama.@ Como está se sentindo hoje?"@
+`"Hum…… Ah, eu dormi bem, por isso não estou me sentindo mal."@
+`"É mesmo?@ Ouvir isso me deixa muito aliviada."@
+` …… Embora tenha dito essas palavras, não vejo ela relaxar os ombros ou dar qualquer sinal que indique o que falou.
+\
+`"……………"@
+` Mas eu também estou aliviado.@
+` Porque o que aconteceu ontem à noite já acabou.@ Porque eu não preciso mais entrar no mundo sobrenatural; agora meu coração pode relaxar.@
+`"…… Obrigado, Hisui.@ Você sempre vem ver como estou logo quando o dia nasce, não é?@ A sua preocupação significa muito para mim."@
+ld c,"tachi/his_t03",crossfade,400
+`"[line=4]Não é necessário me agradecer.@ É meu dever estar preocupada com o seu bem-estar."@
+` Eu vi uma pontinha de felicidade na expressão da Hisui.
+\
+` …… Além disso, sinto que fui resgatado.@
+` Enquanto eu estava dormindo, a Hisui veio para me acordar como faz todos os dias.@
+` E por causa de uma coisa tão boba como essa, sinto que retornei à minha vida normal.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Shiki-sama, preciso te contar algo difícil de se dizer… Posso falar?"@
+`"……?@ Algo difícil de se dizer?@ Se for em relação ao fato de eu dormir até tão tarde, a única coisa que posso fazer é me desculpar."@
+ld c,"tachi/his_t23",crossfade,400
+`"Não, não é bem sobre isso, mas tem relação com a hora que você foi dormir."@
+` Ela fica mexendo nos dedos inquieta enquanto luta para conseguir encontrar as palavras certas para falar.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"…… Hum[line=4]eu não contei nada, mas a Akiha-sama descobriu sobre ontem à noite."@
+`"Hein…… Sobre ontem…… Como assim?"@
+`"Eu estou falando sobre o horário que você saiu ontem à noite, Shiki-sama."@
+`"[line=4]"@
+` Inconscientemente desvio o meu olhar dela.@
+` Pensei ter saído sem que ninguém tivesse percebido, mas eu já deveria saber que a Hisui ia acabar descobrindo.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, o seu retorno de madrugada chamou a atenção da Akiha-sama, acredito que terá de se explicar a ela mais cedo ou mais tarde.@
+` Ela está te esperando na sala de estar e talvez possa estar muito brava, por favor, desça preparado."@
+`"……… Tudo bem.@ Eu vou estar preparado."@
+` …… Mas a Akiha já sabe sobre ontem.@
+` …… Além disso, foi ela quem tratou dos meus ferimentos enquanto estava naquele estado.
+\
+`"Em relação a isso, vai se tornar uma rotina?@ Não posso impedi-lo, mas se continuar agindo dessa forma, vou precisar informar a Akiha-sama."@
+`"[line=4]Não, nada do que aconteceu ontem vai se repetir.@ Tudo…… Acabou ontem à noite…… Não vai haver mais nenhuma chamada de telefone também."
+\
+` [line=3]Sim.@ Tudo teve seu fim.@
+` Essa é a verdade.@
+` A Yumizuka Satsuki não existe mais.@
+` A vampira que se escondia pelas ruas desapareceu.@ Com as minhas próprias mãos, eu dei um fim eterno para a colega de classe que disse gostar de mim.
+\
+ld c,"tachi/his_t07",crossfade,400
+`"……………………"@
+` A Hisui me observa com uma expressão triste.@
+` …… Nossa, se a Hisui está demonstrando isso no rosto, eu devo estar parecendo mais miserável do que nunca.@
+`"[line=3]Hisui, a Akiha ainda está em casa?@ Ela é uma pessoa muito ocupada, por acaso ela tem algum tipo de rotina em seu dia de folga?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim, ela tem compromissos em seu dia de folga, mas hoje ela não saiu, ainda está na mansão."@
+`"………?"@
+` Então ela tem compromissos, mas ainda está em casa……?
+\
+`"Não entendi direito…… Ah, vou me trocar e descer para a sala de estar, pode ir na frente."@
+`"Certo.@ Com licença."@
+cl c,lshutter,800
+` Como de costume, ela sai do quarto em silêncio.@
+br
+` [line=3]Mas eu esqueci de dizer algo muito importante.@
+br
+`"Hisui."
+\
+ld c,"tachi/his_t01",lshutter,800
+`"Sim?@ O que deseja, Shiki-sama?"@
+`"Eu esqueci de dizer uma coisa.@ Obrigado por vir me acordar.@ É meio tarde para isso, mas… Bom dia."@
+ld c,"tachi/his_t03",crossfade,400
+`"[line=3]Tenha um bom dia também, Shiki-sama."@
+cl c,lshutter,800
+` Bem.@
+` Vou trocar de roupas e descer para a sala de estar.
+\
+bg #000000,lcartain,800
+!w1000

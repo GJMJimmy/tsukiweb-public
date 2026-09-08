@@ -1,0 +1,263 @@
+phase "bg/bg_33d",r,ark,05a,5
+bg #ffffff,crossfade,800
+` Eu sinto o sol da manhã.@
+` Mantenho os olhos fechados enquanto tento dormir de novo, mas a suave luz do sol continua insistindo para que eu abra meus olhos.@
+br
+` [line=3]Lentamente, começo a acordar.
+\
+` Uma atmosfera tranquila.@
+` O ar está um pouco frio, mas mesmo assim está agradável.@
+` Acho que o tempo vai ser ótimo hoje.@
+br
+` [line=3]Eu deveria me levantar e ir para a escola.@
+br
+` É mesmo, tenho que ir para a escola.@
+` Nestes últimos três dias, minha vida estava um caos e acabei esquecendo que sou um estudante.
+\
+bg "bg/bg_40e",crossfade,800
+play "*2"
+`"……"@
+` Eu acordo.@
+` Estou deitado na minha cama e meus óculos estão na cabeceira.@
+` Eu os coloco e olho à minha volta.@
+bg "bg/bg_40a",crossfade,400
+` A luz do sol passa com tanta intensidade pela janela, que quase espero ouvi-la atravessando.
+\
+`"[line=4]"@
+` Eu tomo um fôlego silencioso.@
+` Encho meus pulmões com ar fresco e sinto como se meu peito fosse purificado.@
+` Ouço o tique-taque do relógio.@
+` Os passarinhos gorjeiam na floresta lá fora.@
+` Eu continuo na minha cama quentinha, sentindo o tempo passar tranquilamente.
+\
+br
+` [line=5]Ahh, estou de volta.@
+br
+` Mesmo que não haja nada de especial nesta manhã,
+` nesse momento[line=4]eu sinto como se fosse uma manhã quase sagrada.
+\
+`"[line=4]Que alívio."@
+` Isso é ótimo.@
+` Não o fato de estar vivo, nem de ter sido capaz de derrotar aquele vampiro maligno.@
+` É ótimo saber que mesmo depois de entrar naquele mundo bizarro de vampiros, eu fui capaz de voltar para os meus dias normais e me sentir feliz com uma linda manhã como esta.@
+br
+` [line=4]E então.@
+br
+ld c,"tachi/his_t01",notrans,0
+`"Bom dia, Shiki-sama."
+\
+`"Uwaaaa!"@
+` Dou um pulo na cama.@
+` Agora que percebo, a Hisui está parada ao lado da cama.@
+`"Hi-HiHi-Hisui[line=3]"@
+`"…… Por favor, me desculpe, Shiki-sama, mas como você não percebeu minha presença, tive que quebrar o silêncio."@
+`"Ah[line=3]bem, quero dizer, me desculpe também."@
+` Ela faz uma mesura de forma respeitosa.@
+br
+` [line=3]E-ela me surpreendeu.@
+` Meu coração ainda está acelerado.
+\
+`"[line=3]Hã?@ Mas ainda não são sete horas, Hisui."@
+`"Sim.@ É um pouco mais cedo do horário em que você acorda normalmente, Shiki-sama."@
+`"Pois é[line=3]então por que você está aqui?"@
+`"Eu vim te acordar.@ A Akiha-sama quer saber o que você tem feito nos últimos dois dias e me pediu para te acordar de qualquer forma."@
+`"[line=4]Ah."@
+` …… Eu esqueci.@
+` Pensando bem, eu faltei de aula no sábado e fiquei com a Arcueid o domingo todo.
+\
+`"…… Será que a Akiha está brava comigo…?"@
+`"Eu não sei.@ Por favor, confirme isso você mesmo."@
+br
+` [line=3]A voz da Hisui soa bem fria.@
+br
+`"…… Espere um pouco.@ Por que eu estou dormindo no meu quarto……?"@
+`"Shiki-sama, você voltou para casa por volta das duas horas da manhã.@ A Nee-san te encontrou dormindo na soleira da porta e te trouxe para o quarto."
+\
+cl c,crossfade,400
+`"O qu[line=6]"@
+` …… Fico boquiaberto.@
+` Isso é ruim[line=4]Não entrei em contato com ninguém por dois dias, voltei para casa de madrugada e ainda por cima dormi na soleira da porta.@ Estou agindo como um bêbado!@
+br
+`"[line=4]Aquela mulher[line=4]me tratando como se eu fosse um gato de rua[line=4]"@
+` O rosto da Arcueid aparece na minha mente.@
+` …… Mas talvez tenha que agradecê-la por me trazer até em casa.
+\
+`"[line=3]Tudo bem.@ Já vou descer.@ Humm… e eu ficaria feliz se você tentasse acalmá-la o máximo possível."@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=4]Eu me recuso."@
+` Ela responde.@
+` …… Talvez a Hisui também esteja brava comigo.
+\
+cl c,crossfade,400
+`"[line=3]"@
+` Droga, um problema atrás do outro!?@
+` A dona desta mansão é a Akiha, quer dizer que se ela está brava comigo, ninguém vai me defender?@
+br
+` Bem, está na hora de levantar.@
+` Não posso fazer nada deitado na cama.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"Ts………!"@
+` Ai[line=4]ai.@
+` Assim que me levanto, a dor atravessa todo o meu corpo.@
+br
+`"[line=4]São os ferimentos de[line=2]ontem?"@
+` …… É mesmo.@ Se tem alguma coisa com a qual devo me surpreender, é o fato de ainda estar vivo.@
+` Eu estava todo machucado e sangrando, mas consegui acordar normalmente.@ Isso não é normal.
+\
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama, isso é[line=4]"@
+` …… Isso é raro.@
+` A Hisui arregala os olhos e olha para mim.@
+`"Hum?@ Qual o problem[line=4]"@
+` Olho para o meu corpo.@
+` E[line=4]
+br
+`"O qu-o que é isto……!?"@
+` Um padrão de manchas vermelhas cobre meu pijama em todo lugar.@
+` É claro que essa estampa nem sempre esteve aqui; é o meu sangue ensopando tudo.
+\
+`"[line=6]"@
+` A Hisui engole suas palavras.@
+` [line=2]Fico agradecido.@
+` Isso permite que eu me acalme.@
+` …… A razão do sangramento é simples.@
+` Mas como não posso contar nada sobre isso, tenho que mentir para evitar que ela se preocupe.
+\
+`"Shiki-sama, seu corpo[line=4]"@
+`"…… Eu estou bem, não tem nada doendo.@ Olha, eu não voltei de madrugada?@ A verdade é que acabei me envolvendo em uma briga e por isso cheguei tão tarde.@
+` Estes ferimentos são o resultado da briga, mas são apenas arranhões, não precisa ficar preocupada com nada."@
+`"[line=6]"@
+` Os olhos da Hisui me imploram, dizendo: "Por favor, não minta."@
+` Mas na sua posição, ela não pode me perguntar mais nada.@
+` …… Sinto-me culpado por fazer isso com ela, mas vou manter minha mentira.
+\
+`"Hum, por favor, não conte isso para a Akiha.@ Ela vai enlouquecer se souber que eu me envolvi em uma briga."@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=4]Eu entendo.@ A Akiha-sama não vai ficar sabendo."@
+` Ela faz um gesto afirmativo com a cabeça.
+\
+`"Obrigado.@ Ah, tenho outro pedido.@ Poderia me trazer um desinfetante?@ Estou cheio de arranhões pelo corpo todo e queria cuidar deles."@
+ld c,"tachi/his_t05",crossfade,400
+`"Ah[line=4]Claro, vou buscar imediatamente."@
+cl c,lshutter,400
+\
+`"……?"@
+` O que houve?@
+` Ela parece ter ficado bem incomodada de uma hora para a outra.@
+` De qualquer forma, estou feliz que tenha ido buscar o desinfetante.@ Assim que ela chegar, vou poder cuidar disso sozinho.@
+` A dor está bem fraquinha, então qualquer coisa que a diminua e faça parar de sangrar já está ótimo.
+\
+bg #000000,lshutter,800
+bg "bg/bg_40a",lshutter,800
+ld c,"tachi/koha_t02",lshutter,400
+`"Desculpe a demora~"@
+` Quem abre a porta e entra não é a Hisui, é a Kohaku-san.@ Ela está carregando uma caixa com o desenho de uma cruz vermelha.
+\
+`"Hã, Kohaku-san[line=4]?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Sim, a Hisui-chan me contou tudo.@ Shiki-san, você se meteu em uma briga?"@
+`"Ah…… bem, digamos que, eu[line=4]"@
+` Não consigo pensar em nenhuma outra explicação.@
+ld c,"tachi/koha_t04",crossfade,400
+`"Nossa, você não devia fazer essas coisas.@ Você pode até ser desobediente, mas não devia ser violento.@ Isso é doloroso para aquele que bate e para aquele que apanha."
+\
+` Doloroso para aquele que bate e para aquele que apanha, né.@
+` As palavras da Kohaku-san me acertam com força.@
+br
+`"…… Sim.@ É… verdade.@ Bater… só causa sofrimento."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Não é?@ Estou decepcionada que você esteja todo machucado.@ Não importa qual seja a situação… vou me decepcionar mais ainda com você se continuar fazendo esse tipo de coisa, Shiki-san."@
+` Suas palavras perfuram meu peito como uma flecha.
+\
+br
+` [line=4]Lá no fundo do meu coração, eu quero me desculpar.@
+br
+` Kohaku-san, me desculpe.@
+` Provavelmente[line=4]fiz várias coisas para deixá-la decepcionada comigo.
+\
+`"[line=4]Eu sei, sou um idiota mesmo.@ Nunca mais vou fazer isso de novo."@
+`"Contanto que você entenda, está tudo bem.@ Vou examinar os seus ferimentos, por favor, tire as roupas."@
+cl c,lshutter,800
+`"[line=4]Hein?"@
+` Ela sobe na cama e agarra a minha camisa.@
+` Ela está querendo que eu fique pelado.
+\
+`"E-espere!@ Não precisa ir tão longe assim.@ Eu só queria desinfetar alguns arranhões, era só isso!"@
+ld c,"tachi/koha_t04",crossfade,400
+`"Do que está falando?@ Mesmo que você diga que só tem alguns arranhões, não é o que está parecendo para mim."@
+`"Não, eu estou bem.@ Posso cuidar disso sozinho."@
+`"Você não vai conseguir.@ E os ferimentos nas suas costas[line=4]"@
+` Vendo os ferimentos nas minhas costas, a Kohaku-san se assusta.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"[line=4]Que horror!@ Você estava brigando com um Doberman?"@
+`"…… Sim.@ Hum, algo do tipo."@
+`"[line=8]"@
+` Ela suspira espantada.@
+br
+`"Nossa, agora é que eu não posso deixar você cuidar disso sozinho mesmo, Shiki-san.@ Vamos, tire logo essas roupas.@ Não vou poder cuidar de você se estiver vestido!"@
+`"Não, eu já disse que posso cuidar disso sozinho!@ Não é grandes coisas, não preciso ficar pelado……!"
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"[line=4]Humm.@ Você deve estar com vergonha, né."@
+` Sorrindo, ela avança e tenta tirar meu pijama de qualquer jeito.@
+br
+`"Já estou acostumada a ver o seu corpo, Shiki-san.@ Por favor, tire as roupas."@
+`"…… 'Acostumada'?"@
+`"Já troquei suas roupas uma vez, eu conheço cada detalhe do seu corpo."@
+`"O-o-o quê?"@
+`"Anda logo, não temos muito tempo.@ Se demorar muito, a Akiha-sama vai perceber."
+\
+` [line=4]Ugh.@
+` Não posso argumentar contra isso.@
+` Mas ficar pelado na frente da Kohaku-san, isso seria……
+br
+ld c,"tachi/koha_t03",crossfade,400
+`"…… Não tem jeito mesmo, né!@ Então vou examinar apenas a parte de cima do seu corpo.@ Desse jeito, você não vai ficar envergonhado, certo?"@
+` É claro que vou, mas vou ser obrigado a aceitar isso.@
+cl c,crossfade,800
+`"………… Tudo bem.@ Eu vou aceitar isso."@
+` Eu sento na cama e tiro a camisa.
+\
+` A Kohaku-san cuida dos meus ferimentos habilmente.@
+` Ela trata dos ferimentos nos meus braços, ombros e costas.@
+` O desinfetante mergulha nos meus ferimentos.@
+` Dói um pouco, mas comparado à minha tontura ocasional ou à dor da minha velha cicatriz, isso não é nada.@
+` Enquanto aplica o desinfetante,
+ld c,"tachi/koha_t05",crossfade,400
+`"Uau, você é homem mesmo."@
+cl c,crossfade,400
+` a Kohaku-san diz isso toda feliz, acho que foi o que me ajudou a esquecer a dor um pouco.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Agora temos que prender esta compressa.@ Ela pode soltar, por isso temos que enfaixá-la."@
+` Ela coloca uma compressa sobre o meu peito machucado e enrola uma bandagem em torno dele.@
+ld c,"tachi/koha_t03",crossfade,400
+`"Terminei.@ Tem certeza que não quer que eu cuide das suas pernas?"@
+`"Tenho, eu posso cuidar do resto.@ …… Obrigado, Kohaku-san.@ Eu sei que você está cheia de coisas para fazer."@
+`"Não se preocupe com isso.@ Vou voltar para a cozinha agora.@ Quando terminar aí, vá para a sala de jantar, tá bom?"@
+cl c,crossfade,400
+` Ela vai na direção da porta.
+\
+`"Ah, Kohaku-san."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Sim?"@
+`"Hum[line=4]me desculpe.@ É como você disse, brigar é estupidez.@ Não passa de uma chatice e nada de bom pode vir disso."@
+`"[line=6]"@
+` Ela me olha com espanto e, de repente, começa a rir.
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Tudo bem.@ Desta vez eu vou deixar passar, tá bom?"@
+cl c,lshutter,800
+` Ela diz isso toda alegre e sai do quarto.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` [line=3]Muito bem, chegou a hora.@
+` Apenas uma porta me separa da sala de estar onde a Akiha me espera.@
+` Não importa quais foram as circunstâncias, não há desculpa para eu ter faltado à aula e não ter aparecido em casa por dois dias.
+\
+` Agora[line=2]
+\

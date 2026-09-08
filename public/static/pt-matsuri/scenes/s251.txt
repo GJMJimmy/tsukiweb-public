@@ -1,0 +1,96 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+bg "bg/bg_11b",crossfade,1500
+play "*3"
+` Corro para a sala de cerimônia de chá.@
+` A Senpai está com a mão na porta quando chego.
+\
+`"Senpai!"@
+ld c,"tachi/cel_t01a",lshutter,400
+`"Ah, Tohno-kun.@ Você está indo para casa agora?"@
+`"Não, pensei em conversar com você um pouco.@ Você está indo tomar chá agora, né?@ Estava pensando em me juntar a você."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Não, estou indo embora para casa.@ Tenho uma coisa para fazer, e esse mês os fundos do clube estão ficando escassos."@
+`"[line=3]Ah.@ Entendo, todo aquele chá que tomamos foi comprado com o dinheiro do clube."@
+` …… Mas, pensando bem, um clube que consegue se manter com seus próprios fundos deve ser ótimo.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Não vou poder te fazer companhia…… Tohno-kun, você tem outros planos para agora?"@
+`"Eu?@ Não, não mais."@
+`"Então, se importaria de me acompanhar até o portão principal?"@
+`"Seria um prazer."@
+ld c,"tachi/cel_t04",crossfade,400
+` A Senpai sorri e começa a caminhar ao meu lado.@
+` Decidimos caminhar juntos por cinco minutos até o portão da escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01b",lcartain,800
+` Sem falar sobre qualquer assunto sério, chegamos no portão da escola.@
+`"Então, até amanhã, Senpai."@
+` Levantando uma mão, começo a ir na direção oposta à dela.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Por favor, espere.@ Tem uma coisa que queria te perguntar, Tohno-kun."@
+`"?@ O que é?"@
+`"Ontem, você disse havia alguém que se parecia comigo.@ Eu meio que fiquei curiosa, por isso queria ouvir um pouco mais sobre isso."@
+` Seus olhos ardem de curiosidade.@
+` …… Mas isso não é algo que eu realmente queira lembrar.
+\
+`"…… Desculpa, não quero falar sobre esse assunto.@ Foi apenas um erro que cometi, está tudo bem."@
+` Desvio meu olhar da Senpai enquanto dou uma desculpa vaga.@
+`"Mesmo?"@
+` Ela rapidamente termina seu interrogatório.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Mas você viu essa pessoa tarde da noite, não foi?@
+` …… Tohno-kun, acho que ficar andando por aí nesses horários é muito perigoso.@ Aqueles assassinatos em série não pararam, sabia?@ Se você se encontrasse com esse assassino, seria terrível, não acha?"@
+`"…… Você está preocupada comigo saindo de noite?"@
+`"[line=3]Sim.@ Você é uma boa pessoa, do tipo que pode ser facilmente enganado e colocado em perigo."@
+` Parece que ela está preocupada de verdade.@
+`"[line=5]Hum."@
+` Sim, a preocupação dela me deixa extremamente feliz.
+\
+`"Obrigado, Senpai.@ Mas está tudo bem, a pessoa por trás desses incidentes se foi."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Hã?@ Ela se foi?@ O que isso quer dizer?"@
+` …… Merda, o Nrvnqsr é um segredo apenas entre a Arcueid e eu.@
+` Não posso falar para a Senpai e, além disso, não adiantaria contar sobre ele.
+\
+`"Hum, é verdade, você está certa.@ Realmente é perigoso andar por aí à noite."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"…… De qualquer forma, a partir de agora, pare de andar por ai à noite.@ Você é um bom estudante."@
+`"É, eu sei.@ Não tenho certeza sobre ser um bom estudante, mas não vou mais andar por ai à noite."@
+`"…………………"@
+br
+` A Senpai me encara.@
+` [line=4]Será que não acreditou em mim?@ Ela não parece convencida.
+\
+`"…… Tudo bem.@ Então, eu prometo."@
+` Estendo a mão.@
+`"Senpai, te devo uma por aquela vez, por isso vou fazer como você pediu.@ É uma promessa."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Hum……………… você quer[line=2]apertar a minha mão?"@
+`"Sim.@ Estamos meio velhos para promessas de mindinho, vamos apertar as mãos."@
+`"…………………"@
+` Depois de ficar um pouco perplexa, ela pega a minha mão estendida.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Certo.@ É uma promessa, Tohno-kun."@
+` Balançamos as mãos para cima e para baixo.@
+ld c,"tachi/cel_t02",crossfade,400
+`"Então, tchau.@ Até amanhã."@
+cl c,lshutter,800
+` Envolvida pelo pôr do sol, ela desaparece no entardecer.@
+` Depois de observá-la partir, decido ir para casa também.
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_32b",lcartain,1500
+` Subindo a colina, retorno à mansão.@
+` Ainda não são nem seis horas da tarde.@
+` Ainda falta uma hora para o jantar.@ Vou passar o tempo no meu quarto[line=3]
+\
+bg #000000,crossfade,800
+!w2000

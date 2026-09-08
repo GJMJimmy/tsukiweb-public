@@ -1,0 +1,254 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld r,"tachi/koha_t02",crossfade,400
+`"Akiha-sama?@ Está quase na hora de você sair, não é melhor se apressar?"@
+ld l,"tachi/aki_t05a",crossfade,400
+`"…… Eu sei muito bem que horas são, Kohaku.@ Francamente, não há necessidade de se preocupar com esse tipo de coisa no primeiro dia."@
+` Murmurando algumas reclamações, a Akiha se levanta.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"Bem, eu preciso me despedir agora.@ Nii-san, foque-se nos seus estudos hoje."@
+cl a,lshutter,800
+` Ela sai da sala de estar.@
+` A Kohaku-san sai para acompanhá-la até a porta.@
+`"Hã, me focar nos estudos…?"@
+` Ela é cheia de formalidades com coisas triviais, e de uma forma bem antiquada ainda por cima… Acho que deve ser porque ela foi educada pelo nosso pai nesses últimos oito anos.@
+`"…… É claro que eu iria para a escola mesmo sem ela ter dito nada."
+\
+` Eu coço a minha bochecha.@
+` Tinha alguma coisa no rosto da Akiha que chamou a minha atenção… E por causa disso, eu não prestei atenção nas suas várias advertências desta manhã.@
+`"Mas é claro[line=3]"@
+` Era óbvio.@
+` A expressão dela me lembrou o seu rosto de muitos anos atrás[line=3]
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` Eu vou para o saguão depois de tomar o café da manhã que a Kohaku-san preparou para mim.@
+` A Hisui está aqui, esperando com a minha pasta.@
+ld c,"tachi/his_t01",crossfade,400
+`"Há tempo o suficiente, Shiki-sama?"@
+`"Sim, não vou gastar nem vinte minutos se for correndo.@ São sete e meia agora, consigo chegar a tempo mesmo se pegar o caminho mais longo."@
+` Satisfeita com a minha resposta, ela faz um gesto afirmativo com a cabeça.
+\
+`"Muito bem, vou acompanhá-lo até a saída."@
+`"Hein[line=3]Ah, tá, obrigado."@
+` …… É embaraçoso ter uma empregada pessoal.
+\
+`"Ah, Shiki-san!@ Por favor, espere!"@
+` Com passos barulhentos, a Kohaku-san vem correndo do segundo andar.@
+`"……"@
+cl c,crossfade,400
+` A Hisui dá um passo para trás e fica em silêncio quando a Kohaku-san aparece.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Hum?@ Você não estava com a Akiha?"@
+`"A Akiha-sama vai para a escola de carro.@ Como eu tinha algo para te entregar, fiquei para trás."@
+`"Algo para me entregar?"@
+`"Sim.@ Isso veio da casa da família Arima ontem."@
+` Ela sorri.
+\
+`"Hã?@ Mas toda a minha bagagem já está aqui.@ As coisas que eu usava quando morava com os Arimas pertencem a eles, tudo que tenho são as minhas roupas…"@
+`"Sério?@ Mesmo assim, isso foi enviado para cá…"@
+` Ela me entrega uma caixa de madeira fina, com talvez vinte centímetros de comprimento.@
+` Não está pesada.
+\
+`"…… Kohaku-san, eu nunca vi isso antes."@
+`"Bem… Parece que isso foi deixado para você pelo seu falecido pai.@ Estava no testamento dele."@
+`"…… Foi deixado pelo meu pai?"@
+` …… Isso não tem nenhum significado para mim.@
+` O que aquele velho pretendia me deixando essas coisas?
+\
+`"Ah, tanto faz.@ Kohaku-san, pode deixar isso lá no meu quarto."@
+ld c,"tachi/koha_t09",crossfade,400
+`"[line=5]"@
+` Ela está olhando fixamente para a caixa de madeira.@
+` Ela parece uma criança que quer um brinquedo.@
+br
+` Encaraaaaando.@
+br
+` Não parece, ela é uma criança mesmo.
+\
+`"…… Já entendi.@ Você quer saber o que tem dentro, né?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Ah, não, imagina.@ Só pensei nisso por um instante."@
+` …… É como eu disse, você quer saber o que tem dentro.@
+`"Tá bom, vamos abrir.@ Um, dois… Três!"@
+` Com um som seco, a caixa de madeira abre.@
+` Dentro dela, tem uma[line=4]barra de ferro fina de dez centímetros.
+\
+`"…… É… Uma barra de ferro."@
+` Sem adornos e desgastada, ela está cheia de marcas de dedos.@
+` …… Aquele velho deve ter me odiado bastante para me deixar esta porcaria.
+\
+`"Não, Shiki-san.@ É uma faca de cortar frutas."@
+` Ela tira a barra de ferro de dentro da caixa.@
+`"Veja, não é uma daquelas facas retráteis?@ Um, dois… Três!"@
+` Com um "pachink!", uma lâmina de dez centímetros sai de dentro da barra.@
+` …… Hum, é uma faca mesmo.
+\
+`"É velha, mas parece bem resistente.@ O ano e a era em que ela foi feita estão escritos na parte de trás."@
+` Ela guarda a lâmina e me entrega a faca.@
+cl c,crossfade,400
+` Realmente tem um número no punho.@
+` O caractere do número 'sete' e debaixo dele, o caractere da palavra 'noite'.
+\
+ld l,"tachi/his_t01",notrans,0
+`"Nee-san, não existe uma era com esse nome.@ Apenas está escrito 'Nanatsu-yoru'."@
+`"Ah!"@
+` Surpreso, eu me viro.@
+` A Hisui, que estava em silêncio até agora, estava olhando para a faca sobre o meu ombro.
+\
+`"V-você me surpreendeu… Hisui, devia ter dito alguma coisa.@ Não precisa olhar sobre o meu ombro desse jeito.@ Se quiser ver a faca, é só pedir que te mostro."@
+ld l,"tachi/his_t02",crossfade,400
+`"Ah[line=4]"@
+br
+` De repente, as bochechas da Hisui ficam vermelhas.
+\
+`"P-por favor, me desculpe.@ Hum[line=3]Essa faca é tão bonita que não pude me segurar."@
+`"Bonita?@ Você realmente acha ela bonita?@ Parece só uma tralha velha para mim."@
+ld l,"tachi/his_t01",crossfade,400
+`"[line=3]De modo nenhum.@ A têmpera da lâmina é magistral.@ Acredito que seja uma faca com sua própria história."@
+`"Sério?@ Para mim parece uma porcaria…"
+\
+` Mas já que a Hisui parece tão convencida do que fala, eu começo a acreditar nela.@
+` …… Humm.@ À sua maneira, não é uma herança tão ruim.
+\
+ld r,"tachi/koha_t02",notrans,0
+`"'Sete noites'…?@ Será que é o nome da faca?"@
+`"Talvez seja… Embora eu não consiga imaginar ele dando nome a uma faca."@
+` Seja qual for o caso, é óbvio que é uma antiguidade.@
+`"Bem, em todo caso, eu vou aceitar o que me é dado."@
+` Guardo a lâmina e coloco a faca no bolso da calça.
+\
+cl r,crossfade,400
+`"Shiki-sama, você tem tempo o bastante…?"@
+`"Ah!@ Tenho que ir.@ Kohaku-san, obrigado pela entrega."@
+` Ela sorri e se despede de mim.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,400
+ld c,"tachi/his_t01",crossfade,400
+` Saio de dentro de casa, passo pelo jardim e chego no portão.@
+` A Hisui me segue em silêncio.@
+`"…… Hisui.@ Você veio para se despedir de mim?"@
+` Ela faz um gesto afirmativo com a cabeça.
+\
+`"Shiki-sama?@ A que horas você retorna?"@
+` Parece que ela vai continuar usando o "-sama".@
+` Bem, não tenho tempo para discutir honoríficos agora, vou acabar me atrasando para a escola.@ Vou deixar para reclamar com ela mais tarde.
+\
+`"Shiki-sama?"@
+`"Ah, tá.@ Hum… Acho que lá pelas quatro horas.@ Eu não faço parte de nenhum clube."@
+` Quando não saio com o Arihiko, costumo voltar para casa bem no inicinho da noite.@
+` Ela apenas faz uma mesura depois de ouvir a minha estimativa aleatória.
+\
+ld c,"tachi/his_t16",crossfade,800
+`"Até logo.@ Por favor, tome cuidado no caminho."@
+` …… Não tenho certeza com o que eu devo tomar cuidado, mas provavelmente ela só está preocupada com a minha saúde.@
+`"Claro, obrigado.@ Cuide-se também, Hisui."@
+` Sempre devemos retribuir boas intenções com boas intenções.@
+` Com um aceno de mão energético, deixo os portões da mansão.
+\
+bg #000000,lcartain,800
+bg "bg/bg_22a",lcartain,800
+br
+` [line=3]Vou descendo a colina.@
+` Sempre fui para a escola pelo caminho da casa dos Arimas, é a primeira vez que tomo esse caminho.@
+`"Não parece ter muitos alunos da minha escola por aqui…"@
+` Aparentemente, não há muitos que vivem por aqui.@
+` São sete e meia da manhã.@
+` Não vejo ninguém passando com uniforme escolar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_23a",lcartain,800
+` Começo a ver algumas pessoas em uniformes escolares misturadas na multidão.@
+` Aqui já começa o caminho para a escola.@
+br
+`"…… Será que vou ver a Yumizuka-san…?@ Ah, duvido que vou ter essa sorte…"@
+` Eu me lembro do rosto sorridente da minha colega de classe que se despediu de mim neste lugar ontem, dizendo "minha casa é por aqui".@
+` Quando imagino que a Yumizuka Satsuki já está na nossa sala, eu acelero um pouco o passo e me apresso para a escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24a",lcartain,800
+` Saio da área residencial e chego ao cruzamento.@
+` Os portões da escola vão ser fechados em dez minutos.@
+` Eu começo a correr.@
+br
+bg #000000,lcartain,400
+bg "bg/bg_01a",lcartain,800
+` [line=6]Eu chego na escola.@.@
+br
+` Gastei vinte minutos em vez de trinta.@ Como eu corri várias vezes durante o caminho, vou ter que sair da mansão por volta de sete horas se quiser vir devagar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,400
+`"[line=4]?"@
+` Quando chego na minha sala, percebo que está bastante agitada.@
+` Embora seja agitado assim todas as manhãs, hoje tem algo de diferente no ar.@
+` Abro caminho até a minha carteira perto da janela.@
+` O Arihiko está aqui me esperando, com a cara amarrada.
+\
+`"Aconteceu alguma coisa, Arihiko?"@
+ld c,"tachi/ari_t04",crossfade,400
+`"…… Sei lá.@ Não é nada importante.@ Tem um boato de que alguém da nossa classe fugiu de casa."@
+`"Ah… Deve ser disso que se trata toda essa agitação de hoje."@
+` Eu me sento e suspiro.@
+`"[line=3]Como assim não é nada de importante!?@ Quem fugiu de casa?@ Hein!?"@
+ld c,"tachi/ari_t03",crossfade,400
+`"E como é que eu vou saber?@ Mas acho que vamos descobrir quando a aula começar.@ A carteira que estiver vazia vai ser a da pessoa que fugiu."
+\
+`"Ah, é verdade."@
+` É verdade, mas a atitude do Arihiko me incomoda um pouco.@
+` …… Se um dos nossos colegas de classe realmente fugiu de casa, acho que não podemos ignorar o fato como se não fosse problema nosso.
+\
+`"Arihiko?@ Você está sendo muito insensível!@ Alguém da nossa classe fugiu de casa… Você não está preocupado?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Hein?@ Você é o único aqui que está preocupado de verdade, idiota.@ O pessoal da sala está conversando sobre isso só porque é um assunto interessante.@
+` Não fui eu nem você quem fugiu de casa, para que se preocupar?"@
+br
+` …… Agora que lembrei.@ Esse cara sempre é frio com todo mundo exceto seus amigos.
+\
+ld c,"tachi/ari_t04",crossfade,400
+`"Enfim, eu fico um pouco preocupado sim.@ Fugir de casa em tempos como esses… A pessoa tem que ser muito corajosa ou muito…"@
+`"…?@ Tempos como esses?@ Do que está falando?"@
+`"Eu te falei sobre isso ontem, Tohno.@ Tem um assassino em série solto por aí.@ Eu não sei quem foi que fugiu de casa, mas essa pessoa não pode se queixar se for atacada pelo assassino enquanto estiver vivendo nas ruas."
+\
+`"Não é possível[line=4]isso não vai acontecer."
+\
+`"É melhor você começar a assistir mais televisão, Tohno.@ Já são oito vítimas, e ele não discrimina ninguém.@ É melhor pensar duas vezes antes de sonhar que está seguro.@
+` A cidade tem ficado quase deserta durante a noite.@ Os únicos que perambulam de noite hoje em dia são os bêbados e os policiais, por isso que anda tão chato."@
+` O tom de voz do Arihiko está bem sério.@
+` Começo a ficar meio preocupado depois de ouvir isso.
+\
+`"Ah, o Kunifuji chegou.@ A aula finalmente vai começar."@
+cl a,lshutter,400
+` O Arihiko volta para a sua carteira.@
+br
+` Depois de alguns segundos, todos estão sentados.@
+` Apenas uma carteira está vazia.@
+` A carteira da Yumizuka Satsuki está vazia.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+ld c,"tachi/stk_t03",notrans,0
+br
+br
+br
+br
+br
+br
+`"Bem, minha casa é por aqui.@
+` Então, nos vemos na escola amanhã.@ Tchauzinho."
+\
+bg #000000,crossfade,400
+bg "bg/bg_06a",crossfade,400
+`"……"@
+` …… Foram essas as palavras da Yumizuka quando nos separamos ontem.@ Não sei o que pode ter acontecido na casa dela, mas não posso acreditar que ela sorriria daquela forma se estivesse planejando fugir de casa.
+\
+`"A Yumizuka não veio hoje."@
+` Durante a chamada, ela é tratada simplesmente como um aluna que faltou e nada mais.@
+` …… A aula prossegue como se não tivesse nada de errado acontecendo.@
+br
+` Eu[line=4]
+\

@@ -1,0 +1,231 @@
+playstop
+wavestop
+bg "bg/bg_40d",notrans,0
+` [line=3]Eu vou andar pela cidade envolta pela noite e encontrar o assassino em série.@
+br
+` Assim[line=3]posso provar que os meus sonhos nada são além de sonhos.@
+` Porque[line=3]se eu encontrar o assassino…
+` …… Todos os incidentes terão sido culpa dele.@
+br
+`"……… Certo."@
+` Por precaução, coloco a minha faca no bolso e começo a investigação.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_25b",lcartain,800
+play "*6"
+` [line=5]Caminho pela cidade.@
+br
+` Não tem uma forma certeira de procurar pelo assassino.@
+` A única coisa que posso fazer é vagar pelas ruas e procurar por qualquer coisa suspeita[line=4]ou me usar de isca para atraí-lo.@
+br
+`"………………"@
+` Talvez eu tenha ficado inconsequente para o perigo depois do que aconteceu com a Yumizuka.@
+` Já que o assassino é um simples ser humano, posso andar pelas ruas sem qualquer nervosismo.
+\
+bg #000000,crossfade,400
+bg "bg/bg_27b",lcartain,400
+` Vago pela cidade sem rumo definido.@
+` São quase onze da noite.
+\
+bg #000000,crossfade,400
+bg "bg/bg_26a",lcartain,400
+br
+br
+` …… Não vejo nada suspeito.@
+` Os ponteiros do relógio indicam que passa da meia-noite.
+\
+bg #000000,crossfade,400
+bg "bg/bg_12b",lcartain,400
+br
+br
+br
+br
+` …… Não fez sentido vir para cá.
+\
+bg #000000,crossfade,400
+bg "bg/bg_24c",lcartain,400
+br
+br
+br
+br
+br
+` …… Que droga.@ Não vejo ninguém que se pareça com um assassino.
+\
+bg #000000,crossfade,400
+bg "bg/bg_25b",lcartain,400
+` *arf*…… *arf*…… *arf*…… *arf*
+\
+br
+br
+br
+br
+br
+br
+` [line=6]Estou começando a ficar muito irritado.@
+br
+` Por que não consigo encontrar o assassino?
+\
+` Não é essa pessoa.@
+` Não é essa pessoa.@
+` Não é essa pessoa.@
+` Incapaz de aguentar, coloco a mão no bolso e seguro a faca.
+\
+` Não é essa pessoa.@
+` Não é essa pessoa.@
+` Não é essa pessoa.@
+` Não é essa pessoa.@
+` Não é essa pessoa.@
+` Não é essa pessoa.@
+` Não é essa pessoa[line=8]
+`"[line=5]Hein?"@
+` Por um breve momento, vejo o rosto de um homem com olhos vermelhos.@
+` …… Mas não é nada demais.@
+` É apenas o meu reflexo em uma vitrine.@
+`"[line=8]"@
+` Que[line=5]idiotice.@
+` Seguro a minha faca.@
+` Respirando descontroladamente.@
+` Agindo inconscientemente, como o assassino em meus sonhos.
+\
+`"Não[line=6]!"@
+` Não.@ Eu não queria fazer essas coisas.@
+`"Droga…… O que estou fazendo…………!?"@
+` …… Sério, o que eu estou fazendo?@
+` Se eu não reconhecesse o meu próprio rosto refletido, iria[line=4]iria mesmo pegar qualquer um aqui e…
+br
+` Dizer a mim mesmo que a pessoa é o assassino e teria matado alguém.@
+bg #000000,lcartain,400
+`"Tsc[line=9]"@
+` Começo a correr.@
+` Não posso ficar aqui.@
+` Não vou descobrir nada nesse estado.@
+` Eu[line=4]tem algo errado comigo[line=3]
+\
+playstop
+bg "bg/bg_40d",lshutter,800
+` Respiro com dificuldade.@
+br
+` Chego no meu quarto como se estivesse fugindo de alguma coisa e me jogo na cama.@
+`"Que droga……!"@
+` No fim, não resolvi nada.@
+` …… Começo a ficar com sono.@
+` A minha única saída é tentar dormir profundamente para não ter sonho algum.
+\
+bg #000000,crossfade,800
+!w3000
+waveloop se_11
+bg "bg/bg_26a",notrans,0
+` *arf*[line=3]*arf*[line=4]*arf*
+\
+` Sinto que estou sendo observado.@
+` Eu.@
+` Olho as pessoas andando pela rua com os meus olhos vermelhos como sangue.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Será por causa da hora?@
+`   Comparado a ontem à noite, não tem quase ninguém na rua.
+\
+` …… Alguém está me observando.@
+` Não consigo encontrar quem estou procurando.@
+` De novo.@ Esta noite também não consigo encontrar quem procuro.@
+br
+br
+br
+br
+textcolor #ff0000
+`      Estou começando a ficar irritado.
+\
+textcolor #ffffff
+` Estou arfando muito.
+\
+` Vou mudar de lugar.@
+` Vou parar de procurar na cidade.
+\
+bg "bg/bg_24c",crossfade,400
+` Vou de telhado em telhado e acabo em um lugar cheio de gente.@
+` …… Observando do telhado da casa mais alta, verifico as ruas.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #ff0000
+`             Não olhe!
+\
+textcolor #ffffff
+`"[line=4]Lá."@
+` Vejo uma pessoa caminhando sozinha.@
+` Uma mulher.@
+` Dessa vez, não pode ter erro…
+` Seria ótimo se fosse a Akiha.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`        Não olhe pra mim.
+\
+textcolor #ffffff
+` Não, realmente não importa.@
+` Novamente.@
+` Quero provar daquela deliciosa sensação novamente[line=4]
+\
+bg #000000,notrans,0
+wave se_13
+bg "bg/ima_12b",lshutter,400
+` Eu mato ela por trás, com cuidado para não ferir o seu corpo.@
+` Segurando os seus longos cabelos, arrasto a Akiha.@
+bg "bg/bg_22c",lshutter,800
+` *arf*[line=4]*arf*[line=4]*arf*
+` Mordo o seu pescoço e sugo o seu sangue.@
+br
+` [line=3]Que coisa entediante.@
+` Não chega nem perto da excitação de ontem.@
+` Não tem como ela ser a Akiha com o cabelo curto desse jeito.
+\
+`"…… Que coisa entediante……!"@
+` Começo a ficar irritado.
+\
+` Eu despedaço todo o seu corpo, mas ainda estou muito bravo.@
+` Impostora.@
+` Essa impostora me irrita muito.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`         Pare de me observar!
+\
+textcolor #ffffff
+` *arf*[line=4]*arf*[line=4]*arf*[line=4]
+br
+` Eu usei até energia extra.@
+` A noite não é tão longa.@
+` Assim que amanhecer, o Shiki vai acordar.@
+br
+`"Estou cansado, já chega por hoje.@ Vou recomeçar amanhã."@
+` Sim, já tive o suficiente para hoje.@ Amanhã tem mais.
+\
+` Agora.@
+` Preciso voltar para a escola, antes que amanheça e sem que ninguém perceba[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

@@ -1,0 +1,66 @@
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"…… Por que… Eu tranquei a porta……"@
+` Os meus pensamentos começam a ficar confusos.@
+` Foi porque[line=4]
+bg "event/aki_h13",notrans,0
+!w300
+bg "bg/bg_40c",notrans,0
+`"[line=8]"@
+` Ah, é mesmo.@
+` Tranquei para que a Akiha não pudesse entrar.
+\
+`"Nii-san……!@ Sei que você está acordado.@ Você precisa ser examinado, por que trancou a porta!?"@
+` Bam bam.@ Ela bate com mais força na porta.@
+` A Akiha grita por mim sem descanso e com uma voz amarga.@
+`"Abra a porta de uma vez, pelos céus!@ Você não recebeu a sua terapia intravenosa da noite, quer morrer por acaso!?"@
+` As batidas na porta não param.@
+` …… Faz todo o sentido.@
+` Não é do interesse da Akiha que eu me tranque no quarto assim.@
+` Enquanto eu fizer isso[line=4]ela não vai poder me matar.
+\
+`"Nii-san……!?@ Ei, está me ouvindo, Nii-san……!?"@
+` Bam, Bam.@
+` …… Eu não ligo para as batidas, mas não suporto a voz dela.@
+br
+`"Cala[line=2]a boca…………!!"@
+br
+`"Hã[line=6]?"@
+` Escuto sua indignação do outro lado da porta.
+\
+`"Calar… A boca?@ …… Nii-san, eu só estou preocupada com você[line=3]"@
+`"…… Eu não me importo com nada que você diga.@ Não vou sair daqui.@ Se realmente estiver preocupada comigo, vai embora."@
+`"O qu[line=2]"@
+`"Não entendeu?@ Não vou colocar os pés para fora desse quarto.@ Não vou[line=4]deixar você me matar……!"@
+` Tum.@ Bato na porta.@
+` …… Nenhum som volta do outro lado da porta.
+\
+!w2000
+br
+` [line=2]E depois disso…
+br
+`"…… Nii-san, do que está falando?@ Quem te disse que eu iria matá-lo?"@
+`"…… Some daqui……!@ Eu não sou um assassino, ainda não perdi a sanidade……!"@
+`"Não posso acreditar[line=4]Nii-san, você já foi sugado a esse ponto?"@
+` A sua voz está muito surpresa.@
+` Sinto os seus passos se afastarem da porta.
+\
+`"…… Eu já entendi tudo.@ Nii-san, você está exausto agora, eu vou voltar mais tarde para ver como está."@
+`"[line=2]Cala a boca!@ Não vou deixar ninguém entrar neste quarto……!"@
+`"…… Nii-san.@ Hoje eu vou fazer a sua vontade, mas amanhã[line=4]você vai ter que me obedecer.@
+` Deixá-lo sozinho por um dia já é perigoso demais; simplesmente não posso deixá-lo sem supervisão por dois dias, senão você, com toda certeza, vai morrer.@ Por favor, espere só mais um dia, Nii-san."@
+` Escuto os passos dela recuarem.
+\
+` *arf*…… *arf*…… *arf*
+` Mal consigo respirar.@ É como a Akiha disse, nesse ritmo, com certeza vou morrer.@
+` *arf*…… *arf*…… *arf*
+` Mas[line=3]ainda é melhor que ser morto pela Akiha.@
+br
+` [line=4]Mantenho a porta trancada.@
+br
+` Eu enconsto na parede e mantenho os olhos abertos para não cair no sono.
+\
+bg #000000,lcartain,1500
+playstop
+!w3000

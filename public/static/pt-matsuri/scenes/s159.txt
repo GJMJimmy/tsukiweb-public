@@ -1,0 +1,600 @@
+phase #000000,l,ark,08a,8
+bg #ffffff,crossfade,800
+` [line=3]Branco.@
+`   A cor branca evoca uma antiga lembrança.@
+`   Algo esquecido.@
+`   Algo que eu deveria ter esquecido.@
+br
+`   Algo que meu pai me ordenou que esquecesse.
+\
+bg "bg/cmo_05",crossfade,800
+br
+br
+br
+br
+` Um dia quente de verão.@
+br
+` Um céu azul e enormes colunas feitas de nuvens de verão.@
+` Uma leve brisa,
+` e o canto monótono das cigarras.@
+br
+` O som das cigarras.
+\
+br
+br
+br
+br
+` Chiiirp.@ Chirp Chirp.@
+!w500
+` Chiiirp.@ Chirp Chirp.@
+!w500
+` Chiiirp.@ Chirp Chirp.@
+!w500
+br
+` [line=4]É tão alto que chega a incomodar.
+\
+br
+br
+br
+` Cascas de cigarras estão caídas na clareira.@
+` Como se o sol estivesse bem do meu lado,
+` a clareira está torrando.@
+br
+` Um dia quente no meio do verão.@
+` É como se o mundo inteiro tivesse se transformado em uma frigideira com óleo quente.
+\
+br
+br
+br
+br
+` buáá, bu[line=2]buááá.@
+!w500
+` buáá, bu[line=2]buááá.@
+!w500
+` buáá, bu[line=2]buááá.@
+!w500
+br
+` A Akiha está chorando.
+\
+` A Akiha, que sempre esteve me seguindo por todos os lados, está transbordando em lágrimas.
+\
+bg "bg/cmo_06",crossfade,800
+br
+` Uma criança está caída aos seus pés.@
+` Sua camisa branca está pintada de vermelho, com sangue, e ele não se mexe.@
+br
+` Estou apenas observando.@
+` Minhas mãos estão vermelhas, igual a camisa da criança no chão.@
+` Não, não é isso.@
+` Estas mãos estão vermelhas com o sangue daquela criança.
+\
+br
+`"Akiha[line=5]!"@
+br
+` Os adultos estão chegando.@
+` Depois de virem a cena, suas expressões mudam rapidamente.@
+br
+`"Mas o que[line=5]"@
+br
+` Os adultos levam a Akiha para longe.@
+` A criança permanece ali, morta.@
+` No céu distante, fito as nuvens, as nuvens brancas.
+\
+br
+br
+` Estou sozinho, olhando a esmo para o céu.@
+br
+`"Você matou ele[line=4]"@
+br
+` Os adultos estão gritando comigo.
+\
+` Eles gritam o meu nome, o nome daquele que matou a criança.@
+` Essas duas sílabas, eles gritam como se tivessem enlouquecido.
+\
+br
+br
+br
+br
+br
+` Apenas essas duas sílabas.@
+` Os adultos me chamam de SHIKI, e minhas mãos estão manchadas de vermelho.
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_40e",crossfade,400
+play "*2"
+` Sinto como se tivesse acabado de ter um sonho familiar.@
+` Abro os olhos.@
+br
+`"……………"@
+` Estou no meu quarto.@
+` Depois daquilo[line=3]Depois de perder a consciência no muro da mansão, parece que de alguma maneira voltei para cá.@
+` Meus pensamentos ainda não estão se encaixando.@
+` Eu me lembro do turbilhão de eventos da noite passada.
+\
+` Aquele homem coberto de bandagens.@
+` E como ele podia ver as "linhas", assim como eu.@
+` Depois de ser empalado por aquelas espadas, seu corpo pegou fogo e, com uma voz que parecia conjurar uma praga mortal, ele fugiu.
+\
+`"[line=4]"@
+` Depois disso, consigo me lembrar vagamente do resto.@
+` Uma pessoa em cima do poste de luz.@
+` Aquela pessoa que me salvou, parecia muito com a Ciel-senpai[line=3]
+\
+bg "bg/bg_40a",crossfade,400
+`"…… É claro.@ Isso não pode ser verdade."@
+` Finalmente acordo de verdade.@
+` Coloco meus óculos e levanto da cama.@
+` Já passam das oito.@
+` Normalmente, eu já teria tomado o café da manhã nesse horário, mas hoje é feriado escolar.
+\
+`"A Hisui…… não está aqui?"@
+` A imagem da Hisui parada diante da porta como uma sombra não está aqui.@
+` Tenho certeza de que ela veio aqui várias vezes para me acordar, mas como eu não acordava, provavelmente foi fazer outras tarefas.
+\
+` ………… *suspiro*@
+` Respiro profundamente.@
+br
+` [line=3]Depois de me separar da Arcueid ontem à noite, os acontecimentos seguintes foram além da minha compreensão.@
+br
+` Aquele homem enfaixado e aquela pessoa que me ajudou… são coisas que não compreendo não importa o quanto tente.
+\
+`"Seja como for, tenho que encontrar a Arcueid hoje à noite.@ Ela deve me dar algumas respostas."@
+` Vou falar para ela sobre todas essas coisas estranhas, mas por enquanto, tenho que voltar para a minha vida normal ou vou enlouquecer.
+\
+`"[line=2]Muito bem.@ Antes de tudo.@ Hora do café da manhã."@
+` As pessoas não podem fazer nada de estômago vazio.@
+` Espantando o sono do meu corpo, vou para a sala de estar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46a",lcartain,800
+`"Hum……?"@
+` No corredor do segundo andar na ala leste, eu vejo um uniforme escuro.@
+`"Provavelmente é a…… Hisui."@
+` Parece que a Hisui estava saindo do quarto da Akiha.@
+` Acho que vamos nos encontrar no caminho, então não faz mal cumprimentá-la.
+\
+`"Ei, Hisui!"@
+` Eu chamo ela.@
+` Ela percebe que estou aqui e calmamente vem na minha direção.@
+ld c,"tachi/his_t01",lshutter,800
+`"Bom dia, Shiki-sama."@
+`"Bom dia.@ Desculpe-me por eu ter acordado apenas quando senti vontade."@
+`"Por favor, me desculpe também.@ Eu deveria estar lá quando você acordasse.@ Perdoe-me."@
+` Ela abaixa a cabeça.@
+` …… Ver ela me pedindo desculpas assim, depois que saí no meio da noite e voltei para o meu quarto sem falar nada, me faz sentir como a pior pessoa do mundo.
+\
+`"Não precisa se desculpar.@ Eu não acordei no horário de costume, a culpa foi minha.@ Se quiser, você sempre pode reclamar alguma coisa comigo, Hisui."@
+`"…… Reclamar……?"@
+`"Sim.@ Meu amigo sempre diz que sou um vagabundo preguiçoso e que também uma boa pancada nas minhas costas de vez em quando é bom para me manter na linha."
+\
+`"………………"@
+` A Hisui fica pensando em silêncio enquanto olha para mim.@
+` Ela fica assim por cerca de um minuto.@
+` Ela nem pisca, só me encara.@
+` …… Eu sabia que forçá-la a fazer algo tão normal seria impossível.
+\
+`"Não se preocupe... apenas esqueça isso.@ Estou com fome.@ O café da manhã está pronto?"@
+`"…… A Nee-san saiu.@ Seu café da manhã está na sala de jantar."@
+`"Ah.@ Nesse caso, vou lá comer.@ Desculpe te atrapalhar enquanto estava trabalhando."@
+` Depois de me despedir rapidamente, desço as escadas.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_34a",lcartain,800
+` Depois de tomar o café da manhã, vou para a sala de estar e dou de cara com a Hisui.@
+ld c,"tachi/his_t01",crossfade,400
+`"Ah, estava ótimo.@ Obrigado por preparar ótimas refeições todas as manhãs."@
+` Junto minhas mãos para agradecer.
+\
+`"Preparar as refeições é dever da Nee-san.@ Se quiser agradecer pela comida, agradeça a ela."@
+`"Eu sei disso, mas[line=3]seus deveres são tão diferentes assim?@ Como hoje eu dormi além da conta, achei que você poderia ter preparado."@
+ld c,"tachi/his_t08",crossfade,400
+`"Shiki-sama, você está dizendo que o café da manhã não estava do seu gosto?"
+\
+`"[line=4]Hã?"@
+` Suas palavras estão tão fora do assunto que é… perturbador.@
+` Será que ela acha que eu disse que queria que ela fizesse o café da manhã porque o de hoje estava ruim?@
+br
+`"Não é isso.@ Mesmo fria, a comida da Kohaku-san é deliciosa.@
+` …… Mas prefiro quando está quente.@ E ficaria muito feliz se pudesse provar da sua comida, Hisui."
+\
+ld c,"tachi/his_t01",crossfade,400
+`"[line=3]Não posso fazer isso.@ Shiki-sama, eu me recuso a cozinhar para você."@
+` De repente, seus olhos ficam desafiadores.@
+`"Ah, tudo bem.@ Não quero te forçar a fazer algo que não queira.@ Você já faz tanto por mim."
+\
+ld c,"tachi/his_t05",crossfade,400
+`"…………"@
+` Ainda em silêncio, ela me encara, como se quisesse dizer alguma coisa.@
+` …… O que poderia ser?@
+` Seria algo dificil de se dizer?@
+`"Qual o problema Hisui?@ Fiz algo de errado sem perceber outra vez?"@
+` Ela balança a cabeça: "não".@
+` Ela simplesmente continua ali, em silêncio.
+\
+`"…… Então vou voltar para o meu quarto.@ Se precisar de mim é só chamar."@
+cl c,crossfade,400
+` "Até mais," eu digo quando começo a sair da sala.@
+` Mas[line=3]antes disso, a Hisui vai na direção do saguão.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"[line=3]Shiki-sama."@
+`"Hum?"@
+`"Isso pode ser indelicado, mas eu quero cumprir o seu pedido com o melhor das minhas habilidades."@
+`"…… Hã?"@
+` Ela olha diretamente para mim.
+\
+`"Essa manhã, percebi o quanto sou incapaz."@
+`"Hã[line=3]Hein?"@
+`"Foram sete vezes.@ Eu te chamei sete vezes, mas não tive nenhuma resposta.@ Isso é aceitável?"@
+`"Sete vezes?@ Como assim?"@
+` Não faço ideia do que ela está falando.
+\
+` Ela se vira.@
+ld c,"tachi/his_t09",crossfade,400
+`"Falando francamente, acho que você é muito difícil de se lidar, Shiki-sama."@
+cl c,lshutter,400
+` Ela desaparece pelo saguão com os passos ecoando.
+\
+`"………… Mas[line=2]hein?"@
+` Deixado sozinho, digo isso estupidamente.@
+` Depois de refletir um pouco, percebo que ela estava reclamando comigo.@
+br
+` [line=3]Se quiser, você sempre pode reclamar alguma coisa comigo, Hisui.@
+br
+` Eu disse isso mais cedo.
+\
+`"[line=3]Aquilo foi… o meu pedido?"@
+` Sim, sem dúvidas.@
+` Ela esteve pensando nisso o tempo todo e ficou me esperando na sala de estar apenas para me dizer isso.@
+br
+`"…………… Bem, foi uma reclamação, mas…"@
+` Dizer que sou "muito difícil de se lidar" é um pouco demais, né?@
+` …… Não quero pensar muito sobre isso,
+` será que a Hisui me odeia?
+\
+bg #000000,crossfade,800
+bg "bg/bg_40a",crossfade,800
+` Eu volto para o meu quarto, mas não tenho nada para fazer aqui.@
+` Depois de pensar sobre o que fazer, decido andar pela mansão que não exploro há oito anos.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` Chego ao saguão.@
+` Pensando bem, sempre gritavam comigo por brincar dentro da mansão quando era criança.@
+` Não sou mais criança para fazer isso e meu pai já se foi também.@
+` Eu costumava ficar todo animado só de andar pelos corredores, mas agora não sinto nada.@
+br
+` Eu saio vagando pela mansão para confirmar minhas lembranças de infância.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46a",lcartain,800
+` O corredor é muito longo.@
+` Quando era criança, acreditava que esse corredor continuaria para sempre.@
+br
+` A mansão parecia tão grande quanto um castelo, todos os dias eu andava um pouco por ela e escrevia meu nome na parede, nos pilares, ou no chão.@
+` Era uma espécie de jogo que brincava junto com a Akiha, para ver quem poderia dominar a mansão.@
+` Onde quer que eu colocasse o meu nome, se tornava meu território.@ Era apenas nós dois andando pela mansão e rabiscando nossos nomes aqui e ali.
+\
+bg #000000,lshutter,400
+bg "bg/bg_46a",lshutter,400
+`"Ah, olha.@ Ainda está aqui."@
+` No corrimão da escada está escrito o nome SHIKI.
+\
+` Provavelmente foi por causa desses jogos que o meu pai nos proibiu de brincar dentro da mansão.@
+` Enfim, se eu olhar de perto, posso ver o meu nome e o da Akiha em todos os lugares.
+\
+` Essa mansão enorme.@
+` Antes eu costumava pensar que era como um castelo gigante, agora quase parece com uma casa abandonada e assombrada.@
+` Isso é porque eu cresci.@
+` A Akiha e eu, não somos mais a Tohno Akiha e o Tohno Shiki que éramos naquela época.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,800
+` Eu vou para fora.@
+br
+` [line=3]Pensando bem, a maior parte do tempo que passávamos brincando era no jardim.@
+br
+` Como a Akiha era obediente, ao contrário de mim, ela só podia brincar do lado de fora por cerca de trinta minutos por dia.@
+` E mesmo assim, geralmente ela só ficava atrás de nós, vendo e ouvindo.
+\
+` Mas corria energicamente conosco e competia em qualquer jogo que fôssemos brincar.@
+br
+`"…… Talvez sua personalidade derive daqueles tempos?"@
+` Ela pode ter se reprimido na frente do nosso pai.@
+` Mas mesmo assim, a Akiha mudou demais desde então.@ Talvez esses oito anos tenham sido um tempo mais longo do que eu pensava.
+\
+bg #000000,lcartain,800
+bg "bg/bg_42a",lcartain,800
+` [line=3]Eu vou para o pátio.@
+` As paredes aqui fora também estão rabiscadas com nomes.@
+br
+` SHIKI, Shiki, Akiha, SHIKI, Akiha, SHIKI, Akiha, Shiki, Shiki, SHIKI, Shiki.@
+br
+` A proporção é essa, e o nome SHIKI apareceu muito mais vezes.@
+` Suponho que a Akiha, por ser só uma menina, não conseguia se comparar com um menino.
+\
+`"Nossa.@ Teria sido melhor se tivesse me segurado um pouco."@
+` Ficar me amaldiçoando naquele tempo não muda o número dos meus rabiscos.@
+` Se esse foi o caso, provavelmente deixei a Akiha muito irritada, considerando o quanto ela odeia perder.@
+`"Entendo.@ Talvez ela esteja descontando em mim agora."@
+` …… Tenho certeza que ela não é do tipo que faz isso, mas se for, é meio fofo da parte dela.
+\
+`"Sou um irmão mais velho estúpido para a sua irmãzinha."@
+` Sim, realmente sou.@
+`"[line=4]Muito bem."@
+` Com um sentimento nostálgico e tranquilo, passeio pelo jardim.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_54a",lcartain,800
+`"Hisui……?"@
+` Ao chegar na parte de trás do pátio, vejo a Hisui por trás.@
+` Ela não percebeu que estou aqui.@
+` O que ela está fazendo, indo para a floresta?@
+`"?"@
+` Um pouco curioso, sigo-a de uma distância segura.@
+br
+` [line=4]E.@
+br
+` Parece haver uma pequena clareira no lugar que a Hisui está indo.@
+br
+`"……… Hã?@ Tem uma clareira naquele lugar?"@
+` Inclinando minha cabeça para o lado tento me lembrar, mas, por algum motivo, minha memória está um pouco vaga.@
+` Na floresta da mansão, posso ver uma clareira, como se as árvores de lá tivessem sido cortadas.
+\
+` [line=3]Não, "posso ver" não está certo de se falar.@
+` Se estivesse caminhando normalmente, provavelmente nunca iria percebê-la.@
+` Se a Hisui não tivesse ido até ela, tão escondida pelas árvores ao seu redor como está, eu nunca a teria notado mesmo se vivesse aqui toda a minha vida.@
+br
+`"…… ?@ Ela sempre esteve ali?@ Se esteve, provavelmente brincamos lá quando éramos crianças."@
+` Para falar a verdade, não me lembro de ter brincado com a Akiha nessa clareira.
+\
+!w1500
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Sinto que nunca estive lá antes.@
+!w1500
+\
+` "…………"@
+` Depois de pensar um pouco, decido ir até a clareira.
+\
+bg #000000,lcartain,800
+bg "bg/bg_53",lcartain,800
+` …… Não me parece nada fora do comum.@
+` Não vejo nenhum sinal da Hisui.@
+br
+`"O que é isso[line=3]é apenas um espaço vazio."@
+` Vou até o meio da clareira.@
+` Realmente é apenas um espaço vazio.@
+` Um terreno aberto, perfeitamente nivelado.@
+` A floresta densa envolve a área.
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+br
+br
+br
+br
+br
+` O canto das cigarras.@
+` E o forte sol de verão que parece poder dissolver[line=6]
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+` "Hein…………?"@
+` Verão[line=2]sol de verão[line=3]?
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+`"Ai[line=4]aiai………"@
+` O ferimento no meu peito começa a doer.@
+!w500
+`        É como uma / facada
+!w500
+`          Essa dor / é como se fosse / uma faca apunhalando o meu peito.
+\
+bg #ffffff,crossfade,800
+br
+` Chiiirp.@ Chirp Chirp.@
+!w500
+` Chiiirp.@ Chirp Chirp.@
+!w500
+` Chiiirp.@ Chirp Chirp[line=4].@
+br
+` O que é isso?@
+br
+` [line=4]Estou ouvindo o canto das cigarras.@
+br
+` Mas estamos no outono.@
+br
+` [line=4]O sol de verão banha tudo em branco.
+\
+wave se_01
+br
+br
+br
+br
+br
+` Colunas feitas de nuvens de verão ao longe no céu.@
+!w500
+` Quase posso compreender o canto.@
+!w500
+` Aos meus pés, estão as cascas descartadas de cigarras.
+\
+!w500
+` Casca descartada.@ A casca descartada[line=2]de alguém.
+\
+wave se_01
+`"[line=4]…………"@
+br
+` Meu ferimento abre.@
+!w500
+` Meu peito fica pintado de um vermelho escuro; o vermelho quase preto ensopa minhas mãos.@
+!w500
+\
+bg "bg/ima_13",notrans,0
+bg "bg/cmo_06",crossfade,400
+waveloop se_02
+br
+` …… Vejo a silhueta de alguém agachado.@
+`   Os passos de uma garotinha se aproximando.@
+`   As colunas de nuvens no céu distante.@ As cascas descartadas das cigarras.@
+`   E então,
+br
+!w500
+`   Na minha frente, a cara de choro da Akiha, que está encharcada de sangue.
+\
+br
+br
+br
+br
+br
+` Chiiirp.@ Chirp Chirp.
+\
+` Chiiirp.@ Chirp Chirp.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Ah.@ Esse som que tenta perfurar meus tímpanos,
+`  é o canto das cigarras.
+\
+bg #ffffff,crossfade,1500
+bg "bg/bg_53",notrans,0
+`"Ah[line=4]guh."@
+` Meu peito dói.@
+` Estou me sentindo péssimo.@
+` Meu ferimento foi curado há muito tempo; por que ele dói tanto?@
+monocro #ff0000
+bg "bg/ima_13",crossfade,800
+` Meu peito   está com algum problema.@
+` O antigo ferimento se abre, o sangue flui da abertura.
+\
+br
+` [line=3]Como assim?@
+` Meu ferimento[line=2]não se curou completamente.
+\
+br
+br
+br
+br
+`   Está doendo.@
+`     Estou assustado.@
+`       Isso é,
+!w1000
+`             O impacto chamado de Morte.
+\
+monocro off
+bg #000000,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Minha consciência vai desaparecendo.@
+` Meu ferimento dói.
+\
+br
+br
+br
+br
+br
+br
+br
+` Meu corpo cai no chão com um estrondo.
+\
+wavestop
+bg #ffffff,crossfade,1500
+!w2000
+play "*8"
+bg "bg/bg_40c",crossfade,800
+br
+br
+br
+` …… Estou ouvindo pessoas conversando.
+\
+`"Akiha-sama, você não vai chamar um médico?"@
+`"Não seja estúpida, Hisui.@
+` De maneira alguma eu poderia fazer isso, o ferimento do Nii-san não é normal…!"
+\
+` …… A Akiha  e  a Hisui   estão conversando.@
+` Este   é   o quarto do SHIKI.@
+` Parece   que   estou  deitado  na cama.@
+br
+` Eu pretendia dizer "Bom dia!" e sair da cama, mas não consigo me mexer.@
+` Meu peito não dói mais, mas meu corpo está tão pesado quanto chumbo.@
+` Só consigo mexer os olhos e a boca.
+\
+ld r,"tachi/aki_t07b",crossfade,400
+`"Mas o que você estava tentando fazer, Hisui?@ Você sabe que não é para deixar o Nii-san chegar perto daquele lugar……!"@
+ld l,"tachi/his_t05",crossfade,400
+`"Por favor…… Perdoe-me."@
+`"Isso não pode ser resolvido pedindo desculpas.@ Você foi designada a servir o Nii-san para evitar esse tipo de situação.@ Então, o que você estava fazendo…!?"
+\
+` Completamente diferente do normal, a Akiha se entrega totalmente à sua raiva.@
+` A Hisui está aceitando a repreensão de cabeça baixa e em silêncio.@
+br
+` …… Não sei o motivo disso estar acontecendo.@
+` Mas pelo menos posso dizer que a Hisui está sendo repreendida por minha causa.
+\
+`"Responda logo, Hisui.@ O que você estava fazendo e onde esteve o dia todo?"@
+` A Hisui não responde.@
+` O ar fica mais tenso entre elas.@
+` Mordendo o lábio, a Akiha dá um passo em direção à Hisui.@
+cl a,crossfade,400
+br
+` …… Até eu posso entender que a Akiha pretende bater nela.@
+` A Hisui parece saber disso também, mas permanece com a cabeça abaixada, com vergonha, pronta para apanhar.
+\
+`"[line=3]Espera, Akiha."@
+ld c,"tachi/aki_t15b",crossfade,400
+`"Nii-san[line=2]Você está acordado!?"@
+`"Sim, você estava falando tão alto que acordei."@
+`"Ah…………"@
+ld c,"tachi/aki_t16b",crossfade,400
+` Ela desvia o olhar, parecendo desconfortável.@
+` A Hisui continua de cabeça baixa, nem tenta olhar para mim.
+\
+`"Olha, você não deveria brigar com a Hisui.@ Não sei as circunstâncias, mas isso tem a ver com o meu desmaio, não é?@ Não é culpa dela, eu desmaiei por minha culpa mesmo."@
+br
+` Eu me esforço bastante e consigo levantar a parte de cima do meu corpo.@
+` Mas isso é tudo que consigo e não acho que consiga mover até mesmo um centímetro a mais.@
+` Mas como a Hisui está deprimida, tenho que me forçar a agir da melhor forma possível.
+\
+`"…… Sinceramente, brigando por minha causa!?@ Mesmo que você pareça adulta, ainda é uma criança."@
+ld c,"tachi/aki_t17b",crossfade,400
+`"Mas… você desmaiou, Nii-san.@ Você ficou assim por mais de dez horas e isso nunca havia acontecido antes.@
+` E se[line=3]você nunca acordasse, o que eu faria……!?"@
+`"Idiota, não diga uma besteira dessas.@ Isso não foi apenas a minha anemia?@ …… hã?@ Já são dez horas!?"
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"Sim, você esteve inconsciente desde o meio-dia."@
+` Ela fala hesitante.@
+` Eu não estou preocupado comigo, estou preocupado com a minha promessa de encontrar a Arcueid no parque às dez horas.
+\
+`"Ah não, tenho que ir.@ Akiha, eu preciso que sair, deixo o resto com você.@ Não brigue com a Hisui, tá bom?"@
+`"N-não diga uma besteira dessas……!@
+` Eu não vou te perguntar onde você vai toda noite, Nii-san.@ Não vou perguntar, então por favor, pelo menos esta noite descanse o seu corpo……!"@
+`"Ahaha, estou bem.@ Isso é normal.@ Quando eu estava no ensino fundamental, costumava desmaiar duas vezes por dia, você sabe disso, não é, Akiha?"@
+ld c,"tachi/aki_t23b",crossfade,400
+`"É por isso que estou mais preocupada ainda.@ [line=3]Nii-san, por favor, escute o que eu digo, pelo menos esta noite."
+\
+` Ela me olha nos olhos com uma expressão séria.@
+br
+` Eu[line=5]
+br
+cl c,crossfade,400

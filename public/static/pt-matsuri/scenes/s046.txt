@@ -1,0 +1,58 @@
+playstop
+bg "bg/bg_40c",crossfade,800
+waveloop se_11
+` Deixado sozinho, eu deito na cama.@
+` Esta casa de oito anos atrás…
+` Minha família de oito anos atrás…
+` É como se tudo isso pertencesse a outra pessoa.@
+` *suspiro*@
+`"…… Como será minha vida de agora em diante?"@
+` Resmungando comigo mesmo, eu adormeço.
+\
+bg #000000,crossfade,1500
+!w3000
+br
+` Aúúúúúú.@
+br
+` [line=3]Ouço um barulho estranho.
+\
+br
+` Aúúúúúú.@
+br
+` [line=3]Tem um animal uivando.@ Está muito estridente para ser um cachorro de rua.
+\
+br
+` Aúúúúúú.@
+br
+` [line=3]O uivo ecoa nos meus tímpanos.@ Será que ele está uivando para a lua?
+\
+br
+` Aúúúúúú.@
+br
+` [line=3]Isso não parece normal.@ Esse uivo está começando a me dar dor de cabeça.
+\
+br
+` Aúúúúúú.@
+br
+` [line=3]Ele não para.
+\
+br
+` Aúúúúúú.@
+br
+` Aúúúúúú.@
+br
+` Aúúúúúúúúúúúúúúúú[line=3]
+\
+bg "bg/bg_40d",crossfade,400
+`"…… Droga, cala a boca!"@
+br
+` Eu acordo.@
+` Ouço o uivo de um cachorro pela janela.@
+` É pouco mais de onze horas.@
+` Isso é mais do que apenas uma vizinhança incômoda.
+\
+`"Droga, eu não consigo dormir assim!"@
+` Os uivos vêm de algum lugar perto das grades que cercam a mansão.@
+br
+` …… A essa altura não vou conseguir voltar a dormir.
+\

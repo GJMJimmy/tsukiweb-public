@@ -1,0 +1,183 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+` [line=3]Mas vamos com calma.@
+br
+` As palavras da Hisui me incomodaram bastante, mas eu fui até a edícula mais cedo.@
+` Já sei que não tem nada lá.@
+` Vou ficar tranquilo esta noite e apenas deitar para dormir.
+\
+bg #000000,crossfade,1500
+playstop
+monocro #ff0000
+!w2000
+wave se_01
+!w600
+` [line=4]Quente.
+\
+wave se_01
+!w600
+br
+br
+br
+` [line=4]Quente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+` [line=4]Quente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+` [line=4]A minha gartanta[line=3]está seca[line=4]que sede[line=4]ela está quente.
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Não consigo dormir desse jeito.@
+`      Vou buscar um copo de água.
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` Ao que parece, eu vim para a cidade à noite.@
+` Ao que parece, estou aqui com os olhos sedentos, esperando alguém passar.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Está quente.
+\
+` De repente, vejo um rosto refletido em uma janela.@
+` Seus olhos estão vermelhos e o rosto parece o de uma pessoa louca.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Está tão quente!
+\
+` Acho que encontrei a minha presa.@
+` Eu a estrangulo por trás e está tudo acabado.@
+` Parece que a mulher desconhecida morreu só com isso.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Estou sentindo[line=4]tanto calor.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+` Pego o cadáver e mordo o seu pescoço.@
+` Faz um som borbulhante.@
+` Minha sede termina depois de tomar o sangue do pescoço rasgado.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Não entendo.
+\
+` Ouço o som de uma respiração ofegante.@
+` Isso…
+` Isso me excita tanto assim?@
+` Enfio o meu dedo no peito do cadáver.@
+` Ouço o som da carne sendo dilacerada, o som dos ossos quebrando.@
+` O som de um coração sendo arrancado com as minhas próprias mãos.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Enquanto assisto a tudo, a minha cabeça é preenchida com o branco puro.
+\
+` Este é[line=4]o roubo derradeiro.@
+` O auge da imoralidade.@
+` Só de olhar para esta cena me deixa muito quente.@
+` Talvez possa ser considerado um prazer negativo, mas por me fazer sentir esse calor todo, acho que não faz diferença.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Não entendo.
+\
+bg "bg/ima_18",crossfade,400
+` O sangue quente escorre pela minha boca e eu fito o céu noturno, fascinado.@
+` Os meus cabelos longos balançam com o vento.@
+` O céu em espiral.@
+` Que bela lua prateada.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]E mesmo assim, eu não entendo.@
+`   Eu estou[line=4]simplesmente[line=4]quente[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

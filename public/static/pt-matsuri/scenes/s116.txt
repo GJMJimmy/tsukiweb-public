@@ -1,0 +1,60 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32b",lcartain,800
+play "*1"
+` Vou caminhando pela estrada e me aproximo da mansão.@
+` Depois de andar um pouco mais, vejo a Hisui sozinha no portão principal.@
+br
+`"……?@ O que será que ela está fazendo?"@
+` Inclinando minha cabeça para o lado, sigo para o portão.@
+` A Hisui percebe que eu cheguei e abaixa a cabeça.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Bem-vindo de volta, Shiki-sama."@
+`"[line=3]Ah, sim[line=3]obrigado, Hisui."@
+` Eu mal posso responder, já que estou perplexo com tanta demonstração de respeito.@
+`"Hum[line=3]você estava me esperando?"@
+`"Sim.@ Cumprimentar o mestre é o dever de uma criada."@
+` Respondendo com muita naturalidade, ela nem pisca.
+\
+`"Hum, Hisui, estou realmente muito feliz que você tenha ficado aqui esperando para me cumprimentar, mas não há necessidade alguma de ficar do lado de fora.@
+` Eu vou voltar de qualquer forma, então você pode me cumprimentar assim que perceber que eu cheguei."@
+ld c,"tachi/his_t05",crossfade,400
+`"[line=5]"@
+` Parece que ela ficou triste.@
+` …… Ah, talvez…
+` Talvez ela tenha ficado me esperando aqui no sábado e no domingo também.
+\
+`"[line=2]Hisui, hum[line=2]"@
+ld c,"tachi/his_t01",crossfade,400
+`"Entendido.@ A partir de amanhã, vou esperá-lo no saguão de entrada."@
+` Ela faz uma breve mesura e abre o portão.@
+` E se vira depois de fazer isso.
+\
+` ………… *suspiro*@
+` Esse clima não está propício para conversar.@
+` A Hisui fecha o portão depois que eu entro, e silenciosamente caminha até a entrada para abrir a porta e me conduzir até o saguão.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40b",lcartain,800
+` Eu chego no meu quarto.@
+` A Akiha ainda não chegou em casa, a Kohaku-san está fazendo o jantar, e a Hisui está limpando a mansão.@
+br
+`"[line=3]Poxa, não tem nada para fazer."@
+` Na verdade, tem uma montanha de coisas para estudar, revisar e memorizar que um estudante como eu precisa fazer.@
+` Mas não estou com vontade de fazer nada disso.
+\
+` De repente, o rosto da Arcueid aparece na minha mente.@
+` Sendo uma coisa boa ou ruim, provavelmente é só uma reação aos dois dias loucos que eu tive.@
+` Talvez seja bom eu ficar relaxando aqui no meu quarto, dando um tempo de descanso para o meu coração e minha mente.
+\
+bg #000000,crossfade,800
+!w1500
+bg "bg/bg_40c",crossfade,800
+` Depois de jantar sozinho na sala de jantar enorme, a Kohaku-san cuida dos meus ferimentos e eu volto para o meu quarto.@
+` A Akiha não voltou a tempo para o jantar.@ Parece que suas aulas vão demorar bastante, por isso ela vai jantar fora.@
+` Já passa das dez horas da noite.@
+` Está um pouco cedo, mas como estou exausto, eu deveria dormir mais cedo hoje[line=2]
+\
+playstop

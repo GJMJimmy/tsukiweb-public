@@ -1,0 +1,28 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"…… Vejamos, não é porque você me odeia?@ Eu não fui capaz de te encontrar na hora certa e também fiz várias coisas horríveis para você."@
+br
+` …… Deixando de lado meus sentimentos em relação à Arcueid, calmamente analiso a situação.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"[line=4]Será mesmo?@ Essa é a primeira vez que senti alguma emoção por alguém, por isso eu mesma não consigo entender……"@
+cl c,crossfade,800
+` Depois de ficar quieta por alguns minutos, ela levanta a cabeça.@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Hum, Shiki, você me odeia……?"@
+br
+` E me faz essa pergunta.
+\
+`"E-Eu……?@ Eu, hum[line=4]"@
+`"………………"@
+` Ela me observa em silêncio.@
+`"Eu[line=4]eu não te odeio, é por isso que estou te ajudando."@
+` …… Por enquanto, essa é a pura verdade.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"…… Entendo.@ Talvez eu me sinta da mesma forma também."@
+` A Arcueid afirma acenando com a cabeça, mas parece incerta.@ Não tenho certeza se ela entendeu.@
+cl c,crossfade,400
+\

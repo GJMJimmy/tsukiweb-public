@@ -1,0 +1,47 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Merci ～！@
+`　在劇情高潮迎來了Dead End ，充滿怨念的遠野君，特意為你準備的這個Corner，
+`「教教我吧！@知得留先生！」@的時間又到了。@
+`　這個來不來都無所謂的Corner，也進入第二天了。@
+`　照這個架勢下去到第三天我就該吐了。@
+br
+`　那麼第一節課開始嘍。
+\
+`　啊～啊。@
+`　我早就跟遠野君說過。@
+`　不要相信愛爾奎特。@
+br
+ld l,"tachi/ark_t30",lshutter,400
+`「才不是呢。@這次又不是我的錯」@
+br
+`　不管怎麼看也是你乾的好事兒吧。@
+br
+`「嗚喵～！」
+\
+cl l,lshutter,400
+`[line=4]好了。@
+br
+`　來到這裡的遠野君。@
+`　雖然有些難以啟齒，但你得往前倒退一點重新再來了。@
+`　愛爾奎特心中產生的對遠野君的感情，很遺憾，敗給了她的吸血衝動。@
+`　請從一兩天前開始，試著加深你們之間的羈絆。@
+br
+`　啊啊，還有一件事呢。@
+`　遠野君，就算你是被魅惑了，這麼簡單就暴走，我覺得也是不對的哦～。
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lshutter,400
+`「都說不是我的錯喵……」@
+ld c,"tachi/ark_t31b",lshutter,400
+ld c,"tachi/ark_t31a",lshutter,400
+`「志貴是白痴～！@　混球～！@　王～八～蛋～！」
+\
+cl c,crossfade,800
+playstop

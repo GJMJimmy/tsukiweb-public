@@ -1,0 +1,476 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_24b",lcartain,800
+` Depois de comer, olhamos as vitrines das lojas na rua principal e, por algum motivo, acabamos seguindo em direção à minha escola.@
+` O sol começa a se pôr.@
+` Na verdade, o motivo de estarmos indo para a escola é porque a Arcueid de repente me pediu 'Vamos até a escola que você frequenta', e não pude dizer 'não' para ela.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01b",lcartain,800
+play "*3"
+`"Já te disse antes, não podemos entrar.@ Eu faltei à escola hoje e você não é uma estudante daqui."@
+ld c,"tachi/ark_t01a",lshutter,400
+`"Eu sei.@ Não vou te causar problemas, relaxa."@
+` Ela observa a escola pelo portão.@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hã………?"@
+` A Arcueid inclina a cabeça.@
+cl c,crossfade,400
+`"Qual o problema?@ O que houve?"@
+` Olho para a escola atrás dela.
+\
+`"H…… hein?"@
+` Dessa vez sou eu quem inclina a cabeça.@
+` Não há sinal de ninguém na escola.@
+` Nem são seis horas ainda.@
+` A essa hora, deveria haver vários clubes esportivos praticando ainda[line=4]
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Shiki, parece que não tem ninguém aqui."@
+` Humm, não sei o porquê, mas realmente não tem ninguém aqui.@
+` Não vejo ninguém dentro do prédio também.@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Como pode ver, Shiki, não tem ninguém lá dentro também."@
+` Ela olha para mim.@
+br
+` …… Tenho certeza de que já sei o que ela está tentando dizer.
+\
+`"De jeito nenhum."@
+` Eu me recuso sem fazer rodeios.@
+` Mas ela não me escuta.@
+ld c,"tachi/ark_t08",crossfade,400
+`"Se não tem ninguém, não vou me meter em problemas por entrar.@ Viemos em um ótimo momento, não foi?"@
+`"Eu já te disse que não quero."@
+cl c,lshutter,400
+`"Uau, aqui dentro é maior do que pensei.@ O prédio da escola também é enorme, parece bem adequado para o seu propósito."@
+br
+` …… Que estranho.@
+` A voz da Arcueid não está vindo daqui de perto de mim, está vindo de dentro da escola.
+\
+`"Shiki, esta porta não quer abrir, posso quebrá-la?"@
+` Que velocidade insana!@
+` A Arcueid já está ao lado de uma porta de vidro, com seu braço armado para quebrá-la.@
+br
+`"E…… ei, por que você não escuta o que as pessoas estão falando[line=2]!?"@
+` Corro com todas as minhas forças até a porta de vidro para evitar que ela seja quebrada por uma grande idiota.
+\
+bg "bg/bg_03b",lcartain,800
+ld c,"tachi/ark_t08",notrans,0
+`"Ah, você veio."@
+` Ela sorri, como se estivesse se divertindo.
+\
+`"…… Vir para a minha escola é tão divertido assim?@ Tem um monte de outros lugares melhores que posso te levar, vamos sair daqui."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Eu não acho.@ O lugar que você sempre vem parece ser muito divertido."@
+` Ela dá uma risada maliciosa e sorri diabolicamente.@
+`"Shiki, eu quero entrar.@ Você poderia matar a fechadura da porta?"@
+`"M-matar a fechadura?@ Escuta aqui[line=4]"
+\
+`"O estrago não seria menor se você fizesse isso?@ A maneira como você corta algo, não deixa quaisquer cortes transversais que se pareça com a ação de uma lâmina.@ Se alguém descobrir mais tarde, vai parecer que ela quebrou sozinha.@ Vamos, vamos."@
+` Ela aponta para a janela de vidro do corredor.@
+cl c,crossfade,400
+`"…… Nossa, você está agindo como uma criança."@
+` Abaixo um pouco meus óculos.
+\
+monocro #ff00ff
+bg "bg/bg_03b",lcartain,400
+` …… Vejamos, uma janela com uma "linha" na fechadura…
+br
+`"…… Merda, convenientemente tem uma."@
+` Tiro a faca do bolso e corto a fechadura.@
+` …… Não, não é bem 'cortar'.@ É mais como 'matar' a fechadura.
+\
+monocro off
+bg "bg/bg_03b",lcartain,400
+`"Pronto.@ Vamos entrar."@
+` Abrindo a janela de vidro, entramos no prédio da escola.
+\
+bg #000000,crossfade,800
+bg "bg/bg_06f",crossfade,800
+` …………………… *suspiro*@
+br
+` Eu sabia que seria assim.@
+` Ela diz que quer ir até a minha sala de aula primeiro.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ei, Shiki.@ O que você estuda aqui?"@
+`"O quê?[line=4]Coisas normais de escola.@ História, e um monte de coisas sobre a cultura do meu país.@ E para aprender como as coisas funcionam, estudamos física e matemática.@ E podemos ir para o exterior um dia, então também estudamos inglês."@
+`"Hum, sério?@ Bem, se tratando de você, pensei que estava estudando coisas como 'A melhor maneira de se cortar as pessoas' ou 'como usar vários tipos diferentes de lâminas'."@
+`  Ela diz algo muito engraçado.
+\
+`"Arcueid, você está dizendo isso, mas já sabe que tipo de lugar é esse, não sabe?"@
+ld c,"tachi/ark_t08",crossfade,400
+`"Ahaha, bom trabalho!"@
+` Ela começa a bater palmas.@
+cl c,crossfade,400
+playstop
+` …… É sempre difícil entender o que ela está pensando, mas hoje ganha o prêmio de mais difícil.@
+` Ela até me arrastou para cá, o que será que está planejando?
+\
+ld c,"tachi/ark_t01b",crossfade,400
+play "*7"
+`"Shiki."@
+`"O que foi?@ Por que ficou séria de repente?@ Você realmente tem um motivo para ter me trazido até aqui, não é?"@
+`"Não, não havia nenhum motivo.@ Só queria saber como é esse tipo de lugar."@
+`"…… Esse tipo de lugar?@ Está falando da escola?"@
+`"É, você passa metade do dia aqui, né?@ Existe algum uso para todo o conhecimento e experiências que ganha neste lugar?@ Você não acha que está perdendo seu tempo aprendendo coisas desnecessárias?"@
+`"Hã[line=4]?"@
+` Essa pergunta foi a menos compreensível até agora.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Por exemplo, tem algumas coisas que você aprende aqui que nunca serão usadas.@ Isso não é um desperdício de tempo?"@
+`"…… Talvez seja mesmo.@ Aprendemos matemática, mas só usamos o mais simples dela no dia a dia.@ Aprendo sobre a história deste país, aprendo inglês, mas não sei se algum dia vou precisar usar isso."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ah, então você já percebeu.@ Mas então…… por que faz essas coisas inúteis?@ O seu tempo é tão curto, você não deveria desperdiçá-lo."
+\
+`"Nós não temos um objetivo específico, por isso vivemos assim até termos um."@
+ld c,"tachi/ark_t10",crossfade,400
+`"Não posso acreditar.@ Mesmo sabendo que é inútil, você continua vivendo assim.@
+` …… É, realmente não consigo acreditar."@
+` Sua voz está muito baixa.@
+` Obviamente não sei por qual motivo.
+\
+`"…… Mas essas coisas inúteis são tão ruins assim?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"[line=4]Hã?"@
+`"Qual o problema em fazer coisas extras?@
+` Mesmo se eu usar o que aprendi somente aqui, isso ainda se torna uma lembrança dos meus dias neste lugar.@
+` Alguns anos mais tarde, vai haver um momento em que vou parar para pensar.@ E vou me lembrar desse tempo e dizer 'sim, era desse jeito naquela época' e dar um sorriso nostálgico.@ Portanto, há um sentido nisso."
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Não entendo.@ Essas lembranças em si, são sem sentido, mas você está dizendo que irá se divertir ao recordá-las?"@
+`"Sim.@ As pessoas são destinadas a não se lembrarem de coisas dolorosas.@
+` Mas em primeiro lugar, as vidas dos seres humanos estão cheias de coisas sem sentido.@ Pensando bem, a própria vida não é sem sentido?@
+` Por isso não penso muito profundamente sobre esse assunto.@ Acho que o melhor a se fazer, é simplesmente enganar a si mesmo e viver como se não soubesse que não há sentido na vida."
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"Você sabe que não tem sentido, mas ainda assim o faz.@ …… Não consigo entender isso.@ Não consigo fazer algo sem sentido.@ Até agora não fiz nada que não tivesse necessidade de se fazer."@
+`"O que você está dizendo?@ Esse dia inteiro que passamos juntos não foi completamente cheio de coisas sem sentido? De coisas inúteis?@ O seu objetivo não é caçar vampiros?@ Então não há necessidade alguma de passear comigo por aí."
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… É verdade.@ Não entendo isso também.@ Eu quis te te perguntar, porque tudo que você faz são coisas sem sentido, mas agora estou completamente confusa."@
+br
+` [line=4]Ei.@
+br
+`"Desculpe-me se sou apenas uma pessoa completamente inútil que só faz coisas sem sentido."@
+ld c,"tachi/ark_t13",crossfade,400
+`"………… Ah[line=4]não é isso."
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"Olha, me desculpe.@ Eu entendo o que você está tentando dizer, Shiki.@
+` Os seres humanos são um coletivo, por isso os seus valores não são determinados por um indivíduo, e sim pelo grupo todo.@ Mesmo se um indivíduo estiver errado, se o grupo estiver correto, então estará tudo bem.@
+` Mas nós, que somos criaturas solitárias, não podemos nos permitir estarmos errados.@ Não podemos permitir que nossas vontades sejam influenciadas por qualquer outra pessoa.@
+` Então[line=4]é por isso que sempre me ensinaram a nunca fazer coisas extras."@
+br
+` …… Calmamente.@
+` Ela fala como se estivesse em um confessionário.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"[line=4]Mas agora já não sei de mais nada.@ Por apenas um tempo tão curto… sério mesmo, apenas sete dias.@
+` …… Comecei a me perguntar se realmente estava certa.@
+` Porque foi tão divertido.@ Fazer isso, viver assim, até hoje nunca havia pensado no quão feliz isso poderia me fazer."
+\
+`"Ar…… cueid?"@
+ld c,"tachi/ark_t17",crossfade,400
+`"Talvez eu… esteja quebrada.@
+` Nunca fiquei acordada durante tanto tempo até hoje[line=4]Talvez eu já esteja dormindo e sonhando com tudo isso."@
+` …… Com olhos vazios, a Arcueid sussurra essas palavras.
+\
+`"O qu[line=4]"@
+` Fico sem palavras.@
+` Sua imagem tremula como um holograma.
+\
+`"…… Quebrada?@ Como assim?@ Você parece bastante normal para mim."@
+`"Talvez por fora, mas estou diferente por dentro.@ …… Alegria e dor, todos esses sentimentos extras estão ficando maiores.@ Não consigo mais ignorar as coisas que costumava ignorar.@ Então estou quebrada, não acha?@
+ld c,"tachi/ark_t09",crossfade,800
+` E também não sou normal.@ Sou diferente de você, Shiki.@ Sou uma vampira."@
+cl c,crossfade,400
+\
+` Ela parece estar sorrindo.@
+` De mansinho, se escondendo no vermelho do sol poente.@
+br
+`"[line=8]Qu-"@
+` Que… estranho.@
+` Ela está… diferente.@
+br
+` A sala de aula no crepúsculo.@
+` Banhada pelo sol vermelho, uma garota parecendo vulnerável.@
+` Esta cena, é…
+\
+`"Não[line=2]está parecendo você."@
+br
+` É, ela não é assim.@
+` Você é uma vampira[line=4]então não pareça tão vulnerável como se fosse uma garota normal.
+\
+`"Coisas que você não consegue ignorar, ter que fazer coisas inúteis, se não causar problema para ninguém[line=4]não está tudo bem em apenas deixar tudo acontecer?@
+` Acho que não deve pensar sobre si mesma tão seriamente.@
+` Não sei no que você está pensando, mas não vejo problema algum.@
+` Você não está[line=4]causando problemas para ninguém."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Sério mesmo?@ Mas você sempre grita comigo, isso é diferente?"@
+`"[line=4]Eu sou uma exceção.@ Tenho o pecado de ter te matado, então lidar com você é apenas o meu carma.@
+` Estou fazendo isso porque quero.@ Por favor, não se preocupe com os problemas que está me causando."
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"…………"@
+` A expressão da Arcueid fica fechada.@
+` …… Se ela continuar com essa cara, vou ficar preocupado.@
+` Ela parece tão fraca que sinto vontade de abraçá-la.
+\
+`"…… Por favor, Arcueid, entenda direito agora.@
+` É verdade que você é egoísta, que não escuta os outros e é cheia de problemas.@
+` Mas fora isso, você é normal.@ Você não é uma máquina, você não está 'quebrada', você é exatamente como uma garota normal.@
+` [line=4]Então sorria.@ Se você continuar com essa expressão, vou me sentir mal."
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Isso foi muita maldade.@ Sou tão egoísta assim?"@
+` Ela olha para mim de repente, como se estudasse minha expressão.@
+cl c,crossfade,400
+br
+` Estou um pouco surpreso.@
+` Parece que esta princesa não percebeu que era egoísta.
+\
+`"[line=4]Ahahahahaha!@ O que você está dizendo?@ Se tirasse cada pedacinho de egoísmo de dentro de você, não sobraria nada além de ossos!@ Só os ossos!"@
+` O que eu disse não faz muito sentido, mas foi bem engraçado.@
+br
+` [line=2]Porque mesmo em meus sonhos mais loucos, nunca imaginei que iria ver a Arcueid com vergonha de si mesma.@
+ld c,"tachi/ark_t16",crossfade,400
+`"……………………!!"@
+br
+` Ah, ela ficou brava.
+\
+`"Shiki, seu babaca!@ Estava discutindo um assunto sério e você age tão friamente!!"@
+`"Eu já não disse que era legal com todo mundo, menos com você?@ Por isso que ser malvado com você agora não é nenhuma novidade."@
+` Abafando minha risada, olho para ela.@
+` Seu mau humor desapareceu e ela está com uma expressão genuína no rosto, que combina muito mais com ela.
+\
+`"Mas sabe, acho que o melhor para você é ser animada.@ Estou um pouco aliviado."@
+ld c,"tachi/ark_t13",crossfade,400
+`"Hã……?@ P-Por que está aliviado?@ Você não deveria ser insensível comigo?"@
+`"Ah[line=4]é mesmo, verdade."@
+` Inclino minha cabeça questionando.@
+cl c,crossfade,400
+` …… Isso é estranho, nem eu sei o motivo.
+\
+` …… Antes, eu apenas não queria ver ela deprimida, e queria protegê-la[line=4]
+br
+`"…………"@
+br
+` Isso é ridículo.@
+` Sem dúvida alguma ela é linda, e sei que é uma boa pessoa.@ Além disso, não é chato ficar com ela.@
+` …… Mas não tem como uma coisa tão ridícula estar acontecendo.@
+` Controle-se, Shiki.@ Ela é uma vampira.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Isso é muito vago.@ Está dizendo que não entende a si mesmo?"@
+`"…… Fica quieta, não tem problema se eu não me entender.@ Sempre fui consciente do quão estranho sou desde sempre.@ É por isso que minhas lembranças são sempre vagas."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ah, Entendo.@ Então é por isso que você sempre está no mundo da lua."@
+` A Arcueid afirma para si mesma com um gesto de cabeça, como se entendesse profundamente o assunto.@
+cl c,crossfade,400
+`"…………"@
+` Ela estar levando minha desculpa tão a sério, me faz pensar que talvez possa ser realmente verdade.
+\
+!w1000
+`"[line=4]Bem."@
+` Não podemos continuar nesta sala para sempre.@
+` Deveríamos nos apressar e sair antes de sermos descobertos por professores que permaneceram na escola.
+\
+`"Vem, vamos embora.@ Não tem mais nada para fazer aqui, não é?"@
+ld c,"tachi/ark_t14",crossfade,400
+`"Não, não tem mais nada, mas…… Shiki?"@
+` Lanço a ela um olhar de questionamento.@
+` Ela parece estar ponderando sobre suas palavras e, em seguida, me faz uma pergunta estranha.
+\
+`"Shiki, você aproveita a vida?"@
+`"…… Você está doente hoje?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Não zombe de mim.@ Conheço um pouco sobre o seu corpo.@ Até você sabe disso, não sabe?@
+` Que não seria estranho se você morresse a qualquer momento."@
+`"O qu[line=7]"
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Tum.@
+` A cicatriz no meu peito parece estar se contorcendo.@
+!w1000
+\
+`"Vocês[line=4]bem, humanos morrem eventualmente."@
+ld c,"tachi/ark_t07",crossfade,400
+`"Mas no seu caso, a morte vai chegar mais rápido do que para as outras pessoas."@
+` …… Ela está com um olhar sério.@
+` Mas todos têm linhas de morte em seus corpos, por isso há vários lugares onde eles podem morrer facilmente.@
+br
+` Não é como se[line=4]eu fosse o único que está muito perto da morte.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Responde.@ Você já teve momentos em que aproveitou ao máximo a vida, mesmo sabendo que tem uma quantia instável de vida?"@
+`"[line=6]Você realmente é estúpida.@
+` Não tem como eu saber isso."@
+cl c,crossfade,400
+\
+bg "bg/ima_08",crossfade,400
+` …… Mas há uma coisa que é clara para mim.@
+` Eu quase morri há oito anos, e por pouco tempo,
+` provavelmente quando estava passando por cirurgia no hospital, senti como se estivesse em um lugar escuro.@
+br
+` Talvez tenha sido um sonho.@
+` Só que, naquele momento, realmente senti que havia morrido, como se aquele lugar fosse a própria "morte".@
+` Fiquei extremamente feliz depois da minha recuperação milagrosa.@ E então conheci a Sensei, e fui capaz de ter uma vida normal de novo.
+\
+` Nunca havia percebido isso até morrer uma vez.@
+` Nunca havia percebido que o mundo é tão tranquilo, é um lugar tão divertido de se estar.@
+` Dizem que o prazer não pode ser encontrado nessa vida, mas acho que para os humanos, apenas viver já é bom o bastante.@
+br
+` É por isso que[line=4]posso continuar vivendo assim, mesmo sabendo que é tudo sem sentido.
+\
+` …… É por isso.@
+` Se alguém me pergunta se estou aproveitando a vida, só posso responder que estou.@
+` Não importa o quão desesperadora a vida seja, estou satisfeito em apenas existir.@
+` Isso é algo mais certo do que a insignificância da morte.@
+` Ninguém precisou me ensinar, mesmo assim eu sei disso.@
+` Apenas ter a permissão de estar aqui, é uma coisa maravilhosa[line=4]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06f",notrans,0
+`"[line=4]Apenas… viver não é bom o bastante?@ Tudo até agora tem sido divertido, por isso posso me sentir vivo, posso gostar de viver.@
+` …… Acho que é assim que posso responder a sua pergunta."@
+br
+` Não podia dizer nada muito profundo.@ Só estou vivo há dezessete anos.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Entendo, então seu coração é assim.@ …… Só fazer isso é bom o bastante!?@ É verdade, mesmo que você saiba que é algo extra, não pode desistir, já que gosta disso.@
+ld c,"tachi/ark_t08",crossfade,400
+` …… Estava preocupada com isso e perguntei, acho que talvez essa seja uma boa resposta."@
+`"[line=4]O que foi?@ você ainda está pensando sobre aquilo de antes?"
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sim, mas por enquanto os ressentimentos sumiram.@ Não posso desviar de curso até esse vampiro ser derrotado.@ Até lá, vamos lutar juntos."@
+cl c,crossfade,400
+playstop
+` "Certo?" ela diz, sorrindo.@
+br
+`"[line=4]"@
+` Até esse vampiro ser derrotado, né?@
+`"…… Isso mesmo.@ Essa era a relação entre nós."@
+` Como hoje foi tão normal,
+` esqueci completamente sobre o fato mais importante.
+\
+`"[line=4]Arcueid."@
+br
+` Assim, sem pensar eu falo…
+br
+`"Quando tudo isso acabar[line=4]quando tivermos derrotado esse vampiro… Antes de nos separarmos, não podemos fazer algo assim só mais uma vez?"@
+` Essas palavras saíram da minha boca naturalmente.
+\
+ld c,"tachi/ark_t13",crossfade,400
+`"Hã[line=4]?@ Como assim?"@
+`"Depois que seu trabalho estiver concluído, vamos fazer essas coisas inúteis mais uma vez.@
+` No final das contas, estamos aqui juntos porque concordamos em nos ajudar.@
+` Então[line=4]Eu estava imaginando, o que aconteceria se nos encontrássemos novamente sem qualquer responsabilidade… Se nos encontrássemos sem ter nenhum motivo em particular."
+\
+cl c,crossfade,400
+!w500
+br
+br
+br
+br
+` [line=4]Isso não é verdade.@
+` Apenas como amigos, e não pensando nela como vampira.@
+` Simplesmente achei que poderia fazer a Arcueid feliz se criássemos algumas lembranças normais como essa.
+\
+`"[line=4]Se estiver muito ocupada, não tem problema.@ De qualquer forma, só pensei nisso agora mesmo."@
+` Mas isso é o oposto de como me sinto.@
+br
+` Depois de arregalar os olhos de surpresa, ela concorda com um gesto de cabeça.
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"Tudo bem[line=4]!@ Quando tudo terminar, vamos voltar aqui, Shiki!@ Sem termos nenhum propósito, mas tenho certeza que será muito divertido!"@
+` Na sala de aula banhada pelo pôr do sol,
+` a Arcueid sorri e faz uma promessa comigo.
+\
+bg #ffffff,crossfade,1500
+bg #000000,notrans,0
+!w1000
+bg "bg/bg_24c",crossfade,800
+` …… Quando saímos, o sol já havia desaparecido do céu.@
+` Já passa das sete e meia.@
+` Está um pouco cedo, mas já que não temos mais nada para fazer, devíamos começar a procurar pelo vampiro.@
+br
+`"Bem então, vamos começar, Arcueid?"@
+` Eu me viro para ficar de frente para ela, que está vindo atrás de mim.
+\
+ld c,"tachi/ark_t11",lshutter,400
+`"O que, já?@ O sol não acabou de se pôr?"@
+`"Sim, mas não vai doer começar um pouco mais cedo.@ Já nos divertimos por aí o dia inteiro, devíamos ficar mais sérios à noite, não acha?@
+` Vamos ser fiéis às nossas decisões."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Shiki, você está estranhamente sério.@ Se está tão sério quanto a esse assunto, por que quebrou nossa promessa ontem?"@
+`"Ei, eu não pude evitar isso; não conseguia nem me mover.@ Eu realmente tinha a intenção de ir."@
+` É verdade, se a Akiha não tivesse me parado, provavelmente teria ido ao parque naquelas condições.
+\
+`"Hummm, entendo.@ Então, vamos até lá!"@
+` Com uma expressão meio vazia, a Arcueid diz algo que não consigo entender.@
+`"Ir aonde?"@
+`"Você tinha a intenção de ir ao parque, não tinha?@ Ainda temos tempo, como você não conseguiu ir ontem, então qual o problema em fazermos isso agora?"@
+cl c,lshutter,400
+\
+` Ela começa a correr alegremente.@
+` Parece que está falando sério quanto a irmos ao parque.@
+`"[line=2]Ei, espera.@ Ei……!"@
+` Corro com todas as minhas forças para não perdê-la de vista.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_28b",lcartain,800
+ld c,"tachi/ark_t08",notrans,0
+play "*1"
+`"Viu só, apesar de você ter reclamado, ainda manteve sua promessa, Shiki.@ Ahaha~"@
+` Ela ri.@
+`"…… Idiota… se eu… te deixasse sozinha… você poderia… perturbar… outra pessoa…"@
+` Tento desesperadamente recuperar meu fôlego depois de correr todo o caminho.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Eu sabia que haveria um monte de pessoas aqui agora.@ É meio irritante, já que consigo sentir a presença delas em todos os lugares."@
+`"…… Como eu disse, por que… você… nunca… ouve… o que eu… tenho a dizer…?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum?@ Eu ouvi a sua voz o tempo todo."@
+`"…… Ah.@ Então… você me ouviu… mas simplesmente me ignorou, isso é… pior ainda…"
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Não te ignorei.@ Se eu respondesse sempre que você me xinga, você apenas me chamaria de idiota, por isso não falei nada."@
+`"…… Ah.@ Então talvez… eu também tenha… algum problema!?"@
+` Continuo tentando recuperar o fôlego.@
+cl c,crossfade,400
+\
+` Da minha escola até esse parque, são aproximadamente seis quilômetros.@
+` Mesmo que não seja grandes coisas, correr essa distância, é demais para um coração como o meu.@
+` …… Não é que ela tenha corrido tão rapidamente.@ Na verdade, ela parecia estar correndo bem devagar.@
+` Mas provavelmente por causa dos efeitos da minha anemia, não me sinto muito bem.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Você está bem, Shiki?@ Não se esforce demais.@ Não quer descansar naquele banco?"@
+`"…… Vou fazer isso.@ Assim que me recuperar, vamos para a cidade de novo."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Minha nossa!@ Estou feliz por você estar motivado, mas ainda é muito cedo.@
+` O Nrvnqsr era assim também, mas vampiros não saem por aí antes da hora certa deles.@
+` Já que eles não vão sair por aí antes que sintam que já é noite, não tem problema matar um pouco de tempo aqui."@
+br
+`"[line=4]"@
+` Se é assim, ela poderia ter me contado isso antes.@
+bg #000000,lshutter,400
+bg "bg/bg_28b",lshutter,400
+br
+` [line=4]Sentando no banco, lanço um olhar vazio para o relógio.@
+br
+` São pouco mais de nove horas da noite.@
+` Todas as pessoas foram embora e a noite se aprofunda rapidamente.@
+` Por algum motivo, a Arcueid não se senta, ela anda de um lado para o outro, como se estivesse entediada.
+\

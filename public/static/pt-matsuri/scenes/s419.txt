@@ -1,0 +1,1001 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld c,"tachi/koha_t01a",lshutter,400
+`"Shiki-san, desculpe interromper a sua diversão, mas você gostaria de tomar o café da manhã agora?@ Está quase na hora de você ir para a escola, por isso pensei em começar a prepará-lo."@
+`"Ah, tinha até esquecido disso.@ …… Não estou com tanta fome, estou mais é com sede."@
+ld c,"tachi/koha_t04",crossfade,400
+`"Mas não pode pular o café da manhã, Shiki-san.@ Você desmaiou ontem, portanto precisa comer bem para recuperar as suas forças.@
+` Ainda que não tenha apetite, precisa comer alguma coisa."
+\
+cl c,lshutter,400
+`"Hum……"@
+` Ela tem razão, mas não estou com vontade de comer nada agora.@
+` Não consigo comer depois de ter tido aquele sonho.
+\
+ld l,"tachi/his_t01",lshutter,400
+`"…… Nee-san.@ Como o Shiki-sama não está se sentindo bem, acho melhor não forçá-lo a comer."@
+ld r,"tachi/koha_t04",lshutter,400
+`"Hisui-chan, você é boazinha demais quando o assunto é o Shiki-san[line=8]hein?"@
+ld r,"tachi/koha_t09",crossfade,400
+`"Shiki-san, você não está se sentindo bem?"@
+` A Kohaku-san me encara.@
+` A Akiha e a Hisui aproveitam a oportunidade e também me lançam olhares sérios.@
+` …… Acho que não dá mais para fingir.
+\
+`"[line=3]Sendo franco, não estou me sentindo muito bem.@ Eu até posso comer, mas será que dá pra fazer algo que não precise mastigar?@ Eu não estou com apetite para nada."@
+cl r,lshutter,400
+` Depois que digo a verdade, a Kohaku-san diz apenas "Ah, entendi" e parece um pouco desanimada.@
+` …… O que eu disse provavelmente não foi do agrado dela, já que é a encarregada de cozinhar.
+\
+ld l,"tachi/his_t04",crossfade,400
+`"…… Hum, Shiki-sama?@ Acredito que não esteja se sentindo bem devido à mudança de ambiente.@
+` Sendo assim, se a vida na mansão não estiver se adequando a você, não seria melhor considerar voltar a viver com a família Arima por um tempo……?"@
+`"………………"@
+` A opinião da Hisui tem em mente uma preocupação sincera quanto a minha saúde.
+\
+cl l,lshutter,400
+` …… A minha vida tem andado bem estranha desde que voltei para cá.@
+` Como a promessa de oito anos atrás foi esquecida; talvez seja melhor mesmo voltar a viver com os Arimas.
+\
+`"…… É.@ Talvez seja uma boa ideia.@
+` Embora tenha passado apenas uma semana desde que voltei para a mansão, se eu não conseguir me acostumar logo com a vida aqui, acho melhor voltar para os Arimas até recuperar a minha saúde."@
+`"Bem, é apenas uma ideia, posso estar exagerando também," complemento.@
+br
+` [line=3]Então.@
+` De repente, a Akiha levanta do sofá.
+\
+ld c,"tachi/aki_t09",lshutter,400
+`"De jeito nenhum, Nii-san.@ Você finalmente retornou, por favor, não vá embora outra vez.@
+ld c,"tachi/aki_t08a",crossfade,400
+` Se você falar que vai embora de novo, eu vou te matar, Nii-san."@
+cl c,lshutter,400
+` Ela sorri enquanto faz esa piada, depois desaparece na direção do saguão.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Hisui-chan.@ Está na hora da Akiha-sama ir para a escola, por favor, acompanhe-a até a porta.@ Eu vou preparar o café da manhã do Shiki-san."@
+` A Hisui concorda e vai atrás da Akiha.@
+`"Pois bem, vou fazer algo fácil para você comer.@ Espere só um pouquinho."@
+cl c,lshutter,400
+` Ela vai rapidamente para a cozinha.
+\
+`"[line=7]"@
+` Sento no sofá, pasmo.@
+br
+` [line=3]Eu vou te matar, Nii-san.@
+br
+` …… Essas palavras ficam presas na minha mente.@
+` Provavelmente porque, mesmo sendo uma piada, não soou como uma piada para mim.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06a",lcartain,800
+wave se_03
+` [line=3]Está na hora do almoço.@
+` Como sempre, o Arihiko está matando aula.@
+br
+`"Eu vou almoçar no refeitório."@
+` Não quero comer sozinho aqui.@
+` Ficar no refeitório cheio de gente deve me ajudar a tirar essas coisas da cabeça.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` O refeitório está lotado.@
+` Depois de ficar esperando em uma fila enorme, compro a 'refeição pronta A' e sento em uma mesa.@
+` Eu como enquanto ouço todos conversando.@
+br
+` [line=4]E então.@
+br
+` Por um momento, vejo uma imagem horrível.
+\
+`"……?@ Na tela da televisão."@
+` Encaro a televisão montada na parede aos fundos do refeitório.@
+` Na minha escola, eles gravam o noticiário da manhã e repassam durante o almoço.@
+` Apenas encaro, pasmo, as notícias sendo passadas com horas de atraso.
+\
+play "*4"
+`"[line=4]Não acredito…"@
+` Assisto ao noticiário, surpreso e horrorizado.@
+` A televisão mostra o beco que vi ontem ontem à noite no meu sonho.@
+` O apresentador está falando.@
+` As palavras "Nona Vítima do Vampiro Assassino em Série" aparecem em letras vermelhas na tela.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_50",notrans,0
+` …… Parece que a garota foi salva.@
+` Ela está em um hospital, se recuperando após ter o sangue sugado.@
+` Ela ainda está inconsciente.@ Não é certo de que irá se recuperar.@
+` …… Não se sabe quem a atacou e roubou o seu sangue também.@
+` A garota mostrada na televisão é definitivamente a mesma do meu sonho.@
+br
+` [line=3]Só tem uma coisa certa.@
+`   O criminoso que a atacou é[line=4]sem dúvida[line=4]
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_50",notrans,0
+`"[line=6]"@
+` Começo a me sentir fraco.@
+` Como…… Assim?"@
+` Aquilo foi um sonho.@ Tem que ter sido um sonho.@
+` Mas é a mesma pessoa que apareceu no meu sonho, no mesmo lugar e teve o sangue sugado da mesma forma que aconteceu no meu sonho.@
+`"O vampiro já deveria ter sumido."@
+` Eu matei a Yumizuka com as minhas próprias mãos.@
+` Esses assassinatos[line=4]não deveriam mais estar acontecendo.@
+br
+`"Eu[line=4]matei ela?"@
+` Sim, eu matei ela.@
+` Como da vez em que matei a Yumizuka.@
+` Ontem à noite[line=4]eu estava ofegante e[line=4]aquela mulher que nunca conheci[line=4]eu[line=3]
+\
+bg "bg/ima_13",crossfade,800
+br
+br
+br
+br
+br
+br
+` Eu não te disse, Shiki-kun?@
+` É inútil resistir.
+\
+br
+br
+br
+br
+br
+br
+` Do que você está falando?@
+` Você é um assassino melhor do que eu.
+\
+bg "bg/bg_50",crossfade,800
+`"Uu[line=3]"@
+` Contendo a ânsia de vomitar todo o almoço, levanto da cadeira e saio cambaleando.@
+bg #000000,lshutter,400
+br
+` Não posso voltar para a sala de aula.@
+` De alguma forma, estou correndo pela cidade.
+\
+!w2000
+bg "bg/bg_31a",lcartain,800
+` [line=3]Vim para o lugar do meu sonho.@
+br
+` Há vários policiais na área, uma fita escrito "Linha da Polícia Não Cruze" está espalhada pelo beco.@
+`"[line=3]É idêntico."@
+` Sem dúvida, este é o lugar onde estive no meu sonho.@
+` [line=3]Não, não foi um sonho.@
+` Não posso me iludir mais do que isso e continuar pensando que foi um sonho.
+\
+`"………"@
+` Se eu ficar aqui mais tempo, os policiais vão ficar me encarando.@
+` …… Não posso voltar para a escola agora.@ Acho que vou voltar para a mansão.
+\
+bg #000000,crossfade,400
+playstop
+!w2000
+bg "bg/bg_33a",lcartain,800
+waveloop se_11
+` Já que não são nem duas horas da tarde, a Hisui não está me esperando no saguão.@
+`"……………"@
+` Estou com sorte.@ Não estou com vontade de ver ninguém agora.@
+` Olho o meu reflexo na janela.@
+` O rosto pálido não parece pertencer ao Tohno Shiki.@
+br
+` O eu que parece ser outra pessoa.@
+` Aquele sonho que parecia pertencer a outra pessoa.@
+` O que passa despercebido,
+` os vestígios do assassinato que permanecem somente em minha memória.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+` Sinto uma tontura.@
+` A minha visão escurece.
+\
+bg "bg/bg_33a",notrans,0
+`"Não[line=4]!@ Eu sou diferente do meu pai…………!!!"@
+` Lutando desesperadamente contra a tontura, tento continuar em pé.@
+`"[line=6]O meu pai."@
+` Posso ir no quarto dele pra tentar descobrir sobre a sua doença.@
+` Assim posso confirmar que não sou igual a ele.@ E se eu for[line=4]pode ter alguma coisa lá para me ajudar.
+\
+bg #000000,lcartain,800
+` …… O quarto dele fica no primeiro andar da ala oeste da mansão, perto do quarto da Kohaku-san.@
+` Foi bom ter saído da escola mais cedo.@
+` Não tem ninguém por perto agora.@
+` Pego a minha faca e tiro os óculos.@
+` Tento cortar a "linha" da fechadura da porta, mas coloco os óculos de volta no rosto.@
+br
+` A porta não estava trancada.
+\
+bg "bg/bg_41",lshutter,800
+` O quarto do meu pai está como sempre esteve.@
+` Quase todas as fileiras de livros são relatórios educacionais, nada prende a minha atenção.@
+` O que quero agora é o diário ou as anotações daquele velho.@
+` Ele era extremamente metódico.@ Com toda certeza deve ter alguma coisa assim em algum canto deste quarto[line=3]
+`"…… É claro que não vai estar à vista para qualquer um ver."@
+` Quem sabe trancaram em algum lugar!?@
+` Vou olhar na gaveta da escrivaninha primeiro.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+` Não tenho tempo a perder.@
+` Tiro os óculos e observo as "linhas".@
+` Usando a minha faca, corto as "linhas" da fechadura da gaveta.@
+` Dentro da gaveta parece haver alguns documentos antigos reunidos e o que aparenta ser um diário.
+\
+` Primeiro, vou verificar os documentos.@
+`"…… Isso aqui é… A árvore genealógica da nossa família?"@
+` Sem dúvidas.@
+` Depois de Tohno MAKIHISA, estão escritos os nomes Tohno SHIKI e Tohno AKIHA.@
+` A palavra "Nanaya" está escrita logo após esses nomes.@
+br
+`"Hã…… Aquele velhote adotou um menino há dez anos?@…… Ah, mas ele morreu pouco depois."@
+` Há dez anos, eu estava no primário.@
+` Foi há tanto tempo, lógico que não ia me lembrar.
+\
+`"Nossa…… Os chefes da família tiveram uma vida bem curta.@ Meu pai morreu antes de completar cinquenta anos e o chefe antes dele morreu antes dos trinta anos em um acidente… Uau, o anterior a ele morreu com dezoito anos de idade e foi suicídio[line=3]"@
+br
+` [line=4]Opa, espera aí.@
+` Não importa de qual forma eu olhe para isso[line=4]é muito estranho.
+\
+play "*6"
+wave se_01
+` Pela informação nesta árvore genealógica, todos os membros da família Tohno morreram de uma forma estranha.@
+` Loucura.@ Acidentes.@ Assassinatos.@ Desaparecimentos.@ Dentro do útero.@
+` …… Nenhum deles teve uma vida longa ou morreu em paz.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_41",crossfade,400
+br
+`"O qu…………"@
+` Todo este documento está preenchido por destinos horríveis.@
+` O pior de tudo é que a maioria das mortes é causada por loucura.@
+` A maioria deles tirou a própria vida.
+\
+`"Tem algo errado aí[line=3]muito errado."@
+` Mas não consigo dizer exatamente o que é.@
+`"…… Agora é…… O diário do meu pai."@
+` Pego o diário com uma encadernação relativamente nova.@
+br
+` [line=4]Tum, dum.@
+br
+` Meu coração acelera.@
+` Ele parece entender que eu não devia abrir isso.@
+` Mas agora não posso voltar atrás.@
+` Engolindo em seco, abro o diário.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+br
+` [line=6]Tem um demônio que espreita a linhagem Tohno.
+\
+` Essa é a primeira frase.@
+br
+` E não é uma mera analogia.@
+` Os ancestrais dos Tohno eram uma mistura de "algo não-humano" e humanos.@ Nós, como seus descendentes, também temos esse fator "não-humano" no nosso sangue.
+\
+` Quanto ao sangue…
+` Existem os com sangue 'não-humano' forte e os com sangue fraco.@
+` Esses últimos podem viver como pessoas normais, mas os com sangue forte nunca poderão ter uma vida normal.@
+br
+` Aqueles que possuem o sangue Tohno forte nascem com poderes especiais.@
+` Os poderes podem se manifestar de formas variadas, como um corpo resistente à morte,
+` ou a habilidade de mover as coisas sem tocá-las,
+` ou até presas utilizadas para tirar fluídos corporais de outras pessoas.
+\
+` Esse sangue.@
+` Quando esse sangue se torna forte demais, os membros da família Tohno começam a perder a sanidade gradualmente.@
+` E a maioria dos membros da família Tohno que perdem sua sanidade se tornam demônios que se alimentam de carne humana.@
+` Portanto, o chefe da família Tohno tem a responsabilidade de punir aqueles que se transformaram em monstros.
+\
+`"[line=8]"@
+` É uma confusão só.@
+` O que é que ele queria dizer?@ Ele escreveu com tamanha seriedade sobre algo que mais tem cara de conto de fadas.@
+br
+` [line=5]O diário se transforma em um desabafo do meu pai.@
+br
+` A data é aproximadamente uns nove anos atrás.@
+` A letra começa a ficar menos caprichada.
+\
+monocro #ffff00
+bg "bg/bg_41",crossfade,400
+` Não sou mais capaz de suprimir meu sangue enfurecido.@
+` Eu consegui obter uma orfã de uma família de Sincronizadores, assim sendo, deve colaborar para fortalecer a minha mente.@ Porém, é só uma questão de tempo até que eu fique louco.
+\
+` …… É aterrorizante.@
+` Quando volto a mim, percebo que não consigo me lembrar nem da metade do que aconteceu no dia.@
+` Durante esse período, é quando forço o meu impulso de inversão naquela criança.@
+br
+` Se isso continuar,
+` é apenas uma questão de tempo até eu perder por completo a minha sanidade e me transformar em um animal irracional.@
+` Nem sei quanto tempo ainda me resta para permanecer como eu mesmo.
+\
+` Não.@ Se aquela criança estiver aqui, posso durar mais alguns anos.@
+` Mas ela não vai ser capaz de suportar isso.@ Depois que ela quebrar, vou ter que tirar a minha própria vida.@
+br
+` …… É irônico.@
+` Eliminei muitas coisas para poder me preservar, porém, no fim, precisarei cometer suicídio.@
+` Quem sabe não é uma maldição dos Nanaya.@
+` Acabei adotando o filho deles, mas não foi o bastante para acalentar a ira da família.
+\
+` Contudo, não posso me redimir do passado.@ Se a morte é o que me aguarda, devo aceitá-la quando o momento chegar.@
+` Porém, até então[line=3]devo proteger os meus filhos.@
+` O sangue da Akiha é fraco.@ A menos que ela mesma deseje, não vai precisar sofrer o mesmo destino que eu.@
+br
+` O verdadeiro problema é o SHIKI.@ A situação dele está incrivelmente próxima da minha.@ Não desejo que ele sofra o mesmo destino que eu.@
+` …… Preciso distanciá-lo o máximo possível do nome Tohno e ver como ele vai se virar[line=4]
+\
+monocro off
+bg "bg/bg_41",crossfade,400
+` Solto um profundo suspiro e expiro todo o ar dos meus pulmões.@
+` Paro de ler.@
+` …… Isso me deixou enjoado.@
+` O conteúdo do diário é tão irreal que chega a ser totalmente bizarro.@
+br
+` Ele não era só um maníaco-depressivo.@
+` Melhor seria dizer que ele ficava violento sem saber.@
+` Exatamente como o Tohno Shiki está agora.
+\
+`"[line=4]Que estranho."@
+` Mas não é isso que me incomoda de fato.@
+` Ele escreve SHIKI e AKIHA de um jeito diferente.@
+` Conferindo a árvore genealógica, dá para ver que ele escreve "Akiha" com os caracteres chineses para "Folhas de Outono", enquanto "SHIKI" é escrito com os caracteres de "Quatro Estações".@
+`"Até que dá para pronunciar 'Quatro Estações' como 'SHIKI', mas os caracteres do meu nome são 'Intenção' e 'Estimado'."@
+` Tenho o pressentimento de que nada de bom vai vir de pensar muito sobre isso, mas minha mente não consegue deixar para lá.@
+`"…… O que são esses 'Sincronizadores'?@ Será que é a criança que foi adotada?"@
+` Mas isso também não parece certo.
+\
+` De todo jeito, só li a metade do diário.@
+` Posso achar uma solução se continuar lendo até o final.@
+` Mas[line=3]será que quero mesmo descobrir tudo?@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+`"………"@
+br
+` [line=6]Sinto vontade de vomitar.@
+br
+` Não consigo ficar de pé.@
+` Rápido.@
+` Preciso voltar para o meu quarto e me deitar; parece que há algo errado com a minha cabeça.
+\
+br
+` Ainda assim, decido continuar lendo o diário.
+\
+` [line=3]O resto parecem ser cartas.@
+br
+` A data inicial é do verão de oito anos atrás e parece continuar um pouco mais depois disso.
+\
+`"…………"@
+` Ainda não estou entendendo, mas continuo folheando.
+\
+monocro #ffff00
+bg "bg/bg_41",crossfade,400
+` ~ Mês ~ Dia
+br
+` O meu filho, SHIKI, sucumbiu ao sangue Tohno.@
+` SHIKI[line=3]ele matou o meu filho adotivo que estava próximo a ele.@
+` (O filho adotivo é o herdeiro da casa Nanaya. Acho que é uma bênção, em meio a todos esses eventos infelizes, que ele não seja da família dos sincronizadores, como a Kohaku e a Hisui.)
+` O impulso de inversão do SHIKI é terrível.@ Portanto, foi determinado que ele deve ser eliminado.@ Eu tenho o dever de fazer isso como o chefe da família Tohno, mas matar o meu próprio filho é difícil demais.
+\
+` O sangue Tohno é mais forte no SHIKI do que na AKIHA.@
+` Falando sobre o potencial dos dois, sinto uma origem mais antiga no sangue da Akiha, mas o sangue Tohno do SHIKI é muito mais forte.@
+` Suponho que seja por isso que a sua inversão veio antes de ele atingir a idade adulta.@
+` Os poderes do SHIKI são "imortalidade" e "fusão".@
+` SHIKI não pôde controlar os poderes recém-despertos e, como resultado, matou a criança dos Nanaya que adotei, por fim, tomou sua vida.@
+` Tenho que admitir que foi um trabalho esplêndido, já que era a primeira vez usando os seus poderes.
+\
+` ~ Mês x Dia
+br
+` Tanto o SHIKI quanto o filho adotivo escaparam da morte.
+\
+` ~ Mês ~ Dia
+` O problema de manter as aparências para a sociedade ainda permanece.@
+` O SHIKI matou a criança adotada dos Nanaya.@
+` Encobri o incidente, mas o SHIKI não pode ser visto pelas pessoas.@ O ferimento que causei a ele ainda não está curado e a sua aparência está transformada.@
+` Ele não está em condições de aparecer na frente das pessoas como Tohno SHIKI…… Ele também não pode ser chamado de humano.@
+br
+` A criança dos Nanaya ainda está viva.@
+` Decidi que vou usá-lo enquanto o garoto ainda estiver vivo.@
+` Se houver discordâncias, eu gostaria de ouvi-las.
+\
+` Complemento.@
+` Os Nanaya são uma família que produz assassinos.@
+` Se o filho adotivo continuar vivo, a ligação entre os dois pode corromper a mente do SHIKI.@
+` Mesmo que o SHIKI recupere a sua sanidade, não posso negar a possibilidade da influência da criança dos Nanaya transformá-lo em um assassino.@
+br
+` Para que isso não aconteça, devemos deixá-lo em algum lugar onde possamos ficar de olho nele.@ Mas também não podemos permitir que ele fique perto da mansão Tohno.@
+` É melhor mandá-lo para algum dos ramos da família principal.
+\
+` ~ Mês x Dia
+br
+` …… O sangue dos Tohno despertou no SHIKI.@
+` Talvez seja por estar tão perto da morte, mas ele recuperou a sanidade outra vez.@
+` Mas não sei se alguma coisa o fará passar pela inversão novamente.@
+` Mesmo que me parta o coração, não posso permitir que o SHIKI fique perto da mansão Tohno também.@
+` Deixo-o sob os cuidados de um empregado de confiança.
+\
+` ~ Mês x Dia
+br
+` Deixei a criança adotada dos Nanaya aos cuidados de um dos ramos da família.@
+` A AKIHA me odeia.@
+` Ela perdeu os dois irmãos ao mesmo tempo, acredito que seja natural essa reação.
+\
+` ~ Mês X Dia
+br
+` Comecei o treinamento da AKIHA como próxima chefe da família Tohno.@
+` Ela possui mais talento que necessário para ficar a cargo dos deveres de chefe da família.@
+` O SHIKI pode ter a habilidade da "Imortalidade",
+` mas a Akiha tem o poder de "roubar".@
+` (Por serem irmãos, ambos têm a habilidade de dividir e tirar força vital.)
+` É uma pena.@ Se ela tivesse nascido dez anos atrás, eu teria conseguido eliminar os Nanayas sem a ajuda dos Kishimas.
+\
+` Mas preciso tomar cuidado.@
+` A habilidade de "roubar" dela é uma faca de dois gumes.@ Ela pode acabar tomando o conceito inteiro de uma pessoa enquanto rouba o calor dela.@
+` Preciso ensiná-la a não atrair a maldição de um inimigo[line=3]igual a mim.
+\
+` ~ Mês X Dia
+br
+` A AKIHA tentou visitar a residência dos Arima.@
+` Não posso permitir que ela e o meu filho adotado se encontrem.@
+` Eu a matriculei em uma escola de tempo integral, portanto sua liberdade é limitada.
+\
+` ~ Mês X Dia
+br
+` A minha condição tem piorado nos últimos tempos.@
+` Parece que a filha dos Sincronizadores não é mais o bastante.
+\
+` ~ Mês X Dia
+br
+` …… Voltei à sanidade pela primeira vez em muito tempo.@
+` Faz quantos meses desde que peguei nesta caneta?@ Provavelmente não haverá uma próxima vez.@ Preciso escrever tudo aqui.@
+` Deixei instruções para que isso seja entregue à minha filha AKIHA após a minha morte.@
+` Não sei se ela lerá isso, mas, se estiver lendo, destrua essas anotações.@
+` É o único pedido que faço à minha filha.
+\
+monocro off
+bg "bg/bg_41",crossfade,400
+`"[line=7]Como assim?"@
+` O filho adotado dez anos atrás.@
+` Eu me esqueci totalmente disso.@
+` …… Eu matei ele?@
+` Aquele dia de verão, oito anos atrás, quando recebi esse ferimento.@
+br
+bg "bg/cmo_05",notrans,0
+wait 100
+bg "bg/bg_41",notrans,0
+` …… Ele[line=3]me matou?@
+` Aquele dia de verão, oito anos atrás, quando recebi esse ferimento.
+\
+`"[line=5]"@
+` Sinto náuseas.@
+` E enjoo.@
+` A memória da qual me esqueci até então retorna à minha mente.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_41",notrans,0
+br
+`"[line=6]"@
+` …… Entendi.@
+` Foi tudo escrito aqui, portanto devo aceitar.@
+` Além do mais, agora todas as peças se encaixam.@
+` O motivo pelo qual fui adotado pelos Arima.@
+` O motivo pelo qual fui deserdado como filho mais velho.@
+` Não foi nada disso.@
+` Tudo isso significa que, eu[line=3]Shiki, fui somente um substituto para aquele conhecido como SHIKI.
+\
+`"[line=3]O que é[line=3]tudo isso?"@
+` Sem entender, jogo o diário longe.@
+` …… Não preciso investigar mais.@
+` Ficar aqui só vai ser perda de tempo.
+\
+bg #000000,lcartain,800
+playstop
+!w2000
+bg "bg/bg_40b",crossfade,800
+` [line=3]O dia termina.@
+br
+` Deitado na cama, apenas penso na mesma coisa.@
+` …… Pensando com calma, só descobri duas coisas lendo aquele diário.@
+` Que não faço parte da família Tohno.@
+` E que a família Nanaya nada mais é que um bando de assassinos.
+\
+` Eu não tenho nenhum laço sanguíneo com Tohno Makihisa.@
+` Ou seja, aqueles sonhos em que sou um assassino são coisas minha, não é um sintoma herdado dele.@
+` Se for esse o caso, so há uma alternativa.@
+br
+` [line=4]Escuto vozes vindo do saguão.@
+br
+`"…… Será que a Akiha já voltou?"@
+` Levanto da cama.@
+` Quero escutar a verdade saindo da boca dela.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46b",lcartain,800
+`"[line=5]"@
+` Reunindo coragem, bato na porta.@
+`"Akiha, quero conversar com você."@
+`"Hã, Nii-san?@ Pode entrar."@
+` A sua voz está animada e cheia de energia.@
+` Respirando fundo para me acalmar, eu abro a porta.
+\
+bg #000000,lshutter,400
+bg "bg/bg_36c",lshutter,400
+ld c,"tachi/aki_t04b",lshutter,400
+`"É deveras raro ver você vindo no meu quarto, Nii-san."@
+` Ela está com um sorriso no rosto, igual a hoje de manhã.@
+` Depois de olhar para essa expressão alegre fico com vontade de ir embora daqui.@
+` …… Acho que, no fim das contas,
+` sinto que a minha vida como Tohno Shiki e a minha irmã, Tohno Akiha, são preciosas para mim.@
+br
+` [line=4]Mesmo assim.@
+` Preciso tirar algo a limpo com ela.
+\
+`"Akiha[line=4]"@
+`"Pois não, Nii-san?"@
+` Ela parece esperar por uma conversa divertida.@
+cl c,lshutter,400
+`"[line=6]"@
+` Rangendo os dentes, olho para ela com seriedade.
+\
+`"Eu quero que me conte sobre a família Nanaya, por favor.@ Acho que tenho o direito de saber."@
+`"[line=8]"@
+` Nesse instante, a Akiha congela, como uma marionete que tem os barbantes cortados.
+\
+play "*8"
+ld c,"tachi/aki_t11b",lshutter,400
+`"[line=7]"@
+` Ela me encara sem dizer nada.@
+`"Se não quiser me responder, vou perguntar de outro jeito.@
+` O meu pai[line=3]Tohno Makihisa tinha duas personalidades, certo?@ E ele não era o único diferente por aqui.@ Quase todos os membros da família Tohno tem algum tipo de doença.@ …… Eu achava que era o meu caso também.@
+` Mas não é verdade.@ A minha anemia surgiu por causa daquele acidente de oito anos atrás.@ Porque eu…"@
+`"Eu tenho plena ciência disso.@ Você foi adotado pela família Tohno."@
+cl c,lshutter,400
+` Ela dis isso,
+` e sorri, por algum motivo.
+\
+`"Akiha[line=3]?"@
+` Ela caminha lenta e elegantemente até a janela, como se estivesse atuando em uma peça de teatro.@
+` As cortinas esvoaçam com o vento.@
+` Colocando a mão na janela, ela se vira.
+\
+bg "event/aki_e07a",lshutter,400
+`"Nii-san, você foi adotado pela família Tohno.@ O seu verdadeiro nome é Nanaya Shiki.@
+` Como disse, sua anemia é resultado do acidente de oito anos atrás.@ Também parece já saber que os membros da família Tohno não seres humanos normais."@
+` Sem hesitar, ela diz coisas que eu teria muita dificuldade de perguntar.
+\
+`"…… Akiha.@ Isso[line=4]"@
+`"Tudo bem.@ Era só uma questão de tempo, eu não gostava de guardar esse segredo.@ Não há mais necessidade, agora que você descobriu.@
+` …… Não, talvez nunca houvesse razão para esconder isso de você.@ Sendo assim, não era preciso aguentar tudo isso."@
+br
+` "Não é mesmo, Nii-san?"@
+br
+` A Akiha diz isso, com a voz transbordando confiança.
+\
+`"Akiha.@ Então é como eu havia imaginado, eu[line=3]"@
+`"Sim.@ Você foi a criança adotada pelo meu pai dez anos atrás, mas você não se lembra disso.@
+` Por acaso se lembra do SHIKI que costumava brincar conosco?"@
+`"[line=6]Não.@ Não me lembro dele."@
+`"Pois é.@ Isso aconteceu porque o meu pai hipnotizou você."
+\
+`"…… O SHIKI não foi capaz de resistir ao sangue Tohno.@ Pode não estar lembrado, mas, naquele dia, há oito anos, você me protegeu dele.@ Você se sacríficou para me proteger da sede de sangue do SHIKI.@
+` Foi assim que você foi morto por ele, e o SHIKI foi morto pelo nosso pai.@ É o dever do chefe da família Tohno se livrar dos que não são mais humanos."
+\
+`"……?@ Fui morto?@ Mas eu estou vivo!"@
+`"[line=3]Sim.@ Você sobreviveu por puro milagre.@ E o que aconteceu em seguida você deve se lembrar com clareza.@ Você foi levado ao hospital e, quando retornou, foi adotado pela família Arima.@
+` Foi quando nosso pai o hipnotizou.@ Já que não estava plenamente recuperado, o seu coração e mente estavam fracos.@ Por isso, acreditou com facilidade nas palavras do nosso pai."
+\
+`"…… Entendi.@ Já está bom.@ Se você já sabe, não precisamos mais falar disso.@
+` Eu não faço parte da família Tohno, né?@
+` Então, você[line=4]não precisa se forçar a me chamar de irmão."@
+` Eu.@
+` Como não pertenço a este lugar, vou me preparar para ir embora logo.
+\
+`"…… Não distorça as minhas intenções, Nii-san.@
+` Não o chamo desse jeito pelo bem da imagem da família perante a sociedade.@
+` Não está lembrado?@ Eu te chamava de Nii-san desde antes do SHIKI te matar.@ Não tem nada a ver com a sua adoção.@
+` Eu sabia, desde o começo, que você não era meu irmão de sangue.@
+` E você também aceitou isso.@
+` Sendo assim[line=4]não importa como veja, você é o Tohno Shiki.@ Por isso, por favor, não vá embora."
+\
+` As palavras da Akiha me deixam feliz.@
+` Mas eu não entendo.@
+` Por que ela me aceita, alguém que não pertence à família Tohno?
+\
+`"[line=3]Por quê?@ Nem sou seu irmão de verdade."@
+`"…… Minha nossa, mesmo depois que eu disse tudo isso, você ainda não entende?@
+` Você é o único que eu vou chamar de Nii-san.@ Eu quero que você continue ao meu lado, por mais que você não queira.@
+` Porque eu te amo, Nii-san."
+\
+wave se_01
+`"O qu[line=6]"@
+` A Akiha diz algo totalmente inacreditável.@
+` Fico feliz que ela goste de mim como irmão.@
+` Mas enquanto as coisas permanecerem desse jeito[line=4]eu não posso continuar aqui.
+\
+`"…… Não, não sou quem você acha que sou.@ Você disse que o SHIKI é um assassino, mas eu[line=4]eu sou igual a ele."@
+`"Do que você está falando?"@
+`"………………"@
+br
+` Não posso mais manter isso em segredo.@
+` Tudo que fiz até agora[line=4]o sonho que tive ontem à noite, as manchas de sangue inexplicáveis, e o sonho em que a Akiha me matou.
+\
+`"…… Eu não posso confiar em mim mesmo.@ Eu pensei que estava apenas tendo pesadelos.@
+` Mas o nosso pai escreveu que os Nanaya eram uma família que produzia assassinos.@ Eu posso acabar ficando igual ao SHIKI e não sei o que vou ser capaz de fazer com você caso isso aconteça, Akiha."@
+` Exponho todos os meus medos e preocupações para ela.@
+` Mas, depois de piscar várias vezes, surpresa, ela tenta conter o riso.
+\
+`"M-Mas o que tem tanta graça?@ Não é brincadeira.@ …… Você pode não acreditar, mas eu realmente tenho sonhos em que estou sugando o sangue de outras pessoas……!"@
+` Ela continua rindo.@
+` …… O que deu nela?@
+` Está me fazendo parecer um idiota por me preocupar tanto com isso.
+\
+`"Que engraçado, Nii-san!@ Você não pode ser um vampiro.@ Você é da família Nanaya, o seu sangue é completamente humano.@
+` Além do mais, os Nanaya não eram assassinos.@
+` …… De fato, eles podiam ser, pela perspectiva do nosso pai, mas a família Nanaya só sentia um impulso assassino quando estavam de frente para uma criatura não-humana.@
+` Portanto, o que tem tanto o preocupado não passam de sonhos.@ E nem são coisas que a sua mente quer ver, devem ser sonhos que o SHIKi transmitiu para você."
+\
+` …… O SHIKI transmitiu esses sonhos?@
+` Pensando bem, o meu pai escreveu algo do tipo.@
+` O SHIKI roubou parte da minha vida, portanto, há uma ligação entre nós.
+\
+`"…… Entendi.@ Então quem é o assassino à solta?@ Ainda que eu só esteja tendo sonhos, mais vítimas estão aparecendo[line=3]"@
+br
+` [line=3]O assassino existe.@
+` Sinto que já o encontrei.@
+` Ou isso também foi um sonho?@
+` Não, deixando isso de lado.@ Se tem um assassino à solta, então[line=3]
+\
+`"…… O SHIKI ainda está vivo, né……!?"@
+`"Hã?"@
+` A Akiha, que somente ria até agora, fica séria.
+\
+`"Akiha.@ O nosso pai escreveu no diário dele que o SHIKI ainda estava vivo.@ Isso quer dizer[line=3]"@
+`"O diário do nosso pai……?"@
+` Ela parece curiosa.@
+`"Ele deixou registros dizendo que eu e o SHIKi estávamos conectados.@ Então o que vi podem ter sido mesmo os sonhos dele."@
+` …… Não, o certo seria dizer que é o que ele está fazendo.
+\
+`"…… É uma possibilidade.@ A morte do nosso pai teve circunstâncias suspeitas, e parece que alguém estava vivendo na cela subterrânea da mansão."@
+`"…… Espera um pouco, Akiha.@ Tem uma cela subterrânea aqui na mansão?"@
+`"Claro que sim.@ Muitos membros da família Tohno perdem a sanidade, por isso, a opção mais segura é trancá-los aqui para que não acabem atacando pessoas do mundo externo, não concorda?@
+` Bom, esse não é o único uso da cela.@ Nosso pai me trancava lá quando eu o desobedecia."@
+` Por algum motivo que não entendo, a Akiha parece estar se divertindo.@
+` …… Sinto um calafrio.
+\
+`"…… Entendi.@ Vamos parar de falar nisso.@ Precisamos fazer algo em relação ao SHIKI.@
+` Se ele realmente está vagando pelas ruas atrás de vítimas, precisamos pará-lo."@
+`"Está falando sério?@ Não precisamos nos preocupar com ele.@ Ou deixou de ser trabalho da polícia prender assassinos?"
+\
+`"O qu[line=4]como assim, Akiha?@ Ele pode estar matando pessoas, mas ainda é seu irmão.@ Ele precisa pagar por seus crimes, mas[line=3]"@
+`"…… Céus, Nii-san.@ Você é bonzinho demais."@
+` Respirando fundo, ela joga o cabelo para trás.
+\
+`"Você é o meu único parente.@ Eu não me importo com o SHIKI, sendo assim, você também não precisa se dar ao trabalho de lidar com ele."@
+`"Não podemos ficar de braços cruzados.@ Acha que a polícia vai conseguir prendê-lo?@ Ele vai fazer mais vítimas antes disso!"@
+`"Eu não vou levantar um dedo para lidar com o SHIKI.@ Ele não é nossa responsabilidade."@
+` Ela diz isso e me olha diretamente nos olhos.
+\
+`"Escuta, vamos conversar sobre outras coisas.@ Não é legal ficar falando sobre assassinos e mortes."@
+`"O qu[line=5]"@
+` Penso em dizer que é responsabilidade da nossa família sim, mas não posso falar isso.@
+` …… O olhar dela me perfura.@
+` Os seus olhos penetrantes parecem destruir a minha vontade.
+\
+`"Pelo visto, você entendeu.@ Pois bem, você vai voltar para o seu quarto agora?@ Acabei de chegar da escola, ainda tenho afazeres para cuidar."@
+`"[line=5]"@
+` …… Como ela disse, não há mais nada para conversarmos.@
+` Eu me afasto dela, mas ainda não estou convencido.
+\
+bg "bg/bg_36c",lshutter,800
+` Começo a sair do quarto.@
+br
+` [line=4]E, do nada,
+` por trás de mim, escuto uma voz pedindo que eu pare.@
+`"…… O que foi?@ Não tínhamos terminado de conversar, Akiha?"@
+ld c,"tachi/aki_t01b",lshutter,400
+`"[line=7]"@
+` Ela me encara em silêncio.
+\
+`"[line=3]Nii-san.@ Você é a pessoa mais importante para mim.@ Eu não seria quem sou se tivesse perdido as memórias que tenho de você de oito anos atrás.@
+` …… Eu pude continuar sendo eu mesma porque você estava aqui.@ Você é mais importante para mim até do que eu mesma, por isso, eu sempre quis que você gostasse de mim."@
+` Sinceridade total.@
+` Ela me olha como se eu fosse a única coisa que ela pudesse ver.
+\
+`"Mas isso é só um pedido egoísta.@ Essa família e eu nada mais somos do que um incômodo para você.@
+` É por isso que eu sempre temi que você se distanciasse de mim.@
+ld c,"tachi/aki_t09b",crossfade,400
+` Mas é uma preocupação sem fundamento, certo?@ Porque você voltou.@ Você voltou por minha causa, para ficar comigo."@
+br
+` Ela diz isso, feliz.@
+` …… Vendo-a sorrir, o meu peito dói.
+\
+`"…… Isso mesmo.@ Eu voltei porque não podia te deixar sozinha aqui.@ Mas estou começando a repensar se foi mesmo o certo."@
+` Eu voltei porque queria ficar perto dela.@
+` Mas ela está errada.@
+` A sinceridade em seus olhos não me permite mentir.
+\
+`"Mas, Akiha, esse não foi o único motivo para eu ter voltado.@ Eu[line=3]"@
+br
+` Eu também voltei por causa da menina com quem fiz aquela promessa.@
+` É algo mais precioso do que os meus sentimentos pela Akiha, não posso mentir sobre isso.
+\
+ld c,"tachi/aki_t06b",crossfade,400
+`"Pare.@ Eu não quero ouvir.@ Você voltou, é isso que importa.@
+` Então eu não preciso de mais nada[line=3]nem os seus sentimentos."@
+cl c,lshutter,400
+` Ela desvia o olhar.@
+` Essa imagem que estou tendo da Akiha cabisbaixa está me passando a ideia de que ela é uma pessoa muito perigosa; não entendo por que estou pensando assim.
+\
+`"Volte para o seu quarto.@ Não me mostre esse seu estado lastimável novamente, por favor, Nii-san."@
+`"………………"@
+` Saio do quarto em silêncio, sem saber o que dizer.
+\
+bg #000000,lcartain,400
+playstop
+!w2000
+bg "bg/bg_40c",crossfade,400
+` A noite segue e já é quase meia-noite.@
+` Já passou bastante do horário em que costumo ir dormir.@
+` Eu me deito e observo a lua pela janela.@
+`"…………"@
+` A noite continua passando e eu continuo sem dormir.@
+` Não é porque estou com medo de ter outro pesadelo em que mato alguém.@
+` O assasino, SHIKI, está à solta.@
+` Agora ainda tem a Akiha com aquele jeito que me transmitia perigo.@
+` Estou feito bobo olhando para a lua simplesmente porque não consigo obrigar a minha cabeça a parar de pensar nessas coisas.
+\
+`"………… Estou com tanta sede."@
+` A última vez que bebi algo foi quatro horas atrás, durante o jantar.@
+` Vou até a cozinha pegar algo para saciar a minha sede.
+\
+bg #000000,lcartain,800
+bg "bg/bg_35",lcartain,800
+` Tomo um copo de água de uma vez.@
+` Por que está tão gostoso?@
+`"…… Que coisa.@ Era só uma sede normal."@
+` A sensação do líquido descendo pela minha garganta é igual a do sonho de ontem à noite.
+\
+`"Hum……?@ Alguém está vindo."@
+` Ouço passos se aproximando.@
+` Passos curtos e leves que mal produzem som na calada da noite.@
+br
+ld c,"tachi/his_t01",lshutter,800
+`"…… Shiki-sama?@ Por que está acordado a essa hora?"@
+`"Hisui?@ Eu fiquei com sede, aí vim pegar algo para beber."@
+ld c,"tachi/his_t17",crossfade,400
+`"Quando isso acontecer, por favor, me chame.@ É melhor ficar descansando em seu quarto nesse período.@ …… Não recomendo andar pela mansão durante a noite."@
+` Ela fala sem fazer rodeios.
+\
+`"……?"@
+` Mas algo no que ela diz não parece certo.@
+` Ela está praticamente dizendo que não devo sair do quarto de noite.@
+` …… Hum, espera um pouco.@
+` A Hisui e a Kohaku-san trabalham aqui desde que eram muito jovens.@
+` Então[line=4]não é estranho pensar que elas sabem que sou adotado.
+\
+play "*1"
+`"…… Hisui.@ Quero perguntar uma coisa pra você.@ Podemos conversar agora?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim.@ Mas vamos para o seu quarto.@ Aqui não é lugar para isso."@
+`"Não, aqui está ótimo.@ Não é nada de importante assim."@
+`"[line=5]?"@
+` Ela parece confusa.
+\
+`"…………"@
+` Respiro fundo.@
+` Se ela não souber, vou estar revelando um grande segredo.@
+` Mas também não tenho a menor intenção de esconder isso.
+\
+`"Serei breve.@ Você sabe que sou adotado?"@
+`"[line=8]"@
+` Os ombros dela tremem.@
+` …… Isso indica que ela sabia.
+\
+`"…… Já entendi.@ Se você sabe, quer dizer que a Kohaku-san também sabe.@
+` Como assim?@ Então era segredo só pra mim!?"@
+`"Shiki-sama, eu[line=3]"@
+ld c,"tachi/his_t17",crossfade,400
+` Diz ela enquanto abaixa o olhar.
+\
+`"…… Sinto muito.@ Mesmo que você seja adotado, não há dúvida de que é o filho mais velho da família Tohno.@ A Akiha-sama o aceita como irmão, e eu e a Nee-san vemos você como nosso mestre."@
+`"…… Obrigado.@ Ouvir isso de você me faz acreditar que posso permanecer aqui."
+\
+ld c,"tachi/his_t13",crossfade,400
+`"Shiki-sama…… Por favor, não fale assim.@ Este é seu lar de verdade."@
+`"Eu sei.@ É o que penso também.@ Embora tenha sido por um período curto, o que aconteceu aqui quando eu era criança foi importante para mim.@ Não posso simplesmente jogar tudo isso pela janela."@
+ld c,"tachi/his_t04",crossfade,400
+` A Hisui parece visilvemente aliviada.
+\
+`"…… Mesmo assim, eu queria saber.@
+` Antes de eu vir para cá, hum…… Era Nanaya, né…?@ Se você souber, poderia me dizer que tipo de criança eu era?"@
+`"…… Eu sinto muito.@ Não sei nada além do fato de você ser o filho mais velho da família Nanaya.@ O Makihisa-sama destruiu completamente todos os registros."@
+` …… Entendi.@ Bom, se ele me fez agir como Tohno Shiki, então todos os registros meus como Nanaya Shiki devem ter sido destruídos para sempre.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Mas, Shiki-sama, a Nee-san pode saber de algo."@
+`"Hã……?@ Por que a Kohaku-san saberia de alguma coisa?"@
+`"Ela cuidou do Makihisa-sama desde quando viemos para cá.@ Ela pode saber de coisas sobre a família Tohno que nem a Akiha-sama sonharia em descobrir."@
+`"………………?"
+\
+` Se não me engano, acho que a Kohaku-san mencionou que era a criada pessoal daquele velho.@
+` Mas eu imaginei que ela apenas ajudava a cuidar da condição dele de vez em quando.@ …… Eu não tinha entendido que ela servia ele como criada pessoal desde criança.
+\
+`"…… Aquela Kohaku-san?@ …… Ela brincava com a gente o tempo todo, não consigo imaginá-la tendo que ficar toda hora por perto daquele velho[line=6]"@
+` …… Sendo franco, parece mais um serviço para a Hisui.@
+` A Hisui que sempre nos observava brincar de dentro da mansão.
+\
+`"…… Será verdade mesmo?@ Mas que coisa.@ Por que aquele velho diria para a Kohaku-san coisas que ele não contou nem para a Akiha?"@
+`"Creio que ele não tenha dito diretamente.@ Como a Nee-san sempre ficou perto do quarto do Makihisa-sama, acredito que ela tenha tido oportunidades de ouvir o Makihisa-sama pensando em voz alta."@
+`"[line=7]Sempre perto do quarto dele?"@
+br
+playstop
+` Mas.@
+` Mas era a Hisui quem fazia isso, ela que ficava dentro da mansão o tempo todo[line=3]
+\
+`"Espera aí.@ Que história é essa da Kohaku-san estar sempre ao lado daquele velho desde criança?"@
+ld c,"tachi/his_t25",crossfade,400
+`"Ah[line=4]"@
+ld c,"tachi/his_t26",crossfade,400
+` A Hisui olha para baixo.@
+br
+` [line=3]Alguma coisa não saiu como o planejado.@
+br
+` Essa sensação de que algo não bate não quer ir embora, então tudo parece começar a fazer sentido.
+\
+` A Kohaku-san sabia sobre a promessa que só a Hisui deveria saber.@
+` A Hisui se esqueceu da promessa de oito anos atrás.@
+` Mas[line=3]será que…
+` Eu posso ter trocado os papéis delas nas minhas lembranças.@
+` Se isso for verdade, então[line=4]
+\
+`"…… Hisui.@ Vou perguntar só mais uma vez, você se lembra de oito anos atrás?"@
+ld c,"tachi/his_t17",crossfade,400
+`"[line=3]Sim.@ Está falando de quando te dei aquela fita de cabelo, certo?"@
+`"…… Sim.@ Depois que saí do meu quarto, você me parou na entrada e me deu a fita de cabelo.@ Você se lembra de que cor ela era?"@
+`"Era branca, mas o que isso tem a ver?"@
+br
+` Ela respondeu corretamente.@
+` Mas errou em algo fundamental.@
+`"[line=6]"@
+` Tum.@
+` A força vai embora das minhas pernas e me sento na cadeira mais próxima.
+\
+play "*9"
+`"[line=5]Como[line=2]"@
+` Como pude estar tão enganado até agora?@
+ld c,"tachi/his_t23",crossfade,400
+`"Shiki-sama……?"@
+`"[line=3]Você errou, Hisui.@ Eu recebi a fita de cabelo debaixo daquela árvore no jardim.@ Não foi na entrada da mansão."@
+`"[line=9]"@
+` Ela engole em seco e fica quieta.
+\
+cl c,lshutter,400
+`"Por que[line=4]"@
+` Não entendo.@
+` Por que a Kohaku-san tentou me enganar?@
+` Por que[line=3]por que ela simplesmente não disse que foi ela quem fez a promessa comigo?
+\
+ld c,"tachi/his_t26",lshutter,400
+`"Shiki-sama[line=3]por favor, não conte isso para a Nee-san.@ Ela não terá para onde ir, caso descubra."@
+` E do nada,
+` a Hisui diz isso.
+\
+`"Se ela souber que eu descobri que vocês trocaram de lugar?"@
+` Ela assente em silêncio.
+\
+`"…… Então era você que brincava com a gente, e a Kohaku-san[line=3]era a menina que ficava na mansão, né?"@
+` Ela assente em silêncio.
+\
+`"Por que……?@ Por que vocês agiram como se tivessem trocado de lugar?@ Não faz sentido.@ Ou vocês estavam só querendo me fazer de idiota?"@
+ld c,"tachi/his_t21b",lshutter,400
+`"A nossa intenção não era enganá-lo, Shiki-sama.@ Nós mesmas não sabemos como as coisas acabaram dessa forma."
+\
+`"…… Começou oito anos atrás.@ Depois que você foi adotado pela família Arima, acho que apenas fiquei mais quieta.@
+` A Nee-san tentou me animar agindo muito feliz, e acabamos invertendo os papéis gradualmente."@
+`"Mas por que…… Por que isso aconteceu……?@ Hisui…… Você sempre foi cheia de energia."@
+`"…… Não é verdade.@ Eu sou quieta por natureza.@ Mas, quando você estava aqui, eu tentava segui-lo para todo lado o máximo que podia."@
+`"[line=10]"
+\
+bg #000000,crossfade,800
+bg "event/his_e01b",crossfade,800
+` …… É, eu me lembro.@
+` Aquela garota, sempre animada e sorridente.@
+` A mais descontraída, que sempre se preocupava conosco, que aguentava mais que todos[line=4]que agia igual à Kohaku-san atual.
+\
+bg #000000,crossfade,800
+bg "bg/bg_35",crossfade,400
+`"…… É sério?@ Pensei que você continuaria animada daquele jeito, mesmo eu não estando aqui.@ Era algo que fazia parte de você.@ Eu vivia te seguindo, sei do que estou falando."@
+ld c,"tachi/his_t04",crossfade,400
+`"…… Foram dias muito divertidos.@ Acho que foram os melhores dois anos da minha vida."
+\
+ld c,"tachi/his_t21b",crossfade,400
+`"Mas essa magia se desfez quando você se foi, Shiki-sama.@
+` A Akiha-sama começou a odiar o Makihisa-sama, e ele, por sua vez, ficou muito rígido com a Nee-san.@
+` Os dias felizes acabaram.@ Eu fui ficando cada vez mais quieta, até não conseguir nem trabalhar."
+\
+`"Por isso a Nee-san me substituiu.@
+` Sorrindo como eu costumava sorrir, correndo como eu costumava correr.@ Em troca, eu assumi o antigo papel dela.@
+` …… Foi fácil demais para mim.@ E, ao mesmo tempo, foi uma situação que realizou o único desejo da Nee-san."
+\
+`"…… O único desejo da Kohaku-san……?"@
+` Não entendi.@
+` Mas ficou claro que a Hisui pensa sempre na Kohaku-san.@
+` É a única coisa da qual posso ter certeza.
+\
+`"Hisui.@ Que história é essa do desejo dela?"@
+ld c,"tachi/his_t17",crossfade,400
+`"…… A Nee-san sempre quis ser que nem eu.@ Mas ela se conteve, para me proteger.@
+` Acredito que ela está apenas interpretando um papel quando age como a antiga Hisui.@
+` Ela finge ser eu e destrói a sua própria vontade.@ Ela é como uma marionete que manipula os próprios barbantes para agir como a 'Hisui do passado'."
+\
+ld c,"tachi/his_t26",crossfade,400
+`"…… Eu tinha medo daquela Nee-san.@ Ela perdeu a própria identidade, e percebi que ela só conseguia viver ao assumir o lugar de outra pessoa.@
+` …… Acredito que, se eu voltar ao meu antigo eu, a Nee-san vai voltar ao seu eu verdadeiro também.@
+` …… Ela disse o seguinte quando trocamos de lugar pela primeria vez."
+\
+bg #000000,crossfade,800
+bg "event/his_e02b",crossfade,800
+br
+br
+br
+br
+` Está tudo bem, Hisui-chan.@
+` Eu vou te substituir até que fique animada de novo.@
+` Então, quando voltar com ânimo total, vou devolver o seu lugar.
+\
+bg #000000,crossfade,800
+bg "bg/bg_35",crossfade,400
+ld c,"tachi/his_t17",crossfade,400
+`"[line=4]Fiquei com medo do que ela disse e pensei que devia voltar a ser como era na mesma hora.@
+` …… Porém, acabei vendo ela, sem querer, caminhando pelo jardim, toda feliz.@
+ld c,"tachi/his_t21b",crossfade,400
+` …… A Nee-san parecia tão feliz.@ …… Eu não sabia que era assim que as pessoas me viam naquela época; ela estava feliz de verdade.@ E não estava fazendo nada demais, apenas caminhava pelo jardim."
+\
+`"Ela estava apenas fingindo ser a 'Hisui'.@ Mesmo assim, parecia muito feliz.@
+` Por isso[line=4]mesmo que ela não tenha percebido, eu entendi que ela sempre quis ser daquele jeito.@
+` Não tive como pôr um fim nisso."@
+cl c,crossfade,400
+` …… Mordendo o lábio, a Hisui contém as suas lágrimas em silêncio.
+\
+ld c,"tachi/his_t17",lshutter,400
+`"…… Shiki-sama.@ Por favor, deixe que ela continue assim.@ …… Senão, ela vai perder o seu lugar nesta mansão."@
+` …… Só posso assentir para as palavras dela.@
+` Mas essa não é a escolha certa.@
+` A Kohaku-san finge ser a Hisui do passado, e a Hisui finge ser a Kohaku-san do passado.
+\
+` [line=3]A Hisui esteve observando a sua irmã, que somente sabe viver uma mentira, e ainda diz que quer viver ao lado dela.@
+` Isso[line=10]deve ser de uma dificuldade inimaginável.
+\
+ld c,"tachi/his_t13",crossfade,400
+`"Shiki-sama.@ Prometa para mim que não vai dizer nada para a Nee-san, por favor."@
+`"…… Tudo bem.@ Mas você acha isso certo?"@
+`"……………………"@
+` Ela não responde.@
+` …… Eu me levanto da cadeira, cheio de emoções conflitantes.@
+` Só me resta voltar para o meu quarto e deixar para trás essa Hisui cabisbaixa.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_33d",lcartain,800
+`"[line=7]?"@
+` Enquanto faço o caminho para voltar ao meu quarto, percebo que a porta da frente da mansão está aberta.@
+`"…… Quem será que foi lá para fora?"@
+` …… A Hisui ainda deve estar na cozinha.@
+` Isso significa que só pode ser a Kohaku-san ou a Akiha.
+\
+`"………………"@
+` Para ser sincero, a única coisa que quero fazer agora é dormir.@
+` O meu corpo e a minha mente estão exaustos; acho que vou acabar desmaiando se não deitar para dormir.@
+` Esta noite.@ Tenho a sensação de que todo o meu ser vai se despedaçar se eu não dormir.@
+` Então eu deveria[line=4]
+\

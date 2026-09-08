@@ -1,0 +1,124 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… A forma como a Akiha falou está me deixando muito incomodado.@
+` Ela não quer que ninguém entre na edícula sob nenhuma circunstância.@
+` A forma como ela falou me deixou mais curioso do que já estava.@ Além disso[line=5]se a única construção ao estilo japonês é a edícula, eu realmente estou com vontade de dar uma olhada.@
+br
+`"…… Não vai ter problema se eu não for pego."@
+` Eu me desculpo em silêncio com a Akiha e vou na direção da saída bem quieto.
+\
+playstop
+waveloop se_11
+bg #000000,lcartain,400
+bg "bg/bg_33b",lcartain,400
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+bg #000000,lcartain,800
+` [line=6]O sol já se pôs e está tudo escuro do lado de fora da casa.@
+` Vou caminhando pelo quintal que mais parece uma floresta.@
+` …… Eu não me lembrava o lugar certo, mas assim que entro na floresta, meus pés me levam para a edícula automaticamente.@
+` Embora eu não me lembre, o meu corpo lembra perfeitamente.@
+` Enfim, consigo chegar na edícula sem me perder.
+\
+bg "bg/bg_44b",lcartain,800
+`"[line=7]"@
+` Deve ter muitos anos que este lugar está fora de uso, já que várias partes estão deterioradas.@
+br
+` Coloco a mão na porta e percebo que está destrancada.@
+br
+bg #000000,lcartain,800
+` Está muito escuro lá dentro.@
+` Sinto o cheiro do tatame e das portas de shouji e, mesmo sem conseguir ver nada, me sinto confortável.
+\
+bg "bg/bg_45c",lcartain,800
+`"[line=5]Ah."@
+` Quando entro no quarto ao estilo japonês, um calafrio percorre as minhas costas.
+\
+`"[line=10]Eu conheço este lugar."@
+` Como essa construção ao estilo japonês parecia interessante, acho que eu vim aqui quando era criança.@
+`"[line=12]"@
+` Mas que estranho!@
+` Estou com a mesma sensação de incompatibilidade que tive quando me mostraram o meu quarto assim que retornei à mansão.@
+`"…… Talvez seja porque a casa dos Arimas era ao estilo japonês."@
+` Fico com a sensação de que vivi aqui a minha vida toda.@
+br
+` Ou talvez[line=5]
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+` Se a memória não me falha, no passado…
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` Quando brincávamos no pátio…
+\
+bg #000000,crossfade,400
+bg "bg/cmo_06",notrans,0
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` Talvez não fosse somente a Akiha e eu.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_45c",notrans,0
+wave se_01
+`"Ai ai[line=6]"@
+` Sinto uma dor súbita no pescoço.@
+` Talvez seja a minha anemia atacando, mas o meu corpo está pesado como chumbo.@
+`"…… Isso não é bom…… Preciso voltar para o meu quarto."@
+` Balanço a cabeça de leve pra ver se melhoro e decido voltar para o meu quarto antes que eu desmaie.@
+play "*1"
+ld c,"tachi/koha_t02b",lshutter,400
+`"Olá, Shiki-san.@ O que está fazendo aqui?"@
+` De repente, a Kohaku-san entra no quarto.
+\
+`"[line=10]!!!"@
+` Olho em volta para ver o que dá para fazer.@
+` …… Não há lugar onde eu possa me esconder.@ Tirando o fato de que ela já me viu.@
+ld c,"tachi/koha_t04b",crossfade,400
+`"Você não pode ficar aqui.@ A Akiha-sama nos disse para nunca deixar você entrar neste lugar."@
+`"…… É, ela me falou isso.@ Ela me falou, mas[line=5]"@
+ld c,"tachi/koha_t15",crossfade,400
+`"Você ficou curioso, né?@ Eu te entendo.@ Vou deixar passar desta vez, mas não venha aqui de novo.@ Esta construção é muito antiga e perigosa."
+\
+` …… Esta construção é muito antiga e perigosa?@
+` É uma razão meio estranha, mas não é algo que não faça sentido.@
+`"…… Ainda estou curioso.@ Para que este lugar era usado?@ Ele não está em uso agora, mas alguém já o usou antes?"@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Sim, aqui era o alojamento dos empregados.@ Antes de você se mudar para a casa dos Arimas, esta mansão tinha muitos empregados.@
+` Seria impossível deixar todos eles viverem na mansão, por isso o Makihisa-sama construiu esta edícula."@
+`"Hum, entendi, então aqui era o alojamento dos empregados."
+\
+` Faz sentido.@
+` Quando se tem uma mansão desse tamanho absurdo é claro que seria necessário um lugar desses.@
+` Mas por que será?@
+` Por que a Akiha está tentando me manter longe deste lugar[line=6]?
+\
+`"Shiki-san, vamos voltar logo para a mansão ou a Akiha-sama vai acabar descobrindo."@
+`"Ah[line=5]desculpa."@
+` Deixo de lado as dúvidas que permanecem na minha cabeça e resolvo voltar para a mansão com a Kohaku-san.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

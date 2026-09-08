@@ -1,0 +1,14 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` No tengo nada que hacer en particular, así que decido dirigirme directamente de vuelta a la mansión.@
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_32b",lcartain,1500
+` Subiendo la colina, regreso a la mansión.@
+` Ni siquiera son las cinco en punto.@
+` Faltan dos horas para la cena, así que mataré algo de tiempo en mi habitación[line=3]
+\
+bg #000000,lcartain,800
+!w1000

@@ -1,0 +1,127 @@
+monocro off
+playstop
+wavestop
+bg "bg/ima_01",crossfade,800
+play "*7"
+br
+br
+br
+br
+br
+br
+` [line=4]E então…
+` Eu abraço a Akiha.
+\
+` [line=3]Eu nunca conseguiria matá-la.@
+br
+`"…… Eu quero que você viva."@
+` Ela inclinca a cabeça, intrigada.@
+`"Não importa o que você se torne[line=3]ainda assim quero que viva, Akiha."@
+` Não consigo conter as minhas lágrimas.@
+` Ela me abraça de volta, toda feliz[line=4]e morde o meu pescoço.
+\
+`"[line=5]!!"@
+` Dói bastante.@
+` Mas não foi uma ação para sugar o meu sangue.@
+` É apenas um instinto primitivo de morder.
+\
+`"A-Akiha."@
+` Ela morde o meu pescoço freneticamente.@
+` Ela rasga a carne do meu pescoço e arranha os dentes nos meus ossos.@
+` A Akiha não tem inteligência.@
+` Ela não sabe quem a está abraçando e nem entende o significado de uma abraço.@
+br
+` Ela não é diferente de um animal irracional com forma humana.@
+` Mas[line=4]
+\
+`"[line=3]Mesmo assim…… Eu quero que você viva."@
+br
+` …… É errado desejar isso?@
+` É um crime desejar que ela continue viva mesmo sabendo que vai sair por aí matando as pessoas?@
+` Embora a Akiha tenha dito que seria algo insuportável, eu quero que ela suporte.
+\
+` Mas.@
+` Isso é apenas[line=4]um desejo extremamente egoísta.
+\
+`"[line=4]Nós fizemos uma promessa."@
+` Ela não me solta.@
+` Ainda abraçando-a, eu coloco a faca na sua "linha".
+\
+br
+` [line=3]Mais cedo ou mais tarde alguém vai te matar, então…
+br
+`"Eu não vou deixar ninguém te machucar."@
+br
+` [line=4]A minha faca[line=4]sem fazer som algum…
+`   E provavelmente sem causar dor alguma…
+br
+`"Já que eu sou a pessoa mais importante para você e você a mais importante para mim."@
+br
+` [line=4]Gentilmente acaba com a vida da minha irmãzinha.
+\
+bg #000000,crossfade,400
+bg "bg/bg_54a",crossfade,400
+` As folhas de outono caem.@
+` A Akiha está deitada no chão vermelho.@
+` O seu cabelo espalhado pelo chão está preto.@ Ele ondula vividamente em meio às folhas vermelhas.@
+` O seu rosto está em paz, como se estivesse tendo um sonho alegre.
+\
+`"[line=10]"@
+` Acabou.@
+` Quando eu era criança.@
+` A felicidade que senti quando nos encontrávamos aqui e corríamos pelo pátio.@
+` O brilho das estrelas que observávamos juntos.@
+br
+` Há apenas alguns dias.@
+` Tudo o que conversamos aqui, neste lugar.
+\
+bg "event/aki_e03",crossfade,800
+br
+br
+br
+br
+br
+` [line=4]Nii-san, eu estou feliz que tenha voltado.@
+` …… Quero que saiba disso.
+\
+bg #000000,crossfade,800
+bg "bg/ima_01",crossfade,800
+` Em algum momento, comecei a fitar a lua.@
+` …… O meu corpo está frio.@
+` Estou tonto, como se estivesse prestes a cair no sono.
+\
+` …… Estou com sono.@
+` Sinto que, se dormisse agora, eu poderia achar que tudo isso não passou de um sonho.@
+br
+` Mas seria apenas um sonho e um dia eu teria que acordar.@
+` E seria apenas parte do sonho.@
+br
+` Será que tudo não passou de um sonho efêmero desde o início?@
+` Se esse for o caso, então, por favor…
+` Deixe-me dormir e nunca mais acordar.
+\
+`"[line=9]Aha, ha."@
+br
+` No céu paira a lua azul; a lua azul de vidro.@
+` A imensa cortina de árvores e os aplausos das folhas carmesins chovem sobre mim.@
+br
+`"Ahaha, ha[line=6]"@
+br
+` Estou muito triste, mas o único som que sai da minha boca é o de risadas.
+\
+` A noite é longa.@
+` Ao meu redor há um silêncio sereno que atinge os meus tímpanos como aplausos estrondosos.@
+` A minha visão distorce e diminui.@
+` …… Parece que está na hora de baixar as cortinas.@
+` A cortina de árvores gira.@
+br
+` É como se
+` tudo nesse circo
+` fosse artificial.
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

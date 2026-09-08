@@ -1,0 +1,31 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_05a",notrans,0
+`"…… Por quê?@ Por que você estava fazendo aquilo?"@
+`"Por quê!?@ Porque esse é o meu trabalho."@
+` Dizendo isso, ela me encara.
+\
+`"Estou aqui para executar vampiros.@
+` Então[line=3]no pior dos casos, não posso te deixar em paz agora, Tohno-kun."@
+`"O qu[line=4]"@
+` Ser encarado por esses olhos frios faz meu coração acelerar.
+\
+`"Quero que me responda uma coisa, Tohno-kun.@
+` Por que está se associando a uma vampira como ela?@ Dependendo da sua resposta, eu vou[line=3]"@
+br
+` Sinto como se o ar estivesse literalmente congelado.@
+` [line=3]Pensei que seria eu quem faria as perguntas, mas nossas posições foram invertidas.@
+br
+` Não sei o que ela fará caso eu não responda, e sinto um arrepio percorrendo todo o meu corpo.
+\
+`"Agora, me diga.@ Por que você está associado àquela vampira?"@
+`"Ah[line=3]não, Senpai, não é bem isso.@
+` Eu realmente concordei em ajudá-la, mas isso já é coisa do passado.@
+` Eu estava suspeitando que a Arcueid pudesse ser a culpada pelos assassinatos em série, mas não parecia certo suspeitar dela, por isso fui perguntar diretamente a ela e[line=3]"@
+cl c,crossfade,400
+\
+` Conto tudo sobre ontem à noite.@
+` A Senpai escuta tudo em silêncio.@
+` Conto como conheci a Arcueid acidentalmente, como ela me explicou sobre o vampiro que está nesta cidade, como me juntei a ela para salvar a cidade e tudo o que aconteceu até esse instante.
+\

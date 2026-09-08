@@ -1,0 +1,47 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ¡Merci!@
+` Ahora el rincón de consejos para el pobre Tohno-kun que alcanzó un Final Muerto a la mitad del clímax,
+` Es la hora de "¡Enséñame, Ciel-sensei!"@
+` Habría sido mejor renunciar, pero este rincón ya está en su segundo día.@
+` A este ritmo, podríamos seguir hasta el tercer día, lo cual me hace sentir un poco enferma.@
+br
+` Entonces, comencemos la lección de la primera hora.
+\
+` Oh cielos.@
+` Por eso te lo dije, Tohno-kun.@
+` No deberías confiar en Arcueid.@
+br
+ld l,"tachi/ark_t30",lshutter,400
+`"No.@ Eso no es mi culpa."@
+br
+` Es tu culpa sin importar cómo lo veas.@
+br
+`"¡Unyaa!"
+\
+cl l,lshutter,400
+` [line=4]Bien, entonces.@
+br
+` Para el Tohno-kun que vino aquí.@
+` Es difícil decirlo, pero tienes que reiniciar desde bastante atrás.@
+` Los sentimientos por ti que nacieron dentro de Arcueid fueron desafortunadamente más débiles que sus impulsos como vampiro.@
+` Por favor regresa uno o dos días e intenta fortalecer el vínculo con ella.@
+br
+` Oh sí, y una cosa más.@
+` Tohno-kun, aunque estabas encantado, no creo que fuese bueno enloquecer fácilmente.
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lshutter,400
+`"Nyoo es mi culpa……"@
+ld c,"tachi/ark_t31b",lshutter,400
+ld c,"tachi/ark_t31a",lshutter,400
+`"¡Shiki, idiota!@ ¡Cabeza de chorlito!@ ¡Patán insensible!"
+\
+cl c,crossfade,800
+playstop

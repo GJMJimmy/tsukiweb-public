@@ -1,0 +1,121 @@
+phase "bg/bg_11c",l,cel,09a,9
+bg #000000,notrans,0
+bg "bg/cmo_14",crossfade,400
+` Estou em um lugar escuro.@
+` Faz oito anos desde que acordei.@
+` Por todo esse tempo, estive no escuro prendendo minha respiração.
+\
+` E nem sei o porquê.@
+` Ele já se desgastou com o tempo.@
+` Aqui existe apenas a escuridão.@
+` Mas eu sei que tem algo que preciso fazer.
+\
+` Não sei por que vivo.@
+` Mas sei qual é o meu propósito.@
+` As correntes que me prendiam não existem mais.@
+` Não há mais nada para me segurar.@
+!w500
+br
+` Tudo o que me resta,
+!w500
+br
+` é matar você.
+\
+bg #ffffff,crossfade,1500
+bg "bg/bg_40e",crossfade,400
+br
+` Piu Piu.@ Piu Piu.@ Chirp.@ Chirp.@
+br
+` A janela está aberta?@
+` Estou ouvindo o canto dos pássaros vindo do jardim.@
+br
+` Sinto uma brisa leve no rosto.@
+` A luz brilhante do sol atinge os meus olhos.@
+` Um matiz calmo e delicado.@
+br
+` Elementos de uma manhã agradável.
+\
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Manhã?@
+` Parece que estive dormindo desde quando a Akiha cuidou de mim.@
+` Ainda sinto meu corpo pesado.@
+` Mesmo assim, estou bem melhor do que ontem à noite.@
+` Abro os olhos e me levanto.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"Urgh…………"@
+` Sinto vontade de vomitar no mesmo instante.@
+` Será que ainda é por causa da crise de anemia que tive ontem?@
+` Meu peito dói e me sinto péssimo.@
+br
+ld c,"tachi/his_t01",lshutter,400
+`"Com licença."@
+` A Hisui entra no quarto.@
+` Ela deve ter pensado que eu ainda estava dormindo, já que parece tão surpresa em me ver acordado.
+\
+`"Bom dia.@ Ao que parece você já está acordado, Shiki-sama."@
+`"[line=4]"@
+` Por algum motivo,
+` a reação dela me aborrece.
+\
+`"Bom dia.@ Está na hora do café da manhã, né?@ Já vou descer, então sai logo daqui.@ Vou me trocar."@
+ld c,"tachi/his_t04",crossfade,400
+`"…… Sim, com licença."@
+cl c,lshutter,800
+`"……………"@
+` Não importa o quão mal-humorado eu esteja, descontar na Hisui dessa forma… tem algo errado comigo.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"[line=4]"@
+` Estou me sentindo péssimo, parece que estou doente.@
+` Mesmo que eu vá para a escola nesse estado, não vou ser capaz de fazer nada.@
+br
+`"…… Acho que vou ficar em casa."@
+` Mas eu tenho que ir.@
+` Se for para a escola, posso ver a Senpai de novo.
+\
+` …… Ela pode não ser a "Senpai" que eu quero ver[line=3]mas talvez esteja lá.@
+br
+`"[line=5]Ufa."@
+` Respiro profundamente e me acalmo.@
+` Saio do quarto, tentando resistir à tontura.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+ld c,"tachi/aki_t16a",lshutter,800
+`"Ah, Nii-san.@ …… Bom dia."@
+` …… Assim que chego na sala de estar, a Akiha me cumprimenta sem entusiasmo.
+\
+`"…… Bom dia.@ Você acordou cedo, Akiha."@
+`"Sempre acordo cedo, mas…… Nii[line=6]san?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Você está se sentindo bem?@ Ainda está pálido.@ Se não estiver bem, pode ficar em casa hoje[line=3]"@
+`"Não, estou bem.@ Estou melhor, não precisa se preocupar."@
+` Dou uma resposta rápida e continuo andando.@
+` Vou em direção à sala de jantar, porque posso acabar desmaiando se não comer alguma coisa.
+\
+`"Até mais tarde.@ Não está na hora de você ir para a escola?"@
+ld c,"tachi/aki_t17a",crossfade,400
+`"……………… Sim.@ Já estou indo."@
+` Falando com hesitação, ela se levanta calmamente.@
+cl c,lshutter,800
+` A Akiha sai da sala de estar.@
+` Depois de observá-la sair pelo canto do olho, entro na sala de jantar.
+\
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_23a",lcartain,800
+` Saio da mansão e vou para a escola.@
+` Meu corpo ainda está pesado, desço a colina sentindo que estou dentro do corpo de outra pessoa.
+\
+bg "bg/bg_01a",lcartain,800
+` Faltam vinte minutos para as oito horas da manhã.@
+` O portão fica congestionado com muitos estudantes.@
+br
+`"………………"@
+` Acho que a Senpai não vai vir, mas será que esperar aqui é melhor do que esperar dentro da minha sala?
+\

@@ -1,0 +1,12 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+`"Yumizuka[line=4]I…"@
+` I… can't answer.@
+` Maybe this makes me a horrible person, but those are my true feelings.@
+` I never had any special feelings for my classmate Yumizuka Satsuki.@
+` I'm only here because what happened on the way home two days ago left such an impression on me, I couldn't just forget about it[line=3]
+\
+ld c,"tachi/stk_t10",crossfade,400
+`"I thought so.@ You never even knew I existed, so you couldn't have fallen in love with me."
+\

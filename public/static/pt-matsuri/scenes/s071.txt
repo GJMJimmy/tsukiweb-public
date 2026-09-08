@@ -1,0 +1,18 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Akiha.@ Sobre a Kohaku-san…"@
+ld c,"tachi/aki_t01a",notrans,0
+`"Sim?@ O que tem a Kohaku?"
+\
+`"Ela é uma pessoa muito legal, né?@ Acabei de ser repreendido por ela no corredor.@ 'Você não vai crescer se não tomar o café da manhã todos os dias!' ela disse."
+\
+ld c,"tachi/aki_t04a",crossfade,800
+`"Hummmn.@ Isso parece algo que ela diria mesmo.@ Você gosta da Kohaku, Nii-san?"
+\
+`"Hã[line=3]Não, não dessa forma.@ Só fiquei surpreso porque nunca fui repreendido assim quando morava com os Arimas.@ Graças a ela, parece que não vou conseguir pular o café da manhã de agora em diante."@
+`"É isso mesmo.@ Você é anêmico, não te faria bem algum pular o café da manhã."@
+` As tonturas não têm nada a ver com a minha alimentação, mas eu apenas concordo fazendo um gesto com a cabeça.@
+cl c,notrans,0
+\

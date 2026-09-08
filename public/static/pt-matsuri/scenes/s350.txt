@@ -1,0 +1,53 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w2000
+bg "bg/bg_06b",tshutter,800
+play "*1"
+` Finalmente as aulas terminam.@
+` Vou até a classe da Akiha.@
+br
+bg "bg/bg_10b",lcartain,400
+` …… Mas assim que saio da minha classe, dou de cara com ela.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san.@ Está indo aonde?"@
+`"Estava indo te buscar.@ E você?@ Vai pra onde?"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"Pensei em irmos embora juntos, Nii-san, por isso vim atrás de você…"@
+`"Entendi.@ Foi sorte não nos desencontrarmos.@ Então vamos indo.@ A Kohaku-san e a Hisui devem estar nos esperando."@
+ld c,"tachi/aki_t09",crossfade,400
+`"Sim.@ Vamos embora, Nii-san."
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+`"Ah, é mesmo, estava querendo te perguntar uma coisa, Akiha."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Querendo me perguntar o quê…?"@
+`"Por que você não gosta da Senpai?@ Por acaso vocês já se conheciam antes?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Não, ontem foi a primeira vez que a encontrei.@ O meu desgosto por ela é psicológico, não precisa se preocupar com isso."@
+`"Psicológico?@ Como assim?"@
+ld c,"tachi/aki_t21",crossfade,400
+`"Eu não consigo controlar o que sinto.@ É o mesmo que você sentia pelo nosso pai, então, por favor, não se preocupe com isso."
+\
+`"[line=3]Espera aí, Akiha.@ Eu simplesmente não gostava daquele velho, eu não o odiava."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Eu também não odeio ela.@ …… Talvez tenha exagerado na minha forma de agir hoje.@ Eu vou refletir sobre as minhas ações, peço que seja tolerante quanto ao ocorrido na hora do almoço."@
+`"…… Certo.@ Tudo bem então."
+\
+cl a,crossfade,400
+` …… Talvez isso não se torne um problema sério.@
+` Geralmente a Ciel-senpai aparece para almoçar conosco, portanto se a relação entre as duas for ruim, vai ser um problemão.@
+` Se o que a Akiha está dizendo proceder, o Arihiko e eu não vamos ter que ficar no fogo cruzado todos os dias[line=4]
+\
+bg #000000,lcartain,800
+!w1000
+playstop
+bg "bg/bg_40b",rcartain,800
+`"[line=4]Ahh."@
+` Eu jogo a minha pasta em cima da mesa e me sento na cama.@
+` O que devo fazer?@
+` Parece que a Akiha precisa ir a algumas lições e assim que chegamos em casa ela foi para algum lugar de carro.@
+` …… É mesmo, a Hisui e a Kohaku-san também estavam ocupadas andando de um lado para o outro dentro da mansão.
+\

@@ -1,0 +1,23 @@
+monocro off
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*8"
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` It is time for the last lesson.@
+` The seventh period is about the end of this one particular person.@
+br
+` …… No one can truly understand the feelings of Tohno-kun, who kept his promise.@
+` There is nothing for me to advise.@
+` But if Tohno-kun wishes for a different outcome, please go back a bit and choose a different course of action.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Uhh, but if Akiha doesn't like you enough, you don't even get a choice."@
+br
+` [line=4]Ah.@
+` In, in that case, please go back a couple of days and deepen your bond with Akiha-san.@
+` If you do that, a different fate should await you.
+\
+bg #000000,crossfade,800
+playstop

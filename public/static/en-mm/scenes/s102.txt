@@ -1,0 +1,47 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` …… I will bear it for now……!@
+` Even if I recklessly attacked Nrvnqsr, these beasts would get in the way.@
+` For now I have to bear them and wait for an opening to[line=4]
+\
+bg "bg/ima_12b",notrans,0
+wave se_10
+wait 100
+bg #000000,notrans,0
+`"Gah[line=6]!"@
+` I get struck in the back from behind.@
+` Did one of the black dogs just ram me with its head?@
+` Anyhow, my spine creaks[line=4]and I can't… breathe.
+\
+bg "bg/ima_12b",notrans,0
+wave se_10
+wait 100
+bg #000000,notrans,0
+`"Ah[line=6]"@
+` Both of my thighs are punctured by canine teeth.@
+`"Ha[line=4]ahhh……!"@
+` I pierce their foreheads audibly with my knife.@
+` The two dogs dissolve like mud, leaving only burning pain behind in my legs.@
+br
+` [line=4]The beasts are not uncontrolled.
+\
+` Even though they could pick me apart in a single instant if they wanted to, they circle themselves around me and come to "feed" one at a time.@
+br
+` There,
+` is no opening at all.
+\
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+`"Ah…………… h."@
+` My body collapses.@
+` Not even being able to breathe properly, not even being able to stand from the pain in my legs,
+` I fall flat on my back.
+\
+`"I am quite the fastidious person.@ Rest assured, there will not even be one of your cells left."@
+br
+` I hear a voice.@
+` At the same time, a black dome arches over me.
+\

@@ -1,0 +1,40 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*4"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/nero_t02a",tshutter,800
+`"Jovem, você tem alguma pergunta?"@
+br
+ld l,"tachi/ark_t31a",lshutter,400
+`"Ei, isso é trapaça.@ Você está tentando se destacar vindo até aqui, Nrvnqsr!"@
+br
+ld r,"tachi/nero_t03",crossfade,400
+`"Não seja ridícula.@ A Ciel-kun foi até loja de curry.@ Sou o substituto."@
+br
+`"Tudo bem.@ Então nos dê sugestões."@
+br
+cl r,crossfade,400
+ld r,"tachi/nero_t04",crossfade,400
+`"Lutar machuca ambas as partes.@ Não mate desnecessariamente."
+\
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"Não estou convencida.@ Mesmo que você não queira lutar contra a Ciel, tem certas pessoas por aí que tiram os óculos incondicionalmente.@
+` E agora, como faz?"@
+ld r,"tachi/nero_t02a",crossfade,400
+br
+`"Não furtarás, não estuprarás e nem enganarás os outros.@ Isso pode parecer familiar para alguns de vocês.@ Se sim, então faça uma jornada de volta no tempo, para hoje de manhã.@
+` É mesmo.@ Pensando bem, a princesa deve entender bem desses assuntos, não?"
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Nya, o-o quê?@ Não sei do que você está falando."@
+br
+ld r,"tachi/nero_t02c",crossfade,400
+`"…… Bem, não me importo muito com o que acontece com os outros.@
+` Vou ficar observando apenas para saber o desenrolar da história[line=5]"
+\
+bg #000000,crossfade,800
+playstop

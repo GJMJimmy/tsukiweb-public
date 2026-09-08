@@ -1,0 +1,531 @@
+phase "bg/bg_54a",l,aki,05a,5
+bg #ffffff,crossfade,400
+wave se_01
+!w1500
+wave se_01
+!w1250
+wave se_01
+!w1000
+wave se_01
+!w750
+bg #9c0120,notrans,0
+wait 100
+bg #ffffff,notrans,0
+wave se_01
+!w250
+bg #9c0120,notrans,0
+wait 100
+bg #ffffff,notrans,0
+wave se_01
+!w250
+bg #9c0120,notrans,0
+wait 100
+bg #ffffff,notrans,0
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40a",notrans,0
+play "*2"
+`"Nnn[line=6]"@
+` I wake with a sudden ache.
+\
+`"…… Morning?"@
+` The clock says it's just past six-forty.@
+` The weather outside the window is perfectly cloudless.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"Ow[line=4]"@
+` Pain runs through me once again.@
+` Not my head or chest, but apparently on the side of my neck.@
+`"…… That's odd…… I've never had pain there before."@
+` I put my hand on my neck but there's no blood.@
+` The wound from Yumizuka's bite is already closed.
+\
+`"…… Maybe I have a fever."@
+` Is it because of the alcohol last night?@ My body is heavy and I feel like I have a fever.@
+wave se_04
+ld c,"tachi/his_t01",lshutter,400
+`"Good morning, Shiki-sama."@
+`"Ah, morning Hisui.@ Did you sleep well last night?"@
+ld c,"tachi/his_t20",crossfade,400
+`"[line=4]Y, yes.@ Please forgive me for my unsightly behavior last night."@
+`"That's right, you went to sleep.@ It's okay.@ I fainted afterwards anyway which was probably worse."
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Thank you for your kind words.@ After you change, please head towards the dining room."@
+cl a,lshutter,400
+` She must still be very embarrassed about last night and leaves somewhat flustered.@
+`"Hisui… maybe…"@
+` Maybe it's possible for her to be easily embarrassed.@
+` I thought she was basically expressionless at first but when you look at her closely, she gets embarrassed and mad a lot.
+\
+`"…… Next time I should try to make her laugh really hard."@
+` I don't know how I would do that but there's no doubt Hisui's smile would be very cute.@
+`"[line=4]Hey, Hisui's smile would look just like Kohaku-san."@
+` …… A boring conclusion.@
+` I quickly change and head to the sitting room.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+ld c,"tachi/aki_t01a",crossfade,400
+`""Ah.""@
+` I run into Akiha in the lobby.@
+` I guess she's going to school as she's holding her bag.@
+` …… For some reason my entire body starts to heat up as soon as I see her face.
+\
+ld c,"tachi/aki_t09",crossfade,400
+`"Good morning Nii-san."@
+`"[line=4]Y, yeah.@ Good morning Akiha."@
+` Thump.@ My chest starts to hurt.@
+ld c,"tachi/aki_t08a",crossfade,400
+`"Wow.@ Is something special going on today?@ You're up a full twenty minutes earlier than usual, Nii-san."@
+`"No… I just had a bit of a bad dream, that's all.@ Just a whim, don't worry about it."@
+br
+` …… I don't understand what I'm saying.@
+` Is it because of my dream?@ Suddenly remembering her young face, I can't look at Akiha directly.
+\
+ld c,"tachi/aki_t13a",crossfade,400
+`"Nii-san?@ Your face is red… do you have a fever?"@
+`"No, it's not that[line=4]"@
+`"……?"@
+cl a,crossfade,400
+` For some reason I just can't return her gaze.@
+` She lifts an eyebrow suspiciously and comes near me.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Excuse me."@
+` She brings her hand to my forehead.@
+`"Ah[line=4]"@
+` Thump.@ My heart beats.@
+br
+` [line=4]Akiha's palm is not any different from back then.@
+br
+` Cold, soft fingertips.@
+` Thump.@ Thump.@
+` Her fingers touch me for only a matter of seconds, but my heart strangely begins to pound harder.
+\
+` If I were to glance down, her face would be right there.@
+` …… Her thin, strong eyebrows which show her strong will.@
+` …… Her clear black pupils with her matching long black hair.@
+` It really is a beauty unrelated to the name Tohno Akiha.@
+br
+` [line=3]Thump.@ My heartbeat.@
+br
+` I can just imagine how red my face has become.
+\
+`"Hey[line=4]Akiha."@
+` If she doesn't pull back, it'll be troubling.@
+ld c,"tachi/aki_t09",crossfade,400
+`"…… It seems you don't have a fever."@
+` She pulls her fingers away and backs off slightly.@
+ld c,"tachi/aki_t04a",crossfade,400
+`"Just in case, I'll have Kohaku prepare some cold medicine.@ Please wait in the sitting room, Nii-san."@
+cl a,lshutter,400
+` With that, Akiha goes up to the second floor.
+\
+bg #000000,lshutter,400
+bg "bg/bg_34a",lshutter,400
+` The hands of the clock reach seven.@
+ld c,"tachi/koha_t03",lshutter,400
+`"Sorry to keep you waiting.@ I have cold medicine and water, so please drink it after breakfast, okay?"@
+`"Ah……… Kohaku… san."@
+` My shoulders slump.@
+` I'm really glad Kohaku-san brought it, but I was expecting Akiha to bring it so I'm a little disappointed.
+\
+`"Thanks Kohaku-san.@ Where's Akiha?@ I think it's a bit early for her to go to school…"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"No, since there were some formalities to take care of, Akiha-sama left for school earlier.@ And, you know what, Shiki-san?"@
+` Kohaku-san looks into my face with a smile.@
+`"Wh… what?@ Did I do something again?"
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Yes.@ I was wondering what you did to Akiha-sama just now.@ It's been such a long time since I have seen Akiha-sama this happy.@ I'm curious, really curious."@
+`"…… Um, I didn't really do anything to make her happy.@ …… In fact, it's more like I'm the happy one[line=4]"@
+` …… But, Akiha did seem to be in a good mood, didn't she?@
+` She was smiling when we ran into each other, and for Akiha to take my temperature just isn't like her at all.@
+` It would've been fine just to leave that to Kohaku-san, so that was odd enough.
+\
+`"Shiki-san?@ Does anything ring a bell?"@
+`"No, sorry.@ She definitely did seem in a good mood, but I don't think it was because of me.@
+` In the first place, I don't understand Akiha right now at all.@ She is different than she was eight years ago."@
+ld c,"tachi/koha_t03",crossfade,400
+`"Oh really?@ Well, I personally think you are a bit dense at times but let us leave that there."
+\
+`"Well then, please eat breakfast Shiki-san.@ It is waiting for you in the dining room."@
+`"Uh, yeah.@ Thanks as always."@
+` I give her a quick bow of the head and go to the dining room.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Ah, Shiki-san.@ What you said earlier was mistaken."@
+`"…… Eh?@ Mistaken?@ What was?"@
+`"Akiha-sama has not changed one bit from the past.@ I think the one who is making Akiha hard to understand is you, Shiki-san."@
+cl a,lshutter,400
+` Leaving me with a phrase loaded with meaning, Kohaku-san disappears towards the lobby.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, what time will you be returning today?"@
+`"Hm, in the evening.@ …… I don't have anything special to do, so I'll be back by four."@
+`"I understand.@ …… I will no longer be able to wait for you here, but please call for me if you need anything when you return."@
+`"………?"@
+` Unable to wait by the gate… what does she mean?
+\
+ld c,"tachi/his_t16",crossfade,400
+`"Please have a safe journey, Shiki-sama."@
+`"Yeah, I'm off."@
+` Raising a hand to the bowing Hisui, I exit the front gate of the mansion.
+\
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_23a",lcartain,800
+` Since I woke up early, I can take my time going to school.@
+` I walk leisurely down the road to school which I normally jog down.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+` I walk slowly and arrive at the gate ten minutes before it closes.@
+` It's the time when all the students who don't participate in clubs arrive.@
+` In a high school prepping for general entry like mine, the only clubs practicing in the morning are the athletic clubs.@
+` It's only natural for the school gate to be this crowded.@
+br
+`"Ah, Senpai."@
+` I see Ciel-senpai walking a little bit ahead of me.
+\
+bg "bg/bg_03a",lshutter,400
+`"Senpai!"@
+` I call out to stop her.@
+ld c,"tachi/cel_t03",lshutter,800
+`"Ah, good morning Tohno-kun.@ It's rare to meet you by the entrance here."@
+`"Yeah.@ I saw you from behind so I ran up to meet you.@ Do you always come at this time?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Yes, I am bad at getting up early so I always just barely make it.@ Did you oversleep today?"
+\
+`"No, I actually woke up earlier.@ You know, I normally make it right as the gate is about to close."@
+`"Wow, you mean you're a late riser, Tohno-kun…… huh?"@
+ld c,"tachi/cel_t07a",crossfade,400
+` I might have something on my face as Senpai stares right at me.
+\
+`"Um[line=4]Senpai?"@
+`"Tohno-kun, did something happen over the weekend?"@
+`"No, not really.@ Why do you ask, Senpai?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Oh, it's nothing.@ I was just playing around.@ Please forget about it."@
+`"?"@
+` I'm a little bewildered.@
+cl a,crossfade,400
+br
+` [line=4]And then,
+br
+` at that moment, I see a familiar face running vigorously from the entrance.
+\
+`"That's Inui-kun."@
+` Senpai says this calmly.@
+`"Yeah, it's Inui."@
+` I try answering her calmly.@
+` Senpai and I don't even think the actions of the rampaging Arihiko as he dashes towards us are odd at all.@
+br
+` In other words, we're used to it.
+\
+`"Tohno~~~~~~!"@
+` A cloud of dust kicks up behind him.@
+`  He does not stop.@
+` Even though we are right in front of him, Arihiko launches a drop kick in my direction without even pausing.
+\
+wave se_05
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_03a",notrans,0
+quakex 3,100
+` Crash, roll, roll, roll, thud.@
+br
+`"……………"@
+` I can't… believe it.@
+` This guy, this person throws a kick full-force into me and we suddenly crash into the ground and roll three times.@
+`"……………"@
+` I get up and shake off all the dust from my clothes.@
+ld c,"tachi/ari_t04",bshutter,400
+` Arihiko also stands up and pats his uniform.
+\
+`"Arihiko."@
+`"Tohno."@
+` After a three second interval, we face off directly.@
+br
+` Ready.@
+!w1000
+br
+`"What the hell are you doing!?"@
+`"You have a sister!?"@
+br
+` Both of us shout simultaneously.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=8]W, what?
+\
+`"…… Wait a second.@ How do you know I have a sister?"@
+ld c,"tachi/ari_t03",crossfade,400
+`"Uwaaa, you do have one after all!"@
+`  Arihiko holds his head in his hands, and twists his body.@
+` …… It's so ridiculous looking, I would deny knowing him even if he owed me a million yen.
+\
+`"Hey, cut it out Arihiko, please.@ We'll end up being the laughingstock of the school."@
+ld c,"tachi/ari_t04",crossfade,400
+`"Screw that, I don't care!"@
+` Arihiko looks up with a glare.@
+ld c,"tachi/ari_t05",crossfade,400
+`"You traitor!@ I'll call you Onii-san someday!"@
+cl a,lshutter,400
+` Leaving such an incomprehensible parting shot, Arihiko runs off.@
+` Not towards the school building, but to the front gate.
+\
+`"…… What's he doing?"@
+` There isn't even five minutes until homeroom starts.@
+` Nothing about him is understandable.@ Anyways, it seems like I won't run across him for the rest of the day.@
+br
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06a",tshutter,800
+` During the break after second period, Arihiko suddenly returns.@
+`"Hum.@ After thinking about it for a while, I had no reason to go home."@
+` Saying so, he calmly takes his seat.@
+` Leaving him alone, I stare blankly in my seat and wait for third period to start.
+\
+` But[line=4]the classroom seems odd today.@
+br
+` Every break, all the guys leave the room, and come back with happy looks on their faces.@
+`"?"@
+` …… I'm a bit curious.
+\
+ld c,"tachi/cel_t01a",lshutter,800
+`"Hello Tohno-kun.@ Do you mind?"@
+`"Huh?@ It's break time, Senpai, is it okay to come to my classroom like this?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Yes, being here is much more fun than being in my classroom."@
+` She smiles happily as she says this.@
+` Arihiko sits at his desk unaware of Senpai's arrival.@
+` It is quite the ideal situation.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"But the second year classrooms are pretty noisy too.@ The third year boys have also been making a fuss and I imagine the fourth floor is overcrowded by now."@
+`"…… Huh?@ The third year boys making a fuss?@ About what?"@
+ld c,"tachi/cel_t05",crossfade,400
+`"Oh, you're not making a big deal out of it.@ Well, there is no reason for you to go look, Tohno-kun."@
+`"……?"@
+br
+` …… I don't quite understand, but it seems there is no reason for me to go look.
+\
+`"What do you mean?@ Go see what?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"The new first year transfer student.@ All the boys in every class are taking turns to go see her.@
+` Apparently the hallway outside her classroom is very crowded.@ She's awfully popular."@
+` Transfer student……?@
+` Hmm… in other words, that's where all the guys in my classroom went too.
+\
+`"[line=4]Oh?@ So that means she's really cute, this new transfer student?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"I don't know, but that's what I've heard.@ They say a girl in the first year transferred from a famous ladies academy."@
+`"…… I see.@ For someone to transfer at this time of the year, there must be some strange circumstances."@
+`"You thought so too, huh?@ But it seems like a waste.@ Why is she transferring from the distinguished Asagami Women's Academy to go here?"@
+`"Hm?@ What a coincidence.@ My sister is also a first year student at[line=4]"
+\
+` [line=5]Wait a minute.@
+br
+` There's something not quite right about this whole conversation.@
+` Senpai sounds like I know this transfer student already.
+\
+bg "bg/bg_40c",lshutter,400
+ld c,"tachi/aki_t04b",crossfade,400
+br
+br
+br
+br
+br
+br
+` Please don't mind.@
+` Starting tomorrow your daily life will become more like this.
+\
+bg "bg/bg_33a",lshutter,400
+ld c,"tachi/koha_t03",crossfade,400
+br
+br
+br
+br
+br
+br
+` Since there were some formalities to take care of, Akiha-sama left for school earlier.
+\
+bg "bg/bg_06a",rshutter,400
+`"[line=6]No way."@
+` I'm shocked.@
+` I'm shocked, but that's the only conclusion I can draw.@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Tohno-kun?"@
+` I can't hear Senpai's voice anymore.@
+` I look over at Arihiko's desk and he has an especially evil grin on his face.
+\
+cl a,crossfade,400
+` I walk purposefully over to his desk.@
+`"Arihiko."@
+ld c,"tachi/ari_t05",lshutter,400
+`"Oh?@ What could it possibly be, Onii-sama?"@
+`"…… I'll punch you for saying that."@
+ld c,"tachi/ari_t01",crossfade,400
+`"H, hey, can't you take a joke?@ What is it, is there a reason you would talk to a commoner like me?@ Hyahahaha!"@
+` Arihiko laughs.@
+`"Reason?@ Well, I do have a reason this time."
+\
+`"Arihiko, can you tell me the name of this new transfer student?"@
+ld c,"tachi/ari_t02",crossfade,400
+`"Man, you should know without me saying anything, right?@
+` Yes, her name is Tohno Akiha.@ Your younger sister.@
+ld c,"tachi/ari_t01",crossfade,400
+` Geez, you even kept it a secret from me.@ I would've found out quickly since she's that hot.@ I really doubted our friendship this time."@
+`"…… No, there's never been that sort of illusion between us, but I see."@
+` Totally drained, I answer and return to my seat.
+\
+cl a,lshutter,800
+ld c,"tachi/cel_t07a",lshutter,800
+`"Tohno-kun?"@
+` Senpai is speaking but I just don't feel like responding.@
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Hmm.@ You seem to be having trouble, so I will go back."@
+cl a,lshutter,400
+` Senpai walks out of the room lightly.
+\
+` Akiha has transferred to my school.@
+`"[line=4]What is she thinking?"@
+` Muttering aloud in astonishment, I fall into my chair.
+\
+bg #000000,bshutter,800
+playstop
+bg "bg/bg_06a",tshutter,800
+` Third period starts and English class begins.@
+` The sound of fluent English goes in one ear and out the other.@
+` My head is only full of thoughts about Akiha right now.@ This English is just noise to me.
+\
+`"[line=6]"@
+` As always, Akiha is Akiha.@
+` If she's going to transfer to my school, couldn't she at least tell me?@
+` No, more importantly, she transferred to my school when there's no advantage for her to do so[line=3]
+br
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_06a",crossfade,400
+waveloop se_02
+`"Ah[line=4]"@
+` Pain again.@
+` Sharp pain in my neck.
+\
+monocro #ff0000
+bg "bg/bg_06a",rshutter,800
+` I fall onto my desk.@
+` This is bad.@ I can hardly move.@
+` Is it anemia again?@
+` Then it's just as always.@ It's normal.@ It'll pass.@ I'm in class.@ I have to recover.@ Look, the English teacher is reading aloud.@ The blackboard.@ Chalk.@ Chalk dust.@ English.@ The sound of chalk scraping.@ Teacher.@ Teacher.@ Adult.@ Podium.@ The creaking podium.@ Desk.@ Thirty-six desks.@ Student.@ Students.@ Thirty-six students.@ Three days ago there were thirty-seven.@ Window.@ Sky.@ Schoolyard.@ Sun.@ Unpopular.@ Lonely.@ Cold.@ Frightened.@ Uneasy.@ Something.@ Desire.@ Desire.@ Desire[line=4]
+\
+bg #ffffff,crossfade,800
+monocro off
+bg "bg/bg_06a",rshutter,800
+wavestop
+`"Tohno-kun!@ Hey, are you alright Tohno-kun!?"@
+` My eyes open wide at the sound of the teacher's voice.@
+` …… Sweat rolls down my forehead.@
+` My body is cold.@ My breathing is ragged.
+\
+`"What is it Tohno-kun?@ If you are not feeling well, you can rest."@
+`"Ah, no, I'm fine.@ It has passed."@
+`"…… I see.@ Well, don't push yourself.@ Your grades are good so it is acceptable to take an occasional rest.@ Your progress will be satisfactory even with some handicaps."@
+` …… The English teacher's words lack a little consideration for the other students.@
+` I once again declare I am fine and resume class.
+\
+bg #000000,tcartain,800
+!w1000
+wave se_03
+bg "bg/bg_06a",bcartain,800
+play "*3"
+` At lunch, the classroom gets frantic.@
+` *sigh*@
+` I take a deep breath.@
+` I've been hot since this morning.@ Maybe I have caught a cold.@ My whole body feels languid.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"What, Tohno?@ Are you still sticking around here?"@
+`"…… Yeah.@ I don't feel too well today.@ I can't go to the cafeteria, so can you please get me something?@ I'll have the usual."@
+`"No, I don't mind, but is that alright?@ Your dear sister seems to be having trouble in the cafeteria."
+\
+`"[line=4]Ah."@
+` That's right.@ She's always been at a ladies academy so she wouldn't know anything about how a normal "school cafeteria" system works.@
+` I can distinctly imagine Akiha standing in the cafeteria not knowing what to do.@
+br
+` [line=4]Damn, I can't leave her like that.@
+br
+`"Ah, Tohno!@ Wait up!@ I'm coming too!"@
+` I dash out of the classroom.@
+` …… Close behind me, Arihiko follows a bit more energetic than usual.
+\
+bg #000000,lshutter,800
+bg "bg/bg_50",lshutter,800
+` Akiha stands aghast in the center of the crowded cafeteria.@
+` She looks as if she does not know what to do.@
+`"[line=4]Geez.@ What is she doing?"@
+` I hurry over to Akiha.
+\
+`"Akiha."@
+ld c,"tachi/aki_t19",crossfade,400
+`"Nii… san."@
+` In that instant,
+` I see her face on the verge of tears and my chest starts to hurt.@
+`"[line=4]C'mon, over here.@ You don't like the crowds, right?"@
+`"Ah[line=4]yes."@
+cl a,crossfade,400
+` Not wanting to see her almost crying face a second longer, I strongly pull Akiha out of the cafeteria.
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",rcartain,800
+`"Here, you should be able to relax here.@ I'll go buy us some lunch so just sit at this bench."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Yes.@ I apologize for the trouble, Nii-san."@
+`"[line=4]It's alright.@ I'll hear about it later.@ Arihiko, I'm going to get lunch so take care of Akiha, okay?"@
+cl a,crossfade,400
+ld c,"tachi/ari_t03",crossfade,400
+`"W, why are you asking me all of a sudden!?@ Look, I'll go buy lunch and you keep your sister company, Tohno."
+\
+`"……?@ What's the matter, Arihiko?@ Aren't you going to call me Onii-san?@ I'll tell you right now, but I won't give you a chance like this in the future."@
+` I whisper to Arihiko.@
+` He whispers back, maintaining our secrecy.@
+`"R, right, but I can't be with her alone all of a sudden.@ If it was any other woman I'd agree, but your sister is just too high class."
+\
+`"…… Hm?@ This isn't like you at all.@ Are you scared of Akiha?"@
+ld c,"tachi/ari_t05",crossfade,400
+`"Yeah.@ To be honest, I am.@ Since she is the type I've never went against, I'd like to concentrate on getting information in the first round."@
+br
+` …… Why is he always this funny at strange times.
+\
+`"Alright.@ Then can you go get lunch for the three of us?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Leave it to me.@ …… Um, what does your sister want?@ I'm too scared to buy her ordinary cafeteria bread."@
+`"…… As if I would know.@ She transferred here, so curry bread and coffee milk will be good enough."@
+`"[line=4]Roger.@ I'll be back in five minutes."@
+cl a,lshutter,400
+` Arihiko returns to the building in a dash.
+\
+ld c,"tachi/aki_t13a",crossfade,400
+`"You seem to be very good friends with him, Nii-san."@
+` …… Huh?@
+` Where did all her vulnerability go?@ She's suddenly back to normal.
+\
+`"Yeah, we get along specially well.@ …… M, more importantly, Akiha!"@
+`"Please don't yell like that.@ People around us are surprised."@
+`"Wha[line=4]"@
+ld c,"tachi/aki_t21",crossfade,400
+`"More importantly, can you answer me?@ That person, what is he to you, Nii-san?"@
+` …… What is he?@ He's just an unwanted but inseparable guy who's been with me since middle school[line=4]no, that's not what we're talking about.@
+br
+cl a,crossfade,400

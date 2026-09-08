@@ -1,0 +1,81 @@
+playstop
+wavestop
+monocro #ff0000
+bg "bg/bg_54d",notrans,0
+`"[line=9]"@
+` I let out a deep breath.@
+br
+wavestop
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_54d",crossfade,400
+` Calming down,
+` I manage to restore control over my breathing.@
+` My view painted in red now returns to normal.@
+` One more calming breath.@
+` I won't believe what SHIKI says.@
+` I would never kill Akiha, and there's no way I would kill someone simply because they weren't human.
+\
+bg #000000,crossfade,400
+monocro #ff0000
+bg "event/aki_e03",crossfade,400
+monocro off
+bg "bg/bg_54d",crossfade,400
+`"……………"@
+` It's different.@
+` It's different from back then.@
+` I'm different from SHIKI.@
+` I can control my actions through my own willpower.@
+` It's just, the smell of blood is so strong.@
+` It makes me remember the past, and that scares me.
+\
+`"Shi[line=6]t"@
+` My right hand is still holding the knife.@
+` With my bare left hand, I wipe the blood off my chest.@
+br
+` [line=3]With that, the smell of the blood goes away a bit.@
+br
+`"[line=5]SHIKI"@
+` In the darkness, the trail of blood seems to light the way.@
+` I take another deep breath, then go after SHIKI.
+\
+bg #000000,lshutter,800
+bg "bg/bg_53b",lshutter,800
+play "*6"
+` This is the last stop.
+\
+`"[line=8]"@
+` …… Is this just a coincidence or is it on purpose?@
+` Eight years ago.@
+` We fight to death once more at the place where SHIKI almost killed me.
+\
+`"…… Hmph, you did come after me."@
+` SHIKI is sitting down at the very edge of the clearing.@
+` Even that is the same as back then.@
+`"……………"@
+` I hold onto my knife and walk towards him.@
+` I feel something slimy under my feet.@
+` SHIKI's blood has not stopped; all the flowing blood is from him.@
+` Splash, splash.@
+` His blood makes noise as I step towards him.@
+` …… It's amazing he's alive after losing this much blood.@
+` It's like a giant puddle on the ground.
+\
+wave se_01
+`"Ku……………"@
+` But, I'm also at my limit.@
+` I'll be at a disadvantage if I wait any longer.@
+` This is the only chance to kill him, with him wounded.@
+`"[line=8]!!"@
+` I step forward.@
+`"[line=5]Wait!@ There's something I haven't told you yet.@ Can you wait there a bit, Shiki?"@
+`"[line=11]"
+\
+`"Don't look at me like that.@ This should benefit you too.@ Because it's about Akiha.@ There might be a way to turn her back."@
+`"Wha[line=7]"
+\
+` At that moment,
+` my still functioning reason stops my feet.@
+` But, my body is telling me to go on and kill him right now.@
+` I[line=6]
+\

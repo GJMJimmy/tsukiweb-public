@@ -1,0 +1,40 @@
+play "*1"
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_24a",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_25a",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_27a",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_29a",lcartain,800
+bg #000000,lcartain,1500
+bg "bg/bg_23b",lcartain,1500
+` O sol está se pondo.@
+` Mesmo depois de correr por toda a cidade, não vi sinal da Yumizuka Satsuki em lugar algum.@
+br
+`"………… Gah."@
+` Mordo meu lábio com raiva.@
+` …… Mas a raiva não é porque não consegui encontrá-la.
+\
+` É por causa de dois dias atrás.@
+` Estou com raiva de mim mesmo por ter feito aquela promessa.@
+br
+` [line=2]Então se algum dia eu estiver em apuros, você vai aparecer para me ajudar, né?@
+br
+` Ela me perguntou isso sorrindo, e eu respondi como se não fosse nada demais.@
+` Sim.@ Se estiver dentro do meu alcance, eu vou te ajudar.@
+` …… Que resposta mais irresponsável.@
+` Não tem absolutamente nada que eu possa fazer agora.@
+` Ela disse que estava sentindo dor.@
+` Eu nem consigo encontrá-la enquanto sofre sozinha na escuridão fria.
+\
+`"[line=3]"@
+` O sol está indo embora.@
+` …… Não quero admitir, mas talvez eu só consiga encontrar a Yumizuka depois que anoitecer.@
+`"…… Eu falei pra Hisui que ia voltar quando começasse a anoitecer."@
+` Talvez seja muito cedo para encontrá-la.@
+` Vou voltar para a mansão e pensar com calma no que fazer.
+\
+bg #000000,lcartain,800
+!w500

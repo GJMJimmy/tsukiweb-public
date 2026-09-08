@@ -1,0 +1,53 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w2000
+bg "bg/bg_06b",tshutter,800
+play "*1"
+` School ends.@
+` Let's go meet Akiha at the first year classrooms.@
+br
+bg "bg/bg_10b",lcartain,400
+` …… But just as I leave the classroom, I run into her.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Ah, Nii-san.@ Are you going somewhere?"@
+`"No, I was just on my way to get you.@ What about you?@ Are you on your way anywhere?"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"No.@ I just thought I might go home with you, Nii-san, so I came here…"@
+`"I see.@ It's lucky we didn't miss each other.@ Well then, let's go.@ Kohaku-san and Hisui are waiting."@
+ld c,"tachi/aki_t09",crossfade,400
+`"You're right.@ Let's go home, Nii-san."
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+`"Oh, that's right, there's a question I've been wanting to ask you, Akiha."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"A question for me…?"@
+`"Yeah.@ Why did you have that dislike for Senpai?@ Did you know her already, by any chance?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"No, I met her for the first time yesterday.@ My dislike for her is simply psychological, so you don't need to worry about it."@
+`"Psychological?@ What do you mean?"@
+ld c,"tachi/aki_t21",crossfade,400
+`"I mean, I can't control how I feel.@ It's the same as how you felt about father, so please don't worry about it."
+\
+`"[line=3]Hold on, Akiha.@ I just disliked the old man, I didn't hate him."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"I don't hate her, either.@ …… I suppose I exaggerated things today.@ I'll reflect on it, so please look leniently upon the affair at lunchtime."@
+`"…… Right.@ I guess that's okay, then."
+\
+cl a,crossfade,400
+` …… Well, I guess it might not be a problem.@
+` Ciel-senpai often comes by at lunch, so if relations between Akiha and her are bad, it'd be a problem.@
+` At this rate, with Akiha saying things like this, me and Arihiko might not end up on pins and needles on the sidelines[line=4]
+\
+bg #000000,lcartain,800
+!w1000
+playstop
+bg "bg/bg_40b",rcartain,800
+`"[line=4]Ahh."@
+` I toss my bag on the desk, and sit down on the bed.@
+` Well, what should I do?@
+` It seems Akiha has lessons, and as soon as we got back, she went somewhere by car.@
+` …… That's right, Hisui and Kohaku-san were busily walking about too.
+\

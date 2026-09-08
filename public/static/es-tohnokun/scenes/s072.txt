@@ -1,0 +1,23 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Oh, es cierto.@ ¿Qué está sucediendo con nuestra mansión ahora, Akiha?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"¿Qué quieres decir?@ Si estás hablando sobre la posesión de la mansión, yo voy a heredarla."@
+`"No, eso no.@ Las únicas personas en la mansión en este momento somos tú, yo, Kohaku-san, y Hisui, ¿cierto?@
+` Me preguntaba para qué se están usando las habitaciones y todo eso."
+\
+ld c,"tachi/aki_t04a",crossfade,400
+`"Nada.@ Como regla general, todas las habitaciones excepto las que estamos usando están cerradas.@
+` Tu habitación está en la parte trasera del segundo piso del ala oeste, y la mía está en el ala este.@
+` La habitación de Hisui está justo antes de las escaleras en el ala oeste, segundo piso, y la de Kohaku esta justo antes del ala oeste, primer piso.@
+` La habitación de Papá está al lado de la de Kohaku.@ Ésa también está abierta por ahora."@
+` Casualmente, la sala de estar es la primera a mano derecha del vestíbulo.@ En palabras de Akiha, sería algo como "justo antes del vestíbulo en el primer piso del ala este".
+\
+`"La sala de juegos y las habitaciones para invitados junto a la sala de estar están cerradas, pero las abriré si decides traer amigos.@
+` Los archivos están… bueno, están circulando malos rumores sobre ellos, así que actualmente son de acceso prohibido."@
+cl c,crossfade,400
+`"Ya veo.@ De acuerdo, entiendo."@
+` Tengo una extraña sensación de sospecha respecto a esos "archivos de acceso prohibido", pero por ahora, no tienen absolutamente nada que ver conmigo.
+\

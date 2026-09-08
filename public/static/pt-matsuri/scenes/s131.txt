@@ -1,0 +1,36 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` Será que ela está procurando alguém no corredor?@ A Senpai anda de um lado para o outro.@
+` …… Olhando com calma, parece que o motivo de ela estar aqui não tem nada a ver com a minha sala.
+\
+`"…… Como sempre, não a entendo direito.@ O que ela está fazendo?"@
+` Sento na minha cadeira e fico observando.@
+` Ela cruza os braços como se estivesse pensando sobre alguma coisa importante e observa os alunos que passam.
+\
+`"Talvez ela tenha deixado cair alguma coisa."@
+` …… Parece estranho uma aluna do terceiro ano deixar cair alguma coisa no corredor do segundo ano, mas é da Senpai que sempre está perambulando por aí de quem estamos falando.@
+br
+` [line=4]Hã?@
+` De repente, ela entra na minha sala.@
+` E vem na minha direção.
+\
+ld c,"tachi/cel_t10a",lshutter,400
+`"Tohno-kun!"@
+`"!"@
+` E grita comigo.@
+`"O qu-o que foi, Senpai?@ Não fiz nada de ruim para te deixar brava."@
+`"Sem desculpas.@ Apenas venha comigo."
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` Ela me puxa pelo braço e me arrasta para o corredor.@
+`"E-ei, Senpai, o que está fazendo?@ Você não estava procurando alguma coisa!?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Está tudo bem, apenas fique quieto!"@
+cl c,lshutter,800
+`"……"@
+` Sob a intensidade da Senpai, rapidamente fico quieto.@ E igual a ontem, ela começa a me cheirar.@
+`"…… Hum, Senpai……?"
+\

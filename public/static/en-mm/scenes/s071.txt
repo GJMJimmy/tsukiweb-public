@@ -1,0 +1,18 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Akiha.@ About Kohaku-san…"@
+ld c,"tachi/aki_t01a",notrans,0
+`"Yes?@ What about Kohaku?"
+\
+`"She's a really nice person, isn't she?@ I was just scolded by her in the hallway.@ 'You won't grow without eating breakfast!' she said."
+\
+ld c,"tachi/aki_t04a",crossfade,800
+`"Hmmmn.@ That sounds like something she would say.@ Do you like Kohaku, Nii-san?"
+\
+`"Eh[line=3]No, that's not what I mean.@ I was just surprised because I was never scolded like that when I was at the Arima household.@ Thanks to her, it doesn't seem like I'll be able to skip breakfast from now on."@
+`"That's right.@ You are anemic after all, so it would not do you good to skip breakfast."@
+` The dizziness isn't really linked to my diet, but I just nod obediently.@
+cl c,notrans,0
+\

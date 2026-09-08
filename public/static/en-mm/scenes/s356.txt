@@ -1,0 +1,88 @@
+play "*2"
+wavestop
+bg #000000,tshutter,800
+bg "bg/bg_11a",bshutter,800
+` I go up to the fourth floor.@
+` Akiha's class is first year, class one.@ I speak to a student leaving the classroom, and ask her to call Akiha.@
+`"Tohno-saaan, your brother's here!"@
+` …… The girl I stopped calls out to Akiha quite directly.
+\
+ld c,"tachi/aki_t21",lshutter,400
+`"Do you need something, Nii-san?"@
+` Akiha comes out with a sullen expression.@
+`"[line=7]"@
+` Well, this is troubling.@
+` Kohaku-san told me to apologize, but after hearing her story, it's a little troubling.
+\
+`"If you don't need anything, I'll go back to my classroom."@
+`"[line=3]No, there's something.@ It's… well, I mean…"@
+ld c,"tachi/aki_t03a",crossfade,400
+`"What is it, already?@ The break time is short, so if you want to say something then please hurry and say it."@
+`"…… Well, it's just…"@
+br
+` [line=3]Alright already!@ I've come this far, so I can't be shy about it!
+\
+`"I'm… I'm sorry about this morning…!"@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Eh?@ [line=3]Ni, nii-san…?"@
+`"I came to say that this morning was my fault, and that from tomorrow on I'll be good, so please forgive me, Akiha…!"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"It's… there's not much to forgive, it didn't really bother me…"@
+`"That's fine, I just wanted to apologize.@ I'll see you later, sorry for taking your time!"
+\
+bg #000000,lshutter,400
+`"[line=3]Ah, wait, Nii-san!"@
+br
+` Akiha calls after me.@
+` But right now I'm too embarrassed to even look back, so I run straight back to my own classroom.
+\
+!w1000
+play "*3"
+bg "bg/bg_06a",tcartain,800
+` …… It's lunchtime.@
+` Since I just went and apologized to Akiha, it feels kind of awkward to have lunch with her.@
+` However.@
+ld c,"tachi/ari_t01",lshutter,400
+`"Yo, Tohno.@ Let's hurry up and go to the courtyard.@ Akiha-chan is waiting."@
+` …… Says one guy.@ Besides, I can't leave her by herself.@
+` …………… *sigh*@
+` I let out a big sigh and leave the classroom with Arihiko.
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+` Akiha isn't here yet.@
+` Since Ciel-senpai will be coming too, I guess we'll eat on the grass instead of on the bench.
+\
+bg #000000,tshutter,400
+bg "bg/bg_04",bshutter,400
+ld l,"tachi/cel_t03",lshutter,800
+`"I'm here.@ Hey, Akiha-san isn't here yet?"@
+ld r,"tachi/ari_t01",crossfade,400
+`"Yeah, she should be here any minute now[line=4]hey, Tohno, did something happen between you and Akiha-chan?"@
+cl a,crossfade,400
+` Arihiko asks, elbowing me in the side.@
+` …… Why is he so perceptive all of a sudden?@
+`"Ah, there she is.@ Akiha-chan, over here!"@
+` Arihiko waves his hands around.@
+` Akiha comes onto the grass looking a bit puzzled.
+\
+ld l,"tachi/aki_t12a",lshutter,800
+`"I'm sorry I'm late.@ I received an invitation to have lunch with my classmates, and it took some time to decline their invitations."@
+ld r,"tachi/ari_t01",crossfade,400
+`"Don't worry, we just got here too.@ Here, sit here."@
+cl a,crossfade,400
+` Arihiko pats the grass.@
+` After hesitating for a moment, Akiha sits down next to me.
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"……………"@
+` Akiha says nothing.@
+`"[line=7]"@
+` Not knowing what to say, I remain silent.@
+cl a,crossfade,400
+ld c,"tachi/cel_t03",crossfade,400
+`"What is it, you two?@ It's weird to eat lunch like this in silence."@
+`"Uh[line=5]"@
+` I know that, I just don't know what to say.
+\
+cl a,crossfade,400

@@ -1,0 +1,44 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@ Time for the fourth period lesson.@
+` …… Oh, too bad.@
+` Showing your back like that in a fight, you're still no good, Tohno-kun.@
+` There's too much difference in experience between an expert fighter like Ciel-san and Tohno-kun.@
+` You should have acted in a way Ciel-san would not expect.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Hmph, attacking someone from behind like that, it really shows your character, Ciel.@ Are you showing your true self nyaa?"@
+br
+` …………@
+bg "bg/ima_14",lshutter,400
+wave se_12
+br
+`"Unyaa!@ You stabbed me, you just stabbed me when the camera couldn't see us, nyaaa!"@
+br
+` ……………………@
+bg "bg/ima_13",notrans,0
+br
+`"Unyaaaaaaaaaaaaaaaaa!"
+\
+bg "bg/bg_06a",lshutter,800
+ld r,"tachi/cel_t20",lshutter,400
+` Extermination of the noisy cat has been completed.@
+` Goodness, a vampire like you who takes away someone's lover has no right to say anything.@
+` Now then everyone, please enjoy the rest of the main story!
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lscroll,800
+`"Nyaa, what is this?@ I haven't done that yet."@
+br
+` "Yet" means you're going to do so in the future?@
+br
+`"Ehehe.@ I'll leave the answer to that for later."
+\
+cl c,lscroll,800
+playstop

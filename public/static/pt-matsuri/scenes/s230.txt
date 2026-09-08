@@ -1,0 +1,53 @@
+monocro off
+wavestop
+play "*3"
+bg "bg/bg_11b",crossfade,1500
+` Ao lado da Senpai, eu atravesso o corredor banhado pelo pôr do sol.@
+` Enquanto conversamos sobre banalidades, andamos o mais devagar possível.@
+br
+` Que atmosfera maravilhosa.@
+` [line=3]Pensando bem, eu passei uma noite na casa da Senpai.@
+` Naquela noite, minha mente estava preenchida apenas com o fato de que havia matado alguém, e depois, acabei me esquecendo disso quando estava com a Arcueid.
+\
+` …… Se não fosse por aquela noite, acho que eu não estaria aqui como estou hoje.@
+` Ela não comenta sobre o assunto, mas o que será que pensou sobre aquela noite?@
+` …… Será que ficou parecendo que estava apenas ajudando um calouro deprimido?@
+` Como se tivesse apanhado na rua um cachorrinho abandonado na chuva?
+\
+`"…… Senpai, hum[line=2]"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Sim?"@
+` Ela olha para mim.@
+` …… Justo quando eu ia perguntar sobre aquela noite,
+br
+` Guruuuuuu.@
+br
+` Meu estômago interrompe, roncando na maior altura.@
+` Não, não foi um 'ronco'… está mais para um rugido.
+\
+`"……………… Hummm."@
+ld c,"tachi/cel_t12",crossfade,400
+`"………………"@
+` O silêncio me deixa desconfortável.@
+`"…… Tohno-kun, parece que você está com fome."@
+`"[line=3]Acho que sim.@ Nossa, fico com fome mesmo quando não tenho apetite?"@
+` Deixo escapar um suspiro.@
+` Olhando para mim, ela sorri.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Claro.@ Você é um humano, só isso significa que você precisa comer para sobreviver."@
+`"Sem dúvida.@ …… A verdade é que estou morrendo de fome."@
+` …… Não tinha percebido, mas pular o café da manhã e o almoço me esgotou.@
+` Não vou aguentar até a hora do jantar, vou comprar pão no caminho de volta[line=5]
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, toma aqui."@
+` Ela me mostra uma trouxa de pano que está segurando.@
+` Parece ser o seu bentô.@
+ld c,"tachi/cel_t02",crossfade,400
+`"Já comi a metade, tudo bem se for assim?"@
+` Corando um pouco, ela diz isso meio envergonhada.@
+` …… É mesmo, a Senpai comeu apenas a metade do almoço hoje.@
+` Terminar de comer o almoço de outra pessoa é meio constrangedor.@
+` Eu[line=4]
+\

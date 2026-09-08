@@ -1,0 +1,42 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_03a",notrans,0
+` [line=3]Me armo de valor y le pregunto sobre anoche.@
+br
+`"…… Uh[line=2]Senpai.@ Anoche, ¿estuviste en el parque?@ Creí haberte visto vistiendo algo como un abrigo negro, con tu falda ondeando en el viento."@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… ¿Qué es eso?"@
+`"¡Um……!@ Bueno[line=2]sí, las botas de trenzado alto te quedaban bien.@ Estaba un poco fascinado, te veías… realmente genial."
+\
+ld c,"tachi/cel_t08",crossfade,400
+` ……"¿Huh?" Senpai ladea su cabeza.@
+` Frunce el ceño como si no entendiese mis palabras por completo, y entonces lo niega todo.
+\
+`"Um, no entiendo mucho pero, ¿estás diciendo que yo estaba anoche en el parque, vestida de esa manera?"@
+`"Sí.@ Senpai, ¿eras tú, cierto?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"De ninguna manera.@ Tohno-kun, ¿estás diciendo que parezco como si tuviese tanto tiempo libre?"@
+` [line=3]Senpai está muy enfadada.@
+` No puede estar fingiendo ignorancia o mintiendo.
+\
+`"Ah[line=4]No, no es eso pero, yo sólo…… vi a alguien que se parecía a ti anoche en el parque, así que[line=3]"@
+` Senpai suspira.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, ésa no era yo.@ No tengo esa clase de pasatiempo."@
+`"Ah[line=3]Sí, lo sé.@ Sólo quería preguntar."
+\
+` Ciertamente, después de escucharla decir eso, tiene razón.@
+` Ciel-senpai y la persona de anoche no están relacionadas, en absoluto.@
+` En primer lugar, Senpai es sólo una persona normal, y si en verdad hubiese estado ahí[line=3]tendría que haberme visto matar a ese vampiro con mi cuchillo.@
+` De haber visto una escena tan horrible, no habría manera de que pudiese hablar conmigo normalmente.
+\
+`"…… Lo siento, por favor olvídalo.@ Supongo que era otra persona."@
+ld c,"tachi/cel_t09",crossfade,400
+`"Está bien, pero…… ¿esa persona en verdad se parecía a mí?@ ¿Esa persona extraña?"@
+`"Bueno, no estoy muy seguro.@ Estaba oscura, y muy alejada………… ¿huh?"@
+` Sí, estaba lejos y no pude distinguir su rostro.@
+` ¿Entonces por qué pensé que se parecía Senpai……?@
+`"…… Hmm… Tal vez hay algo mal en mí."@
+` Cruzo mis brazos y pienso.
+\

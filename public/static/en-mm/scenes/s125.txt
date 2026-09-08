@@ -1,0 +1,200 @@
+if (%flgE>=1) skip 3
+phase "bg/bg_06g",l,ark,06a,6
+skip 2
+phase "bg/bg_27b",l,cel,06a,6
+bg #ffffff,crossfade,1500
+bg "bg/bg_40a",lcartain,400
+play "*2"
+`"Wait~~~~~~!"@
+` Whoosh!@ I get up forcefully from bed.@
+br
+` *pant*[line=4]*pant*[line=4]*pant*@
+br
+` My breathing is out of control and my mind is still numbed with the feel of Arcueid.@
+` …… No, hold on Shiki.@ Try to be calm, it can't hurt.
+\
+` [line=4]First, this is my room.@
+` Check.@ That's good.@
+br
+` [line=4]Second, I'm on my bed.@
+` Check.@ Seems that way.@
+br
+` [line=4]And, it's now morning, and I was having sex with Arcueid until now.@
+` Check.@ That's good[line=4]that's not good!@ Never, not even slightly, not one bit………!
+\
+` The sound of my panting fills the air.@
+` I manage to catch my breath.@
+` My hands gripping the sheets are drenched in sweat.@ There is a lingering warmth as if I really was sleeping with Arcueid until just now.@
+br
+` …… But it definitely was a dream.@
+` I can't tell if that's something I should be happy or disappointed about.
+\
+`"[line=4]Why[line=4]"@
+` did I see such a dream?@
+` Does that mean I'm so interested in her that I see her in my dreams?@
+` Does that mean[line=2]I want her so bad I do those things with her in my dream?
+\
+`"[line=6]Uu"@
+` As I remember, the sensation of her skin forces itself into my brain.@
+` I feel my arms to make sure this is real.@
+` …… Yeah, it's real.@
+` Her skin was so fundamentally different from a guy's skin… so soft, so warm.
+\
+`"Yeah…… So hot I wanted to go wild."@
+` Just thinking about it makes my breath go wild.@
+` …… Well.@ Whatever happened, it's true that it felt exceedingly good.@
+` I should feel a bit guilty dreaming about doing that to Arcueid, but I recall the dream and just sit there thinking about it.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama."@
+`"Uwaaaaaa!"@
+quakey 2,100
+` I flail around off my bed as if trying to escape.@
+` No[line=2]in fact I was trying to escape, but it just ended up with me landing on the floor with the sheets.
+\
+`"Hi, Hihi, Hisui…… !?@ H, how long have you been there!?"@
+`"Since before you awoke, Shiki-sama."@
+` She speaks with her usual lack of expression.@
+` Still lying on the floor tangled in the sheets and unable to stand, I look up at Hisui's face.
+\
+`"…… Before I… woke up……"@
+br
+` [line=2]Then, that means…
+br
+` Hisui saw my face when I was having that dream?@
+` My face turns deep red.@
+` Hisui just stands there, expressionless as usual, and makes no attempt to speak.
+\
+`"Um…… did I look… strange……?"@
+ld c,"tachi/his_t01b",crossfade,400
+`"I do not wish to describe it."@
+`"Ah[line=2]h"@
+` …… I knew it.@ I must have looked really weird.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"But, if you insist, Shiki-sama, I can describe as accurately as I can."@
+`"…… No, you don't have to do that……"@
+` My face still flushed, I speak in a fading voice.@
+`"Um, Hisui-san?"@
+` I give a cough to clear the silence.@
+` …… Adding "san" to her name is a clear sign of my vulnerability.
+\
+`"What is it, Shiki-sama?"@
+`"Um…… I'm going to change, so would you mind waiting outside?"@
+br
+` [line=2]Or rather, I'm so embarrassed I just want her to leave.@
+` But Hisui doesn't obey today of all days.
+\
+`"Once I can confirm you are awake, I will leave the room, Shiki-sama."@
+`"……!"@
+` Huh?@ Is, is is is she joking!?@
+` Why does she think I'm covering myself up in these sheets!?@
+` It's to hide something that's still standing!
+\
+`"I, I'm fine, so please leave.@ I can get up, and I won't go back to sleep.@ I'll change and go to the sitting room as soon as you leave."@
+`"Shiki-sama[line=2]Are you hurt and unable to stand……?"@
+cl c,crossfade,800
+` Hisui approaches me out of worry.
+\
+`"No, that's not it.@ I'm standing[line=4]I mean I can stand, so don't worry about it."@
+` I crawl pulling my sheets like a slug, and gain some distance from her.@
+` Using the bed as a barrier, I get far enough away.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"…… Then, please excuse me.@ I will prepare your breakfast, so please come after you change."@
+cl c,lshutter,800
+` She has got to be suspicious, but she bows and leaves the room.
+\
+` *sigh*@
+` I was so surprised.@
+` The contents of my dream were surprising enough, but knowing Hisui saw me while I was dreaming is very troubling.@
+` …… It's all Arcueid's fault for doing something like that.@
+`"Even now she's being bothersome, really[line=4]"
+\
+` Really[line=4]really what?@
+` I can't finish.@
+`"………………?"@
+` What did I want to say just now?@
+` Not even able to confirm my own feelings, I decide to change and head to the sitting room with a vague feeling in my chest.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` After calming down sufficiently, I head to the sitting room.@
+` As usual, Akiha is sitting on the sofa, elegantly sipping tea.@
+br
+ld c,"tachi/aki_t04a",crossfade,400
+`"Good morning, Nii-san.@ You are certainly up early this morning."@
+` She must be happy I woke up because she greets me with a smile.@
+cl c,crossfade,400
+`"Yeah, good morning.@ There were, well, a lot of things going on this morning."@
+` As soon as I say that[line=2]I suddenly recall the memory of Arcueid's skin.
+\
+`"Uh[line=2]"@
+` This isn't good.@ I can tell my face is blushing beyond my control.@
+`"Nii-san[line=2]?"@
+` A brief clamor.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"What's wrong?@ Your face is red, do you have a fever?"@
+`"[line=5]!"@
+` Rushing over to me, she looks up at me from below.@
+` But[line=2]In doing so, from this angle, um[line=4]
+\
+ld c,"tachi/aki_t12a",crossfade,400
+` Akiha sighs.@
+`"You do seem to have a fever.@ Kohaku, come quickly.@ Nii-san doesn't seem to be well."@
+` Akiha calls out to the dining room.@
+` Kohaku-san has to be preparing my breakfast in the kitchen.
+\
+`"I'm fine[line=2]!@ It's just a minor cold, so don't worry!"@
+ld c,"tachi/aki_t21",crossfade,400
+`"If it is a cold, then I can't let it go by.@ For you, a trivial illness is a big deal.@ The strength of your immune system is much lower than most people's."@
+cl c,crossfade,400
+\
+` Akiha seems to be fed up and puts her hand on my forehead.@
+br
+` The sensation of her cool, delicate hand[line=2]
+br
+`"!!!!!!!!"@
+` This isn't good.@
+` This isn't good at all, so I break loose and run out to the lobby.
+\
+bg "bg/bg_33a",lcartain,800
+br
+` Footsteps echo as I dash off.@
+br
+bg "bg/bg_40a",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama?@ Have you finished your breakfast already?"@
+`"No, that's not it, but[line=2]Um, where's my bag?"@
+`"I have your bag here.@ Are you already going to school?"@
+` Nodding, I snatch my bag from Hisui.@
+`"I'm going.@ Don't worry about seeing me off!"
+\
+bg "bg/bg_33a",lcartain,800
+ld c,"tachi/aki_t02",crossfade,400
+`"Nii-san, you've been acting strange.@ What are you doing with a fever like that?"@
+`"Geez, I told you it's nothing!@ Since it's nothing, I'm going to school!@ I'll have breakfast later, so leave me alone!"@
+`"Leave you alone[line=2]hey, Nii-san!?"@
+br
+` The sound of my fleeing footsteps is my only response.
+\
+bg "bg/bg_32a",lcartain,800
+`"Sigh[line=4]"@
+` Even if it is Akiha, she wouldn't chase me this far.
+\
+` Since we're not kids anymore, she won't stop me from going to school.
+\
+`"[line=4]Whew."@
+`  I take a deep breath and am finally able to calm down.@
+`"……… What am I running away for?"@
+` Once I calm down, I can think clearly.@
+` I didn't do anything wrong, so there was no need for me to run away like that.
+\
+`"[line=2]I don't believe it.@ I look like a complete idiot."@
+` But, to go back to the mansion to eat breakfast sounds more dumb.@
+`"[line=2]To school, then?"@
+` Letting out a sigh, I go downhill along the residential street.
+\
+playstop
+bg #000000,lcartain,800
+!w1000

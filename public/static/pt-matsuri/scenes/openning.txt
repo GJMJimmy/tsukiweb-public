@@ -1,0 +1,254 @@
+play "*9"
+br
+br
+br
+br
+br
+br
+br
+` [line=7]De repente, eu acordo assustado.
+\
+br
+br
+br
+br
+br
+`[center]A noite está negra como piche.@
+`[center]E não há mais ninguém aqui em casa.
+\
+br
+br
+br
+br
+br
+br
+`[center]É assustador ficar sozinho no escuro.@
+`[center]Então, para encontrar a todos, eu vou para o jardim.
+\
+bg "bg/ima_02",crossfade,800
+!w1000
+br
+br
+br
+br
+br
+`[center]Os jardins da nossa mansão são vastos campos verdejantes.@
+`[center]Cercados por uma floresta muito densa.@
+`[center]Suas árvores bloqueiam a luz,
+`[center]quase como se formassem uma cortina enorme.
+\
+br
+br
+br
+br
+br
+`[center]A cortina de árvores começa a se abrir com um som sibilante.@
+`[center]Como no palco de um teatro.@
+`[center]Um entusiasmo toma conta de mim,
+`[center]antecipando o início da grandiosa apresentação.
+\
+br
+br
+br
+br
+br
+`[center]Ao longe, eu ouço ecos,
+`[center]além da cortina negra de árvores.@
+`[center]Dentro da floresta,
+`[center]os barulhos das pessoas brincando e se divertindo.
+\
+br
+br
+br
+br
+br
+br
+`[center]A cortina ainda não terminou de se abrir.@
+`[center]Incapaz de me segurar,
+`[center]eu começo a caminhar pela escuridão da floresta.
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+`[center]A escuridão me cerca por todos os lados…
+`[center]Uma escuridão tão profunda que está me sufocando…
+`[center]Nem mesmo o luar aconchegante consegue penetrar esta profundidade.
+\
+br
+br
+br
+br
+br
+`[center]O ar está frio…
+`[center]Um frio de inverno muito forte,
+`[center]parece até que meus olhos vão congelar.
+\
+br
+br
+br
+br
+br
+`[center]Por um breve momento, pensei ter ouvido alguém chamar o meu nome,
+`[center]por isso vou mais para o fundo da floresta.
+\
+br
+br
+br
+br
+br
+`[center]Depois de atravessar o véu de árvores,
+`[center]eu encontro todo mundo esperando por mim na clareira da floresta.@
+`[center]Mas, tem alguma coisa errada…
+`[center]Todos estão deitados no chão…
+`[center]…… Todos estão deitados no chão…… partidos em pedaços…
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]A clareira está banhada em vermelho.
+\
+br
+br
+br
+` [line=3]Eu não entendo.
+\
+br
+br
+br
+br
+br
+br
+`[center]Um estranho se aproxima de mim.@
+`[center]O seu olhar me diz que ele quer me rasgar em pedaços…
+\
+br
+br
+br
+br
+br
+` [line=3]Eu realmente não estou entendendo…
+\
+br
+br
+br
+br
+br
+br
+`[center]Mas, uma outra pessoa, alguém que eu não conheço… entra na minha frente,
+`[center]e é dilacerado no meu lugar.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Eu sou apenas uma criança, então, realmente não estou entendendo o que está acontecendo.
+\
+bg "bg/ima_13b",crossfade,400
+br
+br
+br
+br
+br
+`[center]Algo respinga em mim.@
+`[center]Algo quente e molhado acerta o meu rosto.@
+`[center]É vermelho…
+`[center]Um líquido vermelho, vermelho como um tomate.
+\
+br
+br
+br
+br
+br
+`[center]A pessoa que foi dilacerada,
+`[center]a pessoa que eu chamava de "mãe",
+`[center]nunca mais chamou meu nome.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Eu realmente não estou entendendo.
+\
+br
+br
+br
+br
+br
+br
+`[center]Mas é tanta crueldade…
+`[center]Que eu quero chorar, sinto muita vontade de chorar.
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+br
+br
+`[center]O vermelho quente borra a minha visão.@
+`[center]Penetrando nos meus olhos.@
+`[center]Mas isso não me incomoda.@
+`[center]A lua solitária flutua sobre mim,
+`[center]sendo a testemunha no céu noturno.
+\
+bg "bg/ima_01",crossfade,1500
+br
+br
+br
+br
+br
+br
+`[center]Que estranho.@
+`[center]Por que eu não havia percebido isso até agora?
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Neste pesadelo tão horrível.
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]Sim[line=3]Eu não havia percebido.
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]Que nesta noite…
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]A lua está tão[line=6]linda[line=4]
+\
+playstop

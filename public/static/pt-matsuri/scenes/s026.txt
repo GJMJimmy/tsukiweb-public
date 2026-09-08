@@ -1,0 +1,86 @@
+bg #000000,lcartain,800
+play "*3"
+!w500
+bg "bg/bg_50",lcartain,800
+` O refeitório está lotado como sempre.@ Há uma fila enorme de pessoas esperando por seus pedidos.@
+` Dou uma olhada nos estudantes segurando seus vales-refeição e me sento na mesa do Arihiko.
+\
+`"Então, Arihiko, quem é esse convidado importante?"@
+`"Hum… que estranho.@ Combinamos de encontrar aqui no refeitório.@ Espere aí, vou ver o que aconteceu."@
+` Ele sai, deixando seu udon de curry em cima da mesa.@
+`"……"@
+` Eu vou pedir chikara Udon.@
+` Espero que ele volte antes do macarrão esfriar.
+\
+bg #000000,lshutter,800
+!w500
+bg "bg/bg_50",lcartain,800
+ld c,"tachi/ari_t03",lshutter,800
+`"É uma pena.@ Parece que a Senpai foi em algum outro lugar."@
+`"Hum?@ O tal convidado era uma Senpai?"@
+`"Sim, ela é uma garota muito legal.@ Estou dando em cima dela já faz uns dias e finalmente consegui convencê-la de almoçar comigo.@ Mas parece que ela tinha que agradecer alguém hoje, por isso está atrás de seja lá quem for essa pessoa."@
+` *suspiro*@
+`"…… Ela parece ser uma pessoa ocupada."@
+`"Sim.@ Ela é do tipo apressadinha também."@
+` Lamentando-se, o Arihiko separa seus hashis.
+\
+`"Bem, fazer o que, né!?@ Itadakimasu."@
+`"Pois é, itadakimasu."@
+cl c,crossfade,400
+` Começamos a almoçar.@
+br
+!w1000
+` …… E o que ele quis dizer com "do tipo apressadinha"?
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+`"Então, qual foi o verdadeiro motivo?"@
+ld c,"tachi/ari_t04",crossfade,400
+`"Hã?@ Como assim?"@
+`"O motivo de você ter chegado cedo na escola.@ Você não é o tipo de pessoa que vem para a escola na hora certa só porque acordou cedo, Arihiko-kun."@
+` Faço essa pergunta enquanto me sento ao lado dele e começo a comer meu chikara udon.@
+`"Hummm."@
+` Ele responde de forma despreocupada enquanto come seu macarrão.@
+`"Tohno, não é hoje que você volta para a sua casa verdadeira?"@
+`"Sim… espera, eu tinha te contado sobre isso?"@
+`"Não.@ Eu ouvi do professor."@
+` Arihiko continua devorando seu udon de curry sem olhar para mim.
+\
+`"Eu pensei: "Talvez o Tohno fique muito deprimido", por isso resolvi dar uma olhada em você."@
+`"…… Hum, sei.@ E qual o seu veredicto?"@
+`"Decepcionante.@ Não valeu a pena acordar cedo."@
+cl c,crossfade,400
+`"Você realmente tem muito tempo livre, Arihiko," eu concluo e mordo o bolinho de arroz do meu chikara udon.
+\
+` …… O Arihiko é esse tipo de pessoa.@
+` Hoje é o dia que saio da casa da família adotiva que me criou e volto para a casa da minha família de verdade.@
+` Ele parece ter ouvido sobre isso e veio para a escola mais cedo porque estava preocupado comigo.
+\
+`"…… Arihiko, acho que a sua aparência não lhe corresponde.@ No fundo, você é um cara muito sentimental."@
+ld c,"tachi/ari_t02",crossfade,400
+`"Hehe… Se o sujeito mais melancólico que eu conheço está me dizendo isso, então talvez seja verdade."@
+` Ele mastiga seu macarrão fazendo muito barulho.@
+ld c,"tachi/ari_t01",crossfade,400
+`"Então, cara, o que realmente está acontecendo?"@
+`"Como assim?"@
+`"Você mora com os Arimas desde o primário, né?@ Já faz oito anos.@ Basicamente, seu pai te deserdou.@ Por que ele está te chamando de volta assim do nada?"
+\
+`"Ele não me 'deserdou'.@ Apenas me expulsou de casa."@
+`"Tohno-kun, se a sua família 'apenas' te expulsou de casa, isso não é uma tragédia, é uma comédia.@ Mas é uma comédia sem graça."@
+` Ele estica os braços e dá de ombros.@
+` O bom humor é um dos traços mais marcantes do Arihiko.@
+`"…… Bem, acho que você está certo.@ Se você foi expulso de casa, rir é o melhor que tem a fazer."
+\
+`"E então ele disse alguma frase clichê, do tipo: 'Nunca mais ponha os pés nesta casa de novo!' ou algo assim, né?@ É isso que as pessoas chamam de deserdar.@ Pensando bem, você nunca disse o motivo de ter sido deserdado."@
+`"……"@
+` …… Nem eu sei.@
+` Mas é algo que eu também gostaria de saber.@
+`"Bem, se não quiser, não precisa falar sobre isso."@
+cl c,crossfade,400
+` Levantando sua tigela com as duas mãos, o Arihiko bebe o que resta do seu udon de curry.@
+` O horário do almoço é curto.@
+` Assim como o Arihiko, decido terminar rapidamente meu chikara udon.
+\
+bg #000000,crossfade,800
+playstop
+!w1000

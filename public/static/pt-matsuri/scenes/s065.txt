@@ -1,0 +1,459 @@
+playstop
+wavestop
+bg "bg/bg_06a",crossfade,800
+` Quinto período.@
+` Sentindo sono com a aula de literatura, meu olhar viaja para fora da janela.@
+br
+` [line=4]E então,
+br
+` vejo um corvo empoleirado na varanda da sala de aula.
+\
+`"[line=5]"@
+` Não é o corvo azul de ontem à noite, apenas um corvo preto comum.@
+` Com os olhos negros, ele observa dentro da classe.@
+` Não é comum um pássaro empoleirar ali, mas também não é um grande acontecimento.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,800
+wave se_01
+`"Ah[line=4]"@
+` De repente, algo estranho me acontece.@
+` Minha visão vai esbranquiçando e vou perdendo meu senso de equilíbrio.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,800
+`"[line=3]"@
+` Minha visão fica borrada.@
+` É como se tivesse alguma coisa acumulando na parte de trás da minha cabeça e fazendo pressão no meu cérebro.
+\
+`"…… Droga."@
+` Eu reconheço esse sintoma.@ É o precursor de um ataque de anemia.@
+` O sangue que foi se acumulando dentro dos vasos sanguíneos no meu cérebro forma coágulos pretos que entopem os vasos na minha cabeça, fazendo minha visão ficar escura.@
+br
+` Se tivesse que descrever isso, diria que parece que a escuridão é empurrada do meu cérebro para fora, em direção aos meus olhos.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,800
+bg #000000,crossfade,1500
+` [line=3]Isso é péssimo… Não costumo desmaiar no meio da aula, mas…
+\
+br
+` Desajeitado em um mundo de escuridão, uso minha carteira como apoio.@
+br
+` Até isso foi inútil…
+` Não consigo colocar força nas mãos.@
+` Agora só me resta cair no chão[line=3]
+\
+!w1000
+bg "bg/bg_06a",notrans,0
+play "*3"
+`"Com licença, Sensei."@
+br
+` [line=3]E então,
+br
+` alguém me acerta bruscamente nas costas.
+\
+ld r,"tachi/ari_t04",notrans,0
+`"O Tohno parece estar muito mal, posso levá-lo para a enfermaria?"@
+`"[line=4]Arihiko."@
+br
+` Em algum momento, o Arihiko veio até aqui.@
+br
+`"Você realmente está se sentindo mal, Tohno?"@
+` Ouço a voz do professor vindo do seu atril.
+\
+`"Não, eu acho que vou ficar be[line=3]"@
+ld r,"tachi/ari_t01",crossfade,400
+`"Cara, ele está totalmente fora de condições.@ Não seria melhor ele sair mais cedo?"@
+br
+` …… O Arihiko faz esse anúncio ultrajante em voz alta.
+\
+`"Entendo.@ Se você diz, Inui, então não há dúvida quanto a isso.@ Já ouvi sobre a saúde do Tohno pela Kunifuji-sensei.@ Tohno, se não estiver se sentindo bem, pode descansar na enfermaria ou sair mais cedo."@
+` …… Nossa.@ Não sei o que deu nele.@
+br
+` Parece que o professor de literatura tem total confiança no que o Arihiko diz.
+\
+ld r,"tachi/ari_t04",crossfade,400
+`"Vamos, você pode ir agora.@ Seu rosto está até pálido, mas sabe, ninguém vai adivinhar que você está se sentindo mal até você dizer."@
+` O Arihiko bate nas minhas costas, irritado.@
+`"…… Eu vou sair mais cedo então, Sensei."@
+` O professor de literatura concorda solenemente, fazendo um gesto afirmativo com a cabeça.
+\
+`"…… Desculpe-me por te deixar preocupado, Arihiko."@
+ld r,"tachi/ari_t01",crossfade,400
+`"Não se preocupe com isso.@ Nós somos inseparáveis desde o ensino fundamental, sei dizer quando você está prestes a desmaiar por causa da anemia."@
+cl r,crossfade,400
+` O Arihiko volta para sua própria carteira.@
+` Expressando minha gratidão com um olhar, arrasto o meu corpo pesado para fora da sala.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01a",lcartain,1500
+` [line=3]Saio da escola.@
+` Teria sido melhor se tivesse me deitado na enfermaria, mas a essa hora, as aulas já teriam terminado quando eu acordasse.@
+` Sendo assim, prefiro descansar na mansão, mesmo que isso signifique que eu tenha que me esforçar um pouco.
+\
+`"…… Ufa.@ Estou me sentindo um pouco melhor."@
+` Respiro um pouco de ar puro e me sinto rejuvenescido.@
+br
+` …… Nossa!@ Estou surpreso com meu próprio corpo.
+\
+` Oito anos atrás.@
+` O preço de me recuperar daquele ferimento quase fatal foi me tornar alguém propenso à anemia súbita.@
+br
+` Quando saí do hospital, isso acontecia pelo menos uma vez por dia.@ Desmaiar por causa das tonturas se tornou uma rotina diária.@
+` Depois de algum tempo, provavelmente porque meu corpo cresceu, a tontura espontânea e a anemia se tornaram mais raras.@
+` Mas de tempos em tempos, as tonturas voltam e ainda perco a consciência.@
+` Hoje tive sorte que o Arihiko me segurou.@ Normalmente, eu teria desmaiado e caído no chão.@
+` *suspiro*@
+` Respiro lentamente, levando ar fresco aos pulmões.@
+` Posso sentir o sangue acumulado no centro da minha cabeça começar a seguir o fluxo novamente, assim vou embora da escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25a",lcartain,800
+` Viro para a rua principal.@
+` Depois que passar por aqui e sair do distrito residencial, é um caminho direto até a mansão Tohno.@
+bg #ffffff,crossfade,800
+bg "bg/bg_25a",crossfade,800
+br
+`"[line=2]Ai."@
+` …… Droga.@
+` Parece que ainda não me recuperei completamente.@
+` Coloco a mão na testa e percebo que ela está mais quente que o normal.
+\
+`"……"@
+` Não vai ser nada bom se eu me esforçar até desmaiar na calçada.@
+`"[line=3]Acho que não tenho escolha."@
+` Aborrecido comigo mesmo, me encosto na grade de proteção da rua.@
+` Vou descansar um pouco até me acalmar.
+\
+bg #000000,lshutter,800
+bg "bg/bg_25a",lshutter,800
+playstop
+` …… Não tenho muito o que fazer, então fico olhando para a rua.@
+br
+` É pouco mais de meio-dia em um dia de semana, mas a rua está cheia de pessoas.@
+` Multidões de pessoas caminhando.@
+` Pessoas sem nome e sem personalidade seguem em frente, sem nem olhar para os outros que andam ao seu lado.@
+` Mesmo que haja tantas pessoas aqui, juntas nessa multidão, nesse mesmo espaço, elas veem somente uma coisa.
+\
+` Cada um é seu próprio personagem principal, elas só vivem dessa perspectiva.@
+` E então, sem interagir com as outras pessoas, elas terminam o dia por si mesmas.
+\
+br
+` [line=3]De certa forma, pode-se dizer que é algo bem solitário.@
+`"……"@
+br
+` Começo a pensar em coisas melancólicas, talvez seja resultado da febre.@
+`"[line=3]Acho que vou para casa agora."@
+` Estou mais calmo e a única coisa que estou fazendo aqui é perdendo meu tempo com pensamentos inúteis.@
+` Levanto da grade de proteção e retomo meu caminho para a mansão.@
+br
+br
+br
+!w1000
+` [line=3]Isso é[line=4]até que vejo ela.
+\
+bg #000000,crossfade,800
+bg "event/ark_e01",crossfade,800
+wave se_01
+` Descontraído.@
+` Tudo que fiz foi lançar o meu olhar descontraído para a multidão, mas minha visão congelou.
+\
+br
+` [line=3]Tu, dum.@
+br
+` Cabelos loiros e olhos vermelhos.@
+` Suas roupas são brancas, como se fossem um símbolo de si mesma.@
+wave se_01
+br
+` [line=3]Tu, dum.@
+br
+` Meu coração acelera.@
+` Minhas veias e artérias entram em ação.@
+` Meus nervos se partem, um após o outro.@ Minha coluna vertebral fica enfurecida, como se estivesse prestes a saltar das minhas costas.
+\
+wave se_01
+br
+` [line=3]Tu, dum.@
+br
+` A garota que está andando na multidão é simplesmente… linda.@
+`"[line=6]"@
+` A tontura retorna.@
+` Minha consciência flutua, desaparecendo.
+\
+wave se_01
+br
+` [line=4]Tu, dum.@
+br
+` E-eu não consigo respirar.@
+` As pontas dos meus dedos formigam.@ O sangue não está chegando até elas.@
+` Meu corpo está frio, parece que estou congelando.
+\
+wave se_01
+br
+` [line=4]TU, DUM.@
+br
+` Meu coração bate muito rápido, insistindo para que eu me apresse.@
+`"Ah[line=2]ah!"@
+` Não consigo mais suportar isso e palavras incompreensíveis escapam da minha boca.
+\
+wave se_01
+` [line=5]Não consigo pensar.@
+` Meu cérebro me diz apenas uma palavra.@
+br
+` [line=4]TU-DUM.@
+br
+` Apenas uma palavra está se repetindo na minha cabeça.@
+` Ela.@
+` Aquela garota.@
+` Eu vou[line=4]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_25a",crossfade,400
+` *arf* *arf* *arf*@
+br
+` Estou me sentindo péssimo.@
+` Não consigo respirar.@
+` Dói quando respiro.@
+` Não consigo me lembrar como se respira corretamente.
+\
+wave se_01
+` *arf* *arf* *arf*@
+br
+` Minha garganta está queimando.@
+` Meus olhos estão prestes a explodir.@
+` Minhas mãos estão encharcadas de suor.@
+` Estou com tanto frio[line=2]mas estou encharcado de suor.
+\
+wave se_01
+` *arf* *arf* *arf*@
+` …… Tenho que segui-la.@
+` Tenho que seguir aquela garota.@
+` Persegui-la, ir atrás dela, conversar com ela.@
+` Meus pés congelados começam a se mexer.@
+br
+` Minha respiração está irregular, como a de um animal selvagem.@
+br
+` Eu persigo a garota de branco.
+\
+wave se_01
+bg "bg/bg_27a",crossfade,800
+ld c,"tachi/ark_t22",crossfade,400
+` *arf* *arf* *arf*@
+br
+` Ela anda devagar.@
+` E não percebe que está sendo seguida.@
+br
+`"Ha[line=4]ah."@
+br
+` Se eu correr até ela agora, poderemos conversar.@
+` Conversar com ela, perguntar seu nome…
+\
+`"Ha[line=4]ahah, ha."@
+br
+` [line=3]Perguntar o nome dela?@
+` Quem estou tentando enganar?@
+` Sei muito bem que não é isso que quero fazer.@
+` …… Eu sei, mas não sei.@
+` Parece que quero fazer outra coisa.@
+` Mas não consigo colocar com precisão em palavras "o que eu quero fazer".@
+br
+` Dentro da minha cabeça está tudo embaçado, como uma nuvem de chuva.
+\
+bg "bg/bg_23a",crossfade,800
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=7]"@
+br
+` Minha garganta está… quente.@
+` Não consigo respirar.@
+` Mas e daí?@
+` É normal, né?@ Acabei de ver essa mulher linda… seria grosseiro não ficar excitado, não seria?@
+` Parar ela e perguntar seu nome?@
+` Ah!@ Dá um tempo.@ Não sou criança.@
+` Não entendo isso muito bem, mas só tem uma coisa que preciso fazer.
+\
+` Ando com as mãos nos bolsos.@
+` Meus dedos sentem o aço.@
+br
+`"Ku[line=4]huhh.@ Hehe."@
+` Que oportuno.@
+` As ferramentas estão todas aqui.
+\
+` …… Ela continua andando.@
+` Deixo bastante espaço entre nós.@
+` Assim ela não vai perceber.@ E as pessoas ao nosso redor não vão suspeitar.@
+` Nós dois somos completos estranhos.@
+` É por isso que tenho que me esforçar para fazer minha perseguição parecer o que não é.
+\
+bg #000000,crossfade,400
+bg "bg/bg_12a",crossfade,400
+` …… Ela entra em um prédio residencial.@
+` Eu não entro ainda, fico só observando do lado de fora.@
+` Ela sobe pelo elevador.@
+` O elevador para no sexto andar.@
+br
+` Verifico as caixas de correio no primeiro andar.@
+` Há cinco caixas de correio para o sexto andar.@ Toco uma delas e sinto uma sensação cortante.@
+` Eu cheiro ela.@
+` Não há erro.@
+` O quarto dela é o terceiro no sexto andar.
+\
+br
+br
+` Entro no elevador e aperto o número seis.
+\
+bg #000000,crossfade,800
+` Estou excitado.@
+` Enquanto estou no pequeno elevador, aperto o punho da faca no meu bolso.@
+` Ela está muito perto.@
+` Só mais um pouco, e vou poder      ela.@
+` Ah, só de pensar nisso me deixa em êxtase[line=2]
+` Meu corpo inteiro parece um orgão sexual prestes a atingir o clímax.
+\
+` Saio do elevador.@
+` O corredor do sexto andar está vazio.@
+` Isso é bom.@
+` Rápido[line=4]rápido!@ Eu quero fazer isso.
+\
+bg "bg/bg_13a",crossfade,800
+br
+br
+` [line=4]Chego em frente ao Quarto Três.
+\
+` Estou prestes a apertar a campainha quando paro.@
+` Estes óculos estão no meu caminho.@
+` Não posso fazer o que vim fazer com eles no rosto.@
+br
+` [line=3]É uma promessa, Shiki.@
+` Você nunca deve cortar essas linhas sem pensar[line=3]
+br
+`"……"@
+` Há muito tempo, uma mulher me disse essas palavras.@
+` Mas agora, não consigo nem lembrar do nome ou do rosto dela.@
+` Lentamente, retiro meus óculos.
+\
+bg #000000,crossfade,800
+waveloop se_02
+br
+` Eu posso ver as linhas pretas.@
+` E não apenas elas.@
+` Aconteceu alguma coisa com os meus olhos?@
+` Além dessas linhas abomináveis, eu posso ver 'pontos', parecem buracos negros.@ Um número incontável deles.@
+br
+` Não estou me reconhecendo.@
+` O que estou tentando fazer?@
+` Por que estou tentado a isso?@
+br
+` O que Tohno Shiki[line=5]quer fazer com aquela garota?
+\
+br
+` Eu não sei.@
+` Mesmo sem saber, aperto a campainha.
+\
+bg "bg/bg_14d",crossfade,400
+`"Sim[line=3]?"@
+` Ouço a voz por detrás da porta e ela abre uma greta.@
+` Nesse instante[line=6]passo por ela.
+\
+`"Hã[line=4]"@
+` É o que a garota diz.@
+` Não, ela tenta dizer.@
+` Ela nunca vai terminar o que tentou dizer.@
+` Porque eu a cortei em pedaços antes que pudesse fazer isso.
+\
+bg #000000,notrans,0
+bg "bg/ima_14",crossfade,400
+` Naquele instante, eu passei pela porta.@
+` Sem levar nem um segundo, passei a faca pelas linhas que estão no corpo da garota.@
+` Esfaqueando.@
+!w500
+` Cortando.@
+!w500
+` Perfurando.@
+!w500
+` Movendo.@
+!w500
+` Dividindo em pedaços.@
+br
+` Eu a 'matei', de forma completa e absoluta.
+\
+` As linhas pretas que dividem ela em dezessete pedaços.@
+` No pescoço, na parte de trás da cabeça, do olho direito aos lábios, no braço direito, no antebraço direito, no dedo anelar direito, no cotovelo esquerdo, no polegar esquerdo, no dedo médio esquerdo, no seio esquerdo, da costela até o coração, do estômago até o abdome em dois lugares, na virilha esquerda, na coxa esquerda, na perna esquerda, no dedão do pé esquerdo, todas elas.@
+` Eu a cortei quando passei por ela,
+` sem levar nem mesmo um segundo.@
+br
+` De verdade, em um instante.@
+br
+` Eu "desmantelei" ela em dezessete pedaços de carne.
+\
+bg #000000,crossfade,400
+wavestop
+bg "bg/ima_13",crossfade,800
+play "*4"
+`"[line=3]Hã?"@
+` Ouço uma voz incrivelmente idiota.@
+` A voz não está vindo da minha garganta.@
+br
+` Tontura.@
+br
+` Os pedaços picados da garota estão diante dos meus olhos.@
+` O sangue vermelho está espalhado por todo o chão de madeira, como um balde de água derrubado.
+\
+br
+` O cheiro sufocante de sangue.@
+` Os cortes foram bem precisos, assim suas entranhas não pularam para fora.@
+` Somente a cor vermelha se espalha pelo chão.@
+` Estranho.@
+` Não há nada no quarto.@ Nada além dos membros espalhados da garota e eu, parado aqui, pasmo.
+\
+`"[line=3]O quê[line=3]"@
+br
+` Um mar de sangue está se espalhando pelo chão.@
+` Em minhas mãos, aperto minha faca, a arma do assassinato.@
+br
+`"Ela está[line=4]morta."@
+br
+` É claro que está.@
+` Ela não seria humana se estivesse viva.
+\
+`"Por[line=4]quê?"@
+br
+` Não tenho que me fazer essa pergunta.@
+` Eu acabei de fazer isso com minhas próprias mãos.@
+` Com minhas próprias mãos, cortei em pedaços essa garota que nem conheço.
+\
+br
+`"Eu[line=4]matei ela?"@
+br
+` Sim, não há dúvidas quanto a isso.@
+` Será que não estou enganado?@
+br
+` Eu não tenho motivo algum para ter feito uma coisa dessas.@
+` É por isso que é um engano.@ Isso tem que ser um engano.
+\
+` Mas eu não tinha motivo algum desde o começo.@
+` É por isso que é um engano.@ Isso tem que ser um engano.
+\
+monocro #ff0000
+bg #000000,crossfade,400
+bg "bg/ima_13",crossfade,800
+br
+` [line=3]O sangue continua escorrendo pelo chão.@
+br
+` Lentamente, a mancha vermelha se aproxima do meu sapato.
+\
+`"……… Ah!"@
+` Surpreso, levanto o sapato, mas já é tarde demais.@
+br
+` Como uma pasta viscosa, o sangue dela faz uma ligação conectando a poça de sangue no chão ao meu pé.@
+`"[line=9]"@
+` É… sangue…
+` Essa cor que eu odeio, continua saindo até agora.@ Tudo porque a cortei em pedaços.
+\
+`"[line=3]Não fui eu."@
+` Sim.@ Isso tem que ser algum engano.@
+br
+` Um engano.@ Um engano.@ Provavelmente um engano, definitivamente um engano.@
+` Isso é.@
+` Isso é, Isso é, Isso é, Isso é, Isso é Isso é Isso é Isso é Isso é Isso é[line=4]
+\

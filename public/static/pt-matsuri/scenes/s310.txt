@@ -1,0 +1,1829 @@
+monocro off
+play "*8"
+wavestop
+bg "event/ark_e04b",notrans,0
+` Mas não posso ouvi-la.@
+` Ela pode não estar em guarda neste momento, já que a perfeição está desaparecendo do seu corpo.
+\
+`"…… Shiki.@ Será que[line=4]você me odeia?"@
+` Ela olha diretamente para mim.@
+` Olho para o seu rosto enquanto permaneço preso ao chão.@
+wave se_01
+br
+` Atenciosamente.@ [line=3]Estou me esforçando tanto que pode até queimar meu cérebro.
+\
+`"…… Não odeio você, Arcueid."@
+`"Sério mesmo?"@
+` Ela parece muito feliz.@
+br
+wave se_01
+` …… Minha testa está queimando.@
+` Enquanto meu cérebro palpita horrivelmente, eu com certeza[line=3]
+br
+` Vejo apenas uma "linha" de morte.
+\
+`"Mas eu me recuso.@ Eu amo é a Ciel, não amo você, Arcueid……!"@
+`"[line=7]!"@
+` Seus olhos transbordam de raiva.@
+` Mas antes disso,
+` eu corto a "linha" no seu pescoço.
+\
+playstop
+wave se_06
+bg "bg/ima_12",lshutter,400
+!w1000
+bg "bg/bg_29b",crossfade,400
+`"Ah[line=5]"@
+` O sangue fresco escorre pelo seu pescoço e ela desmaia.@
+` Escapando da pressão do seu corpo, eu fujo.
+\
+`"Ha[line=4]Ah."@
+` Estou sem fôlego.@
+` Não estou ferido, mas não posso correr nesse estado.@
+` É a Arcueid, ela deve ser capaz de curar um ferimento desses, e virá me atacar novamente[line=3]
+br
+`"Ar…… cueid?"@
+` Ela nem se mexe.@
+` O sangue está jorrando pelo chão, seu corpo branco está coberto pelo carmesim.
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=5]Sem chance.@ Eu[line=3]matei ela?
+\
+`"O qu[line=3]Arcueid, você[line=3]"@
+` Parando minhas pernas que tentavam fugir, tento correr na direção do seu corpo, mas paro.
+\
+` Um braço.@
+` Um dos braços de sua figura desmaiada…… Levanta-se como se fosse a perna de uma aranha.@
+br
+` Nesse instante,
+` o mundo todo congela.
+\
+play "*6"
+waveloop se_02
+bg "bg/ima_01",crossfade,800
+monocro #ff0000
+br
+br
+br
+br
+br
+br
+br
+`   "Eu      V   o    u"@
+br
+\
+br
+` *arf*.@ *arf*.@ *arf*.@
+br
+` …… Do seu pescoço escorre o sangue e também sai sua respiração.@
+` Seu braço estica.
+\
+br
+br
+br
+br
+br
+br
+br
+`  Ma  tar    Vo   cê"@
+br
+\
+br
+`  *arf*.@ *arf*.@ *arf* *arf*.@ *arf*.@ *arf*
+br
+` …… O sangue continua a jorrar.@
+` Seu corpo se levanta do chão lentamente.
+\
+br
+br
+br
+br
+br
+br
+br
+`   "Eu   V   o    u"@
+br
+\
+br
+` A respiração rápida e pesada se transforma em uma risada.@
+br
+` …… Seu corpo pálido manchado de sangue.@
+` Ela levanta o rosto.@
+` Posso ver seus olhos brilhando entre seus cabelos dourados.@
+` Seus olhos estão completamente negros.@
+` E neles,
+` brilha um vermelho feroz e impetuoso.
+\
+br
+br
+br
+br
+br
+br
+br
+`   "Eu    vou    matar   você."@
+br
+\
+br
+`  *arf*.@ *arf*.@ *arf*.@
+br
+`  *arf*.@ *arf*.@ *arf*.@ ha.@ a.@ ahahaha, ha.@
+br
+` Hahaha, ahahaha,
+br
+` Ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah[line=7]!!!!
+\
+bg "bg/ima_01",crossfade,1500
+monocro off
+`"Ar[line=3]cueid."@
+` Seus olhos fitam o nada.@
+` Ela tenta se levantar com uma mão, mas toda vez, cai no chão de novo.@
+br
+` Ela escorrega em sua própria poça de sangue, e a cada vez, seu corpo fica mais vermelho ainda.@
+` De novo e de novo.@
+` Ela tenta se levantar, escorrega e cai.@
+` …… É como se ela estivesse gostando desse ciclo de falhas.
+\
+br
+`"Espe re um pouco."@
+br
+`"[line=7]"@
+` Não consigo me mexer.@
+` Sua voz, sua figura, sua vontade[line=3]flui obrigatoriamente para dentro da minha cabeça.@
+br
+` A minha vontade está fluindo, fundindo e mesclando.@
+` O mundo todo está girando à minha volta.@
+br
+` E no meio disso tudo, sua imagem domina.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`          É mesmo.
+\
+` Nunca senti tanta vergonha antes.@
+` Nunca fui tão desgraçada.@
+br
+` [line=3]Justamente por isso que é engraçado.@
+br
+` Nem consigo imaginar a quantidade enorme de prazer que vou sentir quando descontar essa raiva em você, Shiki.
+\
+br
+` Destruir.@ Destruir.@ Destruir.@
+` Violarei sua vida lenta e completamente, com uma delicadeza incomparável e crueldade ao ponto de te entorpecer.@
+br
+` É isso mesmo.@
+br
+` No instante em que eu arrancar fora seus membros, vou rasgar seu peito e puxar seus intestinos para fora, morderei seu pescoço enquanto você pede por misericórdia, mastigarei seus olhos e espalharei os miolos do seu cérebro pelo chão como se fossem manteiga[line=6]!
+\
+textcolor #ffffff
+bg "bg/bg_27b",crossfade,400
+`"Aguarde[line=4]vou te matar daqui a pouco……!"@
+` Sorrindo e rindo como louca, a Arcueid chafurda em um mar do seu próprio sangue.
+\
+`"[line=4]"@
+` Não consigo me mexer.@
+` Isso não é bom.@
+` Nem o Roa consegue se mexer.@
+` Se permanecer aqui, com certeza serei morto.
+\
+` Tenho que fugir.@
+` Vou ser morto se não sair daqui logo.
+\
+br
+`"[line=5]Ah."@
+` Mas as minhas pernas não se mexem.@
+` Talvez elas já saibam.@
+` Que independente de onde eu for, ela vai me matar.
+\
+bg "bg/bg_29b",lshutter,400
+wavestop
+playstop
+`"Tohno-kun!@ O que está fazendo?@ Venha por aqui!"@
+` [line=4]Essa voz.@
+` Essa voz me liberta das garras do medo.@
+br
+`"Senpai……!?"@
+ld c,"tachi/cel_t06b",lshutter,400
+`"Anda logo……!@ Antes que ela se recupere, rápido!"@
+cl c,lshutter,400
+`"Ah[line=4]"@
+` Ignorando meu espanto, ela agarra o meu braço e começa a correr.
+\
+bg #000000,lcartain,400
+!w1000
+bg "bg/bg_24c",lcartain,400
+`"Senpai…… Por quê[line=3]!?"@
+ld c,"tachi/cel_t06b",crossfade,400
+`"Não importa.@ Sou eu quem faz as perguntas aqui!@ Tohno-kun, você é muito infiel!@ Depois de eu te mandar não sair da minha casa, por que foi atrás da Arcueid!?"@
+`"[line=4]"@
+` Isso não é hora para ficar me chamando de infiel.
+\
+`"Não é o que você está pensando, Senpai.@ Olha, me desculpa por ter saído.@ Mas é que eu não consegui resistir, por isso saí um pouco e acabei me encontrando com a Arcueid[line=3]"@
+`"[line=2]Céus, vou ouvir suas desculpas depois.@ Agora temos que correr!"@
+cl c,lshutter,400
+br
+` A Ciel continua correndo.@
+` …… Nessa direção.@
+` Parece que estamos indo para a escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_02a",lcartain,800
+` Depois de corrermos até aqui, ela finalmente para.@
+`"[line=4]Senpai, o que diabos está acontecendo?@ Sei muito bem por que fugimos da Arcueid, mas por que viemos para a escola?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… Nada mais será destruído aqui.@ Por favor, entre no prédio da escola antes de mim."@
+`"O qu[line=4]por quê?"@
+`"…… A Arcueid está vindo.@ Por favor, fuja, Tohno-kun."@
+`"[line=6]"@
+` Será que ela vai nos perseguir até aqui?
+\
+`"…… Não acho que isso vá acontecer.@ Ela estava bem machucada, mas…… Hum, por favor, ouça sem ficar brava.@
+` Na verdade, ela é uma boa pessoa.@ Eu exagerei nas minhas ações e deixei-a muito nervosa, mas se ela recuperar-se e acalmar-se, com certeza vai[line=4]"
+\
+`"[line=4]Não se engane.@ O inimigo dela, o Roa, está dentro de você.@
+` E além disso, você a machucou demais.@ …… Neste momento, ela é apenas uma vampira sedenta por sangue.@ Enquanto ela não te matar, provavelmente não vai voltar a ser a Arcueid que você conhece."@
+`"Hein[line=6]"
+\
+`"…… Imagino que ela termine de se curar em breve."@
+` A Ciel murmura e agarra o meu braço.@
+`"[line=4]Podemos ter uma chance dentro da escola.@ Para te proteger, tenho que resolver isso com ela de uma vez por todas."@
+`"Ci…… el?"@
+`"Quando ela está ativa, seu subordinado, o Roa, também se ativa.@ Para suprimir o Roa, precisamos colocá-la para dormir ou afastá-la de nós.@
+` Então, derrotá-la aqui é matar dois coelhos com uma só cajadada."
+\
+cl c,lshutter,400
+` "Vamos." ela diz enquanto me puxa para dentro da escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_10c",lcartain,800
+` À noite, o corredor é iluminado apenas pelo luar.@
+`"…………"@
+` Penso nos acontecimentos da noite passada.@
+` Parece que não tenho boas lembranças da minha escola à noite.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Vá para o segundo andar, Tohno-kun.@ Lutar com ela é meu dever."@
+`"Não.@ Isso é responsabilidade minha, é você quem vai para o segundo andar, Senpai.@ Eu vou[line=2]resolver isso."@
+`"…… Tohno-kun.@ Vou ficar brava com você."@
+` A Ciel me encara.@
+` Mas parece estar ficando mais tímida do que nervosa.
+\
+`"Hum…… Senpai?"@
+`"Tohno-kun, você sabe sobre o meu corpo, não é mesmo?@ Não importa o que aconteça, eu não vou morrer.@ Mas um ferimento trivial pode ser fatal para você.@
+` Você pode até ser capaz de vencer a Arcueid usando o poder dos seus olhos, mas, antes disso, ela poderia simplesmente rasgá-lo ao meio."@
+ld c,"tachi/cel_t10b",crossfade,400
+`"Não foi você quem falou que iria me fazer feliz?@ Então eu imploro, por favor, não morra aqui."@
+`"Mas[line=4]Senpai[line=4]sozinha[line=3]você não vai[line=4]"
+\
+ld c,"tachi/cel_t01b",crossfade,400
+`"Não menospreze o meu poder.@ Já exterminei dezenas de vampiros.@ Não há ninguém melhor do que eu quando se trata de exterminá-los."@
+` Ela faz uma pose corajosa e confiante.@
+br
+` …… Mas.@
+` Eu vejo as pontas dos seus dedos tremerem.
+\
+` Ela está com medo?@
+` Até ela, que exterminou tantos vampiros.@
+` Não, é por causa disso mesmo, ela sabe que a Arcueid não é uma adversária normal.
+\
+`"…… Não, Senpai.@ Mesmo assim, eu[line=3]"@
+` Não quero deixar a Ciel sozinha e fugir.@
+` Antes que eu possa falar isso, ela pressiona um dedo nos meus lábios e me para.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Não diga isso, Tohno-kun.@ Apenas aceite o meu egoísmo.@
+` Pelo menos uma vez, eu quero protegê-lo por vontade própria.@ Se não fizer isso, nunca vou ser capaz de encará-lo com um sorriso sincero."@
+` …… Ela diz essas palavras com lágrimas transbordando dos olhos.
+\
+play "*8"
+`"…… Eu voltei mais cedo porque não havia nenhuma solução."@
+`"[line=6]"@
+`"Não há forma alguma de ajudá-lo na Igreja.@ Só tinham maneiras para tentar usar o Roa a favor deles; não havia nada que pudesse ajudá-lo como o seu hospedeiro."@
+`"[line=4]E-Entendo.@ Ah, bem, fazer o que, né!@ Não precisa chorar por causa disso, Ciel-senpai."
+\
+`"Não……!@ Se eu[line=4]fosse melhor, poderia ter encontrado mais alguma coisa, mas não consegui……!@
+` É por isso que[line=4]a única coisa que posso fazer agora é atrasar o progresso do Roa.@
+` …… Isso dói muito.@
+` Mesmo sabendo da dor que você está sentindo, eu estou apenas sendo egoísta e só pensando no quanto quero que você esteja ao meu lado pelo maior tempo possível[line=3]!"
+\
+`"[line=6]"@
+` Não quero ver ela chorar.@
+` Abraço ela, assim não vejo suas lágrimas.@
+cl c,crossfade,400
+\
+`"Tohno[line=4]kun."@
+`"Está tudo bem.@ Eu também quero ficar com você pelo maior tempo possível.@ Não importa o quanto doa, vou lutar contra o Roa até o fim.@
+` …… Você não está sendo egoísta.@ Sou eu quem está sendo egoísta."@
+`"Mas[line=4]Mas isso……!"
+\
+`"Não me entenda mal.@ Não pretendo perder para o Roa.@
+` A Arcueid me falou uma coisa estranha sobre tudo isso."@
+` Sendo assim, talvez[line=3]possa haver uma saída.
+\
+`"…… Ciel.@ Eu não vou perder.@ Mas as minhas chances de parar a Arcueid são mínimas.@
+` É por isso que deixo ela com você.@ Você é invencível contra vampiros, não é mesmo?"@
+`"[line=6]Sim.@ Muito obrigada."@
+` O braço da Ciel em volta das minhas costas me aperta com mais força.@ Enquanto nos abraçamos, tento colocar meus lábios nos dela.@
+br
+` Então, ela dá um pulinho para trás, como uma coelhinha.
+\
+ld c,"tachi/cel_t01b",crossfade,400
+`"[line=4]Não podemos nos beijar.@ Se você me beijar, vou ficar tão feliz que não vou conseguir me concentrar.@
+` Então vamos ficar só com o abraço por enquanto."@
+`"…… Tudo bem.@ Estou indo, mas se você estiver com problemas, é só me chamar que eu volto imediatamente."@
+br
+` Ela faz um gesto afirmativo com a cabeça.@
+` Eu[line=4]deposito minha confiança nela e me viro.
+\
+`"Espera."@
+`"……?@ O que foi, esqueceu de falar alguma coisa?"@
+`"Sim.@ …… Hum[line=4]amanhã[line=4]vamos sair e nos divertir.@ Nós três.@ Eu, você e o Inui-kun.@ Vamos compensar por aquela outra vez."@
+` Ela diz isso com um sorriso fugaz.@
+br
+` [line=4]Estou muito feliz.
+\
+` Estou feliz que nossa promessa significou tanto assim para ela.
+\
+`"[line=4]Claro.@ Eu prometo."@
+` Estendo a minha mão.@
+`"Sim, vamos manter a promessa dessa vez."@
+` A mão dela toca a minha.@
+` Depois de sacudirmos as mãos vigorosamente, ela puxa a sua de volta.@
+ld c,"tachi/cel_t07b",crossfade,400
+`"[line=4]Agora vai.@ Parece que ela já terminou de se curar."@
+`"Certo."@
+cl c,crossfade,400
+` Dessa vez, realmente dou as costas à Ciel.
+\
+bg #000000,tcartain,800
+playstop
+bg "bg/bg_11c",bcartain,800
+` [line=4]Está muito silencioso.@
+` Subo para o segundo andar com a faca em mãos e suspiro profundamente.@
+` …… Eu acredito na Ciel.@
+` Se ela diz que vai me proteger, definitivamente vai fazer isso.
+\
+`"…… Idiota."@
+` Mas me sinto da mesma forma.@
+` Do mesmo jeito que ela disse que vai me proteger, também quero protegê-la.@
+` É por isso que vou voltar lá para baixo imediatamente.@
+br
+` Até mesmo a Arcueid deve ter uma abertura quando estiver lutando com a Ciel.@
+` Nesse caso,
+` vou dar tudo de mim.
+\
+`"…… Cuido de você mais tarde.@ Está me ouvindo, Roa?"@
+br
+` Converso sozinho enquanto olho para a lua.@
+` [line=4]Depois de afastar a Arcueid.@
+` Vou ter que andar em uma corda bamba, com uma chance de sucesso muito baixa.
+\
+` Não há garantia de que vou sobreviver.@ E eu nem sei se "esse método" vai funcionar.@
+` Mas não há mais nada a fazer.@
+br
+` [line=4]Se você tem esse poder.@
+br
+` Alguém me disse isso muito tempo atrás; que existe um motivo para eu ter esse poder e que chegaria o dia em que precisaria usá-lo.
+\
+`"…… Provavelmente esse é o meu dever, Sensei."@
+` …… Estou preparado.@
+` Agora só preciso descobrir como pegar a Arcueid[line=3]
+quakex 6,100
+\
+`"[line=3]!?"@
+` O prédio treme.@
+` Uma batida muito forte.@
+` Parece até que um caminhão de lixo bateu no prédio com velocidade total.
+\
+`"[line=4]Sem chance."@
+` O prédio ainda está tremendo.@
+` Não passou nem um minuto desde que a Ciel falou que a Arcueid havia terminado de se curar.@
+` Do parque até aqui[line=4]uma distância dessas.@
+` Ela chegou aqui tão rápido assim[line=4]!?
+\
+` …… Que diferença.@
+` Essa seriedade é completamente diferente da Arcueid que conheço.
+\
+`"[line=6]Senpai!"@
+` Não posso ficar me preocupando em atacar alguma abertura nela agora.@
+` Sem pensar, corro com todas as minhas forças.
+\
+bg #000000,tcartain,800
+!w1000
+play "*6"
+br
+` [line=4]É um[line=3]pesadelo.@
+br
+` A Ciel e a Arcueid estão no corredor.@
+` Na realidade, é só o que tem nele.@
+` Apenas elas, mas minhas pernas congelam.@
+` Esse ar.@
+` O ar não está normal.@
+` Tudo.@
+` Tudo está diferente, está difícil de respirar já que todo o lugar está preenchido com a vontade vampírica da Arcueid, é como se eu estivesse dentro de um ser vivo.
+\
+br
+` No meio disso tudo, a luta entre a Ciel e a Arcueid termina muito fácil e unilateralmente.
+\
+bg "event/cel_e08",crossfade,400
+`"[line=4]Sen[line=2]pai."@
+` Está longe.@ À uma distância que aparentemente é infinita, a Ciel quase é morta.@
+` …… Ela está quase morta, e parece que não vê mais nada além da Arcueid.
+\
+` …… O braço da Arcueid está no peito da Ciel.@ Com um som doentio, ela tenta arrancar o coração da Ciel.@
+br
+` Já chega.
+\
+` Mesmo ela dizendo que não vai morrer[line=4]arrancar seu coração enquanto ainda está viva é absurdo demais.
+\
+`"Para…………!"@
+` A Arcueid se vira.@
+` Ela me olha como se eu fosse um inseto.@
+br
+wave se_01
+`"[line=6]Ah."@
+` Apenas isso já me faz esquecer que estou vivo.
+\
+`"Ah, você está aqui também?@ Espera aí, já estou terminando com ela."@
+` Dizendo isso, a Arcueid destrói a Ciel.@ Ela agarra o seu pescoço e repetidamente rasga o seu corpo com o outro braço.
+\
+`"Bem teimosa, hein!@ Acho que não dá para te matar antes de matar o Roa, né, Ciel."@
+` Slash.@ Splat.@
+` Reviver para morrer logo em seguida.@ Um ciclo que ela diz ter experimentado diversas vezes na Igreja.
+\
+`"Se eu absorver o Roa, você continuará viva até que eu morra.@
+` Para você morrer, precisaria matar o Roa com a Santa Espada de Impugnação à Reencarnação preparada pela Igreja."@
+`"…… E…… Daí?"@
+` Semiconsciente, a Ciel responde.
+\
+`"Está tudo bem para você?@ A morte do Roa significa a sua própria morte.@ Se destruir o Roa, seu corpo voltará a ser o corpo normal e sem graça de um ser humano."@
+`"…… Isso é…… O que eu…… Desejo."@
+`"Sei.@ Que pena.@ Seu desejo não será concedido.@ Dessa vez, com certeza eu vou pegar o Roa de volta.@
+` E vou fazer isso cortando aquele pedaço de carne que está logo ali centenas e centenas de vezes……!"@
+bg #000000,crossfade,400
+bg "bg/ima_12b",crossfade,400
+\
+`"[line=6]!"@
+` O corpo da Ciel convulsiona.@
+` A Arcueid arranca o coração dela.@
+` Mesmo assim, a Ciel revive e tosse sangue.
+\
+`"[line=6]Arc…"@
+` Algo estala.@
+` Minha dor de cabeça fica pior.@
+` Eu me sinto péssimo.@
+bg "event/ark_e06b",notrans,0
+wait 100
+bg "bg/cmo_07",notrans,0
+wait 100
+bg "bg/cmo_09",notrans,0
+wait 100
+bg "event/ark_e06a",notrans,0
+wait 100
+bg "bg/bg_10c",notrans,0
+`"Cala a merda dessa boca[line=4]!"@
+` Bato a cabeça na parede.
+\
+br
+` Olhe.@
+` Isso não é hora de dar atenção a ele.@
+` Não posso deixá-la encostar nem mais um dedo na Ciel.
+\
+br
+` Olhe.@
+` Dê ao seu cérebro uma tensão que poderia estourar seus vasos sanguíneos e olhe.@
+` Olhe.@ Olhe.@ Olhe.@
+` Olhe para a "morte" que mataria aquela vampira[line=4]
+bg "bg/bg_10f",crossfade,800
+br
+`"Por quê[line=4]!?"@
+` Eu quase enlouqueço.@
+` Eu vejo a morte de animais.@ A morte de plantas.@ Consigo ver até a morte do ar na minha frente.@ Mas a Arcueid não possui nada que possa causar a sua morte.
+\
+` …… Alguém me disse que os Ancestrais Originais eram uma forma de vida perfeita apenas por estarem neste mundo.@
+` Eles são uma extensão da natureza, por isso podem tirar o quanto de energia que quiserem da sua fonte chamada Planeta Terra.@
+` É por isso que não morrem.@ Eles não possuem limites.
+\
+`"Ah[line=4]"@
+` Então isso significa que…
+` Eles são perfeitos apenas neste mundo.
+\
+playstop
+waveloop se_02
+` [line=4]Procure, Shiki.@
+` Precisa existir.
+\
+` Se eu consigo ver a morte de tudo, o "ponto" precisa existir em algum lugar.
+\
+` Eu estava enganado.@
+` Não existem causas de morte no corpo da Arcueid.@
+` Nesse caso[line=4]primeiro tenho que destruir o que faz ela ser assim[line=4]
+br
+` Encontrei.@
+` Está longe, mas não posso permitir que isso continue.
+\
+`"Arcueid[line=4]!"@
+ld c,"tachi/ark_t23",crossfade,400
+` Sua mão para.@
+`"Siga-me.@ Vou te matar ali fora."@
+` Dizendo isso, pulo da janela e caio no pátio.
+\
+bg #000000,lcartain,400
+bg "bg/bg_02b",lcartain,400
+br
+` [line=4]Bem no meio do pátio.@
+` Está longe.@ Será que consigo chegar lá?@
+` A Arcueid me persegue com passos leves.@
+br
+` Está longe.@ Está longe, mas vou atacar primeiro dessa vez[line=4]
+\
+bg #000000,lshutter,400
+bg "bg/bg_02b",lshutter,400
+`"Ah[line=4]"@
+` Chego no meio do pátio.@
+` A Arcueid está logo atrás de mim.@
+br
+` Antes de qualquer coisa,
+` tiro a minha faca e perfuro o "ponto" enorme que está no chão aos meus pés.@ A "morte" do próprio mundo ao meu redor.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_02b",notrans,0
+wait 100
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_02b",notrans,0
+quakey 1,300
+` Uma distorção.@
+bg "bg/bg_02a",crossfade,1500
+wavestop
+` Com isso, está acabado.@
+` Tudo nesta região… Eu "matei" a natureza da qual a Arcueid retira todo o seu poder.
+\
+`"[line=4]Ótima ideia, Shiki!"@
+` Ela vem na minha direção.@
+` Agora o seu corpo está cheio de morte.@
+`"Muito bem[line=6]!"
+\
+` Posso fazer isso.@
+` Posso matar a Arcueid desse jeito[line=4]mas antes de confirmar a minha vitória.
+\
+`"Go[line=6]ugh."@
+` O sangue jorra da minha boca.@
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+br
+`"Hã……?"@
+` …… Provavelmente porque seus movimentos foram muito rápidos.@ Simplesmente não posso acreditar, e nem sinto dor, choque ou qualquer outra coisa.@
+bg "bg/ima_13b",crossfade,400
+` O som de cortes finalmente chega aos meus ouvidos.@ O som do sangue jorrando.@
+` Olho para baixo,
+` as garras da Arcueid perfuraram meu peito antes que eu pudesse perceber.
+\
+bg "bg/bg_02a",crossfade,1500
+play "*9"
+`"[line=8]Ah."@
+` Sinto uma fraqueza tremenda.@
+` Tudo começa a desaparecer rapidamente.@
+` Seu braço entrou no meu peito, me empalando.@
+br
+` Esse…
+` Esse ferimento é fatal para um ser humano comum.
+\
+`"Ha[line=6]"@
+` Mas ainda não vou morrer.@
+` Do jeito que estou agora, ainda sou capaz de viver mais um pouco.@
+` …… A sombra da morte, negra como piche, começa a se rastejar dos meus tornozelos para cima.
+\
+`"Ah……………… ah."@
+` Não me importo.@
+` Engulo o sangue jorrando da minha boca à força e corto a "linha" no peito dela com uma mão.@
+wave se_10
+\
+`"Gh………!"@
+` A voz[line=4]da Arcueid.@
+` Mal[line=4]posso ouvi-la.@
+` Minha consciência[line=4]está desaparecendo.@
+` Essa dor é por causa das garras da Arcueid penetrando o meu peito?@ Ou é porque o meu cérebro está prestes a explodir por ter se esforçado até o seu limite?@
+br
+` …… Bem, qualquer que seja, não muda o fato de que a minha morte está próxima.
+\
+` Minha consciência vai desaparecer completamente.@
+` Mas antes disso[line=4]tenho que cortar a linha dela com esta faca.
+\
+`"…… Desapareça, vampira[line=4]!"@
+`"Não seja tolo, não vou morrer com uma coisa dessas!"@
+` Suas mãos agarram a minha cabeça.@
+` Mais rápido do que as mãos da Arcueid tentando esmagar a minha cabeça, passo minha faca na coxa dela.@
+wave se_12
+\
+`"Desapareça……!@ Eu vou cuidar do Roa sozinho.@ Vou matá-lo sem a sua ajuda.@
+` Então desapareça.@ Não quero brigar com você……!"@
+`"O que está dizendo[line=4]foi você quem me recusou!"@
+br
+` Seu aperto fica mais forte.@
+` Ouço o som do meu crânio trincando.
+\
+`"Vou matar o Roa aqui mesmo.@ Eu te falei que não iria embora enquanto não fizesse isso!"@
+`"Sua[line=3]sua mulher estúpida[line=4]!"@
+` Balanço a minha faca novamente.@
+` E corto o seu braço fora.@
+` Ele cai no chão.
+\
+` A Arcueid cambaleia para trás.@
+` Assim que vejo essa cena, desmorono no chão.@
+br
+` Como uma marionete que tem seus barbantes cortados, caio de bunda no chão.
+\
+ld c,"tachi/ark_t18",crossfade,800
+`"Shi[line=4]ki[line=4]"@
+` …… Ouço a voz um pouco hesitante da Arcueid.@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_02a",notrans,0
+`"[line=8]"@
+` Não consigo[line=3]falar direito.@
+` *cof*
+` A única coisa que sai de minha garganta quando a mexo é sangue.
+\
+`"Shi[line=4]ki."@
+` …… Desaparecendo.@
+` A pressão e a aura assassina que a Arcueid exercia está desaparecendo.@
+` É por causa dos seus ferimentos?@ Ou é porque os ferimentos que ela me fez são tão terríveis?@
+br
+` Ela está voltando a ser a Arcueid que eu conhecia.
+\
+`"[line=5]Que[line=4]alívio."@
+` Não sei o que há de tão bom nisso.@
+` Mas eu.
+\
+`"Aguenta firme, Shiki……!@ Se você se tornar meu, esse ferimento não será nada……!"@
+` Ela chega perto de mim.@
+`"[line=6]"@
+` Com a mente nebulosa,
+` levanto a mão e impeço-a.
+\
+`"Por quê……?@ Shiki, desse jeito você vai morrer, sabia!?@ Olha[line=4]eu vou te perdoar pelo que aconteceu e não vou me importar com a Ciel também.@
+` E-eu não quero que você morra, Shiki……!@ Por isso[line=4]por favor, por favor, seja meu……!"@
+` De um lado para o outro.@
+` Mal conseguindo respirar, balanço minha cabeça, dizendo não.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"…… Não te entendo.@ Se você morrer, o Roa simplesmente vai reencarnar.@ Você também odeia ele, não é?@ Se você morrer desse jeito, ele simplesmente vai assumir o comando do seu corpo."@
+`"[line=10]"@
+` …… Ah, verdade.@ Não posso deixar isso acontecer.
+\
+` Mas se eu simplesmente fizer o que a Arcueid quer, acho que vai acontecer a mesma coisa.@
+` Ainda que ela sugue o meu sangue, igual ao que aconteceu com o Roa, e eu ganhar a força de vontade para vencê-lo…
+br
+` …… No final das contas, o Roa não vai desaparecer por vontade própria a menos que a Arcueid passe a reconhecê-lo.
+\
+`"…… Não.@ Não posso fazer o que você quer."@
+`"Por quê?@ Você realmente[line=4]realmente me odeia tanto assim, Shiki?"@
+br
+` …… Não seja louca.@ Mesmo como uma mentira, não posso dizer[line=4]
+br
+`"…… Por favor.@ Sei como você se sente, mas perdoe-o.@ O Roa só queria que você gostasse dele.@ E para isso, reencarnou várias vezes, e sempre ficava ansioso pela sua chegada em cada uma dessas vezes.@
+` ……  Mas ele é um ser humano.@ Ele não é uma existência que pode viver por centenas de anos como você."@
+` …… Sim, a imortalidade é um conceito muito distante para os seres humanos.@
+` O Roa acreditou que o seu método de reencarnação faria com que ele existisse eternamente.@
+br
+` Mas até mesmo isso teve seu limite.@
+` Porque esse método foi o mesmo que criar "descendentes" que compartilhavam o mesmo passado e os mesmos objetivos, mas não criava outro "eu" para ele.
+\
+`"…… O Roa já se foi faz muito tempo.@ Ele simplesmente é uma existência que sempre repete a mesma coisa por causa do seu passado.@
+` [line=4]Portanto, tenho que acabar com isso para ele."@
+ld c,"tachi/ark_t13",crossfade,400
+`"Shiki[line=3]você já…"@
+` …… A razão retorna aos olhos da Arcueid.@
+` O carmesim vívido dos seus olhos enfraquece para um simples vermelho.@
+` Seus cabelos dourados esvoaçam sob o luar.
+\
+` Essa é a Arcueid que eu gosto.
+\
+bg "bg/ima_18",crossfade,800
+` Olho para ela como se fitasse a lua.@
+` …… Desculpa, Ciel.@ Não tem como negar que ela é linda.@
+br
+` Esses olhos vermelhos firmes, porém amigáveis; suas curvas esbeltas, até o corte que acabei de fazer no seu peito e que está jorrando sangue.@
+br
+` Tudo nela[line=2]ela realmente é[line=4]a Arcueid realmente é muito linda.
+\
+` Por isso que é um infortúnio.@
+` O meu peito aperta com a ideia de que toda essa beleza precisa ser destruída.@
+br
+` …… Que droga.@ Se a Arcueid tivesse voltado ao normal um pouco mais rápido, nada disso teria que acontecer.
+\
+bg "bg/bg_02a",crossfade,800
+ld c,"tachi/ark_t13",crossfade,400
+`"Entendi, Shiki.@ Você…… Já se tornou um só com o Roa?"@
+`"…………"@
+` Eu não sei.@
+` É só que[line=4]tudo isso foi demais.@
+` Nesse momento, enquanto falo, minhas memórias estão desaparecendo.@
+` A Ciel tinha falado sobre isso.@
+` Que se eu me esforçasse demais para ver algo que não deveria ser visto, meus vasos sanguíneos estourariam e eu enlouqueceria.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Shiki, seu idiota.@ Quer dizer que vai deixar a Ciel te matar?"@
+`"[line=4]É claro que não.@ Mas graças a você já estou nesse estado.@ Provavelmente não vou conseguir aguentar por muito mais tempo."@
+`"………………"@
+` A Arcueid olha para o seu próprio corpo.@
+` Seu peito e o corte enorme feito pela minha faca.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Não posso acreditar nisso.@ Até agora, nunca havia me encontrado com alguém que pudesse me machucar tanto assim."@
+` Há uma pontinha de ressentimento e tristeza em sua voz.
+\
+`"…… Realmente, está muito ruim.@ Parece que estou no meu limite também.@ Preciso voltar rapidamente para o meu castelo e curar esse ferimento."@
+`"[line=4]Certo.@ Então você devia ir embora logo."@
+cl c,crossfade,400
+`"………………"@
+` Ela não responde.@
+` Provavelmente não foi nem uma breve pausa.@
+` Só que, naquele instante,
+` eu provavelmente quis valorizar o último momento antes de nos separarmos.
+\
+ld c,"tachi/ark_t01a",crossfade,800
+` A Arcueid suspira, atônita.@
+`"Você é um cara tão mau.@ Você diz coisas maldosas até no fim.@ Mas quer saber de uma coisa?"@
+ld c,"tachi/ark_t09",crossfade,800
+br
+`"Eu gostava disso em você, Shiki."
+\
+cl c,crossfade,1500
+` Dizendo isso,
+` sorrindo até o final, seu corpo desaparece como se fosse névoa.
+\
+bg "bg/ima_18",crossfade,800
+`"Entendo[line=4]quer dizer que, no final das contas, pensávamos a mesma coisa."@
+` Pensando em voz alta, olho para a lua.@
+` No final de tudo, por apenas um breve momento, voltamos àquele relacionamento que tínhamos quando nos unimos pela primeira vez.
+\
+`"[line=5]!"@
+` Eu gostei dela de verdade.@
+` Esse sentimento nunca teve nada a ver com o Roa que está dentro de mim.@
+` O fato é que[line=4]ela me atraía.@
+` É por isso que é muito doloroso nos separarmos assim, logo depois de termos brigado feio.@
+br
+` Por que teve que acabar assim?@
+` O nosso relacionamento[line=4]não acho que cometemos tantos erros assim.
+\
+bg #000000,crossfade,800
+bg "bg/bg_02a",crossfade,800
+`"Gh[line=4]ho."@
+` O sangue não para de sair.@
+` Tento respirar, mas o sangue não para de jorrar da minha boca.@
+bg #ffffff,crossfade,400
+bg "bg/bg_02a",crossfade,400
+` …… Estou[line=3]quase morto.@
+` A Arcueid devia ter pegado mais leve comigo.@
+` Com um buraco tão grande assim no meu peito, nem um meio-vampiro como eu pode ser salvo.
+\
+bg #000000,crossfade,400
+bg "bg/bg_02a",crossfade,400
+`"[line=6]Tss."@
+` Tum.@
+` Não foi o meu coração.@ As batidas do meu coração já pararam há muito tempo.@
+` A única pulsação que resta está na minha cabeça.
+\
+` Provavelmente é porque me esforcei demais para fazer a Arcueid voltar ao normal.@
+` Eu[line=4]Tohno Shiki, começo a desaparecer, e o Roa fica mais forte.
+\
+bg #000000,crossfade,400
+bg "bg/bg_02a",crossfade,400
+` …… Meu corpo[line=4]está quase que completamente morto.@
+` Depois que eu morrer, o Roa vai assumir o controle do meu corpo.@
+` Mesmo que eu não consiga, o Roa vai encontrar um meio para se curar.@
+br
+` Se isso acontecer[line=4]eu estaria cometendo o mesmo erro que a Ciel.
+\
+bg #000000,crossfade,400
+bg "bg/bg_02a",crossfade,400
+`"[line=4]Desculpa."@
+` É tudo que posso dizer.@
+` Tu, dum.@
+` Eu[line=4]não consigo[line=4]manter[line=4]a consciência.@
+` Antes que isso aconteça[line=4]olho para mim mesmo.@
+` O "ponto" está na minha cicatriz.@
+` O "ponto" da minha morte, da morte do Roa.
+\
+br
+br
+br
+br
+br
+` [line=4]Tohno-kun, não foi você quem falou?@ Que iria me fazer feliz?@
+` Então eu imploro, por favor, não morra aqui.@
+!w1000
+\
+`"[line=8]"@
+` É por isso que[line=3]tudo que posso fazer é me desculpar.@
+` Sei que não posso pedir por perdão.
+\
+bg #000000,crossfade,400
+bg "bg/bg_02a",crossfade,400
+` Mesmo eu querendo fazer tanto, acaba que não vou ser capaz de fazer nada por ela.@
+` Então, pelo menos no final.@
+` Devo libertá-la do seu destino cruel.
+\
+` [line=6]*suspiro*@
+` Respirando profundamente, coloco a faca no meu peito.@
+` A ponta da faca está em cima do "ponto".@
+` Tudo que resta fazer é empurrá-la.@
+` Só isso.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Pare.
+\
+bg "bg/bg_02a",crossfade,400
+` …… Ouço uma voz.@
+` Só pode ser uma alucinação.@
+br
+` ………… Tohno-kun…………!@
+br
+` Uma voz grita do prédio da escola.@
+` Olhando para cima, vejo uma Ciel completamente curada correndo em minha direção.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=9]Pare com isso.
+\
+bg "bg/bg_02a",crossfade,400
+`"………………"@
+` …… Se eu ver o rosto dela, vou perder minha determinação.@
+` Provavelmente vou sentir pena e não vou conseguir terminar o trabalho.@
+` É por isso que[line=4]tenho que fazer antes que ela chegue aqui.
+\
+` Aperto a faca com mais força.@
+` A faca desliza silenciosamente para dentro do meu corpo.@
+` Simples assim.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Par[line=4]
+\
+` A voz desaparece.@
+` Um livro velho.@
+` Pensei ter visto uma ilusão dele, desaparecendo página por página dentro da escuridão.
+\
+bg "bg/bg_02a",crossfade,400
+` Com isso.@
+` Eu caí na mesma escuridão profunda que caí muitos anos atrás.
+\
+bg #000000,crossfade,1500
+` Tohno-kun, Tohno-kun……!
+\
+br
+` [line=4]Ouço[line=4]uma voz.
+\
+br
+br
+br
+` Tohno-kun…… Por quê……!?
+\
+br
+br
+br
+br
+br
+` [line=4]Viu?@ Assim como imaginei.
+\
+br
+br
+br
+br
+br
+` …… Não.@ Eu não quero isso……!
+\
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Se eu ouvir essa voz chorando…
+\
+br
+br
+br
+br
+br
+br
+` Por quê……!?@ Você disse que não iria morrer……!
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Eu sabia que ia me arrepender[line=4]
+playstop
+\
+!w3000
+phase #000000,l,cel,13a,epi
+bg #000000,notrans,0
+!w3000
+wave se_01
+!w3000
+wave se_01
+!w2000
+wave se_01
+!w2000
+wave se_01
+!w1000
+wave se_01
+!w1000
+wave se_01
+!w1000
+wave se_01
+!w500
+wave se_01
+!w500
+wave se_01
+!w500
+wave se_01
+!w500
+wave se_01
+bg "bg/bg_51",crossfade,800
+bg #ffffff,notrans,0
+bg "bg/bg_51",crossfade,800
+waveloop se_11
+br
+br
+br
+br
+br
+` [line=5]Estou em
+`     um quarto de hospital[line=2]que me parece nostálgico.
+\
+`"……………… Ah."@
+` Deixo escapar um suspiro.@
+`"………… Estou vivo."@
+` Meu peito se mexe para cima e para baixo conforme respiro.@
+` Uma brisa confortável sopra pela janela aberta.@
+` As cortinas amarelas esvoaçam divertidamente ao vento.@
+` O céu azul e limpo é o suficiente para tirar o meu fôlego.@
+` O ar está quente, como em um dia de primavera.
+\
+`"Eu estou…… Vivo."@
+` Olho ao redor enquanto falo sozinho, admirado.@
+` Não há mais ninguém nesse quarto espaçoso.@
+` Estou deitado na cama com uma intravenosa no meu braço direito.@
+` Tem um curativo enorme no meu peito[line=4]
+\
+`"………… O que é isso?"@
+br
+` Tiro a intravenosa e removo o curativo.@
+` Não há nada debaixo do curativo.
+\
+` Só o meu peito.@
+` Ter um curativo no peito significa que há um ferimento lá, mas há vestígios de nada.
+\
+` …… Inclino a cabeça para o lado, tentando entender a razão daquilo.@
+` Será que fiz alguma coisa que feriu o meu peito?@
+bg #ffffff,crossfade,400
+ld c,"tachi/siki_t01",crossfade,400
+bg "bg/bg_51",crossfade,400
+`"[line=5]"@
+` Olho para a porta aberta.@
+` Tem uma criança desconhecida no corredor vazio e ela está olhando para dentro do meu quarto.@
+`"………………"@
+` A criança vai embora antes que eu possa chamá-la.@
+br
+` [line=6]O que foi isso?@
+br
+`"[line=5]Alguma coisa."@
+` Sinto que[line=4]esqueci de alguma coisa.
+\
+wave se_04
+`"Tohno, estou entrando."@
+` O Arihiko bate na porta e entra no quarto.
+\
+play "*3"
+ld c,"tachi/ari_t01",lshutter,400
+`"E aí, acordou?@ Bom, muito bom.@ Não conversamos nada ontem, mas agora você parece bem melhor."@
+` Ele vem até a cama todo feliz.
+\
+`"…… Arihiko.@ O que você está fazendo aqui?"@
+`"Hein?@ Como assim?@ Vim ver se você tava legal.@ Você que me pediu isso ontem.@ Ainda deve estar transtornado, né!"@
+`"Veio ver se eu estava legal?[line=4]Eu?"@
+ld c,"tachi/ari_t03",crossfade,400
+`"Tenho certeza de que a sua cabeça não está muito boa depois de ter ficado dormindo por dois meses, mas não fica me perguntando as mesmas coisas que perguntou ontem.@ É do seu corpo que estamos falando, o médico não te falou nada sobre isso?"@
+cl c,crossfade,400
+` Dizendo isso, o Arihiko senta na cadeira mais próxima.
+\
+`"……………… Hein?"@
+` Fico mais confuso ainda e seguro a minha cabeça.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Ah, o médico não falou nada?@ Você já está aqui há muito tempo, entendeu!?"@
+`"…… Sim.@ Essa parte eu entendi, mas……"@
+`"…… Humm.@ O médico falou que talvez você ficasse confuso com o que está acontecendo.@
+` Bem, acho que não tenho escolha… Vai ser melhor você ouvir isso de um amigo do que de um médico."@
+` Cruzando os braços e fazendo um gesto afirmativo com a cabeça, ele me olha direto nos olhos.
+\
+`"Há dois meses você foi encontrado desmaiado no pátio da escola."@
+`"……… No pátio………?"@
+br
+` [line=4]Por quê?@
+` Agora que ele mencionou isso, sinto que sei de alguma coisa.@
+br
+`"Parece que o pessoal do clube de atletismo te encontrou durante o treino matinal.@ Eles começam o treino por volta das cinco da manhã, por isso disseram que você deve ter desmaiado lá durante a noite.@ Então, qual é a verdade?"
+\
+`"Hum[line=4]não faço ideia.@ Você disse que eu estava desmaiado no pátio da escola, mas raramente vou lá."@
+`"Sei.@ Enfim, eles te encontraram inconsciente no chão.@ Como você não estava machucado nem sangrando, eles resolveram te levar para a enfermaria, pois pensaram que tinha sofrido um ataque anêmico.@ Mas no final das contas, você nunca que acordava.@
+` Foi aí que resolvemos ligar para a sua casa e o seu pessoal te trouxe para este hospital.@
+` Você esteve em coma por cerca de dois meses."
+\
+` O Arihiko me conta uma história incrível.
+\
+`"Em coma por dois meses[line=4]geralmente isso seria um sinal de que…"@
+`"Pois é, até o médico parecia ter perdido as esperanças.@ Ficar em coma por até mesmo uma única semana significa que você virou um vegetal.@ Só que ontem, do nada, você simplesmente acordou e disse "E aí, Arihiko".@ Pensei que meu coração fosse parar.@ Ahahaha!"@
+` Ele ri com vontade.
+\
+`"Você sempre foi do tipo que poderia cair morto a qualquer momento.@ Então, como eu já estava pensando que você ficaria daquele jeito para sempre, o seu despertar me surpreendeu mais ainda."@
+`"…… Arihiko.@ Eu estou numa situação dessas e você ainda diz essas coisas maldosas!"
+\
+`"Tá tudo bem, você tá curado.@ Mas foi uma época incrível enquanto você era um vegetal.@
+` Mesmo que dissessem que não havia nenhum esperança que você acordasse, a Akiha-chan veio te visitar todos os dias.@ E como a Senpai vinha também, foi bem difícil estar aqui."@
+` Ele dá uma risada maliciosa.@
+` …… Calma aí, espera um pouco.
+\
+`"Espera aí, Arihiko.@ Que negócio é esse de 'Akiha-chan'?"@
+`"A Akiha-chan é a Akiha-chan, ué!@ É a sua irmãzinha, poxa!@ E toda vez que nos encontramos aqui, ficamos cada vez mais íntimos."@
+`"…… Akiha…… Então ela veio me visitar."@
+` …… Ouvindo isso, me lembro da Akiha.
+\
+` É como o Arihiko disse, minha cabeça não deve estar boa ainda.@ É como se tivesse esquecido de tudo do lado de fora deste quarto de hospital.@
+` …… Bem, acho que vou me lembrando conforme ele me conta, não preciso ficar preocupado com isso.@ Só sei que estou me sentindo muito leve e com a sensação de que tem algo de estranho.
+\
+`"…… Você conheceu a Akiha?@ …… Desculpa, Arihiko.@ Ela tem uma personalidade difícil, né?@ Às vezes ela diz algumas coisas duras de se ouvir, mas não julgue-a por essas coisas bobas."@
+ld c,"tachi/ari_t05",crossfade,400
+`"'Personalidade difícil'!?@ 'Às vezes'!?@ Você é incrível, Tohno.@ Nunca pensei que você fosse um cara tão legal até esse exato momento!"@
+` Sentado na cadeira com os braços ainda cruzados, ele ri alto.
+\
+` O Arihiko está do jeito que sempre foi.@
+` Para ser sincero, não faço ideia do que aconteceu comigo, mas a sua fonte infinita de alegria me acalma muito.@
+` [line=5]*suspiro*@
+` Eu me encosto na cabeceira da cama e respiro profundamente.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Ah, já tá na hora do seu exame.@ Até depois.@ Eu ia trazer a Senpai junto, mas ela disse que não ia vir porque sabia que iria te encontrar na escola."@
+`"Hã…… A Sen[line=3]pai?"
+\
+`"Sim.@ Nós nos revezamos pra vir te visitar.@ Ontem você acordou e abraçou ela na mesma hora, aí ela ficou meio nervosa e disse que não ia mais voltar aqui.@ Ela estava bem brava, pode ir arrumando uma desculpa muito boa pra quando se encontrar com ela."@
+cl c,lshutter,800
+` Dizendo isso, ele sai o quarto.
+\
+`"………… Senpai?"@
+` Não consigo[line=4]me lembrar direito.@
+` Para mim, só existe uma pessoa que chamo de Senpai.@
+` O nome dessa pessoa, o rosto, a personalidade, conheço isso tudo.@
+br
+` Então, por quê?@
+` Por que sinto que não deveria pensar mais a respeito dessa Senpai?
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_51",notrans,0
+` Estou muito leve.@
+` Provavelmente é porque estive dormindo por dois meses e meu corpo nem se mexe.@
+` Sinto como se[line=4]estivesse faltando alguma coisa.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_51",notrans,0
+` [line=4]Pensando bem, tem mais uma coisa estranha aqui.@
+` Eu me lembro de já ter visto este quarto de hospital antes.@
+` Mas, se não me falha a memória,
+` aquele quarto de hospital de oito anos atrás não deve nem existir mais[line=7]
+\
+bg #000000,crossfade,1500
+play "*2"
+bg "bg/bg_32a",crossfade,1500
+` No dia seguinte, eu volto para a mansão.@
+` Provavelmente é porque estive adormecido por tanto tempo, mas parece que faz uma eternidade desde que estive de volta à minha própria casa.
+\
+bg "bg/bg_54a",crossfade,400
+bg "bg/bg_44a",crossfade,400
+`"………?"@
+` Antes de ir até a porta de entrada da mansão, faço uma caminhada pela floresta e me deparo com um lugar estranho.@
+`"………"@
+` …… Eu nunca soube.@
+` Nunca soube que havia uma edícula ao estilo japonês aqui.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_44a",notrans,0
+`"[line=6]!"@
+` Ouço um barulho atrás de mim.@
+` Eu me viro e vejo[line=4]
+ld c,"tachi/siki_t01",crossfade,800
+` um garoto parado ali.
+\
+`"[line=8]"@
+` …… Será que ele se perdeu?@
+` Ele está se destacando muito, é quase como se fosse um fantasma.@
+` Que coisa horrível.@
+` Essa cicatriz no peito dele, que está à mostra porque seu quimono está frouxo, é terrível[line=4]
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_44a",crossfade,400
+ld c,"tachi/koha_t03",crossfade,400
+`"Shiki-san, o que está fazendo?"@
+`"Hã[line=4]Kohaku[line=4]san?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Sim, vim recebê-lo.@ Estava te esperando na entrada, mas você veio para o jardim.@ Fiquei surpresa com isso."@
+` Como de costume, a Kohaku-san está com aquele sorriso alegre.
+\
+`"…… Eu estava caminhando um pouco.@ Kohaku-san, você sabe quem é aquele garoto?"@
+`"Hã?@ Um garoto?@ Do está falando?"@
+` Parece que ela não viu o garoto.@
+`"Deixa pra lá, se você não viu ele, não tem problema.@ Vamos voltar?@ A Akiha deve estar esperando."
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Sim, a Akiha-sama não disse nada, mas estava andando de um lado para o outro pelo saguão a manhã inteira.@ Tenho certeza que está ansiosa para te ver, Shiki-san."@
+`"[line=5]Ah.@ Então é melhor eu me apressar, senão ela vai ficar muito brava comigo."@
+ld c,"tachi/koha_t03",crossfade,400
+`"Então vamos indo, Shiki-san."@
+cl c,lshutter,800
+` A Kohaku-san pega a minha mão e corremos para a mansão.
+\
+` [line=4]Quando saímos,
+` sinto que alguém chama o meu nome e olho para trás, para a edícula ao estilo japonês.
+\
+ld c,"tachi/siki_t01",crossfade,800
+` …… Será que é uma ilusão?@
+` O garoto fica nos observando enquanto corremos em direção à mansão, como se quisesse dizer alguma coisa.
+\
+bg #000000,crossfade,800
+!w3000
+bg "bg/ima_03",crossfade,800
+` Ainda que algo esteja faltando, a vida de Tohno Shiki volta ao normal.@
+` Eu volto para a mansão, a Akiha me repreende, a Hisui me acorda de manhã, e depois de tomar o café da manhã que a Kohaku-san preparou, eu vou para a escola.@
+br
+` [line=4]Está faltando alguma coisa.@
+br
+` Incapaz de me lembrar o que é essa coisa que falta, eu chego na escola.
+\
+bg #000000,crossfade,800
+play "*3"
+bg "bg/bg_01a",crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+`"E aê, bom dia, Tohno.@ Já tá podendo vir para a escola?"@
+` O Arihiko me cumprimenta alegremente.@
+`"Você não tinha que ficar se recuperando por um tempo?@ Ah, tá, você veio para escola só por causa dela, né?"@
+` Ele dá uma risada maliciosa.
+\
+`"Já entendi tudo.@ Falta só um mês até a formatura.@ Isso significa que vocês poderão ficar juntos só mais um pouquinho."@
+br
+` ……?@
+`"…… Do que está falando?@ Ficar junto?@ De quem?"@
+`"Com quem!?@ É claro que estou falando da[line=4]"@
+` O Arihiko para de falar.@
+` Ouço passos rápidos.
+\
+` Sob o sol brilhante da manhã de primavera.@
+` Ofegante, ela aparece na minha frente.@
+ld r,"tachi/cel_t04",lshutter,400
+`"Bom dia.@ O tempo está ótimo hoje, não acha, Tohno-kun!?"@
+` Ela sorri como de costume.@
+`"[line=6]Sen[line=4]pai."@
+` Eu engasgo.@
+` É ela.@ Por que eu não conseguia me lembrar dela até agora?
+\
+ld r,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun?@ Hum… Eu disse bom dia…"@
+`"Ah[line=4]é mesmo, bom dia, Senpai."@
+` Respondo sem jeito.@
+` Ela parece um pouco confusa e inclina a cabeça para o lado.
+\
+ld r,"tachi/cel_t08",crossfade,400
+`"Céus.@ Você finalmente saiu do hospital mas não está nem um pouco animado.@ Eu estava tão ansiosa para vê-lo novamente."@
+`"Estava ansiosa……?"
+\
+` Por que não consigo me lembrar?
+\
+` Aconteceu alguma coisa?@
+` Sinto que algo muito importante aconteceu entre nós dois, mas não consigo me lembrar.@
+` Tudo que me lembro é que ela é uma veterana do terceiro ano que, por algum motivo, simpatizou comigo e com o Arihiko, e que também costumamos almoçar juntos.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_01a",notrans,0
+` …… Não consigo me lembrar.@
+` Não consigo me lembrar de mais nada.@ É como se tivesse esquecido de todo o resto porque era muito triste ou difícil, então meu cérebro se desfez das lembranças desnecessárias.
+\
+ld r,"tachi/cel_t08",crossfade,400
+`"Poxa vida, Tohno-kun, você se esqueceu da nossa promessa?" a Senpai me olha decepcionada.@
+br
+` [line=4]Promessa.@
+`    Promessa.@
+`   Uma promessa[line=4]importante[line=4]
+\
+ld r,"tachi/cel_t01a",crossfade,400
+`"Você prometeu para mim que nós três iríamos sair para nos divertir.@ Só que você desmaiou um dia antes disso acontecer e teve que ir para o hospital."@
+br
+` Parece que ela realmente estava ansiosa por uma coisa tão simples.@
+` Por isso não me importei com mais nada.
+\
+`"…… É mesmo.@ Claro, isso mesmo."@
+ld r,"tachi/cel_t04",crossfade,400
+`"Pois é.@ Vê se não se esqueça novamente, Tohno-kun."@
+ld l,"tachi/ari_t01",crossfade,400
+`"Pode esquecer sim, Tohno.@ Daí a Senpai e eu poderemos nos divertir sozinhos."@
+` …… O Arihiko repete as mesmas palavras que eu já tinha ouvido em algum momento no passado.
+\
+ld r,"tachi/cel_t10a",crossfade,400
+`"De jeito nenhum!@ Pode ser que não tenhamos a chance de fazer isso novamente, então dessa vez tem que ser nós três!"@
+` Ela parece brava, o que não é nem um pouco normal.@
+ld l,"tachi/ari_t03",crossfade,400
+`"I-isso não é verdade.@ Ainda somos estudantes, podemos fazer isso sempre que quisermos."
+\
+ld r,"tachi/cel_t12",crossfade,400
+`"Você e o Tohno-kun realmente vão ter tempo livre de sobra, mas eu vou estar muito ocupada a partir da primavera.@ A universidade que planejo frequentar é um pouco longe, não vai ser nada fácil ficar voltando aqui."@
+ld l,"tachi/ari_t01",crossfade,400
+`"Ah.@ É mesmo.@ Senpai, você[line=4]"@
+` O Arihiko para no meio da frase.@
+` Mas eu não faço ideia do que ela está falando.
+\
+ld r,"tachi/cel_t04",crossfade,400
+`"Depois que eu me formar, vou estudar fora do país.@ O meu sonho sempre foi me tornar uma confeiteira."@
+br
+` [line=4]Com um sorriso tão lindo,
+` a Senpai diz uma coisa absurda.@
+br
+`"…… Senpai.@ Quer dizer que você vai embora……?"
+\
+ld r,"tachi/cel_t03",crossfade,400
+`"Não, eu vou continuar aqui.@ A minha casa é aqui, não planejo me mudar para lá definitivamente.@ Eu também não posso deixar o meu pai sozinho.@
+` Mas é que a pessoa que vai me ensinar é muito rigorosa, por isso não vai dar para eu voltar por pelo menos uns três anos……"@
+br
+` [line=8]O quê?
+\
+`"É que sempre foi o meu sonho de infância.@ O lugar onde vou trabalhar e morar é onde vive um artífice do rei.@
+` Normalmente, apenas parentes têm permissão de trabalhar lá, mas ele me disse que tenho um grande talento e por isso vou poder ficar lá."@
+` Ela fala cheia de alegria, sobre um mundo que eu nem sabia que existia.@
+`"Ah[line=4]isso é… ótimo[line=4]mas."@
+br
+` [line=4]Ela vai ficar lá três anos… Por quê?
+\
+ld r,"tachi/cel_t02",crossfade,400
+`"Pois é.@ Três anos é muito tempo, mas você pode esperar, não pode, Tohno-kun?"@
+` Ela sorri disfarçadamente para esconder a vergonha.@
+ld r,"tachi/cel_t08",crossfade,400
+`"Ouça bem, Tohno-kun, não seja infiel só porque eu não vou estar por perto.@ Você tem uma tendência de se deixar levar com facilidade, por mim, eu te levaria comigo."@
+` Ela suspira.
+\
+`"Hã[line=4]Hein?"@
+ld r,"tachi/cel_t01a",crossfade,400
+`"Mas não tem jeito.@ Você ainda é um estudante, e seria impossível convencer a Akiha-san em um ano ou dois.@ Portanto vou confiar em você e deixá-lo por três anos."@
+` …… A Senpai declara isso ferozmente.@
+` O Arihiko escuta tudo isso com a boca arregalada.
+\
+ld r,"tachi/cel_t04",crossfade,400
+`"Sendo assim, essa pode ser a última vez que nós três poderemos nos divertir juntos.@ Então dessa vez, por favor, me ajudem a criar uma ótima lembrança."@
+` Ela parece muito feliz enquanto diz essas palavras.
+\
+wave se_01
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_01a",notrans,0
+br
+br
+br
+br
+br
+br
+` [line=6]Tu, dum.@
+`      Parece que[line=4]a cicatriz no meu peito está doendo.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+waveloop se_11
+`"Tohno-kun?@ Qual o problema?@ Por que está segurando o peito assim?@ Ainda está machucado?"@
+`"Ah[line=2]não, não é isso.@ Meu peito nunca esteve machucado, é só sua imaginação."@
+` Quando respondo, parece estranho.@
+` É como se algo estivesse inconsistente.
+\
+wave se_03
+!w3000
+` Toca o sinal da escola.@
+` A primeira aula vai começar.@
+`"Vamos nos encontrar de novo na hora do almoço, tá bom?"@
+` A Senpai corre na direção do prédio da escola.@
+br
+` Eu faço uma pergunta antes que ela se vá.@
+br
+`"[line=4]Senpai.@ Que tipo de pessoa é o seu pai?"
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Hã?@ Tohno-kun, você conhece ele, né?@ A minha família tem uma padaria na cidade vizinha e você já foi lá comprar.@
+` O meu pai até disse que achou você muito simpático."@
+` Ela parece feliz de verdade quando diz isso.
+\
+waveloop se_11
+`"[line=12]"@
+` …… Agora que ela mencionou, acho que isso aconteceu mesmo.@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_01a",crossfade,400
+` [line=4]Mas tem algo de errado aqui.@
+` Senpai.@ Não tem como o seu pai estar vivo.
+\
+playstop
+ld c,"tachi/cel_t07a",crossfade,400
+`"Tohno-kun?"@
+` Ela chama o meu nome.@
+` De repente, tudo fica frio.
+\
+`"Você percebeu, Tohno-kun?"@
+br
+` Ela me pergunta, muito triste.
+\
+`"[line=6]Sim, percebi."@
+` Digo isso enquanto as lágrimas enchem os meus olhos.@
+br
+` [line=4]Queria nunca ter percebido.@
+` Assim[line=4]eu poderia ter continuado vivendo feliz neste mundo onde ninguém se machuca.
+\
+`"Você é incrível.@ Normalmente, as pessoas nunca percebem.@ Elas sempre ignoram todas as inconsistências inconvenientes."@
+`"[line=4]Eu sei.@ Ainda que estivesse um pouco estranho, se eu estava feliz, deveria ter ignorado isso."
+\
+`"Exatamente.@ Por não ser capaz de mentir sobre isso, você realmente é honesto."@
+` …… A Senpai.@
+` A garota que se parece com a Senpai diz isso com uma tristeza enorme.
+\
+`"[line=9]"@
+` Fico muito arrependido e o remorso aperta o meu peito.@
+` Mas não tinha jeito.@
+` Minha vida escolar de antes.@
+` A Ciel-senpai que parecia viver nesta cidade.@
+` O Tohno Shiki que sobreviveu àquele ferimento sem nem uma cicatriz no peito.@
+` …… Esses dias semelhantes aos dias originais, sem um único momento de infelicidade.
+\
+!w1400
+` [line=4]Eu estava feliz demais para ser verdade.@
+br
+`   E eu sabia que não passava de um sonho.@
+wavestop
+bg "bg/ima_08",crossfade,1500
+ld c,"tachi/cel_t08",crossfade,400
+`"Céus, você é sempre assim, Tohno-kun.@ Mesmo tendo ignorado tantas coisas triviais, você percebeu a única coisa que realmente não queria ter percebido.@ Mas essa é uma das suas qualidades marcantes.@
+` Mas ainda assim[line=4]"@
+br
+` Ela me olha com pesar.@
+ld c,"tachi/cel_t07a",crossfade,400
+br
+`"Você deveria ter ignorado dessa vez."@
+cl c,crossfade,1500
+\
+` …… A Senpai desaparece.@
+` E o mundo também.@
+bg #000000,crossfade,1500
+` Desaparecem da mesma forma.
+\
+` [line=6]Tudo desaparece.@
+` O mundo volta a ser como deveria ser.@
+` Eu morri.@ Não, não teria nem visto aquele sonho se estivesse morto, então devo estar à beira da morte.@
+` Bem, de qualquer forma[line=4]é certo que devo estar bem próximo da "morte"
+\
+`"[line=7]"@
+` …… O mais estranho é que não estou com medo.@
+` Não importa se já estou morto, ou prestes a desaparecer, ou já tenha desaparecido.@
+` Nesse momento, aquela pessoa é mais importante para mim do que eu mesmo.
+\
+`"…………… Sen[line=4]pai."@
+` Aquela pessoa que estava sorrindo na minha frente até agora há pouco.@
+` A Ciel; que me contou esse conto de fadas alegremente.@
+` Sem dor ou sofrimento, uma vida completamente normal; uma história que ela desejava.@
+` Sem tristeza alguma, apenas uma vida muito comum em um mundo radiante.
+\
+` Para mim e para o Arihiko, era uma repetição entediante dos dias, sem nenhum valor.@
+` Essa coisa entediante.@ Essa coisa entediante era…@
+br
+`"[line=4]Para ela[line=2]era um sonho inalcançável."@
+` Pensando alto, eu fico muito triste.
+\
+` Eu acabei com a minha própria vida de forma egoísta.@
+` Não pensei muito sobre o que aconteceria depois.@
+` Se esse era o sonho dela, então não importasse o quão terrível eu ficasse ou o quão lamentável eu me tornasse,
+br
+` talvez eu devesse ter ficado ao seu lado, sendo ajudado por ela e protegendo-a.
+\
+monocro #fffff0
+bg "bg/bg_44a",crossfade,800
+play "*9"
+`"Esse é o desejo da pessoa chamada Ciel.@ Não é o seu desejo como Shiki, portanto você não deve se preocupar com isso, tá bem?"
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Hã?
+\
+`"Tohno Shiki fez o que pensou ser a melhor escolha.@ Você não precisa se preocupar com o que a Ciel quer.@ Se fizer isso, será sobrecarregado pelo sonho de alguém, como já aconteceu."
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Embora não haja mais ninguém aqui além de mim, eu ouço a voz de outra pessoa.
+\
+`"Claro.@ Você se acordou do sonho, por isso não há mais nada aqui além do Shiki.@
+` Entendo, você consegue pensar um pouco, Tohno Shiki."
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Então, você é.
+\
+`"Não.@ Não quero que tenha a impressão errada.@ O Roa já foi morto por você.@
+` Se o Roa ainda existisse, não haveria como você existir.@
+` Embora você já esteja morto."
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Eu[line=4]não estou entendendo.@
+` O que sou eu, neste instante?
+\
+`"Vejamos, talvez esteja prestes a se perder?@
+` A hora em que você esfaqueou a si mesmo e a hora em que você morreu.@ Acredito que esse seja o breve momento entre essas duas coisas."@
+br
+` Algo estala.@
+monocro off
+bg "bg/bg_51",notrans,0
+` Vejo uma projeção do familiar quarto de hospital.
+\
+`"Esse negócio chamado de sonho, não pode ser uma coisa completamente desconhecida.@ Qualquer história, é apenas uma extensão do que essa pessoa já sabe e conhece.@
+` O sonho que você teve possui uma certa verdade sobre a realidade.@
+` Tal como[line=4]"
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Tal como se tornar um vegetal sem consciência?
+\
+`"Sim, pelo menos isso é verdade.@
+` Depois de se esfaquear, você continuou sem acordar.@ Esse instante é apenas um pequeno intervalo entre os dois acontecimentos.@
+` Quando você despertar deste sonho[line=4]simplesmente estará em coma, sem nem ser capaz de sonhar."
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+br
+br
+br
+` [line=4]E o que vai acontecer com a Senpai?
+\
+`"Não sei.@ Mas você não deveria pensar mais em si mesmo do que em outras pessoas?@
+` Não vai ser ruim, apenas feche os olhos novamente.@
+` Dessa vez, tente não acordar.@
+` Se me ouvir[line=4]poderá voltar àquele sonho feliz."
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Não entendo.@ Quem é você?
+\
+`"Isso não importa.@ Se você acordar, não vai ser capaz nem de sonhar, vai se tornar apenas um 'saco de órgãos', sabia disso?@
+` Por isso é melhor mergulhar naquele sonho novamente.@
+` Você fez muito bem.@ Será uma pena para essa tal de Ciel, mas você e eu também tivemos uma péssima sorte.@
+` Então, acho que ao menos podemos viver em um sonho feliz, não concorda?"
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Quem é você?
+\
+`"…… Humm.@ Você mesmo já disse isso.@ Desde quando acordou daquele sonho, não há mais nada aqui além do Shiki.@
+` Então, eu devo ser[line=4]"@
+br
+!w1000
+ld c,"tachi/siki_t01",crossfade,400
+`"[line=4]provavelmente parecido com isso."
+\
+br
+` [line=3]Garo…… to……@
+br
+`"Ei, peça desculpas.@ Sou um ano mais velho que você, sabia!?@ O Tohno Shiki só tem oito anos, não é?@ Sendo assim, já existo por quase nove anos."@
+br
+` [line=4]Então você é……
+\
+`"Isso aí.@ Fui abandonado aqui até agora, mas já que você caiu no mesmo lugar, chamei por você.@
+` Mas não é como se fôssemos pessoas diferentes.@ Somos a mesma existência.@
+` Mesmo que tenha se esquecido, você é o Shiki que é a minha extensão.@ Mas no meu caso, sou a sua fundação, mas não sou o seu passado, por isso sou apenas lixo.@
+` Bem, é difícil falar sobre isso, então vamos simplesmente deixar esse assunto de lado."
+\
+` [line=5]Não entendo.@ Então o que é que esse lixo está querendo que eu faça?@
+br
+`"É o que venho dizendo.@ Estou te avisando para não acordar.@ Você, quero dizer, a realidade do Tohno Shiki não é nada além de passar o resto da vida em coma.@ Se você acordar para essa realidade, nem será capaz de sonhar mais.@ Mesmo que você possa controlar o seu corpo, o seu cérebro não funcionaria.
+\
+`"Resumindo: morte.@ Não é a morte da sua existência, mas sim a morte da sua vontade.@ Nessa situação…… Você não precisaria morrer, certo?@ Mesmo que acorde, você não poderá viver na realidade.@ Eu ficaria muito mais feliz se você apenas permanecesse aqui vivendo em um sonho sobre a realidade."@
+br
+` [line=4]…… Por que isso?@
+` Mesmo que eu durma para o resto da minha vida, ter um sonho egoísta não é nada divertido.
+\
+`"É verdade.@ Você pode acordar para a realidade e enfrentar a morte da sua vontade ou pode ficar aqui sonhando.@
+` Não importa a sua escolha, não há muita diferença entre as opções.@
+` Se você acordar para a realidade e morrer, não precisará se incomodar com isso aqui.@
+` Se chama isso de felicidade, provavelmente será dezenas de vezes mais feliz."@
+br
+` [line=4]O qu……
+\
+`"…… Mas eu quero que você fique sonhando.@ Temos o mesmo nome, mas os sonhos que vemos são diferentes.@
+` Geralmente, os meus sonhos são sobre aquele dia, ou sobre os dias que tive antes de completar nove anos de idade.@
+` Aquilo poderia ser chamado de felicidade, mas não existe um futuro para o Shiki lá.@
+` Coisas como envelhecer, se apaixonar e viver ocupado todos os dias."
+\
+`"A minha realidade, o meu conhecimento, o futuro que posso imaginar é tão pequeno e sem esperanças, que nem consigo pensar nessas coisas.@
+` Mas os seus sonhos eram diferentes.@ O que é normal para você, é excepcional para mim, mesmo que sejam apenas simples sonhos.@
+` …… Contudo, com meus anos limitados, não posso nem imaginar seus sonhos sozinho."
+\
+` [line=4]………
+\
+br
+`"Se você não consegue suportar o seu sonho egoísta, eu posso ajudar um pouco.@ Posso deixá-lo lembrar das outras coisas que esqueceu, coisas que aconteceram no passado.@ Se trabalharmos juntos para enganar um ao outro, poderemos viver em um sonho um pouco feliz."@
+br
+` [line=4]…………………
+\
+`"…… Parece que não gostou da ideia.@ Acho que é preciso acordar a partir do momento em que se percebe a verdade.@
+` Mas a sua realidade já acabou.@ Certamente sonhos não podem se comparar com a realidade.@
+` Mas mesmo assim[line=4]se tentar, acho que pode ao menos ser um pouco feliz, não é mesmo?"@
+br
+` [line=4]…… Não.@
+` Não seríamos os únicos felizes nessa situação, Shiki?
+\
+`"………… Idiota.@ É simples ser feliz sozinho.@ Se começar a pensar nos outros, fica muito mais difícil.@
+` Como resultado, é até difícil distinguir o certo do errado.@
+` E na verdade, nós não fizemos nada de errado.@ Mas olha só como acabamos!@
+` Veja bem, essa é a pessoa que você é, Shiki.@ Você sempre teve as coisas roubadas de você, por isso não deveria se preocupar em fazer os outros felizes."
+\
+br
+` [line=4]Isso pode até ser verdade.@
+` Mas, mesmo assim, eu prometi que não ia deixá-la sozinha.@
+` Se tudo que aconteceu antes, se tudo que acontece agora, se tudo isso é um sonho[line=6]eu preciso acordar.
+\
+`"Mesmo com a possibilidade de não ter nada se você acordar?"
+\
+` [line=4]Preciso voltar porque ela está me esperando.@
+` Ainda que signifique a minha morte[line=4]eu prometi que estaria lá, no local onde ela está me esperando.
+\
+`"…… Entendi.@ Então isso é um adeus.@ Não pude deixar você sozinho, por isso te dei uma mão.@ Mas, como já havia imaginado, você não precisa de mim agora.@
+` …… Foi bem divertido.@ Fui capaz de ver um ótimo sonho que poderia ter sido o meu futuro."@
+br
+` [line=4]O-o que está fazendo?@ Apertando a minha mão assim do nada.@ Você é muito estranho.
+\
+`"Ahaha, eu também me senti estranho.@ Mas não tive escolha, porque não posso te dar nada se não fizermos isso.@
+` Mesmo que sejamos uma só pessoa, como estamos tão separados assim, precisamos de uma imagem para nos 'fundir'.@ Bem, acho que é uma perda de tempo explicar, porque você se esqueceu até disso."
+\
+monocro #fffff0
+bg #000000,crossfade,400
+ld c,"tachi/siki_t01",crossfade,400
+` [line=4]Ei…… Você[line=3]você está desaparecendo.@
+br
+`"Você está começando a tomar forma.@
+` Já está na hora da nossa despedida.@ Vou esquecer de você, então por favor, esqueça de mim.@
+` Escute[line=4]não tem sentido voltar a ser o Shiki antes de se tornar o Tohno Shiki."@
+br
+` [line=4].
+\
+`"Ah, claro, quanto a ela.@ Também gosto dela.@ Por isso concordo que ela seja mais importante que você.@
+` E sendo esse o caso, nunca mais faça algo estúpido que a faça chorar, tá bom?"@
+cl c,crossfade,1500
+\
+` [line=4]E ele desaparece.@
+` Não, talvez 'morre' seja mais próximo do significado.@
+` …… Sinto uma dor estranha.@
+` Sinto falta de alguma coisa que não vou ser capaz de ter de volta.@
+br
+` Estou triste com alguma coisa.@
+` Mesmo tentando me lembrar,
+br
+` não tinha entendido muito bem que era apenas saudades.
+\
+`"………………"@
+` Recobro a consciência.@
+` Acordo do sonho de um instante.@
+` Se aquele sonho desaparecer e eu desaparecer,
+br
+` a única coisa que me aguarda é a morte.
+\
+playstop
+monocro off
+bg #ffffff,crossfade,1500
+!w2000
+play "*7"
+br
+br
+br
+br
+br
+br
+` [line=4]Sem rumo.@
+` A luz da manhã brilha.
+\
+` Minha mente está confusa.@
+` Ainda não consigo pensar em nada.@
+` Eu estou deitado.@
+` A minha cabeça[line=4]está em cima de algo macio.@
+br
+` [line=4]Que estranho.@
+` Eu já deveria ter acordado daquele sonho.
+\
+` Abro os olhos.@
+` E vejo[line=5]ela chorando.@
+bg "event/cel_f01b",crossfade,800
+\
+`"[line=9]"@
+` …… Apenas estendo a mão e toco sua bochecha.@
+` As suas lágrimas correm pelos meus dedos.@
+` Sem dúvida alguma, essas lágrimas quentes são reais.
+\
+bg "event/cel_f01",crossfade,800
+`"[line=8]"@
+` …… Ela não diz nada.@
+` E nem eu[line=4]sinto que palavras são desnecessárias.@ Apenas sinto o seu calor sobre mim.
+\
+` [line=4]Tu, dum.@
+br
+` No céu noturno, a lua continua lá desde que a Arcueid desapareceu, e meu peito está coberto de sangue.@
+` Mas aquele ferimento aberto foi fechado.@
+` Ela me curou ou aquele ferimento nunca existiu?@
+br
+` …… Bem, se estou vivo.@
+` Isso é algo trivial, já que sou capaz de existir aqui, neste instante.
+\
+`"…… Tohno-kun…… Você consegue[line=4]entender o que eu digo……?"@
+` Sua voz está trêmula.@
+`"…… Estou surpreso.@ Senpai, você está chorando de verdade."@
+`"[line=4]Sim.@ Eu nunca me senti assim antes."@
+`"Ahaha, isso não foi um pouco exagerado, Senpai?"@
+` Divago com minha cabeça confusa.
+\
+` Estou me sentindo no mundo da lua.@
+` Não estou com dor de cabeça.@ Não estou com dor alguma.@ Não sei o que houve com o Roa ou o que houve comigo.@ Tudo que sei é que a Ciel está comigo na claridade da manhã.
+\
+` ………… *suspiro*@
+` Que felicidade.@
+` O que eu quero está bem, e aqui junto comigo.
+\
+`"…… Que alívio.@ Posso manter a minha promessa."@
+` Digo isso após um demorado suspiro.@
+`"Ah, é mesmo?@ Não deveríamos sair para nos divertir depois da aula de hoje, junto do Inui-kun?@ Você acha mesmo que temos tempo para ficar aqui à toa o dia todo?"@
+` Ela fala e mostra um sorriso maroto como antes.
+\
+bg "event/cel_f02",crossfade,400
+`"[line=5]Não mesmo.@ Eu vou me levantar agora…… Ai……!"@
+` Assim que tento me levantar, meu peito dói muito.
+\
+`"Ah, não se mexa ainda……!@ Foi um ferimento enorme, você deve continuar assim por pelo menos mais uma hora."@
+`"…… Ciel.@ Você acabou de se contradizer.@ Você percebeu, né?"@
+`"Ah…… Sim, parece que sim.@ Acho que perdi a cabeça desde o momento que você acordou."@
+` Ela fica toda vermelha de vergonha.
+\
+`"…… Ah, não.@ Vou ficar entediado se tiver que ficar assim por mais uma hora."@
+` Só consigo mexer os braços.@
+` E ela vai ficar cansada de ficar com a minha cabeça no colo por uma hora.
+\
+`"…… Desculpa.@ Você não está cansada?@ Pode me deixar descansando no chão[line=3]"@
+`"…… Céus, qual é o seu problema?@ Estou fazendo isso porque quero, então, por favor, aceite o meu egoísmo."
+\
+` Suas bochechas ficam mais vermelhas ainda, e ela continua olhando para mim.@
+br
+`"…… E, já que tenho que ficar assim, acho que você podia fazer aquilo……"@
+`"Ah[line=6]"@
+br
+` [line=4]Eu me lembro.@
+` Acho que fizemos uma promessa assim antes.
+\
+`"…… Claro.@ Também quero fazer isso."@
+` Dizendo isso,
+` alcanço seu rosto com meu único braço livre.@
+` Ela abaixa o rosto calmamente.@
+bg #000000,crossfade,800
+br
+` [line=4]Nossos lábios se encontram.
+\
+bg "event/cel_f02",crossfade,400
+` Nós nos separamos depois do que pareceu ser uma hora.@
+`"[line=9]"@
+` …… Estou sem palavras.@
+` Assim, finalmente, de verdade,
+` sinto que estou acordado de um sono muito longo.
+\
+`"…… Primeiro de tudo[line=4]bom dia, Ciel."@
+`"Bom dia, Tohno-kun."@
+` Como o seu rosto sorridente e as suas lágrimas são mais gloriosas do que qualquer coisa nesse mundo,
+` eu relaxo e fecho os meus olhos.
+\
+bg #ffffff,crossfade,800
+playstop
+play "*8"
+`"Hã……?@ Tohno-kun, Tohno-kun……!?"@
+`"Hum[line=4]desculpa, Senpai.@ Quero…… Dormir mais um pouquinho."@
+` …… Estou muito relaxado e todo o cansaço retornou ao meu corpo.@
+` Se puder, gostaria de dormir nos braços da Senpai, mas não acho que vai ser possível.
+\
+`"…… Pode me colocar em qualquer lugar…… É só me acordar quando as aulas começarem."@
+`"[line=5]Hmph."@
+` Ela parece meio decepcionada.@
+` Mas é sério[line=4]estou morrendo de sono.
+\
+`"[line=4]Entendido.@ Então vou te levar para a minha casa, tudo bem?"@
+`"Hã…… Isso não seria ruim?@ Vamos perder aula se fizermos isso."@
+`"Está tudo bem, vamos faltar só hoje.@ Além disso, tem um monte de coisas que quero te perguntar, Tohno-kun."@
+` [line=3]E então,
+` sinto meu corpo sendo levantado.
+\
+`"Senpai, a enfermaria está bom, não precisamos ir para a sua casa……!"@
+`"Pedido negado.@ Você tem que me dizer o que fez com a Arcueid quando eu não estava presente."@
+` A Ciel sorri enquanto me segura.@
+` Há uma intensidade suficiente para quase banir todos os traços de sonolência em mim.
+\
+`"Então vamos.@ O sol ainda está nascendo, se corrermos, ninguém vai nos ver."@
+`"É por isso que a enfermaria é bem melh[line=4]uwaaaah!"@
+br
+` Com um impulso simples, ela dá um salto enorme.@
+` Eu me sinto leve, como se estivesse flutuando no espaço.@
+` Nesse ritmo, vamos chegar rapidamente à casa da Ciel, mas[line=3]
+\
+`"………… Ufa."@
+` Acho que me apaixonei por uma pessoa realmente surpreendente.@
+` Porém, estou mais que preparado.@
+` Mesmo que eu tenha resolvido o problema com o Roa, a Senpai também tem seus os próprios problemas.@ Não acho que poderemos voltar a ter uma vida pacífica.@
+` Mas mesmo assim[line=4]já decidi que vou ficar com ela.@
+` Não importa o que aconteça no futuro, vamos superar tudo juntos.
+\
+`"É isso mesmo[line=4]Shiki."@
+` Eu sussurro para a pessoa no meu sonho.@
+` Pois bem, primeiro de tudo[line=4]tenho que começar a pensar muito seriamente no que deveria dizer a ela sobre a Arcueid[line=3]
+\
+wait 3000
+playstop
+cl a,notrans,0
+bg "word/fin",crossfade,1500
+wait 3000
+gosub *ending

@@ -1,0 +1,485 @@
+phase "bg/ima_02",l,cel,09b,10
+bg #000000,notrans,0
+bg "bg/ima_01",crossfade,800
+play "*9"
+` Em meu sonho, estou fitando a lua.
+\
+` Não consigo me lembrar onde estou ou o porquê de estar olhando para ela.@
+` Talvez eu tenha olhado para o céu noturno sem querer ver nada e aconteceu da lua estar lá.
+\
+` Minhas costas estalam.@
+` Um frio corre pelas minhas veias.@
+` Uma escuridão solitária que me deixa tonto.@
+` Uma lua radiante que faz meu coração adoecer.
+\
+` …… É estranho.@
+` A frieza intensa se assemelha a um sentimento de nostalgia.
+\
+playstop
+bg #ffffff,crossfade,800
+`"[line=3]Shiki-sama."@
+` …… Ouço a voz da Hisui se misturando com a claridade da manhã.@
+br
+`"[line=3]Shiki-sama, está na hora.@ Acorde, por favor."@
+` Sua voz enfática me desperta.
+\
+bg "bg/bg_40e",crossfade,800
+`"[line=6]"@
+br
+` Assim que acordo, coisas terríveis tomam minha visão.@
+` Minha cabeça dói como se tivesse acabado de levar um tiro.@
+`"Ah[line=4]"@
+` Quase perco a consciência recém despertada.@ Pego meus óculos rapidamente, antes de desmaiar.
+\
+bg "bg/bg_40a",crossfade,800
+play "*2"
+ld c,"tachi/his_t01",crossfade,800
+`"Shiki-sama……?@ Não está se sentindo bem?"@
+`"…… Só estou um pouco cansado por causa de ontem.@ Estou bem, não se preocupe."@
+` Balançando levemente a cabeça, limpo a mente da visão anterior.@
+` …… Não ter sido capaz de me encontrar com a Arcueid ontem à noite parece ter lançado uma sombra negra no meu coração.
+\
+`"Bom dia, Hisui.@ Obrigado por vir me acordar como sempre."@
+` Sentando na cama, me esforço para sorrir naturalmente.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Este é meu dever.@ Não há necessidade de me agradecer, Shiki-sama."@
+`"Eu sei, mas sou grato.@ Você é infinitamente melhor do que um despertador."@
+br
+` Levanto da cama.@
+` Não são nem sete horas da manhã[line=3]acordei dez minutos mais cedo do que o normal.
+\
+`"…… Humm, o café da manhã, né?@ já estou indo, pode ir na frente."@
+`"Certo, estarei esperando na sala de estar."@
+cl c,lshutter,800
+` Fazendo uma mesura, ela sai do quarto.
+\
+` [line=4]Bem, então.@
+` Ainda estou me sentindo um pouco lerdo, mas não é nada tão sério ao ponto de precisar faltar à escola.@ Tenho certeza de que depois de tomar o café da manhã preparado pela Kohaku-san, vou me sentir muito melhor.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Como de costume, a Akiha está sentada no sofá e a Hisui está próxima à parede.@
+br
+ld c,"tachi/aki_t04a",lshutter,800
+`"Bom dia, Nii-san.@ Dormiu bem essa noite?"@
+`"…… Dromi sim.@ Bom dia, Akiha.@ Você também acordou cedo hoje."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Não, eu sempre acordo cedo…… Nii-san?"@
+` Ela parece desconfortável.@
+`"Hum[line=3]Tem algo de errado com o meu rosto, Akiha?"
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"Não, não é isso…… Nii-san, você realmente está se sentindo bem?@ Ainda parece estar mal, se ainda não estiver se sentindo bem, seria melhor se ficasse descansando em casa[line=3]"@
+`"Não, estou melhor.@ E de agora em diante vou só melhorando mais, por favor, não fique tão preocupada assim."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Tudo bem.@ Já que está dizendo isso, não vou insistir mais."@
+cl c,crossfade,800
+` Ela fica em silêncio, mas ainda parece preocupada.
+\
+`"Hum, é meio raro você ser convencida tão rápido assim.@ Nem parece você."@
+ld l,"tachi/aki_t21",crossfade,400
+`"Ei, sempre sou sensata.@ Apenas insisto em te avisar porque você é o problemático aqui.@ Então por favor, não me culpe pelas suas imperfeições."@
+` Ela me encara.@
+`"Ah, agora sim é a Akiha.@ Ei, Hisui, nem parece que já é de manhã se a Akiha não estiver rabugenta, não concorda?"@
+ld r,"tachi/his_t01",crossfade,400
+`"………………"@
+` Será que é porque falei com ela de repente ou porque ela não sabe o que responder?@ A Hisui não confirma nem nega minha declaração.
+\
+`"Viu?@ A Hisui concorda comigo."@
+`"Não seja tolo.@ Ela não respondeu nada porque está surpresa."@
+` Enrugando a testa com um olhar severo, a Akiha me encara novamente.@
+ld l,"tachi/aki_t03a",crossfade,400
+`"Além disso, sempre quis te dizer o seguinte: Você depende demais da Hisui.@
+` Você não tem aulas extras nem nada do tipo, por isso pode dormir mais cedo, correto?@ Porém você sempre acorda tarde.@ Por acaso está acomodado simplesmente porque a Hisui não fala nada?"
+\
+`"O qu[line=4]Você faz parecer que estou causando problemas a ela!"@
+ld l,"tachi/aki_t18a",crossfade,400
+`"Não 'faço parecer', você realmente está causando problemas a ela.@ Ei, não concorda comigo, Hisui?"@
+`"………………"@
+` Ela permanece quieta e em silêncio.
+\
+ld l,"tachi/aki_t03a",crossfade,400
+`"Viu?@ A Hisui disse que concorda comigo."@
+`"Claro que não!@ Ela não disse nada!"@
+ld r,"tachi/his_t04",crossfade,400
+`"…………………"@
+` A Hisui continua em silêncio.@
+` Mas seu silêncio me diz que ela concorda mais com a Akiha do que comigo.
+\
+`"………… Oogh."@
+` Sinto que agora são duas contra um.
+\
+`"Shiki-san.@ O café da manhã está pronto~."@
+` Na hora perfeita a voz da Kohaku-san ecoa pela sala.@
+`"Vou lá comer."@
+` Saio rapidamente para a sala de jantar.
+\
+ld l,"tachi/aki_t02",crossfade,400
+ld r,"tachi/his_t08",crossfade,400
+`"…………………"@
+` Sinto a pressão silenciosa exercida pelas duas garotas atrás de mim perfurando minhas costas.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_34a",lcartain,800
+` Depois do café da manhã, volto para a sala de jantar.@
+` A Akiha não está aqui, apenas a Hisui.
+\
+`"A Akiha já foi para a escola?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim.@ E já está na hora de você ir também, Shiki-sama."@
+`"Já são sete e vinte?@ Acho que vou indo mesmo."@
+` …… Para ser sincero, ainda não me sinto bem, mas tenho certeza que vou voltar ao normal logo.
+\
+`"Desculpa, Hisui, mas será que você poderia pegar minha pasta no meu quarto?@ Vou lavar o rosto."@
+`"Como desejar."@
+cl c,lshutter,800
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,800
+` Depois de fazer tudo que precisava, saio da mansão.@
+` Com a minha pasta na mão, a Hisui se despede de mim na entrada.
+\
+`"Vou indo.@ Não sei que horas vou voltar, mas provavelmente deve ser na hora do jantar."@
+ld c,"tachi/his_t05",crossfade,400
+`"Estarei esperando."@
+` Ela faz uma mesura silenciosa.@
+` …… Há um certo desconforto em seu rosto.
+\
+`"Hisui?@ Não está se sentindo bem?"@
+`"Não[line=3]não é isso, é você quem não parece bem.@ Não sei se é uma boa ideia deixá-lo ir assim."@
+` Ela fala com hesitação.
+\
+`"Estou bem.@ Só com o corpo um pouco pesado.@ Nossa, tanto você quanto a Akiha se preocupam demais."@
+`"…… Tem certeza?@ Se formos apenas nós duas, então tudo bem, mas…"
+\
+`"…… Poxa.@ Então vou voltar mais cedo hoje e ficar quietinho dentro de casa descansando, está bom assim?@ Não vou exagerar em nada, então não fique com essa cara."@
+`"……… Sim.@ Perdoe-me, Shiki-sama."@
+` Ela ainda parece muito preocupada.
+\
+`"Estou indo.@ Vou estar bem melhor na hora que chegar em casa, relaxa."@
+ld c,"tachi/his_t07",crossfade,400
+`"Ah[line=3]Shiki-sama[line=4]"
+\
+bg "bg/ima_03",lcartain,800
+` Ignoro-a e deixo a mansão.@
+` A imagem da Hisui me observando preocupada permanece na minha mente.
+\
+playstop
+bg "bg/bg_22a",lcartain,800
+play "*3"
+` Vou na direção da escola.@
+` Enquanto vou descendo a rua, sinto meus pés pesados, como se eu estivesse no corpo de outra pessoa.@
+` …… Provavelmente é só o cansaço de ontem.@ Pensei que ia me recuperar logo, mas a preguiça e o cansaço não me abandonam.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+` Faltam dez minutos para as oito horas.@
+` O portão da escola está lotado de alunos.@
+`"[line=4]Ah."@
+` No portão, vejo um rosto familiar.
+\
+`"…… Ciel… Senpai."@
+` É uma cena matinal completamente normal.@
+` Mas aquilo que eu vi[line=3]
+bg #000000,lshutter,400
+monocro #ffff00
+bg "event/cel_e04",crossfade,400
+monocro off
+bg "bg/bg_01a",lshutter,400
+` Se não fosse por aquilo, seria uma manhã normal.@
+`"[line=5]"@
+` Sem nem saber o que planejo fazer, vou atrás da Senpai.
+\
+bg "bg/bg_03a",lcartain,800
+`"Senpai!"@
+` Chamo ela.@
+ld c,"tachi/cel_t01a",lshutter,800
+`"Bom dia, Tohno-kun.@ É raro encontrá-lo por aqui."@
+`"…… Sim, eu te vi de longe e resolvi vir atrás de você.@ Hum…… queria te perguntar uma coisa."@
+` Observo seu rosto por um momento.
+\
+`"Sim, o que é?"@
+` Ela me olha com seu sorriso de sempre.
+\
+`"…… Senpai.@ Três noites atrás, você esteve perto da minha casa?@ Vestida com um sobretudo preto e uma saia esvoaçante?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"……?@ Do que você está falando?"@
+`"Humm……!@ Bem[line=2]as botas de cano alto caíram bem em você.@ Fiquei meio fascinado, você estava bem legal."
+\
+ld c,"tachi/cel_t05",crossfade,400
+` …… "Hã?" Ela inclina a cabeça.@
+` Ela franze a testa, como se não entendesse bem minhas palavras e, em seguida, nega tudo.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Acho que não entendi direito, você está dizendo que três noites atrás eu estava perto da sua casa e vestida desse jeito?"@
+`"Sim, era você, Senpai, não era?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Não mesmo.@ Tohno-kun, eu pareço ter tanto tempo livre assim?"@
+br
+` [line=3]Ela está nervosa.@
+` Ela não pode estar se fazendo de boba ou mentindo.
+\
+`"Ah[line=3]não, não é isso, mas é que…… vi uma pessoa muita parecida com você lá no parque ontem à noite também, então[line=3]"@
+` Ela suspira.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, não era eu.@ Não tenho esse tipo de passatempo."@
+`"Ah[line=3]claro, eu entendo.@ Só quis perguntar para ter certeza."
+\
+` …… Depois de ouvi-la dizer isso, não posso mais duvidar.@
+` A Ciel-senpai e a pessoa daquela noite não estão relacionadas.@
+` Para começo de conversa, a Senpai é apenas uma pessoa normal e se ela realmente estivesse lá[line=3]teria me visto enfrentando aquele cara enrolado em ataduras.@
+` E se tivesse visto uma cena horrível daquelas, seria impossível ela conversar normalmente comigo como acabou de fazer.
+\
+`"…… Desculpa, por favor, esqueça que falei isso.@ Acho que era outra pessoa mesmo."@
+ld c,"tachi/cel_t09",crossfade,400
+`"Tudo bem, mas…… essa pessoa parecia tanto assim comigo?@ Essa esquisitona aí?"@
+`"Não tenho muita certeza.@ Estava escuro e ela estava longe……… hum?"@
+` É mesmo, ela estava longe e não pude ver o seu rosto.@
+` Então por que pensei que fosse a Senpai……?
+\
+`"…… Humm… Talvez tenha algo de errado comigo."@
+` Cruzo os braços e começo a pensar.
+\
+br
+wave se_03
+` E então, o sinal da escola toca.@
+`"[line=3]Merda, vamos nos atrasar.@ Tchau, Senpai, te vejo depois!"
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+` Corro para a sala de aula.@
+` Ainda faltam cinco minutos para começar a primeira aula, por isso está muito barulhento aqui dentro.@
+`"O Arihiko não está aqui."@
+` Conhecendo bem ele, provavelmente deve aparecer no segundo período.
+\
+bg #000000,crossfade,1500
+playstop
+!w1000
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` Hora do almoço.@
+` Parece que o Arihiko não vai vir mesmo.@
+` …… Inui Arihiko e Yumizuka Satsuki estão ausentes hoje.@ A Yumizuka Satsuki parece ter pegado um resfriado e ficará ausente por alguns dias.
+\
+`"…… Parece que a Senpai também não vai vir, acho que vou ter que almoçar sozinho."@
+` Digo isso, mas não estou com fome.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,400
+` …… O que está acontecendo?@
+` Eu já não estava me sentindo muito bem, mas depois de vir para a escola, estou me sentindo bem pior.@
+` E não é só porque meu corpo está pesado.@ A cicatriz no meu peito está irritada; é uma sensação que incomoda muito.
+\
+`"…… Talvez eu não devesse ter vindo para a escola."@
+` …… Por um breve momento, vejo os rostos de preocupação da Hisui e da Akiha em minha mente.@
+` Talvez eu ter saído atrás da Arcueid ontem à noite ao invés de ficar em casa descansando, como a Akiha havia pedido, pode ter causado isso.@
+` Ficar cansado pelo simples fato de estar sentado me causa um mal-estar enorme.
+\
+bg #000000,crossfade,800
+bg "bg/bg_06a",crossfade,800
+` …… As aulas já começaram.@
+` Que aula é essa?@ Não consigo me lembrar de que aula temos no quinto período.@
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+br
+` Mesmo olhando para o quadro-negro e encarando as marcas deixadas pelo giz do professor, ainda não sei dizer que aula é essa.@
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+br
+` Não consigo lê-las.@
+` As letras começam a escorrer como água e a se misturarem, parece uma alucinação.@
+br
+wave se_01
+`"Ugh…………"@
+` Sinto vontade de vomitar.@
+` Fico tonto.@ Começo a perder a consciência.
+\
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+` Tlec, tlec.@
+`    Brrr, brrr.@
+`     Rangido, rangido.@
+`      Oscilação, oscilação.@
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+\
+` Esses ruídos se destacam no ambiente.
+\
+` Incompatibilidade.@
+` De onde está vindo essa inconsistência?@
+wave se_01
+` Não consigo acabar com essa sensação de que tem alguma coisa fora do lugar no meu corpo.@
+` Ela me toma completamente.@
+` Como se meus ossos estivessem saindo fora das suas articulações.@
+wave se_01
+` Claro, se minhas articulações estão fora do lugar, obviamente vou ter essa sensação desconfortável.@ Meu cadáver está queimando com uma fumaça invisível e esfarelando.
+\
+br
+br
+br
+br
+br
+br
+br
+` Tlec, tlec.@ Brrr, brrr.@ Rangido, rangido.@ Oscilação, oscilação.
+\
+bg #9c0120,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+bg #000000,crossfade,800
+` Caio da cadeira.@
+` Uma garota grita.@
+` Ouço os passos apressados do professor se aproximando de mim.@
+` Eu.@
+` Mesmo estando completamente desmaiado, calmamente me observo de longe.
+\
+!w3000
+` …… O que acontece a seguir é o de sempre.@
+` Depois de ter desmaiado por causa da anemia, fui levado até a enfermaria onde dormi até me recuperar.@
+` Como tive uma febre de mais de trinta e oito graus depois das sete da noite, que é a hora que a escola fecha, a enfermeira ligou para minha casa, pedindo que alguém viesse me buscar e em seguida foi embora.@
+br
+` E isso resultou em…
+\
+play "*1"
+bg "bg/bg_10c",crossfade,400
+ld c,"tachi/koha_t01b",crossfade,400
+`"Você está bem Shiki-san?@ Você ainda está com febre, por favor, não hesite em se apoiar no meu ombro."@
+br
+` [line=3]Sim, e foi isso que aconteceu.
+\
+`"…… Não, estou bem.@ Consigo andar sozinho, não precisa se preocupar."@
+` Afastando-me da Kohaku-san, tento enganá-la com essas palavras.@
+` …… Poxa.@ Já é constrangedor o suficiente ter que depender da Kohaku-san vir me buscar.@ O dia que tiver que me apoiar no ombro dela, eu morro.
+\
+`"Ah, isso não é uma boa ideia, você não deve se forçar desse jeito.@ Não é sua culpa seu corpo ser fraco, Shiki-san.@ Então você pode pedir ajuda de vez em quando.@
+` Não vou contar para a Akiha-sama nem para a Hisui-chan, por isso pode depender de mim neste momento."@
+` Com um sorriso gentil, ela pega a minha mão.
+\
+`"Ah…… sim, eu sei, desculpa."@
+` Corando, humildemente faço o que ela diz.@
+` …… Vou acabar desmaiando de novo se continuar sendo teimoso.
+\
+`"Tem um carro nos esperando lá fora, aguente firme até chegarmos lá."@
+cl c,lshutter,800
+` Puxando a minha mão, ela começa a andar.@
+bg #000000,crossfade,400
+bg "bg/bg_10c",crossfade,400
+`"Ah[line=4]"@
+` …… Isso não é bom.@ Estou ficando tonto só de andar.@
+` Dependo da Kohaku-san para me guiar até as escadarias, enquanto tento não perder a consciência.
+\
+bg #000000,lcartain,1500
+!w1000
+playstop
+bg "bg/bg_07b",notrans,0
+bg "bg/bg_11c",crossfade,800
+` H[line=4]ã??@
+` Por que[line=3]estou indo[line=4]para[line=4]o segundo[line=4]andar?
+\
+`"Hum…… Kohaku-san[line=4]esse[line=4]não é[line=4]o caminho[line=4]certo."@
+` Digo isso a ela.@
+` Mas ela não responde.@ Não, não é só isso[line=3]também não sinto sua mão, nem a vejo mais.
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+play "*6"
+`"Kohaku…… san?"@
+` Uso toda a minha força de vontade para conseguir olhar à minha volta.@
+` Não tem ninguém no corredor.@
+` Apenas o luar vívido atravessando a janela.
+\
+wave se_01
+`"[line=7]"@
+` Ele vem de repente.@
+wave se_01
+`"Ah[line=6]"@
+` O som das batidas do meu coração.@
+` E um calafrio que corre pelas minhas costas.
+\
+waveloop se_02
+wave se_08
+` Tu, dum.@ Tap.
+\
+br
+wave se_08
+` Tu, dum.@ Tap.@
+br
+wave se_08
+` Tu, dum.@ Tap.@
+br
+` Tu, dum.@ Tap.@ Tu, dum.@ Tap.@ Tu, dum.@ Tap.@ Tap.@ Tap.@ Tap.@ Tap.
+\
+` Os passos se aproximam na escuridão.@
+br
+` [line=3]Essa sensação é…
+br
+` Essa sensação é semelhante ao medo que senti daquela vez.
+\
+`"Kohaku[line=4]san……!"@
+` Chamo pelo seu nome.@ Não chamo para pedir ajuda, é para dizer a ela para fugir, chamo seu nome freneticamente.
+\
+`"Kohaku-san, Kohaku-san, Kohaku-san……!"@
+` Cadê ela?@ Não a vejo em lugar algum.@
+` Os passos já estão perto de mim.@
+br
+` Então, pelo menos.@
+` Quero que a Kohaku-san fuja daqui ilesa.
+\
+`"É inútil, Shiki.@ Já acabei com ela."@
+` …… Ouço uma voz.@
+` Na escuridão à minha frente,
+ld c,"tachi/roa_t07b",crossfade,800
+` está o homem enrolado em ataduras, o mesmo que tentou me matar naquela noite.
+\
+`"[line=5]Ah."@
+` …… Por que será?@
+` Sinto como se conhecesse o rosto dele.
+\
+`"Você não tem sorte mesmo.@ Se eu soubesse que seria assim, não teria te esperado na frente da mansão."@
+br
+` …… Os passos se aproximam mais.@
+br
+`"Ka………… aah."@
+` Tento me mexer.@
+` Mas só consigo cambalear.@
+` Acho que esforço demais meu corpo todos os dias.@ E parece que em seus últimos momentos, ele quebrou.
+\
+`"Como este é o fim, vou lhe contar.@ Este lugar é o meu lar agora."@
+bg #9c0120,crossfade,800
+` Ouço o som de alguém sendo esfaqueado.@
+` Nas mãos dele há uma faca.@ Sua lâmina prateada perfura meu coração.
+\
+wavestop
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/ima_18",notrans,0
+playstop
+` [line=3]Caio no chão.@
+` Sinto a morte tomando conta de todo o meu corpo.@
+` Minha mente vai desvanecendo, pouco a pouco.
+\
+` E neste processo.@
+` Com minha consciência desaparecendo, olho para o céu.@
+` Não tem nenhum outro lugar para olhar, então apenas fico olhando para o céu.@
+br
+` A lua azulada paira no céu noturno.@
+` …… Que estupidez.@
+` Estou prestes a morrer, mas…
+` Fico encantado por uma coisa tão boba.
+\
+monocro off
+bg #000000,crossfade,1500
+` De quando é essa lembrança?@
+` Em uma floresta coberta por um véu negro.@
+` Naquela noite horrível.@
+` Exatamente como agora, eu estava fitando a lua[line=3]
+!w2000
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,720 @@
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Eu não posso ignorar os meus sentimentos.@
+br
+` Eu não deveria ficar investigando barulhos suspeitos vindos de um beco isolado enquanto tem um assassino rondando a cidade em busca de vítimas.@
+` Mas… Aquele sorriso da Yumizuka não sai da minha cabeça.
+\
+` Não há motivo algum para a Yumizuka estar aqui.@ Mas se estiver, talvez precise da minha ajuda.@
+` …… Nunca vou me perdoar se simplesmente ignorar isso.
+\
+`"[line=4]Certo."@
+` Respiro profundamente e fortaleço meu espírito.@
+` De qualquer forma, ainda tenho os meus "olhos".@
+` A Sensei me disse para não usá-los de forma imprudente, mas ela não vai se importar se eu usá-los contra um assassino.@
+`"…… O barulho… Veio daqui…"@
+` Eu me preparo e entro no beco.
+\
+bg #000000,crossfade,800
+bg "bg/bg_30b",notrans,0
+wave se_01
+br
+` [line=3]Tu, dum.@
+br
+` Ouço meu próprio coração batendo.@
+` O beco está muito silencioso.@
+` …… O barulho veio da área aberta mais no finalzinho.
+\
+br
+wave se_01
+` [line=3]Tum.@
+br
+` A minha nuca começa a doer.@
+` Como se estivesse sofrendo convulsões sob uma tensão extrema, minha coluna dói de forma absurda, como se estivesse prestes a me rasgar todo e sair para fora do meu corpo.
+\
+br
+wave se_01
+` [line=3]Tu, dum.@
+br
+` Por que isso está acontecendo?@
+` Não consigo usar a cabeça para pensar, porém os meus instintos estão gritando comigo o tempo todo.
+\
+br
+wave se_01
+` [line=3]Tu, dum.@
+br
+` Não vá.@
+` Não dê nem mais um passo.@
+` Caso contrário, não haverá mais volta.
+\
+br
+wave se_01
+` [line=3]Tu, dum.@
+br
+` Mas já é tarde demais.@
+` Eu sigo em frente e chego na área aberta.
+\
+bg "bg/bg_31b",crossfade,800
+monocro #ff0000
+play "*4"
+`"[line=4]Hã?"@
+` É tudo o que consigo dizer.@
+bg "bg/ima_13",crossfade,400
+br
+` [line=3]O beco se transformou em um cenário de filme de terror.@
+br
+` Vários membros estão espalhados em meio ao lixo e os entulhos.@
+` Mas não são membros de cachorros, ou de gatos, nem nada do tipo.@
+` São todos membros humanos e o sangue fresco pinga da carne fresca e dos ossos.
+\
+bg "bg/bg_31b",crossfade,400
+` Tanto o chão quanto as paredes estão pintados com sangue.@
+` Um cheiro muito forte enche meu nariz.@
+` Um cheiro terrível.@
+` É o cheiro sufocante de sangue que permeia o meu corpo como se fosse uma névoa vermelha.
+\
+` Um rosto.@ Um rosto.@ Um rosto.@
+` O rosto de uma cabeça cortada, rolando com uma expressão de agonia.@
+` Um rosto enrugado como o de uma múmia, partido em pedaços.@
+` Um rosto que teve ambos os olhos arrancados, está tão distorcido que não sei dizer se era um homem ou uma mulher.@
+`"[line=5]"@
+` Incapaz de falar qualquer coisa, apenas encaro os cadáveres.@
+` Nem sei se ainda posso chamar isso de cadáver humano.@ Até mesmo uma escultura muito mal feita pareceria mais com um ser humano do que isso.
+\
+` São quatro cadáveres.@
+` Eles rolam no meio da sujeira como se fossem restos de comida.@
+br
+`"Ah[line=4]ah."@
+br
+wave se_01
+` Estou boquiaberto, chocado com esse mar de cadáveres.@
+` A minha nuca está latejando,
+` a minha garganta está seca, e a minha respiração está queimando como fogo.@
+` Meus dedos tremem e a minha boca fica distorcida.
+\
+` O que[line=3]está acontecendo?@
+` Que mundo é este diante dos meus olhos?@
+`"[line=4]Vermelho."@
+` Sim.@
+` Diante dos meus olhos, tudo está tingido dessa cor horrível[line=3]
+br
+wave se_01
+` Mas eu não reajo a isso.@
+` Acho que estou enlouquecendo.@
+br
+wave se_01
+` Tu, dum.@ Tu, dum.@ Tu, dum.@
+br
+` Ao se deparar com uma cena absurdamente bizarra como essa,
+` meu coração solta um grito estridente, antecipando o pior.
+\
+bg "bg/bg_31b",tshutter,800
+monocro off
+` Um dos cadáveres se mexe.@
+` Não, estou enganado.@
+` Não é um cadáver.@
+` Não é como os outros.@
+` É um ser humano vivo, com todos os membros do corpo em seus devidos lugares.
+\
+`"Ah…"@
+` Isso não faz sentido.@
+` Neste espetáculo macabro, a minha reação ao ver alguém vivo é mais de espanto do que de alegria.@
+br
+` Mas se ele está vivo.@
+` Eu preciso ajudá-lo.
+\
+`"Hum[line=3]olá?"@
+` Ainda com a mente paralisada, dou um passo na direção dessa pessoa.@
+br
+`"[line=3]Gih."@
+br
+` Levantando-se do mar de sangue, ele olha para mim.@
+` Seu rosto parece mais um crânio seco.
+\
+bg #000000,notrans,0
+`"Hii[line=4]!"@
+` Instintivamente dou um pulo para trás.@
+` Mas ele se move mais rápido do que eu.@
+` Gritando "hyuuu!@ hyuuu!" ele pula em mim.@
+br
+` [line=4]Hyuu!@ Hyuu!@
+br
+` Uma voz hedionda, bem na minha frente.@
+` Olho para baixo e vejo que tem um buraco enorme na garganta dele, impedindo-o de falar corretamente.
+\
+`"[line=4]Ah!"@
+` Seu rosto e seu braço murchos vêm na minha direção.@
+` Na garganta deste saco de ossos, suas cordas vocais vibram com a voz macabra.@
+`"Uwaaaahhhhh!"@
+` Completamente desesperado, eu tento afastá-lo de mim.
+\
+` A mandíbula do crânio se abre com um rangido.@
+` A boca abre o bastante para arrancar o meu ombro com uma única mordida, e ele se aproxima do meu rosto como se dissesse: "Eu não quero morrer, alguém me ajude".@
+`"Par[line=4]"@
+` Eu nem consigo dizer "pare".@
+` A criatura feita apenas de pele e ossos tenta morder a minha cabeça[line=4]e de repente[line=4]desmorona no chão.
+\
+playstop
+bg "bg/bg_31b",bshutter,800
+`"Hein……?"@
+` O incrível poder desaparece.@
+` O saco de ossos em forma de gente vai se encolhendo no chão e desaparece.@
+` Devagarzinho,
+` como um sonho ruim, ele se transforma em cinzas e é levado pelo vento.
+\
+`"…… Que merda foi essa?"@
+` A dor toma conta do meu ombro.@
+`"Ai…"@
+` Meus ombros começam a ficar vermelhos e incham no local que ele me agarrou.@
+br
+` A dor é real demais.@ Então isso só pode ser a realidade.@
+br
+` É como um pesadelo.@
+` Mas[line=3]não tem como ser apenas um pesadelo, isso não é apenas um sonho, é a realidade.
+\
+play "*1"
+`"Tohno-kun.@ Vai ser perigoso se você ficar aqui."@
+`"[line=4]!"@
+` Eu viro para encarar a dona da voz que vem por trás de mim.@
+` Olho para a entrada do beco, a mesma entrada pela qual passei agora mesmo, e vejo a Yumizuka Satsuki.@
+ld c,"tachi/stk_t03",lshutter,400
+`"Yumizuka… san[line=3]?"@
+`"Boa noite.@ Que coincidência nos encontrarmos num lugar desses, né?"@
+` Ela me cumprimenta tranquilamente, como se tivéssemos nos encontrado em um supermercado.
+\
+`"Yumizuka… O que você está fazendo na rua a essa hora da noite?"@
+`"Ah, só dando um passeio.@ Mas e quanto a você, Tohno-kun?@ Não é legal matar esse monte de gente!"@
+` Ela diz essas palavras sorrindo.
+\
+`"Matar esse monte de gente?"@
+` Olho à minha volta.@
+` …… E relembro a cena trágica que me cerca.@
+` Em um mar de sangue.@
+` No meio dele está o Tohno Shiki, horrorizado, como um assassino.
+\
+`"N… Não!@ Eu não fiz isso!"@
+`"Claro que fez.@ Todos eles estão mortos, mas o Tohno-kun está vivo, é óbvio que foi o Tohno-kun quem matou eles."@
+`"Não fui eu!@ Aquela coisa quem me atacou……!"@
+` Aponto o dedo para o monstro que me atacou agora há pouco.@
+` Só que não tem nada na direção que aponto.@
+` Até as cinzas dos ossos foram levadas pelo vento.
+\
+`"Ah[line=4]"@
+` Engulo em seco.@
+` A Yumizuka está rindo adoravelmente.
+\
+`"Não é o que parece… Isso não foi… Não fui eu quem fez isso…"@
+` Minha mente está paralisada e só consigo dizer meias frases.@
+` …… Eu sei o que está acontecendo.@
+` Eu consigo pensar claramente, só que não consigo transformar esses pensamentos em palavras.@
+br
+` Por exemplo, por que a Yumizuka está num lugar desses?@
+br
+` Por que a Yumizuka está rindo diante de uma cena trágica como essa?
+\
+`"Yumizuka-san, eu[line=3]"@
+`"Eu já sei.@ Você apenas interrompeu a refeição de alguém.@ Desculpe-me por ter sido tão má com você.@ Eu sempre ajo de forma contrária aos meus sentimentos, por isso sempre me comporto assim na sua frente."@
+` Ela continua rindo.@
+` …… É algo tão inapropriado nesta situação que sinto um calafrio percorrer o meu corpo.
+\
+playstop
+` Ela continua na entrada do beco.@
+` Os seus braços estão posicionados de uma forma estranha, é como se ela estivesse escondendo algo atrás das costas.@
+br
+` [line=3]E quando olho mais atentamente,
+` vejo manchas vermelhas na manga da sua blusa.
+\
+`"Yumizuka, você[line=3]"@
+`"O que foi?@ Que olhar assustador, Tohno-kun."@
+` Ela ri novamente.@
+`"[line=6]"@
+` …… Não.@
+` Não tem como[line=4]essa garota não pode ser a Yumizuka Satsuki.@
+`"Yumizuka… Por que está escondendo as mãos?"@
+`"Ah, eu fui descoberta?@ Você é muito observador mesmo, né!@ Não ia deixar essa passar.@
+` Eu sempre gostei disso em você, Shiki-kun."@
+` Depois de enfatizar o "Shiki-kun",
+` ela mostra as mãos.
+\
+ld c,"tachi/stk_t06",crossfade,400
+play "*6"
+` As duas mãos estão completamente vermelhas.@
+` O sangue fresco pinga das suas mãos.@
+` E a Yumizuka Satsuki,
+` está sorrindo com muito orgulho.
+\
+wave se_01
+`"Yumizuka, as suas mãos estão[line=3]"@
+br
+`"Pois é.@ Fui eu quem matou estas pessoas."@
+br
+`"O qu[line=3]"@
+`"Ah, mas não se preocupe.@ Eu não as matei porque as odiava.@ Eu só matei porque precisava do sangue delas para sobreviver."@
+` Ela diz isso como se fosse a coisa mais normal do mundo.@
+` Não dá para entender.@
+` A única coisa que consigo entender é[line=3]que o meu sangue está pulsando furiosamente por todo o meu corpo.
+\
+` Tu, dum.@ Tu, dum.@ Tu, dum.@
+` *arf*.@ *arf*.@ *arf*.@
+` Estou muito excitado, é como se fosse amor à primeira vista com essa Yumizuka toda suja de sangue[line=3]
+\
+`"Você… Realmente matou todas estas pessoas, Yumizuka?"@
+ld c,"tachi/stk_t03",crossfade,400
+`"Você não acreditaria em mim mesmo que eu te dissesse que é mentira, não é?@ Ou será que acha impossível que uma garota como eu faça isso?"@
+` Ela ri de mansinho.@
+br
+` [line=3]Não posso acreditar.@
+` Não posso acreditar, mas tenho certeza de que ela não está mentindo.@
+` Esta cena trágica.@
+` Foi a Yumizuka quem criou.@
+`"Por que… Fez algo tão terrível…?"@
+ld c,"tachi/stk_t10",crossfade,400
+`"Não tem nada de terrível nisso.@ É como eu já te falei, eu não matei esse monte de gente porque odiava todo mundo.@ Não tem nada de errado em matar os outros para sobreviver, não é mesmo, Shiki-kun?"@
+`"Mas o quê…!@ Isso é um absurdo!@ Matar é errado!"@
+`"Não é não.@ Mas eu realmente fiz uma coisa errada.@ Como hoje foi a primeira vez que tomei sangue, sem querer deixei cair um pouco de sangue neles.@ E por causa disso você foi atacado, Shiki-kun.
+\
+`"Desculpe-me por te envolver nisso.@ Mas tivemos muita sorte; ele morreu antes de completar a transformação."@
+`"Do… Do que está falando, Yumizuka?"@
+`"Está tudo bem, você não precisa entender logo de primeira.@ Eu mesma ainda não entendo muito bem, por isso não posso explicar direitinho.@
+`"Mas acho que daqui a alguns dias vou ficar igualzinha ao Shiki-kun.@
+` Assim como o Shiki-kun, vou me tornar uma grande[line=3]"@
+cl c,lshutter,800
+` Antes que pudesse terminar de falar, seu rosto se contorce de dor.@
+ld c,"tachi/stk_t04",tshutter,800
+`"Ha[line=3]… aaau!!!"@
+` Gritos de agonia ecoam de sua garganta.@
+` Ela tosse sangue.
+\
+`"Está[line=4]doendo.@ Acho que[line=4]mesmo estando com muita fome, eu não deveria sair por aí bebendo qualquer sangue.@ Se não for um sangue delicioso e de boa qualidade, meu corpo vai rejeitar…"@
+` Ela tem uma crise de tosse.@
+` E cospe sangue a cada tossida.
+\
+`"Nn[line=3]kuh, nnaaah…!!!"@
+` Seu corpo está sofrendo convulsões.@
+` …… Não entendo bem o que está acontecendo.@
+` Tudo que sei é que ela está sentindo uma dor absurda.@ É só isso que está claro para mim.@
+`"Você está bem, Yumizuka…!?"@
+` Corro em sua direção para ajudá-la.@
+ld c,"tachi/stk_t12",tshutter,400
+`"[line=4]Não!@ Não se aproxime mais, Shiki-kun!"@
+` Mas sua voz me interrompe.
+\
+ld c,"tachi/stk_t04",crossfade,800
+`"…… Você não pode se aproximar.@ Eu não estou… Muito bem, Shiki-kun."@
+` Ela fala com uma voz de quem sente muita dor e continua vomitando sangue.
+\
+`"Yumi… zuka[line=3]"@
+` Eu não consigo entender.@
+` Por que ela está sentindo tanta dor?@ Por que ela está assim?
+\
+`"Que merda é essa que está acontecendo?@ Você disse que matou essas pessoas, mas isso só pode ser mentira, né, Yumizuka…?@ E já que está sentindo tanta dor, não acha que deveria estar em um hospital?"@
+` …… Estou apenas tentando enganar a mim mesmo.@
+` Embora eu saiba que foi ela quem criou este cenário terrível em que me encontro, ainda assim minto para mim mesmo.@
+`"Yumizuka… Eu vou me aproximar de você, tá bom?"@
+` Digo gentilmente.@
+` Mas ela balança a cabeça violentamente, me rejeitando.
+\
+`"Por quê!?[line=3]Você está sentindo muita dor, precisamos te levar para o hospital imediatamente…!"@
+`"Shiki-kun, você não está entendendo.@ Você nunca entende nada…"@
+`"Idiota!@ Eu já te falei que realmente não entendo…!"@
+`"Ah… É mesmo, você falou.@ E mesmo assim você continua aqui…"@
+` Ela começa a se afastar.
+\
+`"…… Está doendo, Shiki-kun."@
+` Sua respiração está irregular, e ela continua tossindo sangue.@
+`"…… Está doendo[line=2]e está frio[line=2]e eu estou assustada.@
+` Eu quero muito a sua ajuda nesse momento, Shiki-kun."@
+br
+` [line=3]Mas ainda é muito cedo.@
+br
+` Depois de dizer essas palavras,
+` a Yumizuka se endireita.
+\
+cl c,lshutter,800
+`"Espere por mim, tá bem?@ Eu vou me tornar uma grande vampira e depois vou voltar para te ver!"@
+`"Ah… Espera, Yumizuka!"@
+br
+bg "bg/bg_30b",lshutter,800
+`"[line=6]"@
+` Ela se foi.@
+` Mesmo se eu começar a correr agora, nunca vou alcançá-la.@
+` …… Sua velocidade é sobre-humana, como a de um animal feroz.
+\
+`"[line=3]Yumizuka[line=3]"@
+` O que aconteceu com você…?@
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+br
+`"Gah[line=3]!"@
+` Meus ombros latejam de dor no lugar onde fui agarrado.@
+` Olho para trás e vejo que no lugar onde estavam todos aqueles membros humanos espalhados, agora só tem sangue.@
+` As cabeças, os orgãos, as mãos e os pés.@
+` Tudo virou cinzas, assim como aquela caveira.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+`"[line=6]Ah."@
+` Tu, dum.@
+` Estou me sentindo enjoado, como se estivesse prestes a tossir sangue.@
+wave se_01
+br
+`"Não pode[line=4]ser[line=4]"@
+` Tu, dum.@
+` Essa excitação[line=4]é tão intensa[line=4]que quase ejaculo.@
+wave se_01
+br
+`"Isso[line=3]"@
+` Por um instante,
+` o vermelho do sangue queima em meus olhos.@
+wave se_01
+br
+`"Isso não pode ser real[line=4]!"@
+` O mundo à minha volta gira.@
+` Meus olhos veem apenas um mundo distorcido.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_48d",crossfade,800
+` [line=3]Quando me dou conta, estou de volta à mansão.@
+br
+` Acho que voltei da mesma forma que um animal de estimação consegue encontrar seu caminho de casa.@
+` Estou quase desmaiando por causa dessa tonteira; achei que não ia conseguir chegar em casa.
+\
+bg #000000,crossfade,800
+bg "bg/bg_33d",crossfade,800
+waveloop se_11
+`"……… Ggh."@
+` Eu vou vomitar.@
+`"Ah[line=3]gha, ah[line=3]"@
+` Meu coração está explodindo, estou com dificuldade para respirar.@
+`"…… Eu preciso…… Descansar……"@
+` Como já desmaiei diversas vezes por causa da anemia, sei muito bem que estou prestes a demaiar.
+\
+` [line=3]Se eu conseguir descansar.@
+` Se eu descansar o corpo na minha cama, essa náusea e essa sensação que meu coração vai explodir vão passar.@
+br
+` Eu[line=3]Eu vou me esquecer de tudo isso, como se nada tivesse acontecido, e vou acordar amanhã para um dia normal como todos os outros.
+\
+ld c,"tachi/koha_t03b",lshutter,800
+`"Shiki-san?@ Você já chegou?"@
+`"Ah…… Kohaku[line=2]san."@
+` A Kohaku-san surge do corredor oeste.@
+` …… É mesmo, o quarto da Kohaku-san fica no corredor oeste do primeiro andar.
+\
+ld c,"tachi/koha_t02b",crossfade,400
+`"Seja bem-vindo de volta, Shiki-san.@ Conseguiu encontrar a sua amiga?"@
+`"Hum[line=3]ah, sim, encontrei ela."@
+` Eu me lembro de tudo no momento em que respondo.@
+` Os membros humanos espalhados.@
+` As cabeças.@ Os rostos.@ As cabeças.@ Os rostos.@
+` O beco todo sujo de sangue.@
+` O rosto sorridente da Yumizuka e suas mãos sujas de sangue[line=4]
+\
+`"…… Com licença.@ Estou indo para o meu quarto, pode voltar a dormir, Kohaku-san."@
+` Não estou com vontande de conversar com ninguém.@
+` Deixo ela para trás e subo as escadas.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+` Eu caio na minha cama.@
+`"Ah[line=4]ah."@
+` Meu peito sobe e desce rapidamente enquanto tomo vários fôlegos demorados.@
+`"[line=7]"@
+` Minha mente está exausta.@
+` A tontura me domina.@
+` Eu só quero dormir, mesmo que seja para demaiar.
+\
+!w5000
+` [line=3]Então, por que não estou conseguindo?@
+br
+` Estou tão tonto, por que não estou desmaiando como sempre acontece?@
+` Quando fecho os olhos, a visão do cenário daquele beco surge debaixo das minhas pálbebras.@
+` Meu coração bate violentamente.@
+` Mas não é porque estou medo[line=3]parece mais excitação sexual do que qualquer outra coisa.@
+br
+`"Mas por quê[line=4]?"@
+` Não dá para entender.@
+wavestop
+` Existe uma linha tão tênue entre a luxúria e o terror?
+\
+wave se_04
+`"Hã…………?"@
+` Quem pode ser a esta hora?@
+`"Shiki-sama, ainda está acordado……?"@
+` Esse sussurro é da Hisui.@
+` Tu, dum.@
+` Meu coração se acalma um pouco quando imagino sua figura na minha cabeça.
+\
+`"…… Sim, ainda estou acordado.@ Pode entrar."@
+`"[line=3]Com licença."@
+ld c,"tachi/his_t23",lshutter,800
+play "*1"
+` …… O que é isso?@
+` A Hisui entra carregando uma bandeja e um pequeno embrulho de papel que parece algum tipo de medicamento.
+\
+`"…… Hisui.@ Por que está acordada a essa hora?"@
+`"Shiki-sama, parece que você está com dificuldade para dormir, por isso eu lhe trouxe um remédio."@
+`"Hã………?@ Ah, tá.@ …… Mas como é que você sabe disso?"@
+`"A Nee-san me contou.@ Ela disse que você parecia muito cansado e que eu deveria redobrar meus cuidados com você."@
+` …… Ah, então foi a Kohaku-san.@
+` Ela deve ter percebido pelo estado que eu estava quando cheguei.
+\
+`"…… Que remédio é esse?"@
+ld c,"tachi/his_t01",crossfade,400
+`"É um remédio para ajudar a dormir.@ E foi aprovado pelo seu médico particular."@
+`"Foi aprovado…… A essa hora!?"@
+`"Não, a Nee-san pediu permissão ao seu médico assim que ficou sabendo que você voltaria a morar aqui."@
+`"Uau[line=2]a Kohaku-san é incrível mesmo.@ Muito atenciosa essa garota."@
+` Enfim, estou muito feliz ao saber disso.@
+` Eu pego a água que a Hisui me entrega e tomo o remédio.
+\
+ld c,"tachi/his_t19",crossfade,800
+`"Nn[line=4]ah."@
+` Pouco depois, começo a sentir muito sono.@
+`"…… Obrigado, Hisui.@ E por favor, agradeça a Kohaku-san também."@
+ld c,"tachi/his_t01",crossfade,800
+`"Como desejar.@ Tenha uma boa noite de sono, Shiki-sama."@
+cl c,lshutter,800
+` …… Ouço os passos da Hisui saindo.@
+` É como se todas as forças do meu corpo tivessem sido drenadas.@
+`"Mm[line=3]Que sensação[line=4]boa[line=3]"@
+` A minha mente viaja para longe.@
+` Caio no sono rapidamente, como se estivesse desmaiando[line=3]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+waveloop se_02
+monocro #ff0000
+bg "bg/bg_31b",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Estou sonhando?
+\
+` Um beco todo vermelho.@
+` É o mesmo beco em que eu estava esta noite.@
+br
+` O lugar onde a Yumizuka Satsuki estava matando pessoas.@
+` Atraindo para o beco as pessoas inocentes que transitavam por ali.@
+br
+` E matando essas mesmas pessas impiedosamente, torcendo seus pescoços por trás como se fossem um pano molhado, e em seguida cravando os seus dentes nelas.@
+br
+` Uma pessoa.@
+` Duas pessoas.@
+` Três pessoas.@
+` Quatro pessoas.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`  Como ela ousa[line=2]fazer isso sem mim!?
+\
+textcolor #ffffff
+` Como em um sonho, ela se entrega à vontade de beber sangue, desmembra os quatro corpos e continua bebendo todo o sangue.@
+br
+` Um mundo feito apenas de carmesim.@
+` Mas eu não acho isso doentio e nem horrendo.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`   Patético.@ Patético, patético.@
+textcolor #ffffff
+` Tem uma faca na minha mão.@
+` *arf* *arf* Minha respiração está descontrolada.@
+` Meu coração está batendo como se fosse um trompete, me mandando fazer alguma coisa.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`    Eu teria feito um trabalho muito melhor.
+\
+textcolor #ffffff
+` *arf*, *arf*, *arf*.@
+` Minha respiração está muito ofegante.@
+` Será que é porque estou me segurando para não fazer o mesmo que a Yumizuka Satsuki está fazendo?@
+br
+` Eu estou perdendo o controle.@
+` Porque eu não quero[line=3]ver esta cena.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Por que você está hesitando?
+\
+textcolor #ffffff
+` Não estou[line=2]hesitando.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Por que você está se segurando?
+\
+textcolor #ffffff
+` Não estou[line=2]me segurando.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`      Não há motivo para ficar resistindo a isso.
+\
+textcolor #ffffff
+` É a voz irritante… De alguém.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`  Eu   Eu quero fazer   o que desejo fazer.
+\
+textcolor #ffffff
+` Essa voz.@ Ela pertence[line=4]a mim mesmo.@
+br
+` …… A Yumizuka está chorando.@
+` Será que ela está chorando porque não é uma boa assassina?@ Ou será que é porque está sentindo dor?@ Não sei dizer.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`          Inútil.
+\
+textcolor #ffffff
+` Não tem problema pensar dessa forma?
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Essa mulher é uma inútil.
+\
+textcolor #ffffff
+` …… Mas[line=4]não sou eu o inútil?
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`      Os INÚTEIS deveriam simplesmente serem mortos.
+\
+textcolor #ffffff
+` …… Não tem problema matar os inúteis?
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`           Matar.
+\
+textcolor #ffffff
+` ………………
+\
+textcolor #0000ff
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Matar.
+\
+textcolor #ffffff
+` ……………
+\
+textcolor #0000ff
+br
+br
+br
+br
+br
+br
+br
+`   Matar.
+\
+textcolor #ffffff
+` ……
+\
+textcolor #0000ff
+br
+br
+br
+br
+br
+br
+br
+`  Matar.
+\
+` MatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMatarMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATAR.@
+bg "bg/ima_13b",crossfade,400
+` MATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATAR.@
+textcolor #ffffff
+` MATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATARMATAR.
+\
+monocro off
+bg #9c0120,crossfade,800
+wavestop
+!w3000
+bg #000000,notrans,0

@@ -1,0 +1,77 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_40a",notrans,0
+`"[line=4]"@
+` Olho para o relógio.@
+` Já passa das nove horas.@
+` Estou atrasado, mas não é tarde demais.
+\
+`"Não vai dar.@ Eu vou te ajudar, mas não posso deixar isso afetar minha vida diária.@ Já decidi que vamos trabalhar somente durante a noite."@
+ld c,"tachi/ark_t04",crossfade,400
+`"…… Ah, é?"@
+` Ela me encara com a expressão de alguém que quer reclamar.
+\
+`"Bem, você tem razão.@ Você está me ajudando para proteger seu estilo de vida, não faria muito sentido bagunçar ele todo no processo."@
+` Ela aceita meu argumento com muita facilidade.@
+` …… Ela é emotiva mas consegue usar a lógica, acho que isso combina bem com sua personalidade.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Você pode aproveitar sua vida o quanto quiser.@ Contanto que não se esqueça da sua promessa, não tem problema."@
+cl c,crossfade,400
+` Dizendo isso, ela caminha na direção da janela.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Até mais tarde.@ Se você não aparecer novamente essa noite, eu te mato."@
+cl c,lshutter,400
+br
+` Ela diz a verdade em tom de brincadeira e desaparece.@
+` Saindo pela janela e pulando na árvore, ela vai saltando de galho em galho.
+\
+`"………… Ela estava muito brava."@
+` Mas a escola também é importante para mim.@
+` Eu já tenho que passar as noites com ela, por isso acho que preciso relaxar durante o dia.
+\
+`"Bem, hora de ir para a escola."@
+` Como eu dormi a noite toda, meu corpo está completamente recuperado.@
+` Preciso vestir o uniforme rapidamente e sair de fininho para que nem a Hisui ou a Kohaku-san me vejam.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_24a",lcartain,800
+bg #000000,crossfade,400
+bg "bg/bg_24a",crossfade,400
+`"Hum[line=4]"@
+` Estou meio tonto.@
+` …… Provavelmente é por causa do que aconteceu ontem.@ Meu corpo está um pouco pesado e minha cabeça está doendo um pouco.@
+`"…… Se não piorar vai ficar tudo bem."@
+` É só uma tontura leve.@ Posso descansar quando chegar na minha carteira.@
+` Eu me recomponho e continuo indo para a escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+` [line=4]*suspiro*@
+` Consigo chegar na escola antes do terceiro período.@
+` Dou uma olhada pela sala e vejo que a carteira do Arihiko está vazia.@ Ele deve ter faltado, e isso significa que hoje será um dia calmo.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` Hora do almoço.@
+` Parece que o Arihiko não vai aparecer mesmo.@
+` …… O Inui Arihiko e a Yumizuka Satsuki faltaram de aula hoje.@ Parece que a Yumizuka Satsuki pegou um resfriado e vai ficar ausente por um tempo.
+\
+`"…… Parece que a Senpai também não vai aparecer; vou ter que comer sozinho."@
+` Apesar de dizer isso, eu não estou com fome.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,400
+` …… O que está acontecendo?@
+` Eu já não estava me sentindo muito bem, mas depois de vir para a escola, estou me sentindo bem pior.@
+` E não é só porque meu corpo está pesado.@ A cicatriz no meu peito está irritada; é uma sensação que incomoda muito.
+\
+`"…… Acho que eu não devia ter vindo para a escola."@
+` …… Por um breve momento, vejo os rostos de preocupação da Hisui e da Akiha em minha mente.@
+` Ficar cansado pelo simples fato de estar sentado me causa um mal-estar enorme.
+\
+bg #000000,crossfade,800

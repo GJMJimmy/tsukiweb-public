@@ -1,0 +1,90 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]A noite apenas começou.@
+` Não, para ser mais exato, se a Arcueid estivesse andando por aí, seria mais provável ela fazer isso durante a noite, não durante o dia.@
+br
+`"…… Acho que seria mais eficiente procurar no centro da cidade."@
+` …… Eu nem quero pensar sobre isso, mas a maioria das vítimas foram encontradas em becos.@
+` Se eu quiser encontrar a Arcueid[line=4]se eu quiser encontrar o vampiro que continua assassinando as pessoas, vou ter que procurar pelas ruas.
+\
+`"[line=4]Droga.@ O que estou fazendo!?"@
+` Sem entender meus próprios sentimentos, xingo e começo a correr sem destino.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_26a",lcartain,800
+` [line=6]*suspiro*@
+` Eu me sento na grade de proteção da rua.@
+` Já faz horas desde que comecei a procurar.@
+` Eu procurei por toda parte, mas nem sinal dela.
+\
+`"………… Que droga."@
+` Isso é tão frustrante.@
+` Eu sabia que não seria fácil encontrar alguém assim no meio da cidade, mas estava otimista de que iria encontrá-la.@
+br
+`"Aonde é que ela foi……?"@
+` …… Por quê?@
+` Eu só queria perguntar sobre os assassinatos em série, mas quando ficar claro que não consigo mais encontrá-la, eu[line=4]
+\
+`"Ah, chega.@ Já chega.@ Vou parar de pensar nisso."@
+` Eu me levanto e começo a andar.@
+` Já é quase meia-noite.@ Continuar procurando pela Arcueid é perda de tempo.@
+`"…………"@
+` Mas como já cheguei tão longe, posso continuar mais um pouco.@
+` Ainda há um último lugar que quero verificar.@ Se ela não estiver lá, vou embora para casa.
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+` …… O parque deserto.@
+` Chego até o lugar onde Arcueid e eu derrotamos o Nrvnqsr.@
+` Como só havia procurado no centro da cidade, ficou faltando este lugar.@
+`"…… Não que eu vá encontrar alguma pista……"@
+` Resmungando para mim mesmo, entro no parque.
+\
+bg "bg/bg_28b",lcartain,800
+` Meia-noite.@
+` É como eu imaginava, não tem ninguém aqui a essa hora da noite.@ Esse silêncio é até meio refrescante.
+\
+`"…… É mesmo, né!@ É claro que eu não iria encontrá-la assim, seria conveniente demais."@
+` Eu suspiro e relaxo os ombros.@
+`"…… Que estupidez.@ Por que estou tão decepcionado?"@
+` Não consigo entender.@
+` Acho que, só mais uma vez[line=4]talvez eu quisesse ver o sorriso dela.
+\
+ld c,"tachi/ark_t08",lshutter,400
+`"Ah, aí está você.@ Boa noite, Shiki."@
+br
+` …… Sim, desse jeitinho mesmo.@ Com esse rosto tão alegre e despreocupado que nem dá para acreditar que pertence a uma vampira[line=4]
+br
+`"A,      Arcueid[line=4]!?"@
+` Sem pensar, agarro os seus ombros.@
+ld c,"tachi/ark_t12",crossfade,400
+`"Hein[line=4]?"@
+` Ela recua, surpresa.
+\
+` Quando me certifico que seus ombros são de verdade, rapidamente solto ela.@
+cl c,crossfade,400
+\
+`"V-você, p-por que[line=4]"@
+` Embora a pessoa que eu estava procurando há tanto tempo esteja na minha frente, não consigo fazer nada além de tropeçar nas minhas palavras.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Por quê?@ Que pergunta boba.@ Eu estava te procurando, por isso não é coincidência nos encontrarmos aqui."@
+`"Hã[line=4]Você estava me procurando?@ Por quê?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Por quê?[line=4]Ah, por nenhum motivo em especial."@
+` Ela deixa bem claro que não tinha motivo algum para estar me procurando.
+\
+`"………………"@
+` …… Eu tinha esquecido.@ Às vezes ela parece agir como se fosse um gato de rua.@
+`"…… Bem, foi bom ter te encontrado.@ Para ser sincero, eu também queria te ver.@ Então te encontrar aqui, hum[line=4]"@
+` Eu estava prestes a dizer 'me deixa muito feliz', mas sufoco essas palavras desesperadamente.
+\
+`"[line=4]Enfim, quero ter uma conversa muito séria com você.@ Mas quero conversar em outro lugar, fico desconfortável aqui, tudo bem para você?"@
+`"Tudo[line=4]mas conversar sobre o quê?"@
+`"Você já vai descobrir.@ …… Vamos mais para o fundo do parque."@
+` Dizendo a ela para me acompanhar, eu começo a andar.@
+cl c,lshutter,800
+` Inclinando a cabeça e morrendo de curiosidade, ela vem atrás de mim sem dizer mais nada.
+\
+bg #000000,lcartain,800

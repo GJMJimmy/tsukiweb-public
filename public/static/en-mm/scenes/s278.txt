@@ -1,0 +1,84 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]I'll just stay in the classroom.@
+br
+` Senpai isn't there no matter where I go.@ No matter what I do, she won't come back[line=3]
+\
+bg #000000,lshutter,1500
+bg "bg/bg_06b",lshutter,1500
+` The end of the day homeroom session is over.@
+` My chatting classmates get out of their seats.@
+` After staring at them blankly, I get out of my seat to go back to the mansion.
+\
+` [line=3]Back to the mansion.@
+` But it's not like there's anything if I go back.@
+br
+bg #000000,crossfade,400
+monocro #ffff00
+bg "event/cel_e05a",crossfade,400
+monocro off
+bg "bg/bg_06b",crossfade,400
+`"…………"@
+` I know I can never reach her, but I can't give up.@
+`"Damn it[line=3]what the hell should I do……!"@
+br
+` Voicing my thoughts angrily, I leave the classroom.
+\
+bg "bg/bg_11b",lcartain,800
+` …… I look up and find myself in front of the tea ceremony room.@
+` Even though she won't be here, my legs walk in on their own.
+\
+bg "bg/bg_09b",lcartain,800
+`"[line=7]Ha."@
+` Of course, no one is here.@
+` I wasn't expecting anything, but when I'm hit hard like this, my vision seems to waver.@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_09b",crossfade,400
+` The world starts to spin around me.
+\
+play "*4"
+bg #ffffff,notrans,0
+br
+br
+br
+br
+br
+br
+br
+`     Instantly, it happens.
+\
+bg "bg/bg_09b",notrans,0
+quakey 1,100
+` The ground shakes.@
+` I think to myself it's a large earthquake[line=3]but I realize it's not the ground shaking, but the impact of my body hitting the floor that I felt.
+\
+`"Ah[line=4]eh?"@
+` I can't speak well.@
+br
+` Panting.@
+` The gasping breaths can be no one else's but mine.@
+` But I don't feel bad.@
+` It's more like I don't feel anything, like I have no sense of feeling at all.
+\
+` The sound of frantic breathing.@
+br
+` Even though I'm not exhausted, my throat painfully gasps for air.@
+` I don't feel anything.@
+` I feel like the collapsed body here isn't mine.
+\
+` The sound of gasping.@
+br
+` Something's[line=3]weird.@
+` As I lie breathing wildly on the floor, blood spreads out on the tatami mats[line=4]
+\
+monocro #ff0000
+quakey 1,100
+`"[line=4]Gah."@
+br
+` Suddenly,
+` a stabbing pain fills my chest.
+\
+monocro off

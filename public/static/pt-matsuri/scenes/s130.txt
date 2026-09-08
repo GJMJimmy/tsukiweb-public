@@ -1,0 +1,29 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` Bem, como ela está tão perto da minha sala, talvez realmente tenha vindo atrás de mim.@
+br
+`"…… Que estranho.@ Normalmente ela simplesmente entra aqui sem hesitar."@
+` Será que finalmente percebeu como é estranho uma aluna do terceiro ano vir até uma sala do segundo ano?@
+br
+`"[line=2]Não.@ Duvido que seja isso."@
+` Eu vou até o corredor.
+\
+bg "bg/bg_11a",lcartain,800
+`"Senpai."@
+ld c,"tachi/cel_t08",lshutter,400
+`"Hã[line=2]Tohno-kun?"@
+` Ela parece surpresa ao me ver e simplesmente fica parada com a boca aberta.@
+`"O que está fazendo?@ A aula já vai começar, por que ainda está aqui?"@
+`"[line=5]"@
+` Ela me olha assustada, e então vira o rosto.
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"O que estou fazendo?@ Isso não é da sua conta, Tohno-kun."@
+`"Hum[line=2]Bem… talvez não seja mesmo."@
+`"[line=2]Não, eu estava mentindo.@ É da sua conta sim, só um pouquinho."@
+cl c,lshutter,800
+` Achei que ela havia virado o rosto para não me ver, mas de uma hora para a outra ela começa a me cheirar.@
+`"…… Hum[line=2]Senpai……?"
+\

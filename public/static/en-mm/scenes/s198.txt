@@ -1,0 +1,312 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11c",lcartain,800
+` Naturally, the hallway is empty.@
+` The lights are shut off and the hallway is illuminated solely by the blue moonlight streaming in from the windows.@
+br
+`"[line=6]"@
+` I realize as I look up in the sky from the hallway,
+` tonight is a full moon.
+\
+`"……………"@
+` I lose myself for a moment gazing at it.@
+` The silver moon.@
+` Delicate beauty like glass, it feels like it will crumble if I were to reach out my hand and touch it.@
+` That moon.@
+` When I was a child.@ I feel like.@ I saw it.@ In a stupor.
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+play "*6"
+br
+` [line=4]Throb.@
+br
+`"Gah…………!?"@
+` Suddenly, the scar on my chest begins to ache.
+\
+br
+` [line=4]Thump.@
+br
+` My heart skips a beat.@
+` My blood starts to circulate wildly and I can't control my breathing.
+\
+br
+` [line=4]Thro, b.@
+br
+` I place my hand on my chest.@
+` My uniform is soaked in blood.@
+` My scar has opened and is bleeding.
+\
+br
+` [line=4]Thu, mp.@
+br
+` Panting.@
+` My breathing is out of control.@
+` A chill runs through my back, and my spine painfully feels like it's going to burst open.
+\
+br
+wave se_01
+` [line=4]Thro, b.@
+wave se_01
+` [line=2]Thump.@
+wave se_01
+` [line=4]Th, ro
+wave se_01
+` [line=2]Thum
+br
+wave se_08
+` [line=6]Tap.@
+br
+` In between my heartbeats, I hear a sound.
+\
+`"Ah[line=6]"@
+` Someone is coming.@
+` From the far end of the hallway, walking towards me.@
+` Tap.@ The sounds of footsteps.
+\
+` [line=4]There's something… not right.@
+br
+` This isn't the wild beating of my heart which comes from my body sensing danger like before.@
+` A headache runs through my head.@
+` This pain, this sense of danger is directed against me.
+\
+br
+br
+br
+br
+br
+br
+` I feel that shadowy figure is something I[line=4]Tohno Shiki must not meet[line=6].
+\
+` I breathe harder.@
+` Not even able to breathe properly, I take off my glasses.@
+` My knife[line=3]is in my pocket.
+\
+bg "bg/bg_11d",crossfade,1500
+` The figure draws closer.@
+` The moonlight seems to suggest it's a male.@
+` The "point" indicating death pulsates in the center of his body like a heart.@
+` All around his body are numerous "lines" of death covered like wires for a machine.
+\
+`"[line=18]"@
+br
+` My breathing stops.@
+` …… There's, something wrong with my head.@
+` I don't know this figure.@
+` Even though I don't know[line=4]I can't help but feel like it resembles someone.
+\
+wave se_08
+` Tap, tap.@
+` He approaches.@
+` I'll be able to see his face soon.@
+br
+`"[line=20]"@
+br
+` Who does he resemble?@
+` Who does he resemble?@
+` Who does he resemble?@
+` Who does he resemble?@
+br
+` Who am I forgetting[line=6]?
+\
+ld c,"tachi/roa_t07c",crossfade,1500
+` [line=4]Bloodshot eyes.@
+` The death all over his body.@
+` An alien stillness as if the very air around us was frozen.@
+` There's no mistaking it… he isn't human.@
+cl c,crossfade,1500
+br
+` He draws even closer.@
+` He heads straight in my direction looking solely at me, smiling wordlessly.
+\
+`"[line=18]!"@
+` I ready my knife.@
+` The blade pops forth.@
+` He continues walking.@
+` There's no time to think or hesitate.
+\
+` Under the white moon.@
+` As if in slow motion, I ready my knife.@
+` He doesn't stop.@
+br
+` Slowly,
+` as if time stopped only for me,
+br
+` he easily reaches out and takes my knife, holding it upside down.
+\
+ld c,"tachi/roa_t07b",crossfade,400
+`"Wha[line=4]"@
+br
+` My body[line=4]doesn't move[line=4]
+br
+`"…… Shiki.@ Being able to see death isn't just your privilege."@
+br
+` Saying that, he moves his arm.@
+br
+` [line=4]Th, rob.@
+br
+` A chill runs through me again.@
+` My brain freezes.@
+` My body remembers the same pain from before.
+\
+`"[line=12]Ah."@
+` The sound of slashed flesh.@
+` My knife he stole[line=2]is now plunged deeply[line=2]in my chest[line=6]
+\
+playstop
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_11c",crossfade,400
+` My body collapses.@ All my strength drains as I crumble to the floor.
+\
+br
+` Fluttering,
+` a white sheet falls.
+\
+` [line=4]It's because I leaned on him when I fell.@
+` As I fell, my hand took the bandages wrapping his body.
+\
+`"I see.@ You wish to see my face, Shiki?"@
+` Saying that,
+` he unfurls the bandages.@
+ld c,"tachi/roa_t04c",crossfade,400
+wave se_01
+`"[line=6]"@
+` Everything turns dark.@
+` His face.@ This face before me, I know it.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",crossfade,400
+` [line=4]It does resemble that.@
+` Because his face[line=4]
+` It resembles the face of the bloody child before me on that hot summer day[line=4]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_11c",crossfade,400
+waveloop se_02
+` I fall onto the ground,
+` the knife still embedded in my chest.@
+` Strangely, there is no blood or even pain.@
+` My body just gets colder.
+\
+`My consciousness drifts away.@
+` My control over my body… everything starts to fade away.
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"I did pay you back for killing me."@
+` He says this as he looks down at me.@
+` The face I see as I look up.@ I recognize him.@
+br
+` [line=4]Of course I recognize him.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",notrans,0
+bg "bg/bg_11c",crossfade,400
+` Yeah[line=4]why have I forgotten until now?@
+br
+` When I was a kid.@
+` The other child me and Akiha played with at the mansion.
+\
+` Always[line=4]always, we were together.@
+` When Akiha came to play, me and him were always there to welcome her[line=4]so why[line=3]have I forgotten his name until now……?
+\
+`"SHI[line=4]KI"@
+ld c,"tachi/roa_t04c",crossfade,400
+`"That's right Shiki.@ It's really been a long time."@
+` He[line=4]SHIKI smiles with satisfaction.@
+br
+` SHIKI.@ Shiki.@ Akiha.@ SHIKI.@ SHIKI.@ Akiha.@ Shiki.@
+br
+` Those meaningless scribbles.
+\
+`"That's[line=4]ridiculous."@
+`"Sorry Shiki.@ You'll have to listen to my grudges just a little longer, so I just avoided the "point" of death slightly.@
+` It's not fatal, so you'll probably stay conscious for a bit.@ Don't fade away that easy."@
+br
+` The unpleasant laugh and the terrible uneasiness I felt when I faced Nrvnqsr.@
+` In the midst of my fading consciousness, I realize something.@
+` He is[line=4]Arcueid's "enemy".
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Well then[line=4]shall I take that knife?@ Someone like you who's about to disappear won't need it."@
+br
+` He reaches for the knife stuck in my chest.@
+` He grips the handle.@
+` The moment he takes it out will be my death.@
+br
+` But I can't do anything.@
+` I can't move even to close my eyes.
+\
+bg #000000,lshutter,400
+wave se_12
+bg "bg/bg_11c",notrans,0
+quakey 2,100
+waveloop se_02
+`"Gah[line=4]!?"@
+` He flies.@
+` Suddenly, SHIKI flies back as if he was struck by a car.@
+br
+` At the same time, a black-robed figure appears.@
+br
+` Even though this is the third floor, she crashes through the glass window and makes a flashy appearance.
+\
+`"Kk[line=6]!"@
+` After flying back many meters,
+` SHIKI stands up slowly and stares at me lying on the floor[line=4]and Ciel-senpai protecting me.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"Bitch[line=4]interfering once and now twice?"@
+cl c,crossfade,400
+ld c,"tachi/cel_t06b",crossfade,400
+`"………………"@
+` Senpai only stares back wordlessly at SHIKI.@
+cl c,crossfade,400
+` He lowers himself as if to attack Senpai.
+\
+br
+br
+br
+br
+br
+` [line=4]And then.@
+br
+` As if realizing something, SHIKI suddenly begins to laugh.
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"Huhu, hahaha, ahahahahahaha!"
+\
+`"I see, that's how it is, woman!@ I can't believe it, but that's how it is!@ Interesting, this is the first time such a thing has happened in 800 years……!@
+` If that is the case, then new things truly do await me……!"@
+` SHIKI continues to laugh from the bottom of his heart.@
+` …… Senpai merely stares at the vampire in front of her.
+\
+`"What is it?@ You have come to kill me, right?@ Or is it something else?@ Or is it that a cast-off shell cannot do anything on it's own?"@
+`"[line=6]"@
+` Senpai doesn't respond.@
+` She looks away from the vampire and lifts me up.
+\
+`"Oh?@ That impostor is more important than cutting off the cause behind you?@
+` But, that's useless.@ He is beyond help.@ It's only payback for him living as Tohno Shiki until now.@
+` No matter what, there is no healing someone whose lines of death are cut.@ Even that princess had to exchange her 800 years of time in order to regenerate.@
+` [line=4]A human like him can't escape death."@
+` His voice is full of mocking laughter.
+\
+` Senpai doesn't say anything in response.@
+` In the end, without a single word,
+` as she holds me, she goes through the glass window and jumps outside.
+\
+bg #000000,lcartain,800
+` She seems to treat the height as if it were nothing.@
+` With a light step, she lands on the ground and runs from the school without even looking back.@
+br
+` [line=4]Through it all,
+` I look only at the school building with empty eyes.
+\
+bg "bg/ima_02",crossfade,400
+` The third floor hallway I was in until just now.@
+` I blankly look at the vampire with long, black hair as he victoriously watches us leave[line=6].
+\
+bg #000000,crossfade,1500
+wavestop
+!w3000

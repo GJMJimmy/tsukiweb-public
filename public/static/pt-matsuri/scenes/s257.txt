@@ -1,0 +1,75 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_29b",notrans,0
+` [line=3]Como eu me sinto?@
+` Com certeza a Senpai é uma pessoa querida.@ Não importa quem ela seja, o tempo que passamos juntos na escola é muito precioso para mim.@
+br
+` Mas mesmo assim[line=6]para mim, a Senpai é a Senpai.@
+` Amiga ou inimiga, homem ou mulher, antes de tudo isso, só sinto que ela é a minha Senpai, alguém em quem posso confiar.
+\
+`"………………"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Anda logo!@ Você não pode me enganar ficando quieto."@
+` A Arcueid continua me encarando.@
+` …… Pensando bem, não importa que tipo de pessoa a Senpai seja, essa daqui é muito mais assustadora.@
+` Às vezes me esqueço, mas ela é uma vampira e parece desconhecer sobre conceitos morais.
+\
+` [line=4]Porém eu continuo atraído por ela.@
+br
+` Hoje à noite por exemplo, eu estava simplesmente procurando-a, mas fui ficando tão frustrado quando não pude encontrá-la.@
+` Foi tipo se sentir preocupado com uma pessoa amada.
+\
+`"Shiki, vou perguntar mais uma vez.@ De que lado você está, do meu ou daquela mulher?"@
+` A Arcueid me olha irritada.
+\
+`"…… Ei, isso já não foi decidido?@ Eu ainda estou aqui.@ Se estivesse do lado da Senpai, teria ido atrás dela."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum, resumindo[line=3]o que você quer dizer?"@
+` A Arcueid inclina a cabeça para o lado, confusa.
+\
+`"O que eu quero dizer?"@
+br
+` [line=3]Por que ela não entende coisas tão simples?@
+` Se é assim, ela nunca vai entender a menos que eu seja bem claro.
+\
+`"Você é muito lerda.@ Dizer que ainda estou aqui significa que[line=4]"@
+br
+` Significa o quê?@
+` O fato de que estou atraído por ela é uma verdade indubitável.@
+` Mas sei que é algo que não devo dizer.@
+` Não importa o quão bonita ela seja, isso não muda o fato de que é uma vampira.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Você ficou calado de novo, o que isso significa?@ Se quer escolher a Ciel é só falar!"@
+`"J-Já disse que não é isso!@ Eu já disse e repeti, por que você não entende……!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Como posso saber!?"@
+` Depois de gritar com ela irracionalmente, ela grita de volta para mim.
+\
+`"Ótimo!@ Então eu realmente não te entendo, Shiki!"@
+cl c,lshutter,400
+`"Ei, espera.@ Aonde você vai?"@
+`"Não é da sua conta.@ Não me siga!"@
+` Ela está tão zangada assim?@ A Arcueid vai embora sem sequer se virar.
+\
+`"O qu[line=5]"@
+` Fico sozinho no parque, em choque.@
+` …… A Arcueid ficou brava e foi para algum lugar sozinha; eu já perguntei a ela o que queria saber; eu sei que deveria voltar para a mansão.@
+br
+` …… Mas meus pés não dão nem um passo para trás.
+\
+` Minha lógica me diz para onde devo ir, mas meu coração não escuta.
+\
+` [line=3]Já foi dito um milhão de vezes mas[line=4]@
+` Os sentimentos de amor e ódio nada têm a ver com lógica.
+\
+`"[line=5]Mas que droga! Que situação!"@
+br
+` Por que não consigo deixá-la sozinha……!?@
+br
+`"Arcueid!@ Eu falei pra esperar!"@
+` Gritando, vou atrás da Arcueid que continua andando.
+\
+playstop
+bg #000000,lcartain,800

@@ -1,0 +1,61 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_29b",notrans,0
+` Eu… apesar de tudo[line=4]não quero nem pensar que a Senpai é minha inimiga.@
+br
+`"…… A Senpai é minha amiga querida.@ Inimiga ou aliada, não posso rotulá-la desse jeito."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Como assim?@ Então, o que eu sou para você?"@
+`"Você[line=3]é alguém que não posso deixar sozinha, e hum……"@
+` Coço minha bochecha.@
+cl a,crossfade,400
+` Alguém que não posso deixar sozinha[line=3]e me preocupo com ela de uma maneira completamente diferente da Senpai.
+\
+` Hoje à noite por exemplo, eu estava simplesmente procurando-a, mas fui ficando tão frustrado quando não pude encontrá-la.@
+` Foi tipo se sentir preocupado com uma pessoa amada.
+\
+`"[line=5]Ah."@
+` …… Não, sem chance de isso ser verdade!@
+` É claro que ela é linda, mas eu[line=3]
+\
+bg #000000,crossfade,400
+bg "event/ark_e06b",crossfade,400
+bg #000000,crossfade,400
+bg "bg/bg_29b",crossfade,400
+`"Olha, esquece esse assunto!@ Por que você me perguntou isso!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Como posso saber!"@
+` Depois de gritar com ela irracionalmente, ela grita de volta para mim.@
+`"Ótimo!@ Então eu realmente não te entendo, Shiki!"
+\
+cl a,crossfade,400
+`"Ei, espera.@ Aonde você vai?"@
+`"Não é da sua conta.@ Não me siga!"@
+` Ela está tão zangada assim?@ A Arcueid vai embora sem sequer se virar.@
+` Sua figura desaparece rapidamente à distância.@
+`"…………… Ah."@
+` Para onde ela pretende ir?@
+`"…… Pra que isso[line=3]pra que descontar a raiva em mim desse jeito?"@
+` Sim.@ Foi ela quem me enviou aquela súcubo, eu que devia estar com raiva."
+\
+`"…… Será que fiz algo para deixá-la nervosa……?"@
+` Não faço ideia.@
+` Em primeiro lugar, não tem como eu entender como vampiros pensam.@
+`"[line=5]"@
+` …… A Arcueid ficou brava e foi para algum lugar sozinha; eu já perguntei a ela o que queria saber; eu sei que deveria voltar para a mansão.@
+` …… Mas meus pés não dão nem um passo para trás.
+\
+` Minha lógica me diz para onde devo ir, mas meu coração não escuta.
+\
+br
+` [line=3]Já foi dito um milhão de vezes mas[line=4]@
+` Os sentimentos de amor e ódio nada têm a ver com lógica.@
+br
+`"[line=5]Mas que droga! Que situação!"@
+` Por que não consigo deixá-la sozinha……!?@
+`"Arcueid!@ Eu falei pra esperar!"@
+` Gritando, vou atrás da Arcueid que continua andando.
+\
+playstop
+bg #000000,crossfade,1500

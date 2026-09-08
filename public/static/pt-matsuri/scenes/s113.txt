@@ -1,0 +1,23 @@
+monocro off
+playstop
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+` Eu caminho sem rumo pela cidade.@
+` Por que estou perambulando por aqui sem nenhum motivo?@
+br
+bg "bg/bg_25a",crossfade,400
+ld c,"tachi/ark_t22",crossfade,400
+bg "bg/bg_25a",crossfade,400
+`"[line=4]Ah."@
+` Foi um erro.@
+` Não tem como ela ainda estar por aí, e não é como se eu tivesse algo específico para conversar com ela.
+\
+` Então, por que pensei que fosse ela?@
+` Por qual motivo[line=4]estou caminhando a esmo pela cidade desse jeito?@
+br
+`"…… Tenho que voltar para a mansão."@
+` Balanço a cabeça como se estivesse tentando me livrar de uma embriaguez e viro as costas à ilusão inexistente da Arcueid.
+\
+bg #000000,crossfade,800
+!w1000

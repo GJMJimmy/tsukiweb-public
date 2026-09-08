@@ -1,0 +1,62 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_50",notrans,0
+`"…… Oh bueno.@ Finalmente somos amigos de nuevo, y si le hablo sobre Arcueid, probablemente se enfadará una vez más."@
+` Por ahora, tengo que mantener esta relación.@ Observo a Senpai retirarse y entonces me concentro en mi comida.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06b",lcartain,800
+` La tutoría de fin de clases ha terminado.@
+` Mis conversadores compañeros se levantan de sus asientos.@
+`"[line=4]Bien, entonces."@
+` Debería esperar un poco aquí y ver qué sucede.@
+` Senpai podría venir, y aunque no lo haga, puedo ir a la habitación de la ceremonia del té.
+\
+bg #000000,lshutter,400
+bg "bg/bg_06b",lshutter,400
+` No parece que Senpai vaya a venir.@
+` Supongo que tendré que ir a la habitación de la ceremonia del té.
+\
+bg "bg/bg_11b",lcartain,800
+` Mis piernas dejan el salón rápidamente y se dirigen hacia allá.@
+br
+` [line=3]Bueno, hay un montón de cosas sobre las que tendré que hablar con Senpai.@
+` Sobre el vampiro de esta ciudad y sobre Arcueid.@
+` Aunque sé que será doloroso discutir esas cosas, me emociona la oportunidad de estar con Senpai nuevamente.
+\
+` Comienzo a respirar con dificultad[line=4]
+br
+` Bajo corriendo hacia la habitación de la ceremonia del té.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09b",lcartain,800
+` No hay nadie aquí.@
+` Parece que ella aún no ha venido.@
+br
+` …… *jadeo*…… *jadeo*.@
+br
+` …… Creo que me emocioné demasiado.@
+` Me siento en la alfombrilla tatami y recobro el aliento.
+\
+` …… *jadeo*…… *jadeo*…… *jadeo*.@
+br
+` Mi acalorado cuerpo no se enfría tan fácilmente.@
+` Jadeo dolorosamente por aire.@
+` Mi cuerpo está bañado en sudor, y me siento terrible.
+\
+` Mis jadeos llenan el aire.@
+br
+` Hay[line=3]algo raro.@
+` He estado descansando por un rato, pero mi respiración está empeorando.@
+` En primer lugar, ¿por qué mi cuerpo está cansado después de correr sólo esa pequeña distancia……?
+\
+monocro #ff0000
+quakey 1,100
+play "*4"
+`"[line=3]¿¡Gah!?"@
+br
+` De repente,
+` un dolor punzante llena mi pecho.
+\

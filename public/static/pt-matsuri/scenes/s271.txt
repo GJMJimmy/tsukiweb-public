@@ -1,0 +1,1053 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_29b",notrans,0
+br
+br
+br
+br
+br
+br
+` Não posso.@
+` Não posso permitir que ela faça isso.
+\
+`"[line=3]Pare com isso, sua idiota……!"@
+br
+bg #000000,lshutter,400
+bg "bg/bg_29b",lshutter,400
+` Corro em direção à Senpai.@ A Arcueid para na frente dela abruptamente.
+\
+playstop
+ld c,"tachi/ark_t13",lshutter,400
+`"Shiki!?"@
+` A intenção assassina da Arcueid desaparece, e ela volta ao seu estado normal.@
+` Parece estar completamente surpresa por eu estar protegendo a Senpai.
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"Por quê?@ Como você pode estar protegendo ela……!?"@
+`"…… Já não disse antes?@ A Senpai é uma pessoa muito importante para mim.@ Mesmo que seja você[line=3]não vou permitir que prossiga com isso."@
+` Aperto a mão que está segurando a faca no meu bolso e encaro a Arcueid.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"…… Shiki, você[line=3]"@
+` Seus olhos estão banhados em hostilidade novamente.@
+`"Saia da minha frente e vou te perdoar desta vez.@
+` Agora!@ Para de defendê-la e não empunhe essa faca contra mim."@
+` Seus olhos vermelhos tremulam como velas acesas.
+\
+waveloop se_02
+` Sua intenção assassina está prestes a ser direcionada a mim.@
+br
+` Engulo em seco.@
+` Minha mente me avisa que se eu não sair do caminho neste instante, tudo estará acabado.@
+` Mas mesmo assim[line=3]
+\
+`"……… Não posso.@ Não vou recuar enquanto você não disser que vai deixar a Senpai em paz."@
+ld c,"tachi/ark_t05a",crossfade,400
+`"[line=3]Sai da frente, Shiki!"@
+`"Não, não vou sair, Arcueid……!@ Você não disse que não matava humanos?@
+` Ou estava mentindo……!?"
+\
+ld c,"tachi/ark_t05b",crossfade,400
+`"[line=4]Não menti, não mato humanos mesmo.@
+` Mas valorizo aqueles que ultrapassam a capacidade humana.@ Por isso não me importo de matá-los, já que estão no mesmo patamar que eu.@
+` Assim como você, ou essa mulher aí."@
+br
+` Um passo.@
+` A Arcueid se aproxima.
+\
+`"Entendo[line=3]você está empunhando essa faca contra mim de novo."@
+br
+` Outro passo.@
+` Ela se aproxima mais.
+\
+`"Eu te perdoei da última vez.@ Mas não pense que farei isso novamente.@ …… Em primeiro lugar, não acho que posso ser ferida pela sua faca.@
+` Mesmo com os seus Olhos Místicos de Percepção da Morte, você não deve ser capaz de ver a minha morte neste momento."@
+br
+` Bem na minha frente,
+` seus olhos dourados dominam meu campo de visão.
+\
+bg #9c0120,crossfade,400
+br
+`"[line=4]Ah."@
+` Sinto meu coração parar.@
+` Um frio sobe pela minha espinha.@
+` Esse desespero aterrador, como se o mundo estivesse caindo sobre minhas costas, é muito pior do que qualquer coisa que eu tenha sentido durante a luta com o Nrvnqsr.@
+br
+` …… Não consigo fazer nada.@
+` É isso[line=3]que significa[line=4]enfrentar[line=4]a Arcueid?[line=3]
+\
+bg "bg/bg_29b",crossfade,400
+ld c,"tachi/ark_t23b",crossfade,400
+`"Shiki, essa é a sua última chance.@ Ainda estou me controlando, recue.@
+` Não quero perder a primeira pessoa de quem gostei por causa dessa mulher."@
+br
+` [line=4]O arrepio atinge meu pescoço.
+\
+` A Arcueid está na posição perfeita para me matar.@
+` Se aquele braço se mexer, ela pode me decapitar antes mesmo que eu possa usar minha faca.@
+` Ainda assim[line=3]isso é errado.
+\
+wavestop
+`"…… Por quê? Não entendo, Arcueid.@ Por que você é tão cruel apenas com a Senpai?@
+` Sei que você não é muito familiar com princípios morais, mas você não é o tipo de pessoa que fala em matar alguém com tanta facilidade……!"@
+cl c,crossfade,800
+`"Shiki[line=4]"@
+` A hostilidade dela começa a diminuir.@
+` Ela se afasta de nós.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Compreendo.@ Se você a defende tanto assim, então eu não te conheço."@
+cl c,lshutter,400
+`"A-Arcueid……?"@
+`"Apenas tome cuidado, Shiki.@
+` Essa mulher que está protegendo não é quem você pensa."@
+`"O que[line=3]com assim?"
+\
+`"Hmph.@ Você pode ser enganado e ter seu sangue sugado por ela.@
+` Até mais!@ Depois não venha me procurar chorando!"@
+` Ela vai embora sem olhar para trás.@
+` Os únicos que restam somos a Senpai e eu.@ E ela está machucada e desmaiada.
+\
+`"[line=5]Como assim?[line=4]"@
+` Que coisa idiota de se dizer.@
+` A Senpai sugar o meu sangue……?@
+br
+`"[line=3]Que mentira ridícula."@
+br
+` É como se a…@
+br
+`"[line=3]Senpai fosse uma vampira ou coisa parecida."@
+` Dizendo isso, dou um risada alta.
+\
+` Porque isso não é possível.@
+` A Senpai anda à luz do dia.@
+` Bem, a Arcueid é uma vampira e também faz isso, mas até ela enfraquece ao fazê-lo.@
+` Mas a Senpai não muda, seja dia ou noite.@
+br
+` Pra começo de conversa, a Senpai não é um membro da Igreja?@
+` É contraditório um vampiro ser parte de uma organização cujo propósito é o de exterminar vampiros.
+\
+`"[line=4]!@ Estou esquecendo do mais importante[line=4]Senpai!"@
+` Viro para ver como ela está.@
+` O chão está encharcado de sangue, preciso levá-la a um hospital………
+\
+play "*8"
+`"……………… Hã?"@
+br
+` O sangue[line=3]desapareceu.@
+` Suas vestes negras, que até há pouco estavam sujas com sangue, agora estão limpas.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"[line=4]"@
+` Ela se levanta como se nada tivesse acontecido e parece que não sofreu nenhum arranhão.
+\
+`"Senpai[line=2]o que está acontecendo?"@
+`"…… Tohno-kun.@ Por que me protegeu?@ Sabia que ela quase te matou?"@
+` Seus olhos não possuem emoção alguma.@
+` Com esses olhos vazios, como se fosse uma boneca, ela nem ouve minha pergunta.
+\
+`"Quer saber por quê?@ Porque ela ia te matar.@ Qualquer uma faria a mesma coisa nessa situação."@
+`"Mesmo se isso significar a sua morte?@ Tohno-kun, dedicação não é jogar a sua vida fora.@
+` Desistir da sua vida para salvar a dos outros não é dedicação ou sacrifício, é apenas amor próprio.@
+` Por[line=4]que[line=4]você[line=4]"@
+br
+` Seu tom de voz é severo.@
+` Ela me censura asperamente.
+\
+`"Você só fez isso para não se arrepender depois.@ E está satisfeito apenas com isso.@
+` …… Sendo franca, isso é um incômodo para mim.@
+` Idealismo é uma coisa boa, mas por favor, não me envolva na sua justiça egoísta."@
+`"O qu[line=3]o que você está querendo dizer?@ Eu só não queria que você morresse, Senpai……!@
+` V-Você está dizendo que isso é um incômodo!?@ Está dizendo que estaria tudo bem se a Arcueid tivesse te matado daquela maneira[line=3]!?"
+\
+`"Sim.@ A vida é minha e você não tem nada a ver com isso.@
+` …… É uma desgraça saber que só se está viva por causa da misericórdia de um vampiro."@
+`"[line=5]!"@
+` Estou muito irritado.@
+` Em parte, por ela ter me rejeitado mesmo após eu a ter protegido.@
+` Mas não é só isso[line=3]
+\
+`"Não seja ridícula……!@ O que[line=2]o que pensa que a sua vida é!?@
+` Não entende?@ Se morrer está tudo acabado!@
+` Não importa que coisas terríveis e abomináveis você tenha feito, se não continuar vivendo, tudo terá sido uma mentira!@
+` Você tem que continuar a viver…… Você tem que continuar a viver porque não resta mais nada.@
+` E daí se está infeliz com isso?@ Isso é muito, muito melhor do que não ser capaz de sentir nada………!"
+\
+`"[line=3]É verdade.@ Você experimentou a morte oito anos atrás.@ É por isso que[line=3]se contenta com essa maneira tão simples de pensar."@
+` Seu olhar está completamente vazio.@
+` Ela conversa sem olhar para mim, como se não conseguisse enxergar nem a si própria.
+\
+`"Você deve estar muito feliz.@ Mas eu não posso dizer o mesmo."@
+` Ela anda para trás enquanto fala.
+\
+`"…… Tohno-kun.@ O que ela disse é verdade."@
+`"Do…… do que você está falando……?"@
+`"É como a Arcueid disse, não posso ser chamada de humana.@
+` Não percebeu?@ Todo o sangue derramado desapareceu, como se nunca tivesse existido."@
+`"Isso é[line=4]"
+\
+`"Está tudo bem.@ Eu sou um monstro.@
+` Não sou uma vampira, mas meu corpo não é como o de uma pessoa normal."
+\
+` A Senpai olha para baixo enquanto fala.
+\
+`"……Como…… como assim, Senpai?@ Seu corpo não é como o de uma pessoa normal?@ Você parece normal para mim…!"@
+`"Mesmo que ele seja assim?"@
+br
+` Lentamente, ela pega sua espada e a posiciona contra seu pescoço.@
+br
+`"S-Senpai……!"@
+` Não consigo detê-la.@
+` Com um som seco, ela corta o próprio pescoço.
+\
+bg #000000,crossfade,400
+bg "event/cel_e05a",crossfade,400
+` Splat.@
+` O sangue fresco voa para todos os lados, como tinta sendo jogada nos meus olhos.
+\
+monocro #ff0000
+bg "event/cel_e05a",notrans,0
+br
+` Ping.@
+!w1000
+` Ping Ping.@
+!w1000
+` Ping Ping.@ Ping Ping.@ Ping.@
+!w1000
+\
+` É belo.@
+` Cativando minha visão e toda a minha consciência, o sangue escorre para dentro das vestes negras.@
+` Debaixo do seu manto,
+` a pele branca da Senpai deve estar misturada com aquelas belas linhas vermelhas[line=3]
+\
+monocro off
+bg "event/cel_e05a",notrans,0
+` Uma gota de sangue voa e pousa no meu dedo.@
+` Isso me liberta do meu devaneio momentâneo e me faz voltar para a realidade.@
+` Diante de mim está a figura ensanguentada da Senpai.@
+`"Senpai……!"@
+` Corro em direção a ela.@
+`"Não precisa entrar em pânico.@ Apenas observe."
+\
+` Ela me para e aponta para o próprio pescoço.@
+` …… O ferimento já desapareceu.@
+` E todo o sangue que estava ali também desapareceu.@
+` Como um vídeo sendo rebobinado, tudo retorna ao que era antes.
+\
+bg "event/cel_e05b",crossfade,1500
+br
+br
+br
+br
+br
+br
+` [line=3]Isso foi estranho.@
+` A palavra "rebobinar" descreve muito bem o que aconteceu, não foi uma forma de cura ou regeneração.
+\
+`"……………"@
+` Estou sem palavras.@
+` Depois de ver isso[line=3]não sou louco o bastante para continuar dizendo que ela é normal.
+\
+`"…… E é isso.@ Se pudesse, eu queria que você não tivesse descoberto, Tohno-kun."@
+` Ela sorri com tristeza.@
+br
+` Eu
+` não sei o que dizer.
+\
+`"…… É como você disse, Tohno-kun.@
+` Estive te enganando esse tempo todo.@ Então não posso evitar que fique com raiva de mim."@
+`"……………… Ah."@
+` Mas não posso culpá-la.@
+` Algo assim[line=3]até eu ia querer que ela escondesse de mim para sempre.
+\
+` Queria que ela…… continuasse a ser a Senpai de sempre.
+\
+`"Mas não me arrependo do que aconteceu essa manhã.@
+` Fiquei muito feliz quando você disse que foi divertido estarmos juntos e que queria me proteger se pudesse."@
+`"[line=3]Sen[line=4]pai."@
+` Mas aqueles foram,
+` tempos de paz que quis que durassem para sempre.
+\
+br
+`"Adeus."@
+!w2000
+\
+bg #000000,crossfade,800
+bg "bg/bg_29b",crossfade,800
+` Ela continua sorrindo até o fim, e desaparece diante dos meus olhos.@
+`"[line=6]"@
+` Minha mente está em completa desordem.@
+br
+` Não consigo ir atrás dela.@
+` A Arcueid disse que a Senpai era uma vampira.@
+br
+` E ela não negou isso, pelo contrário, ainda me mostrou uma prova, e depois de dizer adeus, desapareceu.
+\
+` Mesmo que tenha sido mentira.@
+` Mesmo que tenha sido uma mentira facilmente identificável, bastava que ela negasse e tudo teria ficado bem.
+\
+bg #000000,crossfade,400
+bg "event/cel_e05b",crossfade,400
+bg "bg/bg_29b",crossfade,400
+` Não posso esquecer seu rosto triste.@
+` A Senpai, uma pessoa tão boa,
+` apenas uma veterana na minha escola,
+` eu não desejava saber que ela era uma pessoa tão diferente.
+\
+br
+br
+` [line=3]Adeus.@
+br
+` Suas últimas palavras.@
+` Não preciso tentar descobrir o seu significado.@
+` Eu sabia sobre ela e ainda assim a magoei.@ Mesmo depois disso ela veio atrás de mim.@
+` Mas está tudo acabado.@
+` Não quero acreditar que nunca irei vê-la novamente.
+\
+wave se_01
+`"[line=4]Não, isso não está acontecendo."@
+` Minha cabeça não quer funcionar direito.@
+` Está em choque.@
+` Tão em choque que nem consegue dizer o motivo do choque.@
+br
+` Saio do parque com minhas memórias incertas e passos vacilantes.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24c",lcartain,800
+br
+` [line=3]TUMMM.
+\
+bg #000000,lcartain,800
+bg "bg/bg_47",lcartain,800
+br
+br
+` [line=3]Tummm.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48d",lcartain,800
+br
+br
+br
+` [line=3]TUMMM.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+br
+br
+br
+br
+` [line=3]Tummm.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40d",lcartain,800
+bg #9c0120,crossfade,400
+bg "bg/bg_40d",crossfade,400
+br
+br
+br
+br
+br
+` …… Estou exausto.
+\
+` Essa dor de cabeça está me matando.@
+` Não quero mais pensar na Senpai ou na Arcueid, ou em qualquer outra coisa.@ Só quero dormir.
+\
+bg #000000,crossfade,1500
+playstop
+!w3000
+phase #000000,l,cel,08a,8
+bg #ffffff,crossfade,1500
+bg "bg/cmo_05",crossfade,800
+br
+` Um dia quente de verão.@
+br
+` Um céu azul e enormes colunas feitas de nuvens de verão.@
+` Uma leve brisa,
+` e o canto monótono das cigarras.@
+br
+` O som das cigarras.
+\
+br
+` Chiiirp.@ Chirp Chirp.@
+` Chiiirp.@ Chirp Chirp.@
+` Chiiirp.@ Chirp Chirp.@
+br
+` [line=4]É tão alto que chega a incomodar.
+\
+` Cascas de cigarras estão caídas na clareira.@
+` Como se o sol estivesse bem do meu lado,
+` a clareira está torrando.@
+br
+` Um dia quente no meio do verão.@
+` É como se o mundo inteiro tivesse se transformado em uma frigideira com óleo quente.
+\
+` buáá, bu[line=2]buááá.
+\
+` buáá, bu[line=2]buááá.@
+` buáá, bu[line=2]buááá.
+\
+bg "bg/cmo_06",crossfade,800
+br
+` A Akiha está chorando.@
+` Uma criança está caída aos seus pés.@
+br
+` Sua camisa branca está pintada de vermelho, com sangue, e ele não se mexe.
+\
+` Estou apenas observando.@
+` Minhas mãos estão vermelhas, igual a camisa da criança no chão.@
+br
+` Não, não é isso.@
+!w500
+` Estas mãos,
+!w500
+` estão vermelhas com o sangue daquela criança.
+\
+bg "bg/cmo_07",notrans,0
+wait 100
+bg "bg/cmo_11",notrans,0
+wait 100
+bg "bg/ima_16",notrans,0
+wait 100
+bg "bg/cmo_09",notrans,0
+wait 100
+bg "bg/ima_01",notrans,0
+wait 100
+bg "bg/cmo_08",notrans,0
+wait 100
+bg "bg/cmo_13",notrans,0
+wait 100
+bg "bg/cmo_10",notrans,0
+wait 100
+bg "bg/cmo_07",notrans,0
+bg #000000,crossfade,400
+bg "event/ark_e06b",crossfade,400
+play "*9"
+br
+` Uma planície verdejante intocada pelo sol.@
+` Banhada apenas pelo luar, com imponentes flores brancas.@
+br
+` Sob a lua transparente.@
+` Uma mulher solitária, envolta em branco puro.
+\
+` Sem conhecer as palavras.@
+` Sem ter consciência de si mesma.@
+` Tratada unicamente como uma arma.@
+br
+` A mulher de branco, manchada de sangue fresco, não possui nenhum ferimento.@
+` O vermelho impregnando seu vestido é apenas o sangue dos seus inimigos.
+\
+` O único momento que ela tem para si mesma[line=4]é este breve espaço de tempo após seu regresso manchado de sangue.@
+` O que a espera depois disso é um sono profundo, do qual ela não pode acordar sozinha.@
+` …… A garota de branco não conhece seu destino, ela apenas observa a lua com um olhar distante.
+\
+br
+br
+!w1000
+` [line=3]Acho que vi a eternidade ali.@
+!w1050
+br
+` É uma ilusão?@
+` Provavelmente sim.@
+` Mas isso não importa.@
+` O fato de que a imagem daquela mulher está eternamente impressa na minha memória é verdadeiro[line=3]
+\
+playstop
+bg #ffffff,crossfade,1500
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+` Sinto que tive um sonho nostálgico e acordo.@
+br
+`"Ah[line=4]"@
+` Inspiro profundamente do nada, como se não estivesse respirando antes.@
+` Isso me acorda por completo.
+\
+`"………………"@
+` Estou no meu quarto.@
+` Depois daquilo[line=3]depois de me separar da Senpai no parque, de alguma forma devo ter retornado ao meu quarto.
+\
+bg "event/cel_e05b",crossfade,800
+bg "bg/bg_40a",crossfade,800
+`"[line=3]Ciel[line=4]Senpai[line=3]"@
+` Não posso esquecer seu rosto.@
+` Por que eu não disse nada naquele momento?@
+` Eu ainda estava atraído pela Arcueid, mesmo sabendo que ela é uma vampira.@
+` Então, ainda que a Senpai fosse uma vampira, eu não deveria ter ficado tão surpreso.@
+br
+` …… Devia ter rido.@
+` Se tivesse rido como se tivesse acabado de ouvir uma piada, provavelmente ela teria rido comigo, como sempre.
+\
+`"…… Não.@ Eu[line=3]"@
+` Realmente queria que ela permanecesse como a Senpai de sempre.@
+` As horas rotineiras, pacíficas e divertidas que passei com ela na escola foram muito preciosas.@
+`"[line=4]Droga."@
+` Mas agora está tudo acabado.@
+` Ela nunca mais vai voltar para a escola como a Senpai de novo.
+\
+`"…… O que devo fazer?"@
+` Não sei.@
+` Eu queria encontrar o covil do vampiro e destruí-lo, mas sequer consigo procurar por ele sozinho.@
+` Cortei meus laços com a Arcueid, e a Senpai e eu estamos brigados agora.@
+` …… Não, nunca mais verei a Senpai.
+\
+`"[line=7]"@
+` Coloco meus óculos e levanto da cama.@
+` Já passam das oito.@
+` Normalmente, eu já teria tomado o café da manhã nesse horário, mas hoje é feriado escolar.@
+br
+`"A Hisui…… não está aqui?"@
+` A imagem da Hisui parada diante da porta como uma sombra não está aqui.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"M……"@
+` A leve dor de cabeça retorna.@
+` Para completar a minha vida estranha nesta mansão, os acontecimentos dos últimos dias foram muito estressantes.@
+` ………… *suspiro*@
+` Suspiro profundamente.@
+` Não sei o que devia fazer, embora tenha um monte de coisas que tenho que fazer.@
+` Já que estou tão preocupado com a Senpai, posso simplesmente ir até o seu apartamento.
+\
+`"[line=2]Muito bem.@ Antes de tudo.@ Hora do café da manhã."@
+` As pessoas não podem fazer nada de estômago vazio.@
+` Espantando o sono do meu corpo, vou para a sala de estar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` A Hisui está no saguão fazendo alguma coisa.@
+` Acho que está redecorando a sala, pois a vejo carregando uma cadeira.@
+`"Hisui."@
+` Ela percebe que estou aqui e calmamente vem na minha direção.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Bom dia, Shiki-sama."@
+`"…… Bom dia.@ Desculpe-me por eu ter acordado apenas quando senti vontade."@
+`"Por favor, me desculpe também.@ Eu deveria estar lá quando você acordasse.@ Perdoe-me."@
+` Ela abaixa a cabeça.@
+br
+` …… Ver ela me pedindo desculpas assim, depois que saí no meio da noite e voltei para o meu quarto sem falar nada, me faz sentir como a pior pessoa do mundo.
+\
+`"Não precisa se desculpar.@ Eu não acordei no horário de costume, a culpa foi minha.@ Se quiser, você sempre pode reclamar alguma coisa comigo, Hisui."@
+` Como agora, por exemplo, se ela não for rigorosa comigo, meu espírito pode hesitar um pouco.
+\
+`"Shiki-sama……?"@
+`"Não se preocupe, apenas esqueça isso.@ Estou com fome.@ O café da manhã está pronto?"@
+`"…… A Nee-san saiu.@ Seu café da manhã está na sala de jantar."@
+`"Ah.@ Nesse caso, vou lá comer.@ Desculpe te atrapalhar enquanto estava trabalhando."@
+` Depois de me despedir, desço as escadas.
+\
+bg #000000,lcartain,800
+!w1000
+playstop
+bg "bg/bg_33a",lcartain,800
+` Depois de tomar o café da manhã, volto ao saguão.@
+` …… Indo ou não até o apartamento da Senpai, preciso voltar para o meu quarto e me trocar.@
+br
+quakey 1,100
+`"[line=4]Ai!"@
+` Meu dedinho do pé bate na cadeira.@
+`"…… Ai.@ Por que diabos tem uma cadeira aqui……?"@
+` É mesmo, é a cadeira que a Hisui estava carregando agora há pouco.@
+` Como aqui não é o lugar dela, acabei batendo o dedinho nela.@
+br
+`"…… Droga.@ Devo estar muito desatento para ter feito isso."@
+` Solto um suspiro.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_33a",notrans,0
+` [line=3]Mas a Hisui, hein.@ Por que ela deixou essa cadeira aqui?@
+` O que ela estava pensando ao deixar uma cadeira onde as pessoas geralmente passam?@
+br
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_33a",notrans,0
+` …… Meu dedinho ainda está doendo.@
+` É uma dor absurda.@
+` Uma dor que eu nunca teria sentido se esta cadeira não estivesse aqui.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_33a",notrans,0
+br
+` [line=3]Que coisa irritante.@
+` Eu pretendia ver a Senpai, por que isso tinha que acontecer?@
+br
+` Esta cadeira está me incomodando muito.@
+` Por que ela está aqui?@
+` Ela nunca devia ter sido deixada aqui.@ Se não estivesse aqui, eu nunca teria batido meu dedinho.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_33a",notrans,0
+br
+` Fico louco de raiva e chuto a cadeira.@
+` Tum.@
+` Assim que a chuto, o meu dedinho dói ainda mais.@
+br
+` Tum, Tum.@
+` Tum, Tum, Tum.@
+br
+`"[line=7]Ora sua!"@
+` Que[line=4]coisa[line=4]irritante.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_33a",notrans,0
+waveloop se_02
+br
+` Desapareça.@
+` Esta cadeira é um demônio, é o próprio capeta, o mal na face da Terra.@
+` Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira.@ Esta cadeira!
+\
+ld c,"tachi/his_t08",notrans,0
+`"Shiki-sama……!?"@
+wavestop
+`"[line=3]Hã, Hisui?@ O que você quer?"@
+` Digo isso surpreso.@
+` …… Estou respirando com dificuldade.@
+` Meu peito sobe e desce.@
+` Parece até que corri uma maratona.
+\
+`"Hã?@ …… Por que estou sem fôlego?"@
+` Tento recuperar o fôlego.@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama[line=3]o-o q-que você está fazendo?"@
+`"Hã, mas[line=3]por que está me olhando desse jeito, Hisui?@ Aconteceu alguma coisa?"@
+`"…… Shiki-sama, está dizendo que não sabe o que estava fazendo……?"@
+`"O que eu estava fazendo?@ Não estava fazendo nada[line=4]"@
+cl c,crossfade,400
+bg #9c0120,crossfade,400
+!w3000
+bg "bg/bg_33a",crossfade,400
+\
+`"Gah[line=3]"@
+` A dor de cabeça volta a atacar.@
+` Sacudo a cabeça para me livrar dela e finalmente percebo o que está aos meu pés.@
+br
+` O que está ali são……
+` os restos despedaçados da cadeira.
+\
+`"[line=6]Hein?"@
+br
+` Tu, dum.@
+` Meu coração bate mais forte.
+\
+`"[line=3]Eu[line=3]fiz isso?"@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=3]Sim.@ Esse é o resultado de segurar a cadeira e batê-la no chão várias vezes."@
+`"O qu[line=6]"
+\
+` Por quê?@ Por que eu[line=3]fiz isso?@
+` Sei que meu dedo estava doendo por ter batido sem querer na cadeira.@
+br
+` Mas por que fui tão longe[line=3]por que fiquei tão nervoso por causa de uma coisa dessas e quebrei a cadeira como se fosse uma criança dando birra……?
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Shiki-sama, você está se sentindo bem?@ Se estiver doente, posso chamar um médico."@
+`"[line=4]Não, não é nada.@ Nada mesmo.@ Desculpa, Hisui, eu…… apenas me senti estranho."@
+br
+` Afasto-me dela.
+\
+` Afasto-me dos pedaços da cadeira que destruí.
+\
+`"Shiki-sama, por favor, se acalme.@ Ficar agitado desse jeito não é bom para a sua saúde."@
+`"Estou bem, me deixe em paz!@ Quero ficar sozinho, me deixa em paz……!"@
+cl c,lshutter,400
+br
+` Grito a última frase e subo as escadas correndo.@
+` Percebo bem tarde que pareço estar fugindo dela.
+\
+bg #000000,lcartain,400
+bg "bg/bg_40a",lcartain,400
+` Volto para o meu quarto e me jogo na cama.@
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+` Mais uma vez.@
+` Minhas têmporas começam a doer.@
+` Tum, Tum.@
+` Como se um novo coração tivesse surgido em meu cérebro, minha cabeça lateja dolorosamente.
+\
+`"………… Kkk."@
+` Isso dói.@
+` Isso dói.@
+` Isso dói.@
+br
+` Provavelmente foi essa dor que deu origem ao comportamento violento que tive ainda há pouco.@
+` Por ter sido obrigado a ver a "morte" tantas vezes nesses últimos dias, meu cérebro ficou todo embaralhado.@
+` Primeiramente[line=3]preciso me acalmar.@
+` Enquanto mantiver os óculos no rosto, essa dor de cabeça não vai piorar.
+\
+`"……… O que estou fazendo?@ ……… Tenho que ir ver a Senpai…… depressa."@
+br
+` Mas se eu for atrás dela nesta condição, vou apenas magoá-la mais ainda.@
+` Preciso me acalmar.@
+` Calmamente.@ Se eu sentar aqui calmamente, a dor de cabeça vai embora.
+\
+br
+` ……
+!w1000
+` …………
+!w1000
+` …………………
+!w1000
+` …………………………… Viu?@ Já está passando.
+\
+waveloop se_11
+` Meu quarto está em completo silêncio.@
+` Neste quarto, com apenas o tique taque do relógio, devo ser capaz de me acalmar rapidamente.@
+br
+` Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@
+br
+` …………… O tique taque do relógio.
+\
+br
+` Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@
+br
+` ………… Dá para ficar quieto?
+\
+br
+` Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@
+br
+` ………… Ei.
+\
+br
+` Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@ Tic-tac.@
+br
+` ………… Mandei ficar quieto………!
+\
+quakex 1,100
+wavestop
+br
+br
+br
+br
+br
+` [line=3]Parou.@
+` Espatifando-se, o relógio para.
+\
+`"[line=3]Que silêncio."@
+` Sim, assim é bem melhor.@
+` Agora posso ir atrás da Senpai.
+\
+bg #000000,crossfade,800
+!w1000
+play "*3"
+bg "bg/bg_48a",lcartain,800
+` Saio pela porta da mansão.@
+bg "bg/ima_03",crossfade,800
+` O céu está tingido com um azul brilhante.@
+` Vou em direção ao portão.@
+` Nesse momento, ouço um barulho vindo do jardim.@
+`"…………?"@
+` Que estranho.@ A Hisui estava no saguão recolhendo os pedaços da cadeira.@
+` A Kohaku-san saiu, e a Akiha está na escola.@
+` …… Não devia haver mais ninguém na mansão.
+\
+bg #000000,lcartain,800
+bg "bg/bg_42a",lcartain,800
+` Vou até o jardim.@
+` …… Pensando bem, passávamos a maior parte do tempo brincando no jardim.@
+` Depois que voltei, fiquei ocupado com tantas coisas que não tive uma oportunidade de dar uma caminhada por ele.@
+br
+` Um ruído.@
+br
+` Aquele som de novo.@
+` Parece que alguém acabou de passar por aqui.
+\
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_54a",crossfade,400
+ld r,"tachi/his_t09",crossfade,400
+bg "bg/bg_54a",crossfade,400
+`"Hã?@ Hisui……?"@
+` É a Hisui.@
+` …… Parece que ela não me viu, já que continuou indo em direção à floresta.@
+` Ela realmente não notou minha presença.@
+` O que ela está fazendo, indo para a floresta?
+\
+`"?"@
+` Um pouco curioso, sigo-a de uma distância segura.@
+br
+` [line=4]E.@
+br
+` Parece haver uma pequena clareira no lugar que a Hisui está indo.
+\
+`"……… Hã?@ Tem uma clareira naquele lugar……?"@
+` Inclinando minha cabeça para o lado tento me lembrar, mas por algum motivo minha memória está um pouco vaga.@
+` Na floresta da mansão, posso ver uma clareira, como se as árvores de lá tivessem sido cortadas.
+\
+` [line=3]Não, "posso ver" não está certo de se falar.@
+` Se estivesse caminhando normalmente, provavelmente nunca iria percebê-la.@
+` Se a Hisui não tivesse ido até ela, tão escondida pelas árvores ao seu redor como está, eu nunca a teria notado mesmo se vivesse aqui toda a minha vida.
+\
+`"…… Ela sempre esteve ali?@ Se esteve, provavelmente brincamos lá quando éramos crianças."@
+` Para falar a verdade, não me lembro de ter brincado com a Akiha nessa clareira.
+\
+br
+` [line=4]Sinto que nunca estive lá antes.@
+br
+`"…………"@
+` Depois de pensar um pouco, decido ir até a clareira.
+\
+bg #000000,lcartain,800
+bg "bg/bg_53",lcartain,800
+` …… Não me parece nada fora do comum.@
+` Não vejo nenhum sinal da Hisui.
+\
+`"O que é isso[line=3]é apenas um espaço vazio."@
+` Vou até o meio da clareira.@
+` Realmente é apenas um espaço vazio.@
+` Um terreno aberto, perfeitamente nivelado.@
+` A floresta densa envolve a área.@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+waveloop se_02
+` O canto das cigarras.@
+` E o forte sol de verão que parece poder dissolver[line=6]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+`"Hein…………?"@
+` Verão[line=2]sol de verão[line=3]?@
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+br
+`"Ai[line=4]aiai………"@
+` O ferimento no meu peito começa a doer.@
+`        É como uma / facada.@
+` Essa dor / é como se fosse / uma faca apunhalando o meu peito.
+\
+bg #ffffff,crossfade,800
+br
+` Chiiirp.@ Chirp Chirp.@
+` Chiiirp.@ Chirp Chirp.@
+` Chiiirp.@ Chirp Chirp[line=5]
+br
+` [line=4]Estou ouvindo o canto das cigarras.@
+br
+` Mas estamos no outono.@
+br
+` [line=4]O sol de verão banha tudo em branco.
+\
+bg "bg/cmo_05",crossfade,800
+` Colunas feitas de nuvens de verão ao longe no céu.@
+` Quase posso compreender o canto.@
+` Aos meus pés, estão as cascas descartadas de cigarras.@
+` Casca descartada.@ A casca descartada[line=2]de alguém.
+\
+br
+`"[line=6]………"@
+br
+` [line=3]Estou ficando irritado de novo.@
+` Consegui me acalmar agora há pouco, mas estou me ficando irritado de novo.
+\
+` Tenho que ver a Senpai.
+\
+` Tenho que encontrá-la o quanto antes e dizer a ela que não me importo, mesmo que ela fosse uma vampira, não me importaria nem um pouco.
+\
+` ……
+!w750
+` …………
+!w750
+` ………………
+!w750
+` ……………………
+!w750
+br
+` ………………… mas qual é a verdade?@
+` Posso dizer com toda honestidade que sorriria junto dela como antes, apesar de ela ser uma vampira[line=3]?
+\
+bg "bg/cmo_06",crossfade,800
+br
+` …… Vejo a silhueta de alguém agachado.@
+`   Os passos de uma garotinha se aproximando.@
+`   As colunas de nuvens no céu distante.@ As cascas descartadas das cigarras.@
+`   Quando percebo,
+br
+`   ali está,
+`   meu cadáver perfurado no peito.
+\
+br
+br
+br
+br
+br
+br
+`     E olhando para o meu cadáver, surpreso,
+`     está a minha figura.
+\
+bg #ffffff,crossfade,1500
+bg "bg/bg_53",notrans,0
+wavestop
+play "*4"
+`"Ah[line=4]guh."@
+` Meu peito dói.@
+` Estou com ânsia de vômito.@
+` Meu ferimento foi curado há muito tempo; por que ele dói tanto?
+\
+bg #9c0120,crossfade,800
+` Meu peito   está com algum problema.@
+` O antigo ferimento se abre, o sangue flui da abertura.@
+br
+` [line=3]Como assim?@
+` Meu ferimento[line=2]não se curou completamente.
+\
+br
+br
+` Está doendo.@
+`   Estou assustado.
+\
+br
+` [line=3]Sou tomado pela tontura.
+\
+br
+br
+br
+br
+`       Isso é,
+`        O impacto chamado de Morte.
+\
+bg #000000,crossfade,400
+br
+` Minha consciência vai desaparecendo.@
+`  Meu ferimento dói.@
+br
+` Meu corpo cai no chão com um estrondo.
+\
+!w3000
+playstop
+bg "bg/bg_40c",crossfade,1500
+play "*9"
+br
+` …… Estou ouvindo pessoas conversando.@
+br
+`"Akiha-sama, você não vai chamar um médico?"@
+`"Não seja estúpida, Hisui.@ De maneira alguma eu poderia fazer isso, o ferimento do Nii-san não é normal…!"
+\
+` …… A Akiha  e  a Hisui   estão conversando.@
+` Este   é   o quarto do SHIKI.@
+` Parece   que   estou  deitado  na cama.@
+br
+` Eu pretendia dizer "Bom dia!" e sair da cama, mas não consigo me mexer.@
+` Meu peito não dói mais, mas meu corpo está tão pesado quanto chumbo.@
+` Só consigo mexer os olhos e a boca.
+\
+ld l,"tachi/aki_t10",crossfade,400
+`"Mas o que você estava tentando fazer, Hisui?@ Você sabe que não é para deixar o Nii-san chegar perto daquele lugar……!"@
+ld r,"tachi/his_t05",crossfade,400
+`"Por favor…… perdoe-me."@
+ld l,"tachi/aki_t07",crossfade,400
+`"Isso não pode ser resolvido pedindo desculpas.@ Você foi designada a servir o Nii-san para evitar esse tipo de situação.@ Então, o que você estava fazendo…!?"
+\
+` Completamente diferente do normal, a Akiha se entrega totalmente à sua raiva.@
+` A Hisui está aceitando a repreensão de cabeça baixa e em silêncio.
+\
+` …… Não sei o motivo disso estar acontecendo.@
+` Mas pelo menos posso dizer que a Hisui está sendo repreendida por minha causa.
+\
+ld l,"tachi/aki_t11a",crossfade,400
+`"Responda logo, Hisui.@ O que você estava fazendo e onde esteve o dia todo?"@
+br
+` A Hisui não responde.@
+` O ar fica mais tenso entre elas.@
+` Mordendo o lábio, a Akiha dá um passo em direção à Hisui.@
+cl a,crossfade,400
+\
+` …… Até eu posso entender que a Akiha pretende bater nela.@
+` A Hisui parece saber disso também, mas permanece com a cabeça abaixada, com vergonha, pronta para apanhar.
+\
+`"[line=4]Espera, Akiha."@
+ld c,"tachi/aki_t15a",crossfade,400
+`"Nii-san[line=2]você está acordado!?"@
+`"Sim, você estava falando tão alto que acordei."@
+`"Ah…………"@
+ld c,"tachi/aki_t16a",crossfade,400
+` Ela desvia o olhar, parecendo desconfortável.@
+` A Hisui continua de cabeça baixa, nem tenta olhar para mim.
+\
+`"Olha, você não deveria brigar com a Hisui.@ Não sei as circunstâncias, mas isso tem a ver com o meu desmaio, não é?@ Não é culpa dela, eu desmaiei por minha culpa mesmo."@
+` Eu me esforço bastante e consigo levantar a parte de cima do meu corpo.@
+br
+` Mas isso é tudo que consigo e não acho que consiga mover até mesmo uma polegada a mais.@
+` Mas como a Hisui está deprimida, tenho que me forçar a agir da melhor forma possível.
+\
+`"…… Sinceramente, brigando por minha causa!?@ Mesmo que você pareça adulta, ainda é uma criança."@
+ld c,"tachi/aki_t17a",crossfade,400
+`"Mas… Você desmaiou, Nii-san.@ Você ficou assim por mais de dez horas e isso nunca havia acontecido antes.@ E se[line=3]você nunca acordasse, o que eu faria……!?"@
+`"Idiota, não diga uma besteira dessas.@ Isso não foi apenas a minha anemia?@ …… Hã?@ Já são dez horas!?"
+\
+`"…… Sim, você esteve inconsciente desde o meio-dia."@
+` Ela fala hesitante.
+\
+`"[line=6]"@
+` Sinto minhas forças irem embora.@
+` Quer dizer que fiquei dormindo todo esse tempo.@
+` Eu não fui no apartamento da Senpai e passei o dia todo dormindo.
+\
+`"…… Nossa, não desmaio por tanto tempo assim desde o primário.@ Ah, é mesmo, eu desmaiava frequentemente naquela época, já que não estava acostumado a viver com os Arimas e ficava estressado por causa de tantas mudanças."@
+br
+` Sinto tudo girar ao meu redor, como se estivesse sonhando.@
+` Devaneando, olho para o teto enquanto lembro do passado.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… É verdade.@ Tem apenas uma semana que você voltou para casa.@ Nii-san, você deve estar exausto."@
+`"[line=2]Pois é.@ Eu me senti assim hoje."@
+`"Então, por favor, descanse por hoje.@ Sua saúde é mais delicada do que a da maioria das pessoas, portanto seu corpo fica muito cansado a menos que tire um dia de folga de vez em quando."@
+` Ela me olha nos olhos com uma expressão séria.
+\
+`"………………"@
+` …… É como ela disse.@
+` Eu devia deixar tudo de lado.@
+` Não devia pensar na Senpai ou em vampiros e apenas descansar, ou vou ficar esgotado.@
+` Fiquei furioso daquela forma e quebrei a cadeira, deve haver algo de errado comigo.
+\
+`"…… Sim, é como você disse, vou dormir."@
+` Deito novamente.@
+ld c,"tachi/aki_t17a",crossfade,400
+`"Jura……?@ Você não vai sair de fininho do quarto mais tarde?"@
+`"O que foi, não confia em mim?"@
+` …… Acho que não.@
+` Pois nesses últimos dias estive ignorando ela e saindo de casa.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"Hisui, diga para a Kohaku que o Nii-san está acordado.@ Nii-san, você quer jantar?"@
+`"…… Ah, é mesmo.@ Não, diga à Kohaku-san que sinto muito, mas acho que não consigo comer agora.@ Vou apenas dormir."@
+`"…… Entendo.@ Então Hisui, diga isso à Kohaku."@
+` Ainda cabisbaixa, a Hisui concorda e sai do quarto.
+\
+` …… E agora.@
+` Deitado na cama, começo a ficar sonolento novamente.@ Aposto que poderia cair no sono em menos de um minuto…@
+br
+` [line=3]Mas antes disso.
+\
+`"Akiha.@ Existia um lugar como aquele no jardim?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Sim.@ Quando éramos crianças costumávamos brincar lá muitas vezes."@
+`"Hum.@ Por algum motivo não me lembro bem."@
+` …… Sim.@ Realmente me esqueci disso.
+\
+`"E mais uma coisa.@ …… É uma pergunta estranha, mas, quando éramos crianças, não havia outra criança com a gente?"@
+`"Hã?"@
+` Ela inclina a cabeça, como se não entendesse o que estou dizendo.@
+` …… Acho que não.@ Não poderia ter tido outra criança.@
+` Foi apenas um sonho.@
+` Aquela clareira.@ Eu, ainda criança, morto por alguém que se parecia comigo.@ Tem algo de errado nisso tudo.@
+` Se aquilo fosse verdade, então como eu estaria aqui agora?
+\
+`"Ah, não é nada.@ Estava apenas falando de um sonho."@
+`"É isso mesmo?@ Então, boa noite, Nii-san.@ Descanse bastante."@
+`"Sim, vou fazer isso."@
+bg #000000,crossfade,800
+` Logo após responder a ela,
+` adormeço rapidamente, como se tivesse desmaiado outra vez.
+\
+playstop
+!w3000

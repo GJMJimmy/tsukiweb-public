@@ -1,0 +1,55 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` And now the hint corner for the sake of the mischievous Tohno-kun who quickly ended up in a Dead End,
+` It is time for "Teach me, Ciel-sensei!"@
+br
+` Well then, now for the third of the ever-popular series, "Shakes 'n Shivers Animal Land".
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Liar!@ I don't see any animals coming out!"@
+br
+` Denied.@
+` No Longer Human (Pet's Name), Go!@
+ld c,"tachi/kemo_t04",lshutter,400
+br
+`"Killing junkie~"@
+cl l,lshutter,400
+br
+`"Kyaaaaaaaaaaaaa………… hunyaa!"@
+cl c,lshutter,400
+br
+` Well then, the third in our animal series.@
+` Why did Tohno-kun end up dying?@
+` This time, we have brought a special guest lecturer.@ I have called in this person who was wandering about after finishing his task earlier.@
+` Professor Nrvnqsr, please go ahead.
+\
+play "*4"
+ld l,"tachi/nero_t03",lshutter,400
+`"Nothing."@
+br
+` …… Um.@
+br
+`"Nothing.@ I will only speak when I am victorious."@
+br
+` …… Um, if we're here, it means you have won in a way, Professor Nrvnqsr.@
+ld l,"tachi/nero_t02c",crossfade,400
+br
+`"[line=3]I see.@ That is a sound argument.@
+` But there is nothing to be said.@ I do not know of anyone who would miss a once in a lifetime opportunity.@
+` Return to the choice before and correct yourself."
+\
+cl l,lshutter,800
+play "*3"
+` Um…… Yes, thank you very much.@
+` This concludes our fourth period lesson.@
+` Please continue enjoying the main storyline.
+\
+bg #000000,crossfade,800
+playstop

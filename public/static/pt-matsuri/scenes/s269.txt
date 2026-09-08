@@ -1,0 +1,17 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_27b",notrans,0
+`"[line=3]Espera um pouco.@ Senpai, você não disse que eu poderia fazer o que quisesse……?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Sim, faça como quiser, Tohno-kun."@
+` Ela assente e sorri.
+\
+`"…… Bom mesmo, então não era só minha imaginação.@ Vamos nos despedir aqui, Senpai.@ Pare de me seguir."@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Hã?@ Mas nem estou seguindo você."@
+`"[line=3]Hein?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Eu tenho um assunto pra resolver no parque.@ Não faço a menor ideia aonde você está indo, Tohno-kun, mas se não estiver indo ao parque, então é aqui que nos separamos."
+\
+cl c,crossfade,400

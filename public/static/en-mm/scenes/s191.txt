@@ -1,0 +1,17 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+` …… I'll stay here.@
+` We promised.@ We promised to meet here.@
+` We still haven't fulfilled our promise for tonight.@
+` To meet here, and to fight together.
+\
+` [line=4]So,
+` If I can't break this promise, and if she thinks it's important too,
+br
+` Arcueid will come back here.@
+` I can only continue to believe in her and wait here.
+\
+bg #000000,crossfade,800
+!w3000

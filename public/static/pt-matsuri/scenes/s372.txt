@@ -1,0 +1,34 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` [line=4]Em primeiro lugar, devo me preocupar com a segurança da Akiha.@
+br
+` É muito perigoso brigar com ele perto da Akiha.@ Preciso levá-lo para um lugar mais espaçoso, como o saguão[line=3]
+`"Ku……………!"@
+` Ainda com a faca na mão, dou um salto para trás sem olhar.
+\
+bg "bg/ima_14",lshutter,400
+wave se_12
+`"………!!"@
+` A faca do SHIKI faz um corte bem na frente da minha cara.@
+` Por pouco não sou acertado.@
+` Mas os meus óculos são arremessados longe[line=4]
+br
+bg #9c0120,notrans,0
+wait 100
+bg "bg/ima_14",notrans,0
+`"Seu[line=4]desgraçado………!!"@
+` Meu coração bate audivelmente.@
+` A "morte" cobre a minha visão.@
+` O ódio domina a minha mente.
+\
+` Eu tento recuperar o fôlego.@
+` A minha respiração fica descontrolada.@
+` O SHIKI ataca.@
+` Agora não há mais nada a temer.@
+br
+` [line=4]Sem problemas.@
+` Por sorte, é a terceira vez que vou enfrentar uma situação de vida ou morte.@
+` Nesse ponto, eu sei mais do que o suficiente a forma como devo me mover[line=3].
+\

@@ -1,0 +1,149 @@
+playstop
+wavestop
+bg "bg/bg_34a",notrans,0
+` Acho que a Kohaku-san ficou com a parte mais difícil que é preparar um banquete para nós quatro.@
+` Talvez eu não seja de muita ajuda na cozinha, mas vou lá ver o que posso fazer.@
+br
+bg #000000,lshutter,400
+bg "bg/bg_35",lshutter,400
+` A cozinha já virou um campo de batalha.@
+` Em cada bancada tem uma montanha de ingredientes e me bate uma vontade enorme de virar para trás e voltar.
+\
+ld c,"tachi/koha_t02",lshutter,400
+`"Shiki-san, está precisando de mim para alguma coisa?"@
+` Ela vira a cabeça na minha direção.@
+`"…… Não, eu que estava pensando em te ajudar[line=4]"@
+` Mas parece que entrei em um mundo ao qual não pertenço.@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Ah, que ótimo.@ Para falar a verdade, já estava pensando em te chamar para me ajudar."@
+`"S-sério……?@ Olha, eu não tenho nenhuma habilidade que sirva na cozinha, então não tenho certeza se serei de muita ajuda, Kohaku-san."
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Não tem problema, é algo que qualquer um pode fazer.@ Vem cá."@
+cl c,lshutter,800
+` Ela pega a minha mão e vai me puxando.@
+`"…………"@
+` Sem entender direito o que está acontecendo, eu acabo ficando para ajudar a Kohaku-san.
+\
+bg #000000,rshutter,400
+bg "bg/bg_35",rshutter,400
+` …… Depois de dar uma boa olhada, percebo que a cozinha é bem pequena para uma mansão deste tamanho.@
+` Provavelmente deveriam usar uma cozinha maior quando moravam muitas pessoas aqui, mas com apenas nós quatro, devem ter resolvido usar essa menor.@
+br
+ld c,"tachi/koha_t02",crossfade,400
+`"Toma, lave as mãos e use este avental."@
+` Eu não sei de quem é o gosto para comprar uma coisa dessas, mas no avental que ela me entregou está escrito "Pessoa Reservada e Antissocial".
+\
+`"Vamos começar com uma tarefa simples, Shiki-san.@ Quando você terminar, eu te passo outra."@
+cl c,lshutter,400
+` Ela está de bom humor.@
+` [line=4]Primeiro, tenho que tirar a casca de um monte de camarões.
+\
+` Whick, whick, whick.@
+` É o barulho da faca acertando a tábua de cortar.@
+` Nnnnn~.@
+` O cantarolar da Kohaku-san domina o ambiente.
+\
+` ……@
+` …………@
+` ………………@
+` Ela deve estar imersa no que está cozinhando pois nem está conversando direito.@
+` Quanto a mim, até que estou gostando de descascar o camarão.@
+bg #000000,crossfade,400
+bg "event/his_e01",crossfade,400
+`"[line=6]"@
+` …… Isso está me trazendo lembranças.@
+` Antes do acidente e antes de eu deixar a mansão, eu sempre brincava e me divertia assim com a Kohaku-san e a Akiha.
+\
+` Éramos muito jovens e nem ficávamos pensando sobre o fato de sermos de sexos opostos.
+\
+` Aproveitávamos a vida nesta mansão espaçosa e tudo o que conhecíamos era a diversão nossa de cada dia.@
+` Nós nos divertíamos tanto que acabávamos esquecendo das coisas que nos perturbavam do passado.@
+` …… Ou talvez.@
+` Para esquecermos o passado perturbador, tentávamos passar o dia nos divertindo o máximo possível.
+\
+bg #000000,crossfade,400
+bg "bg/bg_35",crossfade,400
+ld c,"tachi/koha_t01a",crossfade,400
+`"Shiki-san, você gostou mesmo de tirar as cascas dos camarões, né?"@
+`"Hã?@ Na verdade, não achei nada demais, por que a pergunta?"@
+ld c,"tachi/koha_t05",crossfade,400
+`"Porque você está com uma expressão de felicidade no rosto.@ Quando peço a Hisui-chan para fazer isso, quando termina, ela já está com as sobrancelhas muito enrugadas."@
+`"Sério?@ Estou surpreso.@ Ela me parece o tipo de pessoa que faria isso sem reclamar."@
+ld c,"tachi/koha_t18",crossfade,400
+`"Pois é, mas, por algum motivo, a Hisui-chan é péssima na cozinha.@ Porém é muito boa nas tarefas que incluem limpeza e organização."@
+`"É mesmo?@ Eu sempre achei que vocês duas fossem capazes de fazer qualquer coisa."
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Seria muito bom se isso fosse verdade.@ Mas somos apenas garotas normais, temos nossas fraquezas também.@
+` E a Hisui-chan tem um paladar muito diferente, por isso quando ela prepara algo que acha delicioso, tanto a Akiha-sama quanto eu achamos o gosto muito estranho."@
+` Hummmm, entendi, então é por isso que ela não cozinha.@
+` Então o problema da Hisui é o seu paladar peculiar; mas e quanto à Kohaku-san…… Qual será a sua fraqueza?
+\
+`"…… Pensando bem, você e a Hisui tem lá suas diferenças mesmo.@
+` Durante a nossa infância você sempre era muito animada enquanto a Hisui só ficava dentro da mansão."@
+`"Ah, você acha mesmo que eu era animada assim?@ A única coisa que eu fazia era ficar observando vocês."@
+`"Acho sim, eu me lembro bem.@ Você sempre saía correndo conosco para todos os lados, mas sempre nos impedia de fazer coisas perigosas e sempre cuidava da gente."
+\
+play "*9"
+` …… Eu realmente me lembro bem.@
+` Brincávamos de pega-pega no pátio da mansão.
+\
+` Tentávamos de todo jeito pegar a carpa do meu pai que ficava na lagoa.
+\
+`"Você se lembra daquela vez que saímos pelo portão?@
+` Não sabíamos como fazer pra voltar para casa e você acabou tendo que ligar para a mansão e um dos empregados do meu pai teve que ir nos buscar."@
+ld c,"tachi/koha_t03",crossfade,400
+`"Sim, e o Makihisa-sama gritou muito com você quando chegamos.@ Estávamos todos juntos, mas só você levou a culpa.@ Nós aprontávamos muito, mas no final das contas, você sempre nos salvava, nunca deixava que eu ou a Akiha-sama levássemos a culpa por nada."@
+br
+` Ela ri enquanto fala com uma voz cheia de nostalgia.
+\
+`"…… Olha que coisa!@ Falando do passado assim, agora estou sentindo que realmente estou de volta."@
+` É isso mesmo.@
+` Na verdade, não tenho muitas lembranças da mansão, mas me bate uma nostalgia forte quando estou falando daquele tempo.@
+` Porém as memórias não são todas felizes.
+\
+`"…… Mas infelizmente eu não tratava a Hisui muito bem."@
+` …… A garota que sempre estava em um canto no meu coração.@
+` Nunca tive a oportunidade de conversar com a garota que sempre estava na janela.@
+`"…… Aquela garota que sempre ficava nos observando pela janela.@ Isso sempre me incomodou.@ Aquele olhar solitário nos observando, eu sempre quis que ela descesse e brincasse conosco."@
+` Mas mesmo assim, antes de eu deixar a mansão, ela me deu um presente de despedida.
+\
+`"Ela sempre foi tímida, nem eu sabia o que se passava na cabeça dela.@ Eu sempre quis que Hisui-chan fosse feliz, então enquanto ela estivesse feliz, não me importava com o que tivesse que acontecer comigo."@
+`"Ah?@ Kohaku-san, você realmente é uma ótima irmã mais velha."@
+` Respondo isso a ela.@
+br
+`"Ah."@
+br
+` De repente,
+` ouço um som diferente e vejo a Kohaku-san levantando a mão.@
+` Ela cortou o dedo com a faca que usava.
+\
+playstop
+`"K-Kohaku-san, olha o seu dedo……!"@
+`"Hein?"@
+` Parece que ela só percebeu depois que eu falei.@
+ld c,"tachi/koha_t07",crossfade,400
+`"Ah, minha nossa!"@
+`"Só 'minha nossa'!?@ Kohaku-san!?"@
+` Não estou acreditando.@
+` Está óbvio que o corte foi profundo, mas ela continua agindo com tranquilidade.
+\
+`"Ai, que vergonha!@ Logo eu que deveria ser uma boa cozinheira.@ Ahaha!"@
+` Ela ri como sempre faz.@
+`"Isso não é motivo para ficar rindo.@ Precisamos cuidar desse corte agora mesmo……!"@
+`"Está tudo bem.@ Não vou morrer por causa disso."@
+`"Mas não está doendo?@ Foi um corte feio!"
+\
+`"Não, nem um pouquinho.@ Se eu pensar que não está doendo, então não dói.@ Se na minha cabeça eu imaginar que não é o meu dedo, que é apenas o dedo de alguma boneca, não vou sentir dor alguma, entendeu?"@
+`"O qu[line=4]"@
+` Sorrindo, a Kohaku-san fala uma coisa muito bizarra.@
+` Pensando dessa forma talvez deva doer menos, mas isso não faz com que a dor desapareça.
+\
+`"Olha, vamos cuidar desse dedo rápido!@ Eu sou meio fraco quando se trata de sangue, então se eu tiver uma ataque anêmico aqui, vai ser culpa sua, Kohaku-san……!"@
+`"Tá bom, vou cuidar dele agora mesmo.@ Eu já volto, com licença, Shiki-san."@
+cl c,lshutter,800
+` Durante todo esse tempo, seu sorriso não se desfez por um segundo, e, depois de uma breve mesura, ela sai da cozinha.
+\
+bg #000000,tcartain,800
+!w2000

@@ -1,0 +1,293 @@
+play "*6"
+wavestop
+monocro off
+bg "bg/bg_46c",lshutter,400
+` [line=4]Eu chego no quarto da Akiha.@
+br
+` A tonteira está ficando insuportavelmente forte.@
+` Coloco a mão no bolso.@
+` Por sorte, a minha faca continua aqui.@
+`"[line=6]"@
+` Ignoro a tonteira e abro a porta com a faca na mão.
+\
+bg #000000,lcartain,800
+bg "bg/bg_36d",tshutter,800
+playstop
+waveloop se_11
+` [line=5]Escuridão pura.@
+br
+` O luar que entra pela janela ilumina muito mal para que eu possa ver direito.@
+` Na escuridão azulada, vejo a Akiha no chão.@
+`"Akiha[line=4]!"@
+` Corro até ela e a seguro nos braços.@
+`"…………………"@
+` Ela deve estar inconsciente já que não se mexe.@ Mas sei que está viva porque vejo seu peito subindo e descendo com a sua respiração.
+\
+` Mas tem algo de muito estranho aqui.@
+` Os cabelos negros da Akiha.@ Eles ficaram vermelhos como sangue.@
+`"Akiha[line=4]você é mesmo a Akiha…… Né?"@
+` …… O cabelo realmente parece vermelho na escuridão.@
+` Mas definitivamente é a Akiha.@
+`"Akiha, ei, acorda……!@ O que acontec[line=3]"
+\
+wave se_01
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+` Ouço um barulho.@
+br
+waveloop se_11
+`"[line=6]!"@
+` Eu me viro.@
+` Olho na direção de onde veio o som[line=4]tem alguém ali, parado sob a janela banhada pelo luar.
+\
+` …… Parece que essa pessoa está envolta por bandagens.@
+`"[line=6]Quem é você?"@
+` O homem não responde.@
+` …… Um calafrio percorre as minhas costas.@
+` Sinto a morte em todos os meus nervos.
+\
+` …… O homem só fica ali, paralisado.@
+` Seus olhos são anormais[line=4]parecem os olhos de um sujeito louco.@
+` Mas ele não passa a impressão de ser alguém sem inteligência.@ Ao que parece, o homem enfaixado possui inteligência e loucura.
+\
+wave se_01
+` O meu coração bate audivelmente.@
+waveloop se_11
+` Ele acelera.@
+` A minha mente congela, é como se eu estivesse morto.@
+` Essa sensação.@
+` Eu conheço essa sensação de morte.@
+br
+` [line=3]Tenho certeza.@
+` Este quarto faz parte do mundo de assassinatos que eu via nos meus sonhos.
+\
+`"[line=3]Eu perguntei quem é você!"@
+` Seguro a faca com força e encaro o homem.@
+` O homem enfaixado parece estar sorrindo.@
+wavestop
+play "*4"
+`"Estou triste, Shiki.@ Você não se lembra da pessoa que matou?"@
+` Ele dá um passo na minha direção.@
+`"[line=5]!"@
+` Eu me afasto enquanto seguro a Akiha em um dos braços.
+\
+`"Não me reconhece, Shiki?@ Sou o cara que você matou."@
+`"Do que está falan[line=5]"@
+` Só a voz dele já está me deixando furioso.@
+` Eu o odeio.@ …… Todo o ódio que eu estava sentindo desde que entrei na mansão está concentrado nele.@
+` Esse ódio.@ Meu impulso instintivo de fazê-lo desaparecer é algo homicida?
+\
+` O meu coração bate forte.@
+` Todo o meu ser grita.@
+` Ele grita, dizendo que essa pessoa precisa ser morta.@
+br
+!w1500
+`"[line=4]Já entendi.@ Você é o vampiro."@
+br
+` Enquanto seguro a Akiha com um braço, levanto a faca com o outro.
+\
+` Ahahaha.@
+` O homem ri, como se tudo fosse muito engraçado.@
+`"Nem precisa tentar.@ Eu sou você.@ Não existe ninguém que consiga se matar de verdade."@
+`"O qu……?"@
+`"Eu vou pegar a Akiha de volta.@ Ela sempre foi minha mesmo, desde o início."@
+` Ele dá outro passo.@
+` O homem se aproxima.
+\
+`"Pare[line=4]!"@
+`"Não vou parar.@ Eu vim tomar tudo de você, pegar tudo de volta.@ O seu nome, a sua posição, o seu poder… Tudo era meu."@
+` O homem abre os braços e fala com orgulho.
+\
+`"…… Do que está falando?@ Você[line=3]o que é você?"@
+`"…… Ainda não se lembra?@ Éramos tão amigos há oito anos."@
+`"O qu[line=4]"@
+br
+` Há oito anos?@
+` Éramos amigos[line=4]?
+\
+`"…… Parece que você se esqueceu.@ Foi aquele velho.@ Aposto que ele colocou alguma magia muito forte em você para que se esquecesse de tudo."@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/cmo_05",notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+`"E também aposto que você mesmo queria esquecer todo o seu passado terrível, né, Shiki?"@
+br
+` Ele ri.@
+` A minha visão oscila.@
+` Oito anos atrás, oito anos atrás, oito anos atrás[line=5]
+\
+` É na mesma época em que fui levado para o hospital por causa daquele acidente.@
+` Aquela foi a última vez que nós três brincamos juntos na mansão.@
+` Foi naquela época que[line=5]aquela outra criança estava lá[line=4]e também todo aquele sangue[line=4]
+\
+`"Mas vai acabar tudo agora.@ Foi doloroso para você, né, Shiki?@ Não se preocupe, pois já vou salvá-lo."@
+` Lentamente o homem retira as bandagens que cobrem a sua cabeça.@
+` O rosto dele[line=5]
+br
+`"Você…"@
+ld c,"tachi/hal_t01",crossfade,800
+`"Já faz um tempo, né, Tohno Shiki?@ Não, esse não é o seu nome verdadeiro."@
+` O rosto que surge quando as bandagens caem,
+` não é[line=4]o rosto daquela criança toda coberta de sangue, mas…
+\
+`"Tohno[line=4]SHIKI."@
+` Isso mesmo, por que me esqueci?@
+` Ele estava com a Akiha naquela época.@ Tenho certeza de que o nome da terceira criança era esse.
+\
+`"Há quanto tempo, Nanaya Shiki!@ Finalmente se lembrou que é um impostor!"@
+` Os lábios do hom[line=3]os lábios do SHIKI se transformam em um enorme sorriso e ele começa a rir com muita vontade.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+`"Ah[line=5]"@
+` A minha cabeça.@ A minha cabeça está doendo.@
+` A tampa é aberta.@
+` A tampa daquilo que foi selado.@ (Por quem?)
+` Eu não posso olhar dentro.@ (Dentro do quê?)
+` Da caixa das lembranças esquecidas.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+wait 100
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+playstop
+play "*9"
+bg "bg/cmo_05",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Ele ordenou que eu esquecesse de tudo.
+\
+` O Tohno Makihisa.@
+` Nanaya Shiki foi adotado pela pessoa que o deixou orfão.@
+` Provavelmente foi porque achou interessante o fato de eu ter o mesmo nome que o seu filho.
+\
+` Isso aconteceu dez anos atrás.@
+` Eu fui adotado.@
+` Fui levado para uma mansão estranha.@
+` A minha família era constituída de pessoas que eu não conhecia.@
+` A minha vida na edícula.@
+` O menino e a menina que acabei conhecendo.@
+` O grande jardim onde brincávamos.@
+` Um dia quente de verão.@
+` A Akiha estava sendo atacada por uma sombra.@
+` Eu só conseguia pensar em ajudá-la e usei o meu próprio corpo como escudo[line=4]
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Ele ordenou que eu esquecesse de tudo.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` Ele, o Tohno Makihisa.@
+` O meu próprio pai.@
+` Ele me ordenou que vivesse como Tohno Shiki e não Nanaya Shiki[line=3]
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+play "*4"
+bg "bg/bg_36d",crossfade,800
+`"[line=6], …………!!"@
+` Essa tontura[line=4]pareço estar doente.@
+` As lembranças bagunçadas percorrem todo o meu cérebro.@
+br
+` Tu, dum.@
+` Não consigo controlar o meu corpo.@
+` Deixo a Akiha cair no chão e abraço a minha faca enquanto tento recuperar o fôlego.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"[line=4]Foi chocante?@ Aposto que foi!@ Deve ter sido um choque e tanto descobrir que é apenas um impostor, já que acreditou ser o Tohno Shiki por todo esse tempo……!"@
+` O SHIKI ri.@
+ld c,"tachi/hal_t02",crossfade,400
+`"Mas isso não é nada comparado com o que eu passei.@
+` Shiki, eu fui morto por alguém que considerava ser o meu melhor amigo e ainda tive o meu nome roubado por ele.@ Você roubou até a Akiha[line=4]a minha Akiha……!@ Será que consegue entender como me senti!?"@
+`"Morto[line=4]?@ Eu[line=4]você[line=4]"
+\
+ld c,"tachi/hal_t01",crossfade,400
+`"Eu sei.@ Eu te matei primeiro, mas no final das contas foi você quem me matou.@
+` Ainda não se lembrou de tudo?@ Oito anos atrás eu perdi a batalha contra o meu sangue Tohno e matei você.@ Olhe para a cicatriz no seu peito.@ Eu furei um buraco aí com o meu braço."@
+`"A cicatriz no meu peito[line=4]"@
+` Ela apareceu depois do acidente.@
+` Foi o que me disseram, que a cicatriz foi por causa do acidente[line=5]
+\
+`"Aquele velho maldito quase me matou depois.@
+` O sangue Tohno finalmente despertou dentro de mim, mas, por causa disso, fui preso no subsolo e vivi lá no escuro por oito anos.@
+` [line=3]Aquele velho desgraçado.@ Ele disse que me deixaria sair se eu voltasse ao normal…!@ Ele achou que seria um inconveniente se o Tohno Shiki simplesmente desaparecesse, por isso te transformou em Tohno Shiki."
+\
+`"[line=8]"@
+` …… Então,
+` a criança que foi adotada há dez anos[line=5]sou eu.
+\
+ld c,"tachi/hal_t02",crossfade,400
+`"Deu pra entender, Shiki?@ Eu fui morto por você.@
+` Eu estou vivo no momento, mas você que é o Tohno Shiki.@
+` Eu não tenho um lugar para onde voltar.@
+` Você roubou o meu nome, a minha posição, a minha querida irmãzinha e até a minha existência.@
+` Eu, como Tohno SHIKI, fui morto por você, Tohno Shiki."@
+br
+` Um passo para frente.@
+` Ele começa a caminhar na minha direção com os olhos arregalados.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"É agora[line=3]chegou o fim da história.@ Shiki, você devia ter morrido há oito anos.@ Você já aproveitou o bastante, né?@ Vamos fazer as coisas voltarem a ser como eram há oito anos."@
+`"[line=5]Fazer as coisas voltarem a ser como eram[line=5]?"@
+`"Sim.@ Eu volto a ser o Tohno Shiki e você volta a ser[line=4]o cadáver estirado no chão!"
+\
+cl c,lcartain,400
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+quakey 2,100
+bg #000000,lshutter,400
+bg "bg/bg_46c",lshutter,400
+` Um grande impacto.@
+` Fui arremessado para o corredor com um ataque do SHIKI.@
+`"A[line=6]"@
+` As minhas costas batem na parede.@
+` Não consigo respirar.@
+` A minha cabeça[line=4]ainda não consigo pensar direito.
+\
+`"Ku[line=5]"@
+` Sinto ele se aproximando.@
+` O SHIKI dá um salto para fora do quarto da Akiha.@
+bg #ffffff,notrans,0
+bg "bg/ima_14",crossfade,400
+wave se_12
+`"Merda[line=4]!"@
+` É o que ele diz.@
+` A arma dele é uma faca, assim como a minha e elas se chocam em uma competição mortal.
+\
+bg #000000,lshutter,400
+playstop
+` Eu busco por ar.@
+` Estou sem fôlego.@
+` Ainda me sinto péssimo.@
+` Mas não tenho tempo para pensar.@
+br
+` Eu[line=4]
+\

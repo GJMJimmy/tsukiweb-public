@@ -1,0 +1,102 @@
+phase "bg/bg_22b",r,ark,02a,2
+bg #ffffff,crossfade,400
+!w2000
+`"[line=3]Buenos días."@
+br
+` …… Escucho una voz desconocida.
+\
+` El sueño se desvanece rápidamente cuando una voz me devuelve a la realidad.
+\
+`"Ya amaneció.@ Hora de despertar, Shiki-sama."@
+br
+` Una voz desconocida me saluda.@
+` …… Ya deja de llamarme Shiki-sama.@
+` Te lo dije ayer, me da escalofríos en la espalda[line=4]
+\
+bg "bg/bg_40a",crossfade,800
+ld c,"tachi/his_t01",lshutter,400
+play "*2"
+` [line=3]Me despierto.@
+` Hisui está parada lejos de la cama, como una estatua.@
+`"Mm……"@
+` Miro alrededor con soñolencia.@
+ld c,"tachi/his_t16",crossfade,400
+`"Buenos días, Shiki-sama."@
+` Una chica con uniforme de sirvienta se inclina.@
+` Por un momento, dudo de mis ojos.@ Finalmente, recuerdo mi condición actual.
+\
+`"Sí, volví a casa, cierto…"@
+` Me impulso hacia arriba y miro alrededor de la habitación.@
+cl c,crossfade,400
+` Afuera de la ventana, el clima es grandioso.@
+` Un cielo azul como el que vi en mi sueño.@
+`"Buenos días, Hisui.@ Gracias por venir a despertarme."@
+ld c,"tachi/his_t01",lshutter,400
+`"No hay necesidad de agradecerme.@ Es mi obligación venir a despertarlo, Shiki-sama."@
+` Hisui responde con indiferencia, totalmente inexpresiva.
+\
+` *suspiro*@
+`"…… ¿Por qué tienes que ser tan formal, Hisui?"@
+` En verdad es una pena.@
+` Si Hisui tuviese sólo la mitad de la alegría de Kohaku-san, sería muy linda.@
+`"[line=3]¿Necesita algo?"@
+` Percatándose de que la estoy viendo, Hisui me devuelve la mirada directamente.
+\
+`"Ah, no, nada.@ Al despertar y ver tu cara, simplemente sentí que en verdad estoy en la mansión Tohno…"@
+` Los ojos de Hisui son como hielo frío.@
+` Al ver eso, repentinamente, algo que me recuerda a un sueño pasa volando por mi mente[line=3]
+`"[line=5]Ya, veo."@
+` Lo recuerdo perfectamente.@
+` Ese día, la chica que me dio la cinta antes de irme era la que siempre nos observaba desde esa ventana.@
+` En otras palabras[line=3]
+`"Fue…… Hisui."
+\
+`"¿Sí?@ ¿Dijo algo, Shiki-sama?"@
+`"Ah…… Hisui, ¿recuerdas, cuando me fui de aquí hace ocho años?"@
+`"Sí, lo recuerdo.@ Pero, ¿sucedió algo en especial entonces?"@
+`"Eh[line=3]¿algo en especial?@ ¿Hisui?"@
+`"Por favor perdóneme.@ Han pasado ocho años desde que usted partió de esta mansión.@ Aunque me hable de aquellos tiempos, no puedo responder con detalles específicos."@
+`"¿Qué[line=5]"@
+` ¿Ella no recuerda la promesa que hicimos en aquel entonces?
+\
+`"Hisui[line=3]¿no te acuerdas de la cinta?"@
+ld c,"tachi/his_t23",crossfade,400
+`"…… ¿Cinta……?"@
+` Parece deprimida al admitir con dificultad que no recuerda.@
+`"…… Ya veo.@ Es cierto, fue hace ocho años…… Lo siento, no es nada.@ Sólo olvida lo que dije."@
+ld c,"tachi/his_t04",crossfade,400
+`"……………………"
+\
+` …… Ella no recuerda la promesa.@
+` Pero, eso no es algo que pueda retener en su contra.@
+` Quizás fue sólo una promesa infantil, pero en verdad me ayudó a encarar el futuro en aquel entonces.
+\
+`"Bueno, hora de levantarse.@ Hisui, ¿sabes qué hora es?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sí, son poco más de las siete de la mañana."@
+`"Bien, eso me deja sólo un poco de tiempo entonces."@
+` Estirando mi espalda, salgo de la cama.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"Dice eso, pero no tiene mucho tiempo.@ Toma cerca de treinta minutos ir de la mansión a su escuela.@ Sólo tiene veinte minutos para desayunar y prepararse."@
+`"¡Eh[line=4]es cierto, ésta no es la casa Arima!"@
+` Estoy horrorizado.@
+` Estaba tan acostumbrado a que la casa Arima estaba a sólo veinte minutos de la escuela, pero desde aquí, ni siquiera conozco un atajo.
+\
+ld c,"tachi/his_t16",crossfade,400
+`"Su uniforme está doblado y lo espera en aquel lugar.@ Por favor vaya a la sala de estar después de haberse cambiado."@
+cl c,lshutter,800
+`"Maldición, si vas a despertarme, despiértame más temprano…"@
+` Murmurando egoístamente, tomo el uniforme.@
+` Está cuidadosamente doblado, y la camisa incluso ha sido planchada.@
+` Pasar mis muñecas a través de las mangas se siente bien.@ Es esa fresca sensación de algo nuevo.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lcartain,400
+ld l,"tachi/aki_t01a",crossfade,400
+ld r,"tachi/koha_t01a",crossfade,400
+` Akiha y Kohaku-san se están relajando en la sala de estar.@
+` Akiha está vistiendo el uniforme de la Academia Asagami para Señoritas, una famosa escuela para chicas jóvenes.@
+` Están bebiendo té con elegancia, como si el desayuno hubiese terminado hace mucho tiempo.
+\
+cl a,crossfade,800

@@ -1,0 +1,388 @@
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]I can't do something that dangerous.@
+br
+` If I went into an alley like that, no one can come to help me.@
+` There's something wrong with me wanting to go in there just because I heard a noise.@
+` It is getting late and I should head back.
+\
+bg #000000,lcartain,800
+play "*1"
+bg "bg/bg_48d",lcartain,800
+` I return to the mansion without meeting anyone.@
+` The lights around the mansion are all off.@
+` Somehow, I hadn't realized I would be coming back so late.@
+` Akiha[line=2]Akiha will surely be angry with me, I think as I put my hand on the heavy doors.
+\
+bg #000000,lshutter,400
+bg "bg/bg_33d",lshutter,400
+` …… There's no one in the lobby.@
+` It is late after all.@
+` Akiha, Hisui and Kohaku-san are most likely fast asleep in their rooms.@
+br
+`"…… I couldn't find you after all, Yumizuka-san."@
+` But I know she has to be somewhere.@
+` Then[line=4]for sure, she will come to school tomorrow.
+\
+bg #000000,tshutter,800
+bg "bg/bg_40d",bshutter,800
+` I return to my room silently so as not to wake Akiha and the others.@
+` It's getting late.@
+` To get ready for tomorrow, I have to hurry up and go to sleep.
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+phase "bg/bg_06g",r,aki,03b,3
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` …… I feel as if someone is calling my name as I wake up.@
+br
+`"Mn…………"@
+` A little warmth returns to my body.@
+` I look around suspiciously and see an unfamiliar figure by my bed.
+\
+`"Oh[line=4]Hisui."@
+ld c,"tachi/his_t16",crossfade,400
+`"Yes.@ Good morning Shiki-sama."@
+` Hisui bows.@
+`"Ah, right[line=4]yeah, morning Hisui."@
+ld c,"tachi/his_t01",crossfade,400
+` I get up as I answer.@
+` This is my room, and just like yesterday, Hisui came to wake me up.@
+`"Thanks.@ I'll change and head to the sitting room, so you can go back to what you were doing."@
+ld c,"tachi/his_t16",crossfade,800
+`"Yes.@ Then I will be waiting in the sitting room."@
+cl c,crossfade,400
+` Hisui bows her head and walks to the door.
+\
+` Tap, tap, tap.@
+` Her footsteps are louder than normal.@
+` She reaches the door and then turns around.
+\
+ld c,"tachi/his_t08",crossfade,400
+`"Shiki-sama, forgive me for asking such a question.@ What time did you return last night?"@
+br
+` [line=4]Yesterday.@
+` If I recall correctly, I went out looking for Yumizuka-san and returned after not finding her[line=4]
+br
+`"…… Sorry.@ Something caught my attention and I came back late…… Um, I will be prompt from now on so it would be great if you could overlook it this time……"
+\
+ld c,"tachi/his_t01",crossfade,400
+`"…… No, it is not necessary for you to say such a thing, Shiki-sama.@ It is the duty of us servants to work in accordance with the schedule of our masters.@
+ld c,"tachi/his_t09",crossfade,400
+` However, I humbly request that you at least contact us.@ Whatever the circumstances, you should still be able to let us know."@
+`"[line=4]You're right.@ Sorry.@ I'll keep my promise from now on."@
+`"I understand.@ Then please excuse me."
+\
+cl c,lshutter,800
+`"…… That was rare.@ Hisui seemed pretty angry."@
+` She's always so expressionless, it seemed she really gets angry when she does get angry.@
+` …… As if I did something really terrible.@
+`"[line=4]Well then, time to get up."@
+` After changing out of my pajamas and into my school uniform, I head to the sitting room.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` I find Akiha and Hisui there.@
+` Kohaku-san is probably in the kitchen cooking my breakfast.
+\
+ld c,"tachi/aki_t01a",lshutter,800
+`"Good morning, Nii-san."@
+` Sitting on the sofa, Akiha greets me and looks at my expression.@
+`"…… Ah, morning.@ Sorry about last night."@
+` Returning her greeting, I head to the dining room.@
+` There really isn't that much time for me to stay and chat with Akiha[line=2]and I myself don't really feel like talking to anyone at all.
+\
+`"Nii-san, I would like to speak with you a little[line=2]is that alright?"@
+`"Speak with me?@ I don't really mind."@
+` I sit on the sofa across from Akiha.@
+ld c,"tachi/aki_t02",crossfade,400
+`"This is cutting straight to the heart of the matter, but what were you doing last night?@ Hisui says you returned late at night.@
+` Nii-san, you know about our eight o'clock curfew, correct?"@
+` Akiha asks me with a direct stare.
+\
+`"Sorry for breaking the curfew.@ A classmate of mine seemed to be having a lot of trouble so I went looking for her…… Well, all I did was walk around.@ I apologize for being late, but it isn't a big deal."@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Just walking the streets IS something.@ You are still a minor, so please do not wander out late at night.@ Even if you weren't, there have been a lot of disturbances going on."@
+`"…… Maybe I am a minor, but I don't do anything dangerous.@ I don't care for drinking or anything like that.@ You can just relax.@
+` And I'm a guy after all.@ Walking around town at night isn't dangerous."
+\
+ld c,"tachi/aki_t02",crossfade,400
+`"What are you saying?@ Please say those kind of words after you can go a week without anemia.@
+` I shouldn't have to say this, but you shouldn't strain your body.@ You might plan on walking around energetically, but you'll end up collapsing all of a sudden.@ What would you do then?"@
+`"Ah[line=6]that may be true, but…"@
+` Akiha seems to be worrying about me.@
+` When I think about it that way, I start to feel that maybe last night was a little selfish[line=4]
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Goodness.@ If you do that what would others think?@ For the eldest son of the Tohno family to collapse late at night in town, the rumors would make me so embarrassed I couldn't even go to school."@
+`"Uh[line=6]that may be true, but…"@
+` …… Akiha seems to be worrying about herself.@
+` I start to think I was stupid for thinking last night was selfish.@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Anyway, please keep the curfew tonight.@ If you break it again, I will have to hand down a punishment on you as head of the household."@
+cl c,lshutter,800
+` Akiha whirls around quickly and exits the room.
+\
+`"…… Punishment, Akiha?"@
+` I think it was a joke, but she certainly sounded serious.@
+`"Shiki-saaaan, breakfaaaast!"@
+` Kohaku-san's voice rings out from the dining room.@
+` I rise and head towards the dining room.
+\
+bg #000000,tshutter,800
+!w1000
+bg "bg/bg_32a",tshutter,800
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, around what time will you be returning today?"@
+`"Yeah, today is Saturday so I'll be back early.@ I don't know what Akiha will do if I get back late either."@
+` Yeah.@ To be honest, it's a little scary.@
+`"I understand.@ Well then, please be attentive and take care of yourself."@
+ld c,"tachi/his_t16",crossfade,400
+` She gives her customary bow.@
+cl c,crossfade,400
+` After Hisui sees me off, I leave the mansion.
+\
+bg #000000,lcartain,800
+playstop
+!w1000
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` [line=4]As I arrive at my classroom I look for Yumizuka-san.@
+` She isn't in the group of girls.@
+` She hasn't come yet?@ Or maybe[line=4]
+\
+ld c,"tachi/ari_t01",lshutter,400
+`"Yo.@ are you looking for something Tohno-kun?"@
+` …… The familiar face of my friend appears from the side like a crab.@
+`"Yeah.@ I'm in the middle of looking, so don't get in my way, Arihiko."@
+`"Oh reeeeally?@ If you're looking for Sacchin, it's useless.@ It seems she'll skip school today too."@
+` Arihiko giggles meaningfully…… He seems to have seen right through me.
+\
+`"…… What's this Sacchin thing?"@
+`"Sacchin is Sacchin.@ Miss Yumizuka was taken in by the police last night and is now under house arrest.@ Takada-kun told me while he was eating chocolate."@
+`"Eh[line=4]Yumizuka-san returned home?"@
+` Something seems a little out of place.@
+`"Hey.@ If you don't believe me ask Takada-kun.@ He seems to be one of Yumizuka's neighbors."@
+`"[line=9]"@
+` I look around to my classmate nearby.
+\
+` As usual, Takada-kun is eating chocolate.@ He looks like he's doing his best impression of Santa Claus as he munches while walking.@
+` …… Quite the interesting person for a side character.
+\
+`"…… No, I'll pass.@ Takada-kun isn't one to spread rumors so it's most likely true."@
+`"Yeah.@ A lot of girls have gone by to visit her and Kunifuji went this morning to her house…… Well, it seems like Yumizuka will have a rough time for a while."@
+cl c,lshutter,800
+` Arihiko returns to his chair with a difficult expression.@
+br
+wave se_03
+!w500
+` [line=4]The homeroom bell rings.@
+br
+` Still feeling a bit vague about it all, I wait for Kunifuji-sensei's arrival.
+\
+playstop
+bg #000000,tshutter,800
+bg "bg/bg_06a",bshutter,800
+` …… Our teacher Kunifuji didn't come.@ Classes started without homeroom and the Saturday class ended quickly.@
+` My classmates exit the room hastily.@
+` Those with club activities go to the cafeteria while those without any hurry on home to spend the rest of their Saturday elsewhere.
+\
+`"[line=8]Well then."@
+` There's no need to laze around here.@
+` I should go back to the mansion and think about what to do from there.@ I stand out of my chair.@
+br
+` [line=4]And then,
+br
+`"Will Second Year, Third Class Tohno Shiki-kun please report to the Staff Room immediately."@
+` Says the intercom announcement.@
+`"…… What's this?@ I didn't do anything to be called up."@
+` Tilting my head out of question, I leave the classroom.
+\
+bg #000000,tcartain,800
+play "*1"
+` [line=4]Come to think of it, maybe it is natural.@
+` The school was bound to find out if I was walking around late at night in my school uniform.@
+` My school is second-rate but still oriented towards attending university so there are a lot of troublesome rules.@
+` …… After being sternly warned by the student guidance counselor, I end up writing an essay of apology.
+\
+bg "bg/bg_08b",tshutter,800
+`"……………… It's getting late, Kunifuji-sensei."@
+` I mutter to myself in the empty room.@
+` The teacher told me he would come back after an hour.@
+` …… It's half-past six already.@
+` It seems Akiha will scold me once more.@
+`"[line=5]Fine.@ I'll be heading back now."@
+` I announce this to the teacher who isn't here in an attempt to convince myself and stand up.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06c",lcartain,800
+` Of course, the classroom is empty.@
+` I walk over to my desk to take the bag in my hand and exit to the hallway.@
+playstop
+br
+`"Good evening, Tohno-kun."@
+br
+` Suddenly, someone calls my name.
+\
+`"[line=9]!?"@
+` I whirl around instantly.@
+br
+` [line=4]In the dark, unlit classroom.@
+` Yumizuka Satsuki sits with her back to the blue moonlight.@
+`"Eh[line=4]Yumizuka, san?"@
+ld c,"tachi/stk_t10",lshutter,800
+`"What a coincidence.@ You are still here Tohno-kun?@ Don't tell me you were in the guidance counselor's room?"@
+`"Ah[line=4]yeah.@ Just a little unpleasantness there[line=4]"@
+`"I see.@ You know, I was called there about last night too.@ I was in the very next room."
+\
+` She smiles as she says so.@
+` A gentle, carefree smile like before.@
+`"[line=8]"@
+` So why is it?@
+` For no reason, a chill runs up my spine.
+\
+`"I see… it was you next door.@ Huhu, the school rooms are narrow so you can somehow understand what is going on next door.@
+` Your live body warmth or your breathing… it would have been nice for me to enjoy it longer."@
+` Our eyes meet.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_06c",crossfade,400
+` Swaying.@
+` Stretching.@
+` This instability as if the floor was bending.@
+ld c,"tachi/stk_t10",crossfade,400
+`"But it's great timing.@ I… have a request for you Tohno-kun.@ Is it alright?"@
+`"Uh[line=4]sure, I'll do it if I can."@
+`"Really?@ Then I'll ask.@ Tohno-kun, can you go out with me?"@
+` [line=4]?@
+` Well, if that's it… sure.
+\
+`"Sure, do you have something you need to buy?@ I don't think there's too many good stores open right now though."@
+ld c,"tachi/stk_t09",crossfade,400
+`"……………………"@
+` She looks at me blankly.@
+` …… Huh?@ It seems like I was a little off.@
+ld c,"tachi/stk_t03",crossfade,400
+`"Oh, that's not it Tohno-kun.@ I'm not asking you to take me out shopping.@ I'm asking you to go out with me like a lover."@
+` Yumizuka-san giggles happily.@
+`"Eh[line=6]"@
+` After… such a sudden confession… my brain… doesn't seem to work… properly.
+\
+`"Wait a second.@ Yumizuka-san, I[line=4]"@
+` I'm happy, but…
+` To be told this all of a sudden, I[line=4]
+\
+playstop
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06c",crossfade,400
+play "*4"
+br
+br
+br
+br
+br
+br
+br
+` Well[line=4]no[line=5]problem[line=4]right?
+\
+`"Yeah…… there's, no problem… I think."@
+ld c,"tachi/stk_t03",crossfade,400
+`"Really!?@ Yay!@ Then I'll call you Shiki-kun from now on!@ I'm so glad.@ I was worried that you might hate me for saying that.@
+` …… Yeah.@ Maybe I didn't need to use the teacher to make sure you stayed late."@
+` She mumbles.@
+` I don't quite grasp what she said.
+\
+ld c,"tachi/stk_t07",crossfade,400
+`"Hey Shiki-kun.@ I really used a lot of courage to tell you.@ Did you know how scared I was, Shiki-kun?"@
+` She looks at me directly.@
+` Her eyes.@
+` Why… do her eyes look red[line=4]and as if I was asphyxiated, my brain stops working.
+\
+`"[line=4]Yeah.@ You did well, Yumizuka-san."@
+`"…… Yeah.@ So, hey.@ Maybe I should get a reward from you, Shiki-kun?@
+` I've been waiting so long[line=4]I want you to do it, Shiki-kun."@
+`"Do what?"@
+ld c,"tachi/stk_t03",crossfade,400
+`"Simple.@ I want you to kiss me, Shiki-kun."
+\
+bg #9c0120,crossfade,400
+monocro #0000ff
+bg "bg/bg_06c",crossfade,400
+` [line=4]This isn't good.@
+br
+` Somewhere in my mind, something screams at me in warning.@
+br
+` [line=4]So…?@
+br
+` I don't care about that.@
+` If she[line=4]if Yumizuka-san wants it, what's wrong with it?@
+` We are lovers[line=4]so isn't it normal?
+\
+`"…… Alright.@ Don't move, Yumizuka-san."@
+ld c,"tachi/stk_t02",crossfade,400
+cl c,lshutter,800
+` I walk towards Yumizuka-san.@
+` The dry sounds of my footsteps.@
+` I walk in between the desks to draw closer to the girl by the window.@
+` …… As I do,
+` I see the bodies of many female students collapsed in between the desks as if they were hidden.@
+` Blood flows from each of their necks.@
+` But still[line=4]I couldn't care less about them.
+\
+` [line=4]Yumizuka-san doesn't move.@
+br
+` Grabbing both her arms, I press my lips to hers emotionlessly.@
+bg #9c0120,crossfade,400
+bg "bg/bg_06c",crossfade,400
+br
+`"…… Huhu.@ With this, you are mine Shiki-kun."@
+br
+` Her whisper sounds incredibly evil.
+\
+quakey 3,100
+`"Ah[line=7]rghh……!?"@
+` I collapse onto the floor.@
+` A splashing sound.@
+monocro #ff0000
+bg "bg/bg_06c",crossfade,400
+` I didn't notice it before, but the floor is splattered with blood.@ Under the desks lie the discarded corpses of my classmates strewn about.@
+`"Wha[line=6]"@
+` I try to stand up using my arms but I fall back down again.@
+` There's no strength in my body.@
+` Heat.@ The heat, suddenly turns cold.
+\
+`"Relax Shiki-kun.@ I won't make you like them.@ All you have to do is listen to my voice just like this."@
+br
+` [line=4]Her cold voice.@
+` I don't understand at all what she's doing.@
+` Even though I don't understand anything, I know this is so wrong it makes me nauseous.
+\
+`"Ghh[line=8]!"@
+` I strain my arms and legs as I crawl on the floor.@
+` But even that was stopped with her voice.@
+`"No.@ You can't get away.@ I won't let you get away.@
+` …… C'mon.@ First we have to expand my world.@ You'll help me won't you?@ You broke your promise to help me whenever I was in a pinch, so you have to listen to whatever I say from now on."@
+` She chuckles.
+\
+bg #9c0120,crossfade,800
+` …… My distant heartbeat.@
+` The fragrance of the blood drenching the floor makes me dizzy.@
+` So, if I ever do wake up again, then…
+` I realized my body will never feel warm again.@
+br
+!w2000
+` In the moonlit classroom,
+` Yumizuka Satsuki slowly bites into Tohno Shiki's neck.
+\
+monocro off
+bg #000000,crossfade,1500
+playstop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

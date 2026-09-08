@@ -1,0 +1,56 @@
+monocro off
+play "*8"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"………………"@
+` …… Supongo que no se puede evitar.@
+` Me temo que la haré llorar si continúo contradiciéndola.
+\
+`"…… De acuerdo.@ Dormiré por hoy."@
+` Diciendo eso, me acuesto.@
+ld c,"tachi/aki_t12b",crossfade,400
+`"¿En serio……?@ ¿No vas a escabullirte de la habitación más tarde?"@
+`"No, ya comprendo.@ Para ser sincero, mi cuerpo se siente increíblemente pesado.@ No creo que pueda escabullirme."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"[line=4]Gracias al cielo."@
+` Akiha respira y se relaja visiblemente.
+\
+`"Hisui, dile a Kohaku que Nii-san está despierto.@ Nii-san, ¿quieres cenar?"@
+`"…… Oh cierto.@ No, dile a Kohaku-san que lo siento, no creo que pueda comer ahora.@ Sólo voy a dormir."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"…… Entiendo.@ Entonces Hisui, dile eso a Kohaku."@
+` Aún parece deprimida, pero Hisui asiente y deja la habitación.
+\
+` …… Bien, ahora.@
+` Acostado en la cama, comienzo a sentirme soñoliento de nuevo.@
+` De esta manera, apuesto que podría quedarme dormido en menos de un minuto.@
+br
+` [line=4]Pero, antes de eso,
+br
+`"Akiha.@ ¿Hay un lugar como ése en el jardín?"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Sí.@ Cuando éramos niños, solíamos jugar ahí frecuentemente."@
+`"Oh.@ Por alguna razón, no lo recuerdo bien."@
+` …… Sí.@ En verdad olvidé todo sobre ese lugar.
+\
+`"Y una cosa más.@ …… Es una pregunta extraña pero, cuando éramos niños[line=4]¿no había otro niño con nosotros?"@
+ld c,"tachi/aki_t01b",crossfade,400
+`"¿Huh?"@
+` Ella ladea su cabeza, como si no entendiese lo que estoy diciendo.@
+` …… Supongo que no.@ No pudo haber otro niño.@
+` Pero… si eso es verdad, qué extraño.@
+` Esa escena que vi en mi sueño,
+` y el sueño que tuve en el claro.@
+` Si ambos son lo mismo[line=4]
+` No tendría sentido a menos que hubiese existido otro niño que fue asesinado……
+\
+`"No, no es nada.@ Sólo hablaba de un sueño."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"¿En serio?@ Entonces, buenas noches, Nii-san.@ Por favor duerme bien."@
+`"Sí, eso haré."@
+bg #000000,crossfade,800
+` Tan pronto como le respondo,
+` me quedo dormido rápidamente, como si me hubiese desmayado de nuevo.
+\
+playstop
+!w3000

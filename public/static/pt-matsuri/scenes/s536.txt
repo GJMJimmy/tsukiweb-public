@@ -1,0 +1,26 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` …… Está na hora do almoço do nosso terceiro dia.@
+` Normalmente saio para almoçar, mas hoje não estou vontade……@
+br
+ld l,"tachi/ark_t30",lshutter,400
+`"Sua cabeça foi arrancada.@ Mesmo se comer, a comida não vai chegar no estômago.@ O Shiki faz umas coisas bem sórdidas, né!?@ Mas a culpa não foi sua, Ciel?"@
+br
+` Ahahaha, cale a boca.@
+` É melhor do que nem aparecer na história.
+\
+ld l,"tachi/ark_t31b",lshutter,400
+`"Ugh.@ Você está certa!!@ Por que eu não apareço?@ Que idiotice!"@
+br
+` Aposto que é o seu carma, mas não tenho tempo para brincar com você agora.@
+` Tohno-kun.@
+` Por favor, volte para a escolha anterior e escolha a opção que está mais em sintonia com o seu personagem.@
+` Com as coisas do jeito que estão, nem o Tohno-kun e nem eu seremos salvos!
+\
+bg #000000,crossfade,800
+playstop

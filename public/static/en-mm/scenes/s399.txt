@@ -1,0 +1,119 @@
+phase "bg/bg_42a",l,his,07a,7
+!w3000
+bg #000000,notrans,0
+` I cannot wake up.@
+` Immersed in a dark dream, I can't wake up.@
+br
+` [line=3]I feel a chill go down my spine.@
+` Without reason, without purpose.@
+` I realize I will never be able to wake from this dream.
+\
+!w5000
+`"Shiki-sama, please wake up.@ You will be late for school."@
+bg "bg/bg_40a",notrans,0
+play "*2"
+`"[line=9]Eh?"@
+` Hisui is in front of me.@
+` This is my room, and there is surprisingly great weather outside.@
+`"Hi…… sui?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Good morning, Shiki-sama.@ You do not have as much time today, so please hurry to the sitting room."@
+` As usual, Hisui speaks in her detached tone.
+\
+`"Oh[line=6]h."@
+` With that, everything disappeared.@
+` I embrace my recently awakened but still throbbing body.@
+` …… I feel relieved.@
+` The awful world I was in until just now has just turned into a dream.@
+`"…… Thanks.@ If you hadn't woken me up, I might have never woken up."
+\
+`"Shiki-sama……?@ If you are not feeling well, please tell me so."@
+`"No, that's not it.@ [line=3]Morning, Hisui.@ I'm glad that you're here."@
+ld c,"tachi/his_t02",crossfade,400
+`"Eh[line=4]ah, thank you very much, Shiki-sama."@
+` She blushes slightly and lowers her head.@
+`"No, I'm the one who should be saying thank[line=5]it's past seven-thirty already!?@ Sorry, I'll get up, so please go wait in the sitting room!"@
+`"Yes, I will be waiting."@
+cl c,lshutter,400
+` Right as Hisui leaves the room, I change into my school uniform.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_32a",lcartain,800
+` Jumping out of bed, I scarf down a little of the breakfast Kohaku-san made and leave the mansion.@
+` It all took me less than ten minutes.@
+br
+`"I'm leaving[line=2]see you later, Hisui!"@
+ld c,"tachi/his_t01",lshutter,400
+`"Yes, I will be awaiting your return."
+\
+cl c,lshutter,800
+bg "bg/bg_22a",lshutter,400
+bg "bg/bg_24a",lshutter,400
+bg "bg/bg_03a",lshutter,400
+wave se_03
+!w2000
+`"…… I made it……"@
+` I breathe out and rest my body.@
+` I made it just in time before they closed the gate, but I still have to make it to class.
+\
+bg "bg/bg_06a",lshutter,400
+`"…… Whew."@
+` The teacher hasn't arrived in the classroom yet.@
+` I try to catch my breath as I sit down.@
+` …… The classroom seems more lively today than usual.@
+` Tomorrow is a holiday, so everyone probably feels like today is a Saturday.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06b",crossfade,400
+` School ends.@
+` Since I don't have any reason to stay at school, I'll head back to the mansion.
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+`"…… Yesterday's dream."@
+` This is definitely the place where I saw someone get killed in my dream.@
+` Even though I tried as hard as I could not to dream, I guess you can't run away from yourself.@
+`"[line=5]Kk."@
+` I grind my teeth.@
+` I feel pitiful about my weakness.@
+` After all, it's all a dream.@
+` Certainly there is something wrong with me seeing those dreams, but I think I'm still sane.
+\
+bg "bg/bg_22b",lshutter,800
+` …… My old man is my old man.@
+` I don't know about the Tohno blood.@
+` But I don't want to become a burden on Akiha and the others while I'm sane.@
+` I have to try and act as normally as possible, and try to find a way to solve all of this[line=3]
+\
+bg #000000,lcartain,800
+bg "bg/bg_33b",lshutter,800
+play "*3"
+ld c,"tachi/his_t01",lshutter,400
+`"Welcome back, Shiki-sama."@
+` As soon as I open the door, Hisui politely greets me.@
+`"I'm back.@ I'll be in my room, so it's okay if you return to whatever you were doing."@
+`"Thank you.@ I will return to cleaning the sitting room.@ If you need anything, please call for me."@
+cl c,lshutter,400
+`"…… Hisui is cleaning the sitting room…"@
+` I don't see Kohaku-san, but she's probably sweeping the rear courtyard or going out to get groceries.@
+` It appears Akiha hasn't come back yet, so I'll go back to my room.
+\
+bg "bg/bg_40b",lshutter,800
+` Putting away my bag, I change out of my uniform.@
+` I spend about an hour just sitting around my room.@
+` All of a sudden, I hear a gurgling noise.@
+` It's not a strange noise or anything.@
+` It's just the sound of my stomach.
+\
+`"…… That's right, I didn't really have a chance to eat since this morning."@
+` Not wanting to be late this morning, I was only able to eat just a little of what Kohaku-san made for breakfast.@
+` I thought about eating at the cafeteria, but I lost my appetite as soon as I remembered what I saw at the cafeteria yesterday.
+\
+`"…… I wonder if I can get something to snack on before dinner……"@
+` …… I really don't want to be a bother, but I'm really starving.@
+br
+` I should[line=3]
+\

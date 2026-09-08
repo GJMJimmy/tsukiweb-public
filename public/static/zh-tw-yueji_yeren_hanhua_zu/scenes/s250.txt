@@ -1,0 +1,14 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+`　沒什麼特別的要做，所以就直接回家吧。@
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_32b",lcartain,1500
+`　走上坡道，回到了家裡。@
+`　時間還沒到下午五點。@
+`　還有兩個小時才吃晚飯，所以就在自己的房間裡消磨點時間吧[line=3]
+\
+bg #000000,lcartain,800
+!w1000

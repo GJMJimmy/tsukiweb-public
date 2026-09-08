@@ -1,0 +1,93 @@
+phase "bg/bg_22b",r,ark,02a,2
+bg #ffffff,crossfade,1500
+bg "bg/cmo_05",crossfade,800
+play "*9"
+` Naquela época, a mansão inteira era como um enorme parque de diversões.@
+br
+` O jardim era uma floresta imensa.@
+` A casa era um castelo enorme.@
+br
+` Brincávamos em nosso próprio mundinho, que levaria muitos dias para explorar.
+\
+` Todos os dias eram divertidos.@
+` Ninguém nem pensava que um dia iríamos crescer,
+` e acreditávamos que os dias e as noites seriam sempre iguais.@
+br
+` Passamos a infância brincando como se fôssemos filhotinhos.@
+` Nós nos davamos muito bem, e éramos melhores amigos.
+\
+` Sempre que eu me virava, a Akiha estava lá, acenando para mim e se escondendo de vergonha.@
+` Era sempre assim.
+\
+` Naquela época, a mansão inteira era como um enorme parque de diversões.@
+br
+` O jardim era uma floresta imensa.@
+` A casa era um castelo enorme.@
+br
+` Brincávamos em nosso próprio mundinho, que levaria muitos dias para explorar.
+\
+playstop
+bg #ffffff,crossfade,800
+`"[line=3]Bom dia."@
+br
+` …… Ouço uma voz desconhecida.@
+` O sonho desaparece, e tudo que sobra é a sensação de desânimo do meu corpo recém desperto.@
+br
+`"Já é manhã.@ Está na hora de acordar, Shiki-sama."@
+br
+` Uma voz familiar conversa comigo.@
+` …… Pare de me chamar de Shiki-sama.@
+` Eu te falei que isso me dá arrepios nas costas[line=4]
+\
+play "*2"
+bg "bg/bg_40a",crossfade,800
+ld c,"tachi/his_t01",crossfade,400
+` [line=3]Eu acordo.@
+br
+` A Hisui está longe da cama, parada como uma estátua.@
+`"……"@
+` Onde eu estou?@
+ld c,"tachi/his_t16",crossfade,400
+`"Bom dia, Shiki-sama."@
+` A garota com uniforme de empregada faz uma mesura.@
+`"Ah… É mesmo, eu voltei para casa, né…"@
+` Vou me levantando e observando o quarto.
+\
+`"Bom dia, Hisui.@ Obrigado por vir me acordar."@
+ld c,"tachi/his_t01",crossfade,400
+`"Não há necessidade de me agradecer.@ É meu dever te acordar, Shiki-sama."@
+` Ela dá uma resposta padrão e sem sentimentos.@
+`"Ah, sério…?@ Tudo bem então…"
+\
+` …… Mesmo com a luminosidade não a favorecendo, acho os traços dessa garota muito bonitos.@
+` Deveria ser maravilhoso ter uma garota como essa me acordando todas as manhãs, mas como ela nunca sorri, não fico tão feliz assim.@
+` …… Que pena!@
+` Se a Hisui tivesse ao menos a metade do brilho que a Kohaku tem, ela seria uma gracinha.
+\
+`"[line=3]Você precisa de alguma coisa?"@
+` Percebendo que estou olhando para ela, a Hisui olha diretamente nos meus olhos.@
+`"Não, de nada.@ Acordar com você aí me faz sentir que realmente estou na mansão Tohno."@
+` Muito bem.@ Levanto da cama e estico os braços.
+\
+`"Shiki-sama, você não tem muito tempo sobrando.@ São trinta minutos de caminhada da mansão até a sua escola.@ Você só tem vinte minutos para tomar o café da manhã."@
+`"O quê?@ …… Ahh!@ Já são sete horas!?"@
+` Engasgo de surpresa quando olho para o relógio.@
+` …… Acordar várias vezes no meio da noite deve ter bagunçado o meu sono.
+\
+`"Seu uniforme está ali, passado e pronto para usar.@ Por favor, dirija-se à sala de estar depois de se trocar."
+\
+cl a,lshutter,400
+`"Que droga, já que vai me acordar, me acorde mais cedo…"@
+` Murmuro de forma egoísta para mim mesmo e pego o uniforme.@
+` Está cuidadosamente dobrado, e a camisa até foi passada.@
+` Passar os pulsos por entre as mangas me dá uma sensação boa.@ Aquela sensação de estar vestindo algo novinho em folha.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,400
+ld l,"tachi/aki_t01a",crossfade,400
+ld r,"tachi/koha_t01a",crossfade,400
+` A Akiha e a Kohaku-san estão relaxando na sala de estar.@
+` A Akiha está usando o uniforme da Academia Asagami, uma renomada escola para garotas.@
+` Elas estão tomando chá juntas, graciosamente, como se o café da manhã já tivesse terminado há muito tempo.
+\
+cl a,crossfade,800

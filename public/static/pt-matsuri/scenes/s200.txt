@@ -1,0 +1,107 @@
+phase "bg/ima_09",r,cel,05a,5
+bg #ffffff,crossfade,1500
+` Eu sinto o sol da manhã.@
+` Mantenho os olhos fechados enquanto tento dormir de novo, mas a suave luz do sol continua insistindo para que eu abra meus olhos.@
+br
+` [line=3]Lentamente, começo a acordar.
+\
+br
+bg "bg/ima_05",crossfade,400
+` Uma atmosfera tranquila.@
+` O ar está um pouco frio, mas mesmo assim está agradável.@
+` Acho que o tempo vai ser ótimo hoje.
+\
+br
+` [line=3]Eu deveria me levantar e ir para a escola.@
+br
+` É mesmo, tenho que ir para a escola.@
+` Nestes últimos três dias, minha vida estava um caos e acabei esquecendo que sou um estudante.
+\
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+`"…………"@
+` Eu acordo.@
+` Estou deitado na minha cama e meus óculos estão na cabeceira.@
+` Eu os coloco e olho à minha volta.@
+` A luz do sol passa com tanta intensidade pela janela, que quase espero ouvi-la atravessando.@
+`"[line=4]"@
+` Eu tomo um fôlego silencioso.@
+` Encho meus pulmões com ar fresco e sinto como se meu peito fosse purificado.
+\
+` Ouço o tique-taque do relógio.@
+` Os passarinhos gorjeiam na floresta lá fora.@
+` Eu continuo na minha cama quentinha, sentindo o tempo passar tranquilamente.@
+br
+` [line=5]Hoje será outro dia pacífico.@
+br
+`"……………"@
+` Mas estou um pouco insatisfeito.
+\
+` Embora eu esteja de volta a uma manhã calma como essa[line=3]sinto que algo está fora do lugar.
+\
+` Mesmo que eu tenha matado aquele vampiro do sobretudo preto e tudo tenha voltado ao normal[line=3]sinto que está faltando alguma coisa.@
+`"…… Isso é ridículo."@
+` Eu balanço a cabeça várias vezes para afastar esse pensamento idiota.@
+br
+` [line=3]E então.@
+br
+ld c,"tachi/his_t01",lshutter,400
+` "Bom dia, Shiki-sama."
+\
+`"Uwaaaa!"@
+` Dou um pulo na cama.@
+` Agora que percebo, a Hisui está parada ao lado da cama.@
+`"Hi-HiHi-Hisui[line=3]"@
+`"…… Por favor, me desculpe, Shiki-sama, mas como você não percebeu minha presença, tive que quebrar o silêncio."@
+`"Ah[line=3]bem, quero dizer, me desculpe também."@
+` Ela faz uma mesura de forma respeitosa.@
+br
+` [line=3]E-ela me surpreendeu.@
+` Meu coração ainda está acelerado.
+\
+`"[line=3]Hã?@ Mas ainda não são sete horas, Hisui."@
+`"Sim.@ É um pouco mais cedo do horário em que você acorda normalmente, Shiki-sama."@
+`"Pois é[line=3]então por que você está aqui?"@
+`"Eu vim te acordar.@ A Akiha-sama quer saber o que você tem feito nos últimos dois dias e me pediu para te acordar de qualquer forma."@
+`"[line=5]Ah."
+\
+` …… Eu esqueci.@
+` Pensando bem, eu faltei de aula no sábado e fiquei com a Arcueid o domingo todo.@
+` Além do mais, eu cheguei muito tarde ontem, entrei de de fininho como se fosse um bandido e vim direto pra cama.
+\
+`"…… Será que a Akiha está brava comigo……?"@
+`"Eu não sei.@ Por favor, confirme isso você mesmo."@
+br
+` [line=3]A voz da Hisui soa bem fria.@
+br
+`"…… Hisui, você viu a hora que eu cheguei?"@
+`"Sim.@ Chegou por volta das duas horas da manhã.@ Nós vimos você pulando o muro pela câmera de segurança, Shiki-sama."
+\
+`"[line=3]Hum, a Akiha sabe disso?"@
+`"Não, apenas a Nee-san e eu sabemos."@
+`"Isso é[line=3]ótimo."@
+` …… Acho que evitei o pior então.@
+` No entanto, a situação ainda não é muito boa.@
+` Eu não entrei em contato com ninguém por dois dias e voltei para casa de madrugada.
+\
+`"[line=3]Tudo bem.@ Já vou descer.@ Humm… e eu ficaria feliz se você tentasse acalmá-la o máximo possível."@
+`"A Akiha-sama já aparenta estar calma.@ Duvido que haja algo que eu possa falar para deixá-la mais calma."@
+`"[line=3]"@
+` Droga, um problema atrás do outro!?@
+` Eu acabei de lutar contra o Nrvnqsr, nunca pensei que já iria enfrentar outra batalha de vida ou morte sem nem uma pausa.
+\
+` Bem, está na hora de levantar.@
+` Não posso fazer nada deitado na cama.@
+`"Eu vou descer depois de me trocar, pode ir na frente, Hisui.@ …… Fica tranquila, eu não vou fugir."@
+`"[line=3]Muito bem, estaremos te esperando."@
+cl a,lshutter,800
+br
+` …… *suspiro*@
+` Vou trocar de roupa rápido para que a Senhorita Akiha possa me julgar.
+\
+bg "bg/bg_33a",lcartain,800
+` [line=3]Muito bem, chegou a hora.@
+` Apenas uma porta me separa da sala de estar onde a Akiha me espera.@
+` Não importa quais foram as circunstâncias, não há desculpa para eu ter faltado de aula e não ter aparecido em casa por dois dias.@
+` Agora[line=3]
+\

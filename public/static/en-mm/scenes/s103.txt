@@ -1,0 +1,41 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+`"[line=6]"@
+` …… The main source.@
+` If I can do something to Nrvnqsr's main body manipulating the beasts, I might be able to save at least Arcueid[line=2]
+\
+`"AAAAAAAAAH!"@
+wave se_07
+` I blindly swing my knife.@
+` I force my faltering body and run forward.@
+` If he hasn't moved as he toys with me,
+` then, he should be standing with his half body ahead of here[line=4]
+\
+bg "bg/bg_29c",notrans,0
+ld c,"tachi/nero_t02d",notrans,0
+`"[line=4]!"@
+` Nrvnqsr[line=4]!@
+`"Stop your noisemaking, it is unpleasant."@
+` His coat wavers.@
+br
+` From there,
+` a white horn comes straight at me.
+\
+bg #000000,crossfade,400
+ld c,"tachi/kemo_t05",bshutter,800
+`"Eh[line=4]?"@
+` Something like antlers… sticks… into my torso.@
+` Thud.@
+` It's so sharp, it doesn't really hurt.@
+br
+`"[line=6]"@
+` I fall flat on my back.
+\
+bg #000000,crossfade,800
+`"I am quite the fastidious person.@ Rest assured, there will not even be one of your cells left."@
+br
+` I hear a voice.@
+` At the same time, a black dome arches over me.
+\

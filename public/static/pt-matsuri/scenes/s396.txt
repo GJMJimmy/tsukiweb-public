@@ -1,0 +1,208 @@
+playstop
+wavestop
+bg "bg/bg_40a",notrans,0
+` Começo a respirar com dificuldade.@
+` …… Não vou me mexer.@
+` Neste instante, se qualquer coisa…
+` Se alguma coisa se mexer[line=3]eu estaria admitindo que estou insano, e isso me assusta.@
+` O meu cérebro deve estar dormente.@
+` Se eu continuar assim[line=3]acho que a tempestade vai acabar[line=4]
+wave se_01
+bg #000000,crossfade,400
+` Todo o meu mundo começa a cintilar.@
+bg #9c0120,crossfade,400
+` Igual à sirene de um carro de polícia, tudo gira, vermelho e preto.@
+wave se_01
+bg #000000,crossfade,800
+`"Ah[line=7]"@
+` A minha    cabeça    dói.@
+bg #9c0120,crossfade,800
+`"Estou cansado[line=3]só estou cansado, apenas isso."@
+` É o que    digo    para mim mesmo.@
+wave se_01
+bg #000000,crossfade,1500
+` Eu desmaio    na cama.
+\
+!w2000
+bg "bg/bg_40c",crossfade,400
+!w3000
+wave se_04
+`"Shiki-sama, você já voltou?"@
+` …… Uma voz parecida com a da Hisui me acorda.@
+`"Com licença, Shiki-sama."@
+` …… Alguém entra no meu quarto.@
+` Mas[line=3]está doendo demais.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Não consigo distinguir quem é.
+\
+`"Por favor, me perdoe.@ Eu não percebi que havia retornado, por isso não fui recebê-lo na porta."@
+`"…… Não[line=4]está[line=4]tudo bem[line=4]mas me deixe sozinho, por favor."@
+`"Shiki-sama, está se sentindo mal?"@
+`"[line=3]Ah.@ Eu realmente não…"@
+` …… Sei.@ Não consigo completar a minha frase.@
+`"…… Olha[line=2]me desculpa.@ Não me sinto[line=4]bem.@ Quero[line=4]dormir[line=4]tem[line=4]algum[line=4]remédio[line=4]pra[line=4]eu[line=4]tomar?"@
+`"Sim, vou buscar."
+\
+!w2000
+ld c,"tachi/his_t18",crossfade,400
+`"Desculpe a demora.@ Por favor, beba isto."@
+`"Obrigado, como sempre, e desculpe."@
+` Com olhos que não estão enxergando muito bem, pego o copo d'água e o remédio em pó que a Hisui me trouxe.@
+` Por algum motivo, há dois tipos de remédios.@
+` …… Eu não ligo pra isso, então coloco ambos na boca e bebo a água.@
+ld c,"tachi/his_t29",crossfade,400
+` Aparentemente, tem efeito rápido; já comecei a ficar com sono.
+\
+`"…… Eu vou dormir.@ Até amanhã[line=4]"@
+`"Não se preocupe, ninguém vai incomodá-lo, Shiki-sama."@
+` A Hisui sorri e sinto a sua presença se afastando.@
+bg #000000,crossfade,400
+` A minha consciência começa a desaparecer.@
+br
+` [line=3]Vou dormir.@
+` A minha cabeça está doendo tanto agora[line=3]que nem vou ligar se tiver um daqueles sonhos ruins.
+\
+!w4000
+phase "bg/cmo_14",l,his,07b,7
+!w1000
+bg "bg/bg_25b",tshutter,800
+play "*6"
+` [line=3]Estou na cidade envolta pela noite.@
+br
+` Cheguei aqui de alguma forma.@
+` Isso é um sonho?@ Se for, por que estou aqui?@
+`"[line=7]"@
+` Não, o motivo é claro.@
+` Estou na rua no meio da noite por causa do assassino[line=3]para poder procurá-lo e encontrá-lo.
+\
+bg #000000,crossfade,400
+bg "bg/bg_27b",crossfade,400
+` Vago sem rumo.@
+` Que horas são?@
+br
+bg #000000,crossfade,400
+bg "bg/bg_26a",crossfade,400
+` …… Não vejo ninguém suspeito.
+\
+br
+bg "bg/bg_12b",crossfade,400
+` …… Não há sentido em vir aqui.@
+br
+bg "bg/bg_24c",crossfade,400
+` …… Não vejo qualquer sinal do assassino.
+\
+bg "bg/bg_25b",crossfade,400
+`"[line=9]"@
+` …… As minhas pernas ficam pesadas.@
+` Tudo parece surreal.@
+` O ambiente está ficando estranho.@
+` O tempo está degradando.@
+` A sensação da presença de outras pessoas à minha volta fica terrivelmente surreal.@
+br
+bg "bg/bg_30b",crossfade,400
+` …… Mas o olfato é real.@
+` O odor que guia as minhas narinas.@
+` Está vindo de lá.
+\
+bg #000000,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",notrans,0
+br
+` [line=4]Essa foi a parada final.@
+br
+` Como no meu sonho de ontem à noite, o cadáver de alguém que não conheço está no final do beco.
+\
+` É uma mulher.@ O seu rosto está arranhado do nariz até o queixo e por isso não sei dizer se ela era bonita.@
+` O sangue que escorre está incrivelmente viscoso, e parece mais geleia vermelha do que um líquido.@
+` De dentro do seu corpo, os orgãos internos saem como pernas de um polvo.@ A massa rosa de orgãos mortos brilha e parece quente.@
+br
+` Na frente desse cadáver,
+` uma criatura negra, muito negra, está agachada e parece chorar.
+\
+`""[line=7]Quem é você!?""@
+` Nossas vozes se sobrepõem.@
+` Pergunto quem ele é, ele me pergunta quem eu sou e se vira para mim.@
+`""Eu sou[line=4]""@
+`"Um assassino." …… Mas qual de nós dois disse isso?@
+br
+bg #000000,crossfade,400
+` Bem, isso é um sonho.@
+` Então brinco um pouco e, com uma pequena dose de esperança, eu digo que sou o assassino.
+\
+playstop
+bg "bg/bg_31b",crossfade,400
+waveloop se_02
+`"Hã[line=9]?"@
+` O vulto negro inclina a sua cabeça, confuso.@
+` O homem agachado em frente ao cadáver olha para mim, como se tentasse nos comparar.@
+` Durante esse momento,
+` nesse vazio, eu posso ter certeza.@
+`"[line=8]Hehe."@
+` Uma risada escapa da minha garganta.@
+` Esse homem é um imitador barato.@
+` O vulto confuso permanece em frente ao cadáver e eu continuo aqui, sem sentir absolutamente nada pela cena na minha frente.@
+` Se perguntassem qual de nós mais se parece com um assassino, a resposta seria muito simples.
+\
+`"…… É você?"@
+` O homem pergunta com a voz trêmula.@
+` Abafo a minha risada e, naturalmente, como se fosse apertar a sua mão, enfio a minha faca no seu peito.@
+br
+` [line=9]Hã?@
+br
+` Sua voz mostra surpresa.@
+` Embora esteja prestes a ser morto, ele é lerdo o bastante para não conseguir se mover.@ Fico enojado que um cara desses se chame de assassino.
+\
+bg "bg/ima_12",lshutter,400
+` Eu vomito enquanto corto a sua carne.@
+` Como um boneco de papel, ele se desfaz em pedaços.
+\
+` O seu corpo banha o meu em sangue escarlate da cabeça aos pés.@
+br
+` Ping ping, ping ping.@
+br
+` O seu sangue pinga do meu cabelo.
+\
+bg "bg/bg_31b",crossfade,400
+` Solto um suspiro.@
+br
+` Diante dos meus olhos está outro cadáver.@
+` Nas minhas mãos, está a faca aquecida.@
+` O assassino está morto e a cidade está a salvo novamente.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Mas ainda resta eu.
+\
+` Ainda que a cidade volte ao normal, eu continuo afetado.@
+br
+` O assassino ainda existe.@
+br
+`"………… Vou pra casa."@
+` Sim, é o que eu deveria fazer.@
+` Perturbado como estou, essa é a minha melhor opção.@
+` Nada mudou.@
+` Eu vou viver normalmente como Tohno Shiki e continuar esse pesadelo à noite.
+\
+br
+` [line=3]Realmente, nada mudou.@
+br
+` É só uma questão de tempo até que, em vez do sonho se tornar realidade, eu simplesmente não desperte nunca mais do meu sonho.@
+monocro off
+bg "bg/ima_18",crossfade,400
+br
+` Acho que escutei o riso de uma garota.@
+` Mas é só um detalhe trivial.@
+` Preciso ir dormir e esperar que o meu sonho continue amanhã à noite[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

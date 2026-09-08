@@ -1,0 +1,112 @@
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` …… O melhor é ficar no meu quarto mesmo.@
+` Acho que nem vou conseguir olhar nos olhos da Akiha se eu for para a sala de estar agora.@ Não quero parecer suspeito.@ O ideal vai ser ficar no meu quarto até ela sair.
+\
+bg #000000,tshutter,800
+bg "bg/bg_40a",tshutter,800
+` ………@
+` ……………@
+` ……………………@
+` ……………………………@
+` ………………………………… Já é mais de sete e trinta da manhã.@
+` Olho pela janela e vejo a Akiha saindo.@
+`"…………"@
+` Ufa.@ Suspiro aliviado.@
+` Eu me sinto mal por fazer isso com ela, mas agora preciso focar nos meus próprios problemas.
+\
+` O sonho dessa noite.@
+` Embora eu saiba que estava dormindo, parece que saí vagando noite adentro.@
+` Com a cabeça cheia por causa desse problema, não tenho energias para agir normalmente.@
+`"………… Merda."@
+` Saio do quarto como se tivesse sido empurrado para fora pela minha raiva de mim mesmo.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+play "*2"
+` Não tem ninguém na sala de estar.@
+` Tem uma xícara de chá em cima da mesa.@ Provavelmente é a que a Akiha estava usando.@
+`"[line=12]"@
+` Entro sorrateiramente na sala de estar, provavelmente porque me sinto culpado em relação à Akiha.@
+br
+` [line=12]E.@
+br
+ld c,"tachi/koha_t04b",bshutter,400
+`"Shiki-san!"@
+` De repente, a Kohaku-san surge da cozinha, me repreendendo.
+\
+`"Opa…… Bom dia, Kohaku-san."@
+`"Não me venha com 'opa, bom dia'!@ Que horas você acha que são!?"@
+` Ela parece estar bem nervosa já que a sua atitude é assustadora.@
+`"…… Calma.@ Como não consegui acordar na hora certa, resolvi que tanto faz se vou me atrasar ou não para a escola."@
+`"Poxa, eu não estou falando de escola nenhuma!@ Quero saber é por que você não apareceu para conversar com a Akiha-sama nem que fosse só um pouquinho!?"@
+` As suas sobrancelhas se unem.@
+`"Bem…… Humm, eu achei meio difícil encarar a Akiha hoje[line=5]"
+\
+`"Achou difícil!?@ A Akiha-sama ficou te esperando esse tempão todo!@ E você nem para trocar uma palavra com ela e só aparece depois que ela sai?@ Que coisa horrível de se fazer!"@
+`"…… Ugh."@
+` …… Eu não posso contra-atacar isso.@
+` Porque realmente me sinto culpado por evitar a Akiha.@
+`"…… Entendo o que está dizendo.@ Mas não estou falando que não gosto da Akiha.@ É que hoje… Eu senti que não ia conseguir conversar com ela."
+\
+`"Você não entende nada!@ Você não tem ideia do quanto a Akiha-sama estava ansiosa te esperando esse tempo todo."@
+`"Ela estava me esperando… Está falando dessa manhã?"@
+`"Não só dessa manhã.@ A Akiha-sama disse que não era para falar nada com você, mas eu não posso suportar isso!"@
+ld c,"tachi/koha_t08",crossfade,400
+`"Escute bem, Shiki-san.@ Agora a Akiha-sama pode tomar o café da manhã com você normalmente, mas antes de ela se transferir para a sua escola, era uma inconveniência enorme."@
+` Por acaso você se lembra de onde fica a antiga escola dela?"
+\
+cl c,crossfade,400
+` …… Acho que a Academia Asagami para Garotas que a Akiha frequentava fica na cidade vizinha.@
+br
+`"[line=5]Na cidade vizinha……?"@
+br
+` Espera aí.@
+` Fica a mais de uma hora de carro.
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"Agora você entendeu, né!?@
+` Para começo de conversa, a Akiha-sama não chegaria a tempo na escola a não ser que saísse de casa às seis horas da manhã.@ No entanto, ela ignorou esse fato porque estava ansiosa para tomar o café da manhã com você todos os dias."@
+`"…… Ela estava ansiosa?@ Como assim?@ A vida dela é reclamar assim que vê a minha cara."@
+`"É porque a Akiha-sama não é sincera em relação aos próprios sentimentos.@ Se pelo menos uma vez na vida você tivesse acordado na hora certa, acredito que ela nunca teria tido qualquer motivo para reclamar."
+\
+`"Mas a única coisa que você sabe fazer é dormir e nunca tomou o café da manhã com ela, nem sequer uma única vez.@ Porém a Akiha-sama me disse que ver o seu rosto de manhã já era o suficiente e nunca nos ordenou que fosse acordá-lo."@
+`"O qu[line=8]"@
+ld c,"tachi/koha_t02b",crossfade,400
+`"Agora você entende?@ Se conseguiu entender, poderia fazer o favor de se desculpar com ela pelo que acabou de fazer?"@
+`"[line=12]"@
+` ………… Eu já ia fazer isso, mas…
+` Esse tipo de conversa não está me ajudando em nada.
+\
+`"Eu não estou entendendo.@ O que você realmente está querendo que eu faça, Kohaku-san?"@
+ld c,"tachi/koha_t15",crossfade,400
+`"Nada, não pense demais sobre isso.@
+` Apenas aja como sempre agiu.@ O problema é que a Akiha-sama não tem o costume de ser direta, por isso eu gostaria que você tivesse um pouco mais de consideração por ela."@
+`"……………"@
+` Agir normalmente?@ No momento é a coisa mais difícil do mundo para mim.
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"Ah, não se esqueça que tudo que falei é segredo.@ Se a Akiha-sama descobrir que eu te contei essas coisas, eu vou estar em apuros."@
+cl c,lshutter,400
+` A Kohaku-san vai para a sala de jantar com um grande sorriso no rosto.@
+`"……………"@
+`"Anda logo, Shiki-san; se não comer rápido vai se atrasar."@
+` Ouço sua voz vindo da sala de jantar.@
+` Vou para a sala de jantar escondendo a minha cara de vergonha.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+` [line=5]Acabei chegando atrasado na escola.@
+br
+` A entrada está vazia.@
+` Passo pelos portões da escola depois que o primeiro período já começou.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06a",tshutter,800
+wave se_03
+!w2000
+` O segundo período termina.@
+` …… Agora seria o momento perfeito para me desculpar com a Akiha sobre o acontecido desta manhã.
+\

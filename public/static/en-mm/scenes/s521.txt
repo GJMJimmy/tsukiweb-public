@@ -1,0 +1,23 @@
+monocro off
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*3"
+!w1000
+cl c,lcartain,800
+ld c,"tachi/cel_t20",tshutter,800
+` You have reached Arcueid's Good Ending.@ Well done.@
+br
+` Each heroine (with one exception) has two different kinds of endings,
+` a True Ending and a Good Ending.@
+` After reaching one of the endings, please go back a little and readvance through the story.@
+` A different event should await you.
+\
+` Oh, and another thing.@
+` If you have save data where you cleared at least one heroine, it may be a good idea to restart from the first day.@
+` You may have more choices than before.@
+br
+` Well then, thank you very much for playing up to this point.@
+` Let's meet again somewhere in Tsukihime.
+\
+bg #000000,crossfade,800
+playstop

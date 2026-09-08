@@ -1,0 +1,35 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"¿Qué es él para mí?[line=4]Arihiko es sólo un compañero de clases.@ ¿Qué más parece?"@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Oh, ¿entonces te refieres a 'sólo' un amigo por su primer nombre, Nii-san?"@
+` Akiha me mira con descontento.@
+`"Mira, ¿en verdad importa si me refiero a él por su apellido o por su primer nombre?@ ¿Por qué de repente estás tan obsesionada con eso?"
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Cielos, no tienes conciencia, Nii-san.@ Quizás para las mujeres, pero no es normal que dos chicos se hablen de esa manera.@ A menos que sean hermanos o parientes…"@
+`"Eh[line=4]bueno, tal vez tienes razón."@
+` …… Incluso yo ladeo mi cabeza al pensarlo.@
+` Pero desde un principio, siempre lo he llamado "Arihiko".@ Además, nos conocemos desde hace tanto tiempo que eso no es tan raro.
+\
+`"Bueno, existe otra posibilidad.@ No me digas que tienes esa clase de relación con él, Nii-san."@
+`"¿……?@ ¿Esa clase de relación?@ ¿Qué quieres decir?"@
+cl c,crossfade,400
+` Respondo con seriedad porque no entiendo, pero Akiha desvía su mirada.@
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… No es nada.@ Estaba siendo sarcástica, pero parece que no te das cuenta, Nii-san."@
+` Akiha deja caer sus hombros.@
+` …… Estoy cada vez más confundido.
+\
+`"[line=4]Akiha.@ Lo conozco desde la escuela media y siempre me ha ayudado.@ …… Puede no lucir como tal, pero es una buena persona.@ No sé qué te desagrada, pero no pienses mal de él."@
+ld c,"tachi/aki_t21",crossfade,400
+`"…………"@
+` ¿No está satisfecha con algo?@ Akiha comienza a refunfuñar.
+\
+`"Akiha, ¿estás escuchando?"@
+`"¡Sí, te escucho!@ Es la primera vez que te veo defender a alguien con tanto entusiasmo.@ ¡En verdad debe ser muy especial, ese amigo tuyo!"@
+cl c,crossfade,400
+` Ella infla su pecho y voltea su cabeza.@
+` …… Cielos.@ No sé por qué decidió transferirse aquí tan repentinamente.@ Y ahora ni siquiera sé qué pasa con ella.
+\

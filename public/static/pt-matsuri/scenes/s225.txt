@@ -1,0 +1,62 @@
+monocro off
+play "*3"
+bg "bg/bg_03a",notrans,0
+wave se_03
+` O sinal da escola toca.@
+`"[line=2]Hum[line=2]ah, vamos nos atrasar.@ Até mais, Senpai!"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Até mais!@ Vou te visitar no horário do almoço."
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` Vou voando para a minha sala.@
+` Ainda faltam cinco minutos para começar a aula e a classe está muito barulhenta.@
+br
+`"[line=2]Ufa."@
+` Tomo fôlego e vou para a minha carteira.@
+` Com todo esse tempo sobrando, eu nem precisava ter corrido.@
+`"E aê, Duque da Delinquência."@
+`"………"@
+` Ouço uma voz que preferia não conseguir escutar.
+\
+ld c,"tachi/ari_t01",lshutter,400
+`"Qual é, Tohno?@ Não sabia que você andava matando aula.@ Isso é um problemão.@ Você tem que me avisar quando for matar aula e sair para se divertir!"@
+` O Arihiko diz essas palavras absurdas com uma expressão muito alegre.
+\
+`"…… E por que eu deveria te avisar quando não for vir na escola?"@
+`"Não é óbvio?@ Quando nem você e nem a Senpai aparecem é ruim, a menos que eu já tenha planejado algo antes."@
+` …… Qual é o significado de "ruim" para esse cara?
+\
+`"Mas falando sério[line=2]O que aconteceu?@ Desde o ensino fundamental que você tem anemia, mas nunca faltou à aula.@ Bem, você fez aquele truque legal muitas vezes, de chegar e ir embora na mesma hora."@
+`"Foi tipo isso.@ Eu cheguei até o cruzamento e me senti mal, então voltei para casa."@
+ld c,"tachi/ari_t04",crossfade,400
+`"Hummm… Você e a Yumizuka parecem estar agindo como maus estudantes ultimamente."@
+`"[line=2]Eu sou culpado da acusação mesmo, mas…… aconteceu alguma coisa com a Yumizuka-san?"
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Ela anda ausente.@ A Yumizuka sempre foi uma estudante exemplar, acho que finalmente deve ter se cansado.@ Aposto que ela nem pode aumentar a aposta porque está com uma mão ruim."@
+`"……………"@
+` As palavras que o Arihiko diz são sempre… muito peculiares.
+\
+wave se_03
+` [line=2]O sinal anunciando o começo da aula soa.@
+br
+`"Já que você faltou no sábado, estude bastante hoje."@
+cl c,lshutter,400
+` O Arihiko volta para a sua carteira.
+\
+bg #000000,lshutter,800
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` O quarto período termina e a classe vira um pandemônio novamente.@
+` Os garotos saem correndo para o refeitório, as garotas almoçam em suas carteiras, e o Inui Arihiko está com um sanduíche nas mãos e vindo na minha direção.@
+br
+ld c,"tachi/ari_t02",lshutter,400
+`"Aê, Tohno!@ Vamos almoçar."@
+`"[line=3]"
+\
+` …… O que eu devo fazer?@
+` Desde manhã que estou sem apetite.@ Não sinto fome alguma, talvez seja melhor não me forçar a comer.@
+` …… Se eu comer, posso acabar vomitando de novo e causar problemas aos outros.@ Eu devo[line=3].
+\

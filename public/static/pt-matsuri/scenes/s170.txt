@@ -1,0 +1,91 @@
+monocro off
+play "*3"
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+play "*3"
+` Por enquanto, vamos dar uma volta pela cidade.@
+` Agora é só sair da rua principal e entrar em um beco vazio[line=4]
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Hum?@ O que foi, Shiki?"@
+`"Nada.@ É que não tenho o costume de passar por aqui, só estou um pouco confuso."@
+`"?"@
+cl c,crossfade,800
+` A Arcueid inclina a cabeça para o lado perplexa.@
+` …… Parece que ela não percebeu ainda.
+\
+` Estou sentindo o peso dos olhares à nossa volta.@
+` Só de caminhar pela rua faz com que todos à nossa volta lancem olhares em nossa direção.@
+` …… Não há necessidade de dizer isso, mas provavelmente é porque a Arcueid se destaca muito.
+\
+` Estou ciente disso, mas as reações das pessoas à nossa volta me deixam muito mais ciente ainda, e é um pouco perturbador.@
+` A Arcueid age normalmente, mas como estou sendo dominado por sua feminilidade, não consigo elaborar qualquer conversa significativa.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Ei, está me ouvindo Shiki?@ Estou perguntando aonde estamos indo."@
+`"Estamos quase chegando.@ Estamos indo para um lugar onde você vai poder relaxar."
+\
+bg #000000,lcartain,1500
+bg "bg/bg_31a",lcartain,1500
+br
+` [line=4]E chegamos no beco.
+\
+`"Chegamos.@ Normalmente, as pessoas não vêm aqui, então é um lugar ideal para você relaxar[line=4]"@
+ld c,"tachi/ark_t06",crossfade,400
+`"……………………"@
+` Hein[line=4]?@
+` De repente, seu olhar fica frio, quase mortal.
+\
+`"Arcueid……?@ Você não está feliz com este lugar……?"@
+`"……………………"@
+` …… Ela parece estar tão brava que nem consegue falar.
+\
+`"Que estranho…… Você é uma vampira, achei que iria preferir um lugar assim ao invés de algum lugar cheio de gente[line=4]"@
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=10]!"@
+` O brilho dos seus olhos parece afiado como uma faca.@
+` …… Isso não é bom.@ Acho que é a primeira vez que a vejo tão brava assim.@
+cl c,crossfade,800
+\
+` Suspirando profundamente, a Arcueid olha para o céu.@
+ld c,"tachi/ark_t09",crossfade,400
+`"Shiki.@ Que tipo de brincadeira é essa?"@
+`"Ah[line=4]hum."@
+` Que assustador!@ Seu sorriso é muito assustador.
+\
+`"Não, ué, hum…… me desculpe.@ Eu estraguei tudo."@
+` Junto as mãos e imploro por perdão.@
+` Ela continua sorrindo.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Realmente não tem nada para fazer aqui.@ A única coisa que poderíamos fazer em um lugar desses é repetir a cena de quando nos conhecemos."@
+br
+` A cena de quando nos conhecemos!?@ Quer dizer que[line=4]
+br
+`"É mesmo, o resultado pode ser um pouco diferente do primeiro, mas acho que vai ser divertido assim mesmo, né, Shiki?"
+\
+br
+br
+` [line=4]Isso foi uma ameaça.@
+` Ela contra-ataca com um sorriso.
+\
+`"…… Eu já pedi desculpas.@ Eu vou te compensar por isso, então por favor, pare de sorrir desse jeito.@ Vou te levar para um lugar bem melhor."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Sério?@ Eu já estava entrando no clima."@
+` Ela parece decepcionada.
+\
+` …… Realmente preciso pensar sobre minhas ações.@
+` Mesmo sendo uma vampira, eu fui muito idiota de ter trazido ela a um beco durante um encontro……
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_25a",lcartain,800
+` Por quatro horas…
+` condizentes com a curiosidade da Arcueid, nós acabamos ficando no shopping em frente à estação.
+\
+` Parece que ela me fez levá-la até lá só para me irritar, mas em alguma hora ao longo do passeio, ela começou a se divertir e voltou a ficar feliz.@ Foi meio cansativo, mas também achei divertido.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

@@ -1,0 +1,42 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` …………… *suspiro*@
+` Não estou com vontade de voltar para a mansão, vou ficar de bobeira na sala de aula.
+\
+` Do lado de fora, o sol está se pondo.@
+` Eu ouço as vozes das pessoas praticando nos seus clubes esportivos; estou bem confortável sentado na minha carteira tranquilamente.@
+` Provavelmente é porque ontem e antes de ontem eu estava em um outro mundo.@
+br
+` [line=4]E então,
+br
+ld c,"tachi/cel_t01a",lshutter,400
+`"Que bom.@ Vejo que ainda está aqui, Tohno-kun."@
+` O rosto da Senpai aparece do nada.
+\
+`"Hum?@ Senpai……?@ O que te traz a uma sala do segundo ano?@ Está com algo especial em mente?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Sim, estava imaginando se você ainda estaria aqui, por isso vim conferir."@
+` Ela diz algo que me deixa bem feliz.
+\
+`"Pois é, eu ainda estou aqui… Do que você precisa?"@
+`"Eu esqueci de te dizer uma coisa durante o almoço.@ Estava até pensando em deixar para amanhã, mas achei que devia dizer o mais rápido possível."@
+`"…… Hum.@ E o que é que você queria me dizer?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, parece que você anda saindo de noite, então eu queria te avisar.@ Ultimamente tem acontecido muitas coisas perigosas, você não deveria ficar na rua até tarde da noite."@
+`"Ah[line=4]hum, então……"@
+` ……?@ Como a Senpai sabe disso?@ Será que estou pálido por dormir pouco?@ Ou, será que ela me viu na rua de noite……?
+\
+`"Tohno-kun.@ Você não deve se envolver em coisas perigosas."@
+cl c,lshutter,800
+` Tão rapidamente como chegou, ela desaparece, como uma lufada de vento.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01b",lcartain,1500
+` Depois de ficar cerca de uma hora sem fazer nada na sala de aula, eu resolvo ir para casa.@
+` Já passa das cinco horas da tarde.@
+` Se eu me atrasar muito, a Hisui vai ficar preocupada, por isso devo voltar logo[line=4]
+\
+bg #000000,lcartain,1500
+!w1000

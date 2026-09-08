@@ -1,0 +1,1659 @@
+bg #000000,crossfade,500
+br
+br
+br
+br
+`  Esta historia secundaria contiene material relacionado con la historia principal de Tsukihime.@
+`  Por favor, tómate un respiro y lee esta historia después de alcanzar uno de los finales de Tsukihime.
+\
+play "*09"
+wait 1000
+bg "bg/ima_14",crossfade,400
+wait 2000
+br
+br
+br
+br
+br
+wave pd/se03
+`  Con un sonido cortante, el cuchillo de Shiki-san atraviesa al brazo dominante de su oponente.@
+`  Se acabó.@
+wave pd/se04
+`  Con eso, simplemente cae contra el suelo.
+\
+bg #000000,crossfade,400
+bg "bg/bg_61",crossfade,800
+br
+br
+br
+br
+br
+br
+`  Shiki-san suspira aliviado.
+\
+wait 3000
+`  "Oh[line=5]"@
+`  Él[line=3]no, el asesino, llace inmóvil en el suelo.@
+` Pero no está muerto. Estoy segura de que tan sólo está inconsciente.@
+`  No estaba segura, pero parece que Shiki-san placó al asesino a la par que le cortó el brazo.@
+`  Me sorprende cómo se parecía esto a lo que ocurre en los cómics.@
+`  "...... ¿Eh?"@
+`  Pero hay algo raro.@
+`  El brazo del asesino sobre el suelo no tiene ni un rasguño. Ni siquiera sangra.@
+`  Aún así, el asesino está inconsciente.
+\
+`  "......¿?"@
+`  Me sorpende todavía más.@
+`  "¿Akira-chan?"@
+`  Apartando su cuchillo, Shiki-san me extiende la mano, estando yo en el suelo.@
+`  "Oh[line=3]¡Sí, disculpa!"@
+`  Me agarro a su mano y me levanto de nuevo.@
+`  Aún en shock por lo que acababa de ocurrir, mis piernas están un poco débiles. No puedo mantenerme derecha, así que me agarro al brazo de Shiki-san.@
+`  ... Agh, esto es demasiado ridículo.
+\
+`  "Uh... Em, uhh[line=4]"@
+`  No puedo hablar claramente ahora, así que agito mi cabeza.@
+`  Quiero decir que estoy bien, no quiero ver al hombre en el suelo, estoy muy confusa ya que nunca he abrazado a un hombre antes... De todas formas, toda mi cabeza era puro caos.@
+br
+`  "Ajá.@
+` ¿Vamos a otro lado?"@
+br
+wave pd/se07
+`  Debe de haber adivinado lo que quería decir, viendo cómo comienza a caminar con mi mano en la suya.
+\
+bg #000000,rcartain,800
+bg "bg/bg_01c",rcartain,800
+`  Al alcanzar la puerta del colegio, se da la vuelta.@
+`  "Todo eso debe de haber sido terrible para ti."@
+`  Sonríe como si no pasara nada.@
+`  "Oh[line=5]"@
+`  En ese instante, los profundos escalofríos que me plagaban desaparecieron, y de pronto necesitaba llorar.@
+br
+`  Es que Shiki-san actúa con mucha calma.@
+`  Es increíble.@
+`  Lo único que dijo fueron esas palabras.@
+`  Pero lograron hacerme sentir que todo lo que había pasado sólo fue un sueño. Me hace sentir estúpida por temblar de miedo antes.
+\
+playstop
+bg #000000,bcartain,800
+wait 3500
+br
+br
+`  Así que, al final, terminamos yendo a comer juntos.@
+`  Me invitó, a una buena tarta de fresa. Imaginaba que no sería algo tan bueno esta vez, pero qué le vamos a hacer.@
+br
+`  ... Todo comenzó hace tres días.@
+`  Conocí a Tohno Shiki-san porque a mí, Seo Akira, me saludó un extraño[line=3]
+\
+bg "word/pd_genshi",crossfade,1500
+wait 3000
+bg "word/pd_one_a",crossfade,1500
+wait 2000
+bg "bg/bg_60",crossfade,800
+waveloop pd/se08
+`  El pueblo cambiaba paulatinamente a medida que nos acercábamos al final de Diciembre.@
+`  No cambia el hecho de que haya mucho ruido, pero todo se vuelve maravilloso, y al mismo tiempo, revela el oscuro sentimiento de que todo se acerca a un fin.@
+`  El pueblo después del 25 de Diciembre se llena de contradicciones: Alborotado, pero solitario.@
+`  La Navidad ha terminado y esperamos al Año Nuevo.@
+`  Cinco días de relajación antes un fin y un comienzo.
+\
+`  "[line=3]"@
+`  Paseaba sin nada que hacer.@
+`  Vine a este pueblo, que está a una estación del mío, porque quería estar a solas.@
+br
+bg #000000,crossfade,400
+bg "bg/ima_06",crossfade,400
+`  Todo comenzó hace unos pocos días.@
+`  Mis ojos eran especiales para empezar, pero vi algo especialmente extraño hace cosa de un mes.@
+`  Era un espectáculo atroz, completamente disparatado.@
+`  Allí, con un cuchillo en mi mano, estaba desmantelando cosas que parecían personas.
+\
+`  ... No sé qué significa esa visión que tuve.@
+`  Pero desde entonces, no he sido capaz de reírme de forma natural.@
+`  Sólo sigo a los demás.@
+`  Me río incluso cuando no quiero. Así de sencillo. Simplemente ya no puedo reírme naturalmente.
+\
+`  "...... Agh.@
+` Debería estar acostumbrado a las cosas raras."@
+`  Pero esa visión cambió algo.@
+`  Podrías decir que resultó dramático cómo cambió el mundo para mí en los últimos días.@
+`  "La verdad, no he oído buenos rumores sobre la mansión Tohno, pero..."@
+`  Camino por el pueblo mientras murmuraba para mí mismo.@
+`  No tenía ningún objetivo en primer lugar.@
+`  Sólo estaba paseando sin rumbo por el lugar para calmar mi mente[line=4]@
+wait 2000
+bg #ffffff,crossfade,400
+bg "bg/bg_60",crossfade,400
+\
+br
+br
+br
+br
+br
+br
+`  "¡¡No deberías asesinar a nadie!!"@
+wait 3000
+`  Entonces.@
+`  Oí a alguien detrás de mí gritar algo terrible.
+\
+`  "¿Qué?"@
+`  Mucha gente, yo incluido, nos dimos la vuelta.@
+`  Una chica con pinta de estudiante estaba allí de pie temblando.@
+br
+`  "Um, ¡no sé quién eres!@
+` ¡Pero no deberías hacer eso!"@
+br
+`  Parece ser que la chica le está gritando eso a todo el mundo que pasaba por allí.
+\
+`  "Eh, ¿de qué va eso?"@
+`  "¿Qué? ¿La conoces?"@
+`  "Es fin de año. Un montón de gente rara aparece por estas fechas."@
+`  La gente simplemente la mira fríamente y siguen caminando.@
+br
+`  "¡Oh!@
+` ¡E-espera!@
+` ¡No deberías hacerlo, ¿vale?!"@
+br
+`  La chica sigue gritando en medio de las olas de gente.@
+`  No le debe importar verse rara, ya que sigue gritando todas esas cosas extrañas.
+\
+`  "......"@
+`  Supongo que esto una especie de destino.@
+`  Voy pensando lo que le diré al paso que me acerco a ella.
+\
+wavestop pd/se08
+bg #000000,rshutter,800
+bg "bg/bg_27a",rcartain,800
+ld r,"tachi/akira_01",crossfade,800
+`  Llamo a la chica y la llevo a un lugar con menos gente.@
+`  "Um......"@
+`  La chica me miraba incómoda.@
+`  Tiene el pelo corto y negro. Por un momento, incluso pareció un chico.@
+`  Lleva ropas sencillas y de colores lisos, y una bonita bufanda alrededor de su cuello.@
+`  Probablemente porque la bufanda tiene colores de zorro, pero me dio la impresión de que parecía una pequeña zorrita.
+\
+`  Bueno, permitidme que me corrija.@
+`  Dije que no le debe importar verse rara, pero no parece que sea ese el caso.@
+`  Su cara está roja como una manzana y aún está temblando de los nervios.@
+`  Tiene unos ojos tímidos y dubitativos, y su pequeño cuerpo recuerda a un animalito.@
+`  No puedo siquiera imaginar que tenga las agallas de empezar a gritar en mitad del pueblo.
+\
+`  "Um......"@
+`  Después de repetir esa línea...@
+br
+`  "¿Eres tú el que va a asesinar a alguien?"@
+br
+`  Su pregunta estaba repleta de profundidad.
+\
+bg #000000,bshutter,800
+bg "bg/bg_59",tshutter,800
+waveloop pd/se23
+ld r,"tachi/akira_01",crossfade,800
+`  Debo decir que ahora estoy interesado.@
+`  Decido ir con ella algún lado para escucharla.
+\
+`  "...Um.@
+`  Mi colegio no me deja ir a sitios como este."@
+`  Miró a sus alrededores mientras hablaba titubeante.@
+` Realmente parece una pequeña zorrita.@
+`  "Ya que tu custodio está contigo, no tienes que preocuparte de ello.@
+` No te quedes ahí, toma asiento."@
+`  Me da una respuesta reservada y se sienta.
+\
+`  "La tarta de fresa de aquí está deliciosa.@
+` Pero sabes, da un poco de vergüenza que un chico se pida una tarta para él solo, ¿no?@
+` Siempre estoy pensando en venir aquí con alguna chica a comer tarta."@
+`  Sigo hablándole a la silenciosa chica.@
+`  No estoy esperando respuestas.@
+` Simplemente hablo porque me apetece.
+\
+`  "Yo pagaré la cuenta.@
+` Si hay algo que quieras comer, adelante y pídelo.@
+` Pero tío.@
+`   ¿No te dejan ir a una cafetería? ¿A dónde vas a clase?"@
+`  "[line=6]"@
+`  La chica simplemente deja la cabeza caída y me mira algo inquieta.@
+`  ... Dios santo.@
+` Hacerla hablar es como tirarse de los dientes.
+\
+`  "Bueno, ¿no te importará comer lo mismo que yo?@
+` Me gusta el té, así que no creo que deba a pedir algo que no te guste."@
+`  Llamo a la camarera y pido dos enormes tartas de fresa, dos tés de limón, una torta de especialidad que me llamó la atención cuando entramos, y una tarta de queso y frambuesa.@
+`  "......"@
+`  Entonces.@
+`  Ella dejó de ocultar su cara con el menú y me miró.@
+`  Parece que quiere algo.@
+`  Ya veo.@
+` No es algo para presumir, pero soy bueno interpretando peticiones silenciosas.
+\
+`  "Oh, espera.@
+` ¿Puedes añadir otra tarta de queso?"@
+`  La camarera asiente y vuelve a irse.@
+br
+`  "Oh, ¿te gusta esa tarta de queso?"@
+`  "Sí, me gustan las frambuesas."@
+br
+`  "......"@
+`  Lo ha dejado muy claro.@
+`  Bueno.@
+`  Hora de centrarme y volver al tema principal.
+\
+`  "Déjame preguntarte... ¿De que iba todo eso antes?@
+`   No parece que hicieras algo así ni siquiera como una broma."@
+`  "[line=3]Tienes razón.@
+` No soy buena bromeando."@
+`  "Me lo imaginaba.@
+` No fue un chiste gracioso."@
+`  "Uh... ¿No lo fue?"@
+`  "No.@
+` No es un tema agradable. Y primero que nada, tus ojos parecían demasiado serios.@
+` No sé por qué, pero ibas en serio.@
+` Si alguien pudiera apuntarte con el dedo y reírse, también sería un mal chiste."@
+`  "......"@
+`  Me mira fijamente.@
+`  Parece que está intentando descifrar si puede o no confiar en mí.
+\
+`  El silencio continúa.@
+`  Tras llegar la tarta de fresa, la corto en la mitad y como un pedazo.@
+`  La crujiente corteza y la gentil dulzura de las fresas[line=3]es tan buena como dicen, desde luego.
+\
+`  "[line=4]Um."@
+`  "¿Qué?"@
+`  Detengo mi tenedor y la miro.@
+`  "En realidad yo puedo[line=3]"@
+`  "Sí, lo sé.@
+` Quieres decir que puedes ver el futuro, ¿verdad?"@
+`  "[line=4]¿Eh?"@
+`  Se le corta la respiración.@
+`  ... Bueno, simplemente dije lo primero que se me pasó por la cabeza, pero parece que he acertado.
+\
+`  "Bueno.@
+` ¿Puedes decirme aunque sea tu nombre?@
+`   Me llamo Tohno Shiki."@
+ld r,"tachi/akira_02",crossfade,400
+`  "Oh[line=3]Sí.@
+` Me llamo Seo Akira."@
+`  Debe de haberle impactado que adivinase eso correctamente. La chica[line=3]Seo Akira se ruboriza mientras me contesta.
+\
+wavestop pd/se23
+bg #000000,crossfade,800
+playstop
+bg "word/pd_one_b",crossfade,1500
+wait 2000
+bg "bg/bg_59",crossfade,800
+waveloop pd/se24
+ld r,"tachi/fake_01",crossfade,800
+br
+`  Quieres decir que puedes ver el futuro, ¿verdad?@
+br
+`  El hombre que acababa de conocer (creo que se llamaba Tohno Shiki) dijo eso como si fuera la cosa más natural del mundo.
+\
+`  "U-um, ¿cómo lo sabías...?"@
+`  Miro tímidamente a Tohno-san.@
+`  Tohno-san pone una cara amistosa
+`  "Porque sí.@
+` Estoy acostumbrado a cosas así."@
+`  Su voz es muy amable.@
+`  No sé si debería ponerlo así, pero mi primera impresión de él es que es como un bonito perrito.
+\
+`  "[line=5]¿'Cosas así'?"@
+`  "Sí.@
+` Pero, bueno, supongo que esta es la primera vez que alguien me pregunta si voy a matar a alguien.@
+`   Eso realmente me sorprendió."@
+`  Ríe.@
+`  ¿Es por sus gafas con bordes negros?@
+`  Es como un niño pequeño cuando se ríe, y eso me calma.@
+`  "Oh[line=4]"@
+`  De pronto, eso me hace sentir vergüenza.@
+`  No vino a hablar conmigo porque le interesaba o porque quería ligar conmigo.
+\
+`  "Um... ¿Te sorprendió?"@
+`  No mostró malicia alguna mientras asentía.@
+`  "¡L-lo siento!@
+` No sabía quién era, así que pensé que serías tú, Tohno-san."@
+`  ...¿Eh?@
+` Algo me molesta mientras digo "Tohno-san"... Me pregunto qué será.
+\
+`  "No tienes que disculparte.@
+` Pero te invité aquí porque quería saber qué te hizo decir eso.@
+` Um... ¿Puedo llamarte Akira-chan?"@
+`  "[line=6]"@
+`  Asentí en silencio.@
+`  ... Me siento un poco feliz... Pero también turbada.@
+` Es la primera vez que un hombre, a excepción de mi padre, me llama así.@
+`  "Um, iré al grano ya que no tenemos mucho tiempo.@
+`   Um, por favor, no te rías.@
+` Eso permitirá que acabe la historia más rápidamente."
+\
+`  "Muy bien.@
+` Ser conciso es bueno."@
+`  "... De acuerdo.@
+` Como has dicho, hay ocasiones en las que puedo ver el futuro de la gente, o más bien un evento que ocurrirá pronto.@
+`   ... Um, sólo pasa de vez en cuando, pero me mareo mucho y no puedo abrir los ojos, y entonces una visión entra en mi cabeza. De todos formas, no seré capaz de recordarla, así que terminaré simplemente 'sabiendo' lo que pasará."
+\
+`  "¿Hm?@
+` Así que no puedes repetir en tu cabeza lo que viste, pero conoces todos los detalles, ¿eh?@
+`   ... No estoy seguro ya que no soy un experto, ¿pero es porque el futuro no está determinado como el pasado?@
+` La información como partes individuales está toda ahí, pero debe significar más bien que el evento en sí aún no está determinado."@
+`  Tohno-san bebe el té mientras piensa para sí con una difícil expresión en su cara.@
+`  "¿[line=3]Eh?"@
+`  ¿Q-Qué clase de persona es él?@
+`  Esa reacción no es la típica.@
+` Normalmente, la gente suele reírse.@
+` Esto es muy raro.@
+` Mirarme tan amistosamente es simplemente demasiado raro.
+\
+`  "Um.@
+` ¿Me crees?"@
+`  "Nadie se inventaría una mentira así, ¿no crees?@
+` Es demasiado arriesgado mentir acerca de ser capaz de ver el futuro."@
+`  Vaya respuesta más directa...@
+`  "... Ya veo.@
+` Ahora que lo dices, tienes razón.@
+`   Nadie mentiría sobre eso."@
+`  Tohno-san asiente.@
+`  ... Hmm.@
+` Supongo que no tiene sentido sospechar de él.
+\
+`  "Entonces.@
+` ¿Qué haces cuando pasa algo así?@
+` Ver el futuro es mucho más útil que ver el pasado.@
+` ¿Has sacado algo bueno de ello?"@
+`  El extraño Tohno-san me pregunta una extraña pregunta.@
+`  "Um[line=3]¿Qué?"@
+`  "Lo que te estoy preguntando es...@
+` Digamos que ves un futuro en el que un amigo tuyo va a hacerse daño.@
+` ¿Intentarías ayudar a ese amigo tuyo?"
+\
+`  "[line=3]Sí.@
+` Fui capaz de hacerlo varias veces en el pasado.@
+` Normalmente dicen que simplemente estorbo. Pero se puede cambiar el futuro si trabajas duro."@
+`  Tohno-san parece sorprendido, pero creo que me entiende.@
+`  "Ajá.@
+` Eres una buena chica, Akira-chan."@
+`  "[line=8]"@
+`  Mi corazón salta.@
+`  La sonrisa de Tohno-san es agradable, pero realmente parece que de verdad[line=4]
+\
+`  "... Pero, ya veo.@
+` Ver el futuro es realmente útil.@
+` Pensé que el futuro no podía cambiarse de ninguna manera.@
+` Es como el gato dentro de la caja.@
+` Si determinas que está muerto, el gato debe morir."@
+`  "... Tienes razón.@
+` Eso es lo que pensaba al principio.@
+` Pero me di cuenta de que es distinto.@
+` Creo que no veo el futuro de una persona, sino más bien su pasado."@
+`  "[line=5]¿?"@
+`  Tras inclinar su cabeza dubitativo, Tohno-san asiente comprendiendo.@
+`  "Oh. Debes ser inteligente, ¿verdad?@
+` Apuesto a que se te dan las ciencias."
+\
+`  "Qué va.@
+` Memorizar no es lo mío."@
+`  "¿En serio?@
+` Qué raro. Eso debe significar que estás usando tus capacidades con otra cosa.@
+`   El trasfondo de las personas[line=3]bueno, creo que podrías llamarlo su historia o su memoria. Pero ver eso singifica que estás viendo el pasado, ¿no?@
+` Es el mismo caso, pero podrías llevarlo más allá.@
+`   Calculas desde el pasado que lees y literalmente 'predices' el futuro.@
+` Por eso es por lo que puedes cambiar el futuro que tú ves, a diferencia de los futuros normales que otros ven.@
+`   ... Es increíble. Eres completamente distinta de un fracaso como yo."
+\
+`  "Oh[line=3]sí.@
+` Probablemente eso sea cierto."@
+`  Después de decir eso, me doy cuenta de que estoy mirando a Tohno-san con la mente ausente.@
+`  ... Después de todo, esto es sorprendente.@
+`  Esta persona acaba de adivinar todo lo que no fui capaz de entender yo durante todo un año.
+\
+`  "Así que es por eso por lo que estabas gritando esas cosas antes.@
+` Pero eso es demasiado descuidado."@
+`  Tohno-san clava su tenedor en la tarta de queso y se la lleva entera a la boca.@
+`  "Tú viste el futuro de alguien cuando estabas caminando entre la gente.@
+` El futuro que viste iba en contra de la moral humana y no es algo que puedas ignorar.@
+`   Pero había demasiada gente, así que no podrías adivinar de quién es el futuro que viste.@
+`   Gritaste eso a pesar de tu vergüenza, pero ninguna de esas personas de corazón frío te escucharían... Esa es tu historia, ¿me equivoco?"
+\
+`  "Eso es verdad, pero te equivocas.@
+` Tú me has escuchado."@
+`  "Bueno, yo no cuento, ya que soy un chico curioso.@
+`   Pero quería hablar acerca esa persona cuyo futuro has visto.@
+` ... De todas formas, apuesto a que esa persona no te dejará en paz."@
+`  Su expresión se tornó de amable a terrorífica.
+\
+`  "Um... ¿A qué te refieres con 'de todas formas'...?"@
+`  "Quiero decir, incluso si esa persona ya ha lo ha cometido o aún lo tiene que cometer."@
+`  "[line=8]"@
+`  Mi corazón salta de nuevo.@
+`  Tohno-san lo sabe.@
+` Sabe qué he visto y qué me traerá ello.
+\
+`  "¿Verdad?@
+` Dijiste 'no debes cometer asesinatos.'@
+` No vale la pena escuchar eso para una persona normal, pero no es algo que puedas ignorar si eres alguien a punto de hacer algo así.@
+`   Si[line=4]si esa persona fuera a hacer algo así, estoy seguro de que iría tras de ti ahora mismo."@
+`  "[line=5]¡!"@
+`  Rápidamente miro a mi alrededor en la cafetería.@
+`  ... Espera, no podría ser capaz de averiguar si alguien me ha seguido hasta aquí.
+\
+`  "Y creo que es malo incluso si esta persona aún tiene que matar a alguien.@
+` Tal espectáculo no se puede olvidar así como así.@
+`   No creo que debas preocuparte, pero debemos tener en cuenta qué clase de persona es, ¿de acuerdo?@
+` Hay una posibilidad de que esta persona te recuerde después de matar a ese alguien y luego venga buscándote a ti."@
+`  Su voz ahora resulta fría.@
+`  Estoy segura de que está enfadado por mi inconsciencia.
+\
+`  "Um.... Yo, yo...."@
+`  "¿No habías pensado en eso?"@
+`  "......"@
+`  No había pensado en eso.@
+` Pero lo que vi era tan horrible que...@
+`  "... Así que estabas más preocupada hacia la gente que pudiera ser asesinada en lugar de ti misma, ¿eh?@
+` Caray, esas cosas son mi punto débil."@
+`  Tohno-san mira al techo.
+\
+`  "T-Tohno-san[line=9]"@
+`  Estoy temblando de oír la palabra "asesinado" de la boca de Tohno-san.@
+`  Soy una cobarde.@
+`  Una visión de muerte es algo relativamente común en los futuros de la gente...
+\
+`  "Qué le vamos a hacer.@
+` Quiero ayudarte. No seré una molestia, ¿verdad?"@
+`  "¿Eh? ¿Ayudarme...?"@
+`  "No te hagas la tonta.@
+` Vas a ir a buscar a este asesino por tu cuenta, ¿tengo razón?"@
+`  "[line=7]"@
+`  ... Es increíble.@
+`  Parece calmado, pero realmente da mucho miedo.@
+`  Estaba completamente equivocada cuando me referí a él como un lindo perrito.@
+` Apuesto a que es más bien un lobo cuando se quita las gafas.
+\
+`  "Um... Me encantaría, pero es imposible.@
+` Es imposible para la gente normal encontrar a alguien de quien ni siquiera conocen la cara."@
+`  "[line=4]Yo no soy una persona normal.@
+` No son tan especiales como los tuyos, pero yo también tengo unos ojos especiales.@
+` Y gracias a que son débiles, puedo controlar su habilidad.@
+` Creo que valen para encontrar gente."@
+`  "[line=3]No puede ser. ¿Tú también puedes ver el futuro?"@
+`  "Eh, eh.@
+` Acabo de decirte que la gente no miente acerca de cosas así.@
+` Bueno, mis ojos no son tan concretos como los tuyos."@
+`  Tohno-san toca sus gafas con el dedo.
+\
+`  "......"@
+`  Ya veo... Por eso me estaba escuchando y creía lo que le decía.@
+`  Si ese es el caso, de veras puedo confiar en él y ser capaz de encontrar a este "alguien".@
+`  Cuando veo el futuro, suele ser un día en el futuro.@
+`  Ya me había más o menos rendido, pero si Tohno-san me ayuda, puede que sea capaz de cambiar el futuro.
+\
+`  "Entonces está decidido.@
+` Tengo una petición. ¿Me podrías llamar Shiki-san?@
+` Ya te dije mi nombre, así que puedes llamarme por mi nombre de pila."@
+`  "Oh, de acuerdo.@
+` Si tú lo dices, Shiki-san[line=4]"@
+`  Cuando digo "Shiki-san", finalmente me doy cuenta de lo qué me estaba molestando.
+\
+`  "Um[line=4]¿Podrías ser el hermano mayor de Tohno-Senpai?"@
+`  "¿Eh[line=4]?"@
+`  Parece realmente sorprendido al bajar los hombros.
+\
+`  "Un momento... ¿'Tohno-senpai'?"@
+`  Shiki-san me observa perturbado.@
+`  "¿Entonces estudias en la Academia Asagami...?"@
+`  "Sí. Estoy en el 2º año de la enseñanza media.@
+` Tohno-Senpai me ha enseñado un montón de cosas."@
+`  "Ajá, pero[line=3]Tohno Akiha está en la enseñanza superior.@
+`   Tú estás en la enseñanza media, ¿no?"@
+`  "Sí. Pero la enseñanza media y la superior en nuestro colegio no están tan separadas.@
+` Tohno-Senpai y yo estamos en la junta de estudiantes, así que siempre nos vemos en las reuniones."@
+`  Shiki-san se cubre la cara con las manos.
+\
+`  Permanece en silencio un rato.@
+`  "...... Um."@
+`  "¿Sí?"@
+`  "¿Puedes mantener esto en secreto de Akiha?@
+` Um, que hablé contigo de esta forma.@
+` No sé qué me haría si descubriese que de pronto tomé a una chica cualquiera en el pueblo."@
+`  Shiki-san suena realmente preocupado.@
+`  "Está bien.@
+` ¿Pero de verdad encuentras tratar con Tohno-Senpai tan difícil?"@
+`  La pregunta que apareció de pronto en mi cabeza se me escapó de la lengua.
+\
+`  "Hmm. Bueno, no, no realmente..."@
+`  Shiki-san me da una respuesta vaga.@
+br
+`  "Oh, ¿quieres esta torta?@
+` Te gustan las frambuesas, ¿verdad?"@
+br
+`  Me pasa el plato como si me estuviese sobornando.
+\
+bg #000000,crossfade,800
+bg "bg/bg_59",crossfade,800
+ld r,"tachi/fake_01",crossfade,800
+`  "Entonces, ¿de qué iba este futuro que viste?"@
+`  "¿Eh?@
+` ahm, esto... mmph[line=3]"@
+`  "Oh, puedes seguir comiendo.@
+` Me gusta cómo comes. Sin reservarte."@
+`  "Auu... No soy tan vulgar."@
+`  "Sí, tienes razón."@
+`  No sé cómo responder a eso.@
+`  Me limpio la boca con una servilleta y le miro a los ojos.
+\
+`  "...Lo que vi fueron pedazos y trozos.@
+` Vi algunas personas en charcos de sangre, y alguien con una cara aterradora agarrando un cuchillo.@
+`   Estaba oscuro, así que no podía ayudarme de nada para identificar los lugares.@
+` Pero sólo vi una persona cada vez, así que no creo que fueran asesinadas en el mismo lugar."@
+`  "Una persona cada vez, ¿eh?@
+` ¿Cuántas fueron en total pues?"@
+`  "... Tres.@
+` La primera es una chica de mi edad. Es morena y tiene el pelo teñido, más o menos así de largo."@
+`  Shiki-san me pide silenciosamente que continúe.
+\
+`  "La segunda persona anda por los treinta. Creo que es un poco más bajo que tú.@
+` Es algo gordito y tiene cara de buenazo.@
+` Lleva ropa distintiva... un mono amarillo."@
+`  "Oh, eso es distintivo.@
+` Sólo hay dos sitios por aquí que usen monos amarillos como uniforme de trabajo."@
+`  Shiki-san contesta, y después continúa preguntándome más información sobre este hombre.@
+`  Me pregunta acerca de sus rasgos, mi impresión sobre él, e incluso cómo fue asesinado.
+\
+`  "... Ya veo.@
+` No creo que tenga suficientes pistas, pero creo que valdrá la pena buscarle."@
+`  "¿Eh...?@
+` ¿Vas a ir a por la segunda víctima?"@
+`  "Ajá. Es más práctico buscar a alguien que va a ser atacado que buscar a este asesino del que no sabemos nada."@
+`  "Eso es cierto, pero..."@
+`  "Muy bien, cuéntame cómo es la tercera persona.@
+` Deberías contármelo mientras la memoria esté vívida."
+\
+`  "[line=8]"@
+`  ... A pesar de lo que dice Shiki-san, mi memoria no desaparecerá, no importa cuánto tiempo pase.@
+`  Dado que sólo puedo recordarlo en palabras, la información no va a desaparecer.@
+`  ... Bueno, no sé si esa es la razón o no, pero no encuentro los aspectos visuales particularmente interesantes.@
+`  En mi caso, tiendo más hacia sonidos.@
+` Mi corazón salta si un vendedor telefónico tiene una buena voz.@
+` ... Bueno, volviendo al tema principal.
+\
+`  "Um, la tercera persona es una mujer, pero no tiene muchos rasgos especiales.@
+` Sólo sé que tenía el pelo largo..."@
+`  "... Eso es un problema.@
+` No puedo buscarla, en ese caso."@
+`  Shiki-san pondera con una expresión de dificultad.@
+`  "Bueno, supongo que no nos hará ningún bien pensar demasiado en ello.@
+` ¿Y cómo fue asesinada esta persona?"@
+`  "... Lo mismo de antes.@
+` Sus extremidades fueron cortadas. En su caso, no tenía ninguna de las dos manos."
+\
+`  "... Hmm... La primera persona estaba simplemente en charco de sangre, a la segunda le falta un brazo y una pierna, y a la tercera le faltan sus dos manos, ¿eh?@
+` Este tipo debe llevar con él un arma muy peligrosa.@
+` Sería difícil cortar a un humano a menos que tenga una sierra o algo así.@
+` ... En ese caso, no puede ser un simple asesino cualquiera.@
+` El asesino debe desmantelar el cuerpo en un lugar que la gente no pueda ver."@
+`  Shiki-san murmura algo peligroso y completamente fuera de lugar para la cara de buena persona que tiene.
+\
+`  "¿Y quién es este tipo que viste al final?@
+` Dijiste que tenía un cuchillo, ¿pero no estaba muerto?"@
+`  "[line=3]No.@
+` Simplemente sujetaba un cuchillo.@
+` ... Pero daba miedo.@
+` Es como el asesino que verías en una película."@
+`  "... Caramba. Me pregunto quién será.@
+` Entonces, ¿qué aspecto tiene?"@
+`  "Um[line=3]"@
+`  Miro hacia abajo antes de volver a mirarle.@
+`  ... No puedo decirlo.@
+`  Creo que el tipo del cuchillo se parecía a Shiki-san.@
+` Pero hombre del cuchillo no llevaba gafas, y estoy segura de que es más joven que Shiki-san.
+\
+`  "No me acuerdo muy bien.@
+` Pero creo que él puede ser el asesino."@
+`  "¿Qué?@
+` ¿Así que el asesino se miró a sí mismo en un espejo tras matar a esas personas?"@
+`  "Um... No puedo ver cosas tan ordinarias como esas.@
+` Sólo veo cosas extrañas y toda la gente involucrada.@
+` No tengo un papel en la historia, sino más bien soy una observadora."@
+`  "[line=3]Ya veo.@
+` Eso está bien... Oh espera, no lo está.@
+` No recuerdas cómo era, ¿cierto?"@
+`  Agité mi cabeza.@
+`  Shiki-san suspiró aliviado.
+\
+`  "Supongo que tendremos que seguir buscando.@
+` Yo iré a buscar a la segunda persona.@
+`   Tú deberías...... Hmm, creo que no deberías hacer nada.@
+` Este hombre va a convertirse en un asesino.@
+` Es probable que ya es esté siguiendo y observando."@
+`  "¡!"@
+`  Miro a mi alrededor una vez más.@
+`  ... Aún así, no hay manera de que pueda identificar al asesino.
+\
+`  "Es peligroso para una chica ir caminando sola.@
+` Déjame a mí ocuparme de la búsqueda, tú puedes pensar acerca del futuro que viste."@
+`  "Pero... ¿No es peligroso para ti también?"@
+`  "No lo es.@
+` Bueno, será sencillo si el asesino nos está siguiendo y asume que estoy de tu parte.@
+` Confío plenamente en mis habilidades, así que no te preocupes."@
+`  Shiki-san se levanta..
+\
+`  "Contactaré mañana contigo si las cosas van bien.@
+` ¿Me dices tu número?"@
+`  "Um[line=3]bueno...@
+` Estoy de vacaciones ahora."@
+`  Shiki-san parece sorprendido.@
+`  "Hay un sitio al que quiero ir en fin de año, pero están reconstuyendo los dormitorios este año.@
+` Todo el mundo vuelve con sus familias, pero mi casa está muy lejos.@
+`   Así que me voy a quedar aquí hasta que acabe con ese asunto..."
+\
+`  "Quedarte aquí... ¿Quieres decir en casa de un amigo o algo?"@
+`  "No, me estoy quedando en un hotel de por aquí.@
+` Supongo que algo pasó ahí hace dos meses, pero es muy barato.@
+`   Planeé esto desde que podía quedarme aquí durante una semana por ese precio."@
+`  "[line=3]Hotel[line=3]oh, ese hotel."@
+`  "¿?"@
+`  Shiki-san se pone pálido, para luego agitar su cabeza.
+\
+`  "Um, me estoy quedando en la habitación dos de la planta once, así que creo que podrías simplemente llamar al hotel."@
+`  "Ajá.@
+` Muy bien. Contactaré contigo si descubro algo.@
+`   Me encargaré de la cuenta, así que puedes quedarte aquí todo el tiempo que quieras."@
+cl r,rshutter,1500
+`  ... Shiki-san se despide y se va.@
+`  "... Sí que es una persona extraña."@
+`  Le miro a través de la ventana.@
+br
+wavestop pd/se24
+bg #000000,notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_59",notrans,0
+waveloop pd/se02
+`  Entonces.@
+`  De pronto me golpea.
+\
+`  "Agh[line=8]"@
+`  Caray.@
+` Sería un nuevo récord si me diese una vez al mes, ¿pero dos veces al día? ¿Estoy usando mi talento en el lugar equivocado[line=3]?
+\
+bg #000000,notrans,0
+bg "bg/ima_14",crossfade,400
+br
+br
+`  Es una noche oscura.@
+`  Junto a un edificio vacío.@
+` Una gran pared a un lado.@
+`  Creo que es un gimnasio en un colegio.@
+`  Los dos se están enfrentando.@
+`  Uno es Shiki-san, y el otro es el chico del cuchillo.@
+`  Después de hablar un poco, se atacan mutuamente y[line=3]
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_59",notrans,0
+wavestop pd/se02
+`  No puede ser.@
+`  "Shiki-san ha sido apuñalado..."@
+`  Me quedo estupefacta frente a mis palabras.@
+`  Pero ciertamente es el "futuro".@
+`  "¡Shiki-san[line=9]!"@
+bg #000000,rshutter,400
+waveloop pd/se08
+`  Corro tras Shiki-san.@
+`  Pero no puedo encontrarle.@
+`  No importa lo bien que mire, no está en ningún lugar visible, así que vuelvo al hotel sin saber qué hacer.
+\
+wavestop pd/se08
+wait 2000
+bg "bg/bg_19d",rcartain,800
+play "*01"
+`  "¡[line=4]Oh sí!@
+` ¡Llamaré a Senpai!"@
+`  Esta simple solución aparece en mi cabeza cuando regreso.
+\
+`  "Hmm... El número de teléfono de Senpai es..."@
+`  Encuentro su número en la libreta de direcciones.@
+`  La mayoría de los estudiantes de enseñanza media conocen su número, pero nadie la ha llamado nunca.@
+`  Dicen que sólo sus compañeras de habitación Souka y Hanei son las únicas que pueden hablar libremente con ella.@
+`  No creo que haya otra persona tan de confianza, pero temida a la vez como ella.@
+`  La gente en de la enseñanza superior dice que en nuestro caso lo llevamos bien ya que podemos confiar en ella, pero no tenemos que encararnos con ella.
+\
+`  "Ugh[line=8]"@
+`  Empiezo a pensar que sea demasiado llamarla.@
+`  Pero la vida de Shiki-san está en peligro, así que no debo tener miedo.@
+`  ... Ah sí.@
+`  He conocido al hermano de la famosa Tohno-Senpai.@
+`  Qué suerte tengo. Presumiré frente a todo el mundo tan pronto como empiece el próximo trimestre[line=3]@
+br
+wave pd/se09
+`  "Esta es la residencia Tohno. ¿Con quién hablo?"@
+br
+`  ¡Eh!@
+` Supongo que inconscientemente he marcado el número.
+\
+`  "Uh, ¿um[line=4]?"@
+`  La repentina revelación hace que mi voz deje de funcionar como debe.@
+`  "Esta es la residencia Tohno.@
+` Por favor, cálmese."@
+`  Oigo una suave voz a través del teléfono.@
+`  "Oh[line=4]Sí, estoy calmada."@
+`  Respiro profundamente.@
+`  "¡L-Lo siento por llamar tan tarde!@
+` S-Soy Seo Akira. ¿Está Tohno-Senpai?"
+\
+`  "Sí. Por favor, aguarde un momento."@
+`  Tras una educada respuesta y un corto silencio...@
+`  "¿Sí? Soy Tohno."@
+`  Oigo la voz familiar a la que nunca me logro acostumbrar.@
+`  "U-um... ¡Buenas tardes, Senpai!"@
+`  ... Odio cómo me pongo de nerviosa tan fácilmente.@
+`  "........................"@
+`  Sólo oigo silencio.@
+` Agh, apuesto a que Senpai se ha quedado estupefacta.
+\
+`  "................ ¿Seo?"@
+`  "Oh, ¡sí!@
+` ¡Soy yo, Senpai!"@
+`  "Ya veo.@
+` Es realmente sorprendente que me llames."@
+`  Senpai parece estar divirtiéndose.@
+`  ... Ugh.@
+` Seguro que hay algo detrás de sus palabras.@
+` Senpai tiene el mal hábito de burlarse de los débiles, así que a menudo sufro sus bromas en las reuniones.@
+`  Supongo que para los demás parece que me esté cuidando, pero me dan escalofríos cada vez que me sonríe.
+\
+`  "Y bien, ¿qué querías?@
+` Creo que es demasiado pronto para una felicitación de Año Nuevo."@
+`  "Uh, um, no[line=3]um... ¿Ha llegado Shiki-san a casa ya?"@
+wave pd/se12
+`  ¡Crack!@
+`  Tal sonó como si aplastase el teléfono.
+\
+`  "Seo.@
+` ¿A qué te refieres con 'Shiki-san'[line=3]?"@
+`  "Ya estoy en casa."@
+`  Oigo una voz de hombre tras Tohno-Senpai.@
+`  "Oh, ¿¡Shiki-san ha llegado a casa?!@
+` ¡Lo logré!@
+` Senpai, ¿¡puedo hablar un momentito con Shiki-san!?@
+` ¡Tengo algo que decirle!"@
+`  Le pregunto frenéticamente.@
+`  Tras un suspiro, aparentemente le pasa el teléfono a Shiki-san.
+\
+`  "¿Hola?"@
+`  "[line=12]"@
+`  Mi corazón salta al oír la voz.@
+`  Tal vez tenga otro tono al teléfono, o tal vez antes estaba demasiado atenta a su cara antes...@
+`  Pero[line=4]Creo que tiene una buena voz.@
+`  Yo voy por sonidos, y la voz de Shiki-san es como una bola de béisbol a 100 metros por hora.
+\
+`  "¡U-u-um, soy Seo!"@
+`  "¿Hm?"@
+`  Maldita sea[line=3]mi corazón late rápidamente.@
+`  "¡Um, olvidé decirte una cosa! ¡Por favor, no pasees de noche!@
+` ¡Especialmente por la zona del gimnasio, ¿vale?!"@
+`  "De acuerdo.@
+` Pero con gimnasio, ¿te refieres al gimnasio de mi coleg[line=4]"@
+br
+wave pd/se10
+`  Ching.
+\
+`  "Haa... haa... haa... Caray, qué sorpresa."@
+`  Me desmorono sobre el piso y respiro profundamente de nuevo.@
+`  "Pero... ya está bien..."@
+`  Shiki-san me entendió, así que apuesto a que ese futuro no ocurrirá.@
+`  Si hay algún problema acerca de esta llamada telefónica[line=3]es el no saber qué me hará Tohno-senpai en la reunión de la junta de estudiantes el próximo año.@
+` Uff, tengo miedo del año que viene...
+\
+bg #000000,crossfade,800
+playstop
+wait 1000
+bg "word/pd_two",crossfade,1500
+wait 2000
+bg #ffffff,crossfade,800
+bg "bg/bg_60",rshutter,800
+waveloop pd/se11
+`  "[line=9]Agh."@
+`  Me siento mal viendo el artículo en el periódico de la mañana.@
+`  '¡Un único hombre, encontrado muerto y desmembrado!' "La víctima es Nakayama Minato, un trabajador de Transportes Hashido..."@
+`  Transportes Hashido es el lugar en el que todos los empleados llevan uniformes amarillo brillante.@
+`  No lo especifica en el artículo, pero su brazo y su pierna deben estar perdidos si lo encontraron desmembrado.
+\
+`  "......Diantres."@
+`  Así es como las cosas acaban tras hacer todo lo que pude tras separarme de esa tal Seo Akira.@
+`  "Pero el que esté ya en el periódico... Me pregunto si Akira-chan lo está leyendo..."@
+`  Me daría pena si lo estuviera haciendo.@
+`  Debería decírselo con toda la delicadeza que pueda.
+\
+`  "...Pero esto significa que aún deben encontrar a la primera persona.@
+`   Supongo que la segunda fue asesinada mucho más rápido."@
+`  No tiene sentido pensar en ello ahora.@
+wave pd/se14
+`  Me deshago del periódico que había cogido y me dirijo a una cabina.@
+`  Llamo al hotel y les pido que me conecten con la habiación dos de la planta once.@
+`  "[line=3]Oh, ¿Akira-chan?@
+` Estoy cerca. ¿Puedes salir? Te puedo pagar el almuerzo."
+\
+wavestop pd/se11
+bg #000000,crossfade,800
+bg "bg/bg_60",rshutter,800
+waveloop pd/se08
+`  Seo Akira sale de inmediato.@
+`  Parece que no fue capaz de dormir bien anoche.@
+ld r,"tachi/akira_03",rshutter,800
+`  "¡B-Buenos días, Shiki-san!"@
+`  Es encantador cómo me saluda enérgicamente a pesar de ello.@
+`  "Vamos a dar una vuelta.@
+` Yo soy quien te ha invitado, así que te pagaré algo bueno.@
+`  "Oh[line=3]Sí, gracias.@
+`  Le debe de haber encantado la tarta de ayer, dada esa forma tan expectante de mirarme.@
+`  Bueno, la invitaré a un gran almuerzo japonés de acuerdo con sus expectativas.
+\
+bg #000000,crossfade,800
+wavestop pd/se08
+wait 1500
+bg "bg/bg_59",crossfade,800
+waveloop pd/se25
+ld r,"tachi/akira_03",crossfade,800
+`  Acabamos nuestro almuerzo y vamos a la cafetería de ayer.@
+`  Cuando nos sentamos, Akira-chan dijo, "¡Estos locales sí que son buenos en los días fríos!"@
+`  No parecía que le gustase la idea al principio, pero parece que le gusta la olla de pescado.@
+`  "[line=8]"@
+`  Bueno.@
+` Ahora que me he calmado, debería contarle lo de las noticias que vi esta mañana.@
+`  Pero no es buena idea salir y sobre la marcha decirle que el futuro que vio se ha hecho realidad.@
+` Debería hablar con ella un poco más y dejar que se relaje.
+\
+`  "Akira-chan.@
+` ¿Te puedo preguntar algo?"@
+ld r,"tachi/akira_02",crossfade,800
+`  "Uh[line=3]vale.@
+` ... En realidad, no hace falta que me lo preguntes así, eres mucho mayor que yo."@
+`  "¿De veras?@
+` Entonces déjame preguntarte, ¿qué piensas sobre tus ojos?@
+` ¿No te parecen un incordio?"@
+`  Akira-chan me mira asombrada.
+\
+ld r,"tachi/akira_01",crossfade,800
+`  "Hmm. Hay veces que de hecho son algo molestos, sí, pero nunca he pensado en ellos como si fueran un incordio.@
+` Ha sido parte de mí desde que era pequeña.@
+`   Me deprimo cuando veo cosas malas, pero puedo cambiar el futuro si no me gusta, ¿no?@
+` Así que creo que tienen sus beneficios."@
+`  "Comprendo.@
+` Ves los recuerdos pasados de alguien y los usas para predecir el futuro.@
+`   Pero ese pasado no es más que una variable usada para calcular el futuro, así que no puedes ver visualmente el pasado a menos que sea algo muy reciente.@
+`   ... Así que lo que eso quiere decir es que puedes 'echar un vistazo' al futuro sin que el pasado de la persona te afecte."
+\
+cl a,crossfade,400
+`  Es ideal.@
+`  El futuro no es más que un resultado de la suma entre el pasado y el presente.@
+`  Así que para ver el futuro de alguien, debes tener un conocimiento detallado del pasado y el presente de esa persona.@
+`  Para calcular algo como el futuro, tienes que saber tanto de ellos como de tu propia vida.@
+`  Pero hay inconvenientes en saber tanto sobre el pasado o el presente de alguien.@
+br
+`  Como la privacidad de la persona que estás viendo.@
+`  Como el cambio en los valores para el que lo vio.
+\
+ld r,"tachi/akira_02",crossfade,400
+`  "¿Shiki-san...?@
+` ¿Qué quieres decir con eso?"@
+`  "¿Eh?@
+` Oh, ¿me estabas oyendo?@
+` Estaba pensando qué pasaría si sólo pudieras ver el pasado.@
+`   Tus ojos están preparados convenientemente para que sólo puedas ver el futuro. Pero pensaba cómo de terrible resultaría para aquellos que sólo pueden ver el pasado.@
+`   Esto es sólo un ejemplo, pero digamos que quieres vivir en un país extranjero.@
+` Pero no puedes hacer eso si quieres proteger tu entorno actual.@
+`   Así que digamos que 'ves' el pasado de alguien que solía vivir en un país extranjero.
+\
+`   Bueno, supongo que es como mezclar tu pasado con el de otra persona.@
+` Así que la persona que vio ese pasado se sentirá como si de verdad lo hubiera experimentado, pensaría que no sería nada difícil y que no tendría ningún problema en hacerlo."
+\
+ld r,"tachi/akira_01",crossfade,400
+`  "Um[line=3]¿Dejando todo atrás, tu casa y tus amigos y todo?"@
+`  "Ajá.@
+` Nos encerramos en nuestro propio conjunto de circunstancias, en un entorno específico para proteger esas circunstancias.@
+`   Todo el mundo quiere irse de aventuras.@
+` Y cualquiera podría irse de aventuras si quisiera.@
+` Podemos, pero no lo hacemos.@
+`   Creamos nuestro propio entorno.@
+` Naturalmente, debe ser un entorno en el que vivir nos resulte fácil.@
+` Nadie quiere dejar ese ambiente tan confortable e irse a una aventura que no les resultará fácil.
+\
+`   Somos como criaturas que corren un circuito circular cebados con cosas como sueños, libertad y romances.@
+` Para que veas, es como un caballo con una zanahoria colgada frente a él.@
+`   Pero hay gente que saltará por encima de la valla y se saldrá del circuito en el que estaban.@
+`   La gente que puede ver el pasado y el asesino que viste corresponden a estas personas.@
+`   Una criatura que se separa del grupo debe morir.@
+` Ninguna forma de vida puede multiplicarse por sí misma, ¿cierto?@
+` El no ser capaz de multiplicarse significa que ya no existirá más.@
+`   Pero[line=3]no tiene sentido multiplicarse para empezar.@
+` Puede que los seres vivos son más hermosos cuando se separan del grupo y mueren en una muerte solitaria."
+\
+`  "[line=7]"@
+`  Akira-chan responde con la mente ausente.@
+`  ... Oh, me he ido por las ramas.@
+`  "Bueno, hablando del asesino.@
+` No has leído el periódico esta mañana, ¿no?"@
+ld r,"tachi/akira_02",crossfade,400
+`  "Oh[line=3]no, lo siento."@
+`  "Decía que encontraron un cadáver anoche.@
+` Lo encontraron desmembrado, y es de esa compañía que lleva uniformes amarillos como dijiste."@
+ld r,"tachi/akira_01",crossfade,400
+`  "¡[line=10]!"@
+wave pd/se13
+`  Agitando la mesa, Akira-chan se levanta.@
+`  "[line=12]"@
+`  Su cara se tiñe de rojo a medida que empieza a temblar. Parece que quiere decir algo, pero no encuentra las palabras.
+\
+`  "... Siéntate.@
+` No podemos asegurarlo ya que no pusieron fotos.@
+` Es una forma tonta de decirlo, pero deberíamos esperar y observar, que la policía no es tonta.@
+` El único crimen en el que no encuentran al criminal es aquel en el que 'nadie supo nunca que se cometió un crimen'.@
+` Esa es la única definición de un crimen perfecto."@
+`  Eso es.@
+` Siempre y cuando se reporte como un crimen, capturarán al asesino.@
+`  No obstante, no podré decir nada acerca de ello cuando ocurra.
+\
+`  "Siéntate.@
+` No eres responsable de esto.@
+` La única persona culpable es la que hizo esto, así que no tienes que echarte la culpa.@
+` No deberías confundirte con eso.@
+`   Mira, si no evitarlo cuando sabes que va a ocurrir es un crimen, todas las personas que están viendo las noticias sobre el asesinato son culpables."@
+`  "[line=16]"@
+`  Simplemente se queda ahí de pie en silencio.@
+`  Tras un tiempo, vuelve a sentarse reluctante.
+\
+`  "Fiu.@
+` No habría sido capaz de volver a este local si te hubieras quedado de pie."@
+`  "...... Tienes razón, pero dices cosas que dan mucho miedo."@
+`  "¿Eh?@
+` ¿A qué te refieres con cosas que dan miedo?"@
+`  "... Nada.@
+` Pero creo de veras que tienes razón."@
+`  Akira-chan continúa murmurando mientras mira hacia abajo.
+\
+`  "Shiki-san.@
+` ¿Por qué la persona que yo vi cometió un asesinato?"@
+`  "Es una pregunta difícil.@
+` No sabría decirte... Bueno, si tengo que contestar, creo que es como un impulso sexual."@
+ld r,"tachi/akira_02",crossfade,400
+`  "[line=3]I-Impulso sexual[line=4]"@
+`  Su cara se volvió de un rojo brillante.@
+` Está deprimida, pero eso no ha cambiado el hecho de que se avergüence fácilmente.@
+`  "¡¡Pero!!@
+` Puede que sea el caso de que el asesino tuvo que matar para salvar a alguien.@
+` Creo que hay cosas que no quieres, pero debes hacerlas..."
+\
+`  "Estoy seguro de que las hay.@
+` Todo el mundo tiene sus razones.@
+`   Pero cuando se trata de un asunto de vida o muerte, se reducirá a impulsos sexuales.@
+`   Lo que nos hace humanos es nuestra habilidad para construir cosas.@
+` A excepción de eso, tan sólo somos animales.@
+`   Para los animales, la vida y la muerte no son más que sus instintos.@
+` De entrada, la razón humana no funciona cuando decidimos matar o no.@
+` Nos hicieron así.@
+`   Es simplemente natural, ¿cierto?@
+` Porque no seríamos capaces de matar si usásemos nuestra razón y pensamiento acerca de ello racionalmente.@
+`   No importan las causas, durante ese instante, nuestra razón ya no controla nuestras acciones."
+\
+ld r,"tachi/akira_01",crossfade,400
+`  "........."@
+`  "Lo siento.@
+` Creo que he sido un poco cínico.@
+` He experimentado cosas así antes, así que soy contundente respecto a la 'muerte'.@
+`   Pero, Akira-chan.@
+` Hay muchas razones para que alguien mate, pero creo que todas parten de un deseo de 'cambiarse' a sí mismo.@
+`   Por ejemplo, digamos que hay una persona a la que realmente detestas.@
+` Si está vivo, sólo puedo detestar.@
+` No quiero eso.@
+` Es desagradable.@
+` Así que para convertirme en una persona que no deteste, le mataré, la razón de mi detesto.@
+`   Ves, incluso en este caso, la razón es simplemente querer cambiar."
+\
+`  "... ¿Ah sí?@
+` Pero eso es sólo una excusa.@
+` Si quieres cambiar, deberías encontrar otras formas de hacerlo."@
+`  Asiento.@
+`  El argumento de Akira-chan es natural.@
+`  Primero que nada, nadie escogería el último recurso del "asesinato" a menos que se les agoten los demás métodos para cambiarse a ellos mismos.
+\
+`  "... Pero lo que dices es cierto.@
+`   No podría saberlo, pero seguro que el mundo a su alrededor debe de haber cambiado tras matar a alguien.@
+`   Dicho con tus palabras, 'el entorno en el que vives' que tanto trabajo te costó, queda destruido por esa única acción."@
+`  "[line=5]"@
+`  Sonrío porque estoy muy feliz.@
+`  Esta chica es realmente lista.@
+`  Pienso para mí mismo que me encantaría desde el fondo de mi corazón que fuera mi hermana.
+\
+bg #000000,crossfade,800
+wavestop pd/se25
+bg "bg/bg_60",crossfade,800
+`  Me separo de Seo Akira igual que ayer.@
+br
+`  Parece asustada, así que le digo que no abandone el hotel.@
+`  "Bueno[line=4]la tercera era una mujer sin rasgos especiales, ¿eh?@
+` No sé si eso es fácil o difícil de encontrar..."@
+`  Me rasco la cabeza.@
+`  Será difícil encontrar a la tercera mujer con tan sólo esa información, pero Akira-chan no se quedará en ese hotel para siempre.@
+`  Debería responder a sus expectativas tan pronto como pueda.
+\
+bg #000000,crossfade,800
+wait 2500
+bg "word/pd_three",crossfade,1500
+wait 2000
+bg "bg/ima_13b",crossfade,800
+waveloop pd/se11
+br
+br
+br
+br
+`  'Mira, si no evitarlo cuando sabes que va a ocurrir es un crimen, todas las personas que están viendo las noticias sobre el asesinato son culpables.'
+\
+`  ... Esas palabras me hicieron pensar que Shiki-san da miedo.@
+`  No, más estricto que que da miedo.@
+`  Creo que un montón de gente verá las noticias de alguien asesinado y se compadecerán.@
+` Pero se olvidarán de ello al día siguiente, e incluso si lo recuerdan, eso no cambia el hecho de que simplemente están "mirando", si lo único que hacen es compadecerse.@
+`  Creo que Shiki-san se refería a que debes actuar al respecto si sabes algo, independientemente de que sea en el pasado o en el futuro.
+\
+`  Lo que quiere decir...@
+`  Es como si dijera que somos criaturas sin sentido que simplemente existimos, de la forma en que vemos las noticias sin hacer nada al respecto[line=5]
+\
+wavestop pd/se11
+wait 2000
+bg #ffffff,crossfade,800
+bg "bg/bg_19b",crossfade,400
+`  Cuando me despierto, ya es más de mediodía.@
+`  "............"@
+`  No pude dormir hasta el amanecer, así que mi cuerpo quiere más horas de sueño.@
+`  "... Tengo que leer el periódico."@
+`  Me froto mis ojos somnolientos y uso el servicio de habitaciones para pedir el desayuno y un periódico.@
+`  Bebo un sorbo del café del hotel (Shiki-san piensa que prefiero el té, pero en realidad prefiero el café) y le echo un vistazo al periódico.
+\
+wave pd/se14
+`  "[line=4]"@
+`  Tal y como esperaba, encuentro un artículo sobre la tercera persona.@
+`  Sencillamente dice que una mujer sin rasgos destacables fue asesinada en su casa.@
+`  No tengo pruebas, pero asumo que ella es la tercera persona.
+\
+wave pd/se15
+`  "Oh... El teléfono está sonando."@
+`  Cojo el teléfono con la mente en otra parte.@
+wave pd/se09
+`  El empleado del hotel dice que tengo una llamada de Tohno Shiki, así que le pido que me conecte con él.@
+`  "Oh, por fin puedo contactarte.@
+` Buenos días, Akira-chan.@
+`   Sé que es repentino, pero ¿puedes salir?"@
+`  Shiki-san dice esto igual que ayer.
+\
+bg #000000,rcartain,800
+bg "bg/bg_59",rcartain,800
+waveloop pd/se26
+ld r,"tachi/fake_01",crossfade,400
+`  Son las cuatro en punto cuando llego a la cafetería.@
+`  Shiki-san está esperando en el asiento de costumbre, así que me inclino hacia él y me siento enfrente suya.@
+`  "... Supongo que habrás leído el periódico, a juzgar por tu apariencia."@
+`  "[line=3]Sí.@
+` ¿Tú también crees que lo sea, Shiki-san?"@
+`  "Sí... Bueno, ni idea.@
+` Parece un caso aparte con esa información."@
+`  Shiki-san suena disgustado.@
+`  No parecía tan preocupado ayer, pero como cabría esperar, no está calmado hoy.
+\
+`  "...¿Estás enfadado, Shiki-san?"@
+`  "Sí."@
+`  Asiente y deja escapar un gran suspiro.
+\
+`  "Agh, ¿qué pasa con ese diminuto artículo?@
+` Apenas han puesto dos líneas, aunque se trata del asesinato de alguien.@
+` No podrías saber quién ni cómo fue asesinada."@
+`  "Um...@
+` ¿Crees que este caso no tiene relación?"@
+`  "No lo creo, pero no podemos asegurar nada, ¿cierto?@
+` ... Agh, apuesto a que están controlando la información ya que el asesinato fue como el de ayer. Nunca sabremos lo que realmente pasó a este paso."
+\
+`  "... Shiki-san.@
+` ¿Qué harás ahora?@
+`   No creo que vaya a haber más víctimas ahora."@
+`  "Eso puede ser cierto.@
+` Pero quieres capturar al asesino, ¿no?"@
+`  Asiento.@
+`  No es el sentir de la justicia ni nada por el estilo. Simplemente creo que un asesino no debería andar por ahí suelto.
+\
+`  "Ajá.@
+` ... Pero esto es problemático.@
+` Conoces a este 'hombre con un cuchillo' como información, pero no sé nada de él.@
+` Ni siquiera puedo imaginármelo en mi cabeza cuando me dices lo que viste.@
+`   No tengo más ideas ya."@
+`  "Um... Tengo algo que decir al respecto de eso.@
+` Shiki-san, tú, um[line=7]"@
+`  No puedo decirle que este "chico con un cuchillo" le asesinará.@
+`  Primero, eso no es más que el futuro más probable, así que su precedencia puede remitirse a trivialidades.
+\
+`  "¿Hm? ¿Qué pasa conmigo?"@
+`  "Um... Estoy pensando en caminar por el pueblo para buscarle.@
+` Um, pienso egoístamente que[line=4]sería tranquilizador si me acompañaras..."@
+`  Shiki-san chasca los dedos.@
+`  "Cierto. Deberíamos hacer eso.@
+` Creo que podría ayudarte de esa forma."@
+`  "Oh...... Me alegro de que digas eso, pero probablemente no lo encontremos.@
+` Es improbable que lo encontremos simplemente buscando por el pueblo."
+\
+`  "Pero no podemos decir que no vaya a ocurrir.@
+` No importa cómo de pequeña sea la oportunidad de que ocurra, no es cero.@
+` No terminará hasta que te rindas."@
+`  Diciendo esto alegremente, Shiki-san se levanta.@
+`  "Bueno, deberíamos ir moviéndonos.@
+` Vamos a buscar por el pueblo mientras aún haya gente por ahí."
+\
+wavestop pd/se26
+bg #000000,rcartain,800
+wait 2000
+bg "bg/bg_52",crossfade,400
+waveloop pd/se08
+`  Caminamos por las calles principales durante tres horas, pero no encontramos nada de provecho.@
+`  Shiki-san no se queja, e incluso me compró una bebida caliente cuando tenía frío.
+\
+`  "... Es casi la hora de cenar.@
+` ¿Hay algo que quieras comer?"@
+`  "¿Eh? ¿Algo que quiera comer?"@
+`  Sinceramente, su propuesta fue muy oportuna, ya que no he comido nada desde que me levanté a mediodía.@
+`  "Hmm. Ayer fuimos a un restaurante, así que un lugar más alegre podría estar bien esta vez..."@
+`  Shiki-san se detiene y empieza a pensar.@
+`  "[line=6]"@
+`  Me quedo en silencio.@
+` En ocasiones como esta, Shiki-san suele tomar mejores decisiones de lo que yo[line=3]
+\
+wavestop pd/se08
+bg #ffffff,crossfade,400
+wave pd/se01
+bg #9c0120,crossfade,400
+bg "bg/bg_52",crossfade,400
+`  "Oh[line=10]"@
+`  Entonces.@
+`  Vi a dos personas caminando juntas por la calle.@
+`  Una persona que me parece que da clase en mi colegio y 'el chico' caminando juntos.@
+`  ... No puedo asegurar nada ya que están muy lejos.@
+`  No puedo distinguirlos bien, pero no hay duda.
+\
+waveloop pd/se08
+`  "... ¿Hm?@
+` ¿Qué pasa, Akira-chan?"@
+`  "[line=3]Shiki-san, esa persona[line=4]"@
+`  Señalo al 'chico'.@
+`  Tras mirar hacia donde señalo, se queda inmóvil.@
+`  "... Tiene gafas, pero..."@
+`  "¿Qué pasa con él?"@
+`  "Él era el que te estaba apuñalando."@
+`  "¿Eh?"@
+`  Shiki-san me mira con sorpresa.
+\
+`  "[line=5]Oh."@
+`  ¡Oh, no!@
+` ¡¡Juré que no le diría nada sobre eso, pero estoy tan empanada...!!@
+`  "Akira-chan.@
+` ¿Qué quieres decir con que me estaba apuñalando?"@
+`  "Uh... Um, lo vi.@
+` Los dos os estábais enfrentando con cuchillos.@
+` Es por eso por lo que anoche te llamé para avisarte de que no pasearas de noche."@
+`  "[line=15]¿Llamarme?"@
+`  Shiki-san asiente como si ahora lo entendiese todo.
+\
+`  "... Ya veo.@
+` Supongo que eso también es una posibilidad.@
+` Caray, pensé que podríamos ser amigos ya que eso fue lo último que viste.@
+` ... Ya veo. El futuro que ves es realmente ambiguo."@
+`  Con eso, Shiki-san me agarra fuerte el hombro.@
+`  "Ya sé quién es el asesino.@
+` Es mi Sensei."@
+`  "¿¡[line=8]!?"@
+`  "Alejémonos de aquí por ahora.@
+` Vamos a ir al colegio al que yo voy, ¿vale?"@
+`  Shiki-san coge un taxi.
+\
+`  "............"@
+wave pd/se17
+`  Sigo a Shiki-san adentro del taxi.@
+wavestop pd/se08
+`  ... Le dije a Shiki-san que estar en el colegio de noche es peligroso.@
+`  Debe de haber planeado algo para ir allá a pesar de ello.
+\
+bg #000000,rcartain,800
+wait 2000
+bg "bg/bg_01c",rcartain,800
+wave pd/se01
+play "*06"
+`  "[line=7]¿Eh?"@
+`  Me siento mareada tras salir del taxi.@
+`  Lo que me molesta es que el nombre del colegio me da escalofríos.
+\
+ld r,"tachi/fake_01",crossfade,400
+`  "Hemos llegado."@
+`  Shiki-san camina hacia el colegio y abre el cerrojo de la puerta (un candado).@
+wave pd/se18
+`  "Por aquí."@
+`  Me coge de la mano y me lleva hasta los terrenos de la escuela.
+\
+bg #000000,rcartain,800
+bg "bg/bg_03c",rcartain,800
+wave pd/se01
+bg #000000,rcartain,800
+bg "bg/bg_61",rcartain,800
+waveloop pd/se02
+`  "[line=4]No puede ser."@
+`  Yo conozco este sitio.@
+`  "Um, Shiki-san..."@
+`  Mi voz tiemvla.@
+`  Shiki-san no me ha dado la cara desde que me tiró de la mano.@
+br
+`  "[line=3]¿Qué?"@
+br
+`  Responde secamente.@
+`  El darme cuenta de mi estupidez me golpea tras mi cabeza.
+\
+`  "Shiki-san.@
+` ¿Te puedo preguntar algo?"@
+`  "¿Qué?"@
+`  "Um... Esto es un instituto, ¿verdad?@
+` ¿Pero no acabas de decir que tú vienes aquí?"@
+`  "Eso hice. ¿Es extraño?"
+\
+br
+br
+br
+br
+br
+`  ¡Es extraño!@
+`  Porque[line=4]
+\
+`  "Um.@
+` Eres mucho mayor que yo, ¿no?"@
+`  "Ajá.@
+` Cumpliré 22 este año."@
+`  "Oh, ya veo.@
+` ¿Eres profesor aquí, Shiki-san?"@
+`  "No. ¿Crees que eso es posible?"
+\
+br
+br
+br
+br
+br
+br
+`  No. No es posible.
+\
+`  "Um... Entonces..."@
+br
+`  "Akira-chan.@
+` No soy ni un estudiante ni un profesor aquí.@
+` Pero es cierto que Tohno Shiki viene a este colegio."@
+br
+`  "... ¿Quién eres?"@
+br
+`  "¿Quién sabe?@
+` Bueno, es cierto que no soy Tohno Shiki como tal."
+\
+ld r,"tachi/fake_02",rshutter,400
+`  Dicho esto, se da la vuelta.@
+`  Parece inorgánico, como si tuviera una máscara puesta.@
+`  ¡Agh, lo retiro, lo retiro, lo retiro de veraaaaaaaaaaaaaaas!@
+`  ¡Maldita sea, ¿por qué pensé que era como un perrito o como un lobo?!@
+`  ¡No importa cómo lo mires, es prácticamente una mantis[line=4]!
+\
+playstop
+wavestop pd/se02
+bg #000000,bshutter,800
+bg "bg/bg_61",bshutter,800
+ld r,"tachi/fake_02",crossfade,400
+play "*04"
+`  "Oh[line=4]"@
+`  Intento escapar mientras aún me agarra de la mano.@
+`  Pero no me suelta, y tiene un cuchillo en la otra mano.@
+` No se trata de un cuchillo normal, sino un temible cuchillo hecho por esa compañía Smith-and-nosecuántos.
+\
+`  "Um, ¿por qué[line=4]"@
+`  Mi voz tiembla.@
+`  No puedo moverme.@
+`  Sé que debería gritar y darle una patada, pero mi cuerpo simplemente se encoge del miedo.@
+`  Porque probablemente estaría muerta si ese cuchillo fuera hacia mí.@
+`  Creo que entiendo cómo se sienten esas personas con una pistola apuntando a su cabeza.
+\
+`  "¿Por qué?@
+` Sí, me pregunto por qué.@
+`   Quería separarme de ti hoy, pero parece que seré apuñalada por Shiki-kun si no hago nada.@
+` Eres la única conexión entre Shiki-kun y yo, así que debo matarte, ¿no?"@
+`  Su mano me aprieta más fuerte.@
+`  No tiene prisa, viendo cómo me acerca poco a poco hasta él.@
+`  "Ugh[line=4]"@
+`  Me intento resistir, sin resultados.
+\
+`  "Si es que...@
+` Por eso te dije que mantuvieras esto en secreto de Tohno Akiha.@
+` Supongo que no hay nada menos confiable que la promesa de una chica."@
+`  "¡Oh[line=4]!"@
+`  Me está acercando.@
+` Da mucho miedo....@
+`  "No me mires así.@
+` De entrada, la mitad de la culpa de acabar así es tuya.@
+`   Te lo dije, ¿cierto?@
+` Si alguien que acaba de cometer un asesinato oye a alguien llamándole asesino, no le dejará en paz."@
+`  "P-pero... Ese asesinato aún no ha ocurrido[line=3]"
+\
+`  "En aquel momento, ni el segundo ni el tercero.@
+`  Había Matado a la primera hacía chica cosa de una hora antes de conocerte.@
+`   Me interesé, así que te escuché. Y resultó que yo iba a matar a dos personas más.@
+`   Así que busqué a personas que encajasen con esas descripciones tuyas y las maté.@
+` No es que tu predicción fuera correcta. Yo hice que tu predicción se volviera realidad. Pero supongo que eso es una clase de precognición."@
+`  ¡Bam!@
+`  Tira de mí fuertemente, y termino en su pecho.
+\
+`  "No te muevas mucho.@
+` Sientes el cuchillo en tu cuello, ¿no?@
+`   Sería terrible si te movieras.@
+` Costaría mucho disimular la sangre saliendo de la arteria carótida."@
+`  "Hah[line=3]"@
+`  Trago saliva.@
+`  Siento un dolor punzante. Apuesto a que mi piel ya está algo arañada.
+\
+`  "Hm, ¿qué más debería decirte?@
+` Ah sí, quiero aclararte que no te he estado engañando.@
+`   Yo creo que puedes ver el futuro, y es cierto que yo también tengo ojos especiales.@
+`   A diferencia de los tuyos, yo veo el pasado de la gente.@
+` Bueno, el término 'ver' no es correcto.@
+` Empatizo con ellos, así que puede que esté relacionado con la inducción mental.@
+`   Bueno, y es por eso que[line=3]conozco a Tohno Shiki."@
+`  "¡Ou...!"@
+`  Oh[line=3]parece que me ha girado el brazo y me ha inmovilizado contra la pared[line=3]
+\
+`  "Fue hace exactamente un mes.@
+` Todo comenzó cuando accidentalmente vi a Shiki-kun en la misma calle que te vi a ti y vi su pasado.@
+`   El pasado que él experimentó era tan genial que me hizo tener que encerrarme en un cuarto por un tiempo.@
+` También conozco el incidente del hotel en el que te estás quedando.@
+` Él fue el único superviviente."
+\
+`  "¿Cómo podría decirlo?@
+` Supongo que fue el destino que nos encontrásemos.@
+` Descubrí cómo hacerlo, y era sencillo cambiarlo.@
+`   Es por eso por lo que es tan genial ahora.@
+` Este mundo tan carente de significado ahora parece lleno de él."@
+`  Su cuchillo se mueve desde mi cuello hacia abajo hasta mi pecho.
+\
+`  "Bueno, nos vemos.@
+` Tu futuro no habría sido así si hubieras consultado al Tohno Shiki de verdad."@
+`  El cuchillo se mueve.@
+`  Debo huir, pero no puedo apartar mi mirada del cuchillo.@
+`  El cuchillo es presionado contra mi pecho[line=5]
+\
+`  "Bueno, apuesto a que esto habría acabado así incluso con el Tohno Shiki de verdad.@
+` ¡Es una persona anormal, igual que yo[line=3]!"@
+playstop
+cl r,rshutter,400
+`  Clava el cuchillo.@
+wave pd/se05
+`  Tras un sonido seco...@
+br
+`  "[line=3]Eh, eh.@
+` ¿Qué te parece si dejas de decir todas esas cosas tan raras, eh?"@
+br
+`  Oigo una voz.
+\
+`  "......¡!"@
+`  Está sujetando su propia mano y mirando a los alrededores.@
+`  El cuchillo no está en su mano, y parece que lo está buscando.@
+`  Y...@
+` Veo a un chico con gafas ahí de pie.@
+`  El chico tiene un cuchillo en la mano, y no importa cómo lo mire, él es el chico con el cuchillo que vi[line=6]@
+`  "Uh[line=7]¿Qué?"@
+`  Me desmorono contra el piso con la pared aún tras mi espalda.
+\
+play "*08"
+ld c,"tachi/shiki_02",rshutter,400
+`  "Lo he oído todo.@
+` ¿Eres esa persona que me estaba imitando?"@
+`  "[line=7]"@
+`  No contesta.@
+`  El chico del cuchillo[line=3]no, el verdadero Shiki-san, lo mira en silencio.@
+`  "Caray, vaya molestia.@
+` Gracias a ti, Senpai me ha estado vigilando los últimos días.@
+` ¿Cómo vas a cumplir tu responsabilidad de hacer que me traten mal pensando que yo era el asesino?"@
+`  Shiki-san se queja.@
+`  Su voz sonaba igual que esa voz maravillosa que oí cuando llamé a casa de Tohno-senpai.
+\
+`  "[line=4]Entonces.@
+` ¿Qué piensas hacer?@
+`   ¿Vas a entregarte a la poli o vas a seguir?@
+`   Si quieres continuar, no creo que la persona que se oculta en la oscuridad te perdone."@
+`  ...¿?@
+`  Las ramas hacen un ruido.@
+`  ... Ahora que lo pienso, no creo que haya sido Shiki-san quien que le tirase el cuchillo[line=5]
+\
+`  "¿Estás de broma?"@
+`  Coge su cuchillo del piso.@
+`  ... Ya no me está mirando.@
+` Parece que sólo ve a Shiki-san ahora.@
+`  "¿Tú dices eso?@
+` ¿Tú que has desmembrado más seres humanos que yo?"@
+`  "No recuerdo haber asesinado ningún ser humano. Si esa fue la impresión que tú tuviste, es tu problema."@
+`  Y con eso...@
+`  Shiki-san da un paso hacia él.
+\
+`  "¡E-Espera!@
+` ¿No somos el mismo tipo de persona?@
+` No tiene sentido para nosotros que vivamos.@
+` Te has dado cuenta de que sólo estamos corriendo en esta carrera predeterminada, ¿verdad?@
+`   Es por eso por lo que me escapé de ella.@
+` Tú me enseñaste cómo.@
+` La muerte es necesaria para renacer.@
+` Pero morir no tiene sentido.@
+` Así que[line=4]el asesinato es la forma de volcar tus valores manteniéndote con vida, ¿no?@
+`   ¡Tú eres el que me hizo darme cuenta de que esa es la manera más sencilla!"@
+`  "...... Ya veo.@
+` ¿Te cansaste de vivir?"
+\
+`  "¡Por supuesto!@
+` ¿Qué tiene de divertido multiplicar y construir cosas?@
+` No hay una meta definida ni un final, pero aún así crecen sin que ello signifique nada.@
+`   ¿Ves? ¿No crees que sea extraño?@
+` ¡Los humanos han estado dando vueltas en esa rueda sin sentido durante cientos de años!@
+`   La vida no tiene significado.@
+` No puedo estar con esos idiotas que consumen todo sin darse cuenta de ello.@
+`   ¡Deberíamos exterminar animales tan avariciosos!"
+\
+`  "[line=3]¿Qué es eso?@
+` ¿Qué bien sacas de eso?"@
+`  Shiki-san murmura enfadado.
+\
+`  "Oye, no me hace ilusión tener que decirte algo tan evidente...@
+`  Pero si tanto odias el mundo, ¿por qué no te suicidas?@
+` Dijiste que el asesinato es el método más sencillo, pero ¿no es el suicidio una forma incluso más fácil de abandonar esta carrera predeterminada?"@
+`  "¿Q-Qué?"
+\
+`  "Pero no puedes, ¿tengo razón?@
+` Eso es por lo que lo único que podías hacer era quitárselo a los demás.@
+`   ¿La vida no es divertida?@
+` ¿La vida no tiene sentido?@
+` Penoso.@
+` Tú eres el que está viviendo sin sentido.@
+`   Has vivido por décadas, ¡pero no has sido capaz de encontrar nada que valga la pena...!"@
+`  Otro paso.@
+`  Con el cuchillo en mano, Shiki-san se acerca a nosotros.
+\
+`  "Le echabas la culpa a los demás, y encima, ¿matabas para cambiar tus valores?@
+`   Vaya insulto más terrible.@
+` No hay nada para la gente que mataste."@
+`  "Qué[line=3]No soy penoso.@
+` El mundo ha cambiado.@
+` Es por eso por lo que ahora me siento vivo. Ves[line=3]mi cuerpo está agudizado y lleno de energía ahora mismo."
+\
+` "Lo único que significa eso es que eres un cobarde.@
+` Tienes miedo ahora que has matado gente, ¿verdad?@
+` Estás preocupado de que no puedas volver a ese lugar tan divertido del que pensabas que no lo era.@
+`   Manda narices[line=3]¿Por qué tengo que decirte algo tan obvio?@
+`   Tu mundo no ha cambiado para nada.@
+`   Simplemente acaba de terminar."@
+`  Shiki-san se toca las gafas.@
+`  Con un sonido...@
+`  Se las quita.
+\
+ld c,"tachi/shiki_03",crossfade,400
+`  "[line=6]"@
+`  Cuesta respirar.@
+`  En la oscuridad de la noche...@
+`  Los ojos de Shiki-san brillan en azul[line=3]da mucho miedo, me hace pensar que incluso si me asesinan, no serviría de nada.
+\
+`  "Es[line=4]pera."@
+`  Está mirando a Shiki-san como si fuera su amante.@
+`  "Muy bien.@
+` Lo entiendo.@
+` Debo vivir para compensar mis pecados.@
+` Así que..."@
+`  Parece que quiere decir que no le mate.@
+`  "Sí. No puedo matarte si tu meta es redimir de tus pecados."@
+`  Shiki-san se detiene.@
+`  El hombre sonríe y agarra su cuchillo más fuerte.
+\
+`  "Entonces[line=4]"@
+`  "Pero para ti, yo soy un asesino, ¿cierto?@
+` Con lo cual[line=3]un asesino no tiene moral humana como para dejar a un criminal compensar sus pecados."@
+`  "¿Qué? [line=5]¡AAAAaaaaahhh!"@
+wave pd/se20
+`  Tras un suave paso que le impulsó sobre el suelo...@
+`  El cuchillo de Shiki-san fluye a través del aire y tras su atacante.
+\
+playstop
+bg #000000,rshutter,400
+bg "bg/ima_14",crossfade,400
+wave pd/se03
+`  Un ligero, armónico sonido.@
+br
+wave pd/se04
+`  Después de eso, el hombre cae al piso. Shiki-san deja escapar un suspiro de alivio y se pone las gafas de nuevo.@
+`  "[line=8]"@
+`  Él[line=3]no, el asesino, llace inmóvil en el suelo.@
+`  Pero no está muerto. Estoy segura de que tan sólo está inconsciente.@
+`  ... En realidad...@
+` Sabía que Shiki-san no tenía ninguna intención de matarle desde el principio.
+\
+bg "bg/bg_61",crossfade,400
+play "*10"
+ld c,"tachi/shiki_04",crossfade,400
+`  "¿Akira-chan?"@
+`  Suena dubitativo.@
+`  Su voz hace que mi corazón salte tanto que casi me caigo.@
+`  "Eres Akira-chan, ¿no?@
+` Akiha me lo dijo."@
+`  Shiki-san me extiende la mano.
+\
+`  "Oh[line=3]¡Sí, disculpa!"@
+`  Me agarro a su mano y me levanto de nuevo.@
+`  Aún en shock por lo que acababa de ocurrir, mis piernas están un poco débiles. No puedo mantenerme derecha, así que me agarro al brazo de Shiki-san.@
+`  ... Agh, esto es demasiado ridículo.
+\
+`  "Uh... Um, uhh[line=4]"@
+`  No puedo hablar claramente ahora, así que agito mi cabeza.@
+`  Quiero decir que estoy bien, no quiero ver al hombre en el suelo, estoy muy confusa ya que nunca he abrazado a un hombre antes... De todas formas, toda mi cabeza era puro caos.@
+`  "Ajá.@
+` ¿Vamos a otro lado?"@
+`  Debe de haber adivinado lo que quería decir, viendo cómo comienza a caminar con mi mano en la suya.
+\
+wave pd/se07
+bg #000000,rcartain,800
+bg "bg/bg_03c",rcartain,800
+`  "Um... ¿Lo podemos dejar así?"@
+`  "Sí. Senpai debería ocuparse de él."@
+`  Con eso, Shiki-san camina hacia la puerta.
+\
+bg #000000,rcartain,800
+bg "bg/bg_01c",rcartain,800
+`  Y así, terminó todo tan sencillo.@
+`  En realidad, apuesto a que la mayoría de las cosas que me van a pasar serán tan sencillas como esta.@
+br
+`  Shiki-san no intentó preguntarme nada, pero hay algo que no entiendo y me gustaría preguntarle.
+\
+`  "Um, ¿Shiki-san?@
+` ¿Me estabas buscando?"@
+`  Shiki-san asiente.@
+`  ... Ahora lo entiendo incluso menos.@
+`  "¿Por qué?@
+` Sólo te llamé una vez.@
+` Y fue una llamada unilateral que sonó más bien como una broma, ¿así que por qué?"@
+ld c,"tachi/shiki_04",crossfade,400
+`  "Jaja. Sí que sonó como una broma.@
+` Pero tu voz iba en serio.@
+` No podía simplemente ignorarte, así que quería oírte.@
+`   ... Bueno, no esperaba que eso me llevase de cabeza contra el asesino que estaba buscando desde ayer."@
+`  Suena avergonzado.
+\
+`  "[line=4]Bueno.@
+` Te acompañaré a casa.@
+` Te estás quedando en el hotel del pueblo de al lado, ¿cierto?"@
+`  "Oh[line=6]"@
+`  Cuando intento responderle que sí...@
+`  Mi estómago ruge lindamente (o eso quiero pensar).@
+`  "[line=12]¡!@
+`  ¡!@
+`  ¡!@
+`  ¡!"@
+`  ¡I-idiota, idiota, idiota, soy idiota!
+\
+` ¿¡Qué estoy haciendo, sintiéndome aliviada y olvidando que tengo hambre!?@
+`  "[line=10]"@
+`  Shiki-san parece turbado, y...@
+`  "Muy bien.@
+` Vamos a comer algo.@
+` Te invitaré a algo a modo de soborno para que no hables de esto."@
+`  Dice algo que me hace feliz.
+\
+`  "Oh, espera.@
+` Antes de eso[line=4]"@
+`  Shiki-san saca su cartera y la abre.@
+`  Me deja asombrada cuando veo lo que hay dentro por curiosidad.@
+`  ... Es increíble lo vieja que es su cartera, pero creo que es aún más increíble que sólo haya una moneda de 500 yenes ahí dentro.
+\
+`  "...... ¿Te gustan los puestos de soba?"@
+`  Murmura débilmente.@
+`  "[line=7]Me lo imaginaba.@
+` Sabía que a las chicas no les gustan los puestos de soba."@
+`  "Uh[line=3]um[line=4]"@
+`  Pienso frenéticamente qué debería decir.@
+`  No puedo decirle "tengo más dinero, yo te invito."@
+` Pero no encuentro nada decente que decirle, así que por alguna razón...@
+br
+`  "¡¡M-me encanta el soba!!"@
+br
+`  ¿He dicho eso de verdad?
+\
+`  "[line=6]Oh."@
+`  Puedo sentir mi cara ruborizándose.@
+`  Shiki-san parece sorprendido.@
+br
+`  "Oh.@
+` Bien, entonces sígueme."@
+br
+`  Parece feliz mientras empieza a caminar.@
+bg #000000,rshutter,400
+bg "bg/ima_22",rshutter,400
+`  "[line=7]"@
+`  Reprimo mis sentimientos de felicidad al seguirle.@
+`  ... Bueno, pronto es Noche Vieja.@
+` Puede que sea una buena idea comer soba en una noche como esta.
+\
+`  "[line=6]¿Eh?"@
+`  Entonces.@
+` Los familiares mareos me asaltan mientras continúo mirando la espalda de Shiki-san.@
+`  En esa visión mareante...@
+`  Veo una feliz ilusión de que estoy con Tohno-Senpai, Shiki-san y más gente que no conozco.
+\
+`  "¿Akira-chan?"@
+`  "Oh, ¡ya voy...!"@
+`  Contesto corriendo hasta él.@
+`  ... Ya veo.@
+` Han pasado muchas cosas, pero un encuentro como este es posible, ¿cierto?@
+wave pd/se22
+`  Tras alcanzar a Shiki-san, junto las palmas a modo de oración a la espalda de Shiki-san.@
+br
+`  Rezo mi último deseo del año.@
+`  Bueno, Shiki-san. Parece que te estaré causando muchos problemas, pero por favor, dame tus mejores deseos.
+\
+bg #000000,crossfade,1500
+playstop
+bg "word/pd_fin",crossfade,1500
+wait 2000

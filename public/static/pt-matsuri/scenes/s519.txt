@@ -1,0 +1,47 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@
+` E agora com vocês, o cantinho de sugestões para esse pobre coitado do Tohno-kun, que acabou em um Final Ruim bem no meio do clímax.@
+` Está na hora do: "Ensine-me, Ciel-sensei!"@
+` Teria sido melhor desistir, mas já estamos no segundo dia, né!@
+` Nesse ritmo, vamos acabar chegando ao terceiro dia, o que me deixa um pouco enjoada.@
+br
+` Então, vamos começar o primeiro período.
+\
+` Ah, céus.@
+` Foi por isso que eu te disse, Tohno-kun.@
+` Você não deve confiar na Arcueid.@
+br
+ld l,"tachi/ark_t30",lshutter,400
+`"Não.@ Não é minha culpa."@
+br
+` É culpa sua sim, não importa como olhamos para essa situação.@
+br
+`"Unyaa!"
+\
+cl l,lshutter,400
+` [line=4]Bem, então.@
+br
+` Para o Tohno-kun que acabou chegando até aqui.@
+` É difícil ter que dizer isso, mas você vai ter que recomeçar de um ponto muito anterior.@
+` Os sentimentos que a Arcueid cultivou por você, infelizmente foram mais fracos do que seus impulsos vampíricos.@
+` Volte há um ou dois dias atrás e tente fortalecer o vínculo com ela.@
+br
+` Ah sim, mais uma coisa.@
+` Tohno-kun, embora você estivesse enfeitiçado, acho que é uma péssima ideia enlouquecer com tanta facilidade assim.
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lshutter,400
+`"Nyaão é minha culpa……"@
+ld c,"tachi/ark_t31b",lshutter,400
+ld c,"tachi/ark_t31a",lshutter,400
+`"Shiki, seu idiota!@ Estúpido!@ Imbecil, insensível!"
+\
+cl c,crossfade,800
+playstop

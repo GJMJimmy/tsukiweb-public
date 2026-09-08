@@ -1,0 +1,70 @@
+play "*3"
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… É meio egoísta da minha parte, mas é melhor pedir para a Kohaku-san me preparar algo pra comer.
+\
+bg #000000,lcartain,400
+bg "bg/bg_42b",lcartain,400
+ld c,"tachi/koha_t06",lshutter,400
+`"Shiki-san.@ Você já voltou!"@
+` A Kohaku-san encosta a vassoura em um canto e faz uma mesura.@
+`"Sim, estou de volta.@ Só que preciso de um favor seu."@
+ld c,"tachi/koha_t03",crossfade,400
+`"Pois não?@ Está precisando do quê?"@
+`"Hum, estou meio sem jeito, mas…"@
+` Antes que eu sequer possa pedir a ela para me preparar algo pra comer,
+br
+` o ronco do meu estômago ecoa para todos os lados.
+\
+ld c,"tachi/koha_t09",crossfade,400
+`"[line=6]"@
+` Surpresa, a Kohaku-san apenas me observa.@
+`"[line=5]Hum."@
+` O meu rosto fica vermelho… Não percebi que o meu corpo podia ser tão grosseiro…
+`"…… Hum, bem, é isso.@ Eu não comi muito desde hoje cedo, por isso não consigo esperar até o jantar…"@
+`"[line=6]"@
+` A Kohaku-san me encara, emudecida, e então, como se lembrasse de algo, dá uma risada baixinha.
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Entendi.@ Quer que eu te prepare algo leve?@ Você quer algo em especial?"@
+`"Algo que eu queira?"@
+` …… Para ser sincero, só estou com fome e nem pensei no que gostaria de comer.
+\
+`"Acho que umas panquecas cairiam bem."@
+` Não sei o porquê, mas a imagem de algumas panquecas douradas aparece na minha mente.@
+ld c,"tachi/koha_t03",crossfade,400
+`"Panquecas……?@ Shiki-san, eu soube que você não gosta de doces, então…"@
+` Ela inclina a cabeça, surpresa.@
+`"Ah[line=3]não é que não goste, eu apenas não como muito açúcar… Eu comia vários doces japoneses nos Arima…"
+\
+`"Sério!?@ Já que era assim, deveria ter me avisado antes.@
+` Eu fiquei me questionando esse tempo todo se deveria preparar algo para você durante o chá.@
+` Mas de agora em diante vou te servir o mesmo que preparo para a Akiha-sama."@
+` A voz da Kohaku-san se alegra repentinamente.@
+` …… Então ela vai me servir o mesmo que prepara para a Akiha[line=4]quer dizer que eu vou ganhar um pratinho com aqueles bolinhos cheios de frescura agora…?
+\
+`"Mas, Shiki-san, por que panquecas?@ Se quiser, posso preparar algo melhor."@
+`"Hum…… Por nenhum motivo em especial.@ Gosto de panquecas porque são bem simples."@
+ld c,"tachi/koha_t18",crossfade,400
+`"Ahaha, Shiki-san, você falou igualzinho a Hisui-chan agora.@
+ld c,"tachi/koha_t01a",crossfade,400
+` Olha, é segredo, mas acho que a Hisui-chan também adora panquecas.@ Sempre que ela tenta cozinhar algo, na maioria das vezes ela tenta fazer panquecas."
+\
+`"Sério?@ …… Que surpresa!@ Eu imaginava que ela preferiria coisas mais complexas."@
+` Tipo um bolo todo decorado que dá até pena de cortar.@
+`"Pois é!@ Eu também achei meio estranho, então perguntei pra ela.@ Ela respondeu que foi porque eu disse que eram fáceis de fazer.@
+` E ainda disse que não consegue ficar satisfeita com as que faz…"@
+`"……………?"@
+` …… Hum, então talvez o caso não seja o de gostar ou desgostar de panquecas, ela apenas usa a receita para praticar, não?
+\
+ld c,"tachi/koha_t06",crossfade,400
+`"Ah, desculpe, Shiki-san.@ Vou preparar algumas para você, pode esperar na sala de estar."@
+cl c,lshutter,800
+` Pegando a vassoura, ela corre para a entrada da mansão.@
+`"[line=5]Bem, tanto faz."@
+` Em todo caso, vou comer algo daqui a pouco.@
+` Vou comer panquecas e tomar chá, depois vou descansar até a hora do jantar[line=4]
+\
+bg #000000,lcartain,800
+playstop
+!w2000

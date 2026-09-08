@@ -1,0 +1,343 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_19d",notrans,0
+`"[line=6]Certo."@
+` Eu já havia decidido o que fazer desde o início.@
+` Tiro a faca do meu bolso e vou na direção da porta.@
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=4]Shiki?"@
+`"Vou ver o que está acontecendo.@ Não saia deste quarto até eu voltar."@
+` Saio para o corredor, me livrando do olhar da Arcueid que parecia querer dizer alguma coisa.
+\
+bg #000000,lcartain,800
+bg "bg/bg_20a",lcartain,800
+` Não tem ninguém no corredor.@
+` …… Eu não podia ouvir de dentro do quarto, mas o corredor está barulhento.@
+` Não é este andar que está barulhento.@
+` O barulho está vindo de debaixo dos meus pés.@
+` Parece ter um tumulto no andar de baixo, ouço muitas pessoas conversando.@
+br
+` …… Que estranho.@
+` Já passam das quatro da manhã.@
+` Mesmo supondo que algumas pessoas acordaram cedo, não é normal tantas pessoas estarem acordadas a essa hora.
+\
+`"……… Não vejo nada de anormal neste andar."@
+` Eu ando pelo corredor.@
+br
+` O barulho do andar de baixo é como o som das ondas do mar.@
+br
+` Barulhento[line=2]mas ainda assim muito solitário e calmo.
+\
+`"[line=6]!"@
+` Meus dedos que estão segurando a faca estão dormentes.@
+` Um calafrio corre pela minha nuca.@
+` Sinto algo perto da minha têmpora.@
+` Uma dor surge por trás dos meus olhos.@
+br
+` Suportando-a, continuo andando pelo corredor.
+\
+`"[line=6]"@
+` Está… doendo.@
+` Meus olhos… doem.@
+` Minha cabeça fica pesada e uma sensação de tontura me domina, como se estivesse prestes a desmaiar.@
+br
+` Eu sei o que é isso.@ Essa é a sensação que tenho bem antes de desmaiar por causa da anemia.
+\
+`"Ah[line=4]gu………!"@
+br
+` Que dor!@
+` Que dor!@ Incapaz de aguentar por mais tempo, eu tiro os óculos.
+\
+bg "bg/bg_20b",crossfade,800
+` …… Há dois elevadores.@
+` Um está parado no primeiro andar, o outro no quinto.@
+`"………"@
+` Uma sensação desagradável paira no ar.@
+` Uma sensação sufocante, tensa.@
+` Aperto o botão para chamar o elevador.@
+` Por enquanto, só quero saber o que está acontecendo lá embaixo.
+\
+` O elevador sobe.@
+` …… Sexto andar.@
+!w500
+` …………… Sétimo andar.@
+!w1000
+` ………………………… Oitavo andar.@
+!w1500
+` ……………………………………… Nono andar.
+\
+`"[line=2]Que droga, qual o problema deste elevador?"@
+` Ele está muito lento.@
+` Alguma coisa[line=2]uma premonição, parecida com uma sombra disforme de alguma coisa fatalmente irrevogável, se agarra a mim[line=2]
+br
+` ………………………… Décimo andar.@
+br
+` Apenas mais um andar até que o elevador chegue aqui.
+\
+`"[line=6]Anda logo."@
+` Minha respiração para.@
+` Percebo que o barulho que ouvia lá de baixo já desapareceu há um tempo.@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_20b",crossfade,400
+` Com um som eletrônico ridículo 'ding', o elevador chega.@
+` A porta abre.@
+` Não tem ninguém dentro.@
+` O interior da caixa de aço estreita está surpreendentemente limpo e arrumado.
+\
+bg "bg/ima_10b",lcartain,800
+`"[line=6]"@
+` Eu entro e pressiono o botão para o décimo andar.@
+` Com um barulho forte, o elevador desce.@
+` É apenas um andar para baixo, mas parece muito longe.@
+` O visor do andar em que estou muda para mostrar o décimo andar.@
+`"Finalmente[line=2]"@
+br
+` De repente[line=3]
+bg #000000,notrans,0
+playstop
+` O mundo é engolido pela escuridão.
+\
+waveloop se_02
+`"………!?"@
+br
+` Escuridão.@ Escuridão total.@
+` Escuro como breu, completamente sem luz.@
+br
+` No meio da escuridão,
+` só consigo ver o brilho tênue das 'linhas' de morte.
+\
+`"Por quê[line=2]?"@
+` Minha respiração congela na garganta.@
+` De todos os lados, ouço[line=2]um tipo de som farfalhante, como o de insetos rastejando.
+\
+br
+br
+` *farfalhando*@
+br
+br
+` *farfalhando* *farfalhando*@
+br
+br
+` *farfalhando* *farfalhando* *farfalhando* *farfalhando* ……!
+\
+`"[line=5]!"@
+` Estou prestes a gritar, mas me seguro.@
+`"…… Primeiro tenho que analisar a situação…"@
+` Assim como a Sensei me ensinou há muito tempo.@
+`"…… E em seguida, pensar cuidadosamente…"@
+` Tomando um fôlego enorme, consigo acalmar meus pensamentos.
+\
+`"…… Entendo…… Um blecaute."@
+` …… Mas um hotel desse porte deveria ter um gerador de reserva para ocasiões assim.@
+` Deve haver algo de errado com os cabos, se nem o gerador está funcionando.
+\
+br
+br
+br
+br
+br
+br
+br
+` *farfalhando* *farfalhando* *farfalhaaaaaaando*
+\
+`"……!"@
+` Aperto o cabo da faca e minha tensão aumenta.@
+` O som dos insetos rastejando está vindo de perto do elevador.@
+` É como…
+` É como se tivessem centenas de baratas gigantes se agarrando à parte externa do elevador.
+\
+`"[line=2]Não há sentido em ficar aqui."@
+` O visor apagou quando o décimo andar apareceu.@
+` Quer dizer que se eu abrir a porta, vou estar no décimo andar.@
+`"[line=4]Acho que vou cortá-la."@
+` Sussurro para mim mesmo.@
+` Enfiando a faca na única "linha" que consigo enxergar, corto ao meio a porta do elevador.
+\
+monocro #0f00f0
+bg "bg/bg_20b",lshutter,800
+`"…… !?"@
+` No instante em que a porta abre[line=2]sou envolvido por um fedor sufocante.@
+` O décimo andar está preenchido com ele.@
+` É tão denso que só respirá-lo é suficiente para entupir minhas vias respiratórias.
+\
+`"[line=5]"@
+` Se eu der um passo para fora, estarei no corredor do décimo andar.@
+` Ao longe, vejo o brilho fraco da lâmpada que indica a saída de incêndio.@
+` Tirando isso, o mundo está completamente pintado de preto.@
+` Dou um passo para fora.@
+`"…… Tem alguém…"@
+` Estava prestes a dizer 'aí', mas paro.@
+` Não sei bem o porquê, mas sinto que seria uma péssima ideia levantar a voz.
+\
+` Dou mais um passo.@
+` Lentamente entro no corredor.@
+` Ele está muito fedorento.@
+` Um cheiro de carne crua.@ O cheiro de animais.@
+` Um som de trituração está vindo de algum lugar.
+\
+`"………"@
+` Tenho sentido uma dor aguda no pescoço há algum tempo já.@
+` A escuridão é assustadora.@
+` Esse silêncio é assustador.@
+` …… Descobrir o que aconteceu aqui é mais assustador do que qualquer outra coisa.@
+` A dor na minha nuca correndo para minhas costas segura meu nervosismo.@
+` Essa dor latejante,
+` é o preço que pago pelas minhas tentativas desesperadas de reprimir o desejo de simplesmente gritar e sair correndo.
+\
+br
+br
+` *farfalhando* *farfalhando* *farfalhando*@
+br
+br
+` *crunch* *cranch* *crunch*@
+br
+br
+` *arranha* *arranha* *arranha*
+\
+`"Ha…!"@
+` Minha respiração fica descontrolada.@
+` Meu corpo está encharcado de suor.@
+` …… Mesmo com a faca em punho, sou incapaz de dar outro passo.@
+` Tenho a sensação de que se me mover só um pouquinho, verei algo inimaginavelmente bizarro.
+\
+` *arf*  *arf*@
+` Realmente estarei em apuros se não voltar lá para cima.@
+` …… Permanecer neste andar é um pesadelo.@
+br
+` Parece que cada segundo que passa está ceifando um ano da minha vida.@ É nessa velocidade absurda que sinto a 'morte' se aproximando de mim.
+\
+` Minha respiração fica mais rápida e mais pesada.@
+` Felizmente, eu consigo ver onde está a saída de incêndio, graças à lâmpada dela.@
+` Está no final do corredor.@
+` Se eu conseguir chegar naquela luz verde de emergência, posso voltar para o andar de cima.@
+br
+` Segurando a faca com força, vou andando pelo corredor escuro.
+\
+br
+br
+br
+br
+br
+br
+` [line=5]*splash*
+\
+` Ouço alguma coisa debaixo dos meus pés.
+\
+`"[line=5]"@
+` Acho que o corredor está inundado com água.@
+` Além disso, meus pés ficam batendo em várias coisas enquanto ando.@
+`"[line=5]"@
+` Mesmo assim permaneço em silêncio.@
+` Suportando o fedor terrível me sufocando, continuo indo em direção à luz de emergência.@
+` Faltam apenas mais alguns metros para chegar.@
+` Então, vejo algo se contorcendo sob a luz de emergência.
+\
+`"……… Hã?"@
+` Quebro meu silêncio.@
+br
+` O barulho de algo sendo esmagado insensivelmente.@
+` O som seco de trituração.@
+` A respiração selvagem e ofegante de animais.
+\
+`"O qu[line=2]"@
+` Sob a luz verde da saída de incêndio…
+` Vários tipos de animais estão fervilhando em volta de uma coisa com forma humana.@
+br
+` Não sei dizer quais tipos de animais estão se alimentando dela.@
+` O corredor está escuro e a luz de emergência está muito fraca.@
+` É por isso que só consigo enxergar esta imagem.
+\
+` [line=3]Inúmeras baratas estão devorando o cadáver humano e emitindo um zumbido que parece uma gargalhada.@
+` Essa é a única maneira de dar sentido a esse pesadelo.
+\
+` *farfalhando*@
+` Tem um barulho vindo na direção do elevador.
+\
+`"Ha[line=4]"@
+` Eu me viro.@
+` Será que é porque meus olhos se adaptaram à escuridão?@
+` Ou talvez seja graças à luz da saída de incêndio?@ Agora vejo exatamente em que condição está o corredor que acabei de atravessar.
+\
+monocro #ff0000
+bg "bg/bg_20b",crossfade,400
+` O corredor é um mar de sangue.@
+` Espalhados por este mar, estão braços e pernas humanas.@
+` O corredor está completamente inundado de sangue.@ Vejo os objetos finos e duros que senti encostando nas minhas pernas.@
+` Deve ter sido nisso que eu estava pisando.@
+`"[line=6]"@
+` Minha mente fica vazia.@
+` Apenas o chão do corredor está vermelho.@
+` Várias coisas negras estão agarradas no teto e nas paredes.
+\
+` Não é porque não há luzes que elas parecem negras.@
+` Elas sempre foram negras, desde o princípio.@
+` E não parecem ter qualquer forma sólida, estão coladas no teto e nas paredes como uma espécie de líquido.@
+` Mas sei que são animais por causa dos olhos.@
+` Os olhos brilhantes de muitas coisas com forma de animais estão focados em mim, o único sobrevivente humano[line=5]
+\
+`"AAAA……"@
+` Consigo segurar meu grito.@
+` Os animais estão me olhando atentamente.@
+` Eles prendem a respiração, esperando para me atacar no momento em que eu gritar.@
+`"Ha[line=3]hhh."@
+` Consigo controlar minha respiração irregular.@
+` Sei bem que, no momento em que eu gritar, eles vão me atacar todos de uma vez.@
+` Nenhuma das criaturas na parede possui os mesmos olhos.@
+` É quase ridículo ver até olhos parecidos com os de tubarões agarrados à parede.
+\
+`"…………"@
+` Ordeno aos meus pés que se movam, mas eles não obedecem.@
+br
+` [line=4]Não consigo me mexer.@
+br
+` Meus pés não vão se mexer depois de terem visto um mundo assim.
+\
+br
+br
+br
+br
+br
+br
+br
+` *crunch* …… *cranch* …… *cr* …… *unch* ……
+\
+` O barulho sob a luz de emergência diminui.@
+` Provavelmente aqueles animais estão terminando de devorar o cadáver.@
+`"………"@
+` Seguro a respiração.@
+` O farfalhar se aproxima.@
+` Parece que[line=2]as criaturas encontraram sua próxima presa, que se chama Tohno Shiki.
+\
+`"Ah………"@
+` Minhas pernas não se mexem.@
+` Este mundo é muito diferente, minha mente não funciona direito.@
+br
+` [line=3]Eu cometi um erro.@
+` Não deveria ter vindo para este andar[line=4]
+\
+monocro off
+bg #000000,notrans,0
+!w2000
+br
+` [line=3]E então.@
+br
+` Ouço um som muito familiar.@
+` O som de passos humanos.@
+` Um som completamente normal para o senso comum do mundo em que eu vivia até um momento atrás.
+\
+`"Aaaaaaah[line=4]!"@
+` Minha mente entorpecida infunde forças em minhas pernas paralisadas.@
+` Eu corro.@
+` Chutando o sangue do corredor, corro na direção da luz de emergência.@
+` Tenho que correr.@
+` Tenho que sair deste lugar o mais rápido possível…!
+\
+` Mas isso foi um erro.@
+` Reagindo ao meu impulso, as coisas negras agarradas às paredes e ao teto disparam atrás de mim como uma onda.@
+`"[line=4]!"@
+` Corro em direção às escadas com tudo que tenho.@
+` Mas a onda negra é muito mais rápida do que eu, e em um instante, o meu corpo[line=2]
+\
+wavestop

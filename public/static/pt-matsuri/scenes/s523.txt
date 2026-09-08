@@ -1,0 +1,30 @@
+monocro off
+wavestop
+bg "bg/bg_06c",notrans,0
+play "*7"
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` …… O terceiro período é uma história triste.@
+` Foi esplêndido tentar resolver tudo sozinho, mas o tiro saiu pela culatra desta vez.@
+` Consulte a sua Senpai confiável e supere este problema.
+\
+` [line=4]E!@
+` Para os Tohno-kuns que chegaram até aqui por algum outro motivo.@
+` Embora estivessem tão perto do clímax, infelizmente o vínculo de vocês com a Ciel-san não era profundo o suficiente.@
+` Tenho que pedir para recomeçarem.@
+` Voltem a um ponto muito anterior e formem um laço de amizade mais forte com a Ciel-san.@
+` Existe uma montanha de lugares para vocês fazerem isso, mas o mais importante é o que acontece na sexta noite.
+\
+` Tohno-kun, quando chegou a hora de escolher entre a Ciel-san ou a Arcueid, você escolheu aquela mulherzinha retard**a?@
+br
+` Este foi o resultado.@
+` Se aprendeu a lição, volte até a noite do dia seis e pense novamente em quem você deve escolher.@
+br
+br
+br
+br
+` ……………… Entendido!?
+\
+bg #000000,crossfade,800
+playstop

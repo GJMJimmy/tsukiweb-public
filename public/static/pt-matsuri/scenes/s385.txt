@@ -1,0 +1,443 @@
+monocro off
+play "*7"
+wavestop
+bg "bg/bg_54a",notrans,0
+br
+` [line=3]Não acredito que a morte seja uma maneira de salvar alguém.@
+br
+` É uma resposta que carreguei comigo desde quando a minha vida foi salva há oito anos.@
+` Não importa o quanto seja difícil ou doloroso, eu fico feliz por simplesmente estar vivo.
+\
+` Portanto, vivendo de acordo com as minhas crenças, eu não posso me suicidar.@
+` A Akiha também não morreu.@
+` Ela está viva e pode ser que volte ao normal algum dia, é só eu cuidar bem dela.@
+` Eu sei que desistir da própria vida com essa facilidade pode te dar uma ilusão de que a morte é uma coisa honrada a se fazer.
+\
+`"[line=6]Mas mesmo assim."@
+br
+` Eu quero que a Akiha seja feliz.@
+` Quero que ela seja mil vezes mais feliz do que eu.@
+` Além disso…
+` Eu fui morto há oito anos e ela me deu esse sonho todo esse tempo.@
+br
+` Por isso eu só estaria devolvendo a ela o que já lhe pertencia.@
+` Não há motivos para ficar triste e não há nada a perder.@
+` É um fim onde tudo volta para o seu devido lugar.
+\
+bg "bg/bg_54a",crossfade,800
+` As folhas de outono caem.@
+` A Akiha está deitada no chão vermelho.@
+` O seu cabelo espalhado pelo chão está vermelho.@ Ele ondula vividamente em meio às folhas vermelhas.@
+` O seu rosto está em paz, como se estivesse tendo um sonho alegre.
+\
+`"…… Poxa, você vai se resfriar se dormir em lugar desses."@
+` Eu murmuro da forma mais natural possível e olho para o meu corpo.@
+` As "linhas" estão por todos os lugares.@
+` Procuro uma que pode me matar com mais facilidade.
+\
+`"…… Preciso devolver o que peguei emprestado há tanto tempo.@ Eu fiquei com isso tempo demais, mas ainda dá tempo de te devolver.@ Né, Akiha?"@
+` …… Se o meu corpo está sendo mantido vivo por ela…
+` Quando eliminá-lo, a vida deve voltar para a sua dona original.
+\
+` Posiciono a faca no meu corpo.@
+` O meu coração bate audivelmente.@
+` Ainda estou assustado com a situação.@
+` E por causa disso, olho para o rosto pacífico da Akiha enquanto dorme, assim posso me acalmar e me despedir.
+\
+`"Droga[line=3]eu fico quebrando as promessas que faço com ela uma atrás da outra."@
+` A sensação familiar de morte.@
+` A faca começa a cortar a "linha" que vai me matar da forma mais fácil.@
+` E nesse momento…
+` Como se a engrenagem que tivesse todo o controle do meu corpo começasse a dar defeito, todo o meu corpo para de funcionar.@
+br
+bg #000000,notrans,0
+!w500
+bg "bg/bg_54a",notrans,0
+` Caio em cima da Akiha.
+\
+` Observo as folhas de outono e começo a perder a consciência.@
+br
+` Elas caem como se fossem neve.@
+` Talvez seja porque estou observando tanta beleza.@
+br
+` A minha mente fica vazia, é como se eu estivesse adormecendo.
+\
+bg #ffffff,crossfade,800
+br
+br
+` A lua distante.@
+` O sol branco de verão.@
+br
+` E o canto.@
+!w1000
+` O canto das cigarras.
+\
+bg #000000,crossfade,1500
+playstop
+!w4000
+phase "bg/cmo_05b",l,aki,13a,epi
+bg #ffffff,crossfade,800
+play "*2"
+` [line=5]A luz do sol quente.@
+br
+` Sinto a luz do sol atravessando a janela e abro os olhos lentamente.
+\
+bg "bg/bg_40a",crossfade,400
+`"………… Humm."@
+` Começo a acordar.@
+` O céu está um azul bem claro e isso me diz que hoje vai ser um belo dia.@
+`"Hwaa[line=6]ah."@
+` …… O meu corpo está meio pesado, talvez seja por eu ter dormido em uma cama diferente.@
+` Eu dou uma alongada no corpo e me levanto.
+\
+wave se_04
+` Ouço alguém batendo na porta.@
+ld c,"tachi/his_t16",lshutter,800
+`"Com licença."@
+` A Hisui entra e faz uma mesura.@
+` Ela fecha a porta com muita destreza.@
+cl a,crossfade,400
+`"Ah[line=10]"@
+` …… É uma manhã tranquila.@
+` Observando-a agir como se fosse natural ela vir neste quarto[line=3]fico com a sensação de que este é o meu quarto de verdade.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Bom dia, Akiha-sama.@ Passou bem a noite?"@
+`"Sim.@ Desculpe-me por ser egoísta e ter dito que queria dormir no quarto do Nii-san."@
+ld c,"tachi/his_t04",crossfade,400
+`"…… Não, tudo bem.@ Acho que… O Shiki-sama também está feliz por você estar usando este quarto."@
+` Ela fala hesitante.@
+`"Entendo.@ Você não desiste fácil, né, Hisui?@ O Nii-san deve estar muito feliz por você pensar nele tanto assim."
+\
+ld c,"tachi/his_t17",crossfade,400
+`"A[line=6]Akiha-sama……!!"@
+`"É a verdade, não é mesmo?@ Eu vou me trocar e descer para a sala de estar.@ Pode avisar a Kohaku?"@
+`"……………… Sim.@ Com licença."@
+cl a,lshutter,400
+` A Hisui sai em silêncio.@
+` O quarto fica meio solitário.@
+` …… O Nii-san não trouxe nenhum dos seus pertences para cá; só tem uma cama e uma mesa.
+\
+`"………… Francamente, como pôde dormir em um quarto tão vazio, Nii-san?"@
+` Estou surpresa.@
+` Eu teria dado a ele tudo que quisesse, mas ele não me pediu nada.@
+` …… Acho que estava sendo meio reservado, mas, basicamente, ele era uma pessoa que não tinha muito interesse em objetos.@
+` Ele já era assim quando éramos crianças.@
+` Ele disse com um sorriso que não queria nada e que estava feliz contanto que ficássemos junto dele.
+\
+` Mas isso me deixou preocupada.@
+` Ele não deixou nada e não era restrito por nada.@
+` Quando éramos crianças, ele me disse que ser livre era ser solitário.@
+br
+`"[line=10]Hum?"@
+br
+` Olho pela janela.@
+` A vista que o Nii-san sempre observava.@
+` O sol banha a floresta sob o céu azul.
+\
+bg #000000,tshutter,800
+playstop
+bg "bg/ima_03",bshutter,800
+play "*9"
+br
+` [line=4]Depois disso, lentamente desperto.@
+br
+` No jardim cheio de folhas mortas.@
+` Lentamente movi meu corpo que estava caído.@
+` …… Eu ainda estava viva.@ O meu cabelo estava preto novamente e eu não sentia a fúria em meu sangue.@
+` Eu estava me sentindo bem, e aquele peso que o meu corpo sempre carregou estava muito leve, eu até poderia dizer que ele tinha desaparecido completamente.
+\
+` Sim, desde que eu era criança.@
+` Aquele peso que adquiri quando desejei salvar a vida do meu irmão havia desaparecido, era como se nunca tivesse existido.@
+` …… Aquele peso era muito doloroso, mas também era algo que me dava alívio.@
+` Sempre tive apenas a metade de toda as minhas energias disponível e sempre senti aquele peso, mas eu era feliz.@
+` Porque aquele peso era o Nii-san e eu poderia senti-lo enquanto estivesse sentindo o peso.
+\
+` Mas o peso havia ficado leve demais.@
+` Dei uma olhada pelo jardim.@
+` Não pude ver o Tohno Shiki em lugar algum naquela noite de folhas que caíam sem parar.@
+` Foi então que entendi.@
+` O porquê de eu estar viva.@
+` O porquê de Tohno Akiha ter voltado a ser a Tohno Akiha original.
+\
+bg #000000,tshutter,800
+playstop
+bg "bg/bg_40a",bshutter,800
+`"……………………"@
+` O dia está muito bonito e não posso ficar aqui dentro para sempre.@
+` Preciso trocar de roupas e tomar o café da manhã para chegar a tempo na escola.
+\
+bg #000000,crossfade,800
+bg "bg/bg_34a",lcartain,800
+play "*2"
+` Vou para a sala de jantar e termino o café da manhã.@
+` É pouco mais de seis horas da manhã.@ Vou poder relaxar por mais alguns minutos.
+\
+ld c,"tachi/his_t18",lshutter,400
+`"Akiha-sama."@
+`"Humm?@ O que foi, Hisui?@ Gostaria de me fazer companhia?"@
+`"………………"@
+` Ela me observa com uma expressão de raiva…… Não, ela está me encarando sem despistar.@
+` Não é normal a Hisui agir assim.@
+`"…… Parece que… Não veio se juntar a mim para um chá matutino.@ Está querendo me dizer alguma coisa?"@
+`"…… Sim.@ Por favor, perdoe a minha falta de educação, mas por que você mudou de escola de novo, Akiha-sama?"
+\
+` [line=5]Ah, entendi.@ Então era isso.@
+` O fato de eu ter me transferido de volta para a minha antiga escola deve significar alguma coisa para a Hisui já que ela não acredita que o Nii-san esteja morto.
+\
+`"Por que está me perguntando isso?@ Eu me transferi para aquela escola só porque o Nii-san estava lá.@ Agora que a minha motivação não existe mais, é normal eu voltar para a minha antiga escola."@
+ld c,"tachi/his_t17",crossfade,400
+`"…………………………"@
+` Ela não parece convencida.@
+`"O que foi?@ Está dizendo que eu deveria ter continuado naquela escola mesmo sem o Nii-san estar lá?"@
+`"………… Sim.@ O Shiki-sama não morreu.@ Agora que fez isso, ele vai ficar muito triste."
+\
+`"É impossível.@ Como alguém que não está mais aqui vai sentir tristeza, Hisui?"@
+cl c,crossfade,400
+` Eu me levanto do sofá.@
+` …… Ainda está cedo, mas acho melhor ir para a escola.
+\
+`"Hisui, pode dizer para a Kohaku se preparar?@
+` Ah, provavelmente vou viver no dormitório de agora em diante, portanto vou deixar vocês duas responsáveis pela mansão.@
+` Vou fazer isso oficialmente nesta semana, vou passar todos os detalhes quando eu voltar da escola."@
+`"[line=11]Akiha-sama!"@
+`"Sim?@ Você tem mais alguma coisa para dizer, Hisui?"@
+ld c,"tachi/his_t21b",crossfade,400
+`"…… Você vai se esquecer do Shiki-sama?"@
+`"Não, mas é uma perda de tempo fica pensando em alguém que já não está mais aqui."
+\
+bg #000000,lshutter,800
+` Eu saio.@
+` Vou para o saguão e sinto os olhos da Hisui pelas minhas costas.
+\
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/koha_t03b",lshutter,800
+`"Por favor, vá com cuidado, Akiha-sama."@
+` A Kohaku me acompanha até o portão e faz uma mesura.@
+`"Estou indo.@ Conversamos de tarde quando eu chegar."@
+ld c,"tachi/koha_t12",crossfade,400
+`"Certo, mas é uma pena porque não vou mais poder me despedir de você dessa forma."@
+`"…… Francamente.@ Até você está falando desse jeito.@
+` Tudo vai voltar a ser igual a antes do Nii-san ter vindo morar aqui.@ Naquela época eu só vinha para casa nos finais de semana."@
+`"É verdade, mas agora que o Makihisa-sama faleceu, não há mais motivos para você vir.@
+` Você só virá para casa nas férias, né?"
+\
+`"[line=7]Sim, acredito que sim."@
+` Concordo e fico com a sensação de que não consigo esconder nada da Kohaku.@
+` Eu só voltava para a mansão por causa do meu pai.@
+` Agora que ele se foi e eu não tenho responsabilidades como a sucessora até me graduar, não existe mais nenhum motivo para eu voltar para cá.@
+` Quando eu me graduar, vou viver o resto da minha vida nesta mansão.@
+` Seria estupidez não aproveitar o resto de tempo livre que vou ter em toda a minha vida.
+\
+`"Mas saiba que não vou contratar mais ninguém.@ Por favor, continue fazendo o ótimo trabalho de sempre, Kohaku."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Claro e, por favor, volte para casa pelo menos uma vez por mês, Akiha-sama."@
+`"[line=4]Tudo bem, vou tentar."@
+` Está na hora.@
+` O motorista bate na porta para me avisar que já está na hora de ir.
+\
+`"…… Akiha-sama?@ Está tudo bem mesmo?"@
+`"Do que está falando?@ Mas será possível que você vai me falar a mesma coisa que a Hisui, Kohaku?"@
+`"[line=3]Não[line=4]tudo bem então.@ Cuide-se, Akiha-sama."@
+cl c,crossfade,400
+` Ela faz uma mesura.@
+` O carro começa a descer a colina, deixando a Kohaku para trás, em frente ao portão.
+\
+playstop
+bg #ffffff,crossfade,800
+bg "bg/ima_03",crossfade,800
+play "*7"
+` [line=4]Eu observo o cenário que passa.@
+br
+` Você vai se esquecer de tudo, Akiha-sama?@
+br
+` Eu não respondi nada quando a Hisui me fez essa pergunta.@
+` Porque é a escolha de cada um.@
+` Para mim não importa se ela acredita ou não na morte do Nii-san.@
+` A Hisui deseja que ele esteja vivo… É como desejar ganhar sozinha o maior prêmio da loteria.@
+` …… Percebendo que os meus pensamentos são sem sentido, eu rio de mim mesma.@
+` Porque o desejo dela também é o meu.
+\
+br
+` [line=3]Você vai se esquecer do Shiki-sama?@
+br
+` Será que eu devia ter respondido que isso nunca vai acontecer?@
+` Sei muito bem que é impossível o Nii-san estar vivo.@
+` Porque a única maneira que existia para eu ter voltado ao normal era com o Nii-san me devolvendo a sua vida.@
+` Sei desse fato mais do que qualquer outra pessoa[line=4]mas mesmo assim, ainda tenho fé nele, assim como a Hisui.
+\
+`"…… Porque ainda está lá."@
+` Olho para o céu.@
+` …… As batidas de coração que estavam lá desde quando eu dei ao Nii-san metade da minha vida.@
+` O peso que me fazia sentir que eu possuía dois corações dentro do peito.@
+` As batidas ainda estão lá.@
+` …… Estão muito fraquinhas, mas continuam lá.@
+` Agora se parece mais como uma pedra, mas estou certa de que continua lá.
+\
+` Então, mesmo questionando a situação, eu acredito muito mais do que a Kohaku ou a Hisui ou qualquer outra pessoa no mundo que o Nii-san ainda está vivo.@
+br
+` Ele vai voltar para mim um dia.@
+` Portanto devo voltar para a minha vida normal, já que não tenho mais problemas para me preocupar[line=5]
+\
+playstop
+bg #000000,crossfade,800
+!w4000
+bg "bg/bg_48b",lcartain,800
+` [line=5]Eu volto para a mansão.@
+br
+` Acredito que só voltarei para casa mais algumas vezes.@
+`"…… Eu cheguei mais cedo do que pensava."@
+` Penso alto e me permito um pouco de sentimentalismo.
+\
+bg "bg/bg_42b",lcartain,800
+bg "bg/bg_54b",lcartain,800
+play "*8"
+` Estou na floresta.@
+` Não pisei aqui desde aquela noite.@
+br
+` …… Há lembranças demais aqui.@
+` O jardim onde o Nii-san e eu brincávamos quando éramos crianças.@
+` A noite em que saímos escondidos da mansão e fomos observar as estrelas.@
+` A copa das árvores quando conversei com o Nii-san depois que ele tinha voltado para casa.@
+br
+` [line=3]E a floresta onde acordei depois daquele incidente.
+\
+`"…… Ele é um idiota mesmo.@ Eu falei tantas vezes para me matar e mesmo assim ele[line=4]"@
+br
+` O Nii-san escolheu se sacrificar.@
+` Eu sabia que ele escolheria essa opção.@
+` Foi por isso que fiz ele me prometer, mas ele não ouviu uma palavra do que eu disse.
+\
+`"Ele sempre foi assim, desde quando era criança.@ O Nii-san só fazia o que acreditava ser a coisa certa.@ …… Ele sempre se sacrificou pelos outros."@
+br
+` [line=5]Sim.@
+` Sempre que eu ou a Hisui levávamos bronca do meu pai, ele assumia a culpa por tudo.@
+` Quando eu estava prestes a ser morta pelo SHIKI, ele me salvou.@
+playstop
+br
+` E quando não pude mais voltar ao normal.@
+` Eu nem pedi a ele, mas[line=4]
+\
+bg "event/aki_f01",crossfade,400
+`"………………!!"@
+` Eu seguro as lágrimas que estavam quase saindo.@
+` Eu não estou triste.@
+` Pelo contrário, estou brava.@
+` Estou muito brava.@
+` Ele só pensa em si mesmo e não leva em conta como eu me sinto.
+\
+`"…… Eu não vou perdoá-lo dessa vez."@
+` Mas quando a pessoa para quem eu deveria estar dizendo isso não está presente…
+` Em qual direção devo liberar as minhas emoções?@
+` O Nii-san não está aqui.@
+` Não tenho a sensação de que ele vai voltar.@
+` O calor do meu coração se foi e só permanece o peso do que parece estar morto[line=3]
+br
+`"[line=5]Essa é a única certeza em mim."@
+br
+` Eu fico receosa quando penso nisso.@
+` Sinto vontade de desistir, imaginando que talvez seja inútil independente do quanto eu tente.
+\
+` [line=3]Acredito que o Nii-san esteja vivo em algum lugar.@
+br
+` O peso dentro do meu peito está muito fraco agora, mas ainda está lá.@
+` Por isso quero acreditar que ele esteja vivo.@
+` Eu quero acreditar, mas[line=3]
+\
+`"[line=3]Mas, Nii-san, se ficar quieto assim, sinto que posso acabar me esquecendo algum dia e eu[line=3]"@
+br
+` …… Eu estou esperando, Nii-san.@
+` Mas é difícil manter a minha fé nele.@
+` O peso continua no meu peito.@
+` Pode ser a prova de que o Nii-san está vivo, mas tenho medo que possa ser a prova de que ele está morto.
+\
+`"…… Francamente, não posso deixar ninguém me ver nesse estado."@
+` Suspiro profundamente e resolvo ir para a mansão.@
+br
+` [line=3]E então…
+br
+` Eu chuto alguma coisa.
+\
+`"…………… Hã?"@
+` Não pude ver sob as folhas, mas tem alguma coisa aqui.@
+`"………………… Ei."@
+` É uma lâmina de metal que está brilhando no pôr do sol.@
+` …… Será que é uma foice pequena?@
+` A Kohaku fica deixando essas ferramentas por aí, isso é muito perigoso[line=3]
+`"[line=11]"@
+` Espera, não é uma foice.@
+` Quando percebo[line=4]esqueço até de respirar quando pego o objeto.
+\
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_54b",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=10]Tu, dum.
+\
+br
+br
+br
+br
+br
+br
+` Sim, apenas uma vez.@
+` Quando eu peguei a faca, o que estava morto dentro de mim retornou à vida.
+\
+` …… Não sei que tipo de coxexão foi.@
+` Havia uma conexão especial entre ele e essa faca?@
+` Mas[line=4]por um momento.@
+` Eu pude sentir o coração dele batendo dentro de mim como antes.@ Não, foi mais forte do que nunca.
+\
+bg #ffffff,crossfade,800
+play "*7"
+bg "event/aki_f02",crossfade,800
+`"[line=12]Ah."@
+` Algo quente escorre pelas minhas bochechas.@
+` Mesmo depois de notar que são as minhas lágrimas, eu não as enxugo.@
+br
+` [line=9]Ele está vivo.@
+br
+` Só com esse fato[line=4]eu não consigo pensar.@
+` Não sei onde ele está.@
+` Ele não me diz se está passando bem.@
+` Mas eu sei.@
+` O Nii-san está vivo.@ Foi apenas uma vez, mas tenho certeza de que senti o calor do Nii-san e pude abraçá-lo.
+\
+` Tomo um grande fôlego e engulo as minhas palavras.@
+` …… Eu posso acreditar.@
+` Aquela batida do seu coração foi o suficiente para mim.@
+` Independente do que aconteça no futuro, sinto que posso acreditar no Nii-san e aguardar o seu retorno.@
+br
+` [line=4]Isso me deixa feliz de verdade.@
+br
+`"…… Pode deixar, vou guardá-la para você, Nii-san."@
+` Guardo a faca com a inscrição que diz "Nanatsu Yoru" e dou as costas para a floresta das lembranças.
+\
+` A floresta está tingida de vermelho.@
+` Digo adeus à floresta que carrega tantas lembranças.@
+` Porque eu posso criar novas lembranças e há coisas que preciso fazer.@
+` Eu não vou mais ceder ao sentimentalismo.
+\
+br
+br
+br
+br
+br
+` [line=7]Muito bem.@
+` Agora eu volto para a vida normal que estou tendo como eu mesma.@
+` E não importa o tempo que leve…
+` Eu vou acreditar que ele vai voltar algum dia e continuarei esperando por ele até que esse dia chegue[line=7]
+\
+bg #ffffff,crossfade,1500
+playstop
+!w3000
+cl a,notrans,0
+bg "word/fin",crossfade,1500
+wait 3000
+gosub *ending

@@ -1,0 +1,23 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Ah, é mesmo.@ Qual a situação atual da mansão, Akiha?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Como assim?@ Se estiver falando sobre a posse, eu sou a herdeira."@
+`"Não, não é isso.@ As únicas pessoas morando aqui são você, a Kohaku-san, a Hisui e eu, né?@
+` Eu queria saber para que os quartos e salas estão sendo usados, essas coisas."
+\
+ld c,"tachi/aki_t04a",crossfade,400
+`"Para nada.@ Como regra geral, todos os quartos, exceto os que estamos usando, estão trancados.@
+` O seu quarto fica no final do segundo andar da ala oeste e o meu fica na ala leste.@
+` O quarto da Hisui fica bem na frente das escadas da ala oeste, no segundo andar.@ E o quarto da Kohaku fica um pouco antes da ala oeste, no primeiro andar.@
+` O quarto do nosso pai fica perto do quarto da Kohaku.@ Por enquanto ele também está aberto."@
+` A propósito, a sala de estar é a primeira à direita saindo do saguão.@ Nas palavras da Akiha seria algo do tipo: "à direita depois de passar pelo saguão, no primeiro andar da ala leste".
+\
+`"A sala de jogos e a sala de visitas próximas à sala de estar estão fechadas, mas posso abri-las se você decidir trazer seus amigos aqui.@
+` A sala de arquivos… bem, há alguns rumores ruins em relação a eles, por isso estão fora dos limites."@
+cl c,crossfade,400
+`"Hummm.@ Certo, entendi."@
+` Eu tenho uma sensação estranha sobre esses "arquivos fora dos limites", mas por enquanto, eles não têm absolutamente nada a ver comigo.
+\

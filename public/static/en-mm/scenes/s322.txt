@@ -1,0 +1,248 @@
+bg #000000,notrans,0
+wavestop
+play "*3"
+!w2000
+bg "bg/bg_34c",rshutter,800
+` [line=5]And…
+br
+` In less than an hour, Hisui falls asleep and Kohaku-san carries her to her room with a smile.
+\
+`"…………"@
+` Not being used to alcohol, my mind is a little fuzzy.@
+` Akiha sits nearby and is still drinking eagerly.@ It doesn't bode well for the rest of the evening.@
+`"…… Akiha, you really have some tolerance, don't you."@
+ld c,"tachi/aki_t26",crossfade,400
+`"Oh?@ I'm not drinking it straight up so I think it is about normal."@
+` …… Um, that's not the point…
+` I'm saying she's pretty used to drinking for being a minor.
+\
+ld c,"tachi/aki_t13b",crossfade,400
+`"Geez, making that face again.@ Please get at least a little drunk, Nii-san.@
+` Kohaku prepared all this to cheer you up, so isn't it meaningless if you don't?"@
+`"Ah, that's right.@ …… Yeah, I have to thank Kohaku-san for her consideration.@ Thanks to that, I do feel a bit better."
+\
+ld c,"tachi/aki_t03b",crossfade,400
+`"What are you saying?@ You don't look happy at all.@ If alcohol doesn't make you feel better, isn't there nothing left?"@
+`"Wow, that's a little bold.@ Saying nothing is left if alcohol doesn't work… isn't that mistaken?"@
+ld c,"tachi/aki_t18b",crossfade,400
+`"It cannot be helped if you do not wish to speak to me, Nii-san.@ If you would talk about last night, I wouldn't ask for the help of alcohol."@
+`"[line=6]"@
+` I see.@
+` Just like Kohaku-san, Akiha is concerned about me.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"But, I can't ask, right?@ I already promised no longer to ask about it."@
+`"…… Sorry.@ I'm just a big burden to everyone."@
+ld c,"tachi/aki_t26",crossfade,400
+`"Well, as long as you understand it is alright.@
+` [line=4]Um, as you say I seem to be a little drunk, so I will go outside."@
+cl a,lshutter,800
+br
+` She says "drunk", but her steps are firm as she exits the dining room.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_42b",lcartain,800
+play "*9"
+` Following Akiha, I go out to the courtyard to get some fresh air.@
+` It is still before six o'clock.@
+` The red sun paints the sky.@
+`"…… Still the afternoon?"@
+` There's no one else around.@
+` I thought Akiha was going to be here but I guess we missed each other.
+\
+`"…… Red sunset?"@
+` Until now, the red sunset reminded me of fresh blood.@
+` But today,
+` it reminded me of her final smile as we parted on the road home.@
+br
+wave se_01
+` …… Throb.@ A stabbing pain in my chest.@
+br
+wave se_01
+` Does the scar on my chest hurt?@
+` Or is my heart in pain from regret?
+\
+` I can't tell the difference.@
+` Only that my chest hurts.@
+` As if it was bleeding.@
+br
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_42b",crossfade,400
+`"Gah[line=6]"@
+` Dizziness assails me.@
+` Because of the alcohol and the pain in my chest,
+` such a small, insignificant thing causes me to lose consciousness[line=4]
+\
+bg #ffffff,crossfade,800
+!w2000
+` …… My house is this way.@
+` Saying that, she went down a different path.
+\
+` …… Thanks.@
+` She probably said that since I was there for her until the very end.
+\
+br
+` …… Sorry.@
+` She probably said that since she knew I would carry this regret from now on.
+\
+` …… So it's okay to forget.@
+br
+` It felt like she whispered those words in my ears.
+\
+` …… Isn't that just a false happiness?@
+` In a dream I dreamed about, I dream such selfish words.
+\
+` If I can just forget, it will be very easy for me.@
+` But I can't forget.@
+` I didn't like her nor did I hate her, but,
+` I think I shouldn't forget her smile.@
+` And more than that,
+` as long as this scar remains on my neck, I can't forget[line=4]
+\
+playstop
+!w1000
+bg "bg/bg_40c",crossfade,800
+play "*1"
+`"Ah[line=5]"@
+` When I come to, I'm lying in my room.@
+` While I was sleeping, Akiha must have been watching me because she is there in front of me.@
+`"Aki, ha?"@
+ld c,"tachi/aki_t17b",crossfade,400
+`"Have you awakened?@ Goodness, suddenly collapsing like that, what happened Nii-san?"@
+`"I see…… did I pass out?"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Yes.@ Thankfully, you woke up quickly.@ I'm sorry for forcing you to drink like that."@
+`"No, that has nothing to do with this.@ I just collapsed on my own."
+\
+cl a,crossfade,400
+` Saying that, I stare up at the ceiling.@
+` My head is still dizzy, and I don't feel like talking with Akiha right now.@
+` …… Even still, Akiha is not bothered by this and she quietly tends to me.
+\
+`"…… Akiha?"@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Yes?@ What is it, Nii-san?"@
+`"[line=3]Um, well.@ Isn't this boring for you?@ I'm fine, so you can go back to your room if you want."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Are you saying I'm bothering you?"@
+`"No, that's not it at all.@ I was just thinking that maybe you were a little bored."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"It is boring, but I can stand it.@ This is something I'm doing out of my own interest, so there is no need for you to worry, Nii-san."@
+br
+` Then[line=4]I guess that's alright.
+\
+` Time passes.@
+` It's past seven o'clock.@
+` Seven hours since then.@ Has Akiha been tending me this long?@
+` Akiha silently takes my temperature.@
+br
+bg #000000,crossfade,800
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+` …… Ah, I remember now.@
+` That had to have been more than eight years ago.@
+` Akiha came to watch over me after I caught a cold or something like that.
+\
+` It really was a terrible cold; even breathing was painful.@
+` The black-haired girl sat by my pillow, holding my hand and just staring at me.@
+` Tatami and the shouji.@
+` The cool winter air.@
+` In the dark tatami mat room, the young figure of Akiha watching me on the verge of tears.
+\
+bg #000000,crossfade,800
+monocro off
+bg "bg/bg_40c",crossfade,400
+`"…… I'm a little relieved."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Eh?@ Did you say something Nii-san?"@
+`"…… Yeah.@ I was just thinking there is a little bit of the old Akiha in you.@ It's not really anything, but it makes me pretty happy."@
+` I give Akiha a gentle smile so naturally, it almost surprises me.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"That is fine, but you haven't changed at all Nii-san.@ Causing so much work for others… please act more properly."@
+` Akiha looks away and complains.@
+` Understanding she is just embarrassed, I start to feel even more happier.
+\
+ld c,"tachi/aki_t13b",crossfade,400
+`"…… Sheesh, why are you smiling like that?@ If you have this much energy I guess you don't need me to take care of you."@
+`"No, that's not it.@ I just remembered something from a long time ago.@ Akiha, in that tatami room[line=4]"
+\
+cl a,crossfade,400
+wave se_01
+br
+` [line=4]Tatami room?@
+br
+` What is that all about?@
+` I understand Akiha taking care of me, but why was it in a tatami room and not my room?@
+br
+` Something.@
+` There's something not quite right.
+\
+`"Akiha.@ Is there a room with tatami in this mansion?"@
+ld c,"tachi/aki_t01b",crossfade,400
+`"No.@ There are no Japanese rooms in this mansion."@
+`"Yeah, you're right.@ It's nothing.@ I just thought it was odd, don't worry about it."@
+ld c,"tachi/aki_t13b",crossfade,400
+`"Hm?@ What is so odd about not having a Japanese room?"@
+`"Oh, you know.@ This mansion is so big, I thought maybe there was at least one."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"There is a detached Japanese-style building however."@
+`"Eh[line=4]?"@
+` [line=4]Now that she mentions it, of course.@
+` In the middle of the forest in the garden, there was a Japanese-style mansion.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"…… Goodness, you really have become more energetic.@ I think I will only be in the way if I stay longer so I will return to my room."@
+cl a,crossfade,400
+` Standing up from the chair, Akiha goes to leave the room.
+\
+`"Thanks, Akiha.@ Sorry for making you stay here this whole time."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Please don't mind.@ Starting tomorrow your daily life will become more like this."@
+cl a,lcartain,800
+`"………?"@
+` After saying something I don't quite understand, Akiha exits the room.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_40d",rcartain,800
+` [line=4]I turn off the lights and rest in bed.@
+br
+` Thanks to Akiha taking care of me, I feel more relaxed.@
+` At this rate, I should be able to dream peacefully for the first time in days.@
+br
+` I take a deep breath and slowly close my eyes.
+\
+bg #000000,crossfade,800
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+` …… Right before I fall asleep,
+` the memory of myself being tended by a young Akiha freshly surfaces in my mind.
+\
+` The dark Japanese-style room where no one came to see me.@
+` Did she sneak away from Makihisa?@ Akiha snuck in and cried as she held my hand.@
+` "I'm sorry," she was saying.@
+` I didn't know why, but the black-haired young girl kept repeating "I'm sorry" over and over.
+\
+` [line=6]I remember.@
+br
+` About the proud eldest daughter of the Tohno family who was the only one to care for me.
+\
+`"………………"@
+` The young girl always crying in the dark Japanese room.@ I bit my tongue in frustration while being dizzy from fever.@
+` I wonder why she was crying.@
+` If it was me,
+` I would never, never let Akiha cry.
+\
+` …… I'm sorry.@
+` …… I'm sorry, Shiki-nii-san.@
+br
+` Her tears were simply beautiful.@
+` Since that time, I vowed to be her real brother[line=4]
+\
+bg #000000,crossfade,1500
+monocro off
+playstop
+!w2000

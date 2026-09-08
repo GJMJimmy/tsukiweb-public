@@ -1,0 +1,56 @@
+monocro off
+play "*8"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"………………"@
+` …… Acho que não tem jeito.@
+` Tenho medo de fazê-la chorar se continuar indo contra sua vontade.
+\
+`"…… Tudo bem.@ Hoje eu vou dormir."@
+` Dizendo isso, eu me deito.@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Jura……?@ Você não vai sair de fininho do quarto mais tarde?"@
+`"Não vou fazer isso.@ Para falar a verdade, meu corpo está extremamente pesado.@ Não acho que seria capaz de sair de fininho."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"[line=4]Que alívio."@
+` A Akiha suspira e relaxa.
+\
+`"Hisui, diga para a Kohaku que o Nii-san está acordado.@ Nii-san, você quer jantar?"@
+`"…… Ah, é mesmo.@ Não, diga à Kohaku-san que sinto muito, mas acho que não consigo comer agora.@ Vou apenas dormir."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"…… Entendo.@ Então Hisui, diga isso à Kohaku."@
+` Ainda cabisbaixa, a Hisui concorda e sai do quarto.
+\
+` …… E agora.@
+` Deitado na cama, começo a ficar sonolento novamente.@
+` Aposto que poderia cair no sono em menos de um minuto.@
+br
+` [line=4]Mas antes disso,
+br
+`"Akiha.@ Existia um lugar como aquele no jardim?"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Sim.@ Quando éramos crianças costumávamos brincar lá muitas vezes."@
+`"Hum.@ Por algum motivo não me lembro bem."@
+` …… Sim.@ Realmente me esqueci disso.
+\
+`"E mais uma coisa.@ …… É uma pergunta estranha, mas, quando éramos crianças, não havia outra criança com a gente?"@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Hã?"@
+` Ela inclina a cabeça, como se não entendesse o que estou dizendo.@
+` …… Acho que não.@ Não poderia ter tido outra criança.@
+` Mas… se isso for verdade, é estranho!@
+` Aquela cena que vi no meu sonho,
+` e o sonho que tive na clareira.@
+` Se esses dois são os mesmos[line=4]
+` Então não faz sentido a não ser que houvesse outra criança que foi morta……
+\
+`"Ah, não é nada.@ Estava apenas falando de um sonho."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"É isso mesmo?@ Então, boa noite, Nii-san.@ Descanse bastante."@
+`"Sim, vou fazer isso."@
+bg #000000,crossfade,800
+` Logo após responder a ela,
+` adormeço rapidamente, como se tivesse desmaiado outra vez.
+\
+playstop
+!w3000

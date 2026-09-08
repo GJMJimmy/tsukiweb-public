@@ -1,0 +1,293 @@
+play "*6"
+wavestop
+monocro off
+bg "bg/bg_46c",lshutter,400
+` [line=4]I reach Akiha's room.@
+br
+` The dizziness is getting unbearably stronger.@
+` I put my hand in my pocket.@
+` I'm lucky, as my knife is still there.@
+`"[line=6]"@
+` I ignore my dizziness and with the knife in my other hand, I open the door.
+\
+bg #000000,lcartain,800
+bg "bg/bg_36d",tshutter,800
+playstop
+waveloop se_11
+` [line=5]Darkness.@
+br
+` The moonlight coming in from the window barely sheds enough light to see.@
+` In the blue darkness, I see Akiha on the ground.@
+`"Akiha[line=4]!"@
+` I run to her and hold her up.@
+`"…………………"@
+` Akiha does not move, so she might be unconscious.@ But I can tell she's alive as her small chest rises and falls with her breathing.
+\
+` But, there's something more strange.@
+` Akiha's black hair.@ It has turned into a bloody shade of red.@
+`"Akiha[line=3]you're really Akiha…… right?"@
+` …… The hair looks red in the darkness.@
+` But, it's definitely Akiha.@
+`"Akiha, hey, come on……!@ What happen[line=3]"
+\
+wave se_01
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+` I hear a noise.@
+br
+waveloop se_11
+`"[line=6]!"@
+` I turn back.@
+` The direction the sound came from[line=3]there's, someone standing by the moonlit window.
+\
+` …… It seems to be someone wrapped in bandages.@
+`"[line=6]Who are you?"@
+` The man does not answer.@
+` …… A cold chill goes through my spine.@
+` I feel death in my nerves.
+\
+` …… The person is just there, broken.@
+` Abnormal eyes that seem out of this world.@
+` But there is some intelligence.@ It seems the bandaged person has both intelligence and madness.
+\
+wave se_01
+` My heart beats loudly.@
+waveloop se_11
+` It beats quicker.@
+` All the while, my mind freezes like I was dead.@
+` This feeling.@
+` I know this feeling of death.@
+br
+` [line=3]I'm sure.@
+` What's in this room right now is the world of murder I saw in my dreams.
+\
+`"[line=3]I asked you who you are."@
+` I hold my knife and stare at the person.@
+` The bandaged man appears to be smiling.@
+wavestop
+play "*4"
+`"I feel sad, Shiki.@ You don't even remember the person you've killed?"@
+` He steps toward me.@
+`"[line=5]!"@
+` I back up, holding Akiha in one arm.
+\
+`"Can't you tell, Shiki?@ I'm the guy you killed."@
+`"What are you saying[line=5]"@
+` Just listening to his voice gets on my nerves.@
+` I hate him.@ …… The hatred I was feeling since I entered the mansion is concentrated on him.@
+` This hatred.@ Is my instinctual drive to remove him a homicidal impulse?
+\
+` My heart beats.@
+` From somewhere inside me, my body screams.@
+` It screams that this person must be killed.@
+br
+!w1500
+`"[line=4]I see.@ You're the vampire."@
+br
+` Holding Akiha with one arm, I hold out my knife with the other.
+\
+` Hahaha.@
+` The man laughs as it was really funny.@
+`"Don't even try.@ I am you.@ There's no one who can truly kill himself."@
+`"W[line=3]what……?"@
+`"I'm taking Akiha back.@ She was mine to start with."@
+` Another step.@
+` The man comes closer.
+\
+`"Stop[line=4]!"@
+`"I won't stop.@ I came to get everything back from you.@ Name, position, power… everything was mine."@
+` The man opens his arms and talks proudly.
+\
+`"…… What are you saying?@ You[line=3]what are you?"@
+`"…… You still don't remember?@ What a guy.@ We were such good friends eight years ago."@
+`"What[line=4]"@
+br
+` Eight years ago?@
+` Such, good, friends[line=4]?
+\
+`"…… Well, I guess you forgot it.@ It's that old man.@ I bet he put a strong spell on you to make you forget."@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/cmo_05",notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+`"And I bet you yourself[line=3]wanted to forget about the ugly past, Shiki?"@
+br
+` He laughs.@
+` My vision shakes.@
+` Eight years ago, eight years ago, eight years ago[line=5]
+\
+` That's the time I was sent to the hospital from that accident.@
+` That was the last time the three of us played together in this mansion.@
+` That was the time[line=5]that child was there, and all the blood[line=4]
+\
+`"But that's all ending now.@ It was painful for you, right, Shiki?@ Hold on, I'll save you."@
+` The man slowly takes off the bandage around his head.@
+` His face[line=5]
+br
+`"You…"@
+ld c,"tachi/hal_t01",crossfade,800
+`"It's been a while, Tohno Shiki.@ No, that's not your real name."@
+` The face that came out from the bandage,
+` it was[line=4]not the face of that bloody child but…
+\
+`"Tohno[line=4]SHIKI."@
+` Yes, why did I forget?@
+` He was with Akiha back then.@ The third kid's name was certainly that.
+\
+`"Yes, it's really been a long time, Nanaya Shiki.@ You finally remembered that you were an impostor."@
+` The man's[line=3]SHIKI's lips turn up into a smile and he laughs deeply.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+`"Ah[line=5]"@
+` Headache.@ I have a headache.@
+` The lid opens.@
+` Which was sealed shut.@ (By whom?)
+` I can't look at it.@ (At what?)
+` The box of forgotten memories.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+wait 100
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+playstop
+play "*9"
+bg "bg/cmo_05",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` [line=4]He commanded me to forget everything.
+\
+` Tohno Makihisa.@
+` Nanaya Shiki was adopted by the person who made him alone.@
+` Probably, because it was amusing to him that I had the same name as his son.
+\
+` It's something that happened ten years ago.@
+` I was adopted.@
+` I was brought into an unknown mansion.@
+` My family were always people I didn't know.@
+` My life in the detached building.@
+` The boy and the girl I met.@
+` The big garden we played around in.@
+` A hot summer day.@
+` Akiha getting attacked by a shadow.@
+` I could only think about helping her, and the moment I used myself as a shield[line=4]
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]I was commanded to forget everything.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` By Tohno Makihisa.@
+` By my own father.@
+` He commanded me to live as Tohno Shiki and not Nanaya Shiki and[line=3]
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+play "*4"
+bg "bg/bg_36d",crossfade,800
+`"[line=6], …………!!"@
+` Dizziness, Sickness.@
+` Mixed memories run through my head.@
+br
+` Thump.@
+` I can't control my body.@
+` I throw Akiha on the ground, and embrace my knife as I pant for air.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"[line=4]Is it shocking?@ I bet it is.@ It should have been a big shock to know that you were an impostor, since you thought you were Tohno Shiki this whole time……!"@
+` SHIKI laughs.@
+ld c,"tachi/hal_t02",crossfade,400
+`"But, that's nothing compared to me.@
+` You know, Shiki, I was killed by the person I thought was my best friend and even had the name Tohno Shiki taken away from me.@ You even took Akiha[line=3]my Akiha……!@ Can you understand how I felt!?"@
+`"Killed[line=4]?@ I, you[line=4]"
+\
+ld c,"tachi/hal_t01",crossfade,400
+`"That's right.@ I killed you first, but the end result was, you killed me.@
+` Can't you recall yet?@ Eight years ago on that day, I lost to my blood and killed you.@ Look at that scar on your chest.@ I took this arm and pierced right through you."@
+`"Scar on my chest[line=4]"@
+` That was in an accident.@
+` I was told I got that from an accident[line=5]
+\
+`"Yes, the old man almost killed me afterwards, though.@
+` The Tohno blood finally awakened inside me, but I was imprisoned underground, and lived in the dark for eight years.@
+` [line=3]That damn old man.@ He said he'd let me out if I returned to being a human…!@ He thought it would be inconvenient for Tohno Shiki to be gone, so he made you into Tohno Shiki."
+\
+`"[line=8]"@
+` …… So,
+` the adopted kid that was here ten years ago was me.
+\
+ld c,"tachi/hal_t02",crossfade,400
+`"Do you get it, Shiki?@ I was killed by you.@
+` I'm alive right now, but you're Tohno Shiki.@
+` I have no place to go back to.@
+` My name as Tohno Shiki, my position, my dear sister, and even my existence was taken away by you.@
+` I, as Tohno SHIKI, was killed by you, Tohno Shiki."@
+br
+` A step.@
+` He starts to walk towards me with glaring eyes.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Here[line=3]that's the end of the story.@ Shiki, you should have died eight years ago.@ You've had enough, right?@ Let's go back to the way things were eight years ago."@
+`"[line=5]The way things were[line=5]?"@
+`"Yes.@ I return to being Tohno Shiki, and you return[line=4]to the dead person you were!"
+\
+cl c,lcartain,400
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_36d",notrans,0
+quakey 2,100
+bg #000000,lshutter,400
+bg "bg/bg_46c",lshutter,400
+` A big impact.@
+` I was blown out to the hallway with one strike from SHIKI.@
+`"A[line=6]"@
+` My back strikes the wall.@
+` I can't breathe.@
+` My head, I[line=3]still can't think straight.
+\
+`"Ku[line=5]"@
+` I can sense him coming.@
+` SHIKI jumps out from Akiha's room.@
+bg #ffffff,notrans,0
+bg "bg/ima_14",crossfade,400
+wave se_12
+`"Damn[line=4]!"@
+` I can hear SHIKI.@
+` His weapon also happens to be a knife, and my knife joins his in a deadly competition.
+\
+bg #000000,lshutter,400
+playstop
+` I gasp for air.@
+` I'm out of breath.@
+` I still feel sick.@
+` But, I don't have time to think.@
+br
+` I[line=4]
+\

@@ -1,0 +1,142 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_40e",crossfade,800
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40e",notrans,0
+` *arf*, *arf*, *arf*[line=4]
+br
+` Entendo.@
+` Esse impulso.@
+` Esse impulso que tenta me levar à loucura enquanto me deixa consciente.@
+br
+` Isso é…
+` Isso é o Roa.
+\
+` Mas por quê?@ Eu sempre fui normal.@
+` Até voltar para essa mansão, eu realmente era normal.@
+br
+` Ouço batidas fortes na porta.@
+` Mas não posso abri-la.@
+` Se abri-la, estará tudo acabado.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_13",crossfade,400
+bg "bg/bg_40e",crossfade,400
+`"Ah[line=5]"@
+` Finalmente entendi.@
+` Aquele sonho era uma lembrança do Roa de uma geração antes da minha.@
+` Trancada em seu quarto, matando seu pai e sua mãe, governando sua cidade como uma vampira, as lembranças finais de alguém que não conheço.
+\
+`"[line=6]"@
+` …… Não há saída.@
+` Esse não é um problema que pode ser resolvido me matando.@
+` Não há nada que possa ser feito.
+\
+` Entendo os sentimentos da pessoa anterior à mim.@
+` Mesmo que eu morra, a única coisa que vai morrer será a minha vontade.@ Então, a vontade do Roa tomará por completo o controle do meu corpo.@
+` Se isso acontecesse[line=3]as coisas ficariam bem piores.@
+br
+`"Ha[line=3]haha, ha."@
+` …… Para começo de conversa, não tenho a menor intenção de me matar.
+\
+`"Shiki-sama, por favor, abra a porta, Shiki-sama!"@
+` Ouço sua voz do outro lado da porta.@
+br
+` …… Parece até que ela está falando em outro idioma.
+\
+` Tão diferente.@
+` Apenas uma porta.@ Tem apenas uma porta de madeira entre nós.@
+br
+` Mas parece tão distante quanto a lua e as estrelas.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_40e",crossfade,1500
+waveloop se_11
+` Agora são dez horas da manhã.@
+` A Hisui desistiu e foi embora.@
+` A Akiha e a Kohaku-san também vieram e se revezaram batendo na porta, mas ignorei elas.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Meio-dia.@
+` …… Estou com fome.@
+` Mas ainda estou bem.@
+` Puxo os lençóis para me cobrir e abraço meu corpo trêmulo.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` São duas horas da tarde.@
+` …… Estou morrendo de sede.@
+` Perdi completamente a noção do tempo.@
+` Está tudo muito calmo.@
+` Mas meu corpo quer enfurecer, como se eu estivesse tomando estimulantes.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+` Quatro horas da tarde.@
+` …… Mais batidas na porta.@
+` Um nome está sendo chamado.@
+` De quem é essa voz?@ O nome de quem elas estão chamando?@ Não sei dizer.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+bg "bg/bg_40e",crossfade,1500
+br
+br
+` Cinco horas da tarde.@
+` Lentamente começa a escurecer.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+br
+br
+` Seis horas da tarde.
+\
+bg #000000,crossfade,1500
+monocro off
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+` Sete horas da noite.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+br
+` Oito horas da noite.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+wave se_04
+br
+br
+br
+br
+br
+br
+` [line=3]Alguém vem até aqui.
+\
+`"Shiki-san, trouxe o jantar.@ Você não comeu nada desde manhã, assim vai acabar desmaiando."@
+br
+` A voz da Kohaku.@
+` Ela bate na porta.@
+br
+`"Minha nossa, se vai agir assim, vou ter que te obrigar a comer alguma coisa."@
+` Um barulho diferente.@
+` Não de batidas, é o som de uma fechadura sendo aberta.
+\
+`"Uhuhuhu, hora de usar minha arma secreta, a chave mestra!"@
+`"[line=4]Ah."@
+br
+` Ela destranca a porta.
+\

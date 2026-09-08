@@ -1,0 +1,26 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=3]I feel bad doing this to Hisui, but I can't let her know.@
+` I have to keep Arcueid a secret, and it's not like I can let Hisui or Kohaku-san, or Akiha know that I'm looking for the serial killer.
+\
+`"No, I don't have any reason to go out.@ Akiha scolded me today, so I'll stay put for a while."@
+ld c,"tachi/his_t01",crossfade,400
+`"I understand.@ Then I will close the gate at the normal time."@
+` She speaks plainly, without any expression.@
+` The conversation ends and I go up to return to my room.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+playstop
+` After dinner, I go back to my room.@
+` It's almost ten o'clock.@
+` So as not to be discovered, I should go outside as discreetly as possible.@
+br
+`"Now then[line=3]shall I go?"@
+` Placing my knife in my pocket, I leave my room as quietly as I can.
+\
+bg #000000,lcartain,800
+!w2000

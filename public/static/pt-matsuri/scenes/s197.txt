@@ -1,0 +1,21 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_08b",notrans,0
+` [line=4]Eu preciso encontrar esse vampiro maldito, o tal de Roa.@
+br
+` A Arcueid não vai voltar para mim, e é praticamente impossível encontrá-la agora.@
+` Por isso vou tomar o caminho contrário.@
+` Ela disse que iria acabar com o Roa de todo jeito.@ Se o seu objetivo é o Roa, vou procurar por ele também.
+\
+` Seria ótimo se eu encontrasse ele antes da Arcueid.@
+br
+` Porque assim,
+` vou poder ajudá-la até o último momento.
+\
+`"[line=4]É isso que vou fazer."@
+` Estou decidido.@
+` Não vou mais perder meu tempo aqui.@
+` Vou para o centro da cidade neste minuto, e mesmo que signifique procurar uma agulha em um palheiro, eu tenho que encontrar esse vampiro[line=4]
+\
+bg #000000,lcartain,800

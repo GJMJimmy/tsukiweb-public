@@ -1,0 +1,134 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_31a",notrans,0
+`"Eu[line=3]"@
+br
+` Não tem como eu ajudar ela.@
+` Quase fui morto por aquele cachorro.@ Se eu aceitar isso, com certeza vou morrer.@
+br
+`"[line=3]Não posso fazer isso.@ Seria suicídio."@
+` Olho para ela e respondo, trêmulo.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` Ela me olha com desgosto.@
+`"Suicídio?@ Por quê?@ Com suas habilidades para matar, acho que você não tem nada a temer."@
+`"Aquilo foi diferente.@
+` Desculpe-me, mas sou só um estudante normal, não sou um monstro igual a um vampiro.@ Um estudante normal não pode cooperar com uma pessoa como você."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Mesmo?@ Estudantes normais costumam retalhar garotas que nem conhecem?"@
+`"[line=4]Ah."@
+` Fui atingido em cheio por esse comentário.
+\
+`"…… Mas aquilo foi especial.@ Nunca tinha me sentido daquela maneira e sempre levei uma vida normal[line=3]"@
+playstop
+`"Ahhh já chega, cala a boca!"@
+ld c,"tachi/ark_t23",lshutter,400
+wave se_01
+`"Hã[line=3]"@
+` As pupilas daqueles olhos vermelhos se dilatam.@
+` Imediatamente, o sentimento que ela transpira se transforma.@
+br
+` O calafrio que sinto é inacreditável.@
+` Acho que meu coração pode parar somente com o olhar dela.
+\
+monocro #ff0000
+`"Não me entenda errado.@ Você me matou.@ Só não arranco sua cabeça nesse instante porque você pode me ser útil."
+\
+br
+wave se_01
+` Meu pescoço está dormente, é como se alguém estivesse enfiando uma faca nele.@
+`"[line=5]"@
+wave se_01
+` Minha garganta que estava tão quente momentos atrás, está esfriando rapidamente.
+\
+` O ar que respiro está pesado.@
+` É como se o próprio ar estivesse congelando… sinto um aperto tão grande no coração que quase me faz perder a consciência.@
+wave se_01
+` É uma sensação opressiva e desesperadora, como se o próprio mundo estivesse me encarando.@
+br
+wave se_01
+` Toda essa sensação de peso se condensa e perfura meu cérebro como uma bala.
+\
+bg #ffffff,crossfade,400
+wave se_01
+`"Ah[line=5]hã?"@
+br
+` Tudo fica branco.@
+` Um sentimento repugnante.@ Dói muito, como se alguém tivesse aberto um buraco na minha cabeça e estivesse despejando álcool nele.@
+` Essa é a única forma de descrever essa sensação.
+\
+wave se_01
+`"Gah[line=7]"@
+br
+` Nem consigo gritar.@
+` O sons que saem da minha boca já deixaram de ser palavras.
+\
+wave se_01
+`"A[line=3]guhh."@
+br
+` Meu coração está sendo esmagado.@
+` Minhas lembranças estão desaparecendo.@
+` Ela está apenas me olhando, mas sinto como se estivesse esmagando meu cérebro com as mãos nuas.@
+wave se_01
+` Se isso continuar, vou me tornar um vegetal[line=4]
+\
+wave se_01
+`"Para[line=4]com isso."@
+br
+` É tudo que consigo dizer antes de perder a sanidade.@
+` De repente[line=3]o sentimento invasivo dentro da minha cabeça desaparece.@
+monocro off
+play "*1"
+bg "bg/bg_31a",crossfade,400
+`"Hha[line=3]aghh."@
+` Libertado da aura opressora, abraço meu próprio corpo.@
+br
+` [line=3]Ainda estou vivo.@
+br
+` Não estou morto.@
+` Ainda estou vivo e respirando.@
+br
+` [line=3]Acho que estou prestes a chorar.@
+` Sentir uma emoção tão profunda por algo tão simples é algo que eu nunca tinha experimentado[line=3]
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"E então?@ Talvez agora você entenda melhor a posição em que está."@
+`"[line=7]"@
+` …… Você acha que consigo entender isso?@
+` Só consigo olhar para cima, tremer e cerrar os dentes.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Você só tem duas escolhas.@ Cooperar comigo ou não.@
+` Simples, né?@ Estou perguntando se você quer viver ou morrer."@
+`"H[line=6]"@
+` Minha voz não funciona direito.@
+` Apenas meus instintos básicos de sobrevivência me ajudam a escapar da morte, me obrigando a assentir com a cabeça.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Que bom!@ Nosso contrato está oficializado."@
+` Para onde foi todo aquele ódio de minutos atrás?@
+` Animada, ela estende a mão para mim.
+\
+`"Acho que finalmente posso me apresentar.@
+br
+` Meu nome é Arcueid[line=3]humm…… meu sobrenome é muito longo, por isso só Arcueid está bom.@ Sou uma vampira do tipo Ancestral Original.@ E quanto a você?"@
+` Dou um longo suspiro com sua sua introdução repentina.@
+` …… É um suspiro de resignação, prova de que decidi aceitar essa situação absurda.
+\
+`"Meu nome é Tohno Shiki.@ Infelizmente, sou apenas um estudante normal.@ …… Já havia dito antes, mas realmente não vou ser de muita utilidade."@
+` Segurando a mão dessa[line=3]a mão da Arcueid, me levanto.@
+` Ela me observa durante um bom tempo e em seguida estende sua mão para mim outra vez.@
+ld c,"tachi/ark_t09",crossfade,400
+br
+`"Prazer em conhecê-lo, Shiki.@
+` Vou fazer você assumir a responsabilidade por ter me matado."@
+` A Arcueid sorri enquanto estende sua mão esquerda.@
+` …… Existem vários tipos de responsabilidades neste mundo, mas provavelmente essa é a primeira e a última vez que alguém assume a responsabilidade de ajudar alguém que matou.
+\
+`"…… Droga!@ Faça como quiser."@
+` Mas não há mais nada que eu possa fazer.@
+` A contragosto, estendo minha mão e aperto a mão dessa garota que afirma ser uma vampira.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

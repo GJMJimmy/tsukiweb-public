@@ -1,0 +1,348 @@
+playstop
+bg #000000,crossfade,1500
+!w2000
+br
+br
+br
+br
+br
+br
+br
+` [line=6]De repente, eu acordo.
+\
+bg "bg/ima_21",crossfade,400
+` Uma noite vasta.@
+` Estou no meio de um gramado tão extenso quanto o olho consegue alcançar e observo a lua inexpressivamente.@
+` Não tem mais ninguém aqui.@
+` Não há sinal de presença humana; não ouço sons  de animais.@
+` Talvez seja porque eu me esforcei demais nesses últimos dias.@
+` Eu queria apenas me deitar tranquilamente e ficar sozinho, mas parece que caí no sono.
+\
+` Uma escuridão brilhante.@
+` Deve ser porque a lua está muito baixa no céu.@
+` O gramado que parecia um mar negro ontem, está brilhando, como se fosse um palco.@
+` Uma clareira iluminada pelo luar penetrante.@
+br
+` É como o palco de um teatro.@
+br
+` Porém não há cortinas em lugar algum.@
+` Este campo que se estende ao infinito não possui nenhuma cortina de árvores, tampouco há uma audiência ou uma equipe de palco.
+\
+` Não há nada aqui.@
+` Apenas o luar e a escuridão brilhante.@
+` O vento não sopra e a grama não balança.@
+!w1000
+br
+` [line=4]Como é quieto neste lugar.@
+br
+` Eu rio baixinho porque fico com a sensação de que toda aquela comoção que durou até ontem foi apenas uma piada.@
+` Não, se é para falar de piadas,
+` então basta olhar para a minha vida até agora, foi uma vida tão feliz que parece ter sido tudo uma ilusão.
+\
+` Tantas coisas aconteceram.@
+` Aconteceram muitas coisas incríveis e o ritmo da minha vida mudou com bastante frequência.@
+` O esperado e o inesperado.@
+br
+` Tudo foi ilusório.@
+` Olhando para trás, independentemente do quão trivial as coisas pareciam, todas aquelas coincidências se complementavam.@
+` Os dias eram uma repetição uns dos outros, mas não haviam dois dias que fossem iguais.@
+` Então, isso quer dizer que…
+` Talvez cada um daqueles dias foi um momento insubstituível para o qual eu nunca vou poder voltar.
+\
+` Eu me lembro de várias coisas que aconteceram.@
+` As lembranças são tão nostálgicas que me fazem sorrir.@
+` Fico tonto só de pensar nas novas experiências que me aguardam no futuro, tão diferentes das experiências do passado.@
+br
+` Uma verdadeira mistura de emoções.@ Felicidade, excitação e preocupações suficientes para fazer a minha cabeça doer.@
+br
+bg #000000,crossfade,400
+` [line=6]Tu, dum.@
+br
+` O meu coração bate audivelmente apenas uma vez.
+\
+` O que acontece a seguir é um ataque anêmico como de costume.@
+` A tontura continua por um tempo, mas desaparece eventualmente.
+\
+` Embora o ferimento do meu coração esteja curado, a anemia não desapareceu.@
+` Parece que a minha saúde frágil não é consequência apenas do ferimento do meu peito.@
+br
+` …… Bem, mas é claro.@
+` Ser capaz de perceber a forma da morte significa estar muito mais perto da morte do que as outras pessoas.@
+` Para ser sincero, nunca imaginei que teria uma vida longa como as pessoas normais.
+\
+` Tu, dum.@ O som do meu coração batendo.@
+` Não é do meu feitio ficar pensando nessas coisas, mas fico me perguntando por quanto tempo vou continuar correndo pelo tempo.@
+` A conclusão não é interessante.@
+br
+` Porque mesmo que o meu tempo se acabe amanhã, ou talvez em algumas décadas, ainda assim[line=4]
+\
+`"Ei.@ É perigoso ficar deitado aí desse jeito."@
+br
+` [line=4]E.@
+br
+` Ouço uma voz familiar.
+\
+play "*8"
+bg "event/ao_01",lshutter,400
+`"Hein…?"@
+`"O que quer dizer com 'hein'?@ Você realmente tem muito tempo livre já que pode ficar dormindo num lugar desses a essa hora.@ Eu quase te chutei, tenha mais cuidado."@
+` Ela fala toda rabugenta enquanto segura a sua mala enorme.
+\
+`"Ah…?@ Eu ia ser chutado?@ E por quem?"@
+` Eu me levanto.@
+`"Não é óbvio, seu idiota?@ Somos as únicas pessoas aqui, quem mais poderia ser além de mim?"@
+` Ela responde com confiança e cruza os braços.@
+`"Ha[line=7]"@
+` Segurando uma risada, eu a observo juntamente à lua.
+\
+`"Não posso acreditar… De alguma forma eu sentia que iria reencontrá-la, mas não imaginava que seria hoje."@
+`"Que coincidência.@ Eu também não esperava me encontrar com você aqui.@
+` Eu ouvi dizer que você estava por aqui, mas mesmo assim nunca nos encontramos, não é mesmo?@ Por causa disso acredito que tenha sido nossos destinos agindo para que não nos encontrássemos.@ Embora…"@
+`"Caso tivéssemos nos encontrado, acho que teria nos causado um problemão, né?"@
+`"Sim.@ Eu sou membro da Associação, afinal de contas.@ Não nos damos muito bem com a Igreja."@
+` Ela ri sem demonstrar nenhum tipo de culpa.@
+` Está bem difícil me segurar para não rir também.@
+` Eu fico feliz de saber que essa pessoa não mudou nada desde o dia que nos conhecemos.
+\
+`"E como não tenho mais nada para fazer por aqui, eu ia embora amanhã.@
+` Veja bem, esse incidente foi parcialmente minha culpa, entende?@ Então resolvi parar aqui e dar uma última verificada nas coisas e quase acabei chutando uma pessoa comum deitada por aí."@
+`"Pois é… Era nosso destino nos conhecermos.@ E para ser sincero, eu sabia que iríamos nos encontrar de novo algum dia."@
+` Eu sorrio.@
+`"Tem razão.@ É um destino muito bem-vindo."@
+` Ela sorri de volta para mim.
+\
+br
+br
+br
+br
+br
+br
+`"Há quanto tempo.@ Você cresceu, Shiki."@
+`"Sim.@ Você também parece estar muito bem, Sensei."@
+br
+` Cumprimentando-a de volta, olho-a com seriedade.
+\
+bg #000000,crossfade,400
+!w1000
+bg "bg/ima_21",crossfade,400
+` Nós nos sentamos no extenso campo gramado e conversamos.@
+` Conversamos sobre besteiras, assim como no passado.@
+` Falamos apenas brevemente sobre o que aconteceu e sobre o que iríamos fazer no futuro.
+\
+`"Já está na hora.@ Não planejo ficar aqui por mais tempo.@ Vou partir antes do amanhecer, por isso precisamos nos despedir agora."@
+` Dizendo isso, A Sensei se levanta.@
+` Eu tento me levantar com ela… Mas caio de volta no chão.
+\
+`"…… Shiki?"@
+` Ouço a voz dela.@
+` Respiro profundamente algumas vezes e me levanto de novo.@
+`"…… Que coisa.@ Parece que ficar sem dormir ou descansar até ontem à noite acabou comigo."@
+`"É o que parece.@ Essa tontura é a sua maior fraqueza.@
+` Ao que parece você não tem nenhum ferimento.@ Está tudo bem com o seu corpo?"@
+`"Sim, obrigado pela preocupação.@ Mas diferente de você, eu tenho um corpo normal."@
+`"Hummmm… Já que está dizendo."@
+` Ela me encara com uma expressão clara e me olha no fundo dos olhos.
+\
+`"[line=4]Shiki… Você sabe que não vai durar muito tempo, né?"@
+br
+` As suas palavras são claras.@
+`"[line=9]"@
+` Estou surpreso.@
+` Não estou surpreso pelo que ela está falando, mas é que nunca imaginei que ela diria isso para mim.
+\
+`"[line=4]Bem[line=4]sim… Eu meio que já sabia disso."@
+`"Sério mesmo?@ Mas você parece tão calmo.@
+` Mesmo agora você força o seu corpo por algo que não tem nada a ver com você.@
+` Eu acho difícil de acreditar, mas será que realmente não está com medo de morrer?"@
+` Ela me encara, muito irritada.
+\
+`"Muito pelo contrário.@ Eu acho que tenho mais medo de morrer dos a maioria das pessoas."@
+br
+` Mas… Isso é algo que vai acontecer no futuro.@
+` Pode ser amanhã ou no ano que vem, mas não posso ficar pensando demais no futuro.@
+br
+`"Eu não posso ficar pensando demais no futuro.@ Eu priorizo o que quero fazer agora, no presente."
+\
+`"Entendi, você pode ver a sua própria morte.@ É por isso que tem mais medo da morte do que as outras pessoas.@
+` É, faz sentido… Eu mesma estaria tremendo de medo se pudesse ver à minha frente os trezes degraus que antecedem a forca."@
+`"Não, não é bem assim.@ Eu não posso sentir claramente quando é que vou morrer."
+\
+`"É quase a mesma coisa.@ Vejamos… Posso perguntar algo como referência?@
+` Você acabou tendo um corpo mais fraco dos que as pessoas normais.@ Seria natural amaldiçoar o próprio corpo e ter medo de morrer de repente.@
+` Shiki.@ Você não acha difícil viver com um corpo assim?"@
+` A Sensei me olha abertamente, mas não consigo decifrar o que os seus olhos estão expressando.@
+` Estes são os olhos de uma maga, um lado dela que não conheço.
+\
+`"[line=3]Eu não estou certa…?@ Você não pode ter uma felicidade 'normal' como as outras pessoas.@ Enquanto o seu corpo for assim, tudo o que te aguarda é sofrimento."@
+`"[line=5]Pode ser verdade… Mas…"@
+` Não acho que seja tão ruim assim como ela está falando.@
+`"Mas provavelmente já estou feliz.@
+` Porque eu me diverti bastante até hoje.@ Por isso acredito que no futuro mais coisas divertidas me aguardam."@
+`"[line=13]"@
+` Ela suspira fundo.@
+` E volta ao seu estado normal.
+\
+`"Shiki."@
+` Ela parece triste quando chama o meu nome.@
+`"Para ser sincera, eu tenho um certo arrependimento.@
+` Sinto que no passado eu te disse algo que não deveria ter falado."@
+` Eu olho diretamente para os olhos dela.@
+` É diferente de quando eu era criança… Naquela época eu precisava olhar para cima pra conseguir olhá-la nos olhos, mas agora é ela quem tem que olhar para cima pra ver os meus olhos.
+\
+`"Deus não dá a ninguém um poder excessivo sem razão.@ E eu te disse que se você possuía aquele poder, haveria uma razão para isso.@
+` Mas cabe ao indivíduo decidir qual seria essa razão.@ Não há espaço para mais ninguém interferir, especialmente algo tão ambíguo como Deus.@
+` Então não teria problemas se você não tivesse feito nada com os seus poderes.@
+` Mesmo que você negasse os poderes dos seus olhos e não os usasse para absolutamente nada, ainda assim não teria problema algum.@
+` Eu me arrependo das minhas palavras porque… Você poderia ter levado uma vida normal, uma vida mais adequada para você, como Shiki."@
+`"……………… Sensei."
+\
+`"Eu não te disse para viver a sua vida com um coração sincero?@ E você realmente fez isso, Shiki.@
+` Mas isso é algo difícil de se fazer.@
+` Teria sido mais fácil se você tivesse se desviado do seu caminho um pouco, porque os seus olhos te puxam para os infortúnios.@
+` …… Não é irônico o fato de o assassino mais habilidoso do mundo também seja alguém que odeia matar mais do que qualquer um no mundo?@
+` Se tivesse levado uma vida normal ou se o seu coração tivesse se desviado do caminho verdadeiro, você não teria que ter passado por tanta dor."
+\
+`"É… Estou pensando nisso agora que tocou no assunto, talvez seja verdade mesmo.@ Se eu tivesse desistido, talvez teria sido um pouco mais fácil.@
+` Mas não faria sentido.@ As coisas teriam sido apenas um pouco mais fáceis e sendo sincero, eu nunca pensei na minha vida como algo tão doloroso assim.@
+` Você tem uma ideia errada sobre mim, Sensei.@ Tudo que fiz foi porque quis fazer.@ Eu não sou nenhum santo.@
+` Eu gosto de mim do jeito sou.@
+` É por isso que… Eu fiquei feliz que tenha me dito para me tornar um adulto do mesmo jeito que eu já era.@
+` Sensei.@ Eu não me arrependo de nada, portanto não razão para você se arrepender."
+\
+` Sorrio para ela, pois sinto de verdade tudo que disse do fundo do meu coração.@
+` Como se tivesse sido ofuscada por uma luz radiante, ela aperta os olhos e os fecha brevemente.
+\
+`"[line=5]Entendi……
+` Poxa, parece que você realmente se tornou um rapaz maravilhoso."@
+` Ela pega a mala.
+\
+`"Você está muito bem do jeito que está, Shiki.@
+` …… O meu mundo é cheio de pessoas desonestas, então me associar com alguém como você balanceia as coisas.@ Talvez seja difícil para você, mas se não se importa, então acho que está tudo bem."@
+br
+` Dizendo "até mais," a Sensei vira as costas para mim.
+\
+`"[line=13]"@
+` Não posso pará-la e também não tenho motivos para isso.@
+` Sinto que essa será a última vez que nos encontramos.@
+` …… Tudo que me lembro é da única coisa que esqueci de dizer.@
+br
+` Naquele dia.@
+` Em um oceano de gramas, aquela amiga importante veio conversar comigo, alguém que estava prestes a desaparecer.
+\
+`"[line=13]"@
+` Não está ventando.@
+` A grama não balança mais e a única mudança no ambiente é a sua silhueta, que vai só ficando mais distante.@
+` No passado ela não se virou de repente e ela não vai fazer isso hoje.
+\
+`"[line=6]Sensei."@
+br
+` Eu a chamo.@
+` Ela para.@
+`"O quê?"@
+` Ela não se vira.@ Apenas a sua voz me alcança.
+\
+`"[line=13]"@
+` Eu sei o que preciso dizer.@
+` As palavras que sempre quis falar.@
+` É só que… Se eu disser essas palavras, aí vou ter certeza de que nunca mais vou vê-la.@
+` Mas mesmo assim[line=3]eu preciso dizê-las.
+\
+` Ela me disse: "Apenas seja verdadeiro consigo mesmo e torne-se o homem que você achar ser o ideal."@
+` Ela também me ensinou que é importante aceitar os meus erros e de ser capaz de pedir desculpas quando errar.
+\
+` É por isso.@
+` É por isso que preciso dizer essas palavras.@
+br
+br
+br
+br
+`"[line=4]Obrigado.@ Estou feliz por ter te conhecido, Sensei."
+\
+` …… Era o que eu sentia quando criança.@
+` Essas são as palavras que saíram do fundo do meu coração, mas que não pude dizer porque estava muito triste com a partida dela.
+\
+` Olhando por trás, ela parece ter ficado surpresa.@
+` Ela permanece no mesmo lugar, abaixa a cabeça e se vira para mim com a sua expressão habitual.
+\
+bg #000000,lshutter,400
+bg "event/ao_02",lshutter,400
+!w2000
+`"[line=4]Cuide-se, Shiki… Vamos nos encontrar de novo se assim o nosso destino ditar."@
+` Ela diz isso como se não fosse nada demais e, de repente, o vento sopra forte.@
+` Swooosh.@
+` Ele sussurra pela grama balançando e o luar desaparece.
+\
+bg #000000,crossfade,400
+` E assim,
+` como se tivesse sido abduzida pelo vento, ela desaparece.
+\
+playstop
+bg "bg/ima_21",crossfade,400
+play "*7"
+`"[line=14]"@
+` Por mais estranho que pareça, não estou derramando lágrimas.@
+` Estou triste e não quero que ela vá embora.@
+` Mas o fato de eu não estar chorando significa que amadureci desde o nosso último encontro.
+\
+` O extenso campo gramado fica em silêncio novamente.@
+` Olho para cima; parece que a lua vai desaparecer do céu.@
+` Tudo nesse mundo passa, assim como essa lua desaparecendo.@
+` E mesmo assim, depois de um longo tempo, pode haver a possibilidade de nos encontrarmos novamente.@
+br
+` E assim, a lua dessa noite desaparece.
+\
+`"[line=4]Muito bem…"@
+` Eu fecho os olhos apenas uma vez, como se estivesse abaixando as cortinas do palco.@
+` O amanhecer se aproxima.@
+` Assim como a lua que acabou de abaixar,
+` por enquanto, as cortinas da longa história do Tohno Shiki também são abaixadas[line=4]
+\
+bg #000000,crossfade,400
+bg "bg/ima_01",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Os céus continuam à distância.@
+` Eu olho para cima enquanto sou abraçado pelo ar limpo e vivo da noite.
+\
+br
+br
+br
+br
+` Tudo nesse mundo é incerto, como um sonho vívido.@
+` O passado é apenas uma ilusão.@
+` Ele não deixa uma forma tangível para trás e mesmo a mais vívida lembrança é passageira.@
+` Entretanto, eu acredito que a imagem da lua nunca vai desaparecer.
+\
+bg #000000,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Mas mesmo ela é frágil.@
+br
+` Embora eu saiba que ela vai desaparecer um dia, não me importo.
+\
+br
+br
+br
+br
+` As lembranças continuam.@
+` Tenho certeza de que até mesmo o final será feliz.@
+br
+` [line=4]O eclipse lunar está acabando.@
+br
+` Todos passam correndo pela vida, pelo tempo que têm sobrando para viver; e depois se vão.@
+!w5000
+\
+playstop
+cl a,notrans,0
+bg "word/fin",crossfade,1500
+wait 3000

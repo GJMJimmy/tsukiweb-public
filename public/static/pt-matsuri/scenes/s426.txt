@@ -1,0 +1,168 @@
+playstop
+wavestop
+bg "bg/bg_11d",notrans,0
+` [line=3]Entro em ação antes mesmo do som do passo terminar de ecoar pelo corredor.@
+br
+`"Aqui[line=9]!"@
+br
+` A voz da Akiha é uma mistura de malícia e prazer.@
+` Apreciando a tensão da batalha, ela sorri enquanto olha na minha direção.@
+`"[line=9]"@
+` Essa imprudência é a minha única chance e a única razão da sua derrota.
+\
+`"Só isso não vai bastar, Nii-san.@ Não importa o quão rápido seja, você só fica mais visível conforme se aproxima de mim[line=5]!"@
+` A sua voz está cheia de prazer.@
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_11d",notrans,0
+` Os seus olhos me encontram.@
+` Então, o resto é simples.@
+` Não vou conseguir chegar até ela, porque ela vai evaporar os meus braços e pernas, então eu cairia morto no chão.@
+br
+` [line=5]Bem,
+` isso é, só se ela conseguir fixar os olhos em mim até que eu esteja completamente queimado.
+\
+bg #000000,lcartain,400
+` A minha visão inverte.@
+`"[line=10]Hã?"@
+` Ela está surpresa.@
+` No mesmo instante, os cabelos vermelhos que iriam queimar meus braços e pernas desaparecem.@
+` Ainda bem que o corredor é apenas um caminho reto.@
+` A Akiha, que pensou que eu só poderia atacá-la diretamente, não pode me ver quando subo na parede e pulo para o teto.
+\
+` Andando pela parede como uma aranha, os meus pés tocam o teto apenas uma vez.@
+` Eu não sou como uma aranha de verdade.@
+` Virando o corpo, só estou usando o teto como um ponto de apoio.@
+br
+` A distância vai servir.@
+` Antes que o meu corpo caia, uso os pés para pegar impulso no teto.
+\
+bg "bg/bg_11d",tshutter,400
+`"Hum, hã[line=6]?"@
+` O olhar dela volta para mim e a sensação de queimado volta para os meus braços e pernas.@
+` A sensação paralisa um braço e uma perna.@
+` Provavelmente eles não existem mais.@
+` Mas[line=3]não preciso mais deles.@
+` O meu corpo já tem a velocidade de que preciso.@
+` E assim[line=4]
+quakey 3,50
+br
+`"Kyaa[line=8]!?"@
+br
+` Eu colido com a Akiha.
+\
+bg #000000,notrans,0
+`"Ora, seu[line=8]!"@
+` Ela levanta a cabeça.@
+` Estando tão perto assim, ela poderia facilmente me ver e desintegrar o meu corpo.@
+bg "bg/ima_14",lshutter,400
+br
+` Por isso,
+` antes que ela consiga, eu a corto.@
+br
+` O seu pescoço delicado.@ Faço um corte horizontal em suas veias pulsantes.@
+` Sem fazer qualquer distinção entre a sua pele, os seus músculos, as suas artérias, os seus ossos,!w1500 sem piedade nem compaixão,!w1500 como se estivesse arrancando um lírio da terra,!w1500 sem nem mesmo qualquer dor resplandecente.
+\
+monocro #ff0000
+bg "bg/bg_11d",lshutter,800
+play "*9"
+br
+br
+br
+br
+br
+br
+br
+` Um baque.
+\
+` No chão duro, algo parecido com uma bola de boliche cai.@
+` Está tudo acabado.@ Os eus olhos sem foco olham para a parede do corredor e provavelmente continuarão assim por toda a eternidade.
+\
+br
+`"Isso foi a última coisa que você viu?"@
+br
+` Os eus olhos semiabertos fitam a parede suja.@
+` Tudo está escuro.@ Morrer olhando para este cenário[line=3]é como uma piada de mau gosto.@
+br
+`"…… Nosso pai não te ensinou que sentir prazer em matar é algo fútil, Akiha?"@
+br
+` …… Bem, isso teria sido inútil.@ Tohno Makihisa era uma pessoa fútil, por isso o fim que ele teve foi inevitável.
+\
+`"…… É uma pena.@ Embora você fosse tão talentosa, o fogo que a criou foi muito fraco."@
+br
+` Foi por isso que pude matá-la tão facilmente.@
+` Por ter ficado fazendo coisas inúteis, como sentir prazer em matar.@
+` Foi por isso que você morreu.@
+` Neste lugar, sozinha.@
+` Sozinha para sempre, fitando essa parede suja, sem nem deixar escapar as agonias finais da morte.@
+br
+`"…………………… Ha."@
+br
+` Hmph.@
+` Por mais que seja a minha irmã, ela está patética.
+\
+`"[line=11]Ahh."@
+` A minha respiração, que tinha parado, volta.@
+` O meu corpo queimado sente a energia retornando.@
+` …… Por causa da morte da Kohaku-san, o meu corpo estava perdendo as energias.@
+` Mas como a Akiha morreu, parece que estou voltando ao normal.@
+` Bem, para começo de conversa,
+` esse corpo, essa cabeça, esse coração, mesmo que eu os aceite e viva, não há mais nada para mim[line=7]
+\
+` *arf*[line=3]*arf*[line=4]*arf*[line=4]
+` A minha respiração retorna.
+\
+` O mu braço e a minha perna dormentes ainda existem.@
+` No chão, o sangue da Akiha finalmente começa a jorrar.@
+`"Aah[line=10]ah."@
+` Me apoiando na parede, consigo ficar de pé em uma perna só.@
+` Abro a janela e o ar fresco entra.@
+` O vento frio sopra pelo corredor que parece um forno.
+\
+`"[line=7]Aha.@ Hahaha ha."@
+` O vento está muito bom.@
+` Ele esfria o meu corpo e a minha dor de cabeça para.@
+`"[line=4]Haha…… ha…… ah[line=4]"@
+`  Então, por quê?@
+` Apenas os meus pensamentos, é como se a minha cabeça estivesse ficando vazia.@ Tudo continua igual e a minha visão não volta ao normal, ela não sai deste mundo vermelho.
+\
+bg "bg/ima_01",crossfade,400
+` [line=6]Acima de mim está a lua vermelha.@
+br
+` Lembro-me daquele sonho.@
+` Aquela lua olhando para o assassino.@
+` Mesmo naquela vez, era uma lua bonita, então, por quê?@
+` Por que hoje ela nem me ilumina?@
+br
+` [line=5]Como uma cobra.@
+br
+` Me observando tal qual um olho vermelho incendiado.@
+` Encarando.@ O olho vermelho me observa atentamente.
+\
+` Vermelho.@ Vermelho, vermelho, olho vermelho.@
+`"…… Ha…… haha…… Agora eu entendo[line=4]"@
+` Agora ficou tudo claro.@
+` O que a Akiha estava olhando em seus últimos momentos não era a parede.@
+` Ela estava olhando para o Nanaya Shiki enquanto ele se aproximava para cortar o seu pescoço.@
+`"…… Entendo.@ Então[line=4]não vai desaparecer, não é mesmo."@
+` A lua sserá vermelha para todo o sempre.@
+` Nos olhos dela, o assassino ainda está queimando.@
+` Isso não pode ser apagado.
+\
+` É por isso que, embora tudo tenha terminado, não tenho para onde ir.@
+` Eu perdi a Kohaku-san e até matei a Akiha.@
+` Realmente não tenho para onde ir.@
+` Tudo pelo qual lutei, até mesmo o meu 'eu', tudo desapareceu.@
+` Apesar disso, a minha perna manca pelo corredor.@
+br
+` [line=4]O céu ainda possui aquele olho gigante.@
+br
+` Ainda sob o olhar da Akiha, Nanaya Shiki desaparece pelo corredor.
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w4000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

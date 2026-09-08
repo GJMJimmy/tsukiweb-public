@@ -1,0 +1,39 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",crossfade,800
+play "*1"
+` [line=2]Even after second period, Yumizuka still didn't show up.@
+` With no way to find out, my bad feeling about this grows.
+\
+bg #000000,tshutter,800
+bg "bg/bg_06a",bshutter,800
+` It's lunchtime.@
+` In spite of the morning's excitement, the classroom has returned to its everyday cheerfulness.@
+` It seems that no one in class is really taking Yumizuka Satsuki's running away from home seriously.@
+ld c,"tachi/ari_t01",lshutter,400
+`"Tohno, let's get lunch."@
+`"That's okay.@ I don't really feel like it."@
+`"Huh, I guess it can't be helped.@ Don't be troubled with other people's problems too much."
+\
+cl c,lshutter,400
+`"……"@
+` Other people's problems, huh?@
+` Arihiko's words are too close to the truth.@
+`"Huh?@ You're not with Inui-kun today?"@
+ld c,"tachi/cel_t01a",lshutter,400
+`"…… Senpai?@ What are you doing in our classroom?"@
+`"Well, I thought I'd have lunch with you guys… Tohno-kun, aren't you going to eat something?"@
+` Senpai sits down on the desk, looking at me anxiously.
+\
+`"Nah, I just don't seem to have any appetite today."@
+`"Ahh… Are you not feeling well?"@
+`"…… Something like that.@ Don't worry about me, you go on to the dining hall.@ Arihiko's probably already there."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Oh, you're not energetic at all!@ I don't know what happened, but if you don't eat lunch, you'll just feel even worse."@
+`"That's… true, but…"
+\
+cl c,crossfade,400
+` But since I'm not hungry, there's not a lot I can do.@
+br
+` I[line=4]
+\

@@ -1,0 +1,471 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_02a",notrans,0
+` [line=3]Eu me inclino para frente.@
+br
+` Senti que, se tivesse me virado e corrido, meu coração teria sido baleado por trás.@
+br
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_02a",notrans,0
+wave se_12
+`"Hya[line=4]!"@
+` Sua espada passa voando perto da minha cabeça.@
+` Ela parece ser bem lenta.@
+` Escapo do seu ataque, me posiciono ao lado dela e[line=4]
+\
+bg "bg/ima_14",lshutter,400
+wave se_06
+`"[line=5]!"@
+` No instante que tentei correr para a frente, os movimentos da Senpai mudaram drasticamente.@
+` Em um instante, com uma velocidade que faz parecer que ela desapareceu, ela balança a arma horizontalmente.
+\
+` A rajada de vento enche meus ouvidos[line=3]e por alguma razão, estou a vários metros de distância dela.@
+bg "bg/bg_02a",crossfade,400
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=7]"@
+` Ela estala a língua e olha para mim.@
+cl c,crossfade,400
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_02a",notrans,0
+`"Ai……!"@
+` Meu braço esquerdo dói.@
+`"O que…… Hã[line=5]!?"@
+` Estou surpreso.@
+` Do cotovelo para baixo, meu braço está quebrado.@
+` Não está quebrado de uma forma normal, a parte de baixo do braço está dobrada em forma de um triângulo.
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=3]Sacrificando o braço para salvar a cabeça?@ Se não tivesse feito nada, teria acabado sem dor para você."@
+`"O qu[line=4]"@
+` Mesmo sem perceber, devo ter quebrado o braço me defendendo do ataque dela.
+\
+`"Você não vai empunhar a sua faca?"@
+` Ela me olha com uma expressão de tédio.@
+` …… Está me menosprezando.@
+` Ela me observa como se dissesse que pode me matar quando bem quiser.@
+cl c,crossfade,400
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_02a",notrans,0
+`"Gg……!"@
+` Dor.@ A dor vai do meu braço para o meu cérebro.@
+` O sangue do meu braço quebrado parece fluir como um veneno nos meus nervos.@
+` Bruscamente.@
+` Com apenas isso, minha mente é preenchida com um vazio.
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=5]"@
+` Ela continua me observando com aqueles olhos frios.@
+`"Você[line=3]!"@
+` Você quebra meu braço e continua agindo dessa forma!?@
+` Você faz ideia do quanto isso dói!?@
+` Está me fazendo de tolo.@
+` Está me fazendo de tolo!@
+` Está me fazendo de tolo[line=6]!
+\
+`"Se é assim que vai agir, Senpai[line=4]"@
+br
+` Agarro a faca no meu bolso.@
+br
+`"Não vou simplesmente ficar aqui sem fazer nada[line=4]"@
+br
+` A sensação do metal duro.@
+br
+`"[line=2]e deixar você me matar."@
+br
+` Com um estalo rápido,
+` coloco para fora a lâmina da faca.
+\
+`"[line=3]Você é idiota?"@
+cl c,lshutter,400
+` Instantaneamente,
+` seu corpo desaparece.
+\
+bg #000000,notrans,0
+br
+` [line=4]Não, não é isso.@
+` Ela se agacha até o chão[line=3]quase como um lagarto, e vem na minha direção como um relâmpago.@
+br
+` Ela corre a distância de seis metros em menos de um segundo.
+\
+` Ela não está no meu campo de visão.@
+` Todo o seu corpo está abaixo da altura do meu joelho e toma impulso para cima.@
+br
+` Um baque.@
+br
+` Bem debaixo de mim, sua baioneta se atira diretamente à minha garganta com bastante precisão.
+\
+bg "bg/bg_02a",lshutter,400
+wave se_05
+quakey 4,500
+wave se_10
+`"Ga[line=4]ah!"@
+` Eu ofego.@
+` Dor, isso é dor?@ Sim, ainda consigo sentir dor.@
+br
+`"Ha[line=5]ugh."@
+` Consciente, estou consciente?@ Tudo bem, ainda estou consciente.@
+br
+`"A, aaaaaa…………!"@
+` Meu corpo.@ Meu corpo[line=4]não está bem.
+\
+bg "bg/ima_13",lshutter,400
+` O som de algo pingando.@
+` Está vindo do meu ombro esquerdo.@
+` Olho para ele e vejo que já virou uma cachoeira de sangue.@
+` Naquele instante.@
+` A baioneta não acertou minha garganta, acertou meu ombro esquerdo.
+\
+bg "bg/bg_02a",lshutter,400
+`"A, Aa, Aaaaaaah!"@
+` Está doendo.@
+` Está doendo tanto que a palavra dor não chega nem perto de descrever a sensação.@
+br
+`"Haa, aaa, aggggg[line=6]!"@
+` Mas estou vivo.@
+` Ainda estou vivo.
+\
+` Meu corpo.@ Meu corpo está longe dela novamente.
+\
+` Sinto cheiro de pólvora vindo do meu ombro.@
+br
+`"A, Aah, ah."@
+` Naquele instante.@ No instante que a baioneta me perfurou, ela deve ter puxado o gatilho.@
+` Fui arremessado por causa disso, e existe uma certa distância entre nós novamente.
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"…… Por ter acontecido duas vezes, significa que não é coincidência.@ Depois de perder tanto sangue e não ter morrido, já deve ser um sinal de que o seu corpo começou a mudar."@
+br
+` Ga-chang!@ Um som metálico.@
+` A espada no final daquela arma se transforma.@
+` A espada que acabou de me acertar cai[line=3]e se transforma em páginas de um livro que se espalham.
+\
+`"…… Isso é…… ridículo."@
+` Mas essa coisa ridícula é muito assustadora.@
+` Aquilo[line=3]apenas tocar aquilo será como um veneno fatal.@
+` Morte.@
+` Vou morrer.@
+` Sem dúvida alguma, vou ser morto.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+` Eu vou morrer?@
+` É disso que estou com medo?@
+` Não sei.@
+br
+`"Ah, gg………!"@
+br
+` Meu ombro está queimando.@
+` Quente, está tão quente, como se todo o meu corpo fosse explodir em chamas.
+\
+` Ela prepara a arma mais uma vez, com outro ruído metálico.@
+` …… Duas vezes.@
+` Resistir àquilo por duas vezes não é nada mais do que um milagre.@
+` Na próxima vez, certamente[line=4]
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+waveloop se_02
+` Imagino aquela baioneta perfurando meu rosto.@
+` Isso é mais repugnante do que assustador.@
+br
+` A morte é…@
+` Não importa como aconteça, é uma coisa inútil, suja e nojenta.@
+` Gosto de mim mesmo[line=3]então não quero que isso aconteça.
+\
+` É por isso que estou assustado?@
+` Não sei.@
+` Pensando bem[line=3]sempre fui capaz de ver a "morte", mas nunca pensei na "morte" de verdade.
+\
+` Mas isso não importa no momento.@
+` *arf*, *arf*, *arf*[line=5]
+` Tenho que fugir.@
+` Não quero morrer, por isso tenho que fugir daqui.@
+br
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=2]Não vai tirar os óculos?"@
+` Uma voz sem emoção.@
+` Essas palavras.@ Engasgo com o significado delas.@
+` Porque tirá-los, significa que vou ver as "linhas" da Senpai.@
+` Se isso acontecer, eu poderia matá-la[line=4]
+\
+`"O que está[line=4]dizendo[line=4]Senpai……!?"@
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=7]"@
+` Um calafrio percorre meu corpo.@
+` De repente o ar fica saturado com uma intenção assassina.
+\
+`"…… Não posso perder mais tempo com você.@ Por favor, apenas morra logo de uma vez."@
+cl c,crossfade,400
+` Ela se agacha novamente.@
+br
+` [line=3]Está vindo.@
+br
+` Mesmo sabendo que está vindo na minha direção novamente, é difícil vê-la.
+\
+` [line=3]Só consigo pensar em fugir.@
+` Se não quiser ser morto[line=3]fugir é a minha única opção.@
+` Felizmente, nossa distância é de quase dez metros.@ Se eu correr o mais rápido que conseguir, posso chegar no prédio da escola.@ Talvez eu seja capaz de fazer alguma coisa se estiver em um espaço menos aberto[line=5]!@
+bg #000000,lcartain,400
+bg "bg/bg_03c",lcartain,400
+monocro #ff0000
+bg "bg/bg_03c",notrans,0
+monocro off
+wait 100
+bg #000000,notrans,0
+wave se_07
+br
+`"[line=6]"@
+` Minhas costas.@
+` Alguma coisa[line=4]furou minhas costas.@
+`"Aa[line=4]ah."@
+waveloop se_02
+` Meu corpo cai para frente.@
+` Só um pouco mais.@
+` Faltava pouco para eu entrar no prédio da escola.
+\
+`"Kk[line=5]"@
+` Eu me levanto com um braço.@
+` O que fura meu corpo é uma daquelas espadas parecidas com um prego que a Senpai estava usando antes.
+\
+`"Por que[line=4]sua………!@
+` Devo estar anestesiado para dor, então retiro a espada que está me espetando por trás.@
+` …… Já que ela entrou no meu corpo por trás, fico nervoso e a retiro pela frente, através do meu peito.@
+`"Muito bem………!"@
+` Agora posso fugir lá para dentro……!
+\
+`"O que planeja fazer fugindo, Tohno-kun?"@
+br
+` Antes de entrar,
+` ouço a voz da Senpai atrás de mim.
+\
+`"Você ainda não entendeu?@ Quão rápido acha que acabou de correr agora?@ Por que você ainda está vivo depois de receber esse ferimento fatal?"
+\
+`"Par[line=7]"@
+` Começa a dar um branco na minha mente.@
+` Não deixe ela te enganar.@
+` Não deixe ela te enganar.@
+` Ela não esteve te enganando esse tempo todo?@
+` Não dê mais ouvidos a ela.@
+` Se ouvi-la, vai morrer.@
+` Ignore-a.@
+` Não aceite isso.@
+` Mesmo que seja verdade, esse corpo só pode rejeitá-la[line=3]
+\
+`"[line=4]Pare[line=4]com isso."@
+`"Céus, você não tem para onde fugir.@
+` Você só pode lutar ou ser morto.@ Mas se não consegue lutar, só pode morrer."@
+` Os passos dela.@
+` A Senpai se aproxima.
+\
+`"[line=7]!"@
+` Dou um salto.@
+` Minhas costas, meus ombros, meu braço estão quase todos mortos, mas dou um salto como se não fosse nada.@
+br
+` [line=3]Eu mesmo não consigo acreditar.@
+` Ainda com a respiração descontrolada e com uma velocidade que se iguala à da Senpai, corro para dentro do prédio da escola.
+\
+wavestop
+bg #000000,lcartain,400
+!w1000
+play "*8"
+bg "bg/bg_11c",lcartain,400
+` *arf*, *arf*, *arf*, *arf*[line=5]
+` Eu corro.@
+` Sem pensar, só querendo fugir, continuo correndo.
+\
+` *arf*, *arf*, *arf*, *arf*[line=5]
+` Mas estou no meu limite.@
+` Será que é porque estou sem fôlego ou é por causa dos meus ferimentos que não consigo mais mover meus braços e pernas?@
+` Seja o que for, não importa.
+\
+` Minha respiração fica mais forçada.@
+` No final do corredor.@
+` Ando sem rumo até chegar na parede, e então caio.@
+` Caio de costas, tento me levantar e me sinto um tolo ao fazer isso.
+\
+` …… *arf*…… *arf*…… *arf*
+` Sentando de pernas cruzadas no chão, me apoio de costas contra a parede.@
+` Jogando a cabeça para trás, tomo um grande fôlego.
+\
+`"[line=5]A lua."@
+` Vejo o luar pela janela.@
+` Será que é porque estou tão exausto?@
+` Tudo que vejo parece vago, como se tudo estivesse coberto por uma névoa.@
+br
+` Vagueza.@
+` Isso significa indefinição?@
+` Igual a mim.@ Igual a pessoa chamada Tohno Shiki, indefinido.
+\
+`"…… A…… i……"@
+` Meu ombro lateja de dor.@
+` Se eu fosse tão definido quanto essa dor, talvez isso não teria acontecido.
+\
+` Estou começando a não entender.@
+` Sempre pensei que eu fosse Tohno Shiki.@
+` Mas ele era uma pessoa diferente, e me dizem que sou apenas um filho adotado de algum lugar.@
+` Por ter sido adotado, eu deveria ter lembranças de antes de ir para a mansão Tohno, mas não tenho nenhuma.@
+` Eu…… realmente[line=4]só tenho as lembranças de Tohno Shiki.
+\
+bg #000000,crossfade,400
+bg "bg/ima_01",crossfade,400
+` No céu noturno paira a lua solitária.@
+`"[line=4]"@
+` É incrivelmente… estranho.@
+` Por que não havia percebido isso até agora?@
+` Esta noite está tão[line=3]
+\
+bg "bg/bg_11c",crossfade,400
+br
+` …… No final das contas, exatamente o que sou eu?@
+` É uma estupidez não saber nada sobre mim mesmo e simplesmente desaparecer desse jeito.@
+br
+` Tudo é tão vago, tão estúpido.@
+` Um mundo onde posso ver a morte.@
+` Uma visão que me faz compreender a morte.@
+` Aquele dia, oito anos atrás.@
+` Conheci a Sensei e fui capaz de viver uma vida normal.@
+` Ainda posso dizer que foi conveniente conhecê-la.
+\
+`"…… Mas Sensei.@ Eu acho que[line=4]sou alguém[line=4]que não deveria estar vivo."@
+` …… Eu deveria acabar com a minha vida enquanto uma parte de mim ainda consegue pensar dessa forma.@
+` Mas não posso fazer isso.@
+` Não posso me matar.@
+` Mesmo que não faça sentido, mesmo que seja um erro, quero continuar vivendo.
+\
+` Se eu morrer, tudo vai se transformar em uma mentira.@
+` Quero continuar vivendo.@
+` Não importa o quão errado seja, não importa quantas coisas tenha que perder, quero continuar vivendo.@
+br
+` Apenas ela.@
+` Se tivesse apenas a Ciel-senpai comigo.@ Não me importaria com o que tivesse que perder.
+\
+br
+br
+br
+br
+br
+` [line=3]Por esse único motivo, eu continuaria vivendo assim.@ Mas está tudo acabado agora.@
+` Estes últimos cinco anos.@ Foi um longo tempo?@ Foi um tempo curto?@ Não faço ideia.
+\
+`"…… Mentirosa."@
+` Não quero ouvir essas palavras.
+\
+br
+br
+br
+br
+br
+` [line=3]Tenho que agradecê-lo, Tohno-kun.@
+` Meu trabalho aqui está pronto.@ Tudo que me resta fazer é assumir a responsabilidade pelas minhas ações.
+\
+`"…… Menti[line=2]rosa."@
+` Mas talvez existisse alguma verdade nisso também.@ Porque mesmo que ela tenha me enganado, nem mesmo por uma vez…
+\
+br
+br
+br
+br
+br
+` [line=3]Obrigada por tudo até agora.@ Fazia muito tempo que não me sentia tão feliz assim.@
+` Vamos terminar tudo com um aperto de mãos.
+\
+`"…… Sua[line=4]grande mentirosa."@
+` Nem mesmo por uma vez ela mentiu para mim.
+\
+br
+br
+br
+br
+br
+` [line=3]Mesmo eu não estando aqui, continue sendo amigo do Inui-kun.@
+` Eu queria ser uma estudante como vocês dois[line=4]
+\
+`"…………………"@
+` Mas aquela pessoa era uma mentira.@
+` Não consigo nem imaginar que aquele sorriso poderia ser de mentira.
+\
+` Mas essa é a realidade.@
+` …… A Ciel é uma mentira e ela só ficou perto de mim para poder me matar.@
+` Eu fui enganado.@
+` Ela não me ama de verdade.@ E quando me ajudou quando eu estava completamente perdido, também foi mentira.@
+` E as horas que passamos juntos durante os intervalos, também foi mentira.@
+` Tudo aquilo foi apenas para confirmar se eu era o Roa ou não.
+\
+` Cerro os dentes.@
+` Cerro os dentes com força.@
+br
+`"…… Droga."@
+` Arranho a parede, frustrado.@
+` Sim, fui enganado.@
+` A Ciel se aproximou de mim calculando tudo.
+\
+`"…… Mesmo assim."@
+` Sentindo uma dor no coração, arranho a parede.@
+` …… Sim, fui enganado.@
+` Mas mesmo assim[line=4]
+br
+`"[line=3]Eu não consigo odiar a Senpai."@
+!w1000
+\
+` Não há como odiá-la.@
+` Mesmo que para ela tenha sido tudo apenas mentira, eu gostei muito.
+\
+` Isso continua sendo verdade, o resto não importa.@
+` Faz menos de duas semanas que conheci a Senpai mas[line=3]eu estava feliz de verdade.@
+br
+`"…… Droga[line=5]"@
+` É por isso que não consigo odiá-la.@
+` Mas essa é uma ilusão apenas para mim.@
+` É por isso que me arrependo apenas disso.
+\
+bg "bg/ima_01",crossfade,400
+` Minha visão oscila.@
+` Do lado de fora da janela jaz a noite clara.@
+` Está quieto aqui, como nas profundezas do oceano.@
+` Oscilando calmamente.@
+br
+` Tudo é falso, uma ilusão que desaparece quando você se aproxima dela.@
+` Como uma miragem que você nunca consegue alcançar.@
+playstop
+!w2000
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+wave se_08
+` Posso ouvir seus passos.@
+` …… Ela está vindo.@
+wave se_08
+br
+`"[line=4]Matá-la?"@
+br
+` Dentro da minha cabeça, ouço essas palavras.@
+` Se não quiser morrer, corte-a em pedaços.@
+wave se_08
+` Se você acha que não está errado, corte-a em pedaços.@
+` Corte-a em pedaços logo!@
+wave se_08
+` Corte-a em pedaços.@ Corte-a em pedaços, Corte-a em pedaços, Corte-a em pedaços, Corte-a em pedaços, Corte-a em pedaços, Corte-a em pedaços, Corte-a em pedaços, Corte-a, corte-a, corte-a, corte-a, cortecortecortecortecortecortecorte[line=7]
+\
+`"[line=6]"@
+` …… Parece que realmente estou acabado.@
+wave se_08
+` Minha cabeça começa a se enfurecer novamente.@
+` Mesmo assim, ainda não quero morrer.@
+` Se não quiser morrer[line=3]só há uma coisa a fazer.@
+br
+wave se_08
+` Os passos ficam mais altos.@
+` A sombra dela fica maior.
+\
+br
+` [line=3]Não vai tirar os óculos?@
+br
+` Mesmo sabendo o que isso significava, ela disse aquilo.@
+` Nesse caso.
+\

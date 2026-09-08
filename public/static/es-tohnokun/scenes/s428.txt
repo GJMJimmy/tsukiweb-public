@@ -1,0 +1,121 @@
+playstop
+wavestop
+bg "bg/bg_06g",notrans,0
+`"[line=10]"@
+` Los pasos se acercan.@
+` [line=4]Sólo tengo una oportunidad.@
+` En el instante en que deje atrás el salón, saltaré hacia el pasillo y la atacaré.@
+` Si la distancia es demasiado grande, seré asesinado al igual que SHIKI.@
+`"[line=10]"@
+` Los pasos continúan.@
+` …… Una distancia aproximada de dos metros.@ Con el ritmo que lleva, deberían ser unos ocho pasos.@
+`"……………… De acuerdo."@
+` Me muevo silenciosamente y coloco mi mano sobre la puerta.@
+` Tap, tap.@ El fuerte sonido de sus pasos se acerca más.
+\
+` Uno.@
+`   Dos.@
+`     Tres.@
+`      Cuatro.@
+`        Cinco.@
+`          Seis.@
+`            Siete.@
+`              ¡Ocho……!
+\
+!w2000
+` Los pasos se detienen ahí.@
+` Todavía no ha pasado por el salón.@
+` Simplemente se queda parada en el otro lado de la puerta.@
+wave se_01
+!w2000
+br
+`"Qué[line=7]"@
+` El tiempo se detiene.@
+` Palpitar.@ El interior de mi cabeza se retuerce dolorosamente.@
+br
+wave se_01
+!w2000
+`"[line=10]"@
+` ¿Ella lo sabe?@ ¿Ella lo sabe?
+\
+wave se_01
+!w2000
+` ¿Entonces qué debería hacer?@
+` No puede entrar al salón a menos que abra la puerta.@
+` Necesita entrar al salón para poder verme.@
+wave se_01
+br
+` Así que[line=3]mientras esta puerta esté cerrada, no puede matarme.
+\
+waveloop se_02
+`"[line=9]"@
+` …… Entonces no importa.@
+` Si intenta abrir la puerta, está bien.@ Simplemente será una batalla para determinar qué es más rápido: mi "corte" o su "mirada".@
+` Calma.@
+` Respiro profundamente.@
+` Pero eso no cambia el hecho de que estoy en desventaja.@
+` Todo lo que Akiha necesita hacer es mirar.@
+` Pero yo tengo que ver las "líneas" sobre su cuerpo y entonces cortarlas con mi cuchillo.@
+` Como tengo que hacer un movimiento adicional, aunque esté dentro de mi alcance, no puedo decir que tengo ventaj[line=4]
+\
+wave se_08
+`"[line=7]¿Eh?"@
+` De repente,
+` la ventana explota con un estrépito.@
+wave se_10
+bg #9c0120,notrans,0
+quakex 3,50
+`"Qué[line=5]"@
+` Mi cerebro se congela.@
+` Pierdo instantáneamente toda sensación en mis brazos y piernas.@
+` Mi cuerpo se eleva y es arrojado violentamente contra la pared.
+\
+bg #000000,tshutter,400
+`"¡Ha[line=4]ah[line=4]!"@
+` Mi campo visual se reduce a nada.@
+` El agua en mis ojos se evapora instantáneamente y no puedo ver nada.@
+` No sé nada sobre lo que está ocurriendo en el mundo exterior.@
+` Lo único que puedo entender es lo que estoy haciendo.@
+` Estoy suspendido en el aire, y al igual que Kohaku-san anteriormente, soy crucificado a la pared por el cabello de Akiha.
+\
+play "*4"
+`"Qué descuidado.@ No soy nada comparada con un asesino innato como tú, Nii-san, pero también puedo esconder mi presencia.@
+` Eso es lo que hice, y mientras le prestabas tanta atención al pasillo, vine desde el salón de al lado.@ La próxima vez, deberías aprender de la experiencia y prestarle atención a la ventana también."@
+` Ella ríe tontamente.@
+`"¡Ah[line=8]gg!"@
+` Mi cuello está siendo sofocado.
+\
+` Mis extremidades no sienten nada, como si hubiesen sido cortadas.@ El cabello de Akiha está saturando mi cuerpo.
+\
+`"Ah, eso fue grosero.@ No hay ninguna 'próxima vez' para ti, Nii-san.@
+` Además, lo siento, Nii-san.@ Fue grosero devorarte instantáneamente.@
+` Aunque consumí la mayor parte de ti en el calor del momento, todavía estás consciente, ¿verdad?@ Por favor perdona mi falta de modales, lo haré bien esta vez."
+\
+br
+!w2000
+br
+br
+br
+br
+br
+br
+` [line=4]Bien, entonces te devoraré.@
+`     Adiós, Nii-san.
+\
+bg #ffffff,crossfade,800
+`"[line=10]"@
+` Mi cuerpo se quema.@
+` El Cerrojo de Cabello quema mi mente e incluso mi alma.@
+br
+` Palpitar.@ Puedo escuchar mi último latido.@
+br
+` …… Qué, estúpido.@
+` A pesar de tener tanta información, Nanaya Shiki ha terminado igual que Tohno SHIKI.
+\
+!w3000
+bg #000000,crossfade,400
+playstop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

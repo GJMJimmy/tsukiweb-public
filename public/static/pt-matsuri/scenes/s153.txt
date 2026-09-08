@@ -1,0 +1,51 @@
+monocro off
+wavestop
+playstop
+bg "bg/bg_06b",crossfade,800
+` …… Como esperado, o debate sobre o que fazer para o Festival Cultural é bem agitado.@
+` Como as opiniões de todos são diferentes, a decisão foi adiada para a semana que vem.@
+` Quando a reunião termina, já está no final da tarde.@ Todos se levantam cansados e deixam a sala de aula.@
+br
+`"[line=4]Muito bem."@
+` Não tenho mais nada para fazer aqui.@
+` Vou voltar para a mansão e me preparar para a noite[line=3]
+\
+bg #000000,lcartain,1500
+bg "bg/bg_32b",lcartain,1500
+play "*1"
+` Não passo em nenhum outro lugar, vou direto para a mansão.@
+` O sol ainda não se pôs, então a Akiha não deve ter chegado em casa.
+\
+`"A Akiha.@ Espero que ela não esteja tão brava quanto hoje de manhã……"@
+br
+` …… Bem, não posso fazer nada quanto a isso.@
+` Eu não posso contar a verdade, por isso vou continuar a ser odiado como um irmão mais velho terrível.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33b",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Bem-vindo de volta, Shiki-sama."@
+` A Hisui faz uma mesura quando entro em casa.@
+`"…… Estou de volta.@ Obrigado por me receber, Hisui."@
+` [line=3]Já tem uma semana que voltei para essa casa, mas ainda não me acostumei com isso.
+\
+`"Hum, a Akiha ainda não chegou?"@
+`"Não.@ Ela me pediu para lhe informar que chegaria mais tarde hoje e que você poderia jantar sozinho, Shiki-sama."@
+cl c,crossfade,400
+` …… Eu sabia, ela ainda está brava por causa de hoje de manhã.
+\
+`"[line=4]Suspiro."@
+` Eu relaxo os ombros e começo a ir para o meu quarto.@
+` [line=3]E então,
+br
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama."@
+` a Hisui olha em volta do saguão antes de falar novamente.
+\
+`"Perdoe-me por fazer uma pergunta tão estranha; você vai sair novamente esta noite, Shiki-sama?"@
+`"Hã[line=4]?"@
+` Ela me encara com seus olhos sem emoções.@
+` Acho que ela só quer saber a que horas vou voltar porque é uma empregada muito dedicada, mas se ela souber, a Akiha também vai saber.@
+` Eu[line=3]
+br
+cl c,crossfade,400

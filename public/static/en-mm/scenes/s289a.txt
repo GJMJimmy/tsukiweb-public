@@ -1,0 +1,1475 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+!w4000
+bg "bg/bg_28b",crossfade,800
+` Night hangs over the park.@
+` In the middle of my hazy vision, there is one figure that looks clear.@
+`"[line=6]"@
+` For some reason, it seems like the other "me" wanted this.
+\
+br
+` The moonlight is strong.@
+` Under the light as bright as the sun.@
+` There, Arcueid stands dressed in white.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"It's been a while.@ Isn't it a wonderful moon tonight, Shiki?"@
+`"[line=2]Arcueid.@ Didn't you go back?"@
+ld c,"tachi/ark_t05c",crossfade,400
+`"No, I haven't fulfilled my objective yet.@ I can't go back before then, can I?"@
+br
+` [line=3]Effortlessly.@
+` Arcueid looks at me with crimson eyes.
+\
+`"Ts[line=6]"@
+` My breathing stops in my throat.@
+` An unnatural pressure, nothing like when I confronted Senpai.@
+`"Arcueid…… What are, you[line=3]"@
+` Planning to do.@ But I couldn't finish.
+\
+wave se_01
+bg "bg/ima_13b",crossfade,400
+bg "bg/bg_28b",crossfade,400
+` …… My vision wavers.@
+` Inside my head, someone other than me continues to scream.@
+` Almost like a beast howling at the moon.
+\
+ld c,"tachi/ark_t05c",crossfade,400
+`"…… Hmm.@ You're not running away, so you're prepared?"@
+` Her red eyes stare at me, as if she is looking at a hated enemy.@
+`"A[line=6]"@
+` I can't breathe.@
+` My throat doesn't move.@
+` If I do such extraneous movement[line=3]she would tear it out at that moment.
+\
+`"Then I'll kill you, but do you have any last words?"@
+wave se_01
+`"[line=9]"@
+` I'm so scared I can't even speak.@
+` But, if I could speak[line=3]I want to ask her why she wants to kill me.
+\
+`"Eh[line=3]?@ No way, I can't believe it.@ You haven't realized it yet?"@
+cl c,lshutter,400
+` With a giggle, Arcueid takes a step closer.@
+br
+` The dry sound of her footsteps echoes through the park.
+\
+br
+br
+br
+br
+br
+br
+`"I was also deceived.@ I didn't think you were Roa."
+\
+` Saying that,
+` she shows just a brief moment of pity.@ Then, her eyes light up with pure delight like a happy child.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_28b",crossfade,800
+play "*4"
+` Snap.@
+` Something cracks in my head.@
+` It was a definite, most terrible, already nonfunctional, desperate crack.
+\
+`"Wha[line=6]"@
+` My voice leaks out.@
+` What.@
+` What is she saying?@
+ld c,"tachi/ark_t01a",crossfade,400
+`"So how is it, Shiki?@ How does it feel to have Roa inside you?"@
+` The white vampire princess speaks with a kind voice as she stares with hostility.@
+`"I[line=5]I."@
+` I don't know about this Roa guy.@
+` What's inside me is only this inexplicable urge to destroy things.@
+` Like trying to kill Kohaku-san without any reason, and getting pleasure out of seeing it.@ That's, all[line=5]
+\
+`"Oh[line=4]"@
+` In other words.@
+` That black, sudden impulse.@
+` That's Roa?
+\
+`"[line=3]No.@ That, can't be true."@
+ld c,"tachi/ark_t05a",crossfade,400
+`"You can't play dumb.@ In the first place, Roa was made into a Dead Apostle by me.@
+` It's very easy for me to tell where the person who stole my power is."@
+`"[line=4]That's, a lie."@
+` Saying that, I fall into despair.@
+` With those words[line=3]I can't even deceive myself.
+\
+`"I don't know why.@ There have been seventeen reincarnations before this, but this is the first time this has happened."@
+` She doesn't look like she intends to take another step forward.@
+` …… No, there's no need.@
+` The distance between me and Arcueid is about seven meters.@ But even if it was ten times that, Arcueid could chop off my neck instantly.@
+br
+` This is well within her range.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_28b",notrans,0
+` [line=3]Thump.@ A rumbling starts.@
+` Is that my instinctual reaction to life-threatening danger?@
+` Or[line=3]is that the ferocity of Roa residing in my brain?
+\
+`"…… Ar…… cueid."@
+` I put my hand in my pocket.@
+` The hard sensation of my knife gathers up my splintering consciousness.
+\
+ld c,"tachi/ark_t05d",crossfade,400
+`"It seems you finally admit it, Shiki.@
+` You feel the Roa inside you too, right?@
+` Back then, the instant Roa's reincarnated body was killed, he transmitted himself into you.@ I don't understand how it happened."@
+` …… Crimson, eyes.@
+` Being stared at by them, my headache returns again.@
+` Thump, Thump.@
+` Inside my head.@
+` The vampire called Roa, is wanting to emerge.
+\
+`"[line=7]"@
+` …… It hurts.@
+` Just having Arcueid say his name enrages the memories of this guy in my brain.@
+br
+` Throb.@
+` Throb.@
+` Thro[line=6]b
+!w1000
+\
+bg #ffffff,crossfade,800
+!w750
+bg "bg/bg_28b",crossfade,400
+ld c,"tachi/ark_t06",crossfade,400
+`"You're pretty composed.@ You're in front of me and not even running away.@ I thought you would run away the instant you saw me."@
+`"…… I… won't do, that.@ Why, would I have, to run away?"@
+` Resisting the pain in my head, I reply.
+\
+`"[line=3]Hm?@ I'm surprised you can still bluff.@ I really thought over half of you was taken over by Roa already[line=3]I see, that's how it is."@
+` Her voice sounds happy.@
+` …… I don't know what's making her so happy, but it seems she still has some humanity left in her.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"I've changed my mind.@ If you do as I say, I won't kill you.@ How's that?"@
+` Arcueid looks at me as she says this, happiness coloring her voice.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_28b",notrans,0
+br
+br
+br
+br
+br
+` [line=3]Another headache.@
+` Inside my head, Roa screams at me not to trust this woman.
+\
+`"…… What do you mean?@ Don't you want to kill Roa?@ Then…… there's no way you'll let me go, right?"@
+ld c,"tachi/ark_t05a",crossfade,400
+`"Yes, once I decide something, it will be done.@ I will get at Roa for sure."
+\
+ld c,"tachi/ark_t05d",crossfade,400
+`"But Shiki, the Roa inside you is very weak.@
+` He probably can't take away a person's will unless he's born into their body.@
+` He somehow managed to transmit himself to you, but that was all he could do.@
+` The Roa who was just trying to escape couldn't establish control over you.@ He is only able to live as your dark side."@
+br
+`"…… That,"@
+` Does that mean Roa's will is almost nothing in me……?
+\
+`"Arcueid, that[line=3]"@
+ld c,"tachi/ark_t05a",crossfade,400
+`"Yes.@ There's no need for me to kill you if that's the case.@ I'm fine just having the power Roa stole from me working under me."@
+`"[line=4]?"@
+` There's no need for me to be killed is what she's saying.@
+` So why did she come to see me?@
+` Why[line=3]does she look at me with those serious eyes?
+\
+`"…… I don't understand.@ What are you trying to say, Arcueid?"@
+ld c,"tachi/ark_t05b",crossfade,400
+`"I am telling you to become my servant."@
+`"[line=8]Eh?"@
+cl c,crossfade,400
+` [line=3]She doesn't seem like she's joking.@
+` When Arcueid and Senpai were fighting, she said it was just a joke.
+\
+`"…… What?@ That wasn't a joke?"@
+ld c,"tachi/ark_t05d",crossfade,400
+`"No.@ I like you.@ So isn't it natural for me to want you by my side rather than to kill you?"@
+br
+` [line=4]Snap.@
+br
+` With that line, my headache pounds more than it ever has before.@
+` Roa.@ The guy inside my head rages against her words.@
+` …… I don't know if that comes from delight or from deep jealousy.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"If you are willing to become my servant, I will stop Roa from consuming you.@
+` I don't think you even need to think about it, seeing how Roa will consume you like this."@
+`"…… You say it so simply, but how do you intend to stop this Roa inside me?"@
+`"Huh?@ The only one who can stop Roa is you, Shiki.@
+` But that method would mean your death.@
+` My method is simply strengthening you.@ As long as your will is stronger than Roa's, then it doesn't matter how much he rages in you, right?"
+\
+cl c,crossfade,400
+` Something bursts in my head again.@
+` Roa keeps raging.@
+` Don't let her fool you, he rages.@ This woman wants to make you her puppet.@
+` …… I don't intend to give in to that impulse.@
+` But, I agree with Roa.@
+` I want to stay as myself.@
+` To become Arcueid's servant to get away from Roa is getting my priorities wrong.@
+br
+` And, in the first place,
+` there is Ciel-senpai.@
+` If I go to school tomorrow and talk to her about it, I bet she can come up with a solution to this[line=3].
+\
+`"…………"@
+` Gritting my teeth, I resist the pounding in my head.@
+` I take off my glasses,
+` and get my knife from my pocket.@
+` I take the blade out and hold it at eye level.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=4]Shiki."@
+`"I refuse.@ Sorry, but I won't be yours to possess."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"I see.@ Then, I guess it'll just have to be by force."@
+br
+` A hard footstep cracks through the air.@
+br
+`"You killed me once, so I always thought I should pay you back."@
+cl c,lshutter,400
+` Her white figure rushes forth with a gust of wind.@
+playstop
+br
+` [line=4]In that instant,
+` the fight begins.
+\
+bg #000000,lshutter,400
+wave se_12
+bg "bg/ima_14",lshutter,400
+wave se_12
+` Clang!@
+` Her claws meet my knife.@
+br
+` Under the golden moon, even if she is my enemy, her figure is still beautiful.
+\
+wave se_12
+` Clang!@
+` We repel each other again.@
+` To be honest, I can't even see her movements.
+\
+wave se_12
+` Clang!@
+` We repel each other once more.@
+` Arcueid isn't serious at all.@
+` But still, it should be easy for her to rip off my arms and legs.
+\
+wave se_12
+` Clang.@
+` We repel each other again.@
+` My body moves without thinking.@
+` My arms and legs, this body, with just the intention of not dying, fends off Arcueid's claws by itself.
+\
+`"Tch[line=5]"@
+` My lips curl in irony.@
+` I don't want to admit it, but it seems my body has become beyond that of a human's.@
+` In the dead of night, it seems Tohno Shiki has become like SHIKI, probably able to easily jump off the third floor of a building and be just fine.
+\
+` Cl, ang.@
+` But, this is it.@
+` From the very start[line=3]I knew I couldn't win against Arcueid.@
+` First of all, I can't see any "lines" on her.@
+br
+` I have no way of hurting her.@
+` Arcueid said it once.@
+` That during nighttime, there is nothing which can cause her death.
+\
+` Clang.@
+` She hits my knife.@
+` With just a swing of her arm, I fly through the air.
+\
+bg #000000,lshutter,400
+`"K[line=5]!"@
+` I manage to land on the ground and ready my knife.@
+` No matter how much I look, I can't see any "lines" on her.@
+`"Damn it.@ What nonsense you are……!"@
+` [line=4]Yes, I am so right.@
+` In the deep night without the mercy of the sun,
+` facing the princess of the moon is too reckless.
+\
+bg "bg/bg_29b",lshutter,800
+`"Ha[line=4]ah, ha."@
+` My throat is burning.@
+` My heart feels like it'll explode.@
+` I realize that since I saw her tonight, I was under the pressure of her crimson eyes and I haven't been able to breathe well.
+\
+ld c,"tachi/ark_t01a",lshutter,400
+`"Have you realized it yet?"@
+` She isn't even out of breath.@
+` Even though I'm gasping for air and my heart feels like it'll stop, she's completely relaxed.
+\
+`"Damn[line=4]What about you, have you cooled your head[line=4]"@
+` Trying to control my breathing, I step back from her little by little.@
+` …… Arcueid isn't fighting me seriously at all.@ She doesn't have the pressure like Roa or Nrvnqsr, I never thought I would feel this much difference between us.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Oh well.@ It seems you won't understand until you die once, Shiki."@
+` She gives an impatient sigh.@
+cl c,notrans,0
+` Arcueid stands directly behind me.@
+quakey 3,100
+bg #000000,notrans,0
+wave se_05
+`"Gh[line=4]!"@
+` I hear a sound from behind my head.
+\
+` [line=4]There's not even time to blink.@
+` She effortlessly pushes me to the ground.@
+` Her body pushes up against my shoulders.@
+` I'm down.@
+` In an instant, without me knowing what's going on, Arcueid has pinned me down.
+\
+bg "event/ark_e04b",crossfade,400
+waveloop se_02
+`"[line=6]"@
+` Arcueid glares at me without speaking.@
+` Her body weight against my shoulders.@
+` She stops as if hesitating over what to do with me.@
+`"[line=6]"@
+` I gasp.@
+` But, it might have been just her silence.
+\
+`"[line=6]"@
+` This close.@
+` Now that we are so close[line=3]I may be able to see it.
+\
+` [line=6]I stare at her body.@
+br
+` The core of my brain screams in protest.@
+` Completely unlike the pain of my headache before[line=3]as if it really were tearing itself apart.
+\
+`"[line=7]"@
+` But it's no good.@
+` I can't read the "death" from an existence like Arcueid.@
+` Daytime might be different, but at night, she is close to being a perfect life form that doesn't even carry the concept of death.
+\
+`"…… What do you intend to do with Roa, Arcueid?@ You said you wouldn't kill me, but as long as I live, Roa will still be alive."@
+`"I don't care about a diluted Roa.@ …… Yes, that's why I could have let you go, Shiki."
+\
+`"[line=3]Oh, you don't have to hold back, go ahead and let me go.@ Don't worry about me and go home, back to your daddy."@
+`"But you know, isn't it natural for me to take back my own power?@ And more than anything else, I do like you."@
+br
+` Squeeze.@
+` The body weight on my shoulders becomes even heavier.
+\
+`"More than killing you and destroying Roa, I want to take you in."@
+br
+` So, I won't kill you,
+` her red eyes seem to say.
+\
+`"I can't believe it, but it seems I really like you.@ That's why I'll save you.@ I won't suck your blood, and I won't do anything you won't like."@
+` So please listen to what I tell you, her red eyes say.
+\
+` [line=3]Those are, without a doubt, her true feelings.@
+` But, I can't listen.@
+` She might be not on guard right now as the perfection is fading from her body.
+\
+`"…… Shiki.@ Or do you, hate me?"@
+` Her eyes look straight at me.@
+` I look at her face while being pinned down.@
+` Sincerely.@ [line=3]So strongly it might burn my brain.
+\
+`"…… I don't hate you Arcueid."@
+`"Really?"@
+` She sounds very happy.@
+br
+` …… My forehead is burning.@
+` As my brain throbs horribly, I definitely[line=3]
+br
+` See just one "line" of death.
+\
+`"Still, I have no intention of becoming your puppet……!"@
+`"[line=7]!"@
+` Her eyes brim over with anger.@
+` But before that,
+` I slice through the "line" on her neck.
+\
+bg "bg/ima_12",lshutter,400
+!w1000
+wavestop
+bg "bg/bg_29b",crossfade,400
+`"Ah[line=5]"@
+` Fresh blood spilling from her neck, Arcueid collapses.@
+` Slipping out from underneath her, I get away.
+\
+`"Ha[line=4]Ah."@
+` I am out of breath.@
+` I'm not hurt, but I can't run in this state.@
+` It's Arcueid, she should be able to heal such a wound and will come to attack me again[line=3]
+br
+`"Ar…… cueid?"@
+` She doesn't even move.@
+` Blood flowing over the ground, her white body is covered in vermillion.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=5]No way.@ Did I, kill her?
+\
+`"Wha[line=3]Arcueid, are[line=3]"@
+` Stopping my legs that tried to flee, I try to rush towards her body, but gasp.
+\
+wave se_01
+` One arm.@
+` One of her arms on her collapsed figure…… like a spider's leg, stands up on the ground.@
+br
+` In that instant,
+` the whole world freezes over.
+\
+monocro #ff0000
+bg "bg/ima_01",crossfade,800
+waveloop se_02
+br
+br
+br
+br
+br
+br
+br
+`   "I      Wi   l    l"@
+br
+\
+br
+` *pant*.@ *pant*.@ *pant*.@
+br
+` …… From her neck spills her blood, and her breath.@
+` Her arm tenses.
+\
+br
+br
+br
+br
+br
+br
+br
+`  "Ki  ll,    Yo   u,"@
+br
+\
+br
+`  *pant*.@ *pant*.@ *pant* *pant*.@ *pant*.@ *pant*
+br
+` …… The vermillion blood continues to flow.@
+` Her body lifts slowly from the ground.
+\
+br
+br
+br
+br
+br
+br
+br
+`   "I   Wi   l    l"@
+br
+\
+br
+` Heavy, rapid breathing turns into laughter.@
+br
+` …… Her white body stained in blood.@
+` She raises her face.@
+` I can see her eyes gleaming between her golden hair.@
+` Her eyes are pitch-black.@
+` And in them,
+` glows a fierce, fiery red.
+\
+br
+br
+br
+br
+br
+br
+br
+`   "I    will    kill   you."@
+br
+\
+br
+`  *pant*.@ *pant*.@ *pant*.@
+br
+`  *pant*.@ *pant*.@ *pant*.@ ha.@ a.@ ahahaha, ha.@
+br
+` Hahaha, ahahaha,
+br
+` Ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah[line=7]!!!!
+\
+bg "bg/ima_01",crossfade,800
+monocro off
+`"Ar[line=3]cueid."@
+` Her eyes are looking at nothing.@
+` She tries to lift herself up with one hand, but every time, she collapses back down to the ground.@
+br
+` She slips on her own pool of blood, and each time, her body gets redder.@
+` Over, and over.@
+` She tries to stand up, slips, and falls.@
+` …… It seems as if she's enjoying that cycle of failure.
+\
+br
+`"Ju st, wait."@
+br
+`"[line=7]"@
+` I can't move.@
+` Her voice, her figure, her will[line=3]flows compulsorily into my head.@
+br
+` My will is flowing, fusing, merging.@
+` The whole world spins around me.@
+br
+` In the middle of it all, her image dominates.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`          That's right.
+\
+` I have never felt such shame before.@
+` I have never been so disgraced.@
+br
+` [line=3]That's, why it's funny.@
+br
+` I can't even imagine how much pleasure I'll get when I take this anger out on you, Shiki.
+\
+br
+` Destroy.@ Destroy.@ Destroy.@
+` Slowly, completely, gently beyond comparison, cruelly to the point of numbness, I'll violate your life.@
+br
+` That's right.@
+br
+` The instant I tear off your limbs, rip open your chest and pull out your intestines, biting into your neck as you ask for mercy, chewing through your eyes and spreading your brains on the ground like butter[line=6]!
+\
+textcolor #ffffff
+bg "bg/bg_27b",crossfade,400
+`"Just wait, I'll kill you soon……!"@
+` Smiling, laughing insanely, Arcueid wallows in a sea of her own blood.
+\
+`"[line=4]"@
+` I can't move.@
+` This isn't good.@
+` Even Roa can't move.@
+` If I stay here, I really will be killed.
+\
+` I have to escape.@
+` It doesn't matter where, if I don't get away from here quickly, I will get killed.
+\
+`"Ah, Ah[line=5]"@
+` Wet, dripping sounds.@
+` In the pool of her own blood, Arcueid laughs insanely.@
+`"A ah, ah[line=5]"@
+` The blood spraying from her neck.@
+` Her slashed, fatal wound.@
+` Does it hurt that much?@
+` As if to mitigate the pain, she is chewing through her stomach, her arms, tearing herself apart.@
+br
+`"AAAAAaAAAAAA!"
+\
+bg #000000,lcartain,800
+` [line=4]I run.@
+` Thoughts of where and how don't even enter my mind.@
+` I am driven by fear, and I run away from this killing chamber.
+\
+wavestop
+!w2000
+bg "bg/bg_01c",lcartain,1500
+` *pant*[line=3]*pant*, *pant*[line=4]
+` I run to this place without even realizing it.@
+`"Ghaa[line=4]ah, ah."@
+` I'm out of breath.@
+` I'm so exhausted I can't take another step.@
+`"Ts[line=3]ah, ha, ah."@
+` But my legs keep moving.@
+` I'll be found in this place.@
+` I have to go inside and hide myself until morning or I'll die.@
+` Even while I'm resting like this, I bet she's looking for me[line=3]
+br
+\
+` I take off my glasses and cut the lock on the school gate with my knife.@
+`"Ah[line=4]kk."@
+` Opening the door, I walk inside the school grounds.
+\
+bg "bg/bg_02a",crossfade,800
+`"Ha………… ah."@
+` I fall to my knees as soon as I get to the school grounds.@
+` I brace myself off the ground using both my hands.@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+`"……………"@
+` My whole body is hot.@
+` I have to hurry inside the school building, but my legs won't move.@
+` More than my body, my heart and mind are completely worn out.@
+` This headache that won't stop.@
+` This Roa inside of me.@
+` …… And, the white vampire princess that continued to laugh insanely.
+\
+`"[line=4]Gg."@
+` Gorge rises in my throat.@
+` My mouth tastes bitter.@
+` I haven't eaten anything today, so all I can vomit is my stomach acid.
+\
+`"Ha[line=4]ah."@
+` Still on my knees, I collapse headfirst onto the ground.@
+`"Why…… did it end up, like this?"@
+` Breathing painfully, I give up trying to lift up my face.@
+` …… Even if she finds me, I don't care.@
+` I can't escape anyway.@
+` Away from Arcueid, or from Roa who is inside me.@
+br
+` Since that's the case[line=3]waiting here quietly for the end is easier for me.
+\
+!w3000
+wave se_09
+monocro #0000ff
+bg "bg/bg_02a",crossfade,400
+`"[line=3]?"@
+` It suddenly gets darker.@
+` The sound of footsteps.@
+` I didn't realize it since I was face down, but someone is coming.@
+br
+` Under the moonlight.@
+` Did that person darken the sky with her shadow?
+\
+`"Are you trying to repent, Tohno-kun?"@
+br
+` Ciel-senpai asks in a cold voice.@
+br
+`"[line=4]Senpai?"@
+` …… I lift my head in amazement.@
+` I don't know why she's here.@
+` But, I wanted to rely on something right now, and I lift my face to meet the night air.@
+monocro off
+bg "event/cel_e06",crossfade,1500,bottom
+br
+`"[line=4]Eh?"@
+br
+` [line=3]But this.
+\
+bg "event/cel_e06",tscroll,1500,top
+br
+br
+br
+br
+br
+br
+br
+` [line=3]This Ciel before me,
+` she isn't the one that I know.
+\
+` Her bare arms have the tattoo of a cross on them.@
+` Her cold eyes, as if watching someone she doesn't even know.@
+` …… Senpai bears an uncouth weapon with an aura of coldness that doesn't suit her.
+\
+`"[line=7]Ah."@
+` …… I know this.@
+` Inside my brain, I know what weapon this is.@ That has to be[line=3]what's called the Seventh Holy Scripture, one of the apocrypha that must never be removed from its resting place.@
+br
+`"Sen[line=3]pai?"@
+`"As I expected, you were Roa after all, Tohno-kun."@
+` With her frigid eyes,
+` Senpai speaks with a voice that is equally cold.
+\
+`"[line=4]"@
+` I start to feel a shiver up my spine.@
+` For no reason.@ No, my instincts and my brain work full force to tell me the danger, and I jump back.@
+br
+`"[line=6]"@
+` Still with her mouth shut, she takes a step towards me with that ominous weapon.@
+` …… She has no openings whatsoever.
+\
+` If I run away hastily,
+` if I show my back to her, I know that thing will pierce my heart and I will disappear without the opportunity for reincarnation ever again.@
+br
+` …… Even though I don't even have that knowledge in my memories.
+\
+`"[line=3]Senpai.@ Why are you doing this too[line=3]?"@
+br
+play "*8"
+`"I understand.@ Roa is already surfacing, right?@ Then it is too late already."@
+` Lightly,
+` she takes another effortless step forward.@
+br
+` That figure looks like[line=4]
+\
+`"[line=3]What are you doing, Senpai?@
+` You look like[line=3]you're, going to kill me."@
+`"[line=5]"@
+` She doesn't answer.@
+` She just stares at me like she's trying to find out where she can aim to kill me quickly.
+\
+`"[line=3]Sen, pai."@
+` She's serious.@
+` She seriously, plans to kill me.@
+br
+` [line=3]Creak.@
+` My nerves feel the imminent death before me.@
+` My spine is screaming and the back of my neck is numbing.@
+br
+` But[line=3]more than this fear of death,
+` I can't believe this person is saying such things.
+\
+`"[line=4]Why?"@
+` I don't know.@
+`"Senpai, you said you stayed here for my sake."@
+`"[line=6]"@
+` With a start,
+` Ciel-senpai's legs stop.@
+br
+` She looks at me and grins.
+\
+`"Your goodness really is a rare treasure.@ It is a good thing to trust people, but if you were a little more composed and thought about it clearly, you could have maybe got away."@
+`"Eh[line=3]"@
+`"First of all, didn't you ever think about why I came to this school in the first place?"@
+` I didn't do it just because I wanted to, you know."
+\
+`"[line=6]Sen, pai?"@
+`"You knew my goal was to destroy 'The Serpent'[line=3]Roa.@
+` Coming here to this school was because I knew Roa's reincarnated host was here.@ But since I didn't know for sure, I needed to check things out for a while."
+\
+`"Wait a minute, what in the world are you[line=3]"@
+` What is she babbling about?@
+` I don't know.@
+` I really can't understand what she's talking about.@
+` She ignores my bewilderment and keeps talking.
+\
+`"…… I told you before, Tohno-kun.@ Roa has requirements for the family he decides to reincarnate into.@
+` If you think the other way around, you just have to look for families with those traits.@ When you know that, finding him is very simple.@
+` It's easy to find families that have special abilities passed down through their blood once you do a bit of research.@ In this city, there is only one family that fits Roa's requirements.@
+` So[line=3]I knew from the beginning who Roa was."
+\
+`"[line=5]Wha[line=2]"@
+` That's strange.@
+` If she knew from the beginning, she could have killed him or caught him right then……@
+` From the beginning?@
+` She knew, who it was……?
+\
+`"Yes.@ Look, don't you realize it now?@
+` You know, Tohno-kun.@ I came to this school to catch you from the beginning."@
+br
+`"[line=14]"@
+` Wait.@
+` I just want, her to, wait.
+\
+`"But, a little mistake happened.@
+` …… I was watching you from afar so as not to stimulate Roa inside you, but I concluded that you might not be Roa's new reincarnated host.@
+` But, the eldest son of the Tohno family had to be what Roa reincarnates into.@ There is no mistake in that, so what had to be a mistake was you, Tohno-kun."@
+` Ciel-senpai speaks matter-of-factly.@
+` I[line=3]can't say anything.
+\
+`"Looking into it, you were fatally wounded eight years ago and adopted by your relatives.@
+` What happened afterwards was exactly as Tohno SHIKI said two nights ago.@
+` I don't know what happened in the Tohno family eight years ago, but you were killed by that kid called SHIKI.@ No, it's more like your life was stolen.@
+` As a result, you became connected to SHIKI who was Roa's host."
+\
+` A direct voice, without emotion.@
+` I don't know this Ciel-senpai.@
+` Or is this…
+` Is this the true Ciel, and the kind person I knew up until now was all just[line=4]
+\
+`"Up until now, there should have been times where Roa's memory would flow into you through SHIKI.@
+` He is a vampire that manipulated the shapeless thing called a soul.@ For Roa, you two who shared one life were a finely crafted double existence.
+\
+`"That's why[line=3]when SHIKI's body was destroyed, Roa didn't need to reincarnate.@ He still had a place to run to: you."@
+` Cold.@
+` As if hating her enemy, she detests me.
+\
+`"But, it's all over now.@ I wasn't prepared to finish it so suddenly that one night, but tonight is different.@
+` I really am fortunate in a way.@ If Arcueid had destroyed Roa, he probably would have reincarnated again."@
+` …… I can't.@ Believe this.@
+` That[line=3]that…
+`"[line=4]That's not, true."
+\
+`"Go ahead, please keep on denying it and play dumb.@ That makes my job easier.@ Still[line=3]"@
+br
+` A metallic rattle sounds from the weapon.@
+br
+`"It doesn't change the fact that I can finish you off easily no matter what you do, Roa."
+\
+`"[line=7]"@
+` Her laughing voice causes me to finally understand.@
+` …… She isn't lying.@
+` …… Her eyes aren't looking at "me".
+\
+` …… Her feelings never did have anything to do with "me" from the beginning.
+\
+`"…… What is this?@
+` Then, then from the very beginning, you always thought of me as Roa?@
+` Senpai.@ Being friends with me was all just……………!"@
+br
+` [line=3]I can't say it.@
+` I can't finish the sentence.@
+` If I do that, I feel like everything will turn into a lie in that instant.
+\
+`"Of course.@ After SHIKI was destroyed, the only reason why I stayed in school was because Roa had not disappeared.@ Since Roa is a student here, it's more convenient for me to stay."@
+br
+` I would never go back while leaving you here.@
+br
+` Senpai said that with a smile.@
+` That wasn't, for my sake.@
+` She stayed here just to search for the still-living Roa.@ That is the only reason why she gave me her phone number.
+\
+`"[line=4]Ha."@
+bg #ffffff,crossfade,400
+monocro #ffffff
+bg "event/cel_e01",crossfade,400
+` Then, that too.@
+br
+`"Haha[line=3]"@
+bg "event/cel_e02a",crossfade,400
+br
+` And those times, too.@
+br
+`"Haha[line=4]ha."@
+bg "event/cel_e03a",crossfade,400
+br
+` And when she saved me that one night, too.@
+br
+`"Ah……… ha, ha."@
+bg "event/cel_e05b",crossfade,400
+br
+` And, those sad eyes, too.@
+bg #000000,crossfade,400
+\
+monocro off
+bg "bg/bg_02a",crossfade,400
+`"Haha[line=3]ha."@
+` …… That's right, Shiki, this is nothing at all.@ These memories[line=3]they are nothing at all.
+\
+` I just thought I loved her.@
+` And that she loved me back.@
+` …… What a joke.@
+` They were all just an illusion made from a play.@
+br
+` [line=4]All of it.@
+` All of it was a fairy tale made up of lies[line=3]
+\
+`"[line=3]I understand.@ But, Senpai.@
+` How did you know Roa was still alive?@ How, how did you know Roa reincarnated into this Tohno Shiki?"@
+ld c,"tachi/cel_t06c",crossfade,800
+`"Of course I knew.@ Because it's about myself." Senpai says something I can't understand.
+\
+bg #000000,lshutter,400
+playstop
+bg "bg/bg_02a",lshutter,400
+` As if saying there's no need to talk anymore,
+` Ciel's hands lift up that weapon.
+\
+` The Seventh Holy Scripture.@
+` The weapon that the reincarnation-denying Church created.@ A scriptural canon inscribed with every possible impeachment of reincarnation criticism.@
+` It's an item that is scripture yet an apocrypha.@ A weapon, yet a scripture at the same time.@
+br
+` If I'm hit by that, my soul itself will disperse into nothingness.
+\
+`"[line=6]"@
+` The bayonet rises up.@
+` The tip comes towards me.@
+` But slowly.@
+` If it is Ciel[line=3]she should be able to pierce me without me even noticing it ever happened.
+\
+`"Ah[line=4]"@
+` There's no time to think.@
+br
+` [line=3]Instantly, I fall forward.@
+` I felt from before that if I turned and ran, my heart would be shot from behind.@
+br
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_02a",notrans,0
+wave se_12
+`"Hya[line=4]!"@
+` Her sword flies past my head.@
+` It seems really slow.@
+` I evade her attack, move right beside her, and[line=4]
+\
+bg "bg/ima_14",lshutter,400
+wave se_06
+`"[line=5]!"@
+` The instant I tried to run forward, Senpai's movement changed drastically.@
+` In an instant, with a speed that makes her seem to have literally disappeared, she swings her weapon horizontally.
+\
+` The rush of the wind fills my ears[line=3]and for some reason, I am standing many meters away from her.@
+bg "bg/bg_02a",crossfade,400
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=7]"@
+` She clicks her tongue and glares at me.@
+cl c,crossfade,400
+\
+mov %flushcount,0
+bg #ffffff,notrans,0
+wait 16
+bg "bg/bg_02a",notrans,0
+wait 16
+dec %flushcount
+if (%flushcount>=0) skip -5
+`"Ow……!"@
+` My left arm hurts.@
+`"What…… Huh[line=5]!?"@
+` I'm surprised.@
+` From the elbow down, my arm is broken.@
+` Not broken normally, but my lower arm is bent in the shape of a triangle.
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=3]Sacrificing your arm to save your head?@ If you didn't do anything, I would have ended it painlessly for you."@
+`"Wha[line=4]"@
+` Even though I didn't notice it, I must have broken my arm defending against her attack.
+\
+`"Aren't you going to pull out your knife?"@
+` She looks at me with a bored expression.@
+` …… She's looking down at me.@
+` She looks down at me as if saying she could kill me at any moment.@
+cl c,crossfade,400
+\
+mov %flushcount,0
+bg #ffffff,notrans,0
+wait 16
+bg "bg/bg_02a",notrans,0
+wait 16
+dec %flushcount
+if (%flushcount>=0) skip -5
+`"Gg……!"@
+` Pain.@ Pain shoots from my arm to my brain.@
+` The blood from my broken arm seems to flow like poison into my nerves.@
+` Sharply.@
+` Just with that, my mind fills with a white blankness.
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=5]"@
+` She continues to look at me with those cold eyes.@
+`"You[line=3]!"@
+` You break my arm, and you still act that way!?@
+` Do you know how much this hurts!?@
+` Making such a fool of me.@
+` Making such a fool of me!@
+` Making such a fool of me[line=6]!
+\
+`"If that's how you're going to be, Senpai[line=4]"@
+br
+` I grip the knife in my pocket.@
+br
+`"I'm not just going to stand here helplessly[line=4]"@
+br
+` The hard feeling of metal.@
+br
+`"[line=2]and let you kill me."@
+br
+` With a quick snap,
+` I take out the blade of my knife.
+\
+`"[line=3]Are you stupid?"@
+cl c,lshutter,400
+` Instantly,
+` her body, explodes.
+\
+bg #000000,lshutter,400
+br
+` [line=4]No, that's not right.@
+` She crouches down low to the ground[line=3]almost like a lizard, and runs up towards me in a flash.@
+br
+` She closes the distance of six meters in a flash.
+\
+` She's not in my vision at all.@
+` Her whole body is below my knee-height, and explodes upward from there.@
+br
+` A thud.@
+br
+` From right beneath me, her bayonet accurately shoots directly for my throat.
+\
+bg "bg/bg_02a",lshutter,400
+wave se_05
+wave se_10
+quakey 4,100
+`"Ga[line=4]ah!"@
+` I gasp.@
+` Pain, is there pain?@ Yes, I can still feel pain.@
+br
+`"Ha[line=5]ugh."@
+` Conscious, am I conscious?@ Alright, I still have that.@
+br
+`"A, aaaaaa…………!"@
+` My body.@ My body[line=4]is not okay.
+\
+bg "bg/ima_13",lshutter,400
+` A dripping sound.@
+` It's coming from my left shoulder.@
+` Looking at it, it's already a waterfall of blood, which pours straight down.@
+` Just now.@
+` The bayonet didn't hit my throat, but my left shoulder.
+\
+bg "bg/bg_02a",lshutter,400
+`"A, Aa, Aaaaaaah!"@
+` It hurts.@
+` It hurts so much the word pain doesn't come close to describing it.@
+br
+`"Haa, aaa, aggggg[line=6]!"@
+` But, I'm alive.@
+` Still, I'm alive.
+\
+` My body.@ My body is away from her again.
+\
+` I smell a whiff of gunpowder from my shoulder.@
+br
+`"A, Aah, ah."@
+` Just now.@ The instant that bayonet pierced me, she must have pulled the trigger.@
+` I was blown away by that, and there's distance between us again.
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"…… To happen twice, that must mean it's not a coincidence.@ With that much blood pouring out, not dying from shock must already be a sign that your body has begun to change."@
+br
+` Ga-chang!@ A metallic sound.@
+` The sword on the end of that weapon changes into a new one.@
+` The sword that shot me just now falls[line=3]and turns into pages of a book and scatters.
+\
+`"…… That's…… ridiculous."@
+` But that ridiculous thing is really frightening.@
+` That[line=3]just touching me carries a fatal poison.@
+` Death.@
+` I'll die.@
+` Without a doubt, I'll be killed.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+` Will I die?@
+` Is that what I'm scared of?@
+` I don't know.@
+br
+`"Ah, gg………!"@
+br
+` My shoulder is burning.@
+` Hot, it's so hot, as if my entire body will burst into flames.
+\
+` She readies her weapon once more with another metallic clang.@
+` …… Twice.@
+` Withstanding that twice can be nothing but a miracle.@
+` The next time will certainly[line=4]
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+waveloop se_02
+` I imagine that bayonet piercing me right in the face.@
+` That's more repulsive than frightening.@
+br
+` Death is.@
+` No matter how it happens, something useless, dirty, and disgusting.@
+` I like myself[line=3]so I don't want that to happen.
+\
+` Is that why I'm scared?@
+` I don't know.@
+` Come to think of it[line=3]I was always able to see "death", but I never thought about "death" at all.
+\
+` No, that doesn't really matter right now.@
+` *pant*, *pant*, *pant*[line=5]
+` I have to escape.@
+` I don't want to die, so I have to get away.@
+br
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=2]You won't take off your glasses?"@
+` A simple, plastic voice.@
+` Those words.@ I gasp at their meaning.@
+` Because taking them off means I would see Senpai's "lines".@
+` If that happens, I might kill her[line=4]
+\
+`"Wha[line=2]What are you, saying, Senpai……!?"@
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=7]"@
+` A chill runs through me.@
+` The air suddenly becomes saturated with a murderous intent.
+\
+`"…… I can't spend any more time with you.@ Please just die already."@
+cl c,crossfade,400
+` Her figure plunges low again.@
+br
+` [line=3]She's coming.@
+br
+` Even though I know she's going to run towards me again, it's hard for me to even see her.
+\
+` [line=3]I can only think of escaping.@
+` If I don't want to be killed[line=3]escape is my only option.@
+` Fortunately, our distance is almost ten meters.@ If I run as fast as I can, I can make it to the school building.@ Maybe I might be able to do something if I can get into a less open space[line=5]!@
+bg #000000,lcartain,400
+bg "bg/bg_03c",lcartain,400
+quakey 3,100
+wave se_01
+bg #000000,notrans,0
+wave se_07
+br
+`"[line=6]"@
+` My back.@
+` Something[line=4]pierced, my back.@
+`"Aa[line=4]ah."@
+` My body falls forward.@
+` Just a little more.@
+` And it was just a little more before I could enter the school building.
+\
+`"Kk[line=5]"@
+` I lift myself up with one arm.@
+` What sticks through me is one of those swords that looks like a nail that Senpai was using before.
+\
+`"Why[line=4]you………!@
+` I must be numbed to pain, and I pull out the sword skewering my back from behind.@
+` …… Since it penetrated through me, I got mad and pulled it out from my chest.@
+`"Alright………!"@
+` Now I can escape inside……!
+\
+`"What do you plan on doing by escaping, Tohno-kun?"@
+br
+` Before that,
+` I hear Senpai's voice from behind me.
+\
+`"You still don't understand?@ How fast do you think you just ran here?@ Why are you still alive after receiving that fatal wound?"
+\
+`"St[line=7]"@
+` My mind begins to white out.@
+` Don't let her trick you.@
+` Don't let her trick you.@
+` Hasn't she been deceiving you all along?@
+` Don't listen to her anymore.@
+` If you listen, you'll die.@
+` Ignore her.@
+` Don't accept it.@
+` Even if it is the truth, this body can only reject it[line=3]
+\
+`"[line=4]Stop, it."@
+`"Geez, there's nowhere for you to run to.@
+` You can only fight or be killed.@ But if you can't fight, you can only die."@
+` Her footsteps.@
+` With the sound of footsteps, Senpai approaches.
+\
+`"[line=7]!"@
+` I leap.@
+` My back, my shoulders, my arm are all almost dead, but I leap as if it was nothing.@
+br
+` [line=3]I can't even believe it myself.@
+` Still breathing wildly and with a speed that matches Senpai, I run into the school building.
+\
+bg #000000,lcartain,400
+!w1000
+bg "bg/bg_11c",lcartain,400
+play "*9"
+` *pant*, *pant*, *pant*, *pant*[line=5]
+` I run.@
+` Without thinking, just wanting to escape, I continue running.
+\
+` *pant*, *pant*, *pant*, *pant*[line=5]
+` But I'm at my limit.@
+` Is it because I'm out of breath or is it that my wounds won't let me move my arms and legs anymore?@
+` Whatever it is, it doesn't matter.
+\
+` My breathing becomes more forced.@
+` At the end of the hallway.@
+` Coming onto a wall aimlessly, I fall.@
+` I fall on my back, and try to get back up, and feel foolish for doing so.
+\
+` …… *pant*…… *pant*…… *pant*
+` Sitting cross-legged on the floor, I lean my back against the wall.@
+` Throwing back my head, I take a big breath of air.
+\
+`"[line=5]The moon."@
+` Looking up, I can see the moonlight through the window.@
+` Is it because I'm so exhausted?@
+` Everything I look at seems vague, as if everything was covered in a mist.@
+br
+` Vagueness.@
+` Does that mean it is indefinite?@
+` The same as me.@ The same as the person called Tohno Shiki, indefinite.
+\
+`"…… Ou…… ch……"@
+` My shoulder throbs in pain.@
+` If I was as definite as this pain, maybe this wouldn't have happened?
+\
+` I'm starting to not understand.@
+` I always thought I was Tohno Shiki.@
+` But that was a different person, and they tell me I'm just an adopted son from somewhere.@
+` Being adopted means I should have memories of before I came to the Tohno mansion, but there's nothing.@
+` I…… really, I only have the memories of Tohno Shiki.
+\
+bg #000000,crossfade,400
+bg "bg/ima_01",crossfade,400
+` In the night sky is the solitary moon.@
+`"[line=4]"@
+` It's incredibly… strange.@
+` Why didn't I realize it until now?@
+` Tonight is so[line=3]
+\
+bg "bg/bg_11c",crossfade,400
+` …… In the end, just what was I?@
+` It's stupid not knowing anything about myself and just disappearing like this.@
+br
+` Everything is so vague, it's stupid.@
+` A world where I can see death.@
+` A vision where I can perceive death.@
+` That day eight years ago.@
+` I was able to meet Sensei and was able to live normally.@
+` I can still declare that it was proper to meet her.
+\
+`"…… But, Sensei.@ I, guess I, was someone, who shouldn't be alive."@
+` …… I should end my life while some part of me can still think that.@
+` But I can't do it.@
+` I can't kill myself.@
+` Even if it is pointless, even if it is a mistake, I want to keep on living.
+\
+` If I die, everything will become a lie.@
+` I want to keep on living.@
+` No matter how wrong it is, no matter how many things I have to lose, I want to keep on living.@
+br
+` Only her.@
+` If only I had Ciel-senpai with me.@ I wouldn't care what else I had to lose.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_11c",crossfade,1500
+wave se_09
+` I can hear her footsteps.@
+` …… She's coming.@
+br
+`"……………… Can I only fight?"@
+br
+` Mumbling, I feel a chill.@
+` I can't do such a thing as fight Senpai.@
+` I said that out loud just on a whim.@
+` But, "Slice her apart".@
+` From in my head, from deep inside my brain, as if trying to seep itself into my mind, the same words keep repeating over and over.
+\
+` Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@
+` If you want to stay alive, slice her apart.@
+` If you don't want to die, slice her apart.@
+` Slice apart the person who deceived you.@
+` Slice apart the person trying to kill you.@
+` Just do it already[line=3]slice apart the person getting in my way.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ Slice her apart.@ SliceSliceSliceSliceSliceSlice, Slice, apart, slice, apart, slice, slice, slice, slice, sliceslicesliceslicesliceslicesliceslicesliceslicesliceslicesliceslicesliceslicesliceslicesliceslice[line=5]!!
+\
+`"Shuuuuut Uuuuup!!!!!!"@
+br
+` [line=3]*pant*, *pant*, *pant*.@
+br
+`"Shut…… up, you're always……!"@
+br
+` [line=3]*pant*…… *pant*, *pant*.@
+br
+` …… My headache thins.@
+` I can't hear that voice anymore.@
+` But, in place of that,
+` Now, Senpai probably knows where I am because of my scream.
+\
+`"………………"@
+` I grip my knife strongly.@
+br
+` [line=3]Are you going to fight?@
+br
+` Have a fight to the death with that person?@
+br
+` …… I can't think clearly.@
+` My nerves feel numb, as if they were burned off a long time ago.@
+` I fought Arcueid and sliced her neck.@ I somehow managed to escape, but Ciel was waiting for me.
+\
+`"Ha…… haha, ha."@
+` It's a little disappointing.@
+` I never thought it would be like this.@
+` I escape and escape, but a worse situation awaits me.@ It's like a joke.@
+` Since when did I[line=3]get lost on this hopeless path[line=4]
+!w750
+wave se_01
+monocro #0000ff
+bg "bg/bg_11c",notrans,0
+quakey 2,100
+`"Ah[line=3]gg……………!"@
+` The headache runs through me like a knife through my brain.
+\
+monocro #ff0000
+bg "bg/bg_11c",notrans,0
+wave se_01
+quakey 2,100
+`"Ha…………… a, ah[line=6]"@
+` I can't breathe properly.@
+` My vision wavers.@
+` …… It looks like I'm really done.@
+` My head starts to rage again.@
+` But still, I don't want to die.@
+` If I don't want to die[line=3]there's only one thing to do.@
+br
+` The footsteps get louder.@
+` Her shadow grows larger.@
+br
+` [line=3]Aren't you going to take off your glasses?@
+br
+` Even knowing what it meant, she said that.@
+` In that case.
+\
+br
+br
+br
+br
+br
+br
+` [line=5]Everything.@
+`     All of it should turn into illusion.@
+!w1000
+\
+monocro off
+bg "bg/bg_11d",crossfade,1500
+` I stand up as I strongly grip my knife.@
+br
+` The footsteps get even louder.@
+` I sense the enemy coming closer.@
+` All the time, someone's voice echoes in my brain.@
+` Slice her apart.@ Slice her apart.
+\
+` Slice her apart.@ Slice her apart.@ Slice her apart.
+\
+`"U[line=4]"@
+br
+` Slice her apart  Slice her apart  Slice her apart  Slice her apart  Slice her apart
+` Slice her apart  Slice her apart  Slice her apart  Slice her apart  Slice her apart
+` Slice her apart  Slice her apart  Slice her apart  Slice her apart  Slice her apart
+` Slice her apart  Slice her apart  Slice her apart  Slice her apart[line=4]
+br
+`"Shut up."@
+` Using my willpower, I force the voice in my head to be quiet.
+\
+`"This is, what I decided."@
+!w750
+` Slice[line=4]
+`"I don't need you to tell me what to do."@
+!w750
+` her[line=4]
+`"If you don't want to be killed by Ciel."@
+!w750
+` apart[line=4]
+`"Just shut up until it's over, Roa."@
+!w750
+` [line=5]
+\
+` The voice disappears completely.@
+` The footsteps, and her approaching shadow.@
+br
+` [line=4]Ciel appears before me.
+\
+ld c,"tachi/cel_t15",crossfade,400
+play "*7"
+`"[line=3]You finally decided to fight."@
+` Her voice seems almost relieved.
+\
+`"That's good.@ Now there is no sin for either of us.@
+` Now that we are both trying to kill each other, our sin will die.@ Now there is only punishment for the one who lives."@
+` …… Since we are both trying to kill each other there is no sin?@
+` Her words are part of a world I can't understand.
+\
+`"I see.@ Then is that punishment for the one that's left alive atoneable?"@
+`"Yes.@ Something that is atoneable is what we call punishment.@ If it is called punishment, there is no reason for it not to be atoneable.@ The only thing that does not disappear is the sin.@
+` So[line=3]we don't want to carry that burden, do we?"@
+` Saying that,
+` she takes another step forward.
+\
+`"[line=2]Then, killing you here isn't a sin, Senpai?"@
+`"Yes.@ I will kill you, so it is okay for you to kill me, Tohno-kun.@ Our conditions are equal."@
+` Another step.
+\
+`"[line=8]"@
+` That's, not right.@
+` Certainly I am getting killed, so I'm killing her back to protect my own life.@
+` But to say there's no sin[line=3]what would happen to Ciel?@
+` From the beginning, she came here with an unrequited will to kill.@
+br
+` That is[line=3]
+\
+`"Farewell.@ Let us lower the curtain on this ridiculous play."@
+` The last step.@
+cl c,lshutter,800
+` Her readied bayonet shoots toward my heart.@
+br
+` Before then,
+` I lunge forward and aim for the "point" on her right lung.
+\
+bg #000000,lshutter,800
+` [line=3]I didn't think I could kill her.@
+br
+` It's only natural for her to pierce my heart before I get within knife range.@
+` That's why I was surprised.@
+` I easily dodged her blade and was able to pierce her "point" with ease.@
+`"[line=4]Sen, pai."@
+` It looked like she accepted my knife on purpose.
+\
+`"I made you… kill… me."@
+` Her faint, weak voice on the verge of death.
+\
+br
+br
+br
+br
+br
+br
+`"That was, my, greatest sin."
+\
+` Sounding like she's crying, she uses her remaining strength to stab me with her bayonet.
+\
+wave se_10
+bg "bg/bg_11c",crossfade,800
+quakey 1,100
+`"[line=6]Ga, hu."@
+` My blood flow reverses through my lanced heart.@
+` Coughing up blood, I collapse onto the ground.@
+br
+` Before my eyes,
+` the body of the one who died slightly ahead of me lies on the floor.
+\
+`"[line=4]How[line=2]"@
+` Did you, know?@
+`"[line=4]foolish."@
+` Did you know from the beginning[line=3]that if there was such a thing as sin, it would only be for you?
+\
+`"Ha[line=4]ah."@
+` The sensation in my limbs fades away.@
+` My consciousness, too.@ It will be seconds before I bleed to death.@
+` The instant I was stabbed,
+` I had a vision of something like an old book, scattering and crumbling away page by page.@
+br
+` Probably, with that, the thing called Roa was dispersed.
+\
+`"…………"@
+` I can't think.@
+` From the very beginning, she planned to give her life to take mine.@
+` Did she think that was her punishment?@
+br
+` [line=3]How foolish.@
+` There's no[line=3]meaning in that.@
+br
+`"[line=3]Still."@
+` I was sad that she died before she apologized to me.
+\
+` If she could have apologized to me, then I bet she would have felt some relief…… But, she couldn't even say that.@
+` Since she knew it was something that wasn't atoneable by apology, she didn't apologize to the very end.@
+br
+` That determination.@ It makes me angry that I made her go that far.
+\
+`"What.@ In the end[line=4]"@
+` I liked her?@
+` Until the very end.@
+` Feeling sad like this until my own death, she was that dear to me.
+\
+`"[line=6]Tss."@
+` I cough weakly and spit out blood.
+\
+` It's all over.@
+` Staring dazedly at the moon, with these strange thoughts, I drift off to slee[line=4]
+\
+!w3000
+playstop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

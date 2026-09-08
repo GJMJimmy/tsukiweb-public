@@ -1,0 +1,249 @@
+bg "bg/bg_04",lshutter,400
+` A origem do som se torna aparente quando me aproximo do pátio.@
+` Uma estudante está agachada no meio do caminho arborizado, usando um martelo e pregos.
+\
+`"……"@
+` O que ela está fazendo?@ Faltam poucos minutos para a aula começar.@
+`"[line=3]Talvez ela não tenha relógio."@
+` Foi a única coisa que consegui pensar no momento.@
+` …… Enfim, seria maldade perceber que ela está aqui a essa hora e não avisá-la.@
+` Eu me aproximo dela bem devagar, tentando não assustá-la.
+\
+bg #000000,lshutter,800
+bg "event/cel_e01",lshutter,800
+play "*3"
+`"Ei, a aula já vai começar."@
+`"Hã?"@
+` A garota levanta o rosto.@ A cor da gravata do seu uniforme deixa claro que ela é do terceiro ano.@
+`"……"@
+` Ainda com o martelo na mão, a Senpai fica me observando.@
+`"Hã… hum…"@
+` Seu olhar através dos óculos é tão intenso que sinto como se estivesse sendo tragado por ele.@
+` Este olhar sério me faz sentir vontade de pedir desculpas por atrapalhá-la.@
+` O pequeno cercado de madeira que ela estava consertando parece podre e inutilizável.
+\
+` …… Pensando bem, o pátio da parte de trás da escola está em um estado crítico.@
+` Os cercados e os canteiros de flores estão abandonados.@
+` Parece que os professores pretendem pedir aos alunos que realizem uma grande limpeza no final do ano, por isso o pessoal da manutenção não fez nada desde o verão.
+\
+` [line=3]Eu entendo a situação com um simples olhar.@
+` A garota estava consertando o cercadinho quebrado, sem nem se importar em sujar seu uniforme.@ Vejo o suor em sua testa e parece que ela está levando o trabalho a sério.@
+` …… Mas pelo o que sei, não há ninguém encarregado de reparar as propriedades públicas desta escola.
+\
+`"Hum… O que foi?"@
+` Ela pergunta e ajusta seus óculos tortos.@
+`"Hum, não é nada.@ Só fiquei curioso com o que você está fazendo."@
+`"Ah… como pode ver, estou consertando este cercadinho."@
+` Sim.@ Isso eu percebi.@
+`"Não foi isso que me deixou curioso.@ Eu queria saber o motivo de você estar fazendo isso.@ O pessoal da manutenção não vai fazer isso mais cedo ou mais tarde?"@
+`"Ahaha…"@
+` Ela ri para esconder seu constrangimento.
+\
+`"Eu sou o tipo de pessoa que não consegue ficar parada vendo uma bagunça dessas.@ Simplesmente não posso ignorar esse tipo de coisa."@
+` Parece que ela está consertando o cercadinho simplesmente porque não consegue deixá-lo nessa situação.@
+`"……"@
+` Que Senpai mais estranha!@
+`"É por isso que você está consertando tudo sozinha?@ Se não gosta dessa bagunça, por que não evita passar por aqui?"@
+`"Bem, a minha sala de aula é bem ali."@
+` A Senpai aponta para uma sala no segundo andar, de frente para o pátio.
+\
+`"Minha carteira fica do lado da janela, por isso vejo o pátio o tempo todo… Bem, normalmente eu não faria isso, mas quando cheguei na minha carteira hoje, fiquei surpresa ao ver que o cercadinho estava todo quebrado."@
+` Sua expressão fica triste, como se dissesse: "Isso não é horrível?"@
+` …… Ela parece estar chateada com isso, mas não está brava.
+\
+`"É como dizem por aí, 'bata enquanto o ferro ainda está quente'.@ Eu fui até o almoxarifado e peguei as ferramentas emprestadas para consertar por conta própria."@
+br
+` E assim, a explicação termina.@
+br
+` Ela se curva e volta a martelar os pregos.
+\
+`"…… Tudo bem, já entendi tudo, mas por que não deixa isso para depois?@ Faltam menos de cinco minutos para as aulas começarem e, já que o pátio está tão ruim assim, você não acha que o pessoal da escola vai resolver isso logo?"@
+`"Nem pensar!"@
+` Segurando o martelo com força, a Senpai de óculos balança a cabeça furiosamente.
+\
+`"Se eu voltar para a sala agora, vai ser impossível me concentrar com o cercadinho neste estado.@ A aula vai parecer bobagem para mim, aí o professor vai dizer: "Ei, garota! Para onde é que você está olhando?".@ Ele vai gritar comigo, com toda certeza."@
+` Ela não solta o martelo enquanto enfatiza seu argumento.@
+`"…… Bom, eu também acho que o professor ficaria nervoso se você ficasse olhando pela janela durante a aula."@
+`"Pois é!@ É por isso que tenho que resolver isso agora."@
+` E assim, a Senpai recomeça seus reparos, martelando desajeitadamente.@ Obviamente ela não está acostumada a usar um martelo.
+\
+bg "bg/bg_04",crossfade,400
+` *Clank* *Clank* faz o martelo quando bate na madeira.@
+` …… Ao que parece, não é só uma ou duas talas que estão quebradas.@
+` Nem consigo imaginar quanto tempo ela vai levar para consertar tudo sozinha.@
+wave se_03
+!w2000
+` O sinal começa a tocar.@
+`"…… Parece que o primeiro período começou."@
+` Depois de ver que a situação chegou a esse ponto, acabo desistindo de convencê-la.@
+` Eu me sento perto dela e começo a ajudá-la.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_04",lshutter,800
+` Assim que começo a ajudar, percebo que não é tão difícil quanto parece.@
+` Embora esta garota não esteja acostumada a fazer esse tipo de coisa, ela é bem habilidosa.@ Ela já pegou o jeito e o trabalho está progredindo a um ritmo acelerado.@
+` Os movimentos da Senpai são rápidos e precisos.@ E eu gosto de ficar olhando ela trabalhar.@ Que garota esperta!@
+` …… Sem nem perceber, agora só ficou faltando uma tala para consertar.
+\
+br
+` Trinta minutos se passaram.@
+` Não posso ficar aqui por mais tempo e, só mais uma tala, não vai ser problema para a Senpai.
+\
+`"Bem, agora eu tenho que ir."@
+` Vou me levantando e tirando a poeira das calças.@
+` Ela também se levanta e me encara.@
+ld c,"tachi/cel_t07a",crossfade,800
+\
+`"…?"@
+` Pensando bem, quem é essa garota?@
+` Eu não percebi antes porque estava concentrado no trabalho, mas agora que estou reparando, até que ela é bonita.@
+` Uma garota tão bonita assim deveria ser o assunto principal dos garotos, deveria até ter um título, algo do tipo: "A Beldade de Óculos do Terceiro Ano".
+\
+`"Hum… vou indo.@ Não se esforce demais, Senpai."@
+ld c,"tachi/cel_t03",crossfade,400
+` Ela concorda com um gesto de cabeça.@
+` …… Mesmo sendo mais velha do que eu, parece que estou lidando com alguém mais jovem.@
+`"Obrigada por me ajudar.@ Fiquei muito contente.@
+` Ela faz uma breve mesura.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Eu te vejo na hora do almoço.@ Ah, não se esqueça de lavar as mãos, Tohno-kun."@
+`"Você também, Senpai."@
+` E assim, me despeço com um aceno de mão.@
+br
+` …… Espera.@
+br
+`"…… Hã?@ Já nos encontramos antes, Senpai?"@
+`"Hein!?"@
+` Ela grita surpresa e finge uma expressão deprimida.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"Você é terrível, Tohno-kun!@ Você se esqueceu de mim?"@
+`"…?"@
+` Se eu esqueci?@ Não, acho que não.@ Se eu tivesse conhecido uma garota bonita como ela, nunca teria esquecido…@
+`"…… Hum…"@
+` Ela me observa com um olhar reprovador.@
+` Estes olhos… tenho certeza de que… me lembro deles… não lembro?@
+bg #ffffff,crossfade,400
+bg "bg/bg_04",crossfade,400
+ld c,"tachi/cel_t09",notrans,0
+` …… Pensando bem, já nos cumprimentamos uma ou duas vezes antes… né?
+\
+`"Ciel-senpai… certo?"@
+` Digo seu nome sem ter certeza.@
+ld c,"tachi/cel_t04",crossfade,400
+`"Sim e estou feliz por ter lembrado.@ Você parece ser do tipo distraído e esquecido, Tohno-kun."@
+` …… Eu não acho que sou distraído, mas não nego o fato de ter esquecido.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Então, até mais tarde.@ Desculpe-me por ficar te segurando aqui."@
+cl c,crossfade,400
+` Ela faz outra mesura.@ Eu fico observando ela se afastar e depois entro na escola.
+\
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` Quando chego na minha classe, já é o intervalo depois do primeiro período.
+\
+` Entro sorrateiramente enquanto todos estão distraídos conversando.@
+` Minha carteira fica no final da última fileira, ao lado da janela.@ Eu devo conseguir chegar lá sem chamar atenção.@
+` E quando começar a chamada do segundo período, todos vão dizer: "Ei, quando foi que o Tohno chegou?".@
+` É um hábito estranho em uma sala de aula entediante.
+\
+br
+` [line=4]Mas acho que esse plano não vai funcionar dessa vez.@
+ld c,"tachi/ari_t01",lshutter,400
+`"Ei, vagabundo!@ Não é do seu feitio chegar atrasado."@
+`"……"@
+` Eu suspiro.@
+` Parece que a realidade está batendo na minha cara depois do tempo agradável que passei com a Senpai.
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"Que cara azeda é essa?@ Você chegando atrasado e eu chegando no horário certo… qual é o seu problema?"@
+`"…… Ei, escuta aqui, eu não venho para a escola por sua causa, sabia disso?"@
+`"O quê!?@ Mas eu venho para a escola por sua causa!@ Isso é tão injusto!"@
+`"……"@
+` Estou sem palavras.@
+` E mais uma vez fico tentando entender: Como acabei sendo amigo desse cara?
+\
+` Seus cabelos são tingidos de laranja, suas orelhas furadas.@
+` Seu olhar maligno e suas roupas de adolescente rebelde deixam claro que ele vai comprar briga com qualquer um, a qualquer momento.@
+` Inui Arihiko é o único baderneiro cheio de energia nesta escola que se foca em formar alunos que entrem para universidades.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Nós somos inimigos desde o fundamental, né?@ Se ficar com essa cara despreocupada na frente do seu rival, é melhor estar preparado para a confusão."@
+` De qualquer forma, Arihiko é um cara barulhento.@
+`"E aí!@ Bom dia, Tohno!"@
+` Antes que eu notasse, todos na sala começaram a olhar na minha direção e a me cumprimentar.
+\
+`"…… Cala a boca, Arihiko.@ Você está arruinando a minha chance de entrar na sala despercebido!@
+` E afinal de contas, por que eu sou o seu 'rival'?@ Tem um monte de caras durões por aí, então pare de me amolar."@
+` …… Bem, ele ainda me deve cerca dez mil ienes desde o fundamental, então acho que isso realmente faz dele meu inimigo.@
+ld c,"tachi/ari_t04",crossfade,400
+`"Por que você é esse demônio só comigo, Tohno?@ Você é um santo com as outras pessoas.@ Isso não é justo."@
+`"O quê!?@ Só percebeu agora?@ A vida é injusta."@
+`"…… Eu realmente sou o único que você trata dessa forma."@
+` Eu não tento ser frio com ele.@ É que esse é o tipo de relacionamento que temos.
+\
+`"Mudando de assunto, Arihiko, o que é que um corujão que está sempre atrasado e só aparece na escola durante o segundo período está fazendo aqui no primeiro período?"@ Isso é um pouco… não, isso é muito estranho."@
+ld c,"tachi/ari_t01",crossfade,400
+`"Ahaha… Eu estava pensando a mesma coisa.@ Acho que chegar na escola na hora certa não é só para quando acontecer de eu acordar cedo."@
+`"…… Bem, não vou comentar sobre os seus passatempos, o que estou perguntando é o motivo de você ter acordado cedo."@
+`"Por que eu acordei cedo?@ Hum… Acho que é porque não posso mais ficar na rua até tarde depois que aquela confusão começou, então estou dormindo à noite agora.@ Você ouviu as histórias sobre aquele assassino em série, né?"
+\
+cl c,crossfade,400
+` …… Assassino em série?…?@
+br
+`"…… Humm.@ Pensando bem, acho que ouvi falar sobre isso mesmo."@
+` Fico um pouco triste por ter que depender do Arihiko para me lembrar de algo importante assim.@
+` Estive em um dilema nestes últimos dois ou três dias, pensando se voltaria ou não para a casa dos Tohno, então acabei ficando por fora das notícias.
+\
+`"Como era mesmo?@ Eles deram um título bem desagradável para a notícia, 'Os Sórdidos Assassinatos em Série', foi algo desse tipo.@
+ld l,"tachi/ari_t04",notrans,0
+`"E ainda tem mais.@ Até agora, todas as vítimas foram mulheres jovens.@ A oitava vitima foi encontrada há apenas dois dias atrás!@ E além disso tudo, elas estavam todas… espera, o que tinha acontecido com elas mesmo?"@
+` Arihiko inclina a cabeça, tentando se lembrar.@
+`"……"@
+` Sou um idiota por ter perguntado a ele.@
+ld l,"tachi/ari_t02",crossfade,400
+`"Ah, lembrei!@ Todas as vítimas tiveram cortes em forma de cruz nas gargantas!"
+\
+ld r,"tachi/stk_t01",lshutter,400
+`"…… Não, Inui-kun.@ Todas as vítimas perderam muito sangue."@
+`"Ah é, foi isso mesmo.@ Disseram que foi obra de algum tipo de vampiro moderno."@
+`"Hum.@ Você sabe bastante sobre o assunto, Yumizuka-san."@
+`"Não é bem assim.@ É que está acontecendo nesta cidade, então está sempre nos noticiários.@ Acabo lembrando do assunto mesmo sem querer."@
+` …… Hum, entendi.@
+` Eu pensei que estivesse acontecendo em uma cidade vizinha… não na nossa.
+\
+ld l,"tachi/ari_t01",crossfade,400
+`"Enfim, é isso que está acontecendo.@ Nem mesmo eu iria ficar na rua à noite com um assassino andando por aí.@ É por isso que ando acordando por volta de sete horas."@
+`"…… O quê!? É só isso?@ Ter um bom motivo não faz você ter uma boa história.@ Onde está a diversão nisso?"@
+` Eu me sento enquanto converso com o Arihiko.@
+`"Cara, você está pálido.@ Por acaso já desmaiou por causa da anemia hoje?"@
+`"Estou bem, obrigado por perguntar.@ Se minha anemia atacasse vinte e quatro horas por dia, eu já estaria morto à essa altura."@
+`"É verdade.@ Bem, se você diz que está bem, então beleza."
+\
+wave se_03
+!w1000
+` O sinal da escola toca, interrompendo nossa conversa.@
+`"Ei, a aula vai começar.@ Vá logo para a sua carteira."@
+`"Tá, beleza.@ Ah, a propósito, hoje vamos almoçar no refeitório ao invés do terraço.@ Eu convidei uma pessoa importante, você não perde por esperar."@
+cl l,lshutter,400
+` Com uma risada intrigante, o Arihiko volta para a sua carteira.@
+`"Até mais, Tohno-kun."@
+`"Ah… Sim.@ Desculpe por te segurar aqui, Yumizuka-san."@
+cl r,lshutter,400
+` Ouço seus passos leves enquanto ela volta para sua carteira.
+\
+` …… Mas.@
+` Ainda é um mistério o motivo de ela ter se juntado a nossa conversa.@ Ela é apenas nossa colega de classe.
+\
+playstop
+bg #000000,lshutter,1500
+!w1000
+bg "bg/bg_06a",lshutter,800
+` Está na hora do almoço.@
+` Onde devo almoçar?
+\

@@ -1,0 +1,23 @@
+monocro off
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*8"
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Llegó la hora de la última lección.@
+` La séptima hora se trata del final de esta persona en particular.@
+br
+` …… Nadie puede entender verdaderamente los sentimientos de Tohno-kun, quien mantuvo su promesa.@
+` No tengo ningún consejo que darte.@
+` Pero si Tohno-kun desea un resultado diferente, por favor retrocede un poco y escoge un curso de acción distinto.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Uhh, pero si Akiha no te quiere lo suficiente, ni siquiera tendrás la opción."@
+br
+` [line=4]Ah.@
+` En, en ese caso, por favor retrocede un par de días y fortalece tu lazo con Akiha-san.@
+` Si haces eso, un destino distinto debería esperarte.
+\
+bg #000000,crossfade,800
+playstop

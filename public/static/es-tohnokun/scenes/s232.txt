@@ -1,0 +1,74 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11b",notrans,0
+br
+` No te preocupes por eso y simplemente come.@
+` Creo que la amabilidad siempre debería ser aceptada.
+\
+`"[line=3]Lo tomaré.@ Estoy hambriento, y si no te importa, lo comeré."@
+` Sí, aunque estuviese un poco pasada de la fecha de expiración, no me importaría.@
+ld c,"tachi/cel_t04",crossfade,400
+`"Entonces vamos a la habitación de la ceremonia del té.@ Si vamos allá, puedo conseguirte algo de té."@
+cl c,crossfade,800
+` Senpai trota por el pasillo.
+\
+playstop
+bg #000000,lcartain,800
+!w500
+bg "event/cel_e02b",lcartain,800
+play "*2"
+`"Gracias por la comida."@
+` Junto mis manos brevemente y comienzo a cavar en el almuerzo de Senpai.@
+` Mastico, mastico.@ Como sin moderación mientras Senpai me observa.
+\
+` Mastico mastico.
+\
+` Mastico.@ Mastico.@ Mastico.@
+` Mastico.@ Mastico.@ Mastico.@ Mastico.
+\
+`"[line=4]Mm."@
+` Sorbo un poco de té.@
+` Senpai continúa observándome.
+\
+`"¿Tiene buen sabor?"@
+`"Mm, está frío y no es muy bueno."@
+` …… Creo que ese comentario fue demasiado sincero de mi parte, pero es mi personalidad, así que no puedo cambiarla.@
+` Senpai suelta una pequeña risa y me mira directamente a los ojos.@
+`"Tohno-kun, tienes una actitud bastante filosófica."@
+` Ella dice esto con amabilidad.
+\
+`"…… ¿Huh?@ No te entiendo, Senpai.@ De repente dices algo como eso."@
+`"Pero es verdad.@ Normalmente, nadie comería el almuerzo a medio terminar de otra persona.@ Pero a ti no parece importarte lo que otros piensen de ti, ¿cierto?"@
+`"¿[line=3]?@ ¿En serio?@ Yo no soy tan cohibido."@
+br
+` Simplemente vivo con honestidad.
+\
+` Pero, si vivir la vida sin preocuparse por lo que otros piensen es filosófico, entonces esta persona es mucho más filosófica que yo.@
+` Si fuese por mí[line=3]nunca podría dignarme a reparar las tablillas del patio que todos los demás ignoran.
+\
+`"En mi opinión, pienso que eres más filosófica que yo, Senpai.@
+` Siempre estás viviendo a tu propio ritmo.@ Se siente muy bien simplemente observarte."@
+` Hablo francamente.@
+` Claro que fue un cumplido, pero Senpai dice "Oh, ya veo" y deja caer sus hombros.
+\
+`"Um…… ¿Senpai?@ ¿Dije algo malo?"@
+`"[line=2]Sí.@
+` Porque normalmente, eso es lo que se conoce como una vieja solterona.@ Soy una chica, así que escuchar eso es impactante."@
+` …… Hmmm.@ Para Senpai, eso debe significar que está actuando como vieja en lugar de ser filosófica.
+\
+`"¿Oh sí?@ ¿Entonces quisiste decir que estoy actuando como un viejo?@ Bueno discúlpame, soy sólo un estudiante de secundaria enfrentando con valor los peligros de la vida."@
+`"Ah, pero no puedes negarlo.@ Porque un cojín para sentarte y una taza de té te sientan muy bien.@ Siempre calmado; pareces un hombre jubilado."@
+` Senpai ríe tontamente.@
+` …… Quería escuchar que era un tipo que se ve bien con ropas japonesas, pero si Senpai dice un hombre jubilado, tal vez no sea algo malo.
+\
+`"Oh.@ Bien, entonces, compañera anticuada, ¿qué tal si tenemos una larga charla junto a una taza de té?"@
+`"Me encantaría hacerle compañía, Shiki-san."@
+` Con una radiante sonrisa, Senpai vierte algo de té dentro de mi taza.
+\
+bg #000000,lshutter,800
+` Pasa una hora.@
+` Conversamos hasta las cinco y media, luego salimos caminando antes de que la escuela cierre y tomamos caminos separados en la intersección.
+\
+!w1000
+playstop

@@ -1,0 +1,22 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+br
+` [line=4]es tragado.@
+br
+` Con un chapoteo, soy sumergido en la agitada y violenta ola.
+\
+` Una invasión opresiva.@
+` Viola, asalta, y disuelve.
+\
+`"[line=8]"@
+` Carne, espíritu, alma… todo desaparece.@
+` No soy asesinado.@
+` Es más preciso decir que he sido derretido y absorbido como parte de esta ola negra.
+\
+` Observo al ser que soy yo desaparecer en la ola negra[line=4]
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

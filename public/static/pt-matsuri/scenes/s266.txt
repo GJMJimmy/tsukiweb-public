@@ -1,0 +1,38 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_05a",notrans,0
+`"…… Mas…… mas[line=2]você disse que não era você!"@
+`"?@ O que é que não era eu?"@
+`"Três noites atrás!@ Perguntei se tinha sido você quem havia me ajudado aquela noite no parque e você disse que não……!"
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Eu menti."@
+` Sucintamente.@
+` Ela simplesmente diz isso na cara dura.
+\
+`"…… Hum…… você mentiu para mim?"@
+`"Eu menti para o seu próprio bem, Tohno-kun.@ Tenho que silenciar qualquer pessoa normal que descubra minha verdadeira identidade.@
+` Você não gosta de sentir dor, gosta?"@
+` Ela diz uma coisa inacreditável dessas com uma voz muito alegre.
+\
+`"Silenciar qualquer pessoa normal……"@
+`"Simplificando, pessoas mortas não podem falar.@ …… Hum, acho que simplifiquei demais."@
+`"Hum[line=3]"@
+` Eu me afasto dela sem nem pensar no que estou fazendo.@
+` O que ela disse parece que era meio brincadeira e meio pra valer.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Então, não posso deixá-lo livre dependendo do que você me responder.@ Tohno-kun, qual é a sua conexão com aquela mulher?"@
+` Meu coração quase para quando esses olhos frios me encaram.
+\
+` [line=3]Pensei que seria eu quem faria as perguntas, mas nossas posições foram invertidas.@
+` Não sei o que ela fará caso eu não responda, e sinto um arrepio percorrendo todo o meu corpo.@
+cl c,crossfade,400
+\
+`"Ah[line=3]não, Senpai, não é bem assim.@ Sobre ontem à noite[line=4]eu estava suspeitando que a Arcueid pudesse ser a culpada pelos assassinatos em série, mas não parecia certo suspeitar dela, por isso fui perguntar diretamente a ela e[line=3]"@
+br
+` Conto tudo sobre ontem à noite.@
+` A Senpai escuta tudo em silêncio.@
+` Conto como conheci a Arcueid acidentalmente, como ela me explicou sobre o vampiro que está nesta cidade, como me juntei a ela para salvar a cidade e tudo o que aconteceu até esse instante.
+\

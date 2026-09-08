@@ -1,0 +1,36 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` Esse cantinho é para o Tohno-kun malvado, que com muita facilidade acabou chegando a um Final Ruim.@
+` Está na hora do: "Ensine-me, Ciel-sensei!"@
+` Vamos nos ver muito de agora em diante, então vamos nos esforçar bastante e dar o nosso melhor.@
+br
+` A propósito, meus alunos são os milhares de Tohno-kuns que estão por todo o país, e…
+ld l,"tachi/ark_t30",lshutter,400
+br
+`"O quê-nya?@ Que diferença de tratamento é essa?"@
+br
+cl l,lshutter,400
+` Essa foi a heroína principal de Tsukihime, Arcueid-san.@
+` Agora vamos começar o primeiro período!
+\
+` Céus, assim não vai dar, Tohno-kun.@
+` Esse beco sem saída foi um absurdo, né?@
+` Eu sei exatamente como se sente por não querer fazer amizade com aquela vampira suspeita, mas você vai ter que suportá-la dessa vez.@
+` Para viver, é preciso ter resistência.@ É como dizem por aí: Se não pode vencer o inimigo, junte-se a ele.@ Por favor, tente demonstrar a qualidade dos japoneses de nunca ser capaz de dizer não.@
+br
+` Ah, e já que você acabou virando comida de cachorro, vai ter que recomeçar a partir de um ponto anterior e corrigir seus erros.@
+` Também quero te lembrar que você tem a liberdade de escolher qual resposta dará naquela parte do beco, mas acho que não é uma boa ideia fugir.
+\
+` E aqui terminamos o primeiro período.@
+` O segundo período será uma aula sobre animais selvagens.@
+` Ela será chamada de "Agitos e Arrepios na Terra dos Animais".@
+` Até a próxima, tchauzinho pessoal!.
+\
+bg #000000,crossfade,800

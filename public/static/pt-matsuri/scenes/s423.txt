@@ -1,0 +1,43 @@
+playstop
+wavestop
+bg "bg/bg_40c",tshutter,800
+play "*1"
+` Percebo que alguém está cuidando de mim.
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Boa noite.@ Como está se sentindo, Shiki-san?"@
+` Ela fala com o seu sorriso de sempre.@
+`"Ah…… Kohaku[line=3]san."@
+` Consigo falar o seu nome, mesmo com a minha respiração instável.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Não precisa falar.@ Eu entendo a sua condição melhor que você mesmo."@
+` Ainda sorrindo, ela tira a toalha da minha testa.
+\
+` [line=3]O que aconteceu antes foi uma ilusão?@
+br
+` Ela continua normal.@ Não tira o sorriso do rosto e mantém a sua imitação da Hisui.@
+` …… Será que[line=4]@
+` Eu vou morrer assim, incapaz de fazer a sua máscara cair?
+\
+`"A Akiha-sama me contou tudo.@ Ela falou que vai esperar até amanhã, mas aí já pode ser tarde demais.@
+` Pelo visto ela já não consegue mais pensar como um ser racional.@
+` Não acho que você vai conseguir passar dessa noite neste estado, Shiki-san."@
+`"[line=9]"@
+` *chiado* *chiado*
+` As palavras da Kohaku-san são tão verdadeiras quanto são cruéis.
+\
+ld c,"tachi/koha_t08",crossfade,400
+`"Você já tinha me falado uma vez, lembra?@ Disse que não sentia a morte tão perto de si.@
+` Isso vale até agora?@ Você vai continuar indo contra a vontade da Akiha-sama, com o seu corpo nesse estado deplorável?"@
+`"[line=9]Kohaku-san!?"@
+` …… Estou surpreso.@
+` A voz dela[line=3]está completamente diferente de antes.
+\
+`"…… Não mesmo.@ Foi como eu disse, estou mais próximo da morte que a maioria das pessoas…… Por isso, acho que posso entender a situação em que estou.@
+` Não precisava nem dizer[line=3]eu sabia que sobreviver esta noite seria dureza."@
+`"Mesmo assim, você não tem medo de morrer?@ Se você aceitasse a Akiha-sama, já estaria curado, ainda assim, você não o faz.@ Isso não faz sentido, Shiki-san."
+\
+`"…… Não faz sentido mesmo.@ Mas[line=3]acho que tá tudo bem.@ Eu gosto de mim mesmo por agir dessa forma, também gosto da Akiha por gostar de mim como sou.@
+` …… É, e, bem… Eu aprecio as coisas pequenas da vida, como poder conversar com você, Kohaku-san.@
+` …… Porém, sinto que, se eu mentisse para mim mesmo, todos esses pequenos prazeres sumiriam, e eu tenho muito medo disso[line=4]"
+\

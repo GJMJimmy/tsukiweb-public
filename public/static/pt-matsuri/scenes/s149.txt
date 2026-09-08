@@ -1,0 +1,61 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",crossfade,800
+play "*3"
+` A aula do quarto período é Sociedade Moderna.@
+` O clima na sala de aula está um pouco mais leve do que de costume nesse horário, antes do almoço.@
+br
+` Hoje é quarta-feira, portanto temos uma hora a menos de aula.@
+` Depois do almoço, temos uma hora para decidirmos o que fazer no Festival Cultural.@
+` Além disso, amanhã é feriado na escola, quer dizer que depois que o quarto período acabar, já vai ser praticamente o feriado.@
+` Por isso todos estão ansiosos para tocar o sino do final da aula.
+\
+`"[line=4]Que sono!"@
+` Eu solto um bocejo bem demorado.@
+` A classe continua a mesma de sempre, o dia passa sem acontecer nada fora do comum.@
+br
+` Pensando bem, eu tenho passado por tantas coisas esquisitas, que quase me sinto estranho por simplesmente ficar sentado na escola.@
+` E depois que a aula acabar e ficar de noite, vou ter que sair pela cidade com a Arcueid novamente.@
+` Isso me faz lembrar que não tenho tempo para ficar de bobeira.
+\
+` Eu olho para o meu reflexo no vidro da janela.@
+` O rosto de Tohno Shiki parece estar feliz por algum motivo.@
+`"[line=4]Grr."@
+` Eu fecho a cara.@
+` Perambular pelas ruas com a Arcueid não é algo divertido, então, por que estou feliz assim?@
+bg #000000,crossfade,800
+bg "event/ark_e09",crossfade,800
+bg "bg/bg_06a",crossfade,800
+br
+`"…… Arcueid……"@
+` Tem algo de muito errado comigo.@
+` Pela janela posso ver o pátio atrás da escola, e no pátio estou vendo uma ilusão da Arcueid acenando para mim e dizendo "Ei".
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Espera um pouco……!
+\
+bg "event/ark_e09",tshutter,800
+`"O qu[line=2]o qu[line=2]o qu[line=4]"@
+` Eu colo o rosto no vidro e olho para baixo.@
+` Só consigo ver uma parte do pátio,
+` mas sem dúvida alguma,
+` a Arcueid, do jeitinho que ela é, está na minha escola.
+\
+`"!!!!!"@
+` Volto meu olhar para dentro da sala.@
+br
+` [line=4]Por sorte, ninguém notou a estrangeira esquisita acenando para mim.
+\
+`"O que ela está pensando……!?"@
+` Resmungo para mim mesmo enquanto seguro minha cabeça.@
+` Mas ficar aqui reclamando não vai resolver nada.@
+` …… Faltam cerca de vinte minutos para o horário do almoço.@
+` O que você vai fazer, Shiki?@ Se você deixar ela lá sozinha, quem sabe o que ela poderá fazer……!?
+\

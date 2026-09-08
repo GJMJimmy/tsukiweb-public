@@ -1,0 +1,41 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Bonjour ！@
+`　為了“再次”輕鬆踏入Dead End 的不幸的遠野君而特意準備的這個Corner、
+`「教教我吧！@知得留先生！」@的時間終於到了。@
+br
+`　那麼第二回的課程開始了哦。@
+`　這次放送的是關於野生動物學的連載系列，『心驚膽戰動物樂園』，其之一。
+\
+ld l,"tachi/ark_t30",lshutter,400
+`「老師，開始之前我提個問題ー。@這個名字既拗口又難聽ー。@不如叫Siel好了ー」@
+br
+`　不予受理。@
+cl l,lshutter,400
+`[line=4]那麼，遠野君。@
+`　慎重行事的確是個好習慣，不過這次是不是有點過了啊。@
+`　遠野君作為男主角，稍微胡來一點倒也可以容許。@
+`　雖說如此，面對鯊魚這種脫離常識的生物，也是沒辦法的吧。@
+`　這時候就應該果斷地甩掉愛爾奎特，
+\
+ld l,"tachi/ark_t31a",lshutter,400
+ld l,"tachi/ark_t31b",lshutter,400
+`「喵嗚ー！@　真不想被Siel這麼說ー」@
+br
+`[line=3]趕緊把她甩了！@
+cl l,lshutter,400
+br
+`「呀ー、反對暴力ー」@
+br
+`　總之還請遠野君做好覺悟，大膽地在酒店內探險吧。@
+`　動物王國欣欣向榮。@
+`　作為靈長類的代表，好好地讓野獸們長長見識吧ー。
+\
+bg #000000,crossfade,800
+playstop

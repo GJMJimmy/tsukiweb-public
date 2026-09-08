@@ -1,0 +1,39 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_19d",notrans,0
+` Parece que a Arcueid não vai desistir.@
+`"…… Tudo bem.@ Devolva-os assim que terminar de ver."@
+bg "bg/bg_19d",crossfade,400
+monocro #ff00ff
+` Entrego a ela os óculos.@
+` Ela fica olhando eles por um tempo e, em seguida, me encara com um olhar assustador.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Shiki, a pessoa que fez estes óculos ainda está nesta cidade?"@
+`"Acredito que não.@ Já faz oito anos e parece que ela só ia ficar aqui por uma única semana."@
+`"[line=2]Entendo.@ Que bom!@ Não vou ter que lidar com mais ninguém… Enfim, é mais seguro não ter que lidar com um dos Azuis."@
+` Ela retorna aos seus pensamentos.
+\
+`"Arcueid, você conhece a Sensei[line=2]quero dizer, a pessoa que fez estes óculos?"@
+`"…… Sim.@ É uma maga, ela é uma dos quatro magos de sua espécie.@ Estes óculos são verdadeiras obras-primas.@ Nem mesmo eu consigo quebrá-los."@
+` Seu rosto fica com uma expressão mais séria ainda.
+\
+`"…… Espera aí[line=2]você ia quebrar eles?"@
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=4]Hã?@ E-eu disse essa parte em voz alta?"@
+`"…… Eu sabia.@ Você realmente queria quebrá-los."@
+` Pego meus óculos de volta.@
+monocro off
+bg "bg/bg_19d",crossfade,400
+\
+`"Poxa.@ Você acabou de dizer que eu não poderia permanecer são sem estes óculos.@ Por acaso quer que eu enlouqueça?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Não, claro que não.@ Eu só não gosto do quanto você os estima."@
+`"[line=2]Ei, escuta aqui sua…"@
+cl c,crossfade,800
+br
+` …… Nossa.@ É impossível entender como o cérebro dessa lunática funciona.@
+br
+`"É verdade que minhas lembranças da Sensei são preciosas para mim.@ Mas não é só isso, eu não posso viver sem eles.@ Se eu tivesse que ver essas linhas vinte e quatro horas por dia, acho que morreria por causa da dor de cabeça antes de enlouquecer."
+\

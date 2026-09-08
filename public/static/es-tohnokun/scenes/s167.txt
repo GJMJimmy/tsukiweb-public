@@ -1,0 +1,77 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_40a",notrans,0
+`"[line=4]"@
+` Echo un vistazo al reloj.@
+` Ya son más de las nueve.@
+` Ya estoy retrasado, pero aún no es demasiado tarde.
+\
+`"No, mejor no.@ Te ayudaré, pero no puedo dejar que eso afecte mi vida diaria.@ Ya he decidido que sólo trabajeremos durante la noche."@
+ld c,"tachi/ark_t04",crossfade,400
+`"…… ¿Oh?"@
+` Como si quisiese quejarse, ella me mira fijamente.
+\
+`"Bueno, tiene sentido.@ Me estás ayudando para proteger tu manera de vivir, así que no tendría ningún sentido salir de tu vida normal para hacerlo."@
+` Ella capta mi punto muy fácilmente.@
+` …… Es emocional pero lógica, supongo que eso le sienta bien.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Puedes disfrutar tu vida todo lo que quieras.@ Siempre que no olvides tu promesa, no hay problema."@
+cl c,crossfade,400
+` Diciendo eso, ella camina hacia la ventana.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hasta luego.@ Si vuelve a ocurrir esta noche, te mataré."@
+cl c,lshutter,400
+br
+` Arcueid dice la verdad bromeando mientras desaparece.@
+` Saltando por la ventana, brinca los árboles de rama en rama.
+\
+`"………… Estaba bastante enojada."@
+` Pero, la escuela es importante para mí también.@
+` Paso las noches con ella, y creo que estará bien relajarme durante el día.
+\
+`"Bien, entonces ¿voy a la escuela?"@
+` Ya que dormí toda la noche, mi cuerpo está completamente recuperado.@
+` Tengo que ponerme mi uniforme rápidamente y salir a escondidas para que Hisui y Kohaku-san no me vean.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_24a",lcartain,800
+bg #000000,crossfade,400
+bg "bg/bg_24a",crossfade,400
+`"Hm[line=4]"@
+` Estoy un poco mareado.@
+` …… Probablemente sea un efecto posterior a lo de ayer.@ Mi cuerpo se siente un poco pesado y tengo un ligero dolor de cabeza.@
+`"…… Bueno, supongo que así está bien."@
+` Sólo un pequeño mareo.@ Podré tomármelo con calma una vez que me siente en mi pupitre en la escuela.@
+` Me tranquilizo y troto hacia la escuela.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+` [line=4]*suspiro*@
+` Logro llegar a clases antes de la tercera hora.@
+` Mirando alrededor, el asiento de Arihiko está vacío.@ Probablemente está ausente, pero eso significa que hoy será un día tranquilo.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` Hora del almuerzo.@
+` Parece que Arihiko no vendrá.@
+` …… Inui Arihiko y Yumizuka Satsuki son las dos personas ausentes el día de hoy.@ Yumizuka Satsuki cogió un resfriado o algo así y estará ausente por un tiempo.
+\
+`"…… Parece que Senpai tampoco vendrá, supongo que comeré solo."@
+` Digo eso, pero no tengo hambre.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,400
+` …… ¿De qué se trata?@
+` No me sentía muy bien para empezar, pero después de venir a la escuela me siento mucho peor.@
+` No es sólo que mi cuerpo se siente pesado.@ La cicatriz en mi pecho es irritante; es una molesta sensación.
+\
+`"…… Tal vez no debí haber venido a la escuela."@
+` …… Por un breve momento, veo los preocupados rostros de Hisui y Akiha en mi mente.@
+` Agotándome sólo por estar sentado, comienzo a sentir un extraño nerviosismo.
+\
+bg #000000,crossfade,800

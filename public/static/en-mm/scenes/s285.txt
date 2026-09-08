@@ -1,0 +1,148 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Even still, I can't break my promise.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+waveloop se_02
+`"Tss[line=5]!"@
+` I feel like spikes are being driven into my head.@
+` Bearing that, I manage to walk forward.
+\
+`"You mustn't, Shiki-san!@ If you go out like that, we will get in trouble with Akiha-sama!"@
+` Kohaku[line=3]san, tries, to get in my way, to stop me from leaving.
+\
+`"[line=4]"@
+` …… I can understand why.@
+` Even if I go out with this headache, I might very well collapse somewhere.
+\
+` That's why she wants me to stay here.
+\
+` But I won't listen.@
+`"…… Shut…… up."@
+` Why?@
+` For no reason at all, I thought.@
+` I thought that if I didn't see Senpai now, I'll never see her again normally.
+\
+`"If you made some sort of promise, I will go and tell them for you, so please go back to your room and[line=2]"@
+`"Shut up!@ I'm telling you to get out of my way……!"@
+`"Ah[line=4]"@
+` I violently push her away and dash towards the door.
+\
+bg "bg/bg_48a",lcartain,800
+`"You shouldn't, Shiki-san……!"@
+` I ignore her voice and resist the urge to puke as I run.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_22a",lcartain,800
+` I just run.@
+` As if chasing down my promise with Senpai,
+` as if running away from something I can't see,
+` I propel my body down the street as it is on the verge of collapse.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+` [line=3]The street is full of people.@
+` The hot sunshine.@
+` The saturation of activity is painful to watch.@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+` Why do they do this?@
+` Like unthinking insects, ones with intelligence still group up without any theory to solve.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+`"[line=7]"@
+` …… Everything gets hazy.@
+` Is it because of this nausea?@
+` I feel like I… am not me.@
+`"[line=6]Sen, pai."@
+` I look around me.@
+` Where is[line=4]she?@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+` My mind is dizzy and I can't find her.
+\
+` [line=5]Still can't find her.@
+` With all these people,
+`              I can't find her.@
+`              All this randomness.@
+` Nothing.@
+`             Feeling like everything is pointless,
+!w1000
+`        a dizziness that……
+!w2000
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+\
+ld c,"tachi/cel_t01c",lshutter,800
+`"Oh, Tohno-kun.@ I'm surprised you actually made it here on time."@
+`"Sen…… pai?"@
+br
+` [line=3]It's the first time I've seen her in regular clothes.@
+br
+`"…… Um, I was being a bit mean earlier.@ Sorry for making you run here and be exhausted like this."@
+br
+` [line=3]She gives a quick bow of the head.
+\
+`"[line=5]"@
+` That's silly.@ She shouldn't worry about that.@
+br
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_25a",notrans,0
+wavestop
+`"Oh, Tohno-kun[line=3]!?"@
+bg #ffffff,crossfade,800
+br
+` …… Uck.@ I feel sick.@
+` But I'm glad I came.@
+` I got to see Senpai in her normal clothes, so I have to bear this dizziness, and we have to have fun together[line=5]
+\
+!w3000
+play "*1"
+bg "bg/bg_40c",crossfade,1500
+br
+` [line=4]When I wake up, I'm in a bed.
+\
+`"Huh[line=3]?"@
+` Moving my head, I look around me.@
+` This is my room, and it's night outside.@
+` Hisui is here, and she must have been watching over me as I slept.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, have you awoken?"@
+`"…… Hisui.@ Why am I here?"@
+` My arms and legs don't respond.@ Moving just my neck, I look at Hisui.
+\
+`"Shiki-sama, you collapsed outside.@
+` Your friend from school called here and carried you back to the mansion."@
+`"[line=4]Oh.@ That means, I"@
+` Pushed aside Kohaku-san like that, and lost consciousness.
+\
+`"…… I'm an idiot.@ I can't possibly face Kohaku-san now."@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Another headache arrives along with my regret.@
+` …… My body seems to have gotten a little better, but my headache doesn't go away.
+\
+`"…… Hisui.@ What, happened to me?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Please relax, Shiki-sama.@ It does not seem to be serious.@ Nee-san has prepared some medicine, so if you seem to have a headache, please drink it."@
+cl c,crossfade,800
+` Hisui carries a silver tray with some water and the medicine Kohaku-san prepared.
+\
+cl c,crossfade,400
+` But, I don't feel like drinking it right now.@
+`"…… Yeah.@ If it gets terrible, I'll drink it.@ Please put it over there."
+\

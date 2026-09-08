@@ -1,0 +1,58 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+` [line=4]Eu vou procurar no beco que ela estava ontem à noite.@
+` Se ela está fugindo das pessoas, esse é o único lugar que consigo pensar.
+\
+bg "bg/bg_30b",lcartain,800
+` Ainda não consegui controlar minha respiração.@
+` Eu vou correndo com todas as forças que tenho.@
+` Meu coração grita por causa do esforço excessivo.@
+` Eu ignoro-o e continuo correndo para encontrá-la o mais rápido possível.
+\
+bg "bg/bg_31b",lcartain,800
+`"[line=4]Arcueid!"@
+` Assim que chego no beco, chamo pelo seu nome.@
+`"Você está aqui, não está?@ Aparece, Arcueid……!"@
+` Sob o luar, minha voz solitária ecoa pelo beco.@
+`"…… Arcueid……!@ Por favor, aparece……!"
+\
+br
+br
+br
+br
+br
+` …… Ninguém responde.@
+` Não tem ninguém aqui.
+\
+`"Droga…………!"@
+` A Arcueid não está aqui.@
+` Para onde ela foi?@
+br
+` Não vou encontrá-la correndo pela cidade sem um destino.@
+` Desse jeito eu nunca[line=4]nunca mais vou vê-la de novo.
+\
+`"[line=6]"@
+` Não, eu não vou desistir.@
+` Ainda não cumpri minha promessa com ela.@
+br
+` A promessa de ajudá-la a derrotar o vampiro, e a promessa de nos encontrarmos essa noite para podermos lutar juntos.
+\
+`"…… Pro…… messa……"@
+` …… É isso mesmo.@ Ainda tem a nossa promessa.@
+` Mesmo que seja algo unilateral[line=4]mesmo que seja só eu, vou cumprir nossa promessa.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+` Eu volto para o parque.@
+` Nossa promessa ainda existe.@
+` Nossa promessa que ainda não foi cumprida neste lugar.@
+br
+` [line=4]Por isso,
+` se eu não quebrá-la, e ela também achar que é importante,
+br
+` a Arcueid vai voltar para cá.@
+` Só posso continuar acreditando nela e esperando neste lugar.
+\
+bg #000000,crossfade,1500

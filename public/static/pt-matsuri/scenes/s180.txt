@@ -1,0 +1,508 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Eu vou procurar no distrito comercial.@
+br
+` Ela não é o tipo de pessoa que pararia para descansar só porque começou a sentir dor daquele jeito.@
+` Ela me mandou ir embora.@ Quer dizer que ela não vai embora.@
+` Acho que planeja encontrar o vampiro sozinha.
+\
+` É por isso que[line=4]eu vou para o distrito comercial encontrar o vampiro ou os Mortos antes dela.@
+` Ela não pode encontrá-los facilmente, mas eu posso vê-los se tirar os óculos.@
+br
+`"[line=6]Muito bem."@
+` Eu tiro os óculos fazendo uma careta por causa da dor de cabeça repentina e corro na direção do distrito comercial.
+\
+bg #000000,lcartain,800
+monocro #ff00ff
+bg "bg/bg_26a",lcartain,800
+`"Ugh[line=4]"@
+` A dor percorre minha testa.@
+` …… Não estou me concentrando em olhar para as "linhas", mas só de correr pela cidade sem os óculos já é um fardo enorme para o meu cérebro.@
+br
+`"Droga[line=4]nem assim eu encontro alguma coisa."@
+` …… Todas as pessoas que estão passando pelo distrito comercial têm "linhas" normais.@
+` Não estou vendo ninguém com aqueles rabiscos bagunçados que vi naquele Morto.
+\
+`"…… Ai"@
+` Esfrego minha testa com os dedos.@
+` Enquanto eu estiver sem os óculos essa dor de cabeça só tende a piorar.@
+` Mesmo assim[line=2]não posso desistir.@
+` Tomo um grande fôlego e volto a correr pelo distrito comercial.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_26a",lshutter,800
+` Começo a ofegar por causa do esforço.@
+` O cansaço de correr somado à dor de cabeça me deixa enjoado.@
+` Não importa quantas vezes eu procure por aqui, não vejo nenhum Morto nem nada de anormal.@
+` Coloco a mão na testa e percebo que ela está muito quente.@
+` Parece que estou com uma febre muito alta.@
+`"…… Droga, ainda não vou desistir[line=4]"@
+` Eu digo isso para mim mesmo e começo a correr outra vez.
+\
+br
+` [line=4]E então.@
+br
+wave se_12
+mov %flushcount,0
+bg #0000ff,notrans,0
+wait 16
+bg "bg/bg_26a",notrans,0
+wait 16
+dec %flushcount
+if (%flushcount>=0) skip -5
+`"…………… Ah."@
+` Não é aqui, está um pouco mais longe.@
+` Em um beco estreito entre dois prédios, vejo algo parecido com faíscas voando.@
+` Não, para ser mais preciso,
+` parece que os "pontos" de morte estão se atirando em alguma coisa e desaparecendo.
+\
+`"[line=4]Só pode ser…"@
+` …… Tenho certeza.@
+` É igual quando a Arcueid derrotou aquele Morto no outro dia.@
+` Ela[line=4]está naquelas condições e ainda por cima enfrentando os Mortos sozinha……!@
+br
+`"[line=4]Eu te encontrei……!"@
+` Esquecendo da minha dor e do meu cansaço, corro para o beco.
+\
+monocro off
+bg #000000,lcartain,800
+play "*6"
+` A entrada do beco.@
+` Eu corro para o caminho estreito entre os prédios.@
+br
+` A "Morte" está voando para todos os lados e desaparecendo.@
+` …… Com quantos ela está lutando?@ Tem uma quantidade absurda deles aqui.
+\
+`"[line=6]Gh."@
+` Eu não consigo suportar.@
+` Enquanto corro para o beco, minha coluna geme, protestando.@
+br
+`"Ha[line=6]agh."@
+` A dor é insuportável.@
+` É como se tivesse uma serra rasgando ela lentamente.@
+` Meus instintos estão gritando comigo.@
+` Estão dizendo que estou indo para um lugar muito perigoso e que tenho que voltar agora.
+\
+`"Fique[line=4]quieto."@
+` Mas o motivo é óbvio.@
+` A quantidade de morte neste beco não é normal.@
+` Eu sei que algo terrível está acontecendo aqui.@
+` Mas não posso voltar agora.@
+` Não vou deixar a Arcueid sozinha.@
+` Se eu[line=4]fugir daqui, ela pode acabar morrendo.@
+` Não consigo me livrar da sensação de que isso vai acontecer e, assim, entro no beco preenchido apenas com a morte.
+\
+monocro #ff0000
+monocro #ff0000
+bg "bg/bg_31b",lcartain,800
+`"O qu[line=6]"@
+` Minha mente congela.@
+br
+` Isso é surreal.@
+br
+` Tem pedaço de gente para todos os lados.@
+` Corpos sem rostos, sem membros, com a barriga aberta, alguns estão completamente ensanguentados.@
+br
+` Eles estão pregados nas paredes, caídos no chão, até mesmo quando olho para cima vejo pedaços de gente.@
+` Tudo neste lugar está… vermelho.
+\
+` Um som doentio.@
+` A última[line=4]a última coisa com forma humana e cheia de linhas sai voando da mão dela.@
+br
+` Com apenas uma mão.@
+` Ela espreme a cabeça do Morto na parede, esmagando como se fosse um tomate.@
+` Não satisfeita, ela parte ao meio o corpo sem cabeça e em seguida o esmaga no chão.
+\
+monocro off
+bg "bg/bg_31b",crossfade,400
+`"Ar[line=4]cueid."@
+` O mundo está preenchido apenas com sangue e com o luar.@
+` E no centro disso tudo está a Arcueid.@
+` Ela não notou que estou aqui.@
+` Ela apenas fita a lua[line=4]em transe, ofegando.
+\
+`"[line=6]"@
+` Eu não consigo dizer nada.@
+` A dor que me assola chega a um ponto febril.@
+` Parece que aquela serra me cortou por completo.
+\
+br
+` [line=4]Creak Creak.@
+br
+` Todo o meu corpo está gritando.@
+` Eu não devia estar aqui.@ Eu não quero morrer, é o que ele grita.@
+br
+` E então,
+` os olhos da Arcueid mudam de direção.@
+playstop
+ld c,"tachi/ark_t20b",notrans,0
+waveloop se_02
+` Seus olhos, que deviam ser vermelhos, estão dourados.@
+` Não estou dizendo que nossos olhares se encontraram.@
+` Estou dizendo que eu olhei para aqueles "olhos".
+\
+` Tu, dum.@
+` Meu coração acelera, meu corpo e minha mente estão abalados.@
+br
+br
+br
+` [line=4]A princípio, uma sensação de medo avassaladora.
+\
+` Eu não devia estar aqui.@
+` Eu não devia estar na frente daquela coisa.@
+br
+`   ELA VAI TE MATAR.@
+`   VOCÊ NÃO PODE VENCÊ-LA.@
+br
+` Aquela "criatura" está em um nível completamente diferente.@
+` Não é uma questão de nível mais alto ou mais baixo, ela é uma coisa que não dá pra ser avaliada.@
+` Estou em frente a essa coisa[line=4]só o fato de estar aqui significa minha morte.
+\
+` TUM.@
+` Todo meu corpo lateja.@
+br
+` De início era por medo.@
+` Mas agora é apenas pela vontade de matar.@
+br
+` Aquela coisa não deveria existir.@
+` Por isso mate-a.@ Anda logo, mate-a.@ Mate-a aqui.@ Mate-a agora.@
+` Em nome deste sangue,
+!w500
+` pegue sua faca,
+!w500
+` e destrua aquela coisa[line=4]
+\
+br
+` Meu coração bate furiosamente.@
+br
+` Eu sei que não posso derrotá-la, mas todo o meu corpo grita para que eu a mate.@
+` Que contradição[line=4]Ele está me dizendo para matá-la mesmo sabendo que é ela quem vai me matar?
+\
+` Ele está me dizendo que devo matá-la ou morrerei!?
+\
+`"Gah[line=4], ah."@
+` …… Não.@ Não vou… eu.@
+` Aqueles olhos[line=4]não posso olhar para aqueles olhos dourados.@
+` Eu sei muito bem disso, mas não consigo fugir deles.
+\
+` Tu, dum.@ Tu, dum.@ Meu sangue está fervendo…@
+` O sangue está estimulando todo o meu corpo.@
+` Mas tem outra coisa que está tentando dominar minha consciência.
+\
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+wavestop
+ld c,"tachi/ark_t20b",notrans,0
+play "*4"
+br
+br
+`"Gh[line=4]ah, ghaa[line=4]"@
+br
+br
+` Por que eu quero matá-la?@
+` Vou matá-la simplesmente porque não quero morrer?@
+` Não, isso não é motivo para matar.@
+` Não é preciso um motivo para se matar.@
+` Seja sincero, Tohno Shiki.@
+` Já faz muito tempo que você[line=4]quer pegar essa mulher e…
+\
+br
+br
+`"Cala[line=4]a boca."@
+br
+` Não, a sua razão e a sua consciência é que deviam se calar.@
+` É assim que devia ser.@
+` Eu só[line=4]quero ela.@ Eu quero a Arcueid.@ Lembre-se.@ Lembre-se da sensação daquela vez.@
+` Você sabia desde a primeira vez que a viu.@
+` Desde quando matou aquela criatura com suas próprias mãos e perdeu sua virgindade como assassino[line=6]!@
+bg "bg/ima_13b",crossfade,800
+monocro off
+\
+br
+br
+`"Ah[line=6]
+\
+`Ah."@
+br
+br
+` Sim.@ Eu a quero por completo.@
+!w1200
+` Seu coração, seu corpo,
+!w700
+` Suas lágrimas, sua saliva,
+!w500
+` Seu sangue, sua carne, pecado e punição, desejo e impaciência[line=6]
+\
+br
+br
+`"HA[line=4]agh……!"@
+br
+br
+br
+` Minha respiração está fora de controle.@
+` Não consigo mais me concentrar.@
+` Os olhos dela estão me consumindo.@
+` Estes olhos dourados, vacilantes.
+\
+br
+br
+br
+br
+br
+br
+` Ela é,
+!w750
+` uma coisa que não pode ser morta independente de quantas vezes eu a mate…
+!w750
+\
+playstop
+bg "bg/bg_31b",crossfade,400
+ld c,"tachi/ark_t18",crossfade,400
+`"[line=4]Shiki!?"@
+` A Arcueid percebe que estou aqui.@
+` Assim que vê que estou fascinado pelos seus olhos, ela volta a cor para o vermelho original.@
+br
+` Mas, agora,
+` é tarde demais.
+\
+bg #000000,lshutter,400
+` Eu saco minha faca e a empurro para o chão.@
+` Seu corpo é fácil de empurrar.@
+` Eu monto em cima dela.@
+` Coloco um braço no seu pescoço e o outro segura a faca logo acima da sua cabeça.@
+br
+` Agora é só,
+` acertá-la no meio do peito.
+\
+`"Acalme-se[line=4]!@ Você não quer fazer isso, Shiki……!"@
+br
+` Ouço a voz dela.@
+` O núcleo do meu cérebro está superaquecendo.@
+br
+`"Cala a boca[line=6]!"@
+` Eu aperto o braço no seu pescoço.@
+` Ela levanta o queixo com dor.@
+` …… Não posso acreditar.@
+` Com toda a sua força atual, ela nem consegue se livrar do meu braço.
+\
+`"Shi[line=4]ki."@
+` Respirando com dificuldade, a Arcueid tosse o meu nome.@
+` Tu, dum.@
+` Meu coração acelera.
+\
+wave se_01
+` Estou ofegando.@ Ofegando muito.@
+` Não consigo controlar minha respiração.@
+` Minha visão está borrada.@
+` Esse calor dentro de mim[line=4]preciso liberá-lo nesse instante.
+\
+eroskip 26
+wave se_01
+` Arf.@
+` Começo a me mover lentamente.@
+` Levo meu quadril para baixo da sua barriga.@
+` Abro suas pernas e entro no meio delas.
+\
+waveloop se_02
+`"O qu…"@
+` Ela me olha hesitante.@
+` Esse olhar me enlouquece.@
+br
+` Arf.@ Arf.@
+` Está inchando.@
+` Meu pinto incha tão rápido que é quase doloroso.@ Eu tenho que possuí-la nesse minuto ou vou enlouquecer.
+\
+` Suas bochechas estão vermelhas de vergonha.@
+` Este pescoço macio, irresistível.@
+` E debaixo de mim, está o seu corpo perfeito, incomparável.
+\
+` Minha respiração preenche o ambiente.@
+` Eu sinto seu coração batendo.@
+br
+` Arf, arf, arf.@
+` Seus olhos parecem sugar minha alma.
+\
+` Eu solto seu pescoço.@
+` Em seguida toco seus seios.@
+` Seus braços.@ Suas pernas.@
+` Meus dedos percorrem sua pele macia sob as roupas, absorvendo a frieza do seu corpo.
+\
+`"Não[line=4]você, não é assim, Shiki……!"@
+br
+` Sua voz ardente.@
+` Seus olhos vermelhos convidativos.@
+` Depois de ver tudo isso, minha sanidade é completamente destruída.
+\
+bg "event/ark_h03",lshutter,800
+`"N………!"@
+` Ela sufoca seus gemidos, morrendo de vergonha.@
+` E tenta me empurrar freneticamente com as mãos.
+\
+` Tirando suas mãos do caminho, eu a exponho completamente.@
+` Seria melhor ter alguns pregos comigo!?@
+` Com as mãos para cima e as pernas abertas, a Arcueid me olha com ódio puro.
+\
+`"[line=6]Kk."@
+` Exposta assim, ela está ainda mais bonita.@
+` Mas eu também não posso usar meus braços nesta posição.@ Se eu soltá-la, ela vai rasgar minha garganta na mesma hora.@
+br
+` Essa tensão.@ Esta posição que faz parecer que estamos tentando matar um ao outro ao invés de eu tentando estuprá-la, só aumenta meus desejos carnais.
+\
+`"[line=2]Pare[line=4]pare, ou vai se arrepender[line=4]"@
+` Não vou deixá-la terminar de falar.@
+` Como minha boca está livre, uso-a para despi-la.
+\
+br
+` Respirando como um animal, violentamente rasgo suas roupas.
+\
+`"…… Nn, Shiki, controle-se[line=4]!"@
+` Ela se contorce, ainda tentando resistir e tremendo com minha pegada.@
+br
+` [line=4]Ar… f.@
+br
+` Minha respiração quente sobre sua barriga.
+\
+`"Ah[line=5]n……!"@
+` Ela é tão sensível assim?@ Todo o seu corpo reage a isso.@
+` …… Estou com tesão.@
+` Despindo-a, minha língua dança pela sua pele macia.
+\
+`"Shiki, não[line=4]!"@
+` Ela faz mais força para se soltar, mas sou mais forte que ela nesse momento.@
+` Não vou deixar ela resistir.@
+` Eu continuo arrancando suas roupas.@
+` Em meio a isso, seu sutiã fica preso nos seus seios, mas simplesmente rasgo-o com os dentes.
+\
+` Seus seios balançam quando faço isso.@
+` Seus seios enormes estão bem na minha frente.@
+` Eu mordo em um deles.@
+br
+`"Naha[line=4]!"@
+br
+` Ela geme.@
+` Seu corpo arqueia.@
+` Não me importo.@
+` Eu corro a língua na carne deliciosa que está entre meus dentes, saboreando vagarosamente.
+\
+`"Shi…… ki………, para……!"@
+` Sua voz ardente.@
+` Seus mamilos rosados endurecem.@
+` Seu corpo não mente, seus mamilos endurecem independente do que ela esteja pensando.@
+`"N[line=8]!"@
+` Ela deve estar morrendo de vergonha já que sufoca seus gemidos.@
+`"Shiki[line=4]se continuar com isso, logo depois[line=4]"@
+` Ignorando-a, continuo lambendo seus seios deliciosos.
+\
+`"N…… ah[line=4]!"@
+` Seu rosto se contorce.@
+` Seus seios são firmes.@ Quanto mais eu enterro minha cara neles, mais eles me empurram de volta.@
+` Seus seios brancos ruborizam.@
+` Eu continuo chupando.@
+`"…… Ah…… oh…… ah, n[line=4]"@
+` Sua voz excitada.@
+` Seu corpo brilhando de suor.@
+` Sua cabeça inquieta, seus suspiros de dor.
+\
+` Minha língua brinca com os seus seios.@
+` Não há razão para isso.@
+` Mas só o que resta em mim é o desejo de lambê-la, deixá-la com tesão, e simplesmente brincar com ela.@
+br
+` Eu enterro minha cara nos seus seios novamente.@
+` Eles brilham com minha saliva.
+\
+`"…… Ha…… pa[line=2]ra…… eu…… nunca vou…… te… perdoar……!"@
+` Ela está rangendo os dentes.@
+` Estou chateado por ainda estar agindo dessa forma.@
+` Por isso mordo seus mamilos.@
+`"N, gah[line=5]!!"@
+` Seu corpo arqueia novamente.@
+` Com muito mais força que antes.
+\
+` Eu não tenho a menor intenção de fazer as preliminares carinhosamente.@
+` Apenas movo meu rosto.@
+`"P-para…… Shiki, por… favor[line=3]"@
+` Levo minha língua entre seus seios.@
+`"Se, me tocar aí, eu… vou[line=4]"@
+` Eu dou um chupão na mesma hora.@
+br
+`"Hwaa[line=4]!"@
+br
+` Seus braços protestam.@
+` Ainda segurando-os, minha língua continua percorrendo seu corpo.@
+` Dos seus seios para sua clavícula.@ E dela para seu pescoço.
+\
+`"Não…… Shiki… você… nem… gosta… de… mim……!"@
+` Ela está falando alguma coisa.@
+` Mas não a ouço.
+\
+` Seu corpo brilhando de suor e com a minha saliva destrói qualquer razão em mim.@
+` Este corpo maravilhoso fica melhor ainda todo suado.@
+br
+` [line=4]Tu, dum.@
+br
+` Minha ereção está dolorosa.@
+` Eu quero possuí-la nesse exato momento.
+\
+` Minha respiração ecoa pelo beco.@
+` Não preciso me segurar.@
+` Se quero fazer isso, vou fazer agora.@
+` Eu levo minha boca até sua parte inferior.@
+`"…………!!!"@
+` Ela luta com mais força para se libertar.@
+` Se continuar assim ela vai se soltar.
+\
+` Antes que isso aconteça,
+` eu passo a língua rapidamente pelo seu umbigo.@
+` E chego no meio dos seus cachos dourados.@
+` Eu lambo suas dobras vermelhas e carnudas.@
+br
+` Eu chupo levemente a protuberância entre suas paredes lisas.
+\
+`"Ah[line=4]N[line=2]não[line=5]!"@
+` Ela arqueia novamente.@
+` Eu mordo a parte mais sensível do corpo de uma mulher.@
+` Essa sensação de prazer é muito diferente de quando eu estava lambendo só o seu corpo.
+\
+` Olho para sua boceta,
+` e vejo um líquido pegajoso saindo lá de dentro.@
+` O cheiro da sua essência ardente.@
+` Não me importo se ela está lubrificada o suficiente.@
+` Não me importo se ela vai sentir prazer.@
+br
+` Eu só[line=4]quero possuir esta mulher.
+\
+`"[line=6]Shi… ki."@
+` Sua voz está fraca, como se entendesse o que está para acontecer.@
+` Ela desistiu?@ Ela me observa com os olhos umedecidos.@
+br
+`"[line=6]"@
+` Seus olhos… umedecidos.@
+` Isso significa que…
+` ela está chorando?
+\
+bg #ffffff,crossfade,400
+bg "event/ark_h03",crossfade,400
+`"Ghaa…………!"@
+` Minha cabeça está se partindo de tanta dor.@
+` Meus instintos me dizem para continuar.@
+` Dizem que se eu parar agora estou morto.@
+` Meu coração bate muito rápido[line=4]Dizendo que se eu não fizer isso agora, ela vai me matar depois.
+\
+bg #ffffff,crossfade,400
+bg "event/ark_h03",crossfade,400
+`"[line=6]"@
+` Ela está chorando.@
+` Por que[line=4]ela está chorando?@
+` Se dependesse de mim, eu nunca faria ela chorar.
+\
+bg #9c0120,crossfade,400
+bg "event/ark_h03",crossfade,400
+` Minha dor de cabeça continua.@
+` Gritando para que eu continue.@
+` [line=4]É estranho ser distraído agora.@
+` Só tem uma coisa que precisa ser feita.@
+` Eu[line=4]
+\

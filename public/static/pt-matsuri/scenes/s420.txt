@@ -1,0 +1,328 @@
+playstop
+wavestop
+bg "bg/bg_33d",notrans,0
+br
+` [line=3]Eu vou conferir quem é.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48d",lcartain,800
+` Vou para fora da mansão.@
+` A lua, que antes iluminava tudo, está escondida pelas nuvens.@
+br
+`"Hum………?"@
+` Alguém está abrindo o portão da frente.@
+` Começo a dizer algo…
+`"………… Akiha?"@
+` A Akiha rapidamente olha por sobre o ombro e sai pelo portão.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_48d",crossfade,400
+waveloop se_02
+`"Hã[line=5]?"@
+` Tum, dum.@
+` O meu coração começa a bater mais rápido.@
+br
+` Tum, dum.@
+` TUM, DUM.@
+` Tum, dum.@
+` TUM, DUM.@
+br
+` É como se o meu coração estivesse renovando o sangue do meu corpo e me dando mais energia.@
+` Consigo sentir o sangue circulando por todo o meu corpo e os meus dedos tremerem.@
+`"Ah[line=5]"@
+` Um calafrio atravessa a minha espinha.@
+` Apesar disso tudo, sinto como se o meu corpo estivesse ardendo.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_32d",notrans,0
+`"Akiha[line=4]o que ela foi fazer tão tarde da noite[line=3]?"@
+` Estou sentindo um pouco de tonteira.@
+` Tento pensar racionalmente, mas paro.@
+` Neste momento, preciso segui-la.
+\
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_24c",lcartain,800
+play "*6"
+`"Haa[line=4]"@
+` Contendo o fôlego, sigo-a.@
+` Tum, dum.@ Tum, dum.@
+` O meu coração está furioso.@
+` Sigo-a silenciosamente para que não seja percebido.
+\
+` Tum, dum.@ Tum, dum.@ Tum, dum.@
+` Eu me arrependo de não ter trazido a minha faca.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Não há mais a luz da lua, agora já é meia-noite.@
+` Não há sinal de mais ninguém nas ruas.@
+wave se_01
+`                Tum, dum,
+`                Tum, dum.
+\
+` A Akiha caminha, vacilante.@
+` Tento silenciar a minha respiração e aguardo uma oportunidade.@
+wave se_01
+`                Tum, dum
+`                Tum, dum.@
+` Está demorando para ficarmos a sós.@
+` Não importa para onde esteja indo.@
+wave se_01
+`                Tum, dum,
+`                Tum, dum.
+\
+` Estou com muita sede.@
+` Estou excitado demais.@
+wave se_01
+`                Tum, dum,
+`              Tum, dum, Tum, dum.@
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+wave se_01
+br
+` [line=3]Do nada, perco-a de vista.@
+` Para onde ela foi?
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Volto para a rua principal.@
+` O meu instinto me diz que vou encontrá-la novamente se esperar aqui.@
+wave se_01
+` Inspiro e expiro profundamente.@
+` O meu coração ainda está queimando.@
+`"[line=7]"@
+` Que estranho.@
+` Isso não é um sonho.@
+` Não é um sonho, então por que[line=4]o meu sangue queima enquanto sigo a Akiha?@
+wave se_01
+` É commo se[line=12]eu quisesse matar a Akiha.
+\
+waveloop se_02
+`                  Tum, dum
+!w1000
+`                  Tum, dum
+!w1000
+`                  Tum, dum
+!w750
+`                  Tum, dum
+!w750
+`                  Tum, dum
+!w750
+`                  Tum, dum
+!w500
+`                  Tum, dum
+!w500
+`                  Tum, dum
+!w500
+`                  Tum, dum
+!w250
+`                  Tum, dum
+!w250
+`                  Tum, dum
+!w250
+`                  Tum, dum
+\
+wavestop
+` Eu sinto a presença de alguém e imediatamente me escondo.@
+` A Akiha está vindo.@
+` Ela olha de um lado para o outro, parece procurar alguma coisa.@
+br
+`"……… Acho que não tem mais ninguém aqui."@
+br
+` Ela pensa em voz alta.@
+` Devo estar muito perto se posso ouvi-la dessa forma.@
+` Espiando de entre as sombras, olho para a rua.
+\
+ld c,"tachi/aki_t27",lshutter,400
+`"[line=3]"@
+` A minha cabeça dói.@
+` O ar à minha volta fica tenso.@
+bg #000000,notrans,0
+br
+` [line=4]Eu caio no chão.@
+br
+` Nunca senti tanta dor antes.@
+` É tão forte que me faz pensar que o meu crânio rachou no meio e eu vou morrer nesse instante.
+\
+playstop
+!w2000
+bg "bg/bg_25b",crossfade,400
+`"Ah[line=5]aaaaaiii…………"@
+` Balançando a cabeça, eu me levanto.@
+` Não sei por quanto tempo fiquei daquele jeito, mas a noite está quieta.@
+br
+` [line=3]Espera um pouco.@
+br
+`"P-por que eu estou aqui!?"@
+` Estou na rua principal da cidade.@
+` Eu vi a Akiha saindo pelo portão, depois disso[line=4]é mesmo, eu segui ela.@
+`"…… O que eu estou fazendo?"@
+` Fico surpreso com as minhas próprias ações.
+\
+`"[line=6]Hum?"@
+` Um cheiro desagradável invade o meu nariz.@
+` Um cheiro desconhecido para mim até então.@ O cheiro que ficava na minha boca durante aqueles meus sonhos macabros.@
+`"…… Está vindo daquele beco……?"@
+` Com um mau pressentimento, corro até o beco.
+\
+bg #000000,lcartain,800
+bg "bg/bg_31b",lcartain,800
+bg "bg/ima_13b",lshutter,800
+waveloop se_11
+` [line=3]É como uma reconstituição do sonho de ontem.@
+br
+` Há uma pessoa desconhecida desmaiada no beco.@
+` Apesar do sangue jorrar do seu pescoço, ela ainda está respirando.@
+`"[line=9]"@
+` Tudo na minha frente fica vermelho.@
+` Mas isso não é um sonho.@
+` Estou conseguindo pensar racionalmente, pode ser por ter tido todos aqueles sonhos em que via assassinatos todos os dias.
+\
+bg #000000,lcartain,400
+bg "bg/bg_25b",lcartain,400
+` Volto para a rua.@
+` Vou para o telefone público mais próximo e ligo para um hospital aqui perto.@
+` Depois de dar um nome falso, digo onde a vítima está e a sua condição, depois desligo.@
+` Agora preciso voltar para a mansão antes que a ambulância chegue e sem que ninguém veja.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48d",lcartain,800
+bg #000000,lcartain,400
+bg "bg/bg_33d",lcartain,400
+` *arf* *arf* *arf*[line=6]
+` Depois de correr sem parar, finalmente consigo relaxar.@
+` Não fiz nada para me sentir culpado, porém sinto que seria ruim me envolver naquilo, por isso fiz a minha parte e desapareci.@
+` …… A pessoa no beco ainda estava respirando,
+` o ferimento não estava tão ruim, acho que não era fatal.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"Ah[line=5]"@
+` …… Como esperado, correr até aqui com força total, incluindo a subida, foi extrapolar os meus limites.@ Estou totalmente sem ar.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"Merd[line=2]"@
+` …… Estou com uma tonteira absurda.@
+` Sinto a minha consciência desaparecendo.@
+` Não é uma tontura normal.@
+` Com uma tontura dessas, não vou conseguir me levantar tão cedo se cair no chão de novo.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"Merda……… Preciso[line=3]voltar para[line=4]o meu quarto[line=4]antes que[line=4]"@
+` Eu me apoio nas escadas.@
+` Consigo subir um degrau.@
+bg #000000,crossfade,1500
+` E foi só esse degrau mesmo.@
+` Eu desmaio.
+\
+!w4000
+phase "bg/bg_36d",l,koha,08a,8
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Os fortes raios de sol me obrigam a abrir os olhos.@ Estou no meu quarto.@
+` Estou de pijamas e deitado na cama.
+\
+wave se_04
+`"Com licença."@
+` Após uma batida na porta, ela se abre.@
+` A Kohaku-san entra, carregando uma toalha e um balde.@
+ld c,"tachi/koha_t02",lshutter,400
+`"Bom dia, Shiki-san.@ Como está se sentindo?"@
+` Ela se aproxima de mim com um sorriso normal.@
+`"[line=7]"@
+` Penso na conversa de ontem à noite com a Hisui.@
+` Obrigo a minha mente a esquecer esse assunto por enquanto e tento sorrir como de costume.
+\
+`"Bom dia, Kohaku-san.@ Hum[line=3]você me carregou até aqui?"@
+ld c,"tachi/koha_t03",crossfade,400
+`"Hum?@ Você se esqueceu, Shiki-san?@ Eu te encontrei nas escadas, você se levantou assim que te chamei.@
+` Disse que tinha tirado uma boa soneca e começou a andar.@ Apoiei você com o meu ombro, mas foram os seus pés que o trouxeram pra cá."@
+` ……… *suspiro*@
+`"Não lembro de nada.@ Devo ter ficado muito cansado para esquecer do que fiz."
+\
+`"Não se lembra de nada de ontem à noite?"
+\
+`"…… Algumas coisas sim, outras não.@ Não consigo lembrar de nada depois que voltei para a mansão."@
+ld c,"tachi/koha_t18",crossfade,400
+`"Ahaha.@ Que pena.@ Você ficou se desculpando comigo sem parar, Shiki-san.@
+` Perguntei qual o motivo de tantas desculpas, e você repetia que era um idiota, burro e estúpido.@
+ld c,"tachi/koha_t02",crossfade,400
+` Você realmente é um idiota, burro e estúpido?"
+\
+`"Não, acho que não totalmente."@
+` …… Bom, agora está ficando mais do que claro que elas acham que tenho uma azeitona em vez de cérebro.
+\
+cl c,lshutter,400
+`"…… De todo modo, muito obrigado.@ Eu teria pego um resfriado se tivesse dormido nas escadas, e tem aula hoje[line=3]"@
+` Hã?@ Estou vendo direito?@ O relógio indica que já passam das dez da manhã.@
+`"Ah[line=3]!@ K-Kohaku-san, eu tenho aula!"@
+ld c,"tachi/koha_t03",lshutter,400
+`"Não tem não.@ Hoje é o dia da fundação da sua escola, portanto não tem aula."@
+`"[line=8]"@
+` É mesmo.@ Tinha esquecido disso.@
+` Esqueci por completo, já que ando com a cabeça nas nuvens quando estou na escola.
+\
+`"Bem, é melhor eu sair da cama logo.@ Sei lá o que a Akiha vai fazer se eu continuar deitad[line=3]"@
+` Sento na cama.@
+quakey 1,300
+`"Hum[line=5]não estou conseguindo."@
+` O meu corpo não me obedece.@
+` Tento usar os braços, mas eles não têm força.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Parece que a sua condição não melhorou.@ Você está com um pouco de febre e está pálido.@ Talvez seja entediante, mas fique de cama hoje, Shiki-san."@
+cl c,lshutter,400
+` A Kohaku-san seca a minha testa com uma toalha fria e úmida.@
+` …… É uma sensação agradável e gelada.
+\
+`"Hum, parece que a febre abaixou.@ Você não está suando tanto e o seu rosto está com uma aparência melhor.@ Deve melhorar mais até a noite."@
+` Ela traz um termômetro e uma bolsa de gelo.@
+` …… No fim, ela me faz abrir a boca e confere a minha língua.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Já já trago um mingau de arroz pra você.@ Melhor se comportar hoje, hein, Shiki-san."@
+cl c,lshutter,400
+`"Ah[line=3]Kohaku-san."@
+ld c,"tachi/koha_t03",lshutter,400
+`"Hum?@ O que foi?"@
+` …… Como esperado, ela continua igual.@
+` O seu sorriso animado continua o mesmo.@
+` Eu[line=4]eu não consigo me forçar a pensar que esse sorriso é só uma atuação.
+\
+`"…… Não é nada.@ Estou ansioso para comer o seu mingau."@
+ld c,"tachi/koha_t05",crossfade,400
+`"Tá bem, então, com licença."@
+cl c,lshutter,400
+` Ela caminha pelo corredor, seus passos ecoam por trás dela.@
+` Fico observando onde ela estava, sem dizer mais nada.
+\
+bg #000000,tshutter,400
+playstop
+!w2500
+bg "bg/bg_40a",bshutter,400
+play "*1"
+` O meio-dia chega.@
+` Depois de me trazer a comida, a Kohaku-san voltou aos seus afazeres.@
+` …………………… *suspiro*@
+` Sozinho, suspiro enquanto penso em minhas circunstâncias surreais.@
+` …… O fato de eu ser adotado.@
+` …… A Akiha dizer que não se importa com isso.@
+` …… A questão sobre a Hisui e a Kohaku-san.@
+` …… E o assassino que ainda está à solta.
+\
+` Perguntei para a Kohaku-san, mas parece que não houve anúncios de uma nova vítima hoje.@
+` Acho que a pessoa de ontem à noite foi salva, mas haverá mais vítimas enquanto o SHIKI estiver à solta.@
+`"…… Se esse meu corpo ao menos me obedecesse, eu[line=3]"@
+` Eu poderia impedi-lo.@ Deito a cabeça no travesseiro enquanto começo a dizer isso.@
+` Talvez seja por causa desses sonhos, mas estou começando a ter pensamentos violentos, igual ao SHIKI.@
+`"…… Independente do que eu queira fazer, primeiro preciso melhorar."@
+` Eu fecho os olhos.
+\

@@ -1,0 +1,92 @@
+bg "bg/bg_06a",notrans,0
+play "*3"
+` Eu permaneço na sala de aula.@
+` Meu almoço muda todo dia, de acordo com o meu humor.@
+` As vezes a Keiko-san faz o almoço para mim.@ As vezes fico com vontade de comer udon e acabo comprando na escola mesmo.@ E quando estou com preguiça, simplesmente compro pão e leite.@
+` Hoje eu não pedi para ela fazer o meu almoço.@ Como não vou mais voltar para a casa dos Arimas, recusei a oferta hoje de manhã.@
+` E por causa disso, não vou ter nada para comer se continuar aqui na sala de aula.@
+` Vou ter que ir ao refeitório, mesmo sem estar com vontade.@
+`"Então é assim que tem que ser."@
+` Saio da sala meio irritado.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` O refeitório está lotado como sempre.@ Há uma fila enorme de pessoas esperando por seus pedidos.@
+` Entro na fila e peço um chikara udon.@
+` Olho ao redor e vejo um rosto familiar em uma mesa mais ao fundo.@
+ld c,"tachi/ari_t05",crossfade,400
+`"Aê, Tohno!@ Tô aqui!"@
+` O Arihiko, animado como sempre, acena com o braço.@
+cl c,crossfade,400
+br
+`"……"@
+` Minha cabeça dói.@
+` Mas não tem nenhum outro lugar vazio, então não tenho escolha a não ser ir para a mesa onde o meu amigo está.
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+ld c,"tachi/ari_t01",lshutter,400
+`"Pô!@ Você tá atrasado, Tohno!@ Eu falei que tinha convidado uma pessoa importante hoje, você devia ter chegado mais cedo."@
+` Apesar de dizer isso, ele está sozinho.@
+`"Então, quem é esse convidado importante?"@
+ld c,"tachi/ari_t02",crossfade,400
+`"Ah… ela me deu um fora.@ Disse que estava ocupada com alguma coisa.@ Mas falou que vem na próxima vez."@
+`"Humm… te deu um fora, né?@ Então era uma garota?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Sim, é uma senpai que eu tô tentando pegar.@ Bem, ela é muito popular, não vai ser fácil."@
+` Indo direto ao ponto, Arihiko começa a comer o seu udon de curry.
+\
+` Ele parece ser uma pessoa persistente, mas ao mesmo tempo, ele não é.@ Esse é um dos seus pontos positivos.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_50",lshutter,800
+`"Então, qual foi o verdadeiro motivo?"@
+ld c,"tachi/ari_t04",notrans,0
+`"Hã?@ Como assim?"@
+`"O motivo de você ter chegado cedo na escola.@ Você não é o tipo de pessoa que vem para a escola na hora certa só porque acordou cedo, Arihiko-kun."@
+` Faço essa pergunta enquanto me sento ao lado dele e começo a comer meu chikara udon.@
+`"Hummm."@
+` Ele responde de forma despreocupada enquanto come seu macarrão.
+\
+`"Tohno, não é hoje que você volta para a sua casa verdadeira?"@
+`"Sim… espera, eu tinha te contado sobre isso?"@
+`"Não.@ Eu ouvi do professor."@
+` Arihiko continua devorando seu udon de curry sem olhar para mim.@
+`"Eu pensei: "Talvez o Tohno fique muito deprimido", por isso resolvi dar uma olhada em você."@
+`"…… Hum, sei.@ E qual o seu veredicto?"@
+`"Decepcionante.@ Não valeu a pena acordar cedo."@
+cl c,crossfade,400
+`"Você realmente tem muito tempo livre, Arihiko," eu concluo e mordo o bolinho de arroz do meu chikara udon.
+\
+` …… O Arihiko é esse tipo de pessoa.@
+` Hoje é o dia que saio da casa da família adotiva que me criou e volto para a casa da minha família de verdade.@
+` Ele parece ter ouvido sobre isso e veio para a escola mais cedo porque estava preocupado comigo.
+\
+`"…… Arihiko, acho que a sua aparência não lhe corresponde.@ No fundo, você é um cara muito sentimental."@
+ld c,"tachi/ari_t02",notrans,0
+`"Hehe… Se o sujeito mais melancólico que eu conheço está me dizendo isso, então talvez seja verdade."@
+` Ele mastiga seu macarrão fazendo muito barulho.@
+ld c,"tachi/ari_t01",crossfade,400
+`"Então, cara, o que realmente está acontecendo?"@
+`"Como assim?"@
+`"Você mora com os Arimas desde o primário, né?@ Já faz oito anos.@ Basicamente, seu pai te deserdou.@ Por que ele está te chamando de volta assim do nada?"
+\
+`"Ele não me 'deserdou'.@ Apenas me expulsou de casa."@
+`"Tohno-kun, se a sua família 'apenas' te expulsou de casa, isso não é uma tragédia, é uma comédia.@ Mas é uma comédia sem graça."@
+` Ele estica os braços e dá de ombros.@
+` O bom humor é um dos traços mais marcantes do Arihiko.@
+`"…… Bem, acho que você está certo.@ Se você foi expulso de casa, rir é o melhor que tem a fazer."
+\
+`"E então ele disse alguma frase clichê, do tipo: 'Nunca mais ponha os pés nesta casa de novo!' ou algo assim, né?@ É isso que as pessoas chamam de deserdar.@ Pensando bem, você nunca disse o motivo de ter sido deserdado."@
+`"……"@
+` …… Nem eu sei.@
+` Mas é algo que eu também gostaria de saber.@
+`"Bem, se não quiser, não precisa falar sobre isso."@
+cl c,crossfade,400
+` Levantando sua tigela com as duas mãos, o Arihiko bebe o que resta do seu udon de curry.@
+` O horário do almoço é curto.@
+` Assim como o Arihiko, decido terminar rapidamente meu chikara udon.
+\
+bg #000000,crossfade,800
+playstop

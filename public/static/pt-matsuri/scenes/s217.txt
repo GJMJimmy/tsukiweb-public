@@ -1,0 +1,611 @@
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Eu não posso ignorar os meus sentimentos.@
+br
+` Eu não deveria ficar investigando barulhos suspeitos vindos de um beco isolado enquanto tem um assassino rondando a cidade em busca de vítimas.@
+` Mas… Aquele sorriso da Yumizuka não sai da minha cabeça.
+\
+` Não há motivo algum para a Yumizuka estar aqui.@ Mas se estiver, talvez precise da minha ajuda.@
+` …… Nunca vou me perdoar se simplesmente ignorar isso.
+\
+`"[line=4]Certo."@
+` Coloco a mão no bolso e sinto o frio do metal da minha faca.@
+` Embora eu não tenha intenção de usá-la, é reconfortante saber que não estou desarmado.@
+` …… E se chegar a esse ponto, ainda tenho os meus "olhos".@
+` A Sensei me disse para não usá-los de forma imprudente, mas ela não vai se importar se eu usá-los contra um assassino.@
+`"…… O barulho… Veio daqui…"@
+` Eu me preparo e entro no beco.
+\
+bg #000000,crossfade,800
+bg "bg/bg_30b",crossfade,800
+wave se_01
+br
+` [line=3]Tu, dum.
+\
+` Ouço meu próprio coração batendo.@
+` O beco está muito silencioso.@
+` …… O barulho veio da área aberta mais no finalzinho.
+\
+br
+br
+br
+wave se_01
+` [line=3]Tum.
+\
+` A minha nuca começa a doer.@
+` Como se estivesse sofrendo convulsões sob uma tensão extrema, minha coluna dói de forma absurda, como se estivesse prestes a me rasgar todo e sair para fora do meu corpo.
+\
+br
+br
+br
+br
+br
+wave se_01
+` [line=3]Tu, dum.
+\
+` Por que isso está acontecendo?@
+` Não consigo usar a cabeça para pensar, porém os meus instintos estão gritando comigo o tempo todo.
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=3]Tu, dum.
+\
+` Não vá.@
+` Não dê nem mais um passo.@
+` Caso contrário, não haverá mais volta.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=3]Tu, dum.
+\
+` Mas já é tarde demais.@
+` Eu sigo em frente e chego na área aberta.
+\
+bg "bg/bg_31b",crossfade,800
+monocro #ff0000
+play "*4"
+`"[line=4]Hã?"@
+` É tudo o que consigo dizer.
+\
+bg "bg/ima_13",crossfade,400
+` O beco se transformou em um cenário de filme de terror.@
+` Vários membros estão espalhados em meio ao lixo e os entulhos.@
+` Mas não são membros de cachorros, ou de gatos, nem nada do tipo.@
+` São todos membros humanos e o sangue fresco pinga da carne fresca e dos ossos.
+\
+` Tanto o chão quanto as paredes estão pintados com sangue.@
+` Um cheiro muito forte enche meu nariz.@
+` Um cheiro terrível.@
+` É o cheiro sufocante de sangue que permeia o meu corpo como se fosse uma névoa vermelha.
+\
+` Um rosto.@ Um rosto.@ Um rosto.@
+` O rosto de uma cabeça cortada, rolando com uma expressão de agonia.@
+` Um rosto enrugado como o de uma múmia, partido em pedaços.@
+` Um rosto que teve ambos os olhos arrancados, está tão distorcido que não sei dizer se era um homem ou uma mulher.
+\
+`"[line=5]"@
+` Incapaz de falar qualquer coisa, apenas encaro os cadáveres.@
+` Nem sei se ainda posso chamar isso de cadáver humano.@
+` Até mesmo uma escultura muito mal feita pareceria mais com um ser humano do que isso.@
+br
+` São quatro cadáveres.@
+` Eles rolam no meio da sujeira como se fossem restos de comida.
+\
+bg "bg/ima_13b",crossfade,400
+monocro off
+`"Ah[line=4]ah."@
+` Estou boquiaberto, chocado com esse mar de cadáveres.@
+` A minha nuca está latejando, a minha garganta está seca, e a minha respiração está queimando como fogo.@
+` Meus dedos tremem e a minha boca fica distorcida.@
+` O que[line=3]está acontecendo?@
+` Que mundo é este diante dos meus olhos?@
+`"[line=4]Vermelho."@
+br
+` Sim.@
+` Diante dos meus olhos, tudo está tingido dessa cor horrível[line=3]
+\
+` Mas eu não reajo a isso.@
+` Não grito e nem sinto medo.@
+` É como se estivesse vendo a cena de um acidente em um filme qualquer, fico simplesmente observando.@
+` Sem dúvida alguma,
+` é desta forma que a minha mente está se protegendo.@ Caso contrário, eu teria enlouquecido.
+\
+bg "bg/bg_31b",tshutter,800
+` Um dos cadáveres se mexe.@
+` Não, estou enganado.@
+` Não é um cadáver.@
+` Não é como os outros.@
+` É um ser humano vivo, com todos os membros do corpo em seus devidos lugares.
+\
+`"Ah………"@
+` Isso não faz sentido.@
+` Neste espetáculo macabro, a minha reação ao ver alguém vivo é mais de espanto do que de alegria.@
+br
+` Mas se ele está vivo.@
+` Eu preciso ajudá-lo.
+\
+`"Hum[line=3]olá?"@
+` Ainda com a mente paralisada, dou um passo na direção dessa pessoa.@
+br
+`"[line=3]Gih."@
+br
+` Levantando-se do mar de sangue, ele olha para mim.@
+` Seu rosto parece mais um crânio seco.
+\
+bg #000000,notrans,0
+`"Hii[line=4]!"@
+br
+` Instintivamente dou um pulo para trás.@
+` Mas ele se move mais rápido do que eu.@
+` Gritando "hyuuu!@ hyuuu!" ele pula em mim.
+\
+` [line=4]Hyuu!@ Hyuu!@
+br
+` Uma voz hedionda, bem na minha frente.
+\
+` Olho para baixo e vejo que tem um buraco enorme na garganta dele, impedindo-o de falar corretamente.
+\
+`"[line=4]Ah!"@
+` Seu rosto e seu braço murchos vêm na minha direção.@
+` Na garganta deste saco de ossos, suas cordas vocais vibram com a voz macabra.@
+`"Uwaaaahhhhh!"@
+` Completamente desesperado, eu tento afastá-lo de mim.@
+` Mas ele simplesmente grita mais alto e não me larga.
+\
+bg #ffffff,notrans,0
+wait 100
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Perfura.@
+` Seus dedos perfuram os meus ombros.
+\
+`"…… Chhh!"@
+` Meu corpo se curva de dor.@
+` Estes dedos são como agulhas afiadíssimas.@
+` Eles rasgam a minha pele impiedosamente, cortando a carne e os nervos[line=3]
+br
+`"Ah, aahhh[line=4]!"@
+br
+` A dor é tão absurda que só consigo gritar.@
+` Embora eu me esforce para afastá-lo, gritando como louco, ele é forte demais.@ Independente do que eu faça, ele não se afasta nem um centímetro.
+\
+` A mandíbula do crânio se abre com um rangido.@
+` A boca abre o bastante para arrancar o meu ombro com uma única mordida, e ele se aproxima do meu rosto como se dissesse: "Eu não quero morrer, alguém me ajude".@
+br
+`"Par[line=3]"@
+br
+` Eu nem consigo dizer "pare".@
+` A criatura feita apenas de pele e ossos tenta morder a minha cabeça[line=4]e de repente[line=4]desmorona no chão.
+\
+playstop
+bg "bg/bg_31b",bshutter,800
+`"Hein…?"@
+` O incrível poder desaparece.@
+` O saco de ossos em forma de gente vai se encolhendo no chão e desaparece.@
+br
+` Devagarzinho,
+` como um sonho ruim, ele se transforma em cinzas e é levado pelo vento.
+\
+`"…… Que merda foi essa?"@
+` A dor toma conta do meu ombro.@
+`"Ai…"@
+` Meu sangue escorre pelas costas.@
+` A dor é real demais.@ Então isso só pode ser a realidade.@
+` É como um pesadelo.@
+` Mas[line=3]não tem como ser apenas um pesadelo, isso não é apenas um sonho, é a realidade.
+\
+play "*1"
+`"Tohno-kun.@ Vai ser perigoso se você ficar aqui."@
+`"[line=4]!"@
+` Eu viro para encarar a dona da voz que vem por trás de mim.@
+` Olho para a entrada do beco, a mesma entrada pela qual passei agora mesmo, e vejo a Yumizuka Satsuki.
+\
+ld c,"tachi/stk_t03",lshutter,800
+`"Yumi… zuka[line=3]?"@
+`"Boa noite.@ Que coincidência nos encontrarmos num lugar desses, né?"@
+` Ela me cumprimenta tranquilamente, como se tivéssemos nos encontrado em um supermercado.
+\
+`"Yumizuka… O que você está fazendo na rua a essa hora da noite?"@
+`"Ah, só dando um passeio.@ Mas e quanto a você, Tohno-kun?@ Não é legal matar esse monte de gente!"@
+` Ela diz essas palavras sorrindo.
+\
+`"Matar esse monte de gente?"@
+` Olho à minha volta.@
+` …… E relembro a cena trágica que me cerca.@
+` Em um mar de sangue.@
+` No meio dele está o Tohno Shiki, horrorizado, como um assassino.
+\
+`"N… Não!@ Eu não fiz isso!"@
+`"Claro que fez.@ Todos eles estão mortos, mas o Tohno-kun está vivo, é óbvio que foi o Tohno-kun quem matou eles."@
+`"Não fui eu!@ Aquela coisa quem me atacou……!"@
+` Aponto o dedo para o monstro que me atacou agora há pouco.@
+` Só que não tem nada na direção que aponto.@
+` Até as cinzas dos ossos foram levadas pelo vento.
+\
+`"Ah[line=4]"@
+` Engulo em seco.@
+` A Yumizuka está rindo adoravelmente.@
+`"Não é o que parece… Isso não foi… Não fui eu quem fez isso…"@
+` Minha mente está paralisada e só consigo dizer meias frases.
+\
+` …… Eu sei o que está acontecendo.@
+` Eu consigo pensar claramente, só que não consigo transformar esses pensamentos em palavras.@
+br
+` Por exemplo, por que a Yumizuka está num lugar desses depois de fugir de casa?@
+br
+` Por que a Yumizuka está rindo diante de uma cena trágica como essa?
+\
+`"Yumizuka-san, eu[line=3]"@
+`"Eu já sei.@ Você apenas interrompeu a refeição de alguém.@ Desculpe-me por ter sido tão má com você.@ Eu sempre ajo de forma contrária aos meus sentimentos, por isso sempre me comporto assim na sua frente."@
+` Ela continua rindo.@
+` …… É algo tão inapropriado nesta situação que sinto um calafrio percorrer o meu corpo.
+\
+playstop
+` Ela continua na entrada do beco.@
+` Os seus braços estão posicionados de uma forma estranha, é como se ela estivesse escondendo algo atrás das costas.@
+br
+` [line=3]E quando olho mais atentamente,
+` vejo manchas vermelhas na manga da sua blusa.
+\
+`"Yumizuka, você[line=3]"@
+`"O que foi?@ Que olhar assustador, Tohno-kun."@
+` Ela ri novamente.@
+`"[line=6]"@
+` …… Não.@
+` Não tem como[line=4]essa garota não pode ser a Yumizuka Satsuki.
+\
+`"Yumizuka… Por que está escondendo as mãos?"@
+`"Ah, eu fui descoberta?@ Você é muito observador mesmo, né!@ Não ia deixar essa passar.@ Eu sempre gostei disso em você, Shiki-kun."@
+br
+` Depois de enfatizar o "Shiki-kun",
+` ela mostra as mãos.
+\
+ld c,"tachi/stk_t06",crossfade,400
+play "*6"
+` As duas mãos estão completamente vermelhas.@
+` O sangue fresco pinga das suas mãos.@
+` E a Yumizuka Satsuki
+` está sorrindo com muito orgulho.
+\
+`"Yumizuka, as suas mãos estão[line=3]"@
+`"Pois é.@ Fui eu quem matou estas pessoas."@
+`"O qu[line=3]"@
+`"Ah, mas não se preocupe.@ Eu não as matei porque as odiava.@ Eu só matei porque precisava do sangue delas para sobreviver."@
+br
+` …… O que está… Acontecendo?@
+` Eu… Não consigo entender nada do que ela diz.
+\
+`"Você… Realmente matou todas estas pessoas, Yumizuka?"@
+`"Você não acreditaria em mim mesmo que eu te dissesse que é mentira, não é?@ Ou será que acha impossível que uma garota como eu faça isso?"@
+` Ela ri de mansinho.@
+br
+` [line=3]Não posso acreditar.@
+br
+` Não posso acreditar, mas tenho certeza de que ela não está mentindo.@
+` Esta cena trágica.@
+` Foi a Yumizuka quem criou.
+\
+`"Por que… Fez algo tão terrível…?"@
+`"Não tem nada de terrível nisso.@ É como eu já te falei, eu não matei esse monte de gente porque odiava todo mundo.@ Não tem nada de errado em matar os outros para sobreviver, não é mesmo, Shiki-kun?"@
+`"Mas o quê…!@ Isso é um absurdo!@ Matar é errado!"@
+`"Não é não.@ Mas eu realmente fiz uma coisa errada.@ Como hoje foi a primeira vez que tomei sangue, sem querer deixei cair um pouco de sangue neles.@ E por causa disso você foi atacado, Shiki-kun.
+\
+`"Desculpe-me por te envolver nisso.@ Mas tivemos muita sorte; ele morreu antes de completar a transformação."@
+`"Do… Do que está falando, Yumizuka?"@
+`"Está tudo bem, você não precisa entender logo de primeira.@ Eu mesma ainda não entendo muito bem, por isso não posso explicar direitinho."
+\
+` Mas acho que daqui a alguns dias vou ficar igualzinha ao Shiki-kun.@
+` Assim como o Shiki-kun, vou me tornar uma grande[line=3]"@
+ld c,"tachi/stk_t04",lshutter,400
+` Antes que pudesse terminar de falar, seu rosto se contorce de dor.
+\
+`"Ha[line=3]… Aaau!!!"@
+` Gritos de agonia ecoam de sua garganta.@
+` Ela tosse sangue.
+\
+`"Está[line=4]doendo.@ Acho que[line=4]mesmo estando com muita fome, eu não deveria sair por aí bebendo qualquer sangue.@ Se não for um sangue delicioso e de boa qualidade, meu corpo vai rejeitar…"@
+` Ela tem uma crise de tosse.@
+` E cospe sangue a cada tossida.@
+`"Nn[line=3]kuh, nnaaah…!!!"@
+` Seu corpo está sofrendo convulsões.@
+` …… Não entendo bem o que está acontecendo.@
+` Tudo que sei é que ela está sentindo uma dor absurda.@ É só isso que está claro para mim.
+\
+`"Você está bem, Yumizuka…!?"@
+` Corro em sua direção para ajudá-la.@
+`"[line=4]Não!@ Não se aproxime mais, Shiki-kun!"@
+` Mas sua voz me interrompe.@
+`"…… Você não pode se aproximar.@ Eu não estou… Muito bem, Shiki-kun."@
+` Ela fala com uma voz de quem sente muita dor e continua vomitando sangue.
+\
+`"Yumi… zuka…"@
+` Eu não consigo entender.@
+` Por que ela está sentindo tanta dor?@ Por que ela está assim?@
+`"Que merda é essa que está acontecendo?@ Você disse que matou essas pessoas, mas isso só pode ser mentira, né, Yumizuka…?@ E já que está sentindo tanta dor, não acha que deveria estar em um hospital?"@
+` …… Estou apenas tentando enganar a mim mesmo.@
+` Embora eu saiba que foi ela quem criou este cenário terrível em que me encontro, ainda assim minto para mim mesmo.
+\
+`"Yumizuka… Eu vou me aproximar de você, tá bom?"@
+` Digo gentilmente.@
+` Mas ela balança a cabeça violentamente, me rejeitando.
+\
+`"Por quê!?[line=3]Você está sentindo muita dor, precisamos te levar para o hospital imediatamente…!"@
+`"Shiki-kun, você não está entendendo.@ Você nunca entende nada…"@
+`"Idiota!@ Eu já te falei que realmente não entendo…!"@
+`"Ah… É mesmo, você falou.@ E mesmo assim você continua aqui…"@
+` Ela começa a se afastar.
+\
+cl c,lshutter,800
+`"…… Está doendo, Shiki-kun."@
+` Sua respiração está irregular, e ela continua tossindo sangue.@
+`"Está doendo[line=2]e está frio[line=2]e eu estou assustada.@
+` Eu quero muito a sua ajuda nesse momento, Shiki-kun."@
+br
+` [line=3]Mas ainda é muito cedo.@
+br
+` Depois de dizer essas palavras,
+` a Yumizuka se endireita.
+\
+ld c,"tachi/stk_t08",crossfade,400
+`"Espere por mim, tá bem?@ Eu vou me tornar uma grande vampira e depois vou voltar para te ver!"@
+cl a,lcartain,800
+`"Ah… Espera, Yumizuka!"
+\
+playstop
+bg #000000,lshutter,400
+bg "bg/bg_30b",lshutter,400
+`"[line=6]"@
+` Ela se foi.@
+` Mesmo se eu começar a correr agora, nunca vou alcançá-la.@
+` …… Sua velocidade é sobre-humana, como a de um animal feroz.@
+`"[line=3]Yumizuka[line=3]"@
+` O que aconteceu com você………!?
+\
+`"Gah[line=3]!"@
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+` Meu ombro machucado lateja de dor.@
+` Olho para trás e vejo que no lugar onde estavam todos aqueles membros humanos espalhados, agora só tem sangue.@
+` As cabeças, os orgãos, as mãos e os pés.@
+` Tudo virou cinzas, assim como aquela caveira.
+\
+`"Que… Merda…"@
+` Irritado, dou um soco na parede.@
+`"Que merda é essa que está acontecendo!!!?"@
+` Eu berro inutilmente, e minha voz ecoa pelo beco.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_32d",lcartain,800
+`"[line=4]"@
+` Quando me dou conta, estou na frente do portão principal da mansão.@
+` O ferimento do meu ombro dói.@
+` As luzes da mansão estão apagadas.@
+` Não imaginei que voltaria para casa tão tarde.@
+` A Akiha[line=2]vai ficar muito brava comigo, é só no que consigo pensar quando coloco as mãos na porta.
+\
+bg #000000,lshutter,800
+bg "bg/bg_33d",lshutter,800
+` …… O saguão está vazio.@
+` Não sei o que fazer.@
+` Embora meu ferimento precise ser tratado, a Kohaku-san já deve estar dormindo[line=2]
+br
+`"…… Nii-san?"@
+`"Hã?[line=4]Akiha?"@
+` Olho na direção de onde veio a voz.@
+` …… A Akiha está no alto das escadas.
+\
+play "*1"
+ld c,"tachi/aki_t03b",crossfade,800
+`"Então é você mesmo.@ Isso é hora de voltar para casa, no que estava pensando[line=3]"@
+` Ela desce as escadas e para de me repreender.
+\
+ld c,"tachi/aki_t15b",crossfade,400
+ld c,"tachi/aki_t10b",crossfade,400
+`"Nii-san… Onde foi que você machucou o ombro?"@
+`"Ah[line=3]"@
+` Droga.@ Eu tinha que ter escondido o ferimento, agora é tarde.@
+`"Ah[line=4]hum[line=4]isso aqui é…"@
+ld c,"tachi/aki_t11b",crossfade,400
+`"Deixa pra lá.@ Fique quieto.@ Só o ombro que está machucado…?"@
+`"Ah[line=2]é, mas como você sabe…"@
+`"Está óbvio com todo esse sangue na sua roupa.@ Depois você vai ter que me explicar o que houve, mas agora, vamos tratar isso.@
+` Com licença, Nii-san."
+\
+cl a,crossfade,400
+` Dizendo isso, ela toca o meu ombro.@
+`"[line=3]Tch!"@
+` Meu corpo estremece com apenas o toque leve do dedo da Akiha.@
+` …… Parece que o ferimento está pior do que imaginei.
+\
+ld c,"tachi/aki_t23b",crossfade,400
+`"Ah… Perdoe-me, Nii-san, está doendo muito?"@
+`"…… Não, eu estou b… Eu gostaria de dizer que estou bem, mas acho que não estou nada bem.@ Apenas um toque de leve doeu muito."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Já entendi… Se foi tão profundo assim, a Kohaku não vai conseguir tratá-lo.@ Eu vou tratá-lo, por favor, me espere na sala de estar."@
+cl a,lcartain,800
+` Ela sobe as escadas.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34b",lcartain,800
+`"………… Ufa."@
+` Acendo as luzes da sala de estar e me sento no sofá.@
+` O ferimento no meu ombro está doendo demais, está começando a ficar insuportável.@
+ld c,"tachi/aki_t01b",lcartain,800
+`"Desculpe pela demora.@ Vou cuidar do ferimento agora, fique relaxado."@
+` Ela chega segurando uma maleta de primeiros socorros.@
+` …… Não acho que vá ajudar muito em um ferimento desses, mas precisa ser desinfetado.
+\
+cl a,crossfade,400
+` A Akiha fica por trás de mim e começa a tratar do ferimento.@
+` Meu uniforme encharcado de sangue é cortado com uma tesoura, o ferimento é exposto e desinfetado.
+\
+`"[line=3]Guuuh!"@
+` Aperto os punhos com força quando a dor domina o meu corpo.@
+` …… Mas logo depois a dor começa a desaparecer.@
+` A Akiha deve ser muito habilidosa nessa área, ou talvez o ferimento não fosse tão sério assim.@
+` A dor desaparece completamente depois de alguns minutos.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Pronto, terminei.@ Imagino que um ferimento desses vai estar curado pela manhã."@
+` Ela fecha a maleta de primeiros socorros.@
+` …… Estou surpreso.@
+` Eu estava esperando que ela me perguntasse onde e como consegui o ferimento e em seguida me desse um sermão daqueles por ter ficado na rua até tão tarde.
+\
+`"…… Você não me perguntou, Akiha."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Não perguntei… O quê?"@
+`"Bem… Você sabe.@ O motivo de eu ter voltado para casa tão tarde.@ O motivo de eu estar machucado desse jeito."@
+` Eu disse essas palavras como se estivesse reclamando.@
+` Estou exausto depois de tudo que aconteceu com a Yumizuka.@
+` E por causa do cansaço, acabei falando isso.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"Nii-san.@ Eu… Acredito saber a ordem certa para se fazer as coisas.@ No momento, a prioridade é tratar do seu ferimento."@
+`"…… Entendi.@ Mas é claro, você tem razão…"@
+ld c,"tachi/aki_t06b",crossfade,400
+`"Ah!@ Mas que tipo de pessoa você pensou que eu fosse, Nii-san!?@ Eu não vou ficar gritando com alguém machucado desse jeito."@
+`"…… Tem razão.@ Eu[line=4]me desculpe; e obrigado por tudo.@ Mas[line=4]embora você tenha cuidado de mim[line=2]"
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Você ainda vai dizer que não pode explicar a situação, não é?@ Eu não quero saber das suas desculpas, mas hoje é um caso especial.@ Se não quiser falar sobre o assunto, eu não vou ficar perguntando."@
+`"Hein?@ É sério?@ Mas eu cheguei tão tarde…"@
+ld c,"tachi/aki_t16b",crossfade,400
+`"…… É claro que estou curiosa em relação ao que aconteceu.@ Mas confio em você e acredito em você o bastante para saber que não estava fazendo nada de muito perigoso.@ E… Não posso te forçar a me contar o houve no estado em que está."@
+` Ela desvia o olhar, tímida.
+\
+`"……"@
+` No estado em que estou[line=3]?@ A minha expressão está tão ruim assim?@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Eu vou esperar você se recuperar para ouvir toda a história, Nii-san.@ Sua condição vai melhorar se descansar pelo resto da noite."@
+cl a,crossfade,400
+`"[line=6]"@
+` Estou me sentindo um pouco estranho, e por isso desvio meus olhos da Akiha.@
+` …… Fico feliz que ela não tenha insistido em me perguntar até que eu melhore, mas sei que não vou ser capaz de falar sobre isso nem mesmo amanhã de manhã.@
+br
+` No final das contas, não tem como eu contar nada para a Akiha.@
+` Eu me sinto culpado demais para sequer olhar nos seus olhos.
+\
+`"…… Akiha, eu[line=3]"@
+ld c,"tachi/aki_t06b",crossfade,400
+`"Ahh, poxa, não fica me olhando com essa cara!@ Eu já falei que vou abrir uma exceção dessa vez, vá logo para o seu quarto e descanse bem.@ De toda forma, eu aposto que é alguma coisa que você não pode me contar mesmo!"@
+cl a,lcartain,800
+` Ela leu a minha expressão perfeitamente.@ A Akiha se vira e sai na direção do saguão.
+\
+` Fico sentado no sofá, olhando ela sair.@
+br
+` De repente, começo a imaginar coisas.@
+` Será que a Akiha ficou acordada me esperando chegar?@ E foi por isso que ela chegou no saguão tão rápido?
+\
+`"[line=3]Akiha."@
+ld c,"tachi/aki_t01b",lcartain,800
+`"O que foi, Nii-san?"@
+`"…… Obrigado por cuidar de mim.@ E me desculpe por te deixar preocupada."@
+ld c,"tachi/aki_t19b",crossfade,400
+`"Hã[line=4]"@
+` Ela para de andar no mesmo instante.@
+br
+` [line=3]E vira para trás.@
+br
+ld c,"tachi/aki_t05b",crossfade,400
+`"Eu… Eu não estava preocupada com você, Nii-san.@ Já que tem tanta energia para ficar me bajulando, use-a para cuidar de si mesmo!"@
+cl a,lshutter,400
+` Ela bate a porta com força.
+\
+`"[line=3]Não dá pra entendê-la."@
+` Mas ficou bem claro que estava preocupada comigo.@
+`"…… É… Aos olhos dela, eu não estava fazendo nada de muito perigoso, né!?"@
+` Parece que ela acredita em mim já que disse isso.@
+` Mas a verdade é que foi uma situação assustadoramente perigosa.
+\
+` Os cadáveres espalhados por todo o beco.@
+` A Yumizuka[line=4]com as mãos manchadas de sangue.@
+br
+`"[line=3]Guh."@
+br
+` Um calafrio me percorre só de lembrar.@
+` Eu me levanto, tomando bastante cuidado com o meu ombro, e vou para o meu quarto.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_40d",lcartain,800
+` Eu troco de roupas e caio na cama.@
+` Se fechar os olhos vou reviver o cenário daquele beco.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Fui eu quem matou estas pessoas.
+\
+` A Yumizuka disse isso, como se não fosse nada demais.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Eu só matei porque precisava do sangue delas para sobreviver.
+\
+` Então, ela as matou?@
+` Como se fosse uma vampira?@ Como se fosse… Uma piada de mau gosto!?
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Espere por mim, tá bem?@ Eu vou me tornar uma grande vampira[line=3]
+\
+` …… Não consigo me lembrar mais.@
+` O que foi que ela disse no final?@
+br
+`"Hum…"@
+` O sono começa a me vencer.@
+` Com o rosto da Yumizuka gravado na minha mente, eu fecho os olhos lentamente.
+\
+bg #000000,crossfade,800
+` …… Apenas uma coisa ficou clara.@
+` A Yumizuka falou a verdade; ela realmente matou aquelas pessoas.@
+br
+` Só que mesmo assim.@
+` Em vez de ficar com medo de tudo o que aconteceu, estou muito mais preocupado com uma coisa que ela disse.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Está doendo.@ Está doendo muito, Shiki-kun[line=3]
+\
+` …… Tem algo de errado comigo.@
+` Sem dúvida alguma, a Yumizuka é uma assassina, mas aquelas palavras foram a única coisa que ficaram marcadas à ferro na minha cabeça[line=3]
+\
+!w3000

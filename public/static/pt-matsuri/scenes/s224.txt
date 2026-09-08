@@ -1,0 +1,42 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_03a",notrans,0
+` [line=3]Reúno toda a minha coragem e pergunto a ela sobre ontem à noite.@
+br
+`"…… Hum[line=2]Senpai.@ Ontem à noite você estava no parque?@ Acho que te vi usando um sobretudo preto esvoaçante."@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Do que você está falando?"@
+`"Humm……!@ Bem[line=2]as botas de cano alto caíram bem em você.@ Fiquei meio fascinado, você estava bem legal."
+\
+ld c,"tachi/cel_t08",crossfade,400
+` ……"Hã?" Ela inclina a cabeça.@
+` Ela franze a testa, como se não entendesse bem minhas palavras e, em seguida, nega tudo.
+\
+`"Acho que não entendi direito, você está dizendo que duas noites atrás eu estava perto da sua casa e vestida desse jeito?"@
+`"Sim, era você, Senpai, não era?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Não mesmo.@ Tohno-kun, eu pareço ter tanto tempo livre assim?"@
+` [line=3]Ela está nervosa.@
+` Ela não pode estar se fazendo de boba ou mentindo.
+\
+`"Ah[line=3]não, não é isso, mas é que…… vi uma pessoa muita parecida com você lá no parque ontem à noite também, então[line=3]"@
+` Ela suspira.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, não era eu.@ Não tenho esse tipo de passatempo."@
+`"Ah[line=3]claro, eu entendo.@ Só quis perguntar para ter certeza."
+\
+` Depois de ouvi-la dizer isso, não posso mais duvidar.@
+` A Ciel-senpai e a pessoa daquela noite não estão relacionadas.@
+` Para começo de conversa, a Senpai é apenas uma pessoa normal e se ela realmente estivesse lá[line=3]teria me visto matando aquele vampiro com a minha faca.@
+` E se tivesse visto uma cena horrível daquelas, seria impossível ela conversar normalmente comigo como acabou de fazer.
+\
+`"…… Desculpa, por favor, esqueça que falei isso.@ Acho que era outra pessoa mesmo."@
+ld c,"tachi/cel_t09",crossfade,400
+`"Tudo bem, mas…… essa pessoa parecia tanto assim comigo?@ Essa esquisitona aí?"@
+`"Não tenho muita certeza.@ Estava escuro e ela estava longe……… hum?"@
+` É mesmo, ela estava longe e não pude ver o seu rosto.@
+` Então por que pensei que fosse a Senpai……?@
+`"…… Humm… Talvez tenha algo de errado comigo."@
+` Cruzo os braços e começo a pensar.
+\

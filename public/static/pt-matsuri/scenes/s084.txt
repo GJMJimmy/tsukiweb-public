@@ -1,0 +1,80 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_19b",notrans,0
+`"[line=6]"@
+br
+` Ainda tenho vontade de continuar vivendo no mundo correto e respeitável.@
+` …… Realmente me sinto culpado por ter matado ela.@
+` Mas também acredito que não seja certo me forçar a fazer algo que não consigo.@
+` …… Mas ela está dormindo.
+\
+` Está confiando em mim, alguém que a matou uma vez.@ Mesmo assim está dormindo tranquilamente.@
+`"……… Droga………!"@
+` Independente disso tudo… simplesmente não posso continuar aqui.@
+` Começo a andar silenciosamente.@
+` …… Dando as costas para a Arcueid, que está dormindo com total confiança em mim, saio do quarto.
+\
+bg #000000,lcartain,800
+bg "bg/bg_20a",lcartain,800
+` …… O corredor está em silêncio.@
+` Estamos no décimo primeiro andar, o último andar do hotel.@ Como ela alugou todo o andar, não há nenhum outro hóspede aqui.
+\
+br
+`"[line=7]"@
+` Ainda estou um pouco indeciso.@
+` Ignorando essa indecisão, aperto o botão do elevador.
+\
+bg #000000,lcartain,800
+!w3000
+play "*1"
+bg "bg/bg_25a",crossfade,800
+` Pego o trem perto do hotel e volto para a cidade.@
+br
+` …… É pouco mais de meio-dia.@
+` As aulas já estão quase acabando, acho que vou direto para a mansão.@
+`"…………"@
+` Mas não estou com vontade de voltar para lá agora.@
+br
+` Decido ir ao parque para refrescar um pouco a cabeça.
+\
+bg #000000,lcartain,800
+bg "bg/bg_28a",lcartain,800
+` *suspiro*@
+` Sento em um banco e fico observando o céu.@
+` Ainda está nublado, muito parecido com o cenário dentro do meu coração.
+\
+bg "bg/ima_06",crossfade,800
+` …… Será que ela ainda está dormindo traquilamente, acreditando em mim?@
+` Eu a matei uma vez e mesmo assim ela me perdoou.@
+` Ela me perdoou[line=3]e ainda assim… o que estou fazendo aqui!?
+\
+` Ontem à noite.@
+` Depois que matei a Arcueid, prometi para mim mesmo que iria me redimir por isso, não importasse como.@
+` Foi uma promessa tão vaga que poderia ser quebrada quando minha vida corresse perigo?@ Simples assim?@
+`"……… Droga!"@
+` Eu quero continuar vivo.@
+` E esse é um problema que não posso ignorar enquanto estiver vivo.@ E também não é algo que eu possa simplesmente deixar de lado e esquecer.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Esse poder é seu.@
+` E é por isso mesmo que nunca deve se esquecer.
+\
+`"[line=3]"@
+` Lembro-me dessas palavras preciosas que ouvi há muito tempo.@
+` Ela… a Sensei… o que foi mesmo que ela disse?@
+`"………"@
+` Ainda há tempo.@
+` O sol ainda não se pôs.@
+` Se eu voltar para o hotel antes do sol se pôr, provavelmente vou conseguir chegar a tempo.
+\
+`"Droga."@
+` Não consigo me livrar das minhas dúvidas.@
+` No final, eu[line=4]
+\
+playstop

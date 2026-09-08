@@ -1,0 +1,190 @@
+bg #000000,lshutter,800
+play "*3"
+bg "bg/bg_50",lcartain,800
+` Quase todos os lugares do refeitório estão ocupados.@
+` Eu não devia ter ficado de bobeira no corredor, vai ser praticamente impossível encontrar um lugar vazio agora.@
+br
+`"[line=3]Será que não tem nenhum lugar mesmo?"@
+` Olho ao redor do refeitório agitado.@
+` Vou dar uma volta para procurar.
+\
+`"…… Ah."@
+` Estou surpreso…… não, estou atônito.@
+` Logo ali, claro como o dia, vejo uma mesa com não apenas dois lugares vagos, mas com quatro.@
+` Há duas pessoas na mesa e parece que uma delas me viu enquanto eu estava procurando por um lugar.
+\
+ld c,"tachi/ari_t02",crossfade,400
+`"Aê, Tohno!"@
+` A pessoa que está toda animada e acenando com a mão é o meu querido amigo de cabelo laranja.@
+cl c,crossfade,400
+`"……"@
+` Minha cabeça dói.@
+` Mas não tem nenhum outro lugar vazio.@ Não tenho escolha a não ser retribuir o aceno e ir até ele.
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+` Uma pessoa que nunca esperava estar aqui, está sentada na mesa com ele.@
+`"Hã, Ciel-senpai?"@
+ld l,"tachi/cel_t01a",lshutter,400
+`"Ora, se não é o Tohno-kun."@
+` Apontamos um para o outro ao mesmo tempo.
+\
+ld r,"tachi/ari_t01",lshutter,400
+`"Aê, Tohno[line=3]espera aí…… Senpai, você conhece o Tohno?"@
+ld l,"tachi/cel_t03",crossfade,400
+`"Sim, me encontrei com ele mais cedo.@ Nós trombamos hoje de manhã, não foi, Tohno-kun?"@
+`"Ah…… sim, me desculpe por aquilo."@
+` Abaixo a cabeça para pedir desculpas.@
+ld l,"tachi/cel_t04",crossfade,400
+`"Não se preocupe.@ Eu também queria me desculpar por ficar ficar viajando no meio do corredor daquele jeito.@ Você é uma pessoa bem séria, né, Tohno-kun?"@
+`"Uma pessoa séria……?@ Não, não mesmo."@
+` Sorrindo, ela faz um gesto afirmativo com a cabeça.@
+` Como devo dizer…… A Senpai tem uma atmosfera única ao seu redor.
+\
+ld l,"tachi/cel_t01a",crossfade,400
+`"Mas é uma surpresa que o Tohno-kun e o Inui-kun se conheçam.@ Vocês estão na mesma classe?"@
+`"Estamos!@ O Tohno e eu somos mais do que apenas conhecidos!@ Estivemos na mesma classe desde o primeiro ano e somos amigos inseparáveis desde o primário!"@
+` Meu melhor amigo bate na mesa para enfatizar suas palavras.@
+` …… É impressão minha ou ele está mais animado que o normall?
+\
+ld r,"tachi/ari_t02",crossfade,400
+`"Vamos lá, melhor amigo, sente-se!@ Se você continuar aí feito bobo, seu chikara udon vai esfriar.@ Sente-se logo e me conte como conheceu a Senpai."@
+` Ela bate nas minhas costas, cheio de energia.@
+`"……"@
+` Embora eu não vá contar nenhuma história igual a do Arihiko, não tem mais nenhum lugar vago.@
+` Relutante, me sento ao lado dele.
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+` Parece que o Arihiko é próximo da Senpai.@
+` Ao contrário de mim, que só a encontrei algumas vezes, ele consegue conversar com ela normalmente.@
+ld r,"tachi/ari_t01",crossfade,400
+`"A propósito, Senpai, você disse que trombou no Tohno, o que aconteceu?"@
+ld l,"tachi/cel_t01a",crossfade,400
+`"Sim, nós trombamos durante a troca de professores.@ Eu não me machuquei, mas o Tohno-kun bateu a cabeça na parede."@
+`"Humm…… Nunca imaginei que o Tohno faria algo assim.@ Ele pode parecer lerdo, mas na verdade é muito esperto.@ Ele não gosta de depender de ninguém e também odeia causar problemas aos outros……"
+\
+ld l,"tachi/cel_t04",crossfade,400
+`"Ah, eu também tive essa impressão.@ Ele estava preocupado apenas comigo quando trombamos e acabou de se desculpar de novo agora."@
+ld r,"tachi/ari_t04",crossfade,400
+`"Pois é.@ É o jeito dele mesmo, ele não costuma cometer esse tipo de erro.@ …… Ah, será que sua anemia já atacou hoje?"@
+` A voz do Arihiko mostra sua preocupação sincera quanto a minha saúde.@
+`"…… Não, não foi por causa disso.@ Eu fui correndo até a secretaria para resolver alguns detalhes da minha mudança.@ Aí dei de cara com a Senpai."@
+ld r,"tachi/ari_t01",crossfade,400
+`"Sério?@ Achei que você tivesse sido descuidado porque estava deprimido por causa da mudança."@
+` Ele cruza os braços e faz um gesto afirmativo com a cabeça, concordando consigo mesmo.
+\
+br
+` [line=4]E então,
+br
+ld l,"tachi/cel_t10a",crossfade,400
+`"Tohno-kun, você está mudando de escola!?"@
+` A Senpai exclama quase histérica.
+\
+`"Não vou mudar de escola.@ Vou mudar apenas de residência, por isso tive que preencher a papelada para a mudança de endereço."@
+ld l,"tachi/cel_t08",crossfade,400
+`"Humm…… Então quer dizer que agora você vai morar sozinho?"
+\
+`"Não, só estou voltando para a minha casa de verdade.@
+` É aquele lugar extravagante no topo da colina.@ Eu mesmo ainda não consigo acreditar."@
+`"Oh…… Você está falando da mansão dos Tohnos?"
+\
+` Ela pergunta com uma voz hesitante.@
+` A casa de arquitetura ocidental no topo da colina provavelmente é vista como algo especial pelos moradores dessa cidade.@
+` Eu não estive lá por oito anos, mas mesmo nas minhas lembranças, a mansão Tohno era ridiculamente grande.
+\
+`"Estou sim.@ Eu também acho que não combina comigo, mas agora que resolvi me mudar não posso fazer mais nada."@
+ld r,"tachi/ari_t04",crossfade,400
+`"Humm…… você não parece muito feliz com isso."@
+`"Não estou feliz nem triste.@ Eu também não entendo o que estou sentindo."@
+ld r,"tachi/ari_t01",crossfade,400
+`"Bem, mesmo sendo a sua casa, já faz oito anos, né?@ Dá pra entender você se sentir assim.@ Provavelmente vai parecer que você está na casa de um estranho por um tempo."@
+`"Será mesmo…? Não dá para saber ao certo enquanto eu não chegar lá.@ Mas estou bem tranquilo, já que posso me refugiar na sua casa."
+\
+ld r,"tachi/ari_t03",crossfade,400
+`"Hmph.@ Escuta aqui, eu não estou impressionado com você indo para a minha casa toda vez que algo ruim acontece.@ Eu gosto dessa sua personalidade de não se destacar, mas odeio esse seu jeito reservado de ser!"@
+` Ele bate na mesa de novo.@
+`"……"@
+` Tudo que o Arihiko disse é verdade, não tenho argumentos para contra-atacar.
+\
+ld l,"tachi/cel_t12",crossfade,400
+`"Inui-kun, o Tohno-kun fica tanto assim na sua casa?"
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Sim, ele fica.@ Esse maldito é muito reservado com os pais, por isso que ele vai pra minha casa sempre que temos um feriado prolongado ou estamos de férias.@ Ele é assim em relação a eles, porque acha que está vivendo de favor e não passa de um estorvo.@
+` É por isso que ele vai pra minha casa, onde sempre tem um quarto vazio.@ Como ele parece uma pessoa decente, minha irmã gostou dele, então ele se aproveita pra ficar conosco sem pagar um centavo!"@
+` O punho do Arihiko treme, como se dissesse "imperdoável!'
+\
+ld l,"tachi/cel_t07a",crossfade,400
+`"…… Vivendo de favor?"@
+`"Ah[line=4]"@
+` Arihiko cobre a boca com a mão.@
+ld r,"tachi/ari_t03",crossfade,400
+`"…… Foi mal.@ Eu devia ter pensando antes de falar."@
+`"Está tudo bem.@ Você não disse nada de errado."@
+` Continuo comendo sem olhar para o Arihiko.
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Sério?@ É verdade, você está certo.@ Se você reclamasse disso, ia merecer ser punido."@
+` Arihiko faz um gesto afirmativo com a cabeça, concordando consigo mesmo.@
+` Seu otimismo é algo que eu realmente invejo.
+\
+ld l,"tachi/cel_t07a",crossfade,400
+`"Tohno-kun, hum…… você não se dava bem com a sua outra família?"@
+ld r,"tachi/ari_t04",crossfade,400
+`"Não, não é isso.@ Ele não tem nenhum problema com os Arimas.@ Ah, era a família Arima que estava tomando conta dele.@ Eles são todos muito legais e pelo que pude ver, é uma família muito feliz.@
+` Mesmo assim, ele se recusou a ser o filho adotivo deles e sempre fugia para a minha casa durante as férias.@ Pô… com o que você não estava satisfeito?"@
+`"Não havia nada que me deixasse insatisfeito.@ É só que eles já faziam muito por mim, eu não queria ser mais um fardo na vida deles."
+\
+cl a,crossfade,400
+` …… A Senpai relaxa os ombros e fica em silêncio.@
+` Parece que ela está arrependida de ter perguntado sobre a minha família.@
+`"Está tudo bem, Senpai.@ Desculpe-me por te fazer ouvir essa história chata."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Ah, imagina.@ Eu que peço desculpas por perguntar algo tão estranho."@
+` Ela força um sorriso.@
+` Esse assunto não é problema para um amigo de longa data como o Arihiko, mas um assunto complexo como este, só vai deixar a Senpai desconfortável.@
+` E para provar meu argumento, ela está visivelmente desconfortável.
+\
+`"Olha, Senpai[line=3]"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ah, terminei de comer, já vou indo.@ Realmente sinto muito mesmo."@
+cl c,lshutter,800
+` Ela faz uma breve mesura e vai embora.@
+br
+` Sobramos só nós dois na mesa.
+\
+`"…… Desculpa, Arihiko.@ Quando você finalmente conseguiu almoçar a sós com ela, eu acabei entrando no meio."@
+ld c,"tachi/ari_t01",crossfade,400
+`"Relaxa!@ Foi minha culpa por não prestar atenção no que falo.@ Acho que a Senpai estava desconfortável também." …… *slurp* *slurp* *slurp*@
+` Ele começa a comer seu udon.@
+` Parece que esfriou enquanto estávamos conversando.@
+`"Bem, na verdade foi bom ela ter saído.@ Eu queria falar algo em particular com você."
+\
+`"Qual é o problema?@ Por que ficou sério do nada?@ Eu não tenho dinheiro para te emprestar.@ A partir de hoje, vou viver como um estudante pobre."@
+`"Não é isso, pô.@ Eu quero é saber o que realmente está acontecendo."@
+`"Como assim?"
+\
+ld c,"tachi/ari_t04",crossfade,400
+`"Você mora com os Arimas desde o primário, né?@ Eu não sei o motivo, mas já faz oito anos.@ Basicamente, seu pai te deserdou.@ Por que ele está te chamando de volta assim do nada?"@
+` …… Ahhhh, agora entendi.@
+` Da sua própria maneira, o Arihiko está preocupado comigo.
+\
+`"Ele não me 'deserdou'.@ Apenas me expulsou de casa."@
+`"Tohno-kun, se a sua família 'apenas' te expulsou de casa, isso não é uma tragédia, é uma comédia.@ Mas é uma comédia sem graça."@
+` Ele estica os braços e dá de ombros.@
+`"…… Bem, acho que você está certo.@ Se você foi expulso de casa, rir é o melhor que tem a fazer."
+\
+`"E então ele disse alguma frase clichê, do tipo: 'Nunca mais ponha os pés nesta casa de novo!' ou algo assim, né?@ É isso que as pessoas chamam de deserdar.
+` Pensando bem, você nunca disse o motivo de ter sido deserdado."@
+`"……"@
+` …………… Nem eu sei.@
+` Mas é algo que eu também gostaria de saber.@
+`"Bem, se não quiser, não precisa falar sobre isso."@
+cl c,crossfade,400
+` Levantando sua tigela com as duas mãos, o Arihiko bebe o que resta do seu udon frio.@
+` O horário do almoço é curto.@
+` Assim como o Arihiko, decido terminar rapidamente meu chikara udon.
+\
+bg #000000,crossfade,800
+playstop

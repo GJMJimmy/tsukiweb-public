@@ -1,0 +1,85 @@
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"Para de bater na porta, eu[line=3]vou[line=2]abrir…"@
+` Abro a porta.@
+`"Nii-san[line=2]!"@
+` A Akiha corre para dentro do quarto.@
+` A Kohaku-san vem logo atrás dela.
+\
+bg "event/aki_h13",notrans,0
+wait 100
+bg "bg/bg_40c",notrans,0
+ld c,"tachi/aki_t15b",lshutter,400
+`"Nii-san, o que estava fazendo……!?@ Você está horrível, deveria estar na cama[line=3]!"@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]O meu coração bate forte.
+\
+br
+ld c,"tachi/koha_t03",lshutter,400
+`"É isso mesmo, Shiki-san.@ Você não comeu nada desde o almoço e não recebeu a sua terapia intravenosa da noite.@ Nunca vai melhorar se continuar assim."@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]O meu coração bate forte.
+\
+ld c,"tachi/aki_t02b",crossfade,400
+`"Francamente.@ Não sei o que aconteceu, mas precisa se acalmar.@ Você não pode dormir no chão desse jeito… Por acaso está querendo morrer, Nii-san?"@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]O meu coração bate forte.@
+br
+` A Akiha está se aproximando para me pegar.
+\
+` Tenho certeza de que o objetivo dela é o assunto que estava falando na edícula.@
+` Ela está vindo… Me matar.
+\
+`"[line=4]Sai daqui!"@
+wave se_10
+quakex 3,10
+ld c,"tachi/aki_t15b",crossfade,400
+`"Hã[line=3]N-Nii-san, mas o qu[line=3]"@
+`"Eu já mandei sair daqui!@ Não vou[line=4]deixar você me matar……!"@
+cl c,lshutter,400
+` Empurro ela para longe de mim.@
+` …… Mas este meu corpo não tem forças suficiente para empurrá-la até o corredor.@
+` A Akiha simplesmente dá um passo para trás e me encara.
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"Nii-san, do que está falando?@ Quem te disse que eu iria matá-lo?"@
+` Ela me fita.@
+` O meu coração acelera.@
+` O seu olhar forte parece ler a minha mente.@
+`"…… Some daqui……!@ Eu não sou um assassino, ainda não perdi a sanidade……!"
+\
+ld c,"tachi/aki_t15b",crossfade,400
+`"Assassino…? Nii-san, você já foi sugado a esse ponto?"@
+` A sua voz está muito surpresa.@
+` Ela caminha na direção da porta.@
+ld c,"tachi/aki_t11b",crossfade,400
+`"…… Eu já entendi tudo.@ Nii-san, você está exausto agora, eu vou voltar mais tarde para ver como está."@
+`"[line=2]Cala a boca!@ Não vou deixar ninguém entrar neste quarto……!"@
+`"………………"@
+` Ela levanta as sobrancelhas por um segundo, então começa a caminhar para fora do quarto.
+\
+ld c,"tachi/aki_t10b",crossfade,400
+`"…… Nii-san.@ Hoje eu vou fazer a sua vontade, mas amanhã[line=4]você vai ter que me obedecer.@
+` Deixá-lo sozinho por um dia já é perigoso demais; simplesmente não posso deixá-lo sem supervisão por dois dias, senão você, com toda certeza, vai morrer.@ Por favor, espere só mais um dia, Nii-san."@
+cl c,lshutter,800
+` A porta é fechada.
+\
+` *arf*…… *arf*…… *arf*
+` Mal consigo respirar.@ É como a Akiha disse, nesse ritmo, com certeza vou morrer.@
+` *arf*…… *arf*…… *arf*
+` Mas[line=3]ainda é melhor que ser morto pela Akiha.@
+br
+` [line=4]Tranco a porta.@
+br
+` Eu enconsto na parede e mantenho os olhos abertos para não cair no sono.
+\
+bg #000000,crossfade,1500
+playstop
+!w3000

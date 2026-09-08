@@ -1,0 +1,88 @@
+monocro off
+playstop
+wavestop
+bg "bg/ima_06",notrans,0
+br
+` [line=4]Eu dou valor na minha vida.
+\
+` Recordo-me da cena de ontem, quando matei a Arcueid.@
+` O fedor de morte e sangue.@ [line=3]Nunca mais quero passar por aquilo.@
+` Se eu continuar junto dela, com certeza vou ter que passar por aquilo de novo.@ Se não quiser isso, tenho que voltar para a mansão.
+\
+`"[line=6]"@
+` …… Tenho a sensação de que existe uma falha muito grave na minha decisão.@
+` Mas nesse momento, minha cabeça está uma bagunça e meu senso de lógica se recusa a funcionar corretamente.@
+` Enfim, por enquanto, vou voltar para o meu quarto e descansar um pouco.@ Tenho certeza que vou me acalmar e conseguir pensar claramente depois.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_22c",lcartain,1500
+` O sol já se pôs e está tudo escuro por aqui.@
+` Deve ser mais de sete horas.@
+` O toque de recolher na mansão é às oito, é melhor me apressar se não quiser levar sermão da Akiha.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_47",lcartain,1500
+` As ruas perto da mansão estão desertas como sempre.@
+` O sol acabou de se pôr, mas está tão silencioso que parece ser meia-noite.
+\
+`"Pensando bem, este lugar em que estou é…"@
+` Onde fui verificar aquele cachorro de rua barulhento na primeira noite que passei aqui.@
+wave se_01
+`"Hã……?"@
+` Sou dominado por um terrível pressentimento de infortúnio.
+\
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,400
+bg #000000,tcartain,400
+br
+br
+br
+br
+br
+br
+` [line=4]Que estranho!@
+` De repente, tudo ao meu redor ficou completamente escuro.
+\
+` Ouço o barulho de algo pingando.@
+` …… De onde ele está vindo?@
+` Está vindo daqui perto.@
+` Meu corpo está começando a esfriar.@
+` Está vindo daqui perto.@
+` Meus alarmes internos estão todos ligando.
+\
+br
+br
+br
+br
+br
+br
+br
+` Ping, ping.@ Ping, ping.
+\
+br
+br
+br
+br
+br
+br
+br
+` Esse som…
+` Parece que está vindo de trás do meu pescoço.
+\
+`"Ah[line=4]"@
+wave se_05
+` Eu caio no chão.@
+` Meus membros não se mexem e minha consciência está desaparecendo.
+\
+bg #000000,crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+bg #000000,crossfade,400
+` Antes da minha consciência desaparecer por completo…
+!w500
+` a última coisa que vejo…
+!w500
+` são alguns cachorros pretos comendo meus braços e minhas pernas.
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

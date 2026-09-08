@@ -1,0 +1,35 @@
+bg #000000,notrans,0
+playstop
+waveloop se_11
+!w4000
+bg "bg/bg_40a",crossfade,800
+` ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… I can't hear the annoying sound of the clock anymore.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` Knock, Kno[line=4]ck.@
+br
+` The rhythm of my breathing has gone totally erratic and I can't fix it.@
+` …… It's deathly cold.@
+` If it's this cold, I want to stop caring about everything[line=4]I feel like sleeping.
+\
+bg #000000,crossfade,800
+` Knock Kno, Knock.@
+` Kno, Kno, Knock.@
+` Kno Kno Kno, Kno Kno.@
+` Kno, Kno, Kno[line=3]Kno.@
+` Kno, Kno Kno, Kno[line=5]Knock.@
+` kno[line=5],,,,,,knock.@
+` ,,,,[line=3]Kno kno, knock knock.@
+br
+`"[line=8]"@
+br
+` I think I hear a knocking sound.@
+` Maybe it's Hisui.@
+` But my body doesn't move anymore.@
+` Tohno Shiki, will live forever in this cage, and no one will kill Tohno Shiki…
+\
+bg #ffffff,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

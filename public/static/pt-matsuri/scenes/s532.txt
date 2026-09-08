@@ -1,0 +1,83 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` E agora com vocês, o cantinho de sugestões para esse Tohno-kun precoce, que mais uma vez deu de cara com um Final Ruim.@
+` Está na hora do: "Ensine-me, Ciel-sensei!"@
+br
+` Vamos começar o primeiro período de lições do terceiro dia.@ As únicas lições que restaram são sobre a rota da Akiha-san.
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Nya?@ Sensei, por que as lições da Hisui vieram antes da Akiha?"@
+br
+` Pergunta negada.@
+` Tohno-kun.@
+` Eu entendo como se sente, mas a Yumizuka-san está com um problema enorme.@
+br
+`"????@ Não é o Shiki quem está com um problema enorme?"
+\
+` Calada, é um problema enorme e pronto.@
+` Uma garota da sua idade está passando por dificuldades, isso não é hora de ficar com medo do perigo.@
+` Por favor, volte um pouco na história e certifique-se de investigar aquele beco.@
+` Até a próxima lição!
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t31a",lshutter,400
+`"…… Eu não entendo.@ Por que a Hisui veio antes da Akiha?"@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+`"Eu não entendo.@ Sou a heroína principal e não apareço direito e o Shiki ainda me ignora!"@
+br
+ld r,"tachi/ark_t31b",lshutter,400
+`"É, não entendo!@ É só comigo, até a Ciel tem participação!@ Mas eu só apareço de costas.@ Além disso, a Sacchin está agindo muito mais como uma vampira do que eu!@ Que merda é essa, Kinoko!?"
+\
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+wait 100
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+wait 100
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+br
+br
+br
+br
+br
+br
+br
+`"Eu simplesmente não entendo.@ Não entendo, não entendo!!!"
+\
+bg #000000,crossfade,800
+playstop

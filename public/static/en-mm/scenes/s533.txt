@@ -1,0 +1,25 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` Now the hint corner for Tohno-kun who has met yet another Dead End,
+` It is time for "Teach me, Ciel-sensei!"
+\
+` The second period lesson of the third day will be about filial love.@
+` The reason you died this time is simple, Tohno-kun.@ There wasn't enough incentive in you to pull Yumizuka-san off of you the instant she bit you.
+\
+` Bonds of family are very important.@
+` Classmates are also important.@
+` You have to make sure you concern yourself with being a good Onii-chan, and you have to somehow answer your classmate's love.@ Yes, you have obligations to both of them.
+\
+` So a little piece of advice.@
+` Tohno-kun, it's probably good if you go back and show Yumizuka-san some sincerity.@
+br
+` Well then, let's meet again in the next lesson, everyone.
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,17 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_27b",notrans,0
+`"[line=3]Wait a minute.@ Senpai, didn't you say I can do as I wish……?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Yes, please do as you wish, Tohno-kun."@
+` Senpai nods and smiles.
+\
+`"…… Good, I wasn't just imagining it.@ Then, this is goodbye.@ You shouldn't be following me anymore."@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Huh?@ I'm not really following you or anything."@
+`"[line=3]Um, Senpai?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"I simply have something to do in the park.@ I don't know where you are going, Tohno-kun, but if you're not going to the park, then this is where we say goodbye."
+\
+cl c,crossfade,400

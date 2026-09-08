@@ -1,0 +1,331 @@
+monocro off
+play "*8"
+wavestop
+bg "bg/bg_40c",notrans,0
+` …… Estou feliz que ela esteja tão preocupada comigo.@ Mas não posso quebrar minha promessa com a Arcueid.@
+` Ontem ela ficou me esperando por três horas.@ Esse não é o único motivo, eu também não quero deixá-la esperando só por causa da minha anemia de sempre.
+\
+`"…… Tudo bem.@ Hoje eu vou dormir."@
+` Dizendo isso, eu me deito.@
+ld c,"tachi/aki_t17b",crossfade,400
+`"Jura……?@ Você não vai sair de fininho do quarto mais tarde?"@
+`"…… Não vou fazer isso.@ Você acha que vou conseguir sair neste estado?"@
+`"[line=4]É, pensando bem, você tem razão."@
+` A Akiha suspira e relaxa.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"Hisui, diga para a Kohaku que o Nii-san está acordado.@ Nii-san, você quer jantar?"@
+`"…… Ah, é mesmo.@ Não, diga à Kohaku-san que sinto muito, mas acho que não consigo comer agora.@ Vou apenas dormir."@
+`"…… Entendo.@ Então Hisui, diga isso à Kohaku."@
+` Ainda cabisbaixa, a Hisui concorda e sai do quarto.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"Bem, vou voltar para o meu quarto.@ Se acontecer alguma coisa, não hesite em me chamar.@ Não importa qual hora seja, eu virei imediatamente."@
+cl c,lshutter,800
+\
+bg "bg/bg_40d",lshutter,800
+` A Akiha apaga as luzes e sai do quarto.@
+`"…… Desculpe-me, Akiha."@
+` Dizendo isso, me levanto da cama.@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40d",crossfade,400
+`"Ggh………"@
+` Só de levantar já fico um pouco tonto.@
+` …… Isso não está parecendo minha anemia de sempre.@
+` Mesmo assim, não posso deixar a Arcueid esperando.@
+` Conhecendo-a bem, se eu deixá-la lá, ela vai continuar me esperando para sempre.
+\
+` Vou cambaleando até a minha escrivaninha.@
+` Tiro a faca de dentro da gaveta e coloco no meu bolso.@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40d",crossfade,400
+`"Que…… droga, desse jeito… realmente… não vou conseguir… sair de finininho."@
+` …… Tenho que reunir minhas forças mais uma vez até conseguir sair daqui de dentro, senão a Hisui vai me encontrar e me levar de volta para o quarto.
+\
+`"…… Desculpe-me, Arcueid.@ Parece que vou me atrasar mais do que ontem."@
+` Eu sento no chão.@
+` Só uma hora.@ Se eu descansar por mais uma hora, tenho certeza que vou conseguir sair[line=4]
+\
+bg #000000,lcartain,1500
+playstop
+!w2000
+bg "bg/bg_28b",lcartain,1500
+` Eu chego no parque antes da meia-noite.@
+` No final das contas, mesmo depois de esperar por uma hora, meu corpo ainda não se recuperou, por isso me levou mais uma hora para chegar aqui.
+\
+bg "bg/bg_29b",lcartain,800
+` Estou ofegando muito.@
+` Olho em volta.@
+` A noite paira sobre o parque.@ Perto do lugar que combinamos de nos encontrar tem uma pessoa de branco.@
+br
+`"…… Eu sabia que ela estaria esperando."@
+` Solto um suspiro demorado.@
+` Parece que a Arcueid percebeu que estou aqui.@
+` Ela vem na minha direção.
+\
+ld c,"tachi/ark_t16",lshutter,800
+play "*9"
+`"Shiki, você está atrasado duas horas.@ O que esteve fazen[line=4]"@
+ld c,"tachi/ark_t13",crossfade,400
+` Ela para de falar assim que vê meu rosto.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Ei, qual o problema, Shiki……?@ Você está tão pálido, e mal posso sentir algum sinal de vida em você.@ Isso não é normal."@
+`"É minha anemia atacando novamente.@ Acontece de vez em quando, não é nada de mais.@
+` …… Desculpe-me por te fazer esperar por duas horas."@
+ld c,"tachi/ark_t14",crossfade,400
+`"Hã[line=4]Não tem problema, mas…… Shiki, não acha bizarro demais você ter vindo nessas condições?"@
+` Embora ela estivesse muito brava há poucos segundos, agora parece preocupada comigo.
+\
+`"[line=4]Eu fiz uma promessa, não fiz?@ Eu disse que te ajudaria, não vou te deixar na mão."@
+`"…… Isso me deixa feliz mas…… Shiki, parece que você não entende o próprio corpo."@
+`"Não preciso que me diga isso, Arcueid.@ Já faz oito anos que sofro com essa anemia, tenho certeza de que entendo meu corpo muito bem."
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=4]Não.@ Você não entende o quanto a sua vida é instável.@ Eu já tinha sentido isso antes, mas agora tenho certeza.@
+` Shiki, você está sempre perto da morte.@
+` Não sei se é uma reação aos seus Olhos Místicos de Percepção da Morte ou não, mas você está andando sobre a tênue linha entre a vida e a morte.@ Dizer que a sua anemia não é grande coisa agora porque não era grande coisa antes é um erro terrível."@
+` Seu olhos frios fitam os meus.
+\
+`"Olha, Shiki.@ A sua resistência à morte por meios externos é maior do que a da maioria das pessoas.@ Provavelmente isso se deve ao fato de você ter enfrentado a morte antes.@
+` Mas por outro lado, você praticamente não tem qualquer resistência à morte por meios internos.@ Não seria nada estranho se essa sua anemia te matasse de repente."@
+`"O qu[line=3]O que você está querendo dizer?@ Que vou morrer por algo simples como um resfriado?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Estou apenas tentando te avisar sobre os riscos que você corre!@
+` Fico feliz que tenha vindo, mas em primeiro lugar vem a sua saúde!@ Você deve voltar para casa e descansar!"@
+cl c,lshutter,800
+` Ela me puxa para mais perto dela.@
+` Ela deve estar preocupada de verdade, porque está totalmente indefesa enquanto nos aproximamos.
+\
+`"Ah[line=4]"@
+` Antes que eu possa me afastar, o peito dela toca no meu.@
+br
+waveloop se_02
+` …… Tum.@
+` Minha cabeça é atacada por uma tontura diferente da habitual.@
+` Todas essas coisas que eu não tinha percebido antes, a maciez dos seus seios, a brancura da sua pele, seus lindos cabelos dourados, seu charme feminino.
+\
+`"Arcueid[line=4]Por favor, se afaste."@
+ld c,"tachi/ark_t04",crossfade,400
+`"O que foi?@ Não pode confiar na palavra de uma vampira?"@
+`"Por que está dizendo isso assim do nada, idiota?@ Não tem como eu não confiar em você."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Mentiroso.@ Então por que não me olha nos olhos?"@
+`"Você poderia se afastar de mim por causa de um motivo pessoal?@ …… Eu sou homem, ter você tão perto assim, é meio, complicado."@
+cl c,crossfade,400
+` Ficando um pouco surpresa, ela se afasta.
+\
+wavestop
+br
+` [line=4]Ufa.@
+br
+` Por enquanto, a tontura dupla causada pela anemia e pela Arcueid, diminui um pouco.
+\
+ld c,"tachi/ark_t14",crossfade,400
+` Acho que ela finalmente entendeu a situação e, agora me olha envergonhada.@
+`"[line=7]Hum."@
+` Essa idiota.@ Vê-la desse jeito, só me faz pensar que ela é muito linda.@ Que situação complicada.
+\
+`"Dá[line=2]pra parar?"@
+` Resmungo isso baixinho, para ela não ouvir.@
+` Essas palavras foram direcionadas a mim mesmo, por ter ficado excitado com ela.@
+br
+` …… Tem algo muito errado aqui.@
+` Mesmo sendo linda desse jeito, ela é uma vampira.@
+` O que deu em mim para esquecer algo tão importante?
+\
+`"[line=4]Enfim, não estou tão acabado para você ter que ficar preocupada assim.@
+` Se eu fosse atacado como fui ontem à noite, aí sim eu poderia morrer de verdade.@ Por isso não posso fazer esse tipo de coisa hoje."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Hã[line=2]?@ O que foi que você acabou de dizer?"@
+`"Que se eu fosse atacado como fui ontem à noite, poderia morrer de verdade.@
+` Ele está atrás de nós também, temos que encontrá-lo o mais rápido possível[line=4]"@
+br
+` De repente, eu me lembro.
+\
+`"…… Eu esqueci de te contar.@ Ontem à noite eu fui atacado por um daqueles Mortos."@
+`"Ontem à noite?@ Depois que nos separamos!?"@
+`"Sim.@ Ele estava todo enrolado em bandagens e estava me esperando perto da mansão."@
+ld c,"tachi/ark_t07",crossfade,400
+` A expressão da Arcueid fica muito séria.
+\
+`"…… Não acredito.@ Como pôde esquecer de me contar algo tão importante?"@
+`"…… Hum."@
+` Não foi culpa minha.@ Passei por coisas muito estranhas hoje.
+\
+`"…… Tá bom.@ Agora me conte em detalhes o que aconteceu, Shiki."@
+` Com um olhar sério, ela me interroga sobre o acontecido.@ "Hum, vejamos[line=2]"@
+br
+` Eu me acalmo e descrevo o que houve com o máximo de clareza possível.@
+br
+` …… Mas não conto que o homem enfaixado estava vendo as minhas "linhas de morte".@
+` Não posso provar que ele estava vendo, pode ter sido só minha imaginação.
+\
+bg #000000,lshutter,400
+playstop
+bg "bg/bg_29b",lshutter,400
+`"…… E foi assim que aconteceu[line=6]"@
+` Terminando minha explicação, tento ler a expressão da Arcueid.@
+ld c,"tachi/ark_t05b",crossfade,400
+` Desde quando comecei a contar a história e até agora, seus olhos continuaram afiados, sem demonstrar qualquer gentileza.
+\
+`"E então, quem são eles, Arcueid?@ Aquele homem enfaixado e aquela pessoa usando vestes como as de um sacerdote de outro país, são seus inimigos, né?"@
+ld c,"tachi/ark_t07",crossfade,400
+play "*1"
+`"…… Sim.@ Ambos são 'inimigos'.@ Não sei quem ou o que é esse homem enfaixado, mas a mulher com a túnica católica, eu tenho uma ideia de quem seja."@
+` Ela aperta os olhos como se tivesse ficado de mau humor.@
+` Não, está mais para irritada do que de mau humor.
+\
+`"Talvez eu conheça a pessoa que te salvou, Shiki.@ …… Poxa.@ Se for quem estou pensando, é provável que ela encontre o inimigo antes de mim."@
+` Ela morde o lábio aborrecida.
+\
+`"Espera um pouco.@ Eu não disse que aquela pessoa era mulher."@
+`"Mas não há dúvidas.@ Aquela mulher é a única agente que tem autoridade para caçar os hereges sozinha e que usa as Chaves Negras combinando com o Rito de Cremação e o Efeito Revestimento de Aço."@
+` Sua irritação já está parecendo hostilidade.@
+` Nem quando ela falava sobre o Nrvnqsr sua voz era tão cheia de emoções.
+\
+`"…… Arcueid.@ A pessoa que me salvou, é uma vampira……?"@
+`"Claro que não.@ Ela faz parte daqueles que veem os vampiros como inimigos.@
+` Não existe neste país, mas há uma organização que considera os vampiros e outras criaturas como hereges e sai pelo mundo matando todos.@ A pessoa que te ajudou é uma das mais problemáticas desse grupo, uma Exorcista.
+\
+`"…… Isso é muito estranho.@ A Agência Mortuária não deveria ter enviado uma agente tão cedo assim."@
+` A Arcueid fala baixinho para si mesma.@ Não faço a mínima ideia do que ela está falando.
+\
+`"Exorcista?@ …… Hum, é tipo um padre?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hã?@ Hum, não que você esteja errado, mas também não está totalmente correto.@ Demoraria muito para explicar, por enquanto basta você entender que existem pessoas que saem pelo mundo exterminando vampiros."@
+`"………………"@
+` Hum, ela me diz para simplesmente entender mas…
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Mas vamos deixar isso de lado, por que você lutou com ele?@ Você disse que iria me ajudar, mas nunca disse que iria se meter nas brigas."@
+` Ela me encara.@
+br
+` …… Ela parece seriamente preocupada com a minha segurança[line=4]
+ld c,"tachi/ark_t16",crossfade,400
+`"Isso não é justo, Shiki!@ Deixando isso segredo, está querendo ficar com toda a diversão só para você!?"@
+br
+` [line=4]ou não.
+\
+`"…… Como você chegou a essa conclusão insana!?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum?@ Você não estava tentando esconder o seu monopólio da presa de mim?"@
+` Ela diz algo tão absurdo e com uma cara tão séria.@
+`"Idiota, é óbvio que não.@ …… Lutar com ele não foi uma escolha.@ Foi apenas o rumo que as coisas tomaram.@
+` Eu não tenho a intenção de enfrentar Os Mortos ou algum vampiro sem você."
+\
+`"…… Ah?@ Foi o rumo que as coisas tomaram?"@
+`"Foi meu senso de justiça como uma pessoa normal…… ou sei lá, algo desse tipo.@ Eu meio que estou arrependido agora."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Justiça?"@
+` Ela inclina a cabeça como se dissesse "Como assim?"@
+` …… É, ontem eu percebi da pior forma que foi apenas uma justificativa.@
+cl c,crossfade,400
+\
+` [line=4]Naquela hora.@
+br
+` Quando percebi que tinha uma pessoa na minha frente, senti apenas medo.@
+` Aquela coisa[line=4]aquele cara, eu soube que ele não era normal desde o início, mas a única coisa que pude fazer foi tremer.@
+` Logo em seguida, lancei minha faca de encontro à dele e começamos uma luta até a morte.
+\
+` …… Não se pode matar uma pessoa usando como desculpa uma noção barata de justiça.@
+` As pessoas matam para preservarem a própria vida.@
+` Essa é a lógica mais simples e primitiva dos animais.@
+br
+` E essa lógica[line=3]naquela hora, se aquela pessoa parecida com a Senpai não tivesse aparecido, provavelmente eu teria executado aquela ação sem hesitar[line=4]
+\
+`"…… Arcueid.@ Você poderia me contar um pouco mais sobre a pessoa que apareceu para me ajudar?"@
+ld c,"tachi/ark_t05b",crossfade,400
+`"Não tenho mais nada para falar sobre isso, ela é uma inquisidora da Igreja.@ O grupo que é como uma nêmesis para todos os vampiros.@ Essa Agência Mortuária é mais um grupo de assassinos do que de exorcistas, ou melhor, de máquinas de matar.@ É um grupo especializado em lidar com hereges[line=4]Estou muito surpresa que os olhos deles chegaram até aqui no Extremo Oriente."@
+` A Arcueid cruza os braços enquanto mergulha nos próprios pensamentos.@
+` Ela parece não estar sentindo qualquer emoção, bem diferente de antes.
+\
+` [line=3]Ela está muito séria.@
+` Talvez esteja pensando nisso com mais seriedade do que sobre o inimigo que está perseguindo.
+\
+`"…… Arcueid.@ Não estou entendendo, esses exorcistas caçam vampiros, né?@ Isso não quer dizer que você também é o alvo deles?"@
+` Pergunto isso porque estou um pouco preocupado.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Hã[line=3]?@ Claro que não.@ Eles são os inimigos naturais apenas dos Apóstolos da Morte.@ Nós não nos metemos uns com os outros, assim não há nenhuma rixa.@
+` Mas[line=4]se ela for quem eu acho que é, deve estar armada com A Sétima Escritura Sagrada.@ Existe o risco de ela encontrá-lo primeiro."@
+cl c,crossfade,400
+`"…… Encontrá-lo primeiro……?"@
+` Não entendo bem suas razões.@
+` Eu não sei dos detalhes, mas parece que a Arcueid não gostou que essa pessoa parecida com a Senpai tenha aparecido.
+\
+`"…… Acho que isso não é da minha conta também.@ Bem, agora que estamos mais tranquilos, vamos começar?@ Eu não vim aqui por nada, vamos lá encontrar pelo menos um dos Mortos."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Nossa, o que está resmungando aí com essa cara pálida?@ Nós fugimos do assunto porque você me contou esse acontecimento estranho, eu já não disse que você precisa cuidar mais do seu corpo!?"
+\
+` Ela me encara.@
+` …… Não achei que fosse verdade, mas ela realmente parece estar preocupada comigo.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Entendeu?@ O seu corpo é mais instável do que o da maioria das pessoas, por isso se não descansar em uma situação como essa, vai estar arriscando sua vida.@
+` Você desmaia demais, e não é por causa da anemia, é porque seu corpo entende que está em perigo.@
+` Seu corpo sente o perigo antes de você, por isso ele para de funcionar para evitar que a situação piore."
+\
+`"Hein[line=4]isso é sério?"@
+`"E eu tenho algum motivo para mentir?@ Enfim, eu te avisei.@ Se você acredita em mim ou não, é com você, Shiki."@
+cl c,crossfade,400
+`"…… Bem, acho que você não tem motivos para mentir mesmo……"
+\
+` Enquanto falo, caio em um pensamento profundo.@
+` Sempre pensei que eu desmaiava porque meu corpo estava fraco devido a anemia, mas agora ela está dizendo que é porque meu corpo está tentando me proteger, como se fosse um interruptor de segurança?@ Como assim?
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Nós não vamos investigar esta noite.@
+` Acredito que o inimigo não vá reaparecer até que seus ferimentos estejam curados, e se ele apareceu na sua casa sem usar Os Mortos, quer dizer que ele não tem mais nenhum sobrando."@
+` Ela diz com um tom severo.@
+br
+` …… Se é o que ela diz, não vou discutir.@ Para começo de conversa, seria impossível eu sair procurando por vampiros sozinho.
+\
+`"…… Tudo bem.@ Já que é assim, Arcueid, eu vou descansar esta noite."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Por favor, faça isso.@ Além de ter sido atacado ontem à noite, agora seu corpo está muito fraco também.@
+` Vai ser um problemão se você não dormir esta noite e voltar ao normal amanhã."
+\
+`"…… Tá bom.@ A verdade é que eu não seria de muita ajuda nessas condições.@
+` Vou estar no meu estado normal amanhã."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Não, não é por isso.@ É chato conversar com você quando está assim, por isso eu quero que volte ao normal, só isso."
+\
+` Ela quase parece decepcionada.@
+` …… Eu sabia que era inútil tentar entendê-la.@
+cl c,crossfade,400
+\
+`"Vou voltar para a mansão.@ Até amanhã, Arcueid."@
+` Acenando com a mão, começo a caminhar.@
+`"Ei, Shiki."@
+` Ela me para.
+\
+`"…… O quê?@ Faltou dizer alguma coisa?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Eu não deveria te levar para casa?"@
+` Ela desvia o olhar e fala com hesitação.@
+br
+` [line=4]Da sua própria maneira, ela realmente está preocupada com o que aconteceu ontem à noite.
+\
+` Pensando bem, não seria uma má ideia…@
+`"Ah[line=4]"@
+` Antes que eu possa dizer "Sim", paro subitamente.
+\
+` Espera.@ Espera.@ Não está se esquecendo do voto que fez agora há pouco, Shiki?@
+` Não importa o quanto ela seja linda, a Arcueid é uma vampira.@ Não posso me esquecer disso.@
+` Se eu me relacionar com ela mais do que o necessário[line=4]posso cruzar uma linha sem volta.
+\
+`"Não precisa.@ Você não precisa se preocupar comigo também.@ Não faça essas coisas que não combinam com você."@
+`"Hum[line=4]tá."@
+` Foi bem rápido[line=4]só por um instante, a Arcueid pareceu cabisbaixa, mas logo voltou ao normal.@
+ld c,"tachi/ark_t08",crossfade,400
+`"Então, até amanhã!"@
+` Acenando energeticamente com a mão, a vampira de roupa branca desaparece na escuridão da noite.@
+cl c,lshutter,800
+\
+bg #000000,crossfade,1500
+playstop
+!w3000

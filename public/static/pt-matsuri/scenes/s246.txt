@@ -1,0 +1,32 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+`"[line=3]Eu dispenso.@ Vou comprar um pão e comer sozinho."@
+`"Sério?@ Então eu vou indo."@
+cl a,lshutter,400
+` O Arihiko vai para o refeitório.@
+`"…… Certo."@
+` Eu também me levanto da cadeira e vou na direção do clube de cerimônia do chá, que é onde a Senpai deve estar.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_11a",lcartain,1500
+` …… Estou de frente para a sala do clube de cerimônia de chá.
+\
+` É claro que comprei comida antes de vir para cá.@
+br
+` Toc toc.@
+br
+` Bato na porta.@
+` Ouço um barulho como se tivesse alguém brigando lá dentro e sinto a presença de uma pessoa do outro lado da porta.
+\
+`"Quem é?"@
+` Ouço a voz da Senpai do outro lado da porta.@
+`"Sou eu.@ Senpai, você gostaria de almoçar comigo?"@
+` …… Ela não responde.@
+`"Senpai, eu te chamei pra almoçar comigo."@
+`"…… Não vou almoçar com você, Tohno-kun."@
+` Sua voz não demonstra nem um pingo de alegria.@
+` Não sei bem o que fazer,
+\

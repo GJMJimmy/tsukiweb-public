@@ -1,0 +1,883 @@
+monocro off
+playstop
+waveloop se_02
+bg "event/ark_e05b",lshutter,800
+` A Arcueid estica os braços.@
+` E segura o meu corpo.@
+`"Ar[line=3]"@
+` Minha respiração fica parada na garganta quando chamo o seu nome.
+\
+` Seus olhos completamente vermelhos.@
+` Seus dentes afiados como os de um leão.@
+` Essa pressão avassaladora que acaba com toda a minha força de vontade para resistir.@
+` Esta coisa que está aproximando seus dentes do meu pescoço não é a mulher que conheço.
+\
+` Não consigo fazer nada.@
+` Não consigo levantar um dedo.@
+br
+` Eu vou ser devorado.@
+` É isso que significa ser caçado?@
+br
+` Ela pressiona os dentes no meu pescoço.@
+` Estou completamente dominado pelo medo.
+\
+`"Hiii[line=4]!"@
+` Solto um grito.@
+` Quase chego a pensar por um instante quão lamentável sou por gritar desse jeito.@
+br
+` Talvez seja apenas a minha imaginação mas…
+br
+` Parece que ela está paralisada nesta posição.
+\
+wavestop
+bg #000000,lshutter,400
+wave se_10
+` Mas antes de eu poder confirmar isso…
+` Bam!@ Acontece uma explosão violenta ao lado da Arcueid fazendo ela voar longe.
+\
+bg "bg/bg_29b",lshutter,400
+`"O qu[line=4]"@
+` Como se tivesse sido atingida por um carro, ela é jogada a vários metros de distância.@
+` Mas se levanta como se nada tivesse acontecido.
+\
+ld c,"tachi/ark_t18",lshutter,800
+`"Eu…… Eu"@
+` Ela fica parada no mesmo lugar, petrificada.@
+` Eu[line=3]nem tenho ideia do que devo fazer.
+\
+` E então:
+`"Você ia beber do sangue dele!"@
+` Uma voz fria ralha com ela.@
+`"Essa é a sua verdadeira natureza, Arcueid Brunestud."@
+` A voz impiedosa vem do alto.
+\
+bg #000000,crossfade,400
+bg "event/cel_e04",crossfade,400
+` Olho na direção da lua.@
+` E lá está[line=3]aquela pessoa com vestes como as de um sacerdote de outro país.@ É a mesma pessoa daquela outra noite.@
+br
+`"Sen[line=4]pai[line=4]"@
+` Tenho certeza que é ela.@
+` Não importa de qual ângulo eu olhe, é a Ciel-senpai.@
+` Ela nem olha para mim, apenas encara a Arcueid que está se agachando.
+\
+`"Embora você destrua sua própria raça, isso nunca mudará o fato de que também é uma vampira.@
+` …… Não sei o motivo de ter se aproximado dele, mas não pensou que acabaria dessa forma?"@
+br
+` Sua voz está completamente diferente.@
+` Não é severa nem gentil.@
+` Essa voz sem emoções[line=3]é desprovida de qualquer humanidade.
+\
+bg "bg/bg_29b",lshutter,400
+` Sem fazer qualquer som, a Senpai desce do poste de luz.@
+ld l,"tachi/cel_t06b",lshutter,400
+`"Normalmente, eu não perderia meu tempo com você, mas não vou deixar passar o fato de que tentou matar uma pessoa normal.@
+` Não é parte do plano lutar contra você[line=3]mas se houver a necessidade, sempre podemos adaptá-lo de acordo com a situação."@
+ld r,"tachi/ark_t15",crossfade,400
+`"[line=2]Não seja ridícula.@ Eu só quero distância de você.@ Além disso[line=3]"@
+` Ela encara a Senpai com ódio no olhar.
+\
+`"Eu nunca tive a intenção de matá-lo."@
+`"[line=3]Isso não soou nem um pouco convincente.@ Você sabe muito bem o que estava fazendo, e não se esqueça do grito que ele deu quando estava sendo atacado."@
+ld r,"tachi/ark_t05c",crossfade,400
+`"[line=5]"@
+`"Não me importa se você me odeia.@ Mas você direcionou sua insanidade para ele.@ Devemos perguntá-lo como ele se sentiu?"@
+` Virando a cabeça,
+` a Senpai me olha pela primeira vez.
+\
+ld r,"tachi/ark_t10",crossfade,400
+`"[line=7]"@
+` A Arcueid desvia seu olhar.@
+` Apenas o silêncio domina o ambiente.@
+cl a,crossfade,400
+br
+` Um passo.@
+` A Senpai dá um passo na minha direção.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Afaste-se, vampira.@ Você não tinha o direito de ficar ao lado dele desde o princípio."@
+`"O qu[line=4]"@
+br
+` Isso não é verdade.@
+` Não sei quem a Senpai é de verdade nem o que aconteceu com a Arcueid agora há pouco, mas não aceito ela falar isso.@
+` Porque[line=4]eu mesmo, com minha própria vontade, quero estar ao lado da Arcueid[line=3]
+\
+`"Você está completamente errada……!@ Quem está pensando que é!?@ Aparece do nada usando estas roupas esquisitas e falando como se soubesse de tudo……!?@
+` Eu sei que a Arcueid é uma vampira, mas ela nunca tomou sangue na vida!@ Provavelmente ela só estava brincando comigo, e você não tem direito algum de[line=4]"@
+ld c,"tachi/cel_t06b",crossfade,400
+`"Por favor, fique calado, Tohno-kun.@ Você acha que ela nunca bebeu sangue?@ É verdade que nesses últimos oitocentos anos não há qualquer registro de ela ter feito alguma vítima.@ Entretanto[line=4]"
+\
+`"Cala a boca você!@ Eu não quero escutar nenhuma porcaria de história que você tem pra contar……!@
+` Escute bem, se tentar ficar no caminho da Arcueid, mesmo sendo você, não vou perdoá-la, Senpai.@
+` Afinal de contas, eu[line=3]estou ajudando ela porque quero.@ Nada disso te diz respeito, não interfira[line=2]!"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"[line=3]Mas Tohno-kun[line=3]"@
+` Sinto uma pitada de emoção na voz dela.
+\
+`"[line=3]Tudo bem.@ Já que quer assim, não vou fazer mais nada.@
+` No entanto[line=3]"@
+cl c,crossfade,400
+` A Senpai encara a Arcueid.@
+` A Arcueid desvia o olhar[line=3]não olha nem para mim nem para a Senpai.
+\
+ld r,"tachi/ark_t10",crossfade,400
+`"………………"@
+ld l,"tachi/cel_t07b",crossfade,400
+`"Arcueid Brunestud.@ Você ainda pretende ficar ao lado dele depois do que aconteceu?"@
+br
+` Ela não responde.@
+` Ela levanta a cabeça, olha para mim uma vez[line=3]e sai correndo.@
+cl r,lshutter,400
+\
+`"P[line=3]por que está indo embora, Arcueid……!?"@
+` Começo a correr atrás dela.@
+br
+quakey 1,100
+` Mas.@
+br
+`"[line=4]!?"@
+` Meus pés não saem do chão.@
+` A Senpai caminha lentamente até mim.
+\
+cl l,crossfade,400
+ld c,"tachi/cel_t07b",crossfade,400
+`"Não vou deixá-lo ir atrás dela.@ Não vou deixá-lo ser morto, Tohno-kun."@
+br
+` Em suas mãos vejo algumas lâminas parecidas com hastes.@
+` Uma delas está perto do meu pé[line=3]prendendo minha sombra ao chão.
+\
+`"Você não poderá se mexer até ela ser removida.@ Pode se debater à vontade, sua sombra não o deixará se separar dela."@
+`"[line=4]Para de brincar comigo, desse jeito vou perdê-la de vista!"@
+` Eu agarro a faca no chão.@
+` Mas não consigo puxá-la de forma alguma.
+\
+`"Esqueci de te dizer, mas sou a única capaz de removê-la, pode desistir."@
+` Depois de dizer isso, ela para bem na minha frente.@
+`"[line=4]"@
+` Eu a encaro.@
+` Ela me encara de volta[line=3]e logo depois suspira.
+\
+ld c,"tachi/cel_t10b",crossfade,400
+`"Céus, sério[line=3]precisava exagerar assim, Tohno-kun!?"@
+`"[line=3]Hã?@ …… Hum, Senpai?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Olha só.@ Eu não odeio ela, mas isso é para o bem de vocês dois.@ Eu vou te libertar daqui a pouco, só quero que ouça o que tenho a dizer e pronto."
+\
+` Ela olha para o céu, hesitante.@
+` Esta é a Senpai que conheço da escola.@
+br
+` [line=3]Será que é por ela estar agindo assim?@
+` Embora eu ainda não compreenda a situação direito, começo a me acalmar.
+\
+play "*1"
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… Eu sei que é muito repentino, por isso estou preparada para ser odiada por você.@ Eu preciso te contar uma coisa.@
+` Desculpe-me por prendê-lo desse jeito."@
+` Ela faz uma mesura para se desculpar.@
+` …… A roupa dela é estranha, mas a Senpai ainda é a Senpai.
+\
+`"[line=3]Está tudo bem.@ Não estou com raiva, não precisa pedir desculpas.@ Você até me ajudou daquela vez, e também quero te fazer algumas perguntas."@
+ld c,"tachi/cel_t01b",crossfade,400
+`"[line=3]Que bom!@ …… Então, o que quer me perguntar, Tohno-kun?"@
+`"…… Não é óbvio?@ Quem é você de verdade, Senpai?@
+` Olha com você se veste, e ainda bate daquele jeito na Arcueid, e também sou o único que lembra de você na escola."@
+` Ela apenas suspira.
+\
+`"Então me diga.@ Tohno-kun, quem você pensa que sou?"@
+`"…… Hum.@ Só sei o que a Arcueid me contou, essas coisas sobre A Igreja."@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Como já deve desconfiar, sou uma exorcista da Igreja.@ Minha especialidade é caçar vampiros.@
+` Não posso responder mais nada além disso, mas acho que para você já é o suficiente também."
+\
+`"Acha que é o suficiente?@ [line=2]Por que alguém como você veio para a minha escola?@ Já que quer matar vampiros você deveria sair a procura deles pela cidade igual a Arcueid."@
+`"Havia um motivo para eu entrar para sua escola, Tohno-kun.@ Hum…… então tá, já que isso coincide com o assunto que quero falar, sou eu quem vai fazer as perguntas de agora em diante."
+\
+ld c,"tachi/cel_t06b",crossfade,400
+`"Tohno-kun, você se uniu àquela mulher, mas por acaso faz ideia do que ela está atrás?"@
+`"Sim.@ …… Pelo que ouvi ele é um vampiro à moda antiga, daqueles que bebem sangue dos seres humanos para expandir seu território."
+\
+`"Então você já conhece sobre as duas principais classificações de vampiros!@ Portanto, você deve ser saber sobre sua imortalidade imperfeita[line=3]"@
+`"Sei sim.@ Ele precisa beber sangue para manter seu corpo vivo.@ Mas enquanto fizer isso ele nunca vai envelhecer, certo?"
+\
+`"Isso mesmo.@ Mas no final das contas, não podemos chamá-lo de imortal.@ Além disso, existem aqueles que não conseguem manter seus corpos perfeitamente mesmo bebendo sangue, e alguns deles são exterminados por nós.@
+` Não se pode chamar algo que morre dessa forma de 'imortal'."
+\
+`"[line=4]Claro[line=3]ele não é imune à morte."@
+` Não sei aonde a Senpai está querendo chegar com essa conversa.@
+`"Isso tem alguma coisa a ver com o motivo de você ter vindo para a minha escola?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Mas é claro, né!@ Céus, tenha um pouco de paciência que já vou chegar lá."
+\
+`"…… Tá bom, mas[line=3]se puder me dar a versão mais curta eu ficaria agradecido."@
+`"…… Mesmo?@ Já que é assim, vou explicar da forma mais direta possível."@
+` Ela parece meio decepcionada.@
+ld c,"tachi/cel_t07b",crossfade,400
+`"A imortalidade dos vampiros conhecidos como Apóstolos da Morte é muito instável.@
+` Para eles, essa 'imortalidade' não passa de uma enorme prolongação de suas vidas."
+\
+`"…… Eu tenho uma pergunta.@ Eles não só têm a vida prolongada como também possuem poderes sobrenaturais.@ Existe alguma relação entre esses dois fatos?"@
+`"Para ser sincera, não muita.@ Eles já possuíam seus poderes individuais quando eram humanos, mas esses poderes foram fortalecidos ao passar dos séculos.@
+` Ao continuarem as pesquisas de suas vidas humanas, conseguiram esses poderes extraordinários."
+\
+`"Cada um dos Apóstolos da Morte possui um objetivo diferente.@ O que cada um decide estudar é diferente.@
+` Um deles estudou a imortalidade de todas as maneiras possíveis."@
+`"……?@ Ele se tornou imortal e continuou pesquisando sobre a imortalidade?"@
+`"Sim.@ No instante que os Apóstolos da Morte se tornam vampiros, eles presumem que atingiram o limite da imortalidade como humanos.@
+` No entanto, ele sentiu que isso não passava de uma degeneração.@ Ele não queria algo tão imperfeito, por isso quis descobrir uma imortalidade mais perfeita."
+\
+!w1000
+`"……………"@
+` A Senpai parece bem empenhada em contar a história.
+\
+`"Tudo que possui uma forma, vai perecer um dia.@ Não existe nada que possa resistir à passagem do tempo.@
+` Os vampiros simplesmente têm uma resistência maior do que a dos seres humanos.@ A partir do momento que algo nasce, ele já possui a morte dentro de si.@ Mesmo possuindo um corpo que não envelhece, enquanto ele existir, nunca poderá escapar da morte.@
+` A única forma de se escapar da morte é morrendo.@
+` Essa contradição é um problema que não pode ser resolvido."
+\
+`"[line=3]Eu sei.@ Todos têm a morte dentro de si.@ Se existe alguém que não tenha, seria[line=3]"@
+` Provavelmente algo que nunca chegou a existir realmente.@
+` Até mesmo a Arcueid pode morrer durante o dia.@
+` Não há como existir algo que não possa morrer neste mundo.
+\
+ld c,"tachi/cel_t01b",crossfade,400
+`"Pois é, mas ele concluiu que se conseguisse preservar sua existência depois de morrer, alcançaria a imortalidade.@
+` …… Isso não existe na nossa doutrina, mas é o que chamaríamos de reencarnação.@
+` Se uma pessoa morrer mas conseguir preservar seu ego e recomeçar a vida como um novo ser humano, ela estará enganando a morte.@
+` …… Como ela não foi completamente aniquilada, não estará morta de verdade, e talvez por isso não seja correto afirmar que está enganando a morte."
+\
+`"Reencarnação[line=3]quer dizer que ele morre e começa tudo de novo como um bebê?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Sim.@ Enquanto ainda está vivo, ele escolhe seu próximo hospedeiro, e quando a criança nasce, ele transmite para ela toda a informação do seu 'ego'.@
+` Essa informação fica dormente dentro do bebê até que ele amadureça o suficiente ou ganhe inteligência.@
+` Assim que o bebê ganha inteligência o suficiente para suceder o 'ego' do vampiro, o seu 'eu', esse bebê se torna um novo vampiro, que é ele."
+\
+`"[line=3]Espera um pouco.@ Como assim?@ Ele faz alguma cirurgia na criança?"
+\
+`"Não é um procedimento clínico.@ No instante em que seu corpo é destruído, ele reencarna naquele que escolheu como seu próximo corpo.
+\
+`"Eu te expliquei dizendo que ele transmite toda a 'informação do seu ego', mas para simplificar, pense nisso como a 'alma' dele.@
+` Não está totalmente correto dizer que sua alma sai voando e possui o corpo de alguém, mas é algo parecido com uma onda eletromagnética.@ Neste caso, o cérebro humano é o transmissor e o receptor.@
+` A parte excepcional disso tudo é que ele pegou sua alma, uma coisa incalculável que se dispersa no momento que abandona o corpo, e a transformou em algo que pudesse ser transmitido."
+\
+`"…… Olha, você vai ter que me desculpar, Senpai.@ Mas não consigo entender como isso pode estar relacionado com você entrando para a minha escola."@
+`"Está relacionado sim.@ Porque esse vampiro que reencarna está na sua escola, Tohno-kun."
+\
+`"[line=6]Hein!?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"O vampiro que eu estou perseguindo é o mesmo vampiro que a Arcueid persegue.@
+` …… Embora acredito que ela deve se referir a ele como seu 'inimigo'."
+\
+cl c,crossfade,400
+`"…………"@
+` Eu concordo em silêncio.@
+` É verdade, ela só usou a palavra "inimigo", nunca me disse nada sobre ele.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"O dever dela é matar vampiros, mas como ele apareceu, ela só persegue ele.@
+` Ele já reencarnou dezessete vezes.@
+` E ela o destruiu em cada uma dessas dezessete vezes."@
+`"Em cada uma delas…… Mas mesmo que ele morra, vai renascer de novo, não é assim que funciona?@ Matá-lo não é inútil?"
+\
+`"[line=4]Sim.@
+` Ele é morto por ela, reencarna novamente, e é morto por ela de novo.@ Esse ciclo tem se repetido há muito tempo.@
+` Se ela…… se a Arcueid tivesse o poder para matar não apenas o 'corpo' mas também a 'alma', provavelmente isso não estaria acontecendo."@
+cl c,crossfade,400
+` A Senpai abaixa a cabeça por um momento; parece que está rangendo os dentes.@
+` …… Eu não sei o porquê.@
+` Entretanto, parece que a Senpai também tem algum rancor desse "inimigo" igual a Arcueid.
+\
+`"…… Senpai.@ Que tipo de vampiro é esse sujeito?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Originalmente ele era um homem, mas isso pode mudar dependendo do corpo que ele reencarna.@
+` O problema desse Apóstolo da Morte é que suas reencarnações são difíceis de encontrar.
+\
+` Ele nasce como um bebê humano e tem até pais.@ Ele só se transforma em vampiro quando chega na idade que pode fazer o que quiser de uma forma satisfatória.
+\
+`"Até isso acontecer, o humano não demonstra nenhum sinal de ser um vampiro.@ Quando desperta, ele usa todos os relacionamentos que adquiriu até então para se misturar perfeitamente à sociedade.@
+` Eu ouvi dizer que A Igreja detecta sua presença só depois que uma cidade inteira já foi transformada em Mortos."
+\
+`"Espera aí.@ Hum, então, quer dizer que o novo hospedeiro nunca perceberia que é um vampiro até ele despertar?"@
+`"…… Sim, mas não é como se fossem duas pessoas dividindo um corpo.@ O bebê que nasceu como humano também é ele.@
+` Pode ser uma boa pessoa ou uma pessoa ruim, isso depende do ambiente em que nasceu.@ …… Mas até mesmo isso desaparece no momento que ele desperta.
+\
+`"Hum, resumindo, quando morre, ele renasce no próximo corpo que escolheu, e quando esse corpo ganha inteligência, ele recebe o seu 'ego' da vida anterior e se transforma em um vampiro."
+\
+br
+`"[line=8]"@
+` Mas que loucura é essa?@
+` Só de ouvir[line=3]já fico… assustado.
+\
+`"…… Isso é muito estranho.@ Eu não entendi direito, mas ainda acho estranho.@
+` Porque o que chamamos de vampiros… não se tranformam assim do nada, certo?@
+` Mesmo se sua personalidade anterior despertar, o corpo não continuaria sendo humano……?"
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Não, a reencarnação é a transmissão da alma.@ Quando se é mordido por um Ancestral Original, não é a apenas o corpo que é manchado, a alma é manchada para toda a eternidade.@
+` Ele transmite todas as suas informações, o que chamamos de alma, para o próximo corpo, por isso quando ele desperta, o corpo também se transforma no de um vampiro, mas[line=3]"@
+`"Mas o quê?"
+\
+`"Mas isso não é o bastante.@
+` Por isso ele escolhe seu próximo hospedeiro enquanto ainda está vivo.@
+` A família em que ele vai nascer precisa atender duas condições, a primeira condição é ser rica.@
+` Nascer em uma família da alta sociedade, com muitos bens e dinheiro, torna mais fácil o trabalho de transformar toda a cidade em vampiros depois do despertar.
+\
+`"E tem mais uma condição.@ Essa é a mais importante; entre as pessoas normais como nós, existem aquelas que possuem poderes especiais.@
+` Esses poderes não são como a magia, que é um poder místico que pode ser aprendido, são habilidades especiais que essas pessoas possuem desde quando nasceram.@ [line=3]Normalmente, essas pessoas são chamadas de Crianças Demoníacas ou paranormais.
+\
+`"Essas habilidades especiais são genéticas, elas são herdadas[line=3]passadas através das gerações pelo sangue.@ Ele escolhe essas famílias que possuem "algo não humano" em suas linhagens.@
+` Uma família com riquezas e influência, e também poderes sobrenaturais.@ Estas são as condições para o seu hospedeiro, Tohno Shiki-kun."@
+cl c,crossfade,400
+\
+playstop
+`"[line=7]"@
+` Ainda tem algo estranho aqui.@
+` Essa história é muito estranha.@
+br
+` O estranho é[line=3]ela estar me contando tudo isso[line=4]
+\
+`"…… O nome dele."@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Hum?@ O que disse?"@
+`"O nome dele……!@ Você só fala 'inimigo' e 'ele', nunca diz o nome.@ Por que você não quer me falar o nome dele……!?"@
+` Eu grito sem nem saber o motivo de estar nervoso.@
+br
+` Parece que ela não se importou com isso.@
+` Ela só fica[line=3]me olhando com simpatia.
+\
+`"Tá bom.@ Entre os Apóstolos da Morte, ele é conhecido como A Serpente de Akasha.@
+` É porque a serpente simboliza o infinito e os ciclos.@ Ela troca de pele e ganha um novo corpo, combinou perfeitamente com ele.@
+` Na Igreja ele está registrado como 'Reencarnador Eterno'.@ O seu nome humano é Michael Roa Valdamjong.@ E também nos referimos a ele simplesmente como 'Roa'."@
+`"Ro[line=4]a[line=3]"@
+` É, nunca ouvi falar.@ …… Óbvio, né!@ Por acaso achei que ia saber quem era só pelo nome?
+\
+`"…… Então você entrou para a minha escola porque sabia que o tal de Roa estava lá?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Sim.@ Na verdade, foi minha intuição, mas eu sabia que o novo Roa estava lá.@
+` Posso sentir a presença dele de uma forma bem melhor que a Arcueid.@ Por isso que vim para cá bem antes dela e descobri quem era seu novo hospedeiro."@
+cl c,crossfade,400
+\
+br
+` [line=6].@
+br
+` Ela fica em silêncio por algum motivo que desconheço.@
+` A Senpai me olha com simpatia igual fez agora há pouco.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+play "*9"
+`"…… Como já expliquei, o Roa escolhe ótimas linhagens e ótimos corpos para sua próxima reencarnação.@
+` Então, quando você descobre que o Roa está em um lugar, a resposta surge naturalmente quando você investiga as famílias que cumprem suas condições."@
+`"[line=6]"@
+`"Nesta região, só existe uma família antiga que atende às suas condições.@ Eu não preciso dizer mais nada, não é, Tohno[line=10]Shiki-kun!?"@
+cl c,crossfade,400
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]É por isso mesmo.@
+` É por isso que estou dizendo que essa conversa está muito estranha.
+\
+`"Ha."@
+br
+`"Ha."@
+br
+`"Hahaha[line=2]ha."@
+br
+` Sou eu quem está soltando essas risadas secas.
+\
+`"…… Como assim, Senpai?@ Isso é impossível."@
+br
+` Ela não responde.@
+` É quase como se,
+` estivesse dizendo que eu sou o hospedeiro desse tal de Roa.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… Não há dúvidas.@ A família Tohno possui 'algo diferente' no sangue.@
+` Ela tem poder e a habilidade sobre-humana latente que o Roa precisa.@
+` O poder que você usou para derrotar Os Mortos agora há pouco não foi o de um ser humano.@
+` Por isso que[line=4]desta vez o hospedeiro do Roa não pode ser confundido, é você, Tohno Shiki."@
+br
+` [line=3]Não estou entendendo.
+\
+` Não estou entendendo nada do que ela está dizendo.
+\
+`"…… Como?@ Como pode ter tanta certeza, Senpai?"@
+`"Como?@ Porque fui eu quem decidiu tudo isso."@
+` E mais uma vez ela falou algo que não consigo entender.
+\
+`"O q[line=3]quê!?"@
+`"…… Mas está diferente.@ Você é aquele que foi morto, mesmo assim você é aquele que sobreviveu.@
+` Aquele que foi morto, sobreviveu, e aquele que matou está morto.@ Acho que todos os erros começaram nesse ponto."@
+br
+` Ela termina seu raciocínio.@
+` A Senpai puxa do chão a "espada" que estava perto do meu pé.
+\
+playstop
+`"Ah[line=3]"@
+`"Isso é tudo que tenho para lhe dizer.@ Deixo o resto para você decidir, Tohno-kun."@
+`"Para eu decidir?@ Mas de acordo com a sua história, eu[line=3]"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"…… Para ser sincera, eu também estou confusa.@ Você é uma pessoa incrivelmente normal, é um estudante igual a todos os outros que podemos encontrar em qualquer lugar.@ Minha intuição só pode estar errada.@
+` Porque[line=3]você é uma pessoa que não deveria estar em um mundo como o meu."@
+cl c,crossfade,400
+\
+` Com um sorriso triste, a Senpai salta para bem longe de mim.@
+` Como se estivesse me dizendo que agora ela é uma pessoa completamente diferente, a uma distância inalcançável.
+\
+`"[line=5]"@
+` Eu[line=3]mesmo assim não vou abandonar a Arcueid.@
+` E se eu não for atrás dela nesse minuto, acho que nunca mais vou vê-la.@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Você vai atrás dela, Tohno-kun?"@
+` A voz da Senpai volta a ter aquele tom de quando ela falava com a Arcueid.@
+` Uma voz totalmente desprovida de emoção.
+\
+`"[line=3]Vou.@ Você faz parte da Igreja, sei muito bem que ela é sua inimiga.@
+` Aconteceram muitas coisas e eu acabei concordando em ajudá-la, por isso não posso abandoná-la.@ Nem sei o que ela faria se a deixasse sozinha."@
+` Rindo como se fosse uma piada, eu digo "até mais" e me viro.
+\
+`"[line=3]Espere.@ Se for atrás dela você vai ser morto.@ Você não deve se encontrar com a Arcueid Brunestud novamente."@
+`"Eu vou ser morto?[line=3]Olha, você pode não acreditar em mim, mas ela não bebe sangue.@ A realidade é que ela é uma pessoa boa."@
+`"…… Eu sei.@ Ela realmente não tem bebido sangue humano.@ No entanto, isso não vai continuar assim por muito tempo.@ Um Ancestral Original que cede ao seu impulso vampírico uma vez não consegue voltar a ser como era antes."@
+br
+` Meus pés não se movem.
+\
+`"…… Senpai?@ Impulso vampírico[line=2]de um Ancestral Original, como assim?"@
+`"…… Estou falando sobre o desejo de beber sangue.@
+` Tohno-kun.@ A maioria dos vampiros que conhecemos como Apóstolos da Morte se tornaram vampiros depois de terem o sangue sugado por um vampiro.@ E para preservarem seus corpos eles precisam de sangue dos seres humanos.@
+` Resumindo, se quiserem viver eles precisam beber sangue."
+\
+`"Mas aqueles que nasceram vampiros são diferentes.@
+` …… Os Apóstolos da Morte eram humanos como nós.@ Talvez até possamos continuar chamando eles de humanos.@
+` Mas se alguém já nasce vampiro, você acha que podemos chamar esse alguém de humano?"@
+`"D[line=3]do que está falando, Senpai?@ Eu estava falando sobre a Arcueid."
+\
+`"Mas isso é sobre ela.@
+` Não venha dizer que nunca pensou sobre isso.@
+` Se os Apóstolos da Morte se tornam vampiros por causa de vampiros,
+` tem que haver uma origem, 'uma existência que é vampiro de nascença'.@
+` Estes vampiros fazem parte de uma espécie completamente diferente da nossa, nós chamamos eles de Ancestrais Originais.@
+` Eles não precisam de sangue e possuem poderes especiais superiores aos dos Apóstolos da Morte.@
+` Ela é membro da família real dos Ancestrais Originais.@ …… Apesar de que eles não possuem uma hierarquia de verdade, então acho que não é totalmente correto dizer família 'real'."
+\
+`"[line=3]Mas e eu com isso?@ Essa conversa[line=3]nada disso é da minha conta……!"@
+`"Claro que é.@ Os Ancestrais Originais têm um impulso de tomar sangue muito mais forte que o dos Apóstlos da Morte."@
+` Os olhos dela não passam qualquer emoção.@
+` Como se fossem espelhos, eles mostram meu rosto perturbado.
+\
+`"Entendeu, Tohno-kun?@ Os Ancestrais Originais podem viver sem sugar o sangue dos seres humanos.@
+` No entanto, talvez tenha acontecido algum erro durante a evolução deles, ou talvez realmente não exista esse negócio de existência perfeita, mas enfim, há sempre um período em que eles desejam beber sangue dos seres humanos.
+\
+`"…… E no instante que um humano tem seu sangue sugado por um deles, ele deixa de ser humano.@
+` Como seres vivos, os Ancestrais Originais estão em uma escala muito diferente da dos seres humanos.@ Quando a vida extremamente poderosa de um Ancestral Original toca o sangue de um humano, a enorme diferença entre as raças não permite que o ser humano permaneça humano após esse contato.@
+` Imagine isso como se fosse uma onda no mar.@ Uma onda pequena sendo absorvida por uma gigantesca, e a partir desse momento a pessoa se torna parte do Ancestral Original[line=4]simplificando, torna-se seu fantoche."
+\
+`"O problema é que não existe um motivo para seus impulsos vampíricos.@
+` Como não há motivos, não tem como pará-los.@
+` A imperfeição fatal na existência perfeita.@ Poderíamos até dizer que é uma doença terminal.@
+` Eles vivem sempre resistindo à vontade de beber sangue.@
+` Não é uma questão de resistir usando apenas a força de vontade.@
+` Eles usam todos os seus poderes para resistir a essa vontade e selá-la à força.
+\
+`"…… Eles suprimem seus impulsos vampíricos usando seus poderes absurdos.@
+` Mas se algo externo fizer eles perderem seus poderes, o que acha que acontece com sua capacidade de suprimir os impulsos?"@
+cl c,crossfade,400
+br
+` …… Se algo externo fizer eles perderem seus poderes……?@
+` Tipo receber um ferimento que exige muito poder para curar, ou usar seus poderes para regenerar o corpo depois de serem mortos[line=3]?
+\
+` …… Digamos que ela tenha dez unidades de poder.@
+` E que use sete para resistir ao desejo de beber sangue.@
+` Mas[line=4]se por algum motivo ela perder cinco dessas unidades, mesmo que use todo o poder que lhe sobrou, só vai poder usar cinco unidades de poder para resistir.@
+br
+` Isso não seria o suficiente.@
+` Então, o que aconteceria[line=3]?
+\
+`"…… E?@ O que acontece com os Ancestrais Originais que não conseguem resistir, Senpai?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Eles bebem sangue humano.@ E depois disso acabou.@ Uma vez que se entregam, nunca mais voltam ao normal.@
+` Quando um Ancestral Original conhece o sabor do sangue, o desejo se torna mil vezes mais doloroso que antes.@ E por causa disso, eles não conseguem mais resistir ao desejo.
+\
+`"E quando isso acontece, eles se transformam nos temidos Lordes Demônios.@
+` Ancestrais Originais são uma raça muito superior, mas como eles resistem seus impulsos vampíricos, nunca conseguem utilizar todos os seus poderes ao máximo.@
+` Mas depois que eles decaem, já não existe mais a necessidade de se segurarem.@ É nesse ponto que se tornam demônios que sugam o sangue dos seres humanos por puro prazer."@
+cl c,crossfade,400
+\
+play "*8"
+` …… Eu me lembro de como a Arcueid estava naquele momento.@
+` Seus olhos tão vermelhos como sangue.@
+` Sua respiração irregular.@
+` Sua respiração quase queimando meu pescoço.
+\
+`"…… É tudo mentira."@
+` É mentira.@
+` Porque,
+` ela disse que tinha medo de beber sangue[line=4]
+br
+`"Ah."@
+` …… É isso mesmo.@
+` Porque ela sabe que se fizer isso, não será capaz de parar.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… Mas o impulso é instantâneo.@
+` Os Ancestrais Originais mantêm apenas um subordinado por perto para quando a vontade fica muito forte para ser suprimida.@ E é assim que nascem os Apóstolos da Morte.@
+` Eles são uma coisa que já está morta.@
+` Um vampiro que é mantido vivo para aliviar a dor dos Ancestrais Originais.@ Essa é a forma que tem o vampiro nesta cidade."
+\
+`"Mas ela não tem alguém assim.@ …… Até agora nunca precisou.@
+` Ela era especial entre os Ancestrais Originais, pois era capaz de resistir ao impulso vampírico usando apenas a própria força de vontade."@
+`"[line=3]Então não tem problema algum.@ Quando o seu ferimento curar, quando seu corpo voltar ao normal, ela vai poder resistir, não vai……?"
+\
+`"…… Talvez sim, mas existe um limite, Tohno-kun.@
+` O impulso vampírico não tem fim, e ele não desaparece.@ Mais cedo ou mais tarde o desejo por sangue vai vencê-la.@
+` Quanto mais vivem, mais forte fica o desejo.@
+` E quando já não podem mais se conter com seus próprios poderes[line=2]quando o impulso vence seus poderes, eles são mortos pelos outros Ancestrais Originais.@
+` Esse é o tempo de vida daqueles que não têm tempo de vida."
+\
+`"[line=2]Mas a Arcueid está bem.@ Ela só está fraca por minha causa, daqui a uns dias ela vai[line=3]"@
+`"…… Talvez sim.@ Mas ela já chegou no seu limite.@
+` Mesmo ficando acordada só por alguns anos, sua idade não muda.@
+` O desejo que cresce dentro dela logo a consumirá.@ Não há como negar que agora não é o momento que vai acontecer.@
+` A[line=3]vida da Arcueid não pode ser salva."
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_29b",crossfade,400
+br
+br
+br
+` [line=3]Tu, dum.@
+br
+` Pela primeira vez.@ Pelas palavras de alguém, não por causa da minha anemia.@
+` Tudo começa rodar e minha visão ficar turva.
+\
+`"[line=5]"@
+` Como assim?@
+` Mesmo sabendo que passou do limite que aguenta, ela continua caçando vampiros?@
+br
+` [line=3]Que coisa estranha.
+\
+` De qualquer forma que vejo a situação, ela ainda é estranha.
+\
+`"…… Isso é tudo mentira.@
+` Se ela sabia que já havia alcançado seu limite, por que iria caçar vampiros pelo bem da humanidade?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Ela não faz isso por nós; faz isso porque é o seu propósito de vida."@
+`"Seu propósito de vida[line=3]e quem foi que decidiu isso?"
+\
+`"Provavelmente foram os outros Ancestrais Originais.@ Ela nasceu no século doze, em uma época que existia uma quantidade enorme de Ancestrais Originais que haviam decaido.@
+` Eles não podiam ignorar seus parentes que sucumbiram e nem a grande quantidade de Apóstolos da Morte que estava surgindo.@
+` Por isso criaram algo com o único propósito de matar.@
+` Algo que não precisasse de mais nada na vida, a Ancestral Original mais pura, criada apenas para punir.@
+` E o nome dessa Ancestral Original, é Arcueid Brunestud.@
+` Ela não tem vontade própria, é como se fosse um míssil nuclear, quando sai do castelo, seu alvo é destruído."
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_29b",crossfade,400
+br
+` [line=3]Tu, dum.@
+` A tontura voltou.@
+br
+` …… Ela devia parar de falar assim.@
+` A Arcueid é uma pessoa.@ Falar sobre ela como se fosse uma arma[line=4]está me deixando bravo.
+\
+`"Ela é apenas uma arma.@ Ela só existe para ser uma arma.@
+` …… Mas parece que agora tem algo de errado com ela.@
+` Nunca a vi falando daquele jeito.@ Foi a primeira vez."
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_29b",crossfade,400
+br
+br
+` [line=5]Hã?@
+` Espera aí.@
+` Nunca a viu falando[line=3]que estranho.
+\
+`"É porque ela nunca faz nada desnecessário.@
+` Há muito tempo[line=3]pelos últimos cem anos, ela viveu dessa forma.@ Desde quando nasceu naquele velho castelo entre as montanhas, ela nunca mudou."
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_29b",crossfade,400
+br
+` [line=3]Tu, dum.@
+` Meu coração, e essa tontura.@
+` …… O que está acontecendo?@
+` Esse cenário desconhecido, essas lembranças que não me pertencem, estão preenchendo minha visão.
+\
+bg #ffffff,crossfade,800
+bg "event/ark_e06b",crossfade,400
+br
+br
+br
+br
+br
+` O enorme pátio do castelo.@
+` O gramado sem adornos dentro do castelo solitário.@
+` A garota de pele branca fita o céu.
+\
+`"Ela não tinha nenhum conhecimento extra, ou liberdade além da necessária para cumprir seus propósito.@
+` Ela só sai quando seu alvo é determinado.@
+` Ela só aprende o que é necessário para destruir o inimigo de forma definitiva."
+\
+br
+br
+br
+br
+br
+br
+` Não tem ninguém lá.
+\
+` Não tem ninguém com quem conversar.@
+` Não tem nenhum outro rosto para ver.
+\
+`"Após eliminar o seu alvo e voltar ao castelo, os conhecimentos que foram ensinados a ela são todos apagados de sua mente e mais uma vez ela volta a dormir.@
+` Ignorante a tudo.@ Tudo, exceto matar vampiros."
+\
+br
+br
+br
+br
+` Para ela não existe mais nada.@
+` Não existem aqueles momentos felizes quando se conversa com alguém.@
+` Não existem aqueles momentos preciosos quando se encontra as pessoas e as cumprimenta.@
+` Ela foi excluída de tudo isso.
+\
+`"O seu poder era forte o suficiente para derrotar os Ancestrais Originais que sucumbiram aos seus impulsos vampíricos.@ …… Mas é irônico.@ Ela era tão poderosa que foi afastada dos outros de sua raça.@
+` Mesmo louvando-a como uma princesa, ninguém se aproximava dela.@
+` Mesmo dando a ela um castelo, seu mundo se resumia a um porão escuro.@
+` Não havia nada para dar a ela qualquer sentimento."
+\
+br
+br
+br
+br
+br
+br
+` Eu,
+` quase posso sentir pena dela, sentir pena por ela estar viva.@
+` É uma paródia de vida.
+\
+`"Aparentemente ela não conhecia as palavras e nem tinha um tempo só para si mesma.@ [line=2]Os Ancestrais Originais a tratavam apenas como uma arma.@
+` E uma arma não precisa de funções extras, como assar um pão ou lavar roupas.@
+` Se fosse para colocar funções extras, colocariam algo mais apropriado para uma arma, não é mesmo?"
+\
+br
+br
+br
+br
+br
+` [line=2]Sempre me ensinaram a nunca fazer coisas extras.
+\
+br
+br
+br
+` É mesmo, ela disse isso uma vez.@
+` É por isso que ela decide tudo sozinha, por isso ela tinha aqueles olhos vazios.@
+br
+` É por isso que ela nunca precisou de mais ninguém.@
+` Não, talvez ela nem soubesse que poderia depender de alguém.
+\
+`"Tudo que eles queriam dela, é que fosse uma máquina de matar superior a qualquer outra.@
+` É por isso que ela não sabe de nada.@ E não estou falando de algo absurdo como 'o sentido da vida', mas ela não conhece nem as pequenas alegrias da vida."
+\
+br
+br
+br
+br
+br
+` Ela é sempre tão alegre.@
+` Até coisas bobas a deixam feliz.@
+br
+` Por isso achei que ela sempre tivesse sido assim.
+\
+br
+br
+br
+br
+br
+` …… Mas eu estava terrivelmente enganado.@
+` Ela realmente estava[line=3]apreciando aqueles coisas simples.@
+` Ela deve ter gostado tanto dessas coisas.
+\
+br
+br
+br
+br
+br
+` [line=3]Porque é tão divertido.@
+` Eu nunca tinha pensado em como a vida poderia ser tão divertida apenas pelo simples objetivo de viver.
+\
+br
+br
+br
+br
+br
+` Como se fosse uma preocupação que ela não conseguia entender.@
+` Na sala de aula preenchida pelo pôr do sol, onde ela me perguntou aquelas coisas com uma voz reservada.
+\
+`"Mesmo a Arcueid existindo há tanto tempo, ela sabe menos sobre a vida do que nós.@
+` Se convertermos isso para o tempo que ela tinha permissão para se mover livremente, é extremamente curto.@
+` Sua vida quase toda foi passada dormindo.@
+` Provavelmente um sono profundo e escuro."
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Mesmo?@ Eu me divirto o suficiente só de estar conversando.@
+!w1000
+\
+`"Depois de ter lidado com todos os Ancestrais Originais que sucumbiram à sede, ela não saiu mais do castelo.@ Já havia cumprido seu propósito, e foi aí que os Ancestrais Originais resolveram educá-la de forma apropriada.@
+` No entanto, ela não poderia ser livre.@ E por causa de um erro pequeno, ela acabou matando todos os Ancestrais Originais que restavam no castelo."
+\
+br
+br
+br
+br
+br
+` Aquela que aprendeu apenas como matar vampiros, fez o seu trabalho até o fim.@
+` No final, ela ficou sozinha.
+\
+`"Depois de matar todos os Ancestrais Originais, ela selou a si mesma no castelo.@ No castelo vazio dos Ancestrais Originais, presa por mil correntes.@
+` E sempre que o Roa renasce, ela acorda e sai por um curto espaço de tempo."
+\
+br
+br
+br
+br
+br
+br
+` E no meio disso tudo,
+` ela nunca disse uma única palavra.
+\
+`"É por isso que ela é uma assassina até o âmago.@
+` Embora os Ancestrais Originais, aqueles que a prendiam, não existam mais, ela continua fazendo sempre a mesma coisa; seu único propósito continua sendo apenas matar vampiros.@
+` É provável que essa seja sua única diversão."
+\
+br
+br
+br
+br
+br
+br
+` Isso… não é verdade.@
+` Não é isso que a deixa feliz.
+\
+bg #ffffff,crossfade,800
+`"[line=4]"@
+br
+` Eu não estava… prestando atenção em nada.@
+br
+`"[line=4]Isso."@
+br
+` Nas suas palavras, ou no seu rosto de felicidade.@
+` Se eu tivesse sido mais atento[line=4]teria percebido.
+\
+`"[line=5]Isso é."@
+br
+` Até agora eu nunca havia percebido o quanto ela é solitária.@
+br
+` Todas aquelas coisas que sentimos e nem nos importamos.@
+` Coisas como, conversar com um amigo sobre coisas sem sentido ou os momentos de diversão que te faz esquecer do tempo.@
+br
+` No fim do dia, deitar na cama e sentir a traquilidade de simplesmente ficar olhando para o teto.
+\
+br
+br
+br
+br
+br
+` Para ela, essas coisas sem importância são momentos preciosos de felicidade.
+\
+`"[line=5]Isso é tudo."@
+br
+` E sabe o que é o pior de tudo?@ É ela não saber o quão infeliz é sua vida.@
+br
+` Uma solidão tão terrível[line=2]não deveria existir.
+\
+`"[line=6]Isso é tudo mentira."@
+br
+` …… Chega dessas coisas difíceis.@
+` Eu nunca percebi que ela sentia tanta felicidade com essas coisas bobas.@
+` Se eu pudesse fazê-la entender que isso são coisas que ela sempre poderia aproveitar, seria tão b[line=4]
+\
+!w2000
+bg "bg/bg_29b",crossfade,1500
+ld c,"tachi/cel_t07b",crossfade,400
+`"Tohno-kun[line=4]?"@
+` A voz dela faz minha visão voltar ao normal.@
+`"O que houve?@ De repente você ficou quieto e começou a viajar.@ Por acaso estava me escutando?"@
+`"Não[line=3]me desculpe, eu não me lembro.@ Eu ouvi você falando, mas era como se fosse outra pessoa que estivesse falando."@
+` A Senpai parece não estar acreditando em mim.
+\
+`"Enfim, ela[line=4]"@
+`"Não tem problema.@ Não me importo com o que ela fez ou como ela é.@
+` Não posso deixá-la sozinha por mais tempo, estou indo atrás dela."@
+cl c,crossfade,400
+` Afastando-me da Senpai, começo a andar na direção da cidade.
+\
+`"[line=3]Tohno-kun.@ Quando um Ancestral Original falha em suprimir seu impuslo vampírico, não há mais esperanças de recuperação.@ Se ela aparecer na sua frente, é porque resolvou beber o seu sangue."@
+br
+` O que a Senpai diz é a verdade que ela acredita.@
+` Mas a verdade que eu acredito é diferente.
+\
+`"Isso não é verdade.@ Porque ela ainda não bebeu sangue."@
+`"Não.@ Se eu não a tivesse parado, ela teria tomado o seu sangue naquela hora."@
+`"…… Você está errada, ela parou sozinha.@ A Arcueid estava bem.@ Mesmo se você não a tivesse parado, o resultado seria o mesmo."
+\
+br
+br
+` Sim, com certeza.@
+` Ela parou sozinha.
+\
+`"…… Quer dizer que você vai ficar do lado dela independente das consequências, Tohno-kun?"@
+`"Sim.@ Desculpe-me, Senpai."@
+` Ela não responde.@
+` Acho que ela acabou de suspirar.
+\
+`"[line=3]Podemos acabar lutando um contra o outro."@
+`"Talvez.@ Mas não vou me desculpar se acontecer, Senpai."@
+`"……………"@
+` Ela não responde mais.@ Sinto apenas sua presença se distanciando.@
+` Seus passos desaparecendo.@ Sem me virar, vou na direção da cidade.
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_25b",lcartain,1500
+` [line=3]Não tem ninguém na rua principal.@
+` Nem a Arcueid, e nem as pessoas normais.@
+`"Droga[line=6]"@
+` Está acontecendo igual ontem.@
+` Eu não sei como encontrá-la.@
+` Mesmo querendo encontrá-la de todo jeito, não sei o que fazer.@
+br
+` [line=3]Ela,
+` estava sentindo muita dor, e não posso ajudá-la[line=4]
+\
+`"[line=4]Que droga!"@
+` Estou tão irritado que parece que vou enlouquecer.@
+` Preciso[line=3]encontrá-la de alguma forma, senão não poderei seguir em frente[line=3]
+bg #000000,lcartain,1500
+bg "bg/bg_52",lcartain,1500
+bg "bg/bg_24c",lcartain,1500
+bg "bg/bg_12b",lcartain,1500
+bg "bg/bg_25b",lcartain,1500
+bg #000000,crossfade,1500
+bg "bg/bg_29b",crossfade,800
+` Estou muito ofegante.@
+` Eu corri pela cidade toda e nem assim consegui encontrá-la.@
+` Estou exausto e com dificuldade para respirar.@
+` Tomo um grande fôlego.@
+` A cicatriz no meu peito pulsa junto com as batidas do meu coração.@
+` Até hoje[line=3]eu nunca tinha odiado tanto assim este meu corpo frágil.
+\
+` Estou custando a respirar.@
+` …… Não consigo encontrá-la.@
+` Não vou encontrá-la correndo pela cidade sem um destino.@
+` Eu me esforço para respirar.@
+` Se[line=4]se tem alguma chance de encontrar ela, acho que seria[line=3]
+\

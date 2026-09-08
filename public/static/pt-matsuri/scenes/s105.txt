@@ -1,0 +1,110 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",crossfade,800
+`"Estou[line=3]exausto…"@
+` Eu caio no chão.@
+` Eu caio sentado e apoio o corpo com as mãos.
+\
+`"[line=3]Que frio!"@
+` Estou sentindo frio.@
+` A dor foi anestesiada por ele; estou quase me sentindo confortável.@
+` Meu corpo está todo machucado com marcas de mordidas e bicadas.@
+br
+` [line=4]Provavelmente vou morrer desse jeito.
+\
+`"[line=5]"@
+` Deixo escapar um suspiro demorado.@
+` Eu levanto o queixo e olho para o céu.@
+br
+`"[line=5]A lua."@
+` Apenas essa linda lua pode ser vista no céu noturno.@
+` …… O que está acontecendo?@
+` Isso é muito familiar… como se eu tivesse tido um sonho desse mesmo jeito.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+play "*8"
+`"Shiki, você está bem?"@
+` A Arcueid vem na minha direção como se nada tivesse acontecido.@
+`"…… Sua… idiota retardada…… se eu estivesse bem… não seria humano."@
+` Eu falo e respiro pausadamente.@
+` Até falar dói, não devia ter respondido ela.@
+`"Kk[line=6]ah."
+\
+bg #000000,crossfade,1500
+` Eu começo a perder a consciência.@
+` E então,
+quakey 2,100
+bg "bg/bg_29b",notrans,0
+` Plaft!@ A Arcueid bate na minha cabeça e me faz ficar acordado à força.
+\
+`"…… Por que… você fez isso?"@
+ld c,"tachi/ark_t11",lshutter,400
+`"Porque você não pode dormir.@ Se dormir agora com estes ferimentos, com certeza vai morrer.@ Você não pode dormir até fecharmos eles."@
+br
+` [line=3]Ela tem toda razão.@
+` E isso me deixa com raiva.@
+br
+`"…… Arcueid.@ Posso dizer algo que sempre quis dizer?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hum, o quê?"@
+`"[line=4]Para de falar besteira, sua idiota."@
+` Eu deito no chão.
+\
+bg #000000,crossfade,400
+bg "bg/ima_18",crossfade,400
+` [line=3]Começo a perder a consciência.@
+br
+` A Arcueid está desesperada, mas eu não tenho forças para manter os olhos abertos.@
+` Está muito[line=4]frio.@
+br
+`"Acorda, Shiki.@ Você vai morrer de verdade……!"@
+br
+` …… Eu estou com sono.@
+` Eu vou dormir antes de morrer, amanhã cedo eu acordo.
+\
+`"Shiki, você não pode dormir[line=4]!@ Temos que pelo menos fechar seus ferimentos e parar o sangramento, caso contrário você não vai acordar nunca mais……!"@
+br
+` [line=3]Nossa, ela é muito barulhenta.@
+` Eu vou dormir, faça o que quiser.@
+br
+`"Hã, não tem problema eu te curar?@ Por que não disse antes?"@
+br
+` Depois de ela dizer isso toda alegre,
+` sinto seus dedos gelados, mais gelados que o meu corpo, tocando na minha pele.
+\
+`"Bem, eu não estou muito contente em ter que usar o familiar de outra pessoa, mas nessas circunstâncias, não tenho escolha."@
+` …… Eu sinto como se estivesse sendo engessado.@
+` Não sei o motivo,
+` mas é uma sensação muito agradável[line=2]
+br
+`"Como o esperado do vampiro chamado de o mar primordial.@ Mesmo depois da destruição da fonte, o Nrvnqsr, os familiares dele ainda têm a habilidade de regenerar…… hum, nesse caso, eu só preciso dar uma mãozinha.@
+` Primeiro, deixo ele viver em mim[line=4]quando ele voltar ao normal vou colocá-lo de volta em você, Shiki[line=4]"@
+br
+` Os dedos se afastam.
+\
+`"Acho que já deu.@ Como está?@ É uma vida apolar, por isso pode se adaptar facilmente ao seu corpo.@
+` Ei, está dormindo, Shiki[line=4]?"@
+br
+` [line=3]Sim, estou.@
+br
+`"Ah, hum.@ Sua casa é aquela mansão no topo da colina, né?@ Vou me certificar que você chegue em casa."@
+br
+` [line=3]Eu olho apenas para a lua branca enquanto adormeço.
+\
+`"…… Você foi muito bem, Shiki.@ E obrigada.@ Você salvou a minha vida esta noite."@
+br
+` …… Ela me agradece com uma voz muito gentil.
+\
+br
+br
+br
+br
+br
+br
+` …… Eu já não ouço mais suas palavras.@
+` Eu caio em um sono profundo, sem ninguém me interromper dessa vez.
+\
+bg #ffffff,crossfade,1500
+playstop
+!w3000

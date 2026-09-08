@@ -1,0 +1,183 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+`[line=3]아니，잠깐만．@
+br
+`　히스이의　말은　신경이　쓰이지만，별채라면　아까　갔잖아．@
+`　거기에는　아무　것도　없다는　걸　안다．@
+`　오늘　밤은　이대로，얌전히　자기로　하자．
+\
+bg #000000,crossfade,1500
+playstop
+monocro #ff0000
+!w2000
+wave se_02
+!w600
+`[line=4]뜨겁다．
+\
+wave se_02
+!w600
+br
+br
+br
+`[line=4]뜨겁다．
+\
+wave se_02
+!w600
+br
+br
+br
+br
+br
+`[line=4]뜨겁다．
+\
+wave se_02
+!w600
+br
+br
+br
+br
+br
+br
+br
+`[line=4]목이，바짝바짝　말라서，뜨겁다．
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+`[line=6]이대로는　잘　수가　없다．@
+`　　　　　　일어나서，물을　마시러　가자．
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+`　밤거리에　나온　것　같다．@
+`　눈에　핏발을　세우고　누군가　지나가지　않을까　기다리는　건가．
+\
+wave se_02
+br
+br
+br
+br
+br
+br
+br
+`[line=6]뜨거웠다．
+\
+`　문득，유리창에　비친　얼굴이　보였다．@
+`　눈은　핏발이　서　있어，도저히　제정신으로는보이지　않았다．
+\
+wave se_02
+br
+br
+br
+br
+br
+br
+br
+`[line=6]그저，뜨거웠다．
+\
+`　사냥감을　발견한　것　같다．@
+`　배후에서　목을　조르고，그걸로　끝．@
+`　낯선　여성은　그걸로　죽어　버린　듯　했다．
+\
+wave se_02
+br
+br
+br
+br
+br
+br
+br
+`[line=3]난，그저，뜨거웠다．
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+`　시체를　끌고　와서，목덜미를　깨문　건가．@
+`　츄룹츄룹，하는　소리가　들린다．@
+`　목덜미에서，살점　째로　물어뜯는　듯이　피를마시며，목의　갈증을　달랜다．
+\
+wave se_02
+br
+br
+br
+br
+br
+br
+br
+`[line=3]모르겠어．
+\
+`　하아하아　하는　호흡음．@
+`　상당히．@
+`　상당히　그　행위가　흥분되는　건가．@
+`　시체의　가슴에　손가락을　찔러　넣었다．@
+`　살을　으깨는　소리，뼈를　무너뜨리는　소리．@
+`　심장을　맨손으로　뽑아내는，소리．
+\
+wave se_02
+br
+br
+br
+br
+br
+br
+br
+`[line=3]보기만　해도，머리가　새하얗게　된다．
+\
+`　그，궁극의　약탈．@
+`　정점에　위치하는　배덕성．@
+`　그것이，보고　있는　자마저　뜨겁게　만든다．@
+`　비록　그것이　마이너스의　쾌락이라고　해도，뜨거워진다는　사실엔，변함은　없는　듯　하다．
+\
+wave se_02
+br
+br
+br
+br
+br
+br
+br
+`[line=3]나로서는，모르겠어．
+\
+bg "bg/ima_18",crossfade,400
+`　뜨거운　혈액을　입에서　늘어뜨리며，황홀한　눈으로，밤하늘을　올려다　보았다．@
+`　긴　머리칼이　흐트러진다．@
+`　머리　위에는　나선의　하늘．@
+`　너무도　예쁜，은빛의　달．
+\
+wave se_02
+br
+br
+br
+br
+br
+br
+br
+`[line=3]그러니까，모르겠어．@
+`　　　난，그저，뜨거웠을　뿐인데[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

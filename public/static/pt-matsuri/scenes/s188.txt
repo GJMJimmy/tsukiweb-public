@@ -1,0 +1,44 @@
+monocro off
+playstop
+wavestop
+bg "event/ark_e05b",lshutter,800
+play "*4"
+` [line=3]Ouço um rangido.
+\
+br
+` Sinto sua mão fria no meu ombro, sinto a temperatura baixíssima do corpo dela, sinto que está tudo tão frio… como se congelasse tudo à nossa volta fazendo esses rangidos.
+\
+` Mas o rangido não está vindo de perto de mim.@
+` O meu corpo que está congelando conforme o frio penetra na minha pele nos lugares que ela toca.@
+` Ou seja, o rangido está vindo de dentro de mim.@
+` Meu coração, minhas entranhas, meu cérebro, estão todos rangendo.
+\
+`"[line=8]Ah."@
+` É como uma célula cancerosa.@
+` Rápida, sem limites, desordenada e sem inteligência.@
+` Violando-me por dentro.
+\
+bg "bg/ima_13",crossfade,400
+`"[line=6]Ar,"@
+` …… Eu não sinto sua respiração.@
+` Como uma besta voraz, ela simplesmente morde meu pescoço.@
+` E nessa hora[line=4]
+monocro #ff0000
+` Eu sou levado a um inferno de dor interminável, é como se meus nervos estivessem sendo dilacerados um por um.
+\
+`"[line=4]cueid[line=4]"@
+` Minha mente que está fritando consegue formar essas últimas palavras.
+\
+` Que dor!@
+` d, ó, i  m, u, i, t, o
+` e, s, t, o, u  p, e, r, d, e, n, d, o
+` a
+` c, o, n, s, c, i, ê, n, c, i, a.@
+!w2000
+\
+playstop
+bg #ffffff,crossfade,800
+monocro off
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,60 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+` [line=4]I'll go to Arcueid's room.@
+br
+` If Arcueid is as weak as Senpai says, she had to have returned to her room to rest.
+\
+bg "bg/bg_12b",lcartain,800
+` I gasp for air.@
+` My legs, which ran as hard as they could, finally stop.@
+` Trying to catch my breath, I enter the apartment.
+\
+bg "bg/bg_13b",lcartain,800
+` …… I grab the doorknob.@
+` It isn't locked.@
+` Without hesitating, I turn it and open the door.
+\
+bg #000000,crossfade,800
+bg "bg/bg_15b",crossfade,800
+` …… Even though it wasn't locked, there's no one here.
+\
+br
+`"Arcueid…… are you here?"@
+br
+` There's no response.@
+` Does she never lock her door?@ There's no sign of her having even returned here.
+\
+`"Damn…… Then she's still in town……!?"@
+` I hit the wall.@
+` But letting it out on the wall is not going to get Arcueid to come out.@
+`"…… Where did you go…… where did you go, Arcueid……!?"@
+br
+` [line=6]If there really is a God, I want to ask him for help.
+\
+` Arcueid isn't here.@
+` But I can't find her just running around aimlessly.@
+` At this rate I'll never[line=4]never see her again.@
+br
+`"[line=6]"@
+` No, I'm not done yet.@
+` I still haven't fulfilled my promise with Arcueid.@ The promise to help her defeat the vampire, and the promise to meet tonight so we can fight together.
+\
+`"…… Pro…… mise……"@
+` …… That's right.@ There's still our promise.@
+` Even if it's just one-sided, I[line=4]even if it's just me, I'll fulfill our promise.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+` I return to the park.@
+` Our promise still remains here.@
+` Our unfulfilled promise for tonight remains here.@
+br
+` [line=4]So,
+` If I can't break this promise, and if she thinks it's important too,
+br
+` Arcueid will come back here.@
+` I can only continue to believe in her and wait here.
+\
+bg #000000,crossfade,1500

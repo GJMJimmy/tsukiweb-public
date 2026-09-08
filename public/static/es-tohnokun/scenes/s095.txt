@@ -1,0 +1,39 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_15c",notrans,0
+` [line=4]Me niego.@
+` Sé que tengo que negarme.@
+` Sin importar cuánto lo piense, no puedo hacer nada.@
+br
+`"[line=4]Arcueid.@ Lo siento, pero yo[line=4]"@
+br
+` ¿Voy a abandonarla?@
+` Es mi culpa.@ Por culpa de Tohno Shiki, ella no puede moverse como necesita hacerlo.
+\
+`"[line=4]Yo[line=4]"@
+br
+` ¿Estoy huyendo?
+\
+` ¿De ese[line=4]monstruo que despiadada, cruel e injustamente masacró a todas esas personas?@
+br
+` ¿Escapar y fingir que nunca lo vi?@
+` Después de haber sido el único que sobrevivió, ¿simplemente voy a huir sin ningún remordimiento?
+\
+`"[line=8]"@
+br
+` Las líneas de muerte que sólo yo puedo ver.@
+` ¿No me dijo una vez esa persona importante que tengo este poder porque llegará un momento en que voy a necesitarlo[line=4]?
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"[line=4]¿Shiki?"@
+`"…… Sí, lo sé.@ No puedo escapar yo solo."@
+cl c,crossfade,400
+br
+` Miro hacia el techo y respiro profundamente.@
+` Afortunadamente, eso me prepara un poco para lo que está por venir.@
+br
+`"Muy bien[line=4]te ayudaré, Arcueid.@ Creo que es mi obligación hacerlo como el único que sobrevivió en ese hotel."
+\
+bg #000000,crossfade,800
+!w1000

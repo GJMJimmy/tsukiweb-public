@@ -1,0 +1,102 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]But I can't just leave in the middle of class.@
+br
+`"……… Please."@
+` I bring my hands together and pray silently that she won't start any "interesting" trouble for twenty minutes.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` Class ends.@
+` I dash out of the classroom engulfed in the lunchtime commotion.
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` I bolt down through the hallway.@
+` …… Arcueid is out back.@
+` Because it's lunchtime, there may be one or two students going there.@
+` Before that, I have to send her away from school……!
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+` I pant with exertion.@
+` I exit the hallway and out into the courtyard.@
+` Fortunately, no one else has gone outside.@
+` All that's left is to grab Arcueid, but…
+bg "bg/bg_05a",lcartain,800
+br
+`"…… The worst."@
+` Entering the back of the school, I unthinkingly voice my thoughts.
+\
+` In the back,
+ld l,"tachi/ark_t07",lshutter,800
+` I can see a very hostile Arcueid and…
+ld r,"tachi/cel_t07a",lshutter,800
+` through the worst twist of fate, Ciel-senpai is also present.@
+br
+` As if facing an invader, Senpai is staring at Arcueid.
+\
+`"Arcueid……!"@
+` Both of them turn around.@
+ld l,"tachi/ark_t06",crossfade,400
+`"Shiki."@
+ld r,"tachi/cel_t06a",crossfade,400
+`"[line=7]"@
+cl a,crossfade,800
+\
+` …… Thank goodness.@ Arcueid's hostility seems to fade.@
+` After looking back at Arcueid, Senpai leaves in another direction.@
+`"Ah…… Senpai."@
+` She must've been offended by being glared at by Arcueid.@
+` For Senpai to just disappear like that without saying anything must mean something.
+\
+`"Arcueid, you……!"@
+` I run over to her.@
+ld c,"tachi/ark_t16",crossfade,400
+`"Shiki you slowpoke!"@
+` She yells at me as I get to her.
+\
+`"Hey…… slow?@ Hey now."@
+`"But weren't you?@ I know you saw me, but you never came down.@ If you came earlier, I wouldn't have been seen by that person!"@
+` …… "That person" must mean Senpai.
+\
+`"It couldn't be helped, I have my circumstances.@ I'm different from you, I'm just a normal student.@ In the first place, why the heck did you come here?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"I just felt something from around here.@ Then I picked up your scent and realized it was your school."@
+`"…… So you weren't thinking and you just came for no reason?"@
+` I give a frown.@ Is she a dog or something?
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Well excuse me!@ I came here for a reason.@ There's hardly any traces of The Dead here, so I wanted to see it for myself."@
+`"Really?@ But if there's no traces of The Dead here, then shouldn't this place be unimportant?@ There's no one at school at night, so if The Dead wanted some prey, they would go downtown, not to a school."
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Well, that does make sense."
+\
+`"There's nothing strange here.@ I can't really sense The Dead, but since my eyes see death, I can tell without taking off my glasses."@
+ld c,"tachi/ark_t06",crossfade,400
+`"I see.@ If you say so, Shiki, then there's nothing strange about this place, perhaps."@
+`"Not 'perhaps', definitely."@
+` Arcueid looks like she doesn't believe me.
+\
+`"Anyway, if we stay here any longer, people will see us.@
+` I'll keep my promise for sure, so just go home and rest.@ We may see the 'enemy' tonight."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Oh?@ You sound like you want me out of here, Shiki?"@
+` She starts to look angry again.
+\
+`"Ah, that's just your imagination, so hurry on back.@ Otherwise things might get a little hairy."@
+` Go, go.@ I push her from behind.@
+`"………………"@
+cl c,lshutter,800
+` Though her eyes indicate she wants to say something, she just leaves silently.
+\
+`"…… Man.@ If I see Senpai, I have to apologize to her about Arcueid."@
+` Thinking aloud, I go back.
+\
+bg #000000,lcartain,800
+!w1000

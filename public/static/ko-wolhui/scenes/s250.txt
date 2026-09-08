@@ -1,0 +1,14 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+`　딱히　할　일도　없고，곧바로　저택으로　돌아가기로　하자．@
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_32b",lcartain,1500
+`　비탈을　끝까지　올라，저택으로　돌아왔다．@
+`　시각은　아직　저녁　５시　전．@
+`　저녁식사까지　앞으로　２시간，방에서　시간을죽이기로　할까[line=3]
+\
+bg #000000,lcartain,800
+!w1000

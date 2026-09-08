@@ -1,0 +1,199 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` [line=3]Não, eu realmente não deveria preocupar nenhuma delas com isso.@
+` Esse problema[line=4]eu deveria lidar sozinho com esse sonho.
+\
+`"[line=3]São só as coisas na escola que me deixaram ocupado.@ Em novembro vai ter o festival escolar e antes disso ainda tem o festival de esportes."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… É mesmo?@ Já que é um problema na escola, creio que não há nada que eu possa fazer para ajudar."@
+cl c,crossfade,400
+` A Akiha abaixa o olhar, um pouco desapontada.@
+` …… Contar uma mentira para enganá-la é muito doloroso.
+\
+ld c,"tachi/koha_t02",lshutter,800
+`"Aqui está, Shiki-san.@ Obrigada por esperar."@
+` A Kohaku-san coloca um copo de refrigerante de limão na mesa.@
+`"Obrigado."@
+` Usando um canudinho, permito que a bebida gelada encha o meu corpo.@
+` …… Assim, a conversa acaba.@
+` A única pessoa animada na sala de estar é a Kohaku-san, e eu acabo tomando o café da manhã como sempre.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,400
+` A Hisui me acompanha até o portão para se despedir.@
+` Assim como na sala de estar, ela continua em silêncio, o que me deixa desconfortável.@
+ld c,"tachi/his_t01",lshutter,400
+`"Por favor, tome cuidado no caminho, Shiki-sama."@
+`"Estou indo…… Ah, Hisui?"@
+`"Pois não, Shiki-sama?"@
+` Ela me olha diretamente.@
+br
+` [line=3]Por quê?@
+br
+` Fico com uma sensação desconfortável ao ser encarado por esses olhos puros, é como se eu fosse uma criatura suja.
+\
+`"…… Não é nada.@ Apenas tome cuidado em casa."@
+cl c,crossfade,400
+` Saio da mansão, com uma inquietação profunda no peito.
+\
+bg #000000,lcartain,800
+playstop
+!w2000
+wave se_03
+bg "bg/bg_06a",lcartain,400
+` [line=3]Está na hora do almoço.@
+` Como sempre, o Arihiko está matando aula.@
+br
+`"…… Eu vou almoçar no refeitório."@
+` Se eu comer sozinho, vou acabar ficando deprimido.@
+` Ficar no refeitório cheio de gente deve me ajudar a tirar essas coisas da cabeça.
+\
+bg "bg/bg_50",lcartain,800
+` O refeitório está lotado.@
+` Depois de ficar esperando em uma fila enorme, compro a 'refeição pronta A' e sento em uma mesa.@
+` Todos aqui estão conversando bem alto, por causa disso consigo me concentrar apenas em comer a minha refeição.@
+` Pego o garfo e como em silêncio.@
+br
+` [line=4]E então.@
+br
+` Por um momento, vejo uma imagem horrível.
+\
+waveloop se_02
+`"…… Na tela da televisão……"@
+` Encaro a televisão montada na parede aos fundos do refeitório.@
+` Na minha escola, eles gravam o noticiário da manhã e repassam durante o almoço.@ Os meus olhos estão fixados no que está mostrando.@
+wave se_01
+`"[line=4]Não acredito…"@
+` Assisto ao noticiário, surpreso e horrorizado.@
+` A televisão mostra o beco que vi ontem ontem à noite no meu sonho.@
+` O apresentador está falando.@
+` As palavras "Nona Vítima do Vampiro Assassino em Série" aparecem em letras vermelhas na tela.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_50",notrans,0
+` Depois disso, o rosto da vítima aparece.@
+` A mulher de cabelo longo… Definitivamente foi ela quem matei no meu sonho.@
+bg #9c0120,crossfade,400
+bg "bg/bg_50",crossfade,400
+`"[line=6]"@
+` Começo a me sentir fraco.@
+`"Como…… Assim?"@
+` Aquilo foi um sonho.@ Tem que ter sido um sonho.@
+` Mas é a mesma pessoa que apareceu no meu sonho, no mesmo lugar do meu sonho e foi morta da mesma forma que morreu no meu sonho.
+\
+`"O vampiro já deveria ter sumido."@
+` Eu matei a Yumizuka com as minhas próprias mãos.@
+` Esses assassinatos[line=4]não deveriam mais estar acontecendo.@
+br
+`"Eu[line=4]matei ela?"@
+br
+` Sim, eu matei.@
+` Como da vez em que matei a Yumizuka.@
+` Ontem à noite[line=4]eu estava ofegante e[line=4]aquela mulher que nunca conheci[line=4]eu[line=4]
+\
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Eu não te disse, Shiki-kun?@
+` É inútil resistir.
+\
+bg "bg/bg_50",notrans,0
+`"Uu[line=3]"@
+` Contendo a ânsia de vomitar todo o almoço, levanto da cadeira e saio cambaleando.@
+bg #000000,lshutter,400
+br
+` Não posso voltar para a sala de aula.@
+` De alguma forma, estou correndo pela cidade.
+\
+wavestop
+!w2000
+bg "bg/bg_30a",lcartain,400
+` [line=3]Vim para o lugar do meu sonho.@
+br
+` Há vários policiais na área, uma fita escrito "Linha da Polícia Não Cruze" está espalhada pelo beco.@
+`"[line=3]É idêntico."@
+` Sem dúvida, este é o lugar onde estive no meu sonho.@
+` [line=3]Não, não foi um sonho.@
+` Não posso me iludir mais do que isso e continuar pensando que foi um sonho.@
+`"…………"@
+` Se eu ficar aqui mais tempo, os policiais vão ficar me encarando.@
+` …… Não posso voltar para a escola agora.@ Acho que vou voltar para a mansão.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_33a",lcartain,800
+waveloop se_11
+` Já que não são nem duas horas da tarde, a Hisui não está me esperando no saguão.@
+`"……………"@
+` Estou com sorte.@ Não estou com vontade de ver ninguém agora.@
+br
+bg #000000,tshutter,800
+bg "bg/bg_40a",tshutter,800
+` *suspiro*@
+` Eu respiro fundo e caio na cama.
+\
+bg #000000,crossfade,400
+` …… Não entendo nada disso.@
+` Eu tenho sonhos em que mato pessoas.@
+` E no mundo real, os mesmos assassinatos acontecem.@
+` Hoje eu estou vivendo uma vida normal.@
+` Mas ontem eu sentia deleite em matar alguém nos meus sonhos.@
+br
+br
+` [line=6]Qual deles…
+`      É o verdadeiro Tohno Shiki?
+\
+textcolor #ff0000
+br
+br
+` Você realmente precisa perguntar?
+\
+textcolor #ffffff
+br
+br
+` …… Essa voz de novo.
+\
+textcolor #ff0000
+br
+br
+br
+br
+` Anda logo, vamos continuar, Shiki.
+\
+textcolor #ffffff
+br
+br
+br
+br
+` …… A voz que ecoa dentro da minha cabeça.@ A minha voz.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+` A noite surge ao final de cada dia.@
+` Com certeza vamos encontrar quem procuramos em uma dessas noites, né……?
+\
+textcolor #ffffff
+ld c,"tachi/aki_t09",notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+wavestop
+`"Cala a boca[line=6]!"@
+` Pulo da cama.@
+` Começo a arfar.@
+` A minha respiração está fora de controle.@
+` Agora mesmo…
+` Eu desejei que fosse a Akiha.@
+`"Que droga[line=4]mas que merda está acontecendo…?"@
+` Não entendo o que está havendo comigo.@
+` Só tenho certeza de que, se eu ver a Akiha ou a Hisui nesse momento, não sei o que posso ser capaz de fazer com elas.
+\

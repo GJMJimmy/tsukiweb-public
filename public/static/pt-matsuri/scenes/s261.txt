@@ -1,0 +1,155 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Mesmo assim, não posso ignorar a Akiha e ir direto para a escola.@
+` …… Quero perguntar várias coisas à Senpai o mais rápido possível, mas primeiro preciso explicar para a Akiha sobre ontem à noite.
+\
+bg "bg/bg_34a",lcartain,800
+` A Akiha é a única pessoa na sala de estar.@
+` A Kohaku-san está na cozinha, cantarolando.@
+ld c,"tachi/aki_t11a",crossfade,400
+`"……………"@
+` A Akiha não diz nada quando me vê, apenas toma seu chá em silêncio.
+\
+`"Bom dia, Akiha."@
+` Resistindo à vontade de ir correndo para a escola, tento cumprimentá-la da forma mais normal possível.@
+` As sobrancelhas da Akiha se contraem, ela coloca sua xícara sobre a mesa e lentamente olha para mim.
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Bom dia, Nii-san.@ Já era bem tarde quando você chegou em casa ontem à noite, não acha?"@
+`"…… Não, não muito.@
+` Era pouco mais de uma hora da manhã, completamente normal para um jovem saudável do ensino médio estar acordado."@
+`"Entendo.@ Minha hora de dormir também é depois da meia-noite, por isso estava acordada naquele horário.@ Mas costumo chegar em casa bem mais cedo do que isso."
+\
+`"Pois é, eu mesmo tinha chegado em casa mais cedo, não lembra?@ …… Mas tive que resolver um assunto, por isso saí um pouquinho[line=3]"@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Sem permissão?@ Você agiu como se tivesse saído e feito algo pelo qual devesse sentir-se culpado."@
+`"Hum……"@
+` Seu olhar está muito frio.@
+` …… Tenho certeza de que mesmo a Akiha parecendo calma, ela está muito brava.
+\
+`"[line=2]Nii-san.@
+` Eu não sei como era na casa dos Arimas, mas aqui o toque de recolher é às oito horas da noite.@ É uma regra que não deve ser quebrada.@
+` O portão será trancado depois desse horário, então por favor, não pule o muro como se fosse um ladrão."@
+`"Ah[line=3]Você viu?"
+\
+`"…… A câmera de segurança te mostrou claramente.@
+` Foi bom a Kohaku ter percebido que era você e ter desligado o sistema de alarmes, pois caso contrário, você estaria preso nesse momento."
+\
+`"…… Hum.@ Então devo agradecer à Kohaku-san.@
+` E, hum, Akiha, me desculpe.@ Eu deveria ter avisado quando cheguei."
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Se você entendeu, está tudo bem.@ Por favor, certifique-se de voltar até o toque de recolher de agora em diante.@ Vou deixar passar dessa vez."@
+`"…… Sobre isso, Akiha."@
+`"Sim, o que foi?"@
+`"…… Isso é meio difícil de dizer.@ Eu… tenho uma coisa para fazer esta noite também.@ Não sei que horas vou estar de volta, mas não vou fazer nada de ruim[line=3]"
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"[line=10]"@
+` Ela aperta os olhos de raiva.@
+`"Kohaku!"@
+` De repente, ela se levanta.@
+cl c,lshutter,800
+` A Kohaku-san vem da cozinha.
+\
+ld r,"tachi/koha_t03",lshutter,800
+`"Sim, o que foi, Akiha-sama?"@
+ld l,"tachi/aki_t11a",crossfade,400
+`"Estou indo para a escola, comece os preparativos."@
+`"Hã?@ Mas ainda não fiz o café da manhã do Shiki-san."@
+ld l,"tachi/aki_t06",crossfade,400
+`"Você pode deixar essa pessoa sozinha.@ Parece que ele consegue fazer tudo sozinho."@
+cl l,lshutter,400
+` A Akiha sai em direção ao saguão.
+\
+` A Kohaku-san suspira.@
+`"…… Shiki-san, você não deve deixar a Akiha-sama tão chateada.@ Você é o irmão mais velho, por isso deve tratá-la melhor, ouviu?"@
+` Dizendo isso, ela vai atrás da Akiha.@
+cl r,lshutter,800
+` A xícara de chá permanece ali, ainda fumegante.
+\
+` ……………… *suspiro*@
+` Sei que é minha culpa, mas fiquei sem café da manhã hoje.@
+` Mas foi conveniente de certa forma.@
+` São apenas sete horas da manhã.@
+` Se for correndo para a escola, devo chegar lá por volta de sete e meia[line=4]
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01a",lcartain,1500
+` Chego no portão da escola.@
+` São sete e meia.@
+br
+`"…………"@
+` Fico parado ao lado do portão, esperando pela Senpai.@
+` Provavelmente deve parecer estranho para os estudantes que estão passando, mas não me importo.
+\
+!w7000
+`"……………"@
+` A Senpai não aparece.@
+` O portão fica lotado de estudantes.
+\
+!w5000
+` Faltam cinco minutos para o portão ser fechado.@
+` Mas ela ainda não chegou.
+\
+`"………"@
+` Talvez[line=3]ela não venha hoje.@
+` Ontem, vi tudo aquilo acontecer, por isso talvez ela não venha hoje, ou amanhã, ou depois de amanhã[line=3]
+br
+` [line=3]Tum.@
+br
+`"……… Ah."@
+` Pensar nisso me deixa meio fraco.@
+` Balanço a cabeça para limpá-la desses pensamentos terríveis.
+\
+` …… E então,
+` vindo de trás, alguém me dá um tapinha no ombro.@
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Tohno-kun, o que você está fazendo aqui?"@
+`"S-Senpai……!?"@
+`"Eu mesma."@
+` Ela afirma com a cabeça.
+\
+`"S-sério……!?@ Mas ontem você estava[line=3]"@
+` Mph.@
+` Ela tapa minha boca com a mão antes que eu possa continuar.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, aqui não.@ Vamos lá atrás do ginásio."@
+` Ela sorri como de costume enquanto mantém a mão sobre minha boca e puxa meu braço.@
+cl c,lshutter,400
+`"…, …!"@
+` Tento pedir para ela parar, mas não consigo falar.@
+` Ela me puxa com bastante força.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+play "*3"
+wave se_03
+` [line=4]O sinal da escola toca.@
+!w5000
+` …… A aula começou.@
+` E não tem mais ninguém aqui por perto.@
+br
+ld c,"tachi/cel_t07a",crossfade,400
+`"Pronto, ninguém pode nos ouvir aqui."@
+` Ela finalmente me solta.@
+` Dou um pulo para trás e encaro-a diretamente.
+\
+`"Você quer conversar sobre ontem à noite, não é?@ Se tem algo que queira dizer, não se acanhe, Tohno-kun."@
+` Ela fala calmamente.@
+` Como se o que aconteceu ontem não fosse grande coisa.@
+`"……………!"@
+` Mas foi grande coisa para mim.@
+` A atitude dela nesse momento me deixa nervoso.
+\
+`"Então, era você mesmo, né……!?"@
+`"Sim.@ Acabei falando seu nome naquela hora, já é impossível esconder isso por mais tempo."@
+cl c,crossfade,400
+`"…………!"@
+` Ranjo os dentes.@
+` …… Eu não esperava um pedido de desculpas nem nada do tipo, mas mesmo assim[line=3]
+\

@@ -1,0 +1,40 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*4"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/nero_t02a",tshutter,800
+`「소년，질문인가」@
+br
+ld l,"tachi/ark_t31a",lshutter,400
+`「아，치사해－．@네로는　이런　데까지　얼굴을　내밀어서　눈에　띄려고　하잖아－」@
+br
+ld r,"tachi/nero_t03",crossfade,400
+`「어리석은　것．@시에루군은　카레가게에　갔다．@그러므로，내가　대리다」@
+br
+`「흐－응．@그럼　힌트　하나라도　내　보시지」@
+br
+cl r,crossfade,400
+ld r,"tachi/nero_t04",crossfade,400
+`「싸움이란　양방　모두　패배하는　것．@무익한　살생은　하지　마라」
+\
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「납득　못해－．@시엘이랑　싸울　마음이　없는데도，무조건　안경을　벗어　버린　시키도　있을　텐데냐．@
+`　그건　어떻게　된　거야」@
+ld r,"tachi/nero_t02a",crossfade,400
+br
+`「훔치지　말라，범하지　말라，속이지　말라．@　마음이　나쁜　자는　짐작이　가겠지．@그렇다면　어서　그　날　아침으로　시간여행하러　가는　게좋다．@
+`　흐음．@이렇게　말하면　공주도　짐작이　가지　않나？」
+\
+ld l,"tachi/ark_t30",lshutter,400
+`「냐，뭐가？@　나　그렇게　어려운　거　몰라－」@
+br
+ld r,"tachi/nero_t02c",crossfade,400
+`「……뭐，사람의　일　같은　것은　사소하지만．@
+`　그러면　나는　여기서，그대들의　결말을　보도록　하지[line=5]」
+\
+bg #000000,crossfade,800
+playstop

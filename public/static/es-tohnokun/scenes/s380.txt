@@ -1,0 +1,303 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_53b",notrans,0
+`"………………"@
+` Dejo de caminar.@
+` Miro fijamente al agachado SHIKI y permanezco sobre el terreno viscoso.
+\
+`"¡¡Ja[line=5]jaja, ajajajajajaja!!"@
+` SHIKI está riendo escandalosamente.@
+` …… Lo sé.@ Si me detengo ahora, se recuperará de sus heridas.@
+` Sé que he desperdiciado mi última oportunidad.@
+` Pero aun así[line=4]si hay una manera de recuperar a Akiha, tengo que escucharla.
+\
+`"…… ¿En serio?"@
+`"¿Qué?@ No puedo escucharte."@
+`"…… ¿Lo dices en serio, SHIKI?"@
+`"Sí, hablo mucho pero mentir va en contra de mis principios.@ Así que te lo diré si te quedas ahí un poco más[line=3]y dependiendo de tu actitud, podría ir a salvar a Akiha yo mismo."
+\
+`"…………… ¿Salvar a, Akiha…………?"@
+` ¿Será que sentí algo malo en esas palabras?@
+` Mi cuerpo tiembla, y casi caigo.@
+` El suelo es resbaloso por la viscosidad[line=6]
+br
+`"¿Resba[line=7]loso?"@
+br
+wave se_01
+` [line=6]Espera.@
+` Ahora estoy…
+\
+`"Bueno, deberías saber cómo salvarla.@ Ella no tiene poder para vivir como humana, por lo que tiene que vivir como una Tohno.@
+` Y como está usando el poder de la sangre Tohno, se convirtió en alguien de sangre Tohno, dejando atrás su sangre humana."@
+br
+wave se_01
+` Su arma hecha de sangre roja…
+\
+`"Si devuelves las cosas a un estado en que pueda vivir como humana, ella no tendrá que depender de la sangre Tohno.@
+` ¿Ves?@ ¿No es fácil?@ Si quieres salvar a Akiha, todo lo que tienes que hacer es eliminar la causa de su estado actual."@
+br
+wave se_01
+` Estoy parado en un charco de sangre[line=5]
+\
+`"¡¡Lo que quiero decir es, que todo estará bien si mueres[line=8]!!"@
+br
+wave se_01
+`"¡¡[line=10]!!"@
+br
+` Al mismo tiempo.@
+` Salto hacia un lado con toda mi fuerza.
+\
+playstop
+bg "bg/ima_12b",lshutter,400
+`"[line=10]"@
+` En verdad fue cuestión de una fracción de segundo.@
+` La sangre que estaba saliendo del cuerpo de SHIKI…
+` Se convierte en una montaña de agujas.@
+` ¿Cómo pude ser tan descuidado?@
+` Si esa espada roja estaba hecha de su sangre, debería serle fácil convertir su sangre derramada en espadas.
+\
+bg #9c0120,crossfade,400
+bg "bg/ima_13b",crossfade,400
+waveloop se_02
+` Gruñendo con esfuerzo, salto del charco de sangre y ruedo por el suelo.@
+` …… Pero no pude salir ileso.@
+` Mi brazo izquierdo ahora es inútil.@
+` No fue apuñalado, sino cortado de adentro hacia afuera.@
+` …… En otras palabras…
+` La sangre que limpié con este brazo explotó sobre mí como fuegos artificiales.
+\
+`"¡¡Agh[line=6]gh………!!"@
+` Ruedo por el suelo y combato el dolor.@
+` Pero fui afortunado.@ Si no hubiese limpiado esa sangre en mi pecho, me habrían crecido espadas en la espalda y habría muerto instantáneamente.
+\
+`"¡¡Mierda[line=6]!!"@
+` Escucho una voz.@
+` El sonido que hace SHIKI al correr hacia mí sobre la hierba la acompaña.@
+`"No sabes cuándo quedarte quieto.@ ¡¡Debiste haber muerto con eso[line=5]!!"@
+` Aquí viene.@
+` No puedo responder al ataque porque estoy en el suelo.
+\
+bg #000000,lshutter,400
+` Aquí viene.
+\
+` Extiende su brazo con uñas afiladas y se acerca, tratando de arrancar mi corazón.
+\
+wave se_01
+bg "bg/ima_02",notrans,0
+wait 100
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Es como un circo.@
+` Bosque oscuro.@ Me emociono pensando en cuándo se levantará la cortina.
+\
+wave se_01
+bg "bg/cmo_05",notrans,0
+br
+br
+br
+br
+br
+br
+br
+` Las lejanas voces de las cigarras.@
+` Cielo azul, y nubes veraniegas muy, muy elevadas.
+\
+bg "bg/ima_13b",notrans,0
+br
+` Y entonces.@
+` ¿Volveré a ser asesinado en el bosque?@
+` Eso me enfurece.@
+` De nuevo.@
+` ¿Una y otra vez, siendo asesinado de la misma manera?@
+br
+` [line=5]Despierta, Tohno Shiki.@
+` Ya basta de eso.@
+` ¿No estás cansado de ver eso una y otra vez[line=4]?
+\
+wave se_06
+bg "bg/ima_14",lshutter,800
+!w2000
+bg "bg/bg_53b",notrans,0
+`"¿Qué[line=8]?"@
+` La voz viene de SHIKI.@
+` El brazo de SHIKI no está en mi pecho, sino en el suelo.@
+` …… No es nada, en realidad.@
+` Mi cuerpo ha aprendido a reaccionar después de haber sido asesinado tantas veces de la misma manera.@
+br
+` Tohno Shiki simplemente evadió el brazo del enemigo y cortó a lo largo de la línea sobre el torso del enemigo.
+\
+`"¿Estás[line=4]bromeando?"@
+` Con un sonido,
+` el cuerpo de SHIKI se desliza hacia un lado.@
+` SHIKI lo retiene desesperadamente mientras se aleja.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"¿Por qué[line=5]por qué, por qué, por qué?@ Oye Shiki, esto está mal.@ Esta cortada, ¿por qué[line=4]por qué no puedo volver a pegarlo?"@
+` Con una estrecha sonrisa en su rostro, SHIKI se tambalea hacia atrás.@
+cl a,tshutter,800
+` La parte superior de su cuerpo se separa lentamente de la inferior.@
+` SHIKI parece un payaso de circo tratando de aferrarse a su cuerpo desesperadamente.
+\
+`"Au[line=4]ch.@ Duele.@ No me gusta.@ Voy a desmayarme.@ No puedo dejar de sangrar.@ Mi cuerpo se está separando.@ Duele.@ Duele.@ Duele.@ Duele.@ Duele.@ Due[line=4]"@
+` Diciendo eso,
+` SHIKI cae al suelo.@
+` Sus piernas aún están de pie.@
+` Sólo la mitad superior de su cuerpo cae al suelo como alguna clase de broma.
+\
+`"[line=8]"@
+` Aún está vivo.@
+` Sigue vivo después de convertirse en una especie de araña al tener sólo la mitad superior de su cuerpo.@
+`"Ghu……………"@
+` Fuerzo mi cuerpo y logro levantarme.@
+` Aún está vivo.@
+wave se_01
+play "*9"
+` Entonces[line=4]tengo que matarlo.
+\
+`"¿¡Hi[line=6]!?"@
+` Me arrodillo frente a esa cosa que se está arrastrando con su mano derecha.@
+` Levanto mi cuchillo.@
+` Ahora, todo lo que tengo que hacer es dejarlo caer.@
+` Si dejo caer mi cuchillo en el centro de su cuerpo, en el "punto" junto a su corazón, todo terminará.
+\
+wave se_01
+`"¿Ah[line=4]Hiii, hiiii?"@
+` …… Terminará.@
+` Todo.@
+` Una historia estúpida que ha continuado durante ocho años terminará sólo con eso.
+\
+wave se_01
+`"¿¡Hya[line=6]Hyaiiiiiii!?"@
+` La voz de SHIKI se resiste a la muerte.@
+` …… No es que sienta lastima por él.@
+` No es que tenga miedo de matarlo.@
+` No es que mi ira haya desaparecido, sino "…… ¿Por qué?"
+\
+wave se_01
+br
+br
+br
+br
+br
+` ¿Por qué?@
+` ¿Por qué no puedo hacer ago tan fácil como dejar caer este cuchillo……?
+\
+!w2500
+`"¡¡¡Hi[line=4]Hihi, hihihihihihihi……!!!"@
+` Riendo, esa cosa desaparece entre los arbustos.@
+`"[line=9]"@
+` Miro mi ensangrentado cuchillo inexpresivamente.@
+` …… No lo maté.@
+` ¿O será que no pude matarlo?
+\
+` Hihi, hihihi, hihihihihihihihi.@
+br
+` Escucho la molesta risa.@
+` Parece que va hacia el edificio separado, donde está Akiha.
+\
+`"¡¡[line=4]!!"@
+` Me levanto.@
+` ¡Qué estúpido soy!@ Debí haber sabido que él iría por Akiha.@
+`"¡Ku[line=5]!"@
+` Comienzo a mover mis débiles piernas y me dirijo hacia el edificio separado.
+\
+bg #000000,lcartain,800
+` El rastro de sangre lleva directamente hacia el edificio separado.@
+` Alrededor del rastro rojo parece haber restos de órganos.@
+` …… Con una herida como ésa, aunque no acabase con él, SHIKI moriría de todas formas, pero está usando lo último de su energía para llegar a Akiha.@
+`"Ku[line=4]"@
+` Sostengo mi débil cuerpo y corro.@
+` Llego al edificio separado después de seguir el rastro rojo de sangre.@
+` La sangre lleva directamente hacia el interior del edificio.
+\
+bg "bg/bg_45e",tshutter,800
+` [line=3]Llegué a tiempo.@
+br
+` Nada es diferente dentro de la habitación.@
+` Akiha está sentada junto a la pared con una mirada inexpresiva.@
+` Sobre el piso de tatami hay un rastro de sangre, y allí,
+`"Ah[line=4]a, aa, a[line=4]"@
+` Arrastrándose.@
+` Un hombre con sólo la mitad superior de su cuerpo, se arrastra desesperadamente por el piso.
+\
+`"¡A[line=4]A-Aki, ha[line=3]!"@
+` Se sigue arrastrando.@
+` Dejando un rastro como una babosa, SHIKI se arrastra hacia la Akiha junto a la pared.
+\
+`"Ayú, da, me[line=5]Aki, ha[line=4]"@
+` SHIKI extiende su mano pidiendo ayuda.@
+` Sus dedos ensangrentados buscan a Akiha.@
+`"[line=8]"@
+` No se lo permitiré.@
+` Tengo que ir allá y acabar con él[line=4]
+\
+playstop
+bg #000000,notrans,0
+wave se_06
+wait 100
+bg "bg/ima_12b",notrans,0
+`"¿Qué[line=4]?"@
+` La exclamación de sorpresa viene de mí, y de SHIKI.@
+br
+` Ju, juju.@
+br
+` Risa inocente.@
+br
+`"¡¡Gi[line=4]A, hya, a.@ Ahhhhhhhh!!"@
+` SHIKI grita al ser arrancado su corazón.
+\
+` Ajajajaja.@
+br
+` Risa infantil.
+\
+`"¡¡Hi, hyaaaaaaaaaaaaaaaaaaa!!"@
+` El grito de SHIKI.@
+` Sangre se dispara por todas partes.@
+` Olas de sangre roja colorean el piso de tatami y las paredes.@
+br
+` Aja, ajaja, ajajaja.@
+br
+` Risa de insorportable felicidad.@
+br
+`"¡¡D-detente, detente, Aki, AKIHAAAA!!"@
+` El grito de SHIKI termina ahí.@
+` Porque su garganta, el órgano que le permite hablar, es aplastada, y es arrancada de su cuerpo junto con su cabeza.
+\
+bg "bg/bg_45e",crossfade,400
+`"Aki[line=4]ha."@
+` Akiha no reacciona ante mi voz.@
+` …… Probablemente ni siquiera sabe que ése es su nombre.@
+` Akiha agita su cabello rojo y ríe como una niña pequeña.
+\
+`"Aki[line=4]ha."@
+` No hay respuesta.@
+` Eso es todo lo que puedo decirle.@ Ha perdido la cordura.
+\
+` Risa tonta.@
+` El sonido de la risa de Akiha hace eco en la habitación.@
+` Estaba jugueteando con el cuerpo de SHIKI, pero parece haberse aburrido de su juguete que ya no se mueve.@
+` Después de mirar alrededor de la habitación, ella rasga el shouji y sale corriendo.@
+br
+` Sus manos aún están empapadas de sangre.
+\
+`"Esp[line=7]"@
+` No puedo decirle que espere.@
+` …… Lo sé.@
+` Sé que es demasiado tarde para todo.
+\
+` Esa Akiha infantil.@
+` Ahora es una criatura inocente, que no distingue el bien del mal.@ Simplemente una criatura viviente que sólo puede matar.@
+br
+` [line=3]Por favor, mátame.@
+br
+` Por lo tanto.@
+` Ir tras Akiha ahora, significa…
+` que voy a matarla.
+\
+bg #000000,crossfade,800

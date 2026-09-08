@@ -1,0 +1,119 @@
+phase "bg/bg_42a",l,his,07a,7
+!w3000
+bg #000000,notrans,0
+` Não consigo acordar.@
+` Estou imerso em um sonho sombrio e não consigo acordar.@
+br
+` [line=3]Sinto um calafrio na espinha.@
+` Sem motivo ou propósito.@
+` Percebo que nunca vou ser capaz de despertar deste sonho.
+\
+!w5000
+`"Shiki-sama, por favor, acorde.@ Você vai se atrasar para a escola."@
+bg "bg/bg_40a",notrans,0
+play "*2"
+`"[line=9]Hã?"@
+` A Hisui está na minha frente.@
+` Este é o meu quarto e, para a minha surpresa, está um dia lindo lá fora.@
+`"Hi…… sui?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Bom dia, Shiki-sama.@ Você não tem muito tempo sobrando, portanto, apresse-se e vá para a sala de estar."@
+` Como sempre, a Hisui fala com o seu tom apático.
+\
+`"Ah[line=6]h."@
+` Com isso, tudo desapareceu.@
+` Seguro o meu corpo recém-desperto e ainda pulsante.@
+` …… Estou aliviado.@
+` O mundo terrível em que eu estava até agora se transformou em um mero sonho.@
+`"…… Obrigado.@ Se você não tivesse me acordado, eu poderia continuar dormindo para sempre."
+\
+`"Do que está falando, Shiki-sama……?@ Se não estiver se sentindo bem, por favor, me diga."@
+`"Não, não é isso.@ [line=3]Bom dia, Hisui.@ Estou feliz que esteja aqui."@
+ld c,"tachi/his_t02",crossfade,400
+`"Hã[line=4]ah, muito obrigada, Shiki-sama."@
+` Ela fica um pouco corada de vergonha e abaixa a cabeça.@
+`"Não, sou eu quem deveria estar agradecen[line=5]já passam das sete e meia!?@ Desculpa, vou me arrumar, pode me esperar lá na sala de estar!"@
+`"Certo, estarei esperando."@
+cl c,lshutter,400
+` Assim que a Hisui sai do quarto, eu coloco o meu uniforme.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_32a",lcartain,800
+` Eu como um pouco do café da manhã que a Kohaku-san preparou e saio da mansão.@
+` Tudo isso levou menos de dez minutos.@
+br
+`"Estou indo[line=4]até mais, Hisui!"@
+ld c,"tachi/his_t01",lshutter,400
+`"Entendido, estarei aguardando o seu retorno."
+\
+cl c,lshutter,800
+bg "bg/bg_22a",lshutter,400
+bg "bg/bg_24a",lshutter,400
+bg "bg/bg_03a",lshutter,400
+wave se_03
+!w2000
+`"…… Consegui……"@
+` Respiro fundo e descanso o corpo.@
+` Consegui chegar na escola pouco antes de fecharem o portão, mas ainda tenho que chegar na minha sala.
+\
+bg "bg/bg_06a",lshutter,400
+`"…… Ufa."@
+` O professor ainda não chegou na classe.@
+` Tento recuperar o fôlego enquanto sento.@
+` …… A classe parece mais animada do que o normal.@
+` Amanhã é feriado, provavelmente todos estão com a sensação de que hoje é sábado.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06b",crossfade,400
+` As aulas terminam.@
+` Já que não tenho qualquer motivo para permanecer na escola, vou voltar para a mansão.
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+`"…… O sonho de ontem."@
+` Definitivamente é o lugar em que vi alguém ser morto no meu sonho.@
+` Embora eu tenha me esforçado para não sonhar, acho que não dá para fugir de si mesmo.@
+`"[line=5]Kk."@
+` Ranjo os dentes.@
+` Estou me sentindo patético em relação à minha própria fraqueza.@
+` Afinal de contas, é tudo um sonho.@
+` É um fato de que deve ter algo de errado comigo para ter esses sonhos, mas acredito que ainda estou são.
+\
+bg "bg/bg_22b",lshutter,800
+` …… O velhote do meu pai é o velhote do meu pai.@
+` Eu não sei absolutamente nada sobre o sangue dos Tohno.@
+` Mas não quero virar um incômodo para a Akiha ou para as empregadas enquanto eu estiver são.@
+` Preciso tentar agir o mais normal possível e procurar uma forma de resolver tudo isso[line=3]
+\
+bg #000000,lcartain,800
+bg "bg/bg_33b",lshutter,800
+play "*3"
+ld c,"tachi/his_t01",lshutter,400
+`"Bem-vindo de volta, Shiki-sama."@
+` Assim que abro a porta, a Hisui me cumprimenta com muita cortesia.@
+`"Cheguei.@ Vou para o meu quarto, pode voltar a fazer o que quer que estivesse fazendo até agora."@
+`"Obrigada.@ Darei continuidade à limpeza da sala de estar.@ Por favor, me chame se precisar de alguma coisa."@
+cl c,lshutter,400
+`"…… A Hisui está limpando a sala de estar…"@
+` Não vejo a Kohaku-san, mas provavelmente ela está varrendo o pátio dos fundos ou saiu para fazer compras.@
+` Parece que a Akiha não voltou ainda[line=4]bom, vou para o meu quarto.
+\
+bg "bg/bg_40b",lshutter,800
+` Guardo a minha pasta e troco de roupa.@
+` Fico quase uma hora apenas sentado no meu quarto, sem fazer nada.@
+` De repente, escuto um gorgolejo.@
+` Não é um barulho estranho nem nada de excepcional.@
+` É só o meu estômago reclamando de fome.
+\
+`"…… Pois é, eu não como nada desde o café da manhã."@
+` Como não quis me atrasar de manhã, comi bem pouco do café da manhã preparado pela Kohaku-san.@
+` Pensei em comer no refeitório, mas perdi o meu apetite assim que lembrei do que vi lá ontem.
+\
+`"…… Será que consigo algum tira-gosto antes do jantar……?"@
+` …… Eu não quero incomodar ninguém, mas estou morrendo de fome.@
+br
+` Eu[line=3]
+\

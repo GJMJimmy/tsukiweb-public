@@ -1,0 +1,51 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"O Arihiko é só um dos meus colegas de classe.@ E é você quem tem que dar explicações aqui."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Muito bem.@ O que deseja saber, Nii-san?"@
+`"O que desejo saber!?@ Por que se transferiu para esta escola?@ Qual motivo você teria para se transferir pra uma escola de segunda como esta!?"
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"É você quem está dizendo que é de segunda.@ Mas eu posso frequentar a escola que quiser; não preciso me explicar para você."@
+`"…… Não seja idiota.@ Eu sou seu irmão!@ Não vou fazer vista grossa com algo que vá contra o que é melhor pra você.@
+` Francamente, não vejo benefício algum em se transferir para esta escola.@ É responsabilidade minha cuidar de você agora que nosso pai não está mais aqui…!"
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… O quê?@ Não é justo dizer essas coisas nesta situação."@
+`"'Não é justo' é algo que eu deveria estar dizendo, não você.@ No que estava pensando ao se transferir sem nem ao menos me contar?@
+` Não vou aceitar isso até que me diga um bom motivo!"@
+ld c,"tachi/aki_t17a",crossfade,400
+`"Ah[line=4]"@
+`"Se eu não ficar satisfeito com o motivo, vou te mandar imediatamente para a sua antiga escola.@ Então, me diga, Akiha.@ Por que mudou de escola?"@
+cl a,crossfade,400
+` Ela fica em silêncio e olha para baixo.@
+` Após um breve momento ela levanta a cabeça e mostra um rosto cheio de coragem.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Eu estava preocupada com você, Nii-san.@ Não é motivo o suficiente?"@
+br
+` [line=7]Hã?@
+br
+`"…… Espera aí.@ Como assim[line=2]preocupada comigo…?"@
+` Que tipo de motivação é essa?
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Depois de observar o seu comportamento rebelde por um tempo, resolvi que, para evitar que você desonrasse o nome dos Tohno, eu teria que ficar de olho em você o tempo todo."@
+` Ela explica claramente.@
+`"Erk[line=4]"@
+` Não posso discordar quando ela diz "comportamento rebelde".@
+` É a verdade pura; desde quando mudei para a mansão, a minha vida tem sido um aborrecimento para ela e as empregadas.
+\
+`"M-mas mudar de escola é exagero demais, não acha?@ E quanto às suas amigas?"@
+ld c,"tachi/aki_t05a",crossfade,400
+`"Isso não é da sua conta, Nii-san.@ Caso esteja sentindo ao menos um pouquinho de pena de mim, tudo o que precisa fazer é mudar a sua forma de pensar e agir de agora em diante."@
+` Ela me dá as costas bruscamente.@
+` …… Bem, esse é o jeito dela mesmo.
+\
+`"…… Tá bom, faça como quiser.@ Mas um dia você vai se arrepender."@
+ld c,"tachi/aki_t06",crossfade,400
+`"Está tudo bem.@ Não precisa se preocupar comigo."@
+` Claramente, ela fica de mau humor.
+\
+cl a,crossfade,400

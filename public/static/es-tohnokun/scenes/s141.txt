@@ -1,0 +1,107 @@
+monocro off
+wavestop
+bg "bg/bg_29b",notrans,0
+play "*3"
+`"¿Huh?"@
+` ¿Qué quiere decir con anoche?@
+` No entiendo de qué está hablando.@
+` Después de todo, soy el idiota que malinterpretó las palabras de Arcueid y cometió un error tan estúpido, así que obviamente no entiendo lo que está diciendo, y[line=3]¿huh?@
+br
+` ¿Me preguntó Arcueid quién vino anoche[line=3]?
+\
+`"…… Arcueid.@ ¿Qué quieres decir con 'anoche'?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"¿Hm?@ Qué extraño, sé que te envíe un familiar de sueño."@
+`"Espera, ¿qué es ese familiar de sueño?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Um, es como un familiar que te permite ver un sueño sobre lo que más deseas.@ Eres hombre, así que te envié un súcubo.@ ¿No fue un buen sueño?"@
+cl c,crossfade,400
+`"Yo[line=5]"@
+br
+` ¿Un buen sueño?@ Eso fue…
+\
+` Recuerdo el sueño realista que tuve y mi rostro se torna rojo.@
+`"¡Tú, eso fue obra tuya[line=3]!"@
+` Arcueid sonríe aun más.@
+` [line=3]Mierda.@
+` Si me quedaba callado esta conversación habría terminado, pero ya que reaccioné con tanta intensidad[line=3]
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah, entonces sí lo recibiste.@ Entonces, ¿quién vino?@
+br
+` [line=3]Moriría antes de decirlo.@
+br
+`"Arcueid, no te concierne, así que déjame en paz."@
+` Aparto la vista de ella y me niego.@
+` Pero Arcueid continúa diciendo "Vamos, vamos," una y otra vez.
+\
+`"Vamos, dime.@ Puedes al menos decirme con quién soñaste."@
+` Ella pregunta como una niña curiosa.@
+` Cada vez que me doy la vuelta sigue saltando frente a mí, diciendo "Vamos, vamos."
+\
+cl c,lshutter,800
+`"…… Por favor, ya déjalo pasar.@ Algo estaba mal con ese sueño.@ …… Incluso ahora, eso[line=3]"@
+` No sé por qué tuve ese sueño.@
+` Arcueid dice que es mi más grande deseo, pero no quiero pensar que eso lo sea.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Oh, ¿tal vez se convirtió en una pesadilla?@ Ella tiende a escribir la historia a su gusto cuando se encariña con su objetivo.@ Es sólo una novata, supongo que no podía evitarse."@
+` Arcueid murmura para sí misma.
+\
+`"¿……?@ ¿Escribe la historia a su gusto?@ ¿Qué quieres decir?"@
+`"Estoy diciendo que ella interpreta tu deseo a su propia manera.@ El familiar de sueño que te envié es sólo una niña, así que le gusta jugar bromas."@
+`"[line=4]Ya veo."@
+` …… Es un alivio.@
+` Es cierto, ese sueño[line=3]no pudo haber sido lo que yo deseaba.
+\
+` Dejo salir un suspiro de alivio.@
+` Con esto, mi inocencia ha sido probada pero[line=3]
+`"Arcueid.@ ¿Por qué me enviaste semejante cosa?@ Es demasiado aun para un acoso."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Hmph.@ Yo no te acosaría.@
+` Te envié el familiar de sueño para agradecerte por derrotar a Nrvnqsr.@ Estoy muy agradecida contigo, por eso pensé que sería genial si eso te hacía feliz."
+\
+`"¿Agradecerme?[line=3]Bueno, me alegra que estés agradecida, pero…"@
+` Pero sin importar qué, no me interesa esa clase de agradecimiento.@
+ld c,"tachi/ark_t04",crossfade,400
+`"Oh por favor.@ ¿Estás diciendo que no puedes aceptar la buena voluntad de una persona?"@
+`"…… Oye, tú no eres una persona, eres un vampiro, Arcueid."@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Eso es…… verdad pero."@
+` Arcueid deja caer sus hombros.@
+` …… Cómo digo esto… Arcueid es muy abierta al expresar sus emociones.
+\
+` Feliz, enojada, ella cambia sus expresiones tan rápidamente[line=3]Es ciertamente algo encantador.@
+br
+` …… Dije que era un vampiro, pero,
+` en realidad parece humana, lo suficiente como para hacerme olvidar ese hecho.
+\
+`"…… En primer lugar, ¿por qué me enviaste ese familiar de sueño?@ ¿Aún estás molesta conmigo por matarte?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"No es eso, en absoluto.@ Lo envié como agradecimiento por derrotar a Nrvnqsr.@ En verdad estoy agradecida contigo, creí que estarías extremadamente feliz."@
+`"¿Cómo agradecimiento?[line=3]No me interesa ese tipo de agradecimiento.@ Qué mal gusto tienen, ¿en qué piensan los vampiros?"@
+` Dejo caer mis hombros.@
+` No sé por qué está molesta, pero ella me mira con una expresión de insatisfacción.@
+ld c,"tachi/ark_t06",crossfade,400
+`"¿Qué fue todo eso, bestia?@ Sé que no soy humana."@
+cl c,lshutter,400
+` Ella se da la vuelta y comienza a irse caminando.
+\
+playstop
+`"Oye, espera.@ ¿Adónde vas?"@
+`"No tiene nada que ver contigo.@ ¡No me sigas!"@
+` ¿En verdad está tan furiosa?@ Arcueid se va caminando sin siquiera mirar atrás.
+\
+`"…………"@
+` ¿Adónde planea ir de todas formas?@
+`"…………"@
+` Tal vez hablé demasiado.@
+` Sin importar el resultado o el método utilizado, ella me agradeció con buenas intenciones.@ Comienzo a sentir un intenso arrepentimiento y pienso que quizás debí haber aceptado su regalo felizmente.
+\
+`"[line=5]"@
+` Maldición.@ ¿¡Por qué será que simplemente no puedo dejar a Arcueid en paz……!?@
+br
+`"Au[line=3]¡Oye, dije que esperes!"
+\
+bg #000000,lcartain,800

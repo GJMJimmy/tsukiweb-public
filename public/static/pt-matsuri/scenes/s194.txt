@@ -1,0 +1,135 @@
+phase "bg/cmo_14",l,ark,11a,11
+bg "bg/bg_40a",crossfade,1500
+` Eu acordo com a voz da Hisui.@
+` Depois de voltar para a mansão, eu devo ter vindo para o meu quarto e dormido.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, não está se sentindo bem?"@
+`"[line=4]Eu estou bem."@
+` Respondo sua pergunta e me sento na cama.@
+br
+` …… Estou surpreso comigo mesmo.@
+` Não sinto vontade alguma de conversar, mas meu corpo tenta começar o dia como sempre.
+\
+`"O café da manhã está pronto?@ Já vou descer."@
+ld c,"tachi/his_t04",crossfade,400
+`"……… Sim.@ Estarei esperando."@
+` Parece que ela ainda quer dizer mais alguma coisa, mas simplesmente deixa o quarto.@
+` Eu troco de roupas e vou para a sala de jantar.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_34a",lcartain,1500
+` A Akiha e a Kohaku estão aqui.@
+`"Bom dia."@
+` Cumprimento-as e vou para a sala de jantar.@
+` Tomo o café da manhã e volto para a sala de estar.@
+` Sento no sofá e fico olhando para o relógio.
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"…… Nii-san?@ Hum[line=4]você se lembra que tem aula hoje, né?"@
+`"Hum[line=4]?@ Ah, é mesmo.@ Acho que vou para a escola."@
+` Eu acabei esquecendo.@
+` Não estou com vontade de fazer nada, e pensei em continuar vivendo assim, como uma concha vazia.
+\
+`"…… Eu ainda tenho minha vida como Tohno Shiki.@ Já que não tenho nada melhor para fazer, não vai doer ir para a escola."@
+`"Nii-san……?"@
+` A Akiha me olha preocupada.@
+cl c,crossfade,400
+` …… Ficar conversando vai ser um saco.@
+br
+` Sem dizer mais nada, vou para a escola.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_06a",lcartain,1500
+` O tempo passa sem acontecer nada de interessante.@
+` Assisto as aulas sem interesse.@
+` Ouço os barulhos do giz.@
+` Escrevo tudo que está no quadro, mas nem sei o que estou escrevendo.@
+br
+` Vejo o pátio da escola através da janela.@
+` Claro que não tem ninguém lá.
+\
+`"[line=6]"@
+` [line=4]O que estou fazendo?@
+` Assistindo minhas aulas sem preocupação alguma.@
+` Sem procurar por ela, apenas voltando para a minha vida cotidiana.
+\
+`"[line=6]"@
+` Mas seria impossível encontrar a Arcueid.@
+` Como ela foi embora por vontade própria, provavelmente seria impossível encontrá-lá.@
+br
+` É por isso que…
+` Eu perdi a Arcueid[line=3].
+\
+br
+` *estalo*@
+br
+`"…………"@
+` Esse barulho veio de cima da minha carteira.@
+` …… Ah, não é nada.@
+` Eu segurei minha lapiseira com tanta força que a quebrei, e essa não foi a primeira.
+\
+bg #000000,lshutter,800
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` A aula acaba.@
+` Em meio ao tumulto da sala, eu permaneço sentado.@
+br
+`"Tohno, você pode vir aqui um momento?"@
+` O professor de matemática me chama.@
+`"[line=4]Sim, o que foi?"@
+` Eu respondo e vou até ele.
+\
+`"Tohno, seu comportamento recente não tem sido um pouco estranho?@ Eu recebi a informação de que você tem saído de noite.@ Isso é mentira?"@
+`"…… Não.@ Nos últimos dias eu estive resolvendo alguns problemas na cidade durante a noite."@
+`"[line=4]Sei."@
+` Meu professor de matemática[line=4]que também é o professor responsável pela minha classe[line=4]parece um pouco preocupado comigo, e também parece estar sentindo um pouco de pena de mim.
+\
+`"Eu sei que você não é o tipo de pessoa que sai para se divertir à noite, mas o corpo docente tem expressado sua preocupação quanto a isso.@ Parece que o presidente do conselho estudantil quer conversar com você.@
+` Depois da aula vá até a sala do conselho estudantil.@ Considere-se azarado e aguente as consequências dos seus atos."@
+` Despedindo-se de mim, ele deixa a sala de aula.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_08a",lcartain,1500
+` Todas as aulas acabaram.@
+` Eu vou até a sala do conselho estudantil, mas o professor não está aqui.@
+` …… Agora que estou me lembrando de uma coisa; aquele professor também é o conselheiro da equipe de ginástica da escola.@
+` É provável que ele não venha até que o treino deles tenha terminado.
+\
+`"[line=6]"@
+` Eu me sento e fico esperando.@
+`"………… Ugh."@
+` Mordo o meu lábio.@
+` Sei muito bem que não é hora para isso.@
+` Eu sei, mas não tem nada que eu possa fazer.
+\
+` Olho pela janela e vejo o pôr do sol pintando o céu de vermelho.@
+` Ouço as vozes dos membros dos clubes praticando lá fora e dos alunos conversando enquanto deixam a escola.@
+` Esta sala é o único lugar tranquilo neste momento.
+\
+` …… Estou nervoso.@
+` Por que estou aqui?@
+` Não posso fazer nada.@
+` Estou nervoso com minha falta de capacidade.@
+` Entretanto, não tenho como resolver isso sozinho.@ No final das contas, só pude aceitar tudo o que me foi dito sem poder fazer nada.
+\
+`"…… O que estou fazendo?"@
+` Não recebo resposta alguma.@
+` Apenas fico sentado na sala de aula vazia escutando os sons vindo lá de fora.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_08b",crossfade,800
+` Tique-taque.@
+` O relógio acaba de mostrar que são sete horas da noite.@
+` Ninguém veio até aqui.@
+` A escola fecha às seis horas e todos os professores vão embora às seis e meia, quer dizer que não tem mais ninguém na escola.
+\
+`"…… Acho que fui esquecido."@
+` Levanto da cadeira.@
+` Depois de ficar pensando sobre tantas coisas por tanto tempo, minha cabeça começa a ficar mais leve.
+\
+` Eu fiquei pensando esse tempo todo.@
+` Sobre o que eu deveria fazer, o que eu deveria priorizar.@
+` Agora, eu devo[line=4]
+\

@@ -1,0 +1,312 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11c",lcartain,800
+` O corredor está completamente vazio.@
+` As luzes estão apagadas e o corredor está iluminado apenas pelo luar azul que atravessa as janelas.@
+br
+`"[line=6]"@
+` Assim que olho pela janela,
+` percebo que hoje é noite de lua cheia.
+\
+`"……………"@
+` Eu me perco por um momento fitando a bela lua.@
+` Uma lua prateada.@
+` Sua beleza é delicada como vidro, parece que poderia estilhaçar se eu a tocasse com as mãos.@
+` Essa lua.@
+` Quando eu era criança.@ Eu sinto que.@ Vi ela antes.@ Eu estava paralisado por algum motivo.
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+play "*6"
+br
+` [line=4]Tum.@
+br
+`"Gah…………!?"@
+` De repente, a cicatriz no meu peito começa a doer.
+\
+br
+` [line=4]Tu, dum.@
+br
+` Meu coração acelera.@
+` Meu sangue começa a circular mais rápido por todo o corpo e não consigo controlar minha respiração.
+\
+br
+` [line=4]TUM.@
+br
+` Coloco a mão no peito.@
+` Meu uniforme está encharcado de sangue.@
+` Minha cicatriz abriu e está sangrando.
+\
+br
+` [line=4]Tu, dum.@
+br
+` Arf.@
+` Estou muito ofegante.@
+` Um arrepio corre pelas minhas costas, e parece que minha coluna vai explodir.
+\
+br
+wave se_01
+` [line=4]TUM.@
+wave se_01
+` [line=2]Tu, dum.@
+wave se_01
+` [line=4]Tu
+wave se_01
+` [line=2]Tu, du
+br
+wave se_08
+` [line=6]Tap.@
+br
+` Entre as batidas do meu coração, ouço um outro som.
+\
+`"Ah[line=6]"@
+` Tem alguém vindo.@
+` Bem no fim do corredor, e está vindo na minha direção.@
+` Tap.@ O som de passos.
+\
+` [line=4]Tem alguma coisa… errada.@
+br
+` Essas batidas descontroladas do meu coração não são como as de quando um perigo qualquer está se aproximando.@
+` Minha cabeça começa a doer.@
+` Essa dor, essa sensação de perigo está totalmente direcionada contra mim.
+\
+br
+br
+br
+br
+br
+br
+` Sinto que essa figura sombria é alguém que[line=4]Tohno Shiki não deve conhecer[line=6].
+\
+` Respiro com mais dificuldade.@
+` Eu tiro os óculos.@
+` Minha faca[line=3]está no bolso.
+\
+bg "bg/bg_11d",crossfade,1500
+` A pessoa se aproxima.@
+` O luar dá a entender que é um homem.@
+` O "ponto" que indica sua morte está pulsando no centro do seu corpo, como se fosse um coração.@
+` Por todo o seu corpo vejo "linhas" de morte cobertas, como se fossem os fios de uma máquina.
+\
+`"[line=18]"@
+br
+` Eu paro de respirar.@
+` …… Tem[line=4]algo de errado com a minha cabeça.@
+` Eu não conheço esta pessoa.@
+` Embora eu não conheça[line=4]não consigo evitar de pensar que me lembra alguém.
+\
+wave se_08
+` Tap, tap.@
+` Ele se aproxima.@
+` Em breve vou poder ver o seu rosto.@
+br
+`"[line=20]"@
+br
+` Com quem ele se parece?@
+` Com quem ele se parece?@
+` Com quem ele se parece?@
+` Com quem ele se parece?@
+br
+` Eu estou esquecendo de quem[line=6]?
+\
+ld c,"tachi/roa_t07c",crossfade,1500
+` [line=4]Olhos completamente vermelhos.@
+` A morte está por todo o seu corpo.@
+` Um silêncio absurdo, como se o próprio ar tivesse congelado.@
+` Não há erro… ele não é humano.@
+cl c,crossfade,1500
+br
+` Ele se aproxima mais.@
+` E vem na minha direção, olhando apenas para mim, e sorrindo.
+\
+`"[line=18]!"@
+` Eu empunho a minha faca.@
+` A lâmina surge.@
+` Ele continua vindo.@
+` Não tenho tempo para pensar nem hesitar.
+\
+` Sob o luar.@
+` Como se estivesse em câmera lenta, eu preparo minha faca.@
+` E ele não para.@
+br
+` Lentamente,
+` como se o tempo tivesse parado apenas para mim,
+br
+` ele facilmente me alcança e rouba minha faca, segurando-a de cabeça para baixo.
+\
+ld c,"tachi/roa_t07b",crossfade,400
+`"O qu[line=4]"@
+br
+` Meu corpo[line=4]não se mexe[line=4]
+br
+`"…… Shiki.@ Não é só você que consegue ver a morte."@
+br
+` Ele diz isso e move o seu braço.@
+br
+` [line=4]TUM.@
+br
+` Um arrepio corre por todo o meu corpo.@
+` Meu cérebro congela.@
+` Meu corpo se lembra dessa mesma dor de antes.
+\
+`"[line=12]Ah."@
+` Ouço o som de carne sendo cortada.@
+` Minha faca que foi roubada[line=2]está mergulhada bem fundo[line=2]no meu peito[line=6]
+\
+playstop
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_11c",crossfade,400
+` Meu corpo desmorona.@ Todas as minhas forças desaparecem e eu caio no chão.
+\
+br
+` Esvoaçando,
+` algo branco esvoaçando.
+\
+` [line=4]É porque eu me inclinei em sua direção quando estava caindo.@
+` Enquanto caía, minha mão segurou nas faixas que estão enroladas pelo corpo dele.
+\
+`"Tudo bem.@ Você deseja ver o meu rosto, Shiki?"@
+` Ele diz isso,
+` e desenrola as faixas.@
+ld c,"tachi/roa_t04c",crossfade,400
+wave se_01
+`"[line=6]"@
+` Tudo fica escuro.@
+` Este rosto.@ Este rosto diante de mim, eu conheço ele.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",crossfade,400
+` [line=4]É muito parecido.@
+` Com o rosto[line=4]
+` da criança toda ensanguentada daquele dia de verão quente[line=4]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_11c",crossfade,400
+waveloop se_02
+` Estou no chão,
+` e com a faca ainda no meu peito.@
+` O mais estranho de tudo, é que não sito dor e nem está saindo sangue.@
+` Meu corpo apenas está ficando mais frio.
+\
+`Minha consciência está começando a desaparecer.@
+` O controle que tenho sobre meu corpo… tudo começa a desaparecer.
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"Estou te dando o troco por ter me matado."@
+` É o que ele diz me encarando.@
+` Este rosto.@ Eu conheço ele.@
+br
+` [line=4]Mas é claro que conheço.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",notrans,0
+bg "bg/bg_11c",crossfade,400
+` Sim[line=4]por que havia me esquecido até esse momento?@
+br
+` Quando eu era criança.@
+` Ele é o outro menino com quem a Akiha e eu brincávamos quando éramos crianças.
+\
+` Sempre estávamos juntos.@
+` Quando a Akiha aparecia para brincar conosco, sempre estávamos juntos para recebê-la[line=4]então por que[line=3]me esqueci do nome dele até esse momento……?
+\
+`"SHI[line=4]KI"@
+ld c,"tachi/roa_t04c",crossfade,400
+`"É isso mesmo, Shiki.@ Há quanto tempo!"@
+` Ele[line=4]o SHIKI, sorri satisfeito.@
+br
+` SHIKI.@ Shiki.@ Akiha.@ SHIKI.@ SHIKI.@ Akiha.@ Shiki.@
+br
+` Aqueles rabiscos.
+\
+`"Isso é[line=4]ridículo."@
+`"Desculpe-me, Shiki.@ Você vai ter que escutar meus ressentimentos um pouquinho, foi por isso que eu evitei acertar o seu "ponto" de morte.@
+` Este ferimento não é fatal, você vai ficar consciente por um tempo.@ Não se entregue tão facilmente."@
+br
+` É uma risada muito desagradável, e estou com o mesmo mal-estar de quando enfrentei o Nrvnqsr.@
+` Em meio à minha consciência oscilando, eu percebo uma coisa.@
+` Ele é[line=4]o "inimigo" da Arcueid.
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Muito bem[line=4]será que devo pegar esta faca aí?@ Alguém que está prestes a morrer não vai mais precisar dela, né!?"@
+br
+` Ele se aproxima.@
+` E agarra o cabo da faca.@
+` Na hora que ele a retirar eu vou morrer.@
+br
+` Mas não posso fazer nada.@
+` Não consigo mexer nem meus olhos direito.
+\
+bg #000000,lshutter,400
+wave se_12
+bg "bg/bg_11c",notrans,0
+quakey 2,100
+waveloop se_02
+`"Gah[line=4]!?"@
+` Ele sai voando.@
+` De repente, o SHIKI sai voando como se tivesse sido atingido por um carro.@
+br
+` No mesmo instante, uma pessoa usando uma túnica negra aparece.@
+br
+` Embora estejamos no terceiro andar, ela entra quebrando a janela, fazendo uma aparição muito chamativa.
+\
+`"Kk[line=6]!"@
+` Depois de voar por alguns metros,
+` o SHIKI se levanta lentamente e me encara[line=4]e também a Ciel-senpai que está me protegendo.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"Puta[line=4]essa é a segunda vez que você interfere!"@
+cl c,crossfade,400
+ld c,"tachi/cel_t06b",crossfade,400
+`"………………"@
+` A Senpai apenas o observa sem dizer nada.@
+cl c,crossfade,400
+` Ele se abaixa, como se estivesse preparando-se para atacá-la.
+\
+br
+br
+br
+br
+br
+` [line=4]E então.@
+br
+` Como se tivesse entendido alguma coisa, o SHIKI começa a rir.
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"Huhu, hahaha, ahahahahahaha!"
+\
+`"Entendi, então isso, mulher!@ Não posso acreditar, mas está acontecendo!@ Que interessante, em oitocentos anos é a primeira vez que acontece isso……!@
+` Nesse caso, quer dizer que coisas novas me aguardam……!"@
+` O SHIKI continua rindo como um palhaço.@
+` …… A Senpai apenas fita o vampiro à sua frente.
+\
+`"O que foi?@ Você veio até aqui para me matar, né?@ Ou é alguma outra coisa?@ Ou será que uma casca descartada não consegue fazer nada sozinha?"@
+`"[line=6]"@
+` Ela não responde.@
+` Ela desvia o olhar do vampiro e me levanta do chão.
+\
+`"Ah?@ Este impostor é mais importante que destruir o problema que está atrás de você?@
+` Isso é inútil.@ Não tem como ajudá-lo.@ Esse é o pagamento por ele ter vivido como Tohno Shiki até hoje.@
+` Não tem como curar alguém que teve suas linhas de morte cortadas.@ Até mesmo aquela princesinha teve que trocar seus oitocentos anos de vida para conseguir regenerar.@
+` [line=4]Um ser humano normal como ele não vai conseguir escapar da morte."@
+` Suas palavras são cheias de risadas zombeteiras.
+\
+` A Senpai não responde nada.@
+` E no final, sem dizer uma única palavra,
+` me segurando nos braços, ela vai até a janela e pula para fora.
+\
+bg #000000,lcartain,800
+` É como se essa altura não fosse nada para ela.@
+` Com uma pluma, ela aterrissa no chão e começa a correr para longe da escola sem nem olhar para trás.@
+br
+` [line=4]Diante de tudo isso,
+` eu apenas observo a escola com olhos vazios.
+\
+bg "bg/ima_02",crossfade,400
+` Vejo o terceiro andar em que estávamos.@
+` Sem qualque expressão no rosto, eu olho para o vampiro de cabelos longos e negros, enquanto ele nos observa partir com uma expressão de vitória[line=6].
+\
+bg #000000,crossfade,1500
+wavestop
+!w3000

@@ -23,20 +23,3 @@ release
 *.sln
 *.sw?
 
-public/.htaccess
-public/static/*/*/
-!public/static/**/sources
-public/static/jp/sources
-public/res/flowchart-spritesheets
-logic_tree.txt
-
-tools/helpers/extract/*
-!tools/helpers/extract/index.ts
-
-tools/_workspace
-tools/CD_*/
-tools/arc.sar
-tools/arc.nsa
-tools/nscript.dat
-tools/_workspace_pd
-tools/data.xp3

@@ -1,0 +1,104 @@
+phase "bg/bg_47",l,ark,07a,7
+bg "bg/cmo_05",crossfade,800
+` Back then, the whole mansion was like a giant playground.@
+br
+` The garden, a deep forest.@
+` The house, a tall castle.@
+br
+` We played in our own little world, which would take days to explore.
+\
+` Every day was fun.@
+` No one thought about ever growing up,
+` and we believed that days and nights would always be the same.@
+br
+` It was just a childhood spent playing like puppies.@
+` We got along wonderfully, and were the best of playmates.
+\
+` Whenever I turned back, Akiha would be there, waving her hands and hiding shyly.@
+` Yes, always the same.
+\
+` At that time, the mansion was a giant playground.@
+br
+` The garden, a deep forest.@
+` The house, a tall castle.@
+br
+` We played in our own little world, which would take days to explore.
+\
+bg #ffffff,crossfade,800
+` I slowly awaken and open my eyes.@
+` The morning light wraps around me and my sleepiness starts to lift.@
+br
+` As the last vestiges clear,
+` I sense that I had a very nostalgic dream.@
+bg "bg/bg_40e",crossfade,800
+`"[line=7]"@
+` As soon as I open my eyes, I start to see those terrible things jump into my vision.@
+` My head stabs with pain.@
+`"Gg[line=4]"@
+` I scramble for the glasses by my pillow and put them on.
+\
+bg "bg/bg_40a",lshutter,800
+play "*2"
+` I take in some air.@
+` After taking a few deep breaths, I manage to calm down.@
+`"Why did I[line=4]so early…"@
+` See those lines so clearly this early in the morning?@
+` It's difficult to see the lines of death in buildings.@
+` It's usually hard to see them, and seeing them so clearly like I just did now is rare.@
+`"…………"@
+` What's more, I even saw those "points".@
+` I think my headache is getting worse too.
+\
+` Sensei said these eyes would attract things that weren't good.@
+` I think Arcueid and these vampires are certainly not good.@
+` So, maybe it's all affecting my eyes and making them stronger.@
+br
+`"[line=4]Can't be."@
+` I'm probably just tired.
+\
+`"Huh[line=4]?"@
+` Come to think of it, Hisui isn't here.@
+` It's already past seven.@
+` Normally she would have already come in and woke me up.@
+br
+`"…… Maybe Hisui slept in."@
+` But I see my freshly prepared uniform on my desk.@
+`"What's this?@ Maybe she had some other duties."@
+` I'm a little curious, but I guess it doesn't concern me.@
+` I don't have time this morning, so I should just hurry up, change and go to the sitting room.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+playstop
+`"[line=6]Ah."@
+` As I go from the lobby towards the sitting room, I realize I forgot something terribly important.@
+` I open the door and stand there, without taking a single step forward.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+` Akiha is in the sitting room.@
+` Kohaku-san is nearby and the two of them are drinking tea silently.@
+cl c,crossfade,400
+br
+` Normally she would say,
+`"Good morning, Nii-san,"@
+` no matter how angry she might be, but she doesn't even look at me this morning.@
+`"Ah……… uh."@
+` It goes without saying.@
+` Arcueid's coming here last night has some very lasting repercussions.
+\
+` Akiha's irritation is permeating the air.@ You could practically cut the tension with a knife.@
+br
+play "*2"
+ld c,"tachi/koha_t01a",lshutter,400
+`"Good morning, Shiki-san."@
+` …… Well, it seems like she's remained unaffected, at least.@
+`"Ah… yeah, good morning Kohaku-san."@
+` Raising a hand to Kohaku-san, I enter the sitting room.@
+cl c,crossfade,400
+\
+ld c,"tachi/aki_t03a",crossfade,400
+` Akiha glares at me as I shuffle into the sitting room.@
+br
+` [line=3]Ugh, I'm not going to succumb to this silent pressure!@
+br
+cl c,crossfade,400

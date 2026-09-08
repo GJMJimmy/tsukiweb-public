@@ -1,0 +1,73 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_19d",notrans,0
+` [line=3]Mientras Arcueid no pueda moverse, ir afuera ciegamente sería peligroso.@
+br
+`"…………"@
+` Sujetando el cuchillo con una mano, contengo la respiración.@
+` Arcueid está en silencio también.@ Parece estar teniendo cuidado de lo que está a su alrededor.
+\
+` El piso de abajo es ruidoso.@
+` Quizás el impacto despertó a los huéspedes y tal vez se están quejando con el personal del hotel.@
+` Todavía son las cuatro de la mañana, pero aun así, el ruido es tan escandaloso como el de un festival.@
+br
+` [line=3]Incluso eso queda en silencio pocos minutos después.
+\
+wave se_01
+` El ruido desaparece.@
+` Un silencio enfermizo.@
+bg #000000,notrans,0
+playstop
+`"¡[line=6]!"@
+` Las luces se apagan.@
+` Al mimo tiempo,
+wave se_05
+wave se_05
+wave se_05
+wave se_05
+` el sonido de incontables cosas golpeando la puerta.
+\
+`"¿Estás preparado, Shiki?"@
+` Arcueid susurra en la oscuridad.
+\
+`"…… ¿Preparado, para qué?"@
+` Ni siquiera tengo que preguntarle.
+\
+wave se_05
+!w1200
+!w1200
+wave se_05
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1000
+wave se_10
+br
+` [line=3]Si quedarme aquí fue un error…
+` Entonces esa pregunta también fue un error.@
+` Volteo hacia la puerta, hacia el sonido que hace ésta al romperse.@
+`"[line=8]"@
+` Ningún sonido escapa de mi boca.@
+` Al darme la vuelta, brillantes dientes blancos llenan mi visión.
+\
+bg #ffffff,crossfade,400
+` Como gigantes fauces, capaces de tragarme entero.@
+` Por alguna razón, puedo decir con calma que son las fauces de un tiburón.
+\
+bg "bg/ima_12",lshutter,400
+` Sangre fresca se derrama por todas partes.@
+` Con un ruido sordo, lo que queda de mi cuerpo cae al piso.@
+` Lo que cae es mi cabeza.@
+` Todo por debajo de mi rostro ha sido consumido en un solo mordisco.@
+br
+` Ésa    es la última escena     que veo en mi vida.
+\
+bg #000000,crossfade,800
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

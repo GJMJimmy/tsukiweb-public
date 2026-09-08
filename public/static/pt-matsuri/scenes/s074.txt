@@ -1,0 +1,489 @@
+phase "bg/bg_20a",r,ark,03a,3
+bg #ffffff,crossfade,1500
+play "*2"
+bg "bg/bg_18a",crossfade,1500
+`"[line=6]Nn."@
+` Os raios de sol que entram pela janela me acordam.@
+` …… Talvez a chuva tenha parado; já não a ouço mais.@
+` Parece que o céu está nublado.@ O sol está bem fraco.@
+br
+`"…… Hã?"@
+br
+` Olho ao meu redor.@
+` …… Obviamente este não é o meu quarto.
+\
+ld c,"tachi/cel_t01a",lshutter,400
+`"Bom dia.@ Dormiu bem, Tohno-kun?"@
+`"Ah[line=8]!"@
+br
+` Agora me lembro.@
+` Este é o quarto da Senpai.@ Passei a noite na casa dela[line=4]
+br
+`"Bom dia, Senpai."@
+` Fico muito envergonhado e saio da cama.
+\
+`"Hum… desculpe-me por ontem.@ Eu te causei vários problemas e[line=3]"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Sim, você me deve uma".@
+` Ela responde com um sorriso.@
+` …… Como posso explicar… Ela parece muito madura.
+\
+`"D-de qualquer forma, obrigado.@ Eu já vou embora."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Ah, sério?@ Ainda nem são seis da manhã, Tohno-kun."@
+`"Pois é, mas eu não pedi permissão para dormir fora de casa, então se não me apressar, nem imagino o que a Akiha fará comigo."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ah, a sua irmã mais nova.@ Bem, já liguei para ela, você não deverá ter problemas."@
+` Ela me diz uma coisa extremamente absurda em um tom casual.@
+`"O qu[line=3]você ligou para minha casa?"
+\
+ld c,"tachi/cel_t02",crossfade,400
+`"Sim.@ Achei que não seria correto se eu não entrasse em contato e dissesse que você ficaria aqui.@ Algum problema?"@
+`"O qu[line=4]!"@
+` Estou sem palavras
+` Isso significa que uma garota ligou para minha casa dizendo, "O Tohno-kun vai dormir na minha casa hoje"@
+` Isso é… bem[line=3]
+\
+`"[line=3]Sim, é um problema.@ Um problemão."@
+` Se foi a Akiha quem atendeu o telefone, ela vai achar que sou algum tipo de playboy.@
+` Como a família Tohno é muito severa, nem quero imaginar o que aconteceria se ela descobrisse sobre uma coisa dessas.@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Tohno-kun… você odeia tanto assim ficar na minha casa?"@
+`"Ah, não, não é isso.@ É só que… minha família é muito rigorosa.@ Não é porque não gosto de você, Senpai[line=3]"@
+` Desorientado, tento explicar o mal-entendido.
+\
+cl a,crossfade,400
+` Ela fecha os olhos com tristeza.@
+` …… Será que é porque causei a ela tantos problemas ontem?@ Sinto-me tão mal quando a vejo desse jeito.@
+`"Estou te dizendo que não é isso.@ Estou muito grato a você.@ Estou bem melhor agora, se você não tivesse me encontrado ontem, nem imagino o que teria acontecido comigo…!"
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"[line=3]Sim, tem razão.@ Parece que você voltou ao normal.@ Não sei o que aconteceu ontem, mas estou feliz que esteja melhor."@
+br
+` Subitamente, ela me presenteia com um sorriso enorme.
+\
+`"[line=4]Hã?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Estava só brincando.@ Nem mesmo eu teria coragem de ligar para a sua casa.@ Pedi para o Inui-kun ligar para lá e avisar que você passaria a noite na casa dele.@ Assim você não terá nenhum problema, certo?"@
+`"…… É, assim acho que não… mas essa piada foi muito maldosa, Senpai.@ Achei que meu coração ia parar."@
+ld c,"tachi/cel_t03",crossfade,400
+`"Eu sei, é que na verdade sou muito malvada.@ Devemos brincar com aqueles de quem gostamos, né?"@
+`"…… Hã?"@
+` [line=3]Aqueles que gostamos?@ Então quer dizer que[line=3]
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Mas você realmente deveria voltar para casa mais cedo.@ Por favor, espere um segundo."@
+cl a,crossfade,400
+` Ela começa a procurar por alguma coisa dentro das gavetas do guarda-roupa.@
+ld c,"tachi/cel_t04",crossfade,400
+`"Aqui está.@ É um presentinho para você."@
+` Ela me entrega um anel que aparenta ser muito antigo.@
+`"…… Um presentinho… por que está me dando isso, Senpai?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"É um amuleto de proteção.@ Você parece estar muito avoado, por isso quero que fique sempre com ele."@
+`"Ah… tá bom[line=3]Eu aceito qualquer coisa que me dão, mas… tudo bem.@ Vou cuidar muito bem dele."@
+` Coloco o anel no bolso.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Certo.@ Vejo você na escola."
+\
+bg #000000,lcartain,800
+playstop
+br
+` [line=3]Ela se despede de mim com um sorriso.@
+br
+` Mas este lindo sorriso, é algo que talvez nunca mais verei.@
+` A garota que matei já deve ter sido encontrada e a polícia já deve estar na mansão.@
+` …… Mas não posso fugir.@
+` A única coisa que posso fazer é agradecer à Senpai e voltar para a mansão Tohno.
+\
+bg "bg/bg_33a",lcartain,1500
+br
+br
+br
+br
+br
+br
+br
+` A mansão está do mesmo jeito de sempre.@
+!w500
+\
+ld c,"tachi/koha_t02",lshutter,400
+play "*2"
+`"Seja bem-vindo, Shiki-san."@
+` Quando entro no saguão, a Kohaku-san me recebe com um sorriso.
+\
+`"Estou de volta.@ Hum, Kohaku-san?"@
+`"Quer tomar o café da manhã?@ Vou prepará-lo rapidinho, pode aguardar na sala de estar.@ A Akiha-sama já terminou o dela."@
+cl a,lshutter,400
+` Ela vai na direção da sala de estar.@
+` …… Está tudo muito pacífico aqui.@
+` Talvez ainda não tenham encontrado o corpo.@
+`"…………"@
+` Por ora, vou para o meu quarto trocar de roupas.
+\
+bg "bg/bg_40a",lcartain,800
+` A Hisui está dentro do meu quarto quando entro.@
+ld c,"tachi/his_t01",lshutter,400
+`"[line=3]Bom dia, Shiki-sama.@ Vejo que já voltou."@
+`"Sim, acabei de chegar.@ …… Hisui, por acaso eu tenho um uniforme reserva?@ Este que estou usando está todo molhado por causa da chuva de ontem."@
+`"…… Sim.@ Vou prepará-lo imediatamente."@
+cl a,lshutter,400
+` Ela faz uma mesura e deixa o quarto silenciosamente.@
+` Depois de vestir o uniforme que ela trouxe, vou para a sala de estar.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lcartain,800
+` A Akiha está sentada no sofá com cara de decepcionada.@
+ld c,"tachi/aki_t01a",lshutter,400
+`"[line=3]Oh, bom dia, Nii-san.@ Parece que finalmente voltou."@
+` Sua voz contém espinhos, prontos para me acertar.@
+`"…… Bom dia.@ Você parece mal-humorada, Akiha."
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Sim, não sabia que você costumava passar a noite fora de casa.@ Estou mais surpresa do que com raiva."@
+` Ela me encara.@
+`"…… Humm."@
+` Realmente dormi fora de casa, então não posso argumentar.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Bem, creio que não teve outra escolha, já que não estava se sentindo bem.@ O rapaz chamado Inui-san é seu amigo da escola, correto?"@
+`"Sim… então foi ele quem te ligou."@
+` …… De repente, fico preocupado.@
+` O que será que ele disse quando ligou para cá……?
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Já que precisou sair da escola mais cedo, deveria ter me ligado para que eu mandasse um carro buscá-lo.@
+` Não sei por que é tão reservado, você é o primogênito da família Tohno, Nii-san.@ Por favor, use tudo que está à sua disposição…… O seu corpo é mais fraco do que o de uma pessoa normal."@
+`"[line=4]Ah."@
+` Ah é mesmo, ontem eu saí da escola mais cedo.
+\
+`"Você teve uma crise anêmica e desmaiou simplesmente por ter se molhado um pouco com a chuva… por acaso não está se sentindo bem, Nii-san?@ Devo chamar o médico da família para examiná-lo e, a partir de agora, providenciar um carro para levá-lo e buscá-lo na escola?"@
+`"………"@
+` Entendo.@ Então esse foi o motivo pelo qual eu supostamente fiquei na casa do Arihiko.@
+`"Não precisa se preocupar com nada, Akiha.@ Eu vou ao hospital uma vez por mês, como de costume.@ Levar-me de carro para a escola só vai estragar meu corpo ainda mais.@ Não há necessidade de se preocupar tanto assim com a minha saúde, embora eu esteja muito feliz por você estar preocupada comigo."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… Isso não é verdade.@ Não estou preocupada com você, Nii-san"@
+` Subitamente ela evita olhar para mim.
+\
+`"Shiki-san, está pronto!"@
+` Ouço a voz da Kohaku-san vindo da sala de jantar.@
+`"Certo, vou lá pegar o rango."@
+ld c,"tachi/aki_t21",crossfade,400
+`"Oh, Nii-san!@ Por favor, evite falar dessa maneira tão bruta!"@
+` Ela dispara um olhar severo na minha direção.@
+`"…… Ah, finalmente voltou ao normal.@ É assim que você deve ser, Akiha.@ Não precisa se preocupar comigo, relaxa."@
+ld c,"tachi/aki_t05a",crossfade,400
+`"[line=3]Você é tão persistente!@ Não estou preocupada com você, Nii-san"@
+` Ela desvia o olhar rapidamente.@
+` Olho para ela com um leve sorriso e vou para a sala de jantar.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_48a",lcartain,800
+ld c,"tachi/his_t01",lshutter,400
+`"Por favor, tenha cuidado."@
+` Ela diz a mesma frase de sempre e continua me encarando.@
+`"Shiki-sama, o que aconteceu com você ontem?"@
+`"…… Nada de especial.@ Eu tive uma crise anêmica e desmaiei quando começou a chover em mim.@ Vou ser mais cuidadoso de agora em diante."@
+`"Eu não estou te culpando de nada, Shiki-sama, mas parece que você está se esforçando demais hoje.@ Por favor, tome cuidado no caminho da escola."
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+` A Hisui faz uma longa mesura e se despede de mim.@
+br
+` …… Ah, poxa.@
+` Tentei agir o mais normal possível e embora eu tenha conseguido enganar a Akiha e a Kohaku-san, parece que não consegui enganar a Hisui.@
+`"…… Será que a Hisui está preocupada comigo?"@
+` É difícil dizer, já que ela parece tão desinteressada o tempo todo.@
+` De qualquer forma, hoje deve ser meu último dia de escola.@
+` Vou tentar passá-lo do mesmo jeito de sempre, assim não terei nenhum arrependimento[line=4]
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_24a",lcartain,1500
+` Não importa como me sinto, o mundo continua sempre igual.@
+` De acordo que vou me aproximando da escola, começo a ver cada vez mais estudantes uniformizados.@
+` Hoje é sábado, um dia antes do nosso descanso semanal.@
+` Meus passos hesitam quando penso que esse pode ser o meu último dia de escola.@
+br
+` Mas, tão calmo quanto possível, caminho pela rua que se tornou tão familiar nos últimos dois anos.@
+` Depois de atravessar esse cruzamento, é um caminho curto até o portão principal.
+\
+` O semáforo fica vermelho e eu paro em frente à faixa de pedestres.@
+br
+` O muro da escola está do outro lado dela.@
+` Por ser um caminho escolar, ele é protegido por uma grade de proteção.@ Os estudantes na minha frente estão indo em direção ao portão da escola.@
+` Não há ninguém além dos estudantes da nossa escola do outro lado.@
+` …… Não deveria haver ninguém além dos estudantes.@
+` Mas entre os carros apressados, sinto como se tivesse vislumbrado uma pessoa vestida de branco.
+\
+bg "event/ark_e02",lshutter,800
+`"[line=5]O qu……"@
+br
+` Ela está lá.@
+br
+` Vestida de branco, seus cabelos dourados até os ombros.@
+` Sobrancelhas finas e compridas e olhos vermelhos.@
+` Só a vi uma vez antes, mas não há como confundi-la com outra pessoa.
+\
+`"[line=6]"@
+` Mas isso é impossível.@
+` Eu a matei ontem, cortei ela em pedaços.@
+` O semáforo fica verde.@
+` Os estudantes à minha volta caminham para o outro lado.@
+` Sou o único entre eles que permanece no mesmo lugar, atordoado.
+\
+` Ela está sentada na grade de proteção, com as pernas balançando tranquilamente.
+` Como se estivesse esperando por alguém.@
+` Não sei dizer há quanto tempo ela está esperando, mas sua expressão não é ameaçadora.@
+br
+` [line=3]Por quem ela está esperando?@
+br
+` Ela se mexe inquieta, como se estivesse esperando pelo seu namorado.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Tenho um mau pressentimento sobre isso.
+\
+`"Ah[line=5]"@
+` A garota de branco olha na minha direção.@
+` Provavelmente não passa de uma coincidência.@
+br
+` Deve ser apenas uma desconhecida que se parece com ela.@ Ela deve estar esperando por uma outra pessoa.@
+` Do contrário, esse momento não deve ser nada mais do que outro sonho ruim.@
+` Afinal de contas, eu a matei completamente e absolutamente com as minhas próprias mãos[line=4]
+\
+` Mas ela está olhando na minha direção e sorrindo.@
+` Ela parece muito satisfeita por ter encontrado a pessoa que a matou, seu sorriso parece dizer: "você finalmente chegou[line=4]"
+\
+bg "bg/bg_24a",lshutter,800
+` Acenando e sorrindo, ela salta da grade de proteção.@
+` Com cabelos esvoaçantes, ela vem na minha direção.@
+`"[line=7]Não venha."@
+` Isso… é um pesadelo.@
+` O semáforo fica vermelho.
+\
+`"[line=7]Não chegue perto de mim."@
+` Ela nem parece se importar de caminhar em linha reta pela rua enquanto os carros passam.@
+br
+` Há apenas alguns metros de distância entre nós.
+\
+`"…… Eu estou dizendo para você não vir[line=4]!!!"@
+` A realidade diante dos meus olhos não muda nem quando eu grito.@
+` Gritando com uma voz que nem mesmo eu entendo, eu fujo da garota de branco.
+\
+bg "bg/bg_23a",lcartain,800
+waveloop se_02
+` Eu corro.@
+` Eu corro com todas as minhas forças.@
+` Sem me importar com qualquer constrangimento ou vergonha, saio empurrando as pessoas, correndo à toda velocidade.@
+bg #ffffff,crossfade,400
+br
+` *arf* *arf* *arf* *arf*@
+br
+` Minha respiração está descontrolada e o meu coração grita.@
+` Mas mesmo assim eu corro.@
+` Sinto que vou enlouquecer se não correr.
+\
+` Eu olho para trás.@
+` A garota de branco está vindo na minha direção.@
+` Definitivamente ela está me seguindo.@
+` A garota que matei está me perseguindo.@
+` Isso é motivo mais do que suficiente para eu fugir.
+\
+bg "bg/bg_25a",lcartain,800
+` *arf* *arf* *arf* *arf*@
+br
+` Meu coração parece estar prestes a explodir, mas ignoro isso e continuo correndo.@
+` Quando olho para trás, a garota continua lá.@
+` Com passos leves, ela me segue enquanto corro.@
+br
+` *arf* *arf* *arf* *arf*@
+br
+` Minha cabeça abaixa.@
+` Meus braços estão pesados.@
+` Minhas pernas parecem que vão se partir.@
+` Mas apesar disso,
+` estou correndo com todas as minhas forças e, mesmo assim, não consigo me afastar de alguém que está simplesmente andando atrás de mim[line=3]!
+\
+bg #000000,lcartain,800
+bg "bg/bg_30a",lcartain,800
+` *arf* *arf* *arf* *arf*@
+br
+` Minha respiração está fora de controle.@
+` Acho que já corri vários quilômetros.@
+` Mesmo assim, quando olho para trás, ela sempre está lá, andando na minha direção.
+\
+` Tranquilamente, como se estivesse passeando, ela segue logo atrás de mim.@
+` *arf* *arf* "…… Ahaha, ahahaha!"@
+br
+` Não é engraçado, mas eu começo a rir.
+\
+br
+`"Ahaha, ahahaha, ahahahahahaha!"@
+br
+` Não consigo parar de rir.@
+` Mas não paro de correr.@ Meu corpo reclama, dizendo que vou morrer se correr mais, mas eu continuo correndo.@
+` O motivo é simples.@
+` Se ela me alcançar, vai me matar.@
+` Eu me pergunto no que estou me baseando para pensar isso e tento me livrar dessa ideia.@ Mas mesmo que tente me consolar, eu sou quem sabe melhor que isso é verdade.@
+br
+` Não há motivo, nem base, nem evidência.@
+` É fato que se ela me alcançar, vou ser morto[line=5]
+\
+bg "bg/bg_31a",lcartain,800
+wave se_05
+quakey 3,100
+`"Ah[line=3]!"@
+` Caio no chão de forma patética.@
+` Eu caio para frente, não por ter tropeçado, mas pelo simples fato de não aguentar dar nem mais um passo.@
+`"Guh[line=3]ha, aah."@
+` Caído no chão, morto de cansaço, ainda consigo me arrastar até a parede.
+\
+`"[line=4]"@
+` Eu tento me apoiar na parede, mas não consigo.@
+` Meus joelhos perdem as forças quando tento levantar e caio de volta no chão.@
+` Meu corpo não vai se mexer mais.@
+br
+` *arf* *arf* *arf*@
+br
+` Olho para cima enquanto ofego.
+\
+` [line=4]Que dor!@
+` Não tenho oxigênio suficiente.@
+` Não consigo pensar direito por causa disso.@
+` Nem consigo mais dizer o que estou fazendo.@
+` Não sei por que estou fazendo isso.
+\
+` Por quê?@ Por quê?@ Eu nem sei por que a garota que matei está viva.@
+` Sem dúvidas, eu a matei completamente e absolutamente da forma mais definitiva que se possa imaginar.@
+` Então, por quê?@
+` Como ela poderia estar me esperando na frente da minha escola, sorrindo[line=2]?
+\
+`"…… Eu tenho certeza de que matei ela."@
+br
+` [line=3]Tenho sim.@
+` Eu tenho certeza de que matei ela.@
+!w500
+` Eu tenho certeza de que matei ela.@
+!w500
+` Eu tenho certeza de que matei ela.@
+!w500
+` EU TENHO CERTEZA DE QUE MATEI ELA, ENTÃO
+!w500
+br
+` Por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por que por quê[line=5]!?
+\
+ld c,"tachi/ark_t03",lshutter,400
+wavestop
+`"Hum?@ A perseguição já terminou?"@
+` Com passos leves, ela entra no beco, encolhendo os ombros decepcionada.
+\
+`"Olá.@ Você me causou alguns problemas ontem."@
+ld c,"tachi/ark_t01a",crossfade,400
+play "*9"
+` Com um sorriso caloroso, ela entra no beco.@
+` [line=4]Eu tenho que fugir.@
+br
+` Pensando assim, eu recuo, apenas para bater a cabeça contra uma parede de concreto.@
+br
+`"A perseguição já acabou, né?@ Afinal de contas, este é um beco sem saída.@ Não precisa se preocupar, ninguém vai vir aqui nos atrapalhar."@
+` Ela sorri, parecendo muito feliz.@
+cl c,crossfade,400
+` Entrando em pânico, olho ao meu redor.@
+` Um beco isolado.@ Estou enojado com a minha estupidez.@
+` Correr para cá, foi o mesmo que pedir a ela para me matar.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Já faz bastante tempo.@ Dezoito horas desde então, finalmente te encontrei."@
+` Ela dá mais um passo para dentro do beco.@
+br
+`"V-você[line=4]!"@
+`"O quê?"@
+`"Eu definitivamente[line=4]"@
+`"Sim.@ Sou a garota que você matou ontem.@ Fico feliz que se lembre."@
+`"Iss[line=3]"@
+` Não pode ser verdade.@ Não há como isso acontecer…
+\
+`"Não seja ridícula!@ Pessoas mortas não podem estar vivas!"@
+`"É verdade, mas não precisa ficar tão assustado assim.@ Eu apenas revivi, só isso."@
+` Com essa resposta curta, ela dá mais um passo.@
+br
+` A distância entre nós está diminuindo gradualmente.
+\
+`"…… Re… viveu?"@
+` Atordoado, eu devolvo a frase para ela.@
+` Reviveu… quer dizer que algum médico salvou ela com alguma cirurgia…?
+\
+`"[line=3]Não seja ridícula!@ É impossível um ser humano ser revivido depois de ser cortado daquela forma[line=3]!"@
+`"Verdade.@ Mas eu não sou humana."@
+`"[line=5]Hein?"@
+` Suas palavras são tão simples que não tem como interpretá-las de outra forma.@
+br
+` Eu não sou humana.@
+br
+` Foi isso que a garota que está na minha frente disse.
+\
+`"…… Você não é humana…?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Nossa, isso não é óbvio?@ Você acha que existe um ser humano por aí que consegue reviver depois de ser despedaçado?"@
+cl c,crossfade,400
+`"[line=7]"@
+` É impossível existir um ser humano assim.@
+` Algo assim seria apenas um monstro que se parece com um ser humano.@
+br
+` Alguém que revive depois de ser morto.@
+` Alguém para o qual a morte é irrelevante.@
+` Alguém que rapidamente volta ao normal e começa a se mexer mesmo depois de ser despedaçado, não é alguém que possa se chamar de humano.
+\
+`"Sem… chance."@
+` E esse alguém parece ser a garota que está diante dos meus olhos.@
+` Eu tento rir, mas minha garganta está tão seca que não consigo.
+\
+`"…… Mas que merda é essa?"@
+` Não é uma piada engraçada.@
+` Há muitas coisas nessa história que não têm graça.@
+` Porque definitivamente…
+` Se ela não é humana, isso explica o motivo de estar viva mesmo depois de ser morta.@
+br
+` [line=3]Começo a me acalmar.@
+br
+` Estou em uma situação onde devo observar todos os fatos e pensar com muita calma.
+\
+`"…… Você disse que não é humana.@ Então o que você é?"@
+`"Eu?@ Eu sou uma vampira.@ Para colocar em seus termos, sou um monstro que vive de sangue humano."@
+ld c,"tachi/ark_t01a",crossfade,400
+` …… Ah, isso é bom.@
+` Pelo menos "Vampira" é algo que eu posso entender facilmente.
+\
+`"Entendi.@ Você é uma vampira[line=3]"@
+` Ela sorri satisfeita, indicando seu consentimento.@
+` …… Que resposta maluca.@
+` Eu achava que vampiros não podiam andar por aí durante o dia, mas acho que é uma questão trivial agora.@
+`"…… Então, o que você quer de mim, vampira?"@
+` Por alguma razão, ela recua como se estivesse surpresa.@
+ld c,"tachi/ark_t12",crossfade,400
+` Depois de um tempo, ela coloca as mãos na cintura e me olha irritada.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Você se esqueceu do que fez comigo ontem?@ Sem nem me conhecer, você me despedaçou no momento em que nos encontramos.@ Você deve estar bem acostumado com isso para me perguntar o que quero com você agora."@
+` Ela parece mais revoltada do que nervosa.@
+` Mas nesse momento, é assim que me sinto também.@
+` Porque a pessoa que matei veio reclamar comigo por eu a ter matado.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Ei!@ Está me ouvindo, assassino?"@
+`"…… Sim, estou ouvindo.@ Desculpa, mas será que você poderia calar a boca por um minuto?@ Estou refletindo sobre o azar absurdo que eu tenho."@
+cl c,crossfade,400
+br
+` [line=3]Poxa.@ Eu sou muito azarado mesmo.@
+` Havia uma garota que eu queria matar sem motivo algum, e a matei por puro impulso.@
+br
+` Eu agonizei por isso em um desespero profundo… e mesmo que tenha decidido expiar meu pecado, a garota que matei aparece do nada e me diz que não é humana.
+\

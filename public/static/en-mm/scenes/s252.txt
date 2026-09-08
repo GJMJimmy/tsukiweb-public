@@ -1,0 +1,38 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` I don't feel like returning to the mansion directly, so I'll wander around the city for a bit.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25a",lcartain,800
+` [line=3]I arrive in front of the station for no apparent reason.@
+br
+` Ever since I was invited back to live in the Tohno mansion, I've been low on money, so I really don't want to spend any money here.
+\
+` When I lived at the Arimas', Keiko-san would always give me some money for cleaning or tending the garden…… but now that I'm at the mansion, I don't think I can hope for that kind of income.@
+` I'd like to do a part time job, but Akiha would never allow it.
+\
+` ……………… *sigh*@
+` Reflecting on my complicated situation, I let out a sigh.
+\
+bg #000000,lshutter,800
+bg "bg/bg_25a",lshutter,800
+` Not doing anything, I watch the people passing by.@
+` I pass the time like that for an hour until I realize how pointless it is.
+\
+`"…… What the heck am I doing?"@
+` I don't know for sure myself.@
+` Was I thinking that I would see someone with golden hair walking by if I watched all these people?
+\
+`"…… How stupid.@ You'll never see Arcueid again, Shiki."@
+` I stop leaning on the wall and head back to the mansion.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_32b",lcartain,1500
+` I walk up the road and back to the mansion.@
+` It's not quite six o'clock yet.@
+` There's still an hour until dinner, so I'll kill some time in my room[line=3]
+\
+bg #000000,lcartain,800
+!w1000

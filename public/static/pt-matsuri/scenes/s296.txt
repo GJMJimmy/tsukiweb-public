@@ -1,0 +1,30 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_27b",notrans,0
+`"[line=6]"@
+br
+` …… Eu não posso fazer isso.@
+` Não quero que ela me veja desse jeito… como um assassino.@
+` Ninguém pode me salvar.@
+` Não posso pedir a ajuda de ninguém.
+\
+` Esse impulso.@ Só há uma forma de eliminar o "Roa" dentro de mim.@
+` Pode ser igual aconteceu com o seu hospedeiro anterior, a garota que vi naquele sonho bizarro.@
+` Posso ser morto pela princesa vampira ou[line=4]para que não haja mais vítimas, eu mesmo posso acabar com isso.
+\
+`"[line=3]Kk."@
+` …… Não, ainda não.@
+` Ainda tem um pouquinho de mim aqui dentro.@
+` Eu ainda não matei ninguém.@
+` Então[line=3]talvez haja uma forma.@
+` Eu não quero morrer aqui.@
+` O vampiro que assombrava a cidade se foi.@
+` E a Senpai continua aqui.@
+` Fiquei muito feliz com isso, foi como um sonho se realizando.@
+` Por isso[line=3]ainda não posso acordar desse sonho.
+\
+` Enquanto eu estiver vivo.@
+` Enquanto ainda existir um pedaço de mim aqui dentro, vou procurar por uma maneira de lidar com esse monstro dentro de mim[line=3]
+\
+bg #000000,lshutter,800

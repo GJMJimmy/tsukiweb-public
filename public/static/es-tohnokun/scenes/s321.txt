@@ -1,0 +1,52 @@
+playstop
+wavestop
+bg "bg/bg_34a",tcartain,800
+play "*3"
+ld c,"tachi/koha_t03",crossfade,400
+`"Bien, entonces brindemos por el regreso a casa de Shiki-san.@ Todos, por favor tomen lo que deseen beber."@
+` Kohaku alínea bebidas frente a nosotros, con una gran sonrisa completamente libre de malicia.@
+cl a,crossfade,400
+` La mayoría de las bebidas no resultaron ser jugo ni nada parecido, sino auténticas bebidas alcohólicas.
+\
+`"…… ¿Uh, Akiha?"@
+ld c,"tachi/aki_t04b",crossfade,400
+`"¿Hm?@ ¿Qué sucede, Nii-san?"@
+` …… Hay un gorgoteo cuando Akiha llena su vaso con un líquido leonado, y entonces añade un poco de jugo de naranja.@
+`"¿E… eso no será whiskey, o sí?"@
+`"Lo es.@ ¿Hay algún problema?"@
+`"¿'Lo es' …?@ Akiha…"@
+` Um, ¿no somos todos muy jóvenes para beber licor…?
+\
+ld c,"tachi/aki_t08b",crossfade,400
+`"Es tu fiesta de bienvenida.@ Necesitamos alcohol, ¿no?@
+` ¿O… Nii-san, eres débil cuando se trata de beber alcohol?"@
+` Akiha parece… encantada por alguna razón.
+\
+cl a,crossfade,400
+ld l,"tachi/koha_t01a",crossfade,400
+`"Ah, Hisui-chan.@ Eso es inusual, ¿hoy no beberás jugo?"@
+ld r,"tachi/his_t20",crossfade,400
+`"…………………"@
+` Pareciendo un poco apenada, Hisui vierte vino en su vaso silenciosamente.
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t04b",crossfade,400
+`"¿Ves, Nii-san?@ Hasta Hisui está bebiendo.@ ¿De seguro no pretenderás ser el único bebiendo jugo?"@
+`"………… Cielos.@ En verdad quieres sacarle el máximo provecho a esta fiesta, ¿cierto, Akiha?"@
+ld c,"tachi/aki_t08b",crossfade,400
+`"Sí.@ Normalmente no me agradan las fiestas, pero hoy es una excepción."@
+cl a,crossfade,400
+br
+` [line=4]Huh.@
+` Bueno, no se puede evitar.@ Mucho alcohol no es bueno para mi cuerpo, pero un poquito debería estar bien.@
+` La bebida menos fuerte sobre la mesa es[line=3]el vino, supongo.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Bien entonces, todos, levanten sus vasos, por favor.@
+` ¡Salud!"@
+br
+` Con un tintineo, nuestros vasos chocan.@ Kohaku acaba el suyo de un solo trago, Akiha se toma su tiempo, y Hisui sorbe del suyo silenciosamente.@
+br
+` …… Oh rayos, no me haré responsable por esto.
+\
+bg #000000,lshutter,1500

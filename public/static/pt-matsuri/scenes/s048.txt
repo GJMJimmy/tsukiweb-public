@@ -1,0 +1,74 @@
+playstop
+waveloop se_11
+bg "bg/bg_40d",notrans,0
+` Os uivos continuam.@
+` Como vou dormir desse jeito?@
+` …… É impossível.@
+`"…… Estou morto de sono, não vou levantar."@
+` Puxo os lençóis para me cobrir e estico o corpo.@
+` É só imaginar que esses uivos fazem parte do ambiente, como carros passando na rua.
+\
+` *suspiro*@
+` Hoje foi um dia muito longo.@
+` Estou mentalmente cansado do jantar nesta mansão estranha e das minhas conversas com a Akiha e as outras garotas.@ Depois de tudo que passei hoje, esses uivos não são nada.@
+` Fecho os olhos e vou adormecendo devagarzinho.
+\
+bg #000000,crossfade,800
+!w3000
+wave se_09
+bg "bg/bg_40d",crossfade,400
+`"[line=3]Nng."@
+` Acho que ouvi alguma coisa.@
+` Meio acordado, olho para o relógio.@ É pouco mais de duas da manhã.@
+` …… Tem cerca de duas horas desde que ouvi aqueles cachorros uivando.@
+` Os uivos já pararam.@
+` A mansão está em silêncio total, ouço até o tique-taque do relógio de tão silencioso que está.
+\
+wave se_08
+`"[line=6]?"@
+` Eu ouvi de novo.@
+` …… Veio de dentro da mansão… do saguão?@
+`"[line=5]Será que é um ladrão?"@
+` Não é impossível que seja.@
+` Tem muita coisa valiosa nesta mansão.@ Além disso, não é muito seguro agora que não tem muita gente morando aqui.@
+`"……"@
+` Levanto da cama e saio do quarto em silêncio.
+\
+bg #000000,lcartain,800
+play "*6"
+bg "bg/bg_46c",lcartain,800
+` Se for um ladrão, a Akiha e as garotas vão estar correndo perigo, não posso ficar sem fazer nada.@
+` Vou só dar uma olhada no saguão daqui do segundo andar mesmo; não devo correr tanto perigo fazendo isso.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+` Não há nada de errado lá.@
+wave se_08
+`"…… !"@
+` Espera, tem alguém lá.@
+` A pessoa que entra pela porta da frente e passa pelo saguão cambaleando, é a[line=3]
+br
+ld c,"tachi/aki_t19b",crossfade,800
+cl a,crossfade,800
+`"Aki… ha?"@
+` Ela não está indo para o próprio quarto no segundo andar, está indo para a asa oeste do primeiro andar.@
+` Lá só tem o quarto do meu pai e o da Kohaku-san.
+\
+`"…… O que ela está fazendo a essa hora da noite?"@
+` Posso murmurar o quanto quiser, ninguém vai me responder o que está acontecendo.@
+` Depois de ficar olhando para o saguão por alguns minutos, resolvo voltar para o meu quarto.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_40d",lcartain,800
+` …… Bem, provavelmente ela tinha alguma coisa para fazer, ou simplesmente foi falar com a Kohaku-san.@
+` Eu me sinto mal por ficar bisbilhotando e também não quero ficar perguntando sobre tudo que ela faz.@
+`"…… Tenho que dormir, tenho que dormir.@ Amanhã tem aula."@
+` Eu me jogo na cama e fecho os olhos.@
+br
+bg #000000,crossfade,800
+` [line=3]Conforme o sono vem chegando,
+br
+` meus pensamentos ficam voltando para a imagem da Akiha de olhos vazios cambaleando pelo saguão… alguma coisa parecia estar errada.
+\
+!w3000

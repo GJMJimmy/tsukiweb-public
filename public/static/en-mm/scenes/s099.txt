@@ -1,0 +1,37 @@
+monocro off
+playstop
+waveloop se_02
+bg "bg/bg_29c",notrans,0
+` …… No, it's too early.@
+` Nrvnqsr just arrived.@
+` A little more[line=3]until his attention is focused more on Arcueid, I can't launch a surprise attack.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Don't get it wrong, Nrvnqsr.@ The Ancestors of the Dead Apostles are not a group of twenty-seven, but of twenty-eight.@ You do not recognize 'The Serpent' as one of your own?"@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Of course.@ His ideals differ from ours.@ He is a vampire, but he does not hold to the meaning of being a vampire.@ Consequently, we do not accept him as one of us."
+\
+ld c,"tachi/nero_t02c",crossfade,400
+`"[line=4]But, we are old friends.@ I believe I understand him more than the other Dead Apostles."@
+cl c,crossfade,400
+ld c,"tachi/ark_t07",crossfade,400
+`"…… I see.@ Come to think of it, you are like 'The Serpent' as well, as you are unlike the other vampires too.@ Since you are both heretics, you must share common interests."
+\
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Wrong.@ Heresy is isolated therefore it is heresy.@ Just because we both are separated from the flock doesn't mean we comprehend one another."@
+cl c,crossfade,400
+ld c,"tachi/ark_t07",crossfade,400
+`"Really?@ Coming as far as this country to pursue me, I think you guys are similar."@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Do not be ridiculous.@ You are the capricious one.@
+` Your purpose is to execute Dead Apostles, so why do you persistently pursue the Serpent of Akasha?@ The 'Serpent's' poison is not something the Princess of the True Ancestors should be persistent about."
+\
+cl c,crossfade,400
+` …… Nrvnqsr's voice gets slightly louder.@
+` Arcueid's taunting must be working.@ Nrvnqsr is looking only at his enemy Arcueid.@
+br
+` [line=3]What do I do now?
+\

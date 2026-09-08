@@ -1,0 +1,36 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` Senpai no puede estar enojada por algo aparte del incidente de esta mañana.@
+` …… Senpai no parecía enfadada esta mañana, pero si está enfadada, probablemente no debería ir a verla.
+\
+`"…… Sí, tal vez debería ir a la cafetería hoy."@
+`"Sí, haz eso.@ Vamos, apresúrate.@ Sólo hay suficiente espacio para la mitad de las personas que usan la cafetería."@
+` Arihiko me toma del brazo y me arrastra.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Me siento junto a Arihiko y como mi almuerzo.@
+` La cafetería de mi escuela tiene una televisión, y ya sea bueno o malo para nuestra educación, se reproducen las noticias matutinas que fueron grabadas esta mañana.@
+` En todo caso, las noticias que están mostrando hablan sobre un cliente borracho que apuñaló a muerte a un empleado de una tienda de comida rápida, algo que me hace no desear ir a una tienda de comida rápida al menos por unos días.
+\
+ld c,"tachi/ari_t04",crossfade,400
+`"En qué mundo tan peligroso vivimos.@ Indiscriminados asesinos en serie, gente borracha apuñalando gente.@ Un hombre ya ni siquiera puede sentirse seguro vagando durante la noche."@
+` Arihiko parece estar viendo seriamente las noticias.
+\
+`"…… Bueno, ciertamente es peligroso.@ Pero al menos esos asesinatos en serie no volverán a ocurrir,  así que las cosas deberían ser somo siempre."@
+`"¿Oh en serio?@ ¿Capturaron al asesino en serie?"@
+`"No, no lo han capturado…"@
+br
+` [line=3]Pero Nrvnqsr ya no está en este mundo.@
+br
+` Así que el estúpido titular de las matanzas del vampiro moderno ya no debería aparecer en las noticias y no habrá más de esos asesinatos sin sentido.
+\
+`"En fin, esos terribles incidentes no seguirán ocurriendo; no habrá más víctimas, y las calles volverán a la normalidad."@
+`"Hmmmh, no lo sabía.@ Supongo que debería ver las noticias más a menudo."@
+` Poniendo una cara forzada, Arihiko ve las noticias seriamente.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

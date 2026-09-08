@@ -1,0 +1,65 @@
+monocro off
+wavestop
+play "*3"
+bg "bg/bg_19b",lcartain,800
+ld c,"tachi/ark_t01a",lshutter,800
+`"É um quarto muito bom.@ Não vejo problemas em passar a noite aqui."@
+` Ela dá uma vasculhada no quarto.@
+`"[line=5]"@
+` Por enquanto não tenho mais nada a dizer.
+\
+`"Provavelmente meu apartamento já foi descoberto, por isso vamos nos esconder aqui essa noite.@ Ah, não precisa se preocupar com dinheiro.@ Sou rica, então é por minha conta."@
+` Falando com entusiasmo, ela fecha as cortinas.@
+` Ela também apaga as luzes e o quarto se torna escuro como a noite.
+\
+` Eu suspiro.@
+`"…… No que você está pensando, Arcueid?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Em um monte de coisas."@
+`"Não, não foi isso que eu quis perguntar[line=3]"@
+br
+` Queria saber o motivo de ter alugado um quarto em um hotel cinco estrelas ao invés de um barato[line=2]e por que alugou o último andar inteiro!?
+\
+`"………"@
+` Tento dizer isso, mas paro.@
+` No momento, meu trabalho é proteger esta suposta vampira e nada mais.@ Não vou perder tempo com perguntas inúteis.@
+`"[line=3]Não, esquece.@ Faça o que achar melhor."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Você é esquisito, Shiki, de repente ficou com raiva e depois ficou quieto assim.@ Não consigo te entender."@
+` Ela deita na cama sorrindo, como se estivesse se divertindo.
+\
+`"Vou dormir até o sol se pôr.@ É melhor você descansar enquanto pode.@
+` Vampiros não saem durante o dia, seu trabalho de verdade começa ao anoitecer."@
+`"…… Você percebe que isso que acabou de dizer contradiz totalmente a sua existência?"@
+`"Ah, para mim não tem problema[line=3]bem, acho que estou quase no meu limite.@ Boa noite, Shiki.@ Acorde-me quando o sol se pôr."@
+cl c,lshutter,800
+`"E[line=2]ei!"@
+`"[line=7]"@
+` Como uma máquina que teve a energia cortada, a Arcueid dorme de repente.
+\
+`"Ha[line=5]"@
+` Ela está tão… indefesa.@
+`"…… Se eu quisesse, poderia fugir agora."@
+` Afinal de contas, ela me forçou a acompanhá-la.@ Eu poderia fugir facilmente.@
+` …… Não sinto mais aquele impulso, mas…
+br
+`"Eu já te matei uma vez…"@
+br
+` Como ela consegue dormir tão facilmente sabendo disso?@
+`"………"@
+` Olho seu rosto enquanto ela dorme.@
+` …… Seu peito volumoso sobe e desce.@ Parece que está respirando.@
+` Mas seu corpo não está se mexendo.@
+` É como se o tempo ao seu redor tivesse parado.@ Está tudo tão tranquilo que até eu poderia dormir.@
+br
+` [line=4]Que sono calmo.@
+br
+` Ela está totalmente indefesa, parece que tem total confiança em mim, mesmo que tenhamos acabado de nos conhecer.
+\
+`"[line=3]Ela é muito idiota."@
+` …… Ela é tão sincera que talvez eu comece a me preocupar.@
+` Mas deixando isso de lado, esse é um ponto decisivo.@
+` Esse pode ser um caminho sem volta para Tohno Shiki.@
+` Eu[line=4]
+\
+playstop

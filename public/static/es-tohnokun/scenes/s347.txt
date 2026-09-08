@@ -1,0 +1,157 @@
+play "*3"
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+` [line=4]Y allí,
+ld r,"tachi/ari_t01",crossfade,400
+`"Hola, Tohno.@ Llegas tarde."@
+ld l,"tachi/aki_t13a",crossfade,400
+`"Ciertamente; has llegado tarde, Nii-san."@
+cl a,crossfade,400
+br
+` [line=3]Por alguna razón, parece que Arihiko ha venido al patio antes que yo, y le estaba haciendo compañía a Akiha.
+\
+`"…… Me preguntaba dónde habías estado toda la mañana, Arihiko.@ Supongo que estabas aquí."@
+ld c,"tachi/ari_t05",crossfade,400
+`"¡Oh!@ ¡Sabía que valdría la pena esperar aquí después de la cuarta hora!"@
+` Arihiko alardea, inflando su pecho.@
+` …… Si está tan feliz, supongo que no puedo quejarme.
+\
+cl a,crossfade,400
+`"Entonces, Akiha.@ ¿Qué haremos hoy?@ ¿Hiciste que Kohaku-san te preparase un caja de almuerzo?"@
+ld c,"tachi/aki_t13a",crossfade,400
+`"¿Eh?@ …… ¿una 'caja de almuerzo'…?"@
+`"…… Olvídalo.@ No debí haber preguntado una cosa tan común."@
+cl a,crossfade,400
+` Le ofrezco el mejor pedazo del pan que traje y una merengada de fresa.
+\
+`"Aquí tienes tu almuerzo de hoy.@ Es mejor que el de ayer, así que puedes comer con comodidad."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… De acuerdo."@
+` Akiha acepta tímidamente el pan y la merengada.@
+` …… Me pregunto con nerviosismo si Akiha alguna vez se acostumbrará a almorzar en nuestra escuela.
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t05",crossfade,400
+`"¡Ah, excelente!@ Oye, Tohno ¿nada para mí?"@
+`"…… Bueno, sí, por alguna razón hay algo."@
+` Le entrego una salchicha empanada y una bebida apropiada.@
+ld c,"tachi/ari_t03",crossfade,400
+`"¡Oye, qué es esto!@ ¿'Jugo de Karela'?@ ¡Esto ni siquiera es apto para los animales!"@
+`"No tuve opción, era lo único que quedaba.@ Bueno, habían algunos Ligados de Cactus, pero eso no es a lo que llamarías una bebida."
+\
+`"…… Muh.@ Supongo que aún tienes un poco de compasión, Tohno."@
+`"Tengo mucha para cualquiera que no seas tú.@ Ahora estamos a mano por lo de ayer."@
+cl a,crossfade,400
+` Aunque chasquea su lengua con irritación, Arihiko mete la pajilla en su bebida felizmente.@
+`"También traje una servilleta para ti, Akiha…"@
+ld c,"tachi/aki_t15a",crossfade,400
+cl a,crossfade,800
+`"¡…!"@
+` Qué, qué conmoción.@
+` ¿Por qué Akiha pone semejante cara?@
+`"¿Qué, qué ocurre, Akiha?@ ¿Te cayó un insecto encima?"@
+ld l,"tachi/aki_t16a",crossfade,400
+`"…… No es nada.@ Sólo pensé que Nii-san e Inui-san parecen ser muy cercanos."
+\
+ld r,"tachi/ari_t02",crossfade,400
+`"¡Jajaja!@ Akiha-chan, nos estás dando mucho crédito.@ ¡Tohno y yo somos mejores amigos y amargos enemigos, así que puedes llamarnos camaradas!"@
+ld l,"tachi/aki_t21",crossfade,400
+` Arihiko ríe felizmente, y Akiha me mira como si quisiera decir algo.@
+cl a,crossfade,400
+br
+` [line=4]Y entonces.@
+br
+ld c,"tachi/cel_t03",lshutter,800
+`"Ah, ¿aquí era dónde estaban?"@
+` Con una caja de almuerzo en su mano, aparece Senpai.
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t05",crossfade,400
+`"¡Ah, es Ciel-senpai!@ Es nuestro día de suerte, ¿verdad, Tohno?"@
+`"……"@
+cl a,crossfade,400
+` …… Lo siento, Arihiko, pero no puedo sentirme complacido tan fácilmente.@
+` Porque[line=3]
+ld c,"tachi/aki_t10",lshutter,800
+br
+` Akiha tiene una expresión aterradora en este momento.
+\
+cl a,crossfade,400
+ld r,"tachi/cel_t03",crossfade,400
+`"¿Puedo unirme a ustedes?"@
+` Arihiko asiente con entusiasmo.@
+` Yo tampoco tengo ningún problema, pero[line=3]
+ld l,"tachi/aki_t03a",crossfade,400
+`"No."@
+` Por alguna razón, Akiha rehúsa directamente.
+\
+cl a,crossfade,400
+` El aire en el patio es frío.@
+` No es que vaya a hacer calor en octubre, pero aun así es bastante frío.@
+` Arihiko, quien hasta ahora sólo conocía a la Akiha refinada, se queda boquiabierto.@
+`"…… Ahh."@
+` Bueno, como hermano mayor, sería malo no responder a lo que Akiha acaba de decir.
+\
+`"¿De qué estás hablando, Akiha?@ Eso fue grosero, aun para una broma."@
+ld l,"tachi/aki_t11a",crossfade,400
+`"Nii-san, no estoy bromeando.@ Lo que dije es en serio."@
+`"¿Qué[line=3]qué estás diciendo!@ ¡Acabas de conocer a Senpai!@ No hay razón para que te desagrade, ¿¡entonces por qué…!?"@
+ld l,"tachi/aki_t06",crossfade,400
+`"No me gusta lo que no me gusta.@ Ella y yo somos totalmente incompatibles.@
+ld l,"tachi/aki_t18a",crossfade,400
+` Sientes lo mismo, ¿no?@ Sabes que no hay manera de que podamos llevarnos bien, ¿cierto, Senpai?"
+\
+ld r,"tachi/cel_t04",crossfade,400
+`"No, no, en absoluto.@ Ciertamente parece que somos incompatibles, pero creo que puedo controlarme de alguna forma."@
+`""[line=3]Erk.""@
+` Arihiko y yo retrocedemos.@
+` …… Asombroso.@
+` Que Akiha esté buscando una pelea es asombroso, y que Senpai la rechace con una sonrisa también lo es.
+\
+ld l,"tachi/aki_t03a",crossfade,400
+`"Hm.@ Entonces, ¿sugieres que simplemente creemos un equilibrio como opuestos?"@
+ld r,"tachi/cel_t12",crossfade,400
+`"En pocas palabras, sí.@ Mi interés no es estar contigo, Akiha-san, sino con Tohno-kun e Inui-kun."@
+cl a,crossfade,400
+br
+` Saltan chispas entre ambas.@
+` Es como un duelo entre un dragón y un tigre, como solía decirse.
+\
+bg #000000,lshutter,400
+bg "bg/bg_04",rshutter,400
+` …… Finalmente, con las supuestamente incompatibles Ciel-senpai y Akiha, comienza el almuerzo.@
+ld c,"tachi/cel_t03",crossfade,400
+`"Pero, no sabía que Tohno-kun tenía una hermana casi de su edad.@ Siempre pensé que Tohno-kun era hijo único."@
+`"…… ¿Huh?@ ¿Nunca mencioné que tenía una hermana menor?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Sí, escuché sobre una hermana pequeña que vivía sola en la mansión Tohno."@
+cl a,crossfade,400
+` ¿…?@
+` ¿Qué, entonces ella ya sabía sobre Akiha?
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"Yo tampoco sabía que los amigos de Nii-san eran como tú.@ ¿Cuándo te uniste a esta escuela, Ciel-senpai?"@
+ld r,"tachi/ari_t01",crossfade,400
+`"¿Mm?@ Akiha-chan, Senpai ha estado aquí tres años.@ Es una pena que se gradúe este año."@
+ld l,"tachi/aki_t04a",crossfade,400
+`"¿En serio?@ No parece acostumbrada al uniforme escolar, por eso pensé que podría haberse transferido de otra escuela, como yo."
+\
+ld r,"tachi/cel_t04",crossfade,400
+`"Ah, sí… en realidad quería usar un uniforme como el de Akiha-san.@ Akiha-san, ¿ése es el uniforme de tu escuela anterior?"@
+ld l,"tachi/aki_t01a",crossfade,400
+`"Sí.@ Ya que el uniforme de aquí no es de mi agrado, uso el uniforme de mi vieja escuela."@
+br
+` Akiha dice algo muy ofensivo relajadamente.@
+` …… Ya veo.@ Asumí que su uniforme aún no había sido confeccionado, pero parece que nunca tuvo la intención de usar el uniforme de nuestra escuela.
+\
+ld r,"tachi/cel_t03",crossfade,400
+`"Ahh.@ Bueno, creo que se ajusta bien a tu nivel de actividad.@ ¿Tú qué opinas, Tohno-kun?"@
+`"¿Eh?@ ¿Uh, sobre qué?"@
+ld r,"tachi/cel_t01a",crossfade,400
+`"Sobre el uniforme de Akiha-san.@ ¿Cuál le queda mejor?"@
+`"…… Cuál le queda mejor, eh…"@
+br
+cl a,crossfade,400
+` Yo diría[line=3]
+\

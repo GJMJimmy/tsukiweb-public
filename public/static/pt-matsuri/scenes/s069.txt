@@ -1,0 +1,199 @@
+phase "bg/bg_20a",r,ark,03a,3
+bg #ffffff,crossfade,400
+!w1000
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` [line=3]Quando acordo, já é de manhã.@
+` Talvez a chuva tenha parado; já não a ouço mais.@
+` Parece que o céu está nublado.@ A luz do sol que atravessa a janela está bem fraca.@
+br
+`"Ha[line=4]ah."@
+br
+` Respirando bem fundo, eu levanto da cama.@
+` …… Eu não dormi bem essa noite.@
+` Sempre que estava prestes a dormir, aquela cena se repetia na minha cabeça e não me deixava dormir.
+\
+`"…… Aquele chão vermelho e os membros espalhados por todos os lados…"@
+` A razão e a memória são uma merda nesses momentos.@
+` Elas me forçam a lembrar das coisas que eu só quero esquecer.
+\
+`"Foi só um sonho[line=3]por que estou tão incomodado com isso?"@
+` …… Sim.@ Foi só um sonho.@
+` Eu deveria esquecer isso logo.@
+br
+` Toc toc.@
+br
+` Alguém bate na porta.@
+` É pouco mais de seis da manhã.@
+` …… Quem poderia ser tão cedo assim?
+\
+ld c,"tachi/his_t01",lshutter,400
+`"[line=3]Com licença."@
+ld c,"tachi/his_t04",crossfade,400
+`"Shiki[line=3]sama, você está acordado?"@
+`"Sim, estive dormindo desde ontem à tarde, por isso acordei cedo.@ Então, algum problema, Hisui?@ O que está fazendo aqui a essa hora da manhã?"
+\
+ld c,"tachi/his_t05",crossfade,400
+`"…………"@
+` Ela fica em silêncio.@
+` Agora que estou dando uma boa olhada, percebo que ela está com o meu uniforme nas mãos.@
+`"Ah, entendi.@ Você veio trazer meu uniforme."@
+`"…… Sim.@ Desculpe-me.@ Eu lhe mostrei algo que você não queria ver."@
+`"?"@
+` Ela continua em silêncio.@
+` …… O que é que eu não queria ver?@ Eu não entendi.
+\
+`"…… Eu não entendi, mas obrigado assim mesmo.@ Pode deixar o uniforme aí.@ Já vou me trocar e ir para a sala de estar."@
+` Ela concorda fazendo um gesto com a cabeça.@
+`"Muito bem.@ Com licença."@
+cl c,lshutter,800
+\
+` Ela começa a sair silenciosamente, mas de repente se vira para mim.@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama.@ …… Hum… se você tiver tempo sobrando, eu posso preparar um banho para você."@
+`"…… Um banho?@ De manhã?"@
+`"Sim.@ Você está muito sujo, Shiki-sama.@ Não seria melhor tomar um banho antes de ir para a escola?"@
+` Ela me faz essa pergunta com sua habitual falta de expressão e com um tom de voz desinteressado.
+\
+` …… Agora que ela tocou no assunto, estou sujo mesmo.@
+` Ontem eu desmaiei por causa da anemia lá no parque.@ Então não é surpresa eu estar tão sujo assim.@
+br
+`"[line=3]Tudo bem, você poderia fazer isso para mim?@ Ainda é muito cedo, eu tenho tempo para tomar banho."@
+`"Entendido.@ Pode ir para o banheiro daqui a vinte minutos."
+\
+cl c,crossfade,800
+` Ela deixa meu uniforme e sai do quarto.@
+br
+` É pouco mais de seis da manhã.@
+` Como não tenho nada para fazer, gasto esses vinte minutos no quarto mesmo, olhando para o teto.
+\
+bg #000000,crossfade,800
+` Eu entro no banheiro e derramo água sobre a minha cabeça, o que me deixa um pouco revigorado.@ Respiro fundo enquanto a água fria molha o meu cabelo.@
+br
+` …… Que sonho bizarro.@
+` Deve haver algo de errado com a minha cabeça, sonhar que mato uma mulher tão linda.@
+` Se só um dia morando nesta mansão foi o bastante para me fazer ter um sonho bizarro assim, odeio pensar em como os próximos dias serão.
+\
+` *suspiro*@
+`"Eu tenho que me recompor."@
+` Lavo minha cabeça com mais água fria e termino de me limpar.@
+`"Ai……"@
+` Minha garganta dói quando a toco com a toalha.@
+`"…… O que é isso?"@
+` Olho para o meu pescoço no espelho.@
+` …… Como isso aconteceu?@
+` Minha garganta está vermelha e inchada.@
+` É como se eu tivesse machucado ela vomitando repetidamente.
+\
+bg "bg/bg_40a",lcartain,1500
+` Volto para o meu quarto e visto o uniforme.@
+` São quase sete horas.@
+` Surpreso em como minha cabeça ficou mais leve depois do banho, pego minha pasta e saio do quarto.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` A Kohaku-san sai da sala de estar assim que desço as escadas.@
+ld c,"tachi/koha_t02",lshutter,400
+`"Bom dia, Shiki-san.@ Você acordou muito cedo hoje."@
+` Ela faz uma mesura enquanto sorri.@
+`"E também parece revigorado.@ Estava tomando banho?"@
+`"Sim, saí do banho agora mesmo.@ Que incrível, Kohaku-san.@ Como você percebeu?"
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Aha, eu percebi só de olhar para você porque seu cabelo não está seco, Shiki-san.@ Você fica muito mais bonito depois de um banho."@
+` Desvio meu olhar ao ser encarado com esse sorriso caloroso e despreocupado.@
+` É meio constrangedor.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Por favor, espere um pouco.@ Vou preparar o café da manhã agora."@
+cl c,crossfade,400
+`"Hã[line=3]?"@
+` …… café[line=3]da manhã.@
+` Hum… comer algo agora?@
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+br
+` Uma coisa tão boba já me faz lembrar da cor de sangue.@
+` Não estou com muita apetite no momento.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Um café da manhã ocidental como o de ontem está bom, Shiki-san?"@
+`"[line=3]Ah… claro.@ Tanto faz… Café da manhã, né?@ Aquele banho foi tão bom que eu quase me esqueci disso."@
+`"Sério?@ Ontem à noite você não comeu nada também, eu estava até comentando com a Hisui-chan que os roncos do seu estômago devem ter te acordado."@
+`"Ahaha, não.@ Infelizmente não foi esse o caso.@ Não sou de comer muito desde pequeno, por isso frequentemente pulo uma ou duas refeições por dia."
+\
+`"Hum, entendi.@ Agora que tocou no assunto, você tem um belo corpo e sem excesso de gorduras.@ Por acaso é vegetariano?"@
+`"Humm, talvez.@ Pensando bem, tenho a sensação de que tudo que comia na casa dos Arimas eram vegetais."@
+` A Kohaku-san volta apressadamente para a sala de estar.@
+` [line=3]Mas eu não estou com vontade de comer agora.
+\
+`"Ah, está tudo bem, Kohaku-san.@ Vou para a escola sem comer.@ Avise a Akiha por mim."@
+br
+`"Até logo." Vou na direção da porta.@
+` De repente, meu braço é agarrado com força.@
+ld c,"tachi/koha_t04",crossfade,400
+`"Shiki-san!"@
+`"[line=3]Hein?"@
+` …… Não posso acreditar nisso.@
+` A Kohaku-san está brava.
+\
+`"O que está dizendo, Shiki-san!?@ Não se olhou no espelho hoje!?"@
+`"…… Ah, bem, eu dei uma olhada no espelho do banheiro…"@
+`"Mentiroso!@ Você não diria uma coisa dessas se tivesse olhado ao menos uma vez!"@
+` Ela está brava de verdade.@
+` …… Pensando bem, quando vi meu rosto no espelho, pensei estar olhando para um cadáver.
+\
+`"Eu vou ficar bem.@ É que não tenho muito sangue no corpo, por isso pareço pior do que as pessoas normais."@
+`"Não aceito desculpas!@ Você não vai crescer se não tomar o café da manhã todos os dias!@ Se está sem apetite, vou preparar algo fácil de comer.@ Por favor, espere na sala de jantar."@
+` Segurando meu braço, ela me arrasta para a sala de estar.@
+cl c,rshutter,400
+br
+` …… Não tenho escolha.@
+` Não estou com vontade de continuar com isso, vou ter que aceitar as boas intenções da Kohaku-san.@
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+ld c,"tachi/aki_t12a",lshutter,400
+`"Bom dia, Nii-san.@ Como está se sentindo?"@
+` A Akiha me cumprimenta reservadamente.@
+` Aquela firmeza de ontem desapareceu.@ Acho que é porque ela está preocupada comigo.@
+`"Bom dia.@ Estou me sentindo… hum… bem, de certa forma."@
+cl c,crossfade,400
+` Respondendo seu cumprimento, vou para a sala de jantar.
+\
+ld c,"tachi/koha_t02",notrans,0
+`"Ah!@ Pode esperar aqui, Shiki-san.@ Eu te chamo quando estiver pronto."@
+cl c,notrans,0
+` A Kohaku-san desaparece para dentro da sala de jantar, me deixando para trás com a Akiha, que está com uma aparência deprimida, e a Hisui, que permanece de pé e sem qualquer emoção, perto da parede.
+\
+`"…………"@
+` …… Isso é bem esquisito.@
+`"Nii-san, sobre ontem à noite, é verdade que você desmaiou no parque?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Parece que sim.@ Eu mesmo não me lembro, mas se é o que a Kohaku-san e a Hisui diz, então deve ser o que aconteceu."
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Oh, pare de falar como se fosse o problema de outra pessoa, Nii-san!@ Você tem um corpo fraco, caso se sinta mal, por favor, entre em contato com a mansão.@ Eu vou enviar alguém para te buscar imediatamente."@
+`"…… Ei, escuta aqui, não tem necessidade disso.@ Eu não sou uma criancinha do primário, posso voltar para casa sozinho não importa o quão mal eu esteja me sentindo."
+\
+`"Então acredito que o fato de você não ter conseguido voltar para casa ontem significa que você é uma criancinha sim."@
+`"[line=3]Mmn."@
+br
+` Odeio admitir, mas ela está certa.@
+br
+`"…… Ontem foi diferente.@ Aquilo acontece raramente.@ Olha, só porque tenho anemia crônica não significa que meu corpo seja fraco.@ Nâo há razão para você se preocupar com qualquer coisinha que aconteça, Akiha.@ Ontem foi… bem… um caso terminal em uma péssima hora.@ Só isso."@
+`"Um caso terminal?@ Por favor, não use essas palavras horríveis, Nii-san!@ Você acabou de voltar para a mansão!@ O que eu faria se você morresse…!?"@
+` Ela está brava de verdade.@
+ld c,"tachi/aki_t21",crossfade,400
+`"Francamente.@ Você é muito despreocupado, Nii-san.@ Por favor, cuide melhor de si mesmo."@
+`"Mesmo que me diga isso, eu não estou me esforçando como está pensando.@ Não estou em nenhum clube na escola e faço tudo que o médico manda… Você teria que me colocar em um sanatório para me dar um cuidado melhor."
+\
+ld c,"tachi/aki_t02",crossfade,400
+`"Sim, eu adoraria fazer isso se pudesse."@
+` Evitando o meu olhar, a Akiha diz algo muito assustador.@
+cl c,crossfade,400
+br
+` Quanto à Hisui, ela continua perto da parede como uma estátua.
+\
+`"…………"@
+` Eu estou meio sem assunto.@ Ainda falta um pouco para comermos, então vou[line=3]
+\

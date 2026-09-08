@@ -1,0 +1,465 @@
+wavestop
+play "*3"
+bg "bg/bg_34b",tshutter,400
+br
+` [line=4]Ah, viu só?@ Eu sabia que isso ia acontecer.
+\
+ld c,"tachi/his_t11",crossfade,800
+` …… O que ia acontecer?@ A Hisui ia acontecer.@
+` A Kohaku-san e a Akiha parecem acostumadas a tomar álcool, mas quando se trata da Hisui, foi a primeira vez que ela bebeu de verdade.@
+` Ela bebeu para me fazer companhia, se esforçou muito para terminar o seu copo.@ E foi isso o que aconteceu.
+\
+`"Hisui…?@ Não precisa se esforçar para beber dessa forma."@
+`"………"@
+` Ela faz um gesto afirmativo com a cabeça.@
+` Em seguida, leva o copo aos lábios e fica observando o ambiente a esmo.@
+` …… Independente dos meus esforços para fazê-la parar, ela continua bebendo.@
+` …… Não estou entendendo, será que gostou de tomar álcool?
+\
+` [line=3]E então…
+br
+`"Ah………"@
+br
+cl c,lshutter,800
+` Ela se deita no sofá como uma gata.@
+ld c,"tachi/koha_t05b",lshutter,400
+`"Ahaha.@ Você não pode fazer isso, Hisui-chan.@ Se dormir aí vai pegar um resfriado.@ Ah, Akiha-sama, por favor, sem reclamar."@
+` Sorrindo a Kohaku-san fala isso para as duas garotas sonolentas, a Akiha e a Hisui.@
+` …… Parece que a Kohaku-san também está bêbada.
+\
+`"…… Esta foi a sua primeira vez, né, Hisui?"@
+`"Foi sim.@ A Hisui-chan sempre foi fraca para bebidas alcoólicas.@ Normalmente, ela toma só um golinho e já fica toda vermelha.@ Ahaha~!"@
+` Ela ri, feliz da vida.@
+`"…… Parece que estamos com um problemão nas mãos, hein?"
+\
+`"Pois é.@ A Hisui-chan sempre se recusa a tomar álcool, mas como foi o Shiki-san quem ofereceu, ela se forçou a beber.@ Normalmente ela não é muito sociável, acho que tentou te fazer companhia.@ A minha irmãzinha não é a coisa mais fofa deste mundo!?"@
+` Bam-bam, a Kohaku-san dá uns tapas nas minhas costas.@
+` …… Ela está muito bêbada…
+\
+cl c,lshutter,800
+`"Acho que isso encerra a noite.@ A Akiha está desbaratada e a Hisui se enrolou no sofá igual uma gata preguiçosa."@
+ld c,"tachi/aki_t26",lshutter,400
+`"…… Desbaratada… O que é isso?@ Nii-san, não fique usando palavras[line=4]que eu não[line=4]entendo……"@
+` Ela murmura uma reclamação.@
+` A Akiha parece não gostar de coisas que não entende.@
+` Não vejo problema nisso, mas quando está bêbada ela não entende é nada… Consequentemente, acabou se transformando em uma máquina de reclamar…
+\
+cl c,lshutter,400
+ld c,"tachi/koha_t05b",lshutter,400
+`"Eu vou levar a Akiha-sama para a cama, Shiki-san, você poderia cuidar da Hisui-chan?"@
+`"Hein[line=3]espera aí, Kohaku-san.@ Eu não posso tocar na Hisui.@ Ela me bateu quando eu esbarrei nela."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"[line=3]Ah, é mesmo.@ A Hisui-chan é meio obcecada com limpeza.@ Se ela ficar de mãos dadas com um homem é perigoso até de vomitar.@ Se você carregá-la, talvez teremos um problema sério."@
+`"…… Se ela ficar de mãos dadas com um homem é perigoso até de vomitar……?"@
+` Isso vai muito além de ser obcecada com limpeza.@
+` Oito anos atrás, eu já achava ela meio estranha, mas[line=4]
+\
+`"Mas como a Hisui-chan está dormindo, vai ficar tudo bem.@ Akiha-sama, vamos para o seu quarto agora."@
+cl c,lshutter,800
+`"O quê?@ Espera, Kohaku-san!"@
+` …… Ela não responde.@
+` Com a Akiha apoiada nos ombros, ela desaparece.
+\
+` E o que ela deixou para trás foi…
+` Uma montanha de comida que ninguém comeu, uma montanha de garrafas vazias e uma Hisui dormindo alegremente no sofá e respirando tranquilamente, como um bebê.@
+br
+` Estamos no outono.@
+` Se eu deixá-la dormindo aqui, com certeza vai acordar com um resfriado amanhã.
+\
+`"…… Será que não tem problema tocar na Hisui assim?"@
+` Mas não tenho escolha.@
+` …… Eu não estou com más intenções e preciso levá-la para o seu quarto de todo jeito.@
+`"…… Desculpa.@ Pode ficar brava comigo depois."@
+` Gentilmente pego o seu corpo adormecido.@
+br
+`"Ah……"@
+` E assim meu coração começa a bater mais forte.
+\
+`"…… Como é leve!"@
+` A Hisui é muito leve.@
+` Seu corpo delicado encaixa nos meus braços.@
+` Sinto como é macia e também o calor do seu corpo.@
+`"…… Isso não é bom.@ Preciso levá-la para o quarto o mais rápido possível ou sou eu quem vai estar com problemas."@
+` Para não acordá-la, lentamente vou carregando-a para fora da sala de jantar.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_46c",lcartain,800
+play "*1"
+` Eu giro a maçaneta da porta do quarto da Hisui e paro, desesperado.@
+`"[line=4]Não acredito!"@
+` Está trancada.@
+`"A chave… Deve estar no bolso dela, não é mesmo?"@
+` Isso é péssimo.@ Não, é só enfiar a mão no bolso dela e pronto, mas ainda é péssimo.@
+` Se eu fizer isso, o que vai acontecer com o meu estado psicológico?@
+`"…… Ah, não tenho escolha."@
+` Por sorte, o quarto da Hisui também é no segundo andar, assim como o meu.
+\
+bg #000000,lshutter,800
+bg "bg/bg_40c",lshutter,800
+br
+br
+br
+br
+br
+br
+` [line=2]Então,
+`  eu voltei para o meu quarto com a Hisui nos braços.
+\
+`"Prontinho."@
+` Coloco ela em cima da minha cama.@
+` Ela realmente estava se forçando a beber, pois não acordou até agora.@
+`"…… Hum.@ O que eu faço agora[line=3]?"
+\
+quakey 1,250
+wave se_05
+`"Hein?"@
+` Será que fiquei tão cansando assim só de carregar a Hisui?@ Eu caio no tapete.@
+`"Ai[line=3]"@
+` É o álcool que está fazendo efeito em mim agora.@
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` De repente, começo a ficar muito zonzo.@
+`"…… Ah… Tanto faz."@
+` Eu não tinha planejado fazer nada mesmo.@
+` Ninguém vai reclamar se eu dormir aqui no chão[line=3]
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg #ffffff,crossfade,1500
+bg "bg/bg_45c",crossfade,800
+play "*7"
+br
+br
+br
+br
+` [line=3]Algo parece… Muito familiar.
+\
+` Um quarto ao estilo japonês.@
+` Um quarto escuro.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]É[line=4]
+` uma lembrança muito antiga.
+\
+` Uma lembrança de quando eu era muito jovem e não estava acostumado com as pessoas desconhecidas que me acolheram, por isso me tranquei no meu quarto.@
+br
+` Eu não me importava com nada; nem queria conversar com ninguém.@
+` Estava sempre sozinho, sempre.@ Queria apenas ficar envolto no meu berço de lembranças felizes.
+\
+` Embora soubesse que as coisas nunca mais seriam como antes, eu queria viver apenas de lembranças.
+\
+` Toc toc, fez o barulho na porta.@
+`"…… Quem é?"@
+`"Sou eu."@
+` Ela veio de novo.@
+` Aquela garota que parecia ter a minha idade estava batendo na porta de novo.@
+`"Shiki-chan, vamos brincar.@ Você vai mofar se só ficar aí dentro."@
+`"Não quero brincar.@ Não gosto de ficar aí fora."@
+` Abraçando os joelhos, eu me encolhi em um canto do quarto escuro.
+\
+bg "bg/ima_06",crossfade,400
+` …… A garota foi todos os dias.@
+` Sempre batia na porta e nunca se cansava.@
+` Ela nunca me forçou a sair, por isso não abria a porta, apenas continuava me chamando.
+\
+`"Por que você não quer sair?"@
+br
+` Porque eu não conheço ninguém aí fora.@ Todos daí de fora me odeiam.@
+br
+`"Não é verdade.@ Todos querem gostar de você, Shiki-kun."@
+br
+` É.@ Eu sabia disso, mas não podia acreditar.@ Porque o meu pai saiu lá para fora[line=4]e[line=3]
+\
+br
+br
+br
+br
+br
+` E.@
+` E foi despedaçado.
+\
+`"…… Entendo.@ É por isso que você não acredita em ninguém."@
+br
+` É por isso que vou continuar aqui dentro.@ Não quero mais ver essas coisas assustadoras acontecendo.@
+br
+`"Mas você vai ficar sozinho o tempo todo.@ Não é divertido ficar sozinho."@
+br
+` Mesmo assim, é melhor do que ficar com medo.
+\
+`"Isso não tem graça nenhuma.@ Shiki-chan, você pode acreditar em mim."@
+br
+` "…… Isso não faz sentido.@ Eu mal te conheço."@
+br
+`"Está tudo bem!@ Shiki-chan, você pode acreditar em mim e vir aqui para fora!"@
+br
+` …… Tá.@ Mas acreditar… No que eu devo acreditar?
+\
+`"É simples.@ Mesmo que todos te odeiem, eu sempre vou gostar de você, Shiki-chan.@ E sempre vou vir te chamar para brincar."@
+br
+` ……… Aí fora[line=4]é divertido?@
+br
+`"Sim!@ É mil vezes mais divertido do que ficar sozinho[line=5]!"@
+bg #ffffff,crossfade,800
+br
+br
+` [line=4]E assim, eu saí do quarto.
+\
+br
+br
+br
+br
+br
+br
+` Pensando bem,
+` essa foi a minha primeira lembrança como Tohno Shiki[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+phase "bg/bg_30a",l,his,05a,5
+bg #ffffff,crossfade,400
+br
+` [line=3]Uma luz brilhante inunda a minha consciência.@
+` Quando abro os olhos, vejo a luz do dia atravessando a janela.@
+br
+`"……… Nnn."@
+` Acordo do sonho.@
+` …… Não me lembro muito bem, mas sei que tive um sonho.@
+` Um sonho muito nostálgico.@
+` Lembro do cheiro do tatame[line=4]será que tinha tatame no sonho?
+\
+`"Hã?"@
+` Que coisa estranha[line=4]apesar de ter acordado, ainda estou sentindo um cheiro bem agradável.@
+br
+`"N[line=3]Shi……… ki………"@
+` Ouço um voz bem no meu ouvido.@
+`"…… Hein?"@
+` Sentindo uma presença ao meu lado, arregalo os olhos.
+\
+bg "event/his_e03",lshutter,800
+play "*2"
+`"……… sssssst!"@
+` Freneticamente seguro meu grito de surpresa.@
+` Não sei o motivo, mas a Hisui está dormindo na minha cama.@
+` E isso não é tudo.@ O seu rosto completamente desprotegido está inclinado sobre mim.
+\
+`"Ah[line=4]"@
+` Estou muito tenso para falar alguma coisa.@
+` Meu sono desaparece no mesmo segundo.@
+`"…… O que está acontecendo?"@
+` Mexendo o pescoço, eu dou uma olhada ao meu redor.@
+` …… Não tenho dúvidas de que este é o meu quarto.@
+` A Hisui está aqui, respirando tranquilamente.
+\
+`"…… Vejamos, ontem nós…"@
+` Tento lembrar o que houve ontem, mas isso não tem importância.
+\
+` Ela está respirando no meu peito.@
+` …… Seu rosto tranquilo e inocente.@
+` Só de eu poder ver o seu rosto de tão perto, me faz perder a vontade de preocupar com qualquer outra coisa.
+\
+`"…………"@
+` Estou completamente absorto.@
+` Não é que eu não tenha percebido antes, mas a Hisui é muito bonita.@
+` Não é apenas o seu rosto que é bonito.@ A atmosfera ao seu redor é tão graciosa quanto a dona deste rosto lindo.@
+`"……………… Hisui."@
+` Se pudesse, ficaria assim com ela para sempre.@
+` Mas não dá… Além disso, vamos ter vários problemas se ela não acordar logo.
+\
+`"…… Hisui.@ Ei, Hisui."@
+` …… Ela não acorda.@
+`"Já amanheceu.@ Não acha que está na hora de levantar?"@
+` Balanço-a gentilmente.
+\
+`"Hisui.@ Acorda, Hisui."@
+`"U… nh."@
+` Seus dedos se contraem.@
+` Suas pálpebras abrem lentamente, como gelo derretendo.
+\
+bg "bg/bg_40a",lshutter,800
+`"……… Mm."@
+` Esticando os braços, ela finalmente acorda.@
+` Ela esfrega os olhos e olha ao redor do quarto.@
+` E finalmente a Hisui compreende o fato de que está no meu quarto e que eu estou bem na frente dela.
+\
+`"Kyaaa!"@
+` Ela dá um pulo da cama.@
+ld c,"tachi/his_t28",crossfade,400
+`"Shi-Shiki-sama, por que eu[line=4]"@
+`"Ah… Eu não sei explicar muito bem, você se lembra da noite passada?"@
+`"Hein[line=3]a noite passada?"@
+cl c,lshutter,800
+` Ela começa a pensar.@
+` E de repente suas bochechas ficam vermelhas.
+\
+`"Você lembrou?"@
+ld c,"tachi/his_t02",lshutter,400
+`"Sim…… Eu te causei muitos problemas, Shiki-sama."@
+` Ela me encara com as bochechas coradas.@
+`"…… Desculpa.@ Eu te levei para o seu quarto mas a porta estava trancada.@
+` Eu pensei em te deixar descansar no meu quarto enquanto eu ia chamar a Kohaku-san, mas o álcool me venceu e acabei dormindo também."@
+` …… É assim que me lembro dos acontecimentos de ontem.@
+` Mas que estranho, eu tinha certeza de que…
+\
+`"…… O estranho é que eu tinha certeza de ter deitado no tapete, mas talvez… Em algum momento durante a noite, eu devo ter subido na cama.@
+` Eu não estava pensando em fazer nada de estranho com você, Hisui!@ Eu acabei de acordar agora também……!"@
+`"…………"@
+` Ela me encara em silêncio.
+\
+`"Eu[line=2]eu estou falando sério!@ Eu não tive escolha, a Kohaku-san teve que cuidar da Akiha e eu não podia simplesmente te deixar lá daquele jeito!@ …… Eu peço desculpas por ter te carregado e já estava preparado para aguentar a sua raiva pelo o que eu fiz!"@
+` Tentando responder ao seu olhar, faço o possível para me explicar.@
+`"……………"@
+` A Hisui não responde; apenas olha para suas próprias roupas e faz um gesto afirmativo com a cabeça.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"É o que parece mesmo.@ As minhas roupas não foram violadas.@ Você é inocente, Shiki-sama."@
+`"Que bom[line=4]"@
+` Solto um suspiro de alívio.@
+ld c,"tachi/his_t26",crossfade,400
+`"E acredito que quem colocou você na cama… Fui eu.@ Eu acordei uma vez durante a noite e te vi dormindo no chão.@ Eu não queria que você pegasse um resfriado, por isso te coloquei na cama."@
+`"Hein…… Sério mesmo?"@
+` Se for verdade, isso explica o motivo de eu estar na cama, mas por que a Hisui continuou na minha cama?
+\
+ld c,"tachi/his_t22",crossfade,400
+`"…… Peço que me perdoe.@ Eu[line=2]eu ainda estava um pouco bêbada e como tinha uma cama bem na minha frente, eu não precisaria voltar para o meu quarto para deitar…"@
+` Envergonhada, ela explica o que houve.@
+`"E-entendi.@ Realmente, é assim que pensamos quando estamos bêbados.@ Hahaha."@
+` Eu começo a rir por sei lá qual motivo.@
+` Envergonhada, ela apenas relaxa os ombros.@
+` …… Por que será?@
+` Embora eu tenha apenas dormido ao lado dela, fico tão consciente da sua presença, que acabo ficando incapaz de falar algo com clareza.
+\
+`"E-enfim, vamos manter isso em segredo entre nós.@ Se a Akiha ficar sabendo vai ficar muito brava e se a Kohaku-san ficar sabendo, ela vai nos provocar com esse assunto pelo resto da vida."@
+ld c,"tachi/his_t04",crossfade,400
+`"[line=3]Certo.@ Isso irá me favorecer também."@
+`"Pois é, me desculpe, Hisui.@ Se tivesse sido mais responsável, nada disso teria acontecido."@
+` Eu me desculpo e abaixo a cabeça.@
+` Não aconteceu nada, mas o fato é que eu carreguei uma garota nos braços, a trouxe para o meu quarto e ainda dormi ao lado dela.@
+` Independente do que a Hisui diga, eu ainda me sinto responsável por isso.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"Não se preocupe com isso, foi minha culpa.@ Se eu tivesse sido mais responsável, você munca teria que se preocupar com algo assim, Shiki-sama."@
+`"Não, está tudo bem.@ Enfim, eu só quero me desculpar com você.@ …… Na verdade, eu me sentiria melhor se você dissesse algo do tipo: 'Shiki-sama, você é um babaca.' Você tem todo o direito de dizer isso, apesar de eu achar difícil você dizer algo do tipo."@
+ld c,"tachi/his_t02",crossfade,400
+`"Ah… Sim.@ Se me ordenasse a dizer isso, seria difícil para mim."@
+`"Pois é!@ Então deixa eu me desculpar.@ Se você não deixar, nunca mais vou poder aceitar que faça nada para mim."
+\
+cl c,lshutter,800
+`"…………"@
+` Ela me encara, absorta em pensamentos.@
+`"…… O Shiki-sama é… Muito desajeitado, não é mesmo?"@
+` A Hisui diz isso com uma voz muito gentil, diferente de antes.
+\
+ld c,"tachi/his_t03",lshutter,400
+`"Então tá, vou aceitar que o Shiki-sama é o culpado desta vez.@ Você vai ter que me compensar por isso, portanto não se esqueça."@
+`"Hein[line=5]Hi[line=2]Hisui?"@
+`"Se me der licença.@ Shiki-sama, apresse-se para a sala de estar ou vai se atrasar."@
+cl c,lshutter,400
+` Ela faz uma mesura e sai do quarto.
+\
+`"[line=5]"@
+` Eu permaneço deitado na cama, com a boca aberta e chocado em silêncio.@
+`"……… Ela sorriu."@
+` Naquele instante, foi como se o tempo tivesse parado.@
+`"[line=7]"@
+` Isso não é bom.@ Realmente não bom.@
+` A única coisa que ela fez foi sorrir, então por que estou tão atordoado[line=3]?
+\
+bg #000000,crossfade,800
+bg "bg/bg_34a",lcartain,800
+` Chego na sala de estar e vejo a Hisui.@
+` A Akiha já tomou o café da manhã e está tomando chá; acho que a Kohaku-san está na cozinha.@
+ld c,"tachi/aki_t04a",lshutter,400
+`"Bom dia, Nii-san.@ Você acordou muito cedo, não é mesmo?"@
+`"Hum?@ Ah, houve algumas complicações essa manhã…" Eu paro de falar e dou uma olhada no rosto da Hisui.@
+cl c,lshutter,400
+ld c,"tachi/his_t20",lshutter,800
+!w750
+cl c,lshutter,800
+`"Aconteceu de eu acordar cedo hoje.@ Mas você é incrível, hein, Akiha.@ Ficou bêbada daquele jeito e ainda acordou tão cedo."
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Óbvio.@ Você sempre deve beber consciente do dia seguinte, assim não precisará acordar tarde por causa disso."@
+`"Mas você estava bem acabada ontem à noite.@ Talve você tenha mais enzimas de degradação do que uma pessoa normal.@ Fico até com inveja."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Nii-san, o que são essas 'enzimas de degradação'?"
+\
+`"Bem, vou resumir.@ Depois que o álcool entra no corpo, acho que ele se transforma em um tipo de veneno.@
+` O veneno é processado no fígado por essas enzimas que decompõem o álcool em água.@
+` A quantidade de enzimas no corpo varia de pessoa para pessoa e os japoneses tendem a ter menos do que o normal.@ Aqueles que possuem menos enzimas precisam beber com moderação."@
+` A Akiha está impressionada.
+\
+ld c,"tachi/aki_t04a",crossfade,400
+`"…… Estou surpresa.@ Você conhece bem o assunto, Nii-san."@
+`"Não é bem assim.@ É que tenho um amigo terrível que bebe muito, só isso."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Hum.@ E você também não bebeu muito ontem…"@
+`"É porque sou uma dessas pessoas que precisam beber com moderação.@ Como esse meu amigo terrível bebe além da conta, eu sempre preciso estar sóbrio para cuidar dele."@
+` A propósito, esse amigo terrível é o Inui Arihiko.
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… Humm.@ Não entendi muito bem, mas a sua vida particular parece ser muito divertida."@
+`"Por que disse isso subitamente?@ Por que tocou nesse assunto?"@
+ld c,"tachi/aki_t21",crossfade,400
+`"Porque você está com uma expressão muito feliz, Nii-san.@ Você não nos mostrou essa expressão ontem à noite."@
+`"Hum[line=3]"@
+` Bem, ontem à noite foi mais surpreendente do que divertido.
+\
+`"Shiki-san, o café da manhã está pronto!"@
+` A voz da Kohaku-san interrompe na hora certa.@
+`"Já vou!@ …… Vou lá comer, Akiha."@
+ld c,"tachi/aki_t02",crossfade,400
+`"………"
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_34a",lcartain,800
+` Depois de tomar o café da manhã, volto para a sala de estar e vejo que a Akiha não está mais aqui.@
+`"Ah…?@ Hisui, cadê a Akiha?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Ela foi para a escola depois que você se dirigiu à sala de jantar."@
+`"Ah, é mesmo, a escola dela é bem longe, né?@ …… Bem, eu também não deveria ficar aqui perdendo tempo."@
+ld c,"tachi/his_t04",crossfade,400
+`"Vou buscar a sua pasta imediatamente."@
+cl c,lshutter,400
+` Ela desaparece na direção do saguão.@
+`"…………"@
+` Eu fico apenas a observando por trás.
+\
+ld c,"tachi/koha_t02",lshutter,400
+`"Hee hee.@ Shiki-san, o que aconteceu ontem à noite?"@
+`"D… Do que está falando, Kohaku-san!?"@
+ld c,"tachi/koha_t05",crossfade,400
+`"Ai minha nossa, você está corando.@ Deve ter acontecido alguma coisa, né?"@
+`"Hã[line=3]não, não aconteceu absolutamente nada.@ Pode perguntar para a Hisui."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"É mesmo?@ Humm, parece que você ficou muito íntimo da Hisui-chan."@
+cl c,lshutter,400
+` Ela inclinca a cabeça para o lado.@
+` …… Eu fiquei muito íntimo da Hisui?@ Bem que eu queria.
+\
+ld l,"tachi/his_t01",lshutter,400
+`"Trouxe a sua pasta, Shiki-sama.@ Por favor, apresse-se pois não tem muito tempo sobrando."@
+`"Certo, estou indo.@ Até mais, Kohaku-san, te vejo mais tarde."@
+ld r,"tachi/koha_t03",lshutter,400
+`"Até, estarei ansiosa por isso."
+\
+bg #000000,lshutter,400
+bg "bg/bg_32a",lshutter,400
+`"Vou vir direto para casa hoje, devo chegar por volta das quatro horas da tarde.@ Ah, não precisa ficar aqui me esperando."@
+ld c,"tachi/his_t01",lshutter,400
+`"Entendido.@ Tenha cuidado no caminho, Shiki-sama."@
+`"Eu terei.@ Até mais tarde, Hisui."@
+ld c,"tachi/his_t16",crossfade,800
+cl c,lshutter,800
+` Aceno para me despedir da Hisui que faz uma mesura e saio apressado.
+\
+bg #000000,crossfade,800
+playstop

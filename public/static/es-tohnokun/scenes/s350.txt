@@ -1,0 +1,53 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w2000
+bg "bg/bg_06b",tshutter,800
+play "*1"
+` La escuela termina.@
+` Voy a buscar a Akiha en los salones de primer año.@
+br
+bg "bg/bg_10b",lcartain,400
+` …… Pero justo cuando salgo del salón, me encuentro con ella.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Ah, Nii-san.@ ¿Vas a algún lugar?"@
+`"No, iba camino a verte.@ ¿Qué hay de ti?@ ¿Vas hacia alguna parte?"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"No.@ Sólo pensé que podría ir a casa contigo, Nii-san, así que vine aquí…"@
+`"Ya veo.@ Tuvimos suerte de encontrarnos.@ Bien, entonces vámonos.@ Kohaku-san y Hisui están esperando."@
+ld c,"tachi/aki_t09",crossfade,400
+`"Tienes razón.@ Vamos a casa, Nii-san."
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+`"Oh, es cierto, hay una pregunta que he estado queriendo hacerte, Akiha."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"¿Una pregunta para mí…?"@
+`"Sí.@ ¿Por qué tenías ese disgusto por Senpai?@ ¿Ya la conocías, por casualidad?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"No, la vi por primera vez ayer.@ Mi disgusto por ella es simplemente psicológico, no tienes que preocuparte por eso."@
+`"¿Psicológico?@ ¿Qué quieres decir?"@
+ld c,"tachi/aki_t21",crossfade,400
+`"Que no puedo controlar lo que siento.@ Es igual a lo que sentías por papá, así que por favor no te preocupes."
+\
+`"[line=3]Espera, Akiha.@ El viejo sólo me desagradaba, no lo odiaba."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Yo tampoco la odio.@ …… Supongo que exageré las cosas hoy.@ Lo voy a reflexionar, por favor sé indulgente respecto a lo que ocurrió durante el almuerzo."@
+`"…… De acuerdo.@ Supongo que así está bien."
+\
+cl a,crossfade,400
+` …… Bueno, supongo que podría no ser un problema.@
+` Ciel-senpai aparece con frecuencia durante el almuerzo, y si la relación entre Akiha y ella fuese mala, sería un problema.@
+` A este paso, si Akiha sigue diciendo cosas como éstas, puede que Arihiko y yo no terminemos con clavos y agujas en los costados[line=4]
+\
+bg #000000,lcartain,800
+!w1000
+playstop
+bg "bg/bg_40b",rcartain,800
+`"[line=4]Ahh."@
+` Arrojo mi maletín sobre el escritorio, y me siento en la cama.@
+` Bien, ¿qué debería hacer?@
+` Parece que Akiha tiene lecciones, así que tan pronto como volvimos, se fue a algún lugar en auto.@
+` …… Es cierto, Hisui y Kohaku-san también estaban dando vueltas afanosamente.
+\

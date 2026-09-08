@@ -1,0 +1,25 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25a",lcartain,800
+ld c,"tachi/ark_t03",crossfade,400
+`「[line=2]嗯？」@
+`　从巷子里走出来，走到街上的时候，她[line=2]爱尔奎特[line=2]皱起眉头，狐疑地看了我一眼。@
+ld c,"tachi/ark_t06",crossfade,400
+`「呐，志贵。@你难道是基督徒（Christian ）？」@
+br
+`　……不明白爱尔奎特怎么问起这个。
+\
+`「克里斯蒂安[line=2]？@　怎么突然问这种问题。@那是女孩子的名字吗？」@（志贵没听懂，以为是外国人名字片假名）
+ld c,"tachi/ark_t03",crossfade,400
+`「这样啊。@那应该是我搞错了」@
+`　像是决定了什么地点着头，爱尔奎特转向商业街的方向。@
+ld c,"tachi/ark_t01a",crossfade,400
+`「那就走吧，现在要得先找个安全的地方」@
+`　爱尔奎特开始前进。@
+`「[line=2]哈啊」@
+br
+`　事到如今已经没回头路了。@
+`　叹口气，跟上了她。
+\
+bg #000000,lcartain,800

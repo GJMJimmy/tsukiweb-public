@@ -1,0 +1,60 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ¡Hola!@
+` El rincón de consejos para el pobre Tohno-kun que terminó en un Final Muerto sin diferenciar su izquierda de su derecha,
+` Es la hora de "¡Enséñame, Ciel-sensei!"@
+br
+` …… Ya veo.@
+` Has venido a la quinta hora.@
+` Creo que hay montones de Tohno-kuns que caen en este final.@
+` Bueno, es tu castigo divino.@
+` Lamenta tu falta de fortuna por asociarte con semejante mujer.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+ld l,"tachi/ark_t31b",lshutter,400
+`"¡Por qué?@ Mira quien habla, Ciel.@ Después de todo, tu objetivo desde el principio fue siempre **[line=4]"
+\
+bg "bg/ima_14",lshutter,400
+wave se_12
+bg "bg/bg_06a",lshutter,400
+ld r,"tachi/cel_t20",tshutter,400
+` [line=4]Bien, ahora.@
+br
+` Normalmente no habría oportunidad de salvación, pero algunos de ustedes vinieron aquí a pesar de rechazar a ese vampiro solar.@
+br
+` (Solar aunque es un vampiro, me estoy buscando una pelea)
+br
+` Así que arrojaré un bote salvavidas.
+\
+` Hay unas tres razones por las que puedes llegar a este Final Muerto, pero para evitarlo,
+br
+` Tienes que dar ánimos a tu hermana algunas veces,
+` tienes que consentir el egoísmo de una estúpida mujer algunas veces, y para encontrar a un sucio vampiro, intenta ir a un lugar muy sucio.@
+br
+` Eso es todo.
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Oye Ciel.@ No entiendo esto."@
+br
+` [line=3]Pregunta denegada.@
+` …… O eso quisiera decir, pero parece haber muchas preguntas sobre esto, así que la responderé.@
+` LNO es…
+` L es por "luna", N por "no saludable", O por "obstinado".@
+` Tiene las mismas iniciales que "Luna de Noche Oscura", es un pequeño juego de palabras.
+\
+br
+`"Ya veo, es raro."@
+cl l,lshutter,400
+br
+` (…… Por qué, esa pequeña……)
+` Bueno, esto concluye la lección por esta ocasión.@
+` ¡Todos, por favor recuerden usar un japonés apropiado!
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,89 @@
+playstop
+wavestop
+monocro #ff0000
+bg "bg/bg_54d",notrans,0
+` [line=4]Não tenho tempo a perder.@
+` Preciso matá-lo antes que os seus ferimentos se curem ou sou eu quem vai ser morto.@
+br
+` Eu tomo um grande fôlego forçado…
+` E estimulo o meu corpo cansado a perseguir o SHIKI.
+\
+bg #000000,lcartain,800
+monocro off
+bg #9c0120,crossfade,400
+bg "bg/bg_54d",crossfade,400
+` Arfando[line=5]
+br
+` A minha respiração ecoa pela floresta escura.@
+` O rastro de sangue parece iluminar o caminho em meio à escuridão.@
+` Não vou deixá-lo escapar.@
+` A questão é: será que o meu corpo vai sobreviver tempo o bastante?
+\
+` Respirando com dificuldade…
+` Eu corro cambaleando de um lado para o outro.@
+` A faca está na minha mão esquerda.@
+` A sensação da faca na minha mão é a única coisa me impedindo de desmaiar.@
+br
+`"Ele está indo…… Para o pátio?"@
+br
+` O rastro de sangue parece levar ao pátio.@
+` Oito anos atrás.@
+` O lugar em que o Nanaya Shiki foi morto pelo Tohno SHIKI.@
+` …… Pensando bem, não há melhor lugar no mundo parar terminar de uma vez por todas a nossa briga.
+\
+`"[line=5]Muito bem SHIKI, eu vou…"@
+` Te matar.@
+wave se_07
+quakex 2,200
+bg "bg/ima_13b",lshutter,400
+br
+br
+br
+br
+br
+` Tudo fica vermelho.
+\
+`"Gu[line=7]ugh."@
+` O sangue acompanha a minha respiração e sai do meu corpo.@
+` Ele está saindo do meu coração.@
+` Começo a perder a consciência e[line=4]caio no chão.@
+`"O quê[line=4]?"@
+` Não estou entendendo.@
+` Sinto apenas dor e uma queimação por todo o corpo.
+\
+`"[line=5]Mas o qu…"@
+` Olho para as minhas costas.@
+` E vejo várias espadas cravadas, como se fossem asas.@
+` Elas atravessam o meu corpo.@
+` Quer dizer que…
+` É um ferimento fatal.@
+`"Por quê[line=5]?"@
+` Não entendo.@
+` Essas espadas não vieram voando na minha direção.@
+` É como se tivessem brotado de dentro de mim.
+\
+` O barulho de sangue pingando.@
+` O sangue pinga das espdas cravadas no meu corpo.@
+` Um sangue que não me pertence[line=3]
+br
+`"[line=4]Ah, o sangue daquele momento."@
+br
+` …… O sangue que espirrou em mim quando cortei o SHIKI.@
+` O meu peito ainda estava sujo com aquele sangue.@
+` …… Que erro estúpido.@
+` Eu sabia que as espadas vermelhas eram feitas do sangue dele[line=3]portanto ter deixado o meu corpo sujo com o esse sangue foi o mesmo que pedir para que ele me matasse quando quisesse.
+\
+bg "bg/ima_01",crossfade,1500
+`"[line=6]Ah."@
+` A minha consciência está desaparecendo.@
+` Olho para o céu, imerso no oceano do meu próprio sangue.@
+br
+` A lua distante.@
+` Uma noite muito escura e árvores muito altas.@
+` Estou tendo a mesma morte sem sentido que tive no passado.
+\
+bg #000000,crossfade,1500
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

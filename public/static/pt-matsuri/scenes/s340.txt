@@ -1,0 +1,269 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+`"…… Devo ir lá dar uma olhada?"@
+` Levanto da cama e saio do quarto em silêncio.
+\
+playstop
+waveloop se_11
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_42c",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_54c",lcartain,800
+` [line=4]Nem mesmo o luar penetra a floresta do jardim.@
+br
+` Vou caminhando pelo quintal que mais parece uma floresta.@
+` …… Eu não me lembrava o lugar certo, mas assim que entro na floresta, meus pés me levam para a edícula automaticamente.@
+br
+` Embora eu não me lembre, o meu corpo lembra perfeitamente.@
+` Enfim, consigo chegar na edícula sem me perder.
+\
+bg #000000,tcartain,800
+bg "bg/bg_44b",bcartain,800
+`"[line=7]"@
+` Deve ter muitos anos que este lugar está fora de uso, já que várias partes estão deterioradas.@
+` Coloco a mão na porta e percebo que está destrancada.@
+br
+bg #000000,lcartain,800
+` Está muito escuro lá dentro.@
+` Sinto o cheiro do tatame e das portas de shouji e, mesmo sem conseguir ver nada, me sinto confortável.
+\
+bg "bg/bg_45c",lshutter,800
+`"[line=5]Ah."@
+` Quando entro no quarto ao estilo japonês, um calafrio percorre as minhas costas.
+\
+`"[line=10]Eu conheço este lugar."@
+` Como essa construção ao estilo japonês parecia interessante, acho que eu vim aqui quando era criança.@
+`"[line=12]"@
+` Mas que estranho!@
+` Estou com a mesma sensação de incompatibilidade que tive quando me mostraram o meu quarto assim que retornei à mansão.
+\
+`"…… Talvez seja porque a casa dos Arimas era ao estilo japonês."@
+` Fico com a sensação de que vivi aqui a minha vida toda.@
+` Ou talvez[line=5]
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+` Se a memória não me falha, no passado…
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+` Quando brincávamos no pátio,
+\
+bg "bg/cmo_05",notrans,0
+wait 100
+bg "bg/bg_45c",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+` talvez não fosse somente a Akiha e eu…
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_45c",notrans,0
+`"Ai ai[line=6]"@
+` Sinto uma dor súbita no pescoço.@
+` Talvez seja a minha anemia atacando, mas o meu corpo está pesado como chumbo.@
+`"…… Isso não é bom…… Preciso voltar para o meu quarto."@
+` Balanço a cabeça de leve pra ver se melhoro e decido voltar para o meu quarto antes que eu desmaie.@
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_40d",rcartain,800
+` Eu suspiro profundamente.@
+` Consegui voltar para o meu quarto.@
+` Se eu desmaiasse no lugar que tem a entrada proibida a fúria da Akiha recairia com força sobre mim.@
+`"[line=6]Mn."@
+` Estou meio tonto.@
+` Eu caio na cama sem nem trocar de roupa.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+wavestop
+!w2000
+wave se_01
+!w600
+` [line=4]Quente.
+\
+wave se_01
+!w600
+br
+br
+br
+` [line=4]Quente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+` [line=4]Quente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+` [line=4]A minha gartanta[line=3]está seca[line=4]que sede[line=4]ela está quente.
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Não consigo dormir desse jeito.@
+`      Vou buscar um copo de água.
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` Ao que parece, eu vim para a cidade à noite.@
+` Ao que parece, estou aqui com os olhos sedentos, esperando alguém passar.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Está quente.
+\
+` De repente, vejo um rosto refletido em uma janela.@
+` Seus olhos estão vermelhos e o rosto parece o de uma pessoa louca.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Está tão quente!
+\
+` Acho que encontrei a minha presa.@
+` Eu a estrangulo por trás e está tudo acabado.@
+` Parece que a mulher desconhecida morreu só com isso.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Estou sentindo[line=4]tanto calor.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+` Pego o cadáver e mordo o seu pescoço.@
+` Faz um som borbulhante.@
+` Minha sede termina depois de tomar o sangue do pescoço rasgado.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Não entendo.
+\
+` Ouço o som de uma respiração ofegante.@
+` Isso…
+` Isso me excita tanto assim?@
+` Enfio o meu dedo no peito do cadáver.@
+` Ouço o som da carne sendo dilacerada, o som dos ossos quebrando.@
+` O som de um coração sendo arrancado com as minhas próprias mãos.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Enquanto assisto a tudo, a minha cabeça é preenchida com o branco puro.
+\
+` Este é[line=4]o roubo derradeiro.@
+` O auge da imoralidade.@
+` Só de olhar para esta cena me deixa muito quente.@
+` Talvez possa ser considerado um prazer negativo, mas por me fazer sentir esse calor todo, acho que não faz diferença.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Não entendo.
+\
+bg "bg/ima_18",crossfade,400
+` O sangue quente escorre pela minha boca e eu fito o céu noturno, fascinado.@
+` Os meus cabelos longos balançam com o vento.@
+` O céu em espiral.@
+` Que bela lua prateada.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]E mesmo assim, eu não entendo.@
+`   Eu estou[line=4]simplesmente[line=4]quente[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

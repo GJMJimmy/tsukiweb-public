@@ -1,0 +1,420 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+br
+` [line=3]não é engolido.@
+br
+` Guincho.@ Guinnnnnnn-chooo.@
+br
+` Com um guincho, a onda negra para diante dos meus olhos.@
+`"……?"@
+` Não entendo.@
+` Mas provavelmente essa é a minha última chance.
+\
+br
+` Eu corro.@ Vou para as escadas.@
+br
+` Em vez de correr atrás de mim, os animais que estavam debaixo da luz de emergência estão indo em direção ao elevador[line=2]em direção aos passos.@
+br
+` Na frente dos animais, ouço algo parecido com o som de uma faca de cozinha cortando legumes.@
+` Alguma coisa[line=2]uma silhueta humana está cortando os animais negros[line=2]
+\
+`"[line=5]?"@
+` Mas não tenho tempo para descobrir sua identidade.@
+` Usando as minhas mãos e meus pés, corro para as escadas de incêndio como um cachorro.
+\
+bg #000000,crossfade,1500
+` …… Subo de volta para o décimo primeiro andar. @
+` Continua tudo escuro.@
+` Mas aqui, não há vestígios daquele fedor.@
+` O cheiro pútrido dos animais, do sangue e das entranhas.@
+`"Haa[line=4]aah."@
+` Consigo me levantar e vou tateando pela parede, indo na direção do quarto da Arcueid.
+\
+bg "bg/bg_20a",crossfade,400
+bg #000000,crossfade,400
+bg "bg/bg_20b",crossfade,400
+`"[line=5]"@
+` As luzes voltam a funcionar.@
+` O andar está do mesmo jeito de quando saí.@
+` A única coisa diferente nele sou eu[line=3]todo sujo de sangue.@
+`"Ha[line=6]"@
+` Minha calça está completamente vermelha, como se sempre tivesse sido dessa cor.@
+` Estou com manchas vermelhas pelo corpo todo.@ No braço, no peito e até no rosto.
+\
+`"Haha[line=6]"@
+` Ah, então foi assim que aconteceu.@
+` Eu deveria ter percebido quando estava em frente ao elevador, no momento que os barulhos do andar de baixo pararam.@
+` Naquele momento,
+` já não havia mais ninguém vivo.
+\
+`"Haha[line=5]ha."@
+br
+` O que foi aquilo?@
+` O que foi que acabou de acontecer?@
+` Um oceano de sangue.@
+` Se no andar de baixo estava daquele jeito, como deve estar nos outros andares?@
+` O que foi aquela cena de carnificina?@
+` O que foi aquela cena do inferno?@
+` Aquilo[line=3]e isso e aquilo e isso… tudo foi obra do "inimigo" do qual a Arcueid estava falando[line=4]!?
+\
+`"[line=6]"@
+` Meus dentes rangem.@
+` Eles se apertam com tanta força uns nos outros que parece que vão quebrar.@
+` Meu corpo ainda está tremendo.@
+` Minha consciência ainda está dormente.@
+` Mas o mais importante de tudo isso é que[line=3]não posso aceitar aquele espetáculo.
+\
+` O que foi que acabou de acontecer?@
+` Como assim!?@ Aquelas criaturas bizarras devoraram todos os hóspedes que estavam nos andares inferiores?@
+` Todos foram mortos e devorados?@
+` Eles foram assassinados sem motivo algum, sem uma chance de argumentar, de escapar, ou até mesmo de pedir ajuda…!?
+\
+`"Só pode ser brincadei[line=2]"@
+br
+` Só pode ser brincadeira.@
+br
+` Aperto a faca com bastante força.@
+` E então.@
+` Com um "ding!" alegre e eletrônico, o elevador que estava parado no décimo andar chega até este andar.
+\
+`"[line=6]"@
+` Viro-me para o elevador, estou a cerca de dez metros de distância no corredor.@
+br
+` A porta abre.@
+` Dentro[line=3]há dois cachorros pretos.
+\
+play "*4"
+`"[line=6]"@
+` …… Entendo.@ Vocês vieram atrás de mim.@
+`"[line=5]Ha."@
+` Seguro a faca com as duas mãos.@
+` Os dois cachorros saem do elevador.@
+` Eles começam a correr.@
+` É claro, na minha direção, a última presa.
+\
+ld c,"tachi/kemo_t02",crossfade,400
+`"Ha[line=5]!"@
+br
+` Eles estão vindo me pegar.@
+` No corpo deles, vejo um número infinito de linhas, e em suas testas, o ponto de morte.@
+br
+` [line=4]Sem hesitar.@
+br
+` Primeiro furo a testa do cachorro que pulou em mim.@
+` Ele cai no chão sem sequer dar um grito.@
+` Ele derrete e vira um líquido preto.
+\
+` Depois disso,
+` o outro cachorro para na minha frente.
+\
+bg #000000,lcartain,400
+` E pula.@
+` Sua velocidade contradiz qualquer comparação humana.@
+` Ele não leva nem dois segundos para cobrir os dez metros do corredor.
+\
+br
+`"Kuh[line=4]!"@
+br
+` Alinho a faca novamente, mas não rápido o bastante.@
+` Ele abre a boca.@
+` Aquela boca está cheia de presas muito mais afiadas que a faca que tenho, e elas estão mirando na minha garganta.
+\
+` Com precisão e rapidez.@
+` No instante que percebo que estão se aproximando de mim,
+` as presas abocanham minha garganta.@
+br
+` E eu morro.
+\
+bg #ffffff,crossfade,1500
+` Mas isso não está certo.@
+` Não posso ser morto por algo assim, eu me recuso a morrer.@
+br
+` Essa tragédia não me faria hesitar.
+\
+br
+` [line=4]Um dia quente de verão.@
+br
+` Isso aconteceu há muito tempo, há oito anos.@
+` Eu vi algo muito mais terrível[line=4]
+\
+bg #000000,crossfade,400
+waveloop se_02
+ld c,"tachi/kemo_t02",crossfade,400
+br
+` Enfia.@
+br
+` Eu enfio minha faca na testa do cachorro que está mordendo meu pescoço.@
+` Meu braço se moveu um pouco antes do cachorro rasgar minha garganta.
+\
+` Isso foi feito com muita perfeição, mesmo para mim.@
+` Como uma máquina cuja única função é furar.@ Enfiei a faca na testa do cachorro sem nenhum movimento inútil ou desperdiçado.@
+` Porque era ali que estava o primeiro "ponto" do cachorro.@
+` Normalmente, mesmo se o cérebro for destruído, os músculos ainda tentam executar os comandos que receberam antes.@
+` Este cachorro provavelmente teria rasgado a minha garganta se eu tivesse simplesmente perfurado sua cabeça.
+\
+br
+br
+br
+br
+br
+br
+br
+` Bem[line=2]normalmente isso teria acontecido.
+\
+` Mas ele está "morto".@
+` A morte é uma paralisação completa.
+\
+cl c,crossfade,400
+` O segundo cachorro também cai ao chão.@
+` Transforma-se em uma mancha negra no corredor do hotel.
+\
+`"Ha[line=2]ah."@
+` Estou cansado.@
+` Com um baque, apoio minhas costas na parede e olho para o teto.@
+bg #9c0120,crossfade,400
+` [line=3]Minha cabeça… dói@
+` O mundo se transforma em uma colcha de retalhos e, aqui e ali, posso ver os pontos negros de morte.@
+` Meu corpo está congelando, mas minha mente está queimando de febre.
+\
+`"[line=2]Kuh!"@
+` Bem ao meu lado estão os corpos dos dois cachorros.@
+` Um dos meu braços está coberto de sangue, o outro agarra uma faca vermelha.@
+` …… Além disso, há um número incontável de cadáveres no andar de baixo.@
+br
+`"[line=4]Ha, haha, hahaha."@
+br
+` A única coisa que consigo fazer é rir.@
+` Porque nada disso é real.@
+` Não tem como isso ser real.@
+` Em qual momento eu, com meus olhos bem abertos, comecei a ver um pesadelo[line=4]?
+\
+` Ding dong.@
+br
+`"Hã[line=2]?"@
+br
+` Um som alegre, totalmente fora de lugar.@
+`"Droga, essa dor de cabeça está me matando[line=2]"@
+` Eu me levanto, suportando a dor de cabeça e olhando para a origem do som.@
+`"Ele… vador…?"@
+` Parece que o som é do outro elevador chegando.
+\
+br
+` A porta abre.@
+` Dentro dele tem um homem usando um sobretudo preto.
+\
+bg #9c0120,crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+bg #9c0120,crossfade,400
+bg "bg/bg_20b",crossfade,400
+` A dor de cabeça piora.@
+br
+`"Ele é[line=2]"@
+` Sim, já vi ele antes.@
+` Tenho certeza que já vi este homem antes.
+\
+`"[line=6]"@
+` Ele caminha silenciosamente na minha direção.@
+br
+`"Você![line=2]!"@
+` Eu preparo minha faca enquanto o encaro.@
+`"[line=7]"@
+` Mas ele não reage, apenas continua vindo na minha direção.@
+` É como se ele não me notasse.
+\
+` A distância entre nós diminui.@
+` Só mais um pouco[line=3]quando há apenas um metro entre nós, o homem finalmente parece me notar.@
+ld c,"tachi/nero_t03",crossfade,400
+` Estes olhos vermelhos.@
+` No instante em que vejo estes olhos que nenhum ser humano deve possuir, perco toda a liberdade de mexer o meu corpo.
+\
+`"Pensei que tinha matado a todos, mas parece que ainda sobrou um."@
+` Ele se vira e olha para os corpos dos dois cachorros.@
+`"[line=2]Seus pedaços de merda.@ Se nem conseguem cuidar de um pedaço de carne, não são dignos de fazer parte do meu corpo."@
+cl a,crossfade,400
+` O homem expressa seu descontentamento e levanta a mão.@
+` Seu sobretudo levanta como um manto.@
+br
+` [line=3]Que loucura.@
+` Com um esguicho, os restos dos cachorros dissolvem e desaparecem dentro do sobretudo do homem.
+\
+`"Ah[line=4]"@
+` Não consigo nem gritar.@
+` Dentro do sobretudo é escuridão pura, sem nem o traço de um esboço.@
+`  Tudo que existe lá é uma escuridão absoluta.@
+`"Is[line=4]"@
+br
+` Isso é perigoso.@
+` Esse cara é muito perigoso[line=4]
+` Meus instintos soam o alarme de perigo descontroladamente na minha cabeça, mas eu não consigo levantar nem um dedo.
+\
+` Ele se aproxima de mim.@
+`"[line=6]!"@
+` Não é uma boa ideia ficar aqui imóvel.@
+` A dor de cabeça constante cresce a um nível insuportável, me dizendo que este lugar é perigoso.@
+` Não importa como, se eu não sair daqui logo, vou perder a minha vida.@
+br
+` [line=4]Mas é tarde demais.@
+br
+` O homem já está na minha frente.@
+` Seus olhos não estão olhando para mim.
+\
+`"Alimente-se."@
+` Ele levanta um dos braços.@
+` Debaixo dele há uma escuridão caótica.@
+` E dela, surge algo enorme.@
+br
+` Whoosh.@
+` O som do vento.@
+` O que surgiu de dentro do sobretudo é a boca de um crocodilo, grande o bastante para engolir um homem inteiro.
+\
+`"Ah[line=6]"@
+br
+` [line=3]Minha consciência explode.@
+` Em pânico, tento cortar a boca do crocodilo.@
+` Mas foi inútil.@
+br
+` O som de algo sendo espremido.@
+br
+`"[line=7]!!!!!!!!!!"
+\
+monocro #ff0000
+bg "bg/bg_20b",crossfade,400
+quakey 2,100
+wavestop
+playstop
+` Caio no chão.@
+`"Haa[line=4]hahhh[line=5]hhhaaghh."@
+` Minha garganta está inutilizada.@
+` Não consigo respirar, estou vomitando sangue.@
+` O sangue está espirrando da minha garganta no ritmo das batidas do meu coração.@
+br
+`"Gah[line=2]ah, aaah, aaah."@
+` Minha consciência/ está despedaçando.@
+` A dor está   obliterando    meus pensamen/tos.@
+br
+` Olhando,
+` consigo ver que o lado direito da minha barriga praticamente não existe mais.
+\
+monocro off
+bg #ffffff,crossfade,800
+!w2000
+`"[line=2]Shiki!?"@
+` …… Ouço uma voz.@
+` Mas não consigo ouvir muito bem.@
+br
+`"Não é muito impressionante para um cão de guarda seu."@
+` …… A voz do homem.@
+br
+`"[line=3]Não posso acreditar que um vampiro chamado 'Caos' está fazendo esses joguinhos.@ É como um pesadelo mal escrito, Nrvnqsr Chaos."@
+` …… A voz da Arcueid.
+\
+`"Eu me sinto da mesma forma.@ Encontrar um dos sobreviventes dos Ancestrais Originais… Nunca nem sonhei que seria parte de uma palhaçada dessas.@ Isso é um pesadelo para mim também."@
+` …… A voz.@ profunda.@ do homem.
+\
+`"…… Mas o que está acontecendo?@ Ouvi dizer que o executor anterior não pôde nem te arranhar.@ Que piada é essa?@
+` Nesse momento, sua presença está extremamente fraca.@ Ainda mais fraca do que um simples membro dos Mortos[line=2]você foi atacada pela Igreja antes de eu chegar, Arcueid Brunestud?"@
+` …… Não consigo ouvir a voz da Arcueid[line=2]
+\
+`"…… Eu não entendo.@ Existe um número limitado de armas conceituais capazes de te ferir.@ Os únicos que as possuem são os assassinos da Igreja, e não acho que a Agência Mortuária enviaria alguém para o Extremo Oriente.@ De qualquer forma, isso é favorável para mim.@ Não vou te perguntar o porquê de estar tão fraca.@ Vou apenas reivindicar a sua cabeça enquanto tenho chance de te vencer."
+\
+` …… O som de passos.@
+` Parece que apesar dessa afirmação, o homem de sobretudo preto está deixando o corredor e indo para o elevador.@
+`"……… ?"@
+` Não entendo.@
+` Está[line=2]tão quente aqui.@
+` Minha consciência começa a ficar embaçada e desaparece[line=2]
+\
+bg #9c0120,crossfade,1500
+bg "bg/bg_20b",notrans,0
+ld c,"tachi/ark_t01a",crossfade,1500
+play "*9"
+`"Ah, você está acordado?"@
+`"…… A…… Arcueid……?"@
+` Fico com os olhos semiabertos.@
+` A Arcueid está na minha frente.@ Parece que estamos no corredor do hotel.@
+`"Como se sente?@ Consegui fechar seu ferimento, mas acho que ainda deve doer."@
+`"………?"@
+` Fechar meu ferimento[line=2]?@ Isso é impossível.@
+` O dano que recebi daquela… coisa, não pode nem ser chamado de ferimento.@
+` Ela levou metade do meu torso.@
+` Já é estranho demais eu ainda estar vivo, mas fechar o ferimento… isso seria praticamente um milagre.
+\
+`"[line=4]Hã?@ …… Como é que eu ainda estou vivo?"@
+` Levanto-me e verifico meu corpo.@
+` …… Não sinto dor alguma.@
+` O lado direito da minha barriga está de volta como era antes.@
+` …… Embora pareça mais escura e inchada.
+\
+`"O-o-qu[line=2]!?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"O que você disse?"@
+`"O q-que é isso…!?"@
+` Aponto para a coisa macia e inchada na minha barriga.@
+` É verdade que não há dor alguma e que estou sentindo um aumento de força lá, mas tenho a sensação que vi algo similar a isso agora há pouco… Espero que seja só minha imaginação…
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ah, isso?@ É um familiar que o Nrvnqsr estava usando para reforçar o próprio corpo.@ Você o acertou quando ele te atacou, não foi?@ Mas ele ainda estava vivo, por isso decidi usá-lo para substituir as suas partes danificadas."@
+`"[line=4]Familiar?@ Então, você quer dizer que[line=2]"@
+` …… O crocodilo que saiu de dentro do sobretudo daquele homem.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Isso mesmo.@ Não é ótimo, Shiki?@ Foi só aquele pedaço, mas ele te devolveu as forças!"@
+` Ela dá uma risada genuinamente feliz.@
+` Mas para mim, isso não é motivo para rir.@
+`"O-o que diabos você fez…!?@ O que estava pensando, colocando coisas estranhas no corpo dos outros assim sem nem pedir permissão…!?"@
+ld c,"tachi/ark_t04",crossfade,400
+`"Qual o problema?@ Eu te salvei, não foi?@ Não consigo curar outras pessoas, e você teria morrido se eu te deixasse daquele jeito.@
+` Ou você preferia ter morrido?"
+\
+`"[line=2]Bem, sou grato que você tenha me ajudado, mas[line=2]como vou viver com um corpo assim de agora em diante…!?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ah, não se preocupe com isso.@ Uma vez que um familiar tenha sido separado de seu mestre, ele é apenas um pedaço de carne.@
+` Está um pouco instável em sua forma no momento, mas com o tempo, ele vai começar a imitar as propriedades do seu corpo e você voltará ao normal.@
+` Além disso, ele vai ser mais resistente do que o seu corpo jamais foi até agora, Shiki.@ Se você estudar magia, pode até mesmo ser capaz de fazê-lo voltar à forma original de crocodilo."@
+` Ela diz isso, parecendo que está mais com inveja do que feliz.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Não está feliz!?@ Agora eu queria que você tivesse sido ferido no corpo todo!"@
+`"Sua idio[line=4]não tem como eu ficar feliz depois de ter algo assim colocado em mim…!"@
+ld c,"tachi/ark_t12",crossfade,400
+`"Não pode ser!@ Você não está feliz mesmo!?"@
+`"Nem um pouquinho!@ …… Bem, acho que pude sobreviver graças a isso, mas não quero ter que sobreviver por esse método nunca mais…!"
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Hummm.@ Tudo bem, vou fazer de um jeito diferente na próxima vez."@
+` Ela murmura uma resposta.@
+` …… Ela está arrependida?@ Ou será que não aprendeu nada?@ Realmente não sei dizer depois de ouvir uma frase como essa.@
+`"…… Bom, está tudo bem.@ Só fiquei um pouco chocado no início porque foi muito repentino, mas você me ajudou, Arcueid.@ Estou muito agradecido por isso."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Sério?@ É estranho você me agradecer por causa disso.@ Não fiz nada demais."@
+`"[line=2]Está tudo bem.@ Estou agradecido, então fique feliz.@ Não precisa se sentir mal por causa disso."@
+`"…… Sim.@ Acho que você está certo."@
+` Ela parece estar perdida em seus pensamentos.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=2]Certo.@ De qualquer forma, vamos sair daqui agora mesmo.@ Com toda essa bagunça que foi feita, teremos problemas se ficarmos aqui por mais tempo."@
+`"Toda essa bagunça-?"@
+cl a,crossfade,400
+br
+` [line=3]Ah, é mesmo.@
+` …… Não tem mais ninguém vivo neste hotel.@
+br
+`"………"@
+` Eu me levanto.@
+` Minha barriga não dói, mas[line=2]é como se meu corpo pertencesse a outra pessoa[line=2]e minha mente flutua.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Vamos para o meu apartamento por enquanto, mas[line=2]Shiki?"@
+cl a,crossfade,1500
+br
+` [line=4]Minha mente… oscila.@
+` A Arcueid está dizendo alguma coisa, mas não consigo ouvir nada.@
+br
+` Como se estivesse caindo em um abismo, perco a consciência[line=4]
+\
+playstop
+bg #000000,crossfade,1500
+!w3000

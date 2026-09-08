@@ -1,0 +1,206 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_40f",notrans,0
+` …… La puerta se abre.@
+` Es demasiado tarde.@ Incluso si la corro, ya ha entrado.@
+br
+` [line=4]Pero aun así.@
+` Ni siquiera puedo realizar la acción llamada "comer".@
+` Eso me excitaría demasiado, y reduciría a pedazos lo que queda de "Tohno Shiki" dentro de mí.
+\
+` …… *jadeo*…… *jadeo*…… *jadeo*……
+br
+` Respiro con dificultad.@
+` De alguna forma.@
+` Tengo que resistirlo.
+\
+ld c,"tachi/koha_t02",lshutter,800
+`"Shiki-san, voy a entrar…… ¿qu, qué sucedió?"@
+` Aún sonriendo, ella observa sorprendida el caos de la habitación.
+\
+` …… *jadeo*…… *jadeo*…… *jadeo*……
+br
+` Su lindo rostro carente de miedo.@
+` Su totalmente desprotegida figura.@ Su cabello rojo[line=4]y su deliciosa piel.
+\
+`"¿Shiki-san……?@ Qué extraño, ¿cómo sucedió todo esto?"@
+` Aún sonriendo, se acerca más hacia donde descanso enroscado sobre la cama.@
+cl c,lshutter,800
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` [line=17]Apresúrate.@
+wave se_01
+` No.@
+` [line=14]Apresúrate.@
+wave se_01
+`    No.@
+` [line=11]Apresúrate.@
+wave se_01
+`       Ya basta.@
+` [line=8]Apresúrate.@
+wave se_01
+`         Cállate.@
+` [line=6]Apresúrate.@
+wave se_01
+`            No quiero.@
+` [line=2]Apresúrate.@
+wave se_01
+`               Yo.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Rápido[line=3]huye…"@
+` Usando los últimos vestigios de mi voluntad, logro dejar salir esas palabras.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"¿Eh?@ Lo siento, no pude escucharlo, ¿podría por favor decirlo de nuevo, Shiki-san?"@
+` Pero están trabajando en mi contra.@
+` Preocupada, ella se acerca más a mi cama.@
+` A mi/A MI,
+!w1000
+` cuerpo/CUERPO,
+!w1000
+` su rostro/SU FIGURA,
+!w1000
+` se acerca/ ME INCITA,
+!w1000
+` más.
+\
+waveloop se_02
+` Sus blancos dedos tocan mi hombro ligeramente.@
+` La sangre palpitando dentro de sus dedos.@
+` La ligera calidez de su cuerpo.@
+` Pequeños fuegos artificiales explotan detrás de mi cabeza.
+\
+bg #000000,lshutter,800
+`"¡Kya[line=4]!"@
+` Escucho un grito.@
+` Mis manos se cierran alrededor de su garganta.
+\
+`"Hua[line=3]ha, a, h[line=3]"@
+` Mi respiración está fuera de control.@
+` ¿Qué.@ Estoy.@ Tratando.@ De hacer?
+\
+`"Shi…… ki, sa[line=3]"@
+` Su voz se corta.@
+` Sin darle importancia, aprieto con más fuerza.@
+` Aprieto.@
+` Los huesos de su cuello rechinan.
+\
+`"¡Al,to[line=3]!"@
+` Un pequeño sonido de desgarre.@
+` Sus dedos se clavan en mi brazo.@
+bg "bg/ima_13",crossfade,800
+` Debe estar enloqueciendo, al verse al borde de la muerte.@
+` Sus uñas atraviesan mi ropa y penetran la carne de mi brazo.
+\
+`"Ah[line=4]ch."@
+` Dolor.@
+` Bueno, no tanto dolor como el que Kohaku debe estar sintiendo.@
+` Pero brota sangre.@
+` Cae de mi brazo hasta la mano que sostiene el cuello de Kohaku.
+\
+`"Ja[line=4]ja."@
+` Pintado de un profundo rojo.@
+` Su rendido cuello ahora está lleno de sangre.@
+` Ya no puedo sentirla para nada.@
+` Sólo el hecho de que morirá en pocos segundos…
+\
+`"Jaja[line=5]ja."@
+` Me parece tan gracioso que comienzo a reír.@ No ha pasado siquiera un minuto desde que tomé su cuello.@
+` Ella no morirá por sofocación.@
+` Sino aquí, por mi mano.
+\
+`"Ja, jaa, ja."@
+` Sin razón alguna, de repente.
+\
+`"Jajaja, ja[line=3]ja, ja, ja."@
+` Como un simple artefacto.
+\
+`"¡Ajajajajajajajajajajajaja!"@
+` Ella morirá al ser rotos los huesos de su cuello.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40c",crossfade,800
+wavestop
+` En un instante,
+` como si fuese liberado de una posesión demoníaca, la pasión desaparece.@
+br
+` Ante mis ojos está el ensangrentado cuerpo de Kohaku-san.@
+` Mi mano está sujetando su cuello y en cualquier momento[line=5]
+br
+`"¡[line=6]!"@
+` Rápidamente la suelto.
+\
+` Sin sonido alguno,
+br
+` Kohaku-san cae al suelo.
+\
+`"Uu…… ha, [line=5]"@
+` Kohaku-san respira dolorosamente con los ojos cerrados.@ "Kohaku[line=4]san."@
+` …… Está viva.@
+` Sólo un poco más.@ Si continuaba sólo un poco más, habría[line=4]
+\
+eroskip 3
+`"Uu……, u, u………"@
+` …… Está llorando.@
+` Tirada en el suelo, incapaz de moverse, ella está llorando.@
+` Cuando bajo la mirada.@
+` Veo que su kimono está cubierto por un fluido blanco.@
+br
+` Eso, es mi semen.@
+` Yo[line=4]al hacer eso, ¿fui liberado de lo que fuese que estaba dentro de mí?
+\
+`"[line=5]Ha."@
+` No puedo creerlo.@
+` Mientras una mano estaba sofocando a Kohaku-san, mi otra mano[line=4]¿estaba disfrutando con el placer de matar algo?@
+br
+` [line=4]Palpitar.@
+br
+` No ha, terminado.
+\
+` Aún estoy totalmente erecto, y más que eso, no estoy satisfecho.
+\
+` Estoy tan sediento.@
+` Le he[line=3]hecho una cosa tan terrible a Kohaku-san, pero aún no parece haber terminado.@
+` La verdad es que mi arrepentimiento está disminuyendo incluso ahora, mientras miro el cuello de Kohaku-san.@
+br
+` Su blanco cuello.@
+` Pongo mis dientes sobre su garganta y.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Quiero, chupar, su sangre.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=4]Jaja."@
+` Estoy averiado.@
+br
+`"Aja, ajaja."@
+` En verdad estoy averiado.@
+br
+` Estoy acabado.@
+` Ya[line=3]no tengo la confianza para permanecer cuerdo.
+\
+`"Ajaja, jajaja, ja."@
+` Afuera.@
+` Tengo que ir afuera.@
+` Si permanezco aquí, mataré a Kohaku-san.@
+` Si permanezco en la mansión.@ Mataré incluso a Akiha y a Hisui.@
+` Antes de que aquel impulso venga de nuevo, tengo que desaparecer.
+\
+`"¡Ajajajajajaja!"@
+br
+` Un lugar donde no haya nadie.@
+` Tengo que ir a un lugar donde no haya nadie o enloqueceré de nuevo[line=4]
+\
+bg #000000,crossfade,1500
+!w1000

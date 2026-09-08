@@ -1,0 +1,768 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_52",lcartain,400
+` Envolta pela noite, a Arcueid caminha pela rua.@
+` Ela olha apenas para a frente, sua bela figura branca com seus cabelos dourados ao vento.@
+` É uma semelhança horrível com a primeira vez que a vi.@
+` Não, talvez…
+` Talvez seja como na vez em que ela enfrentou o Nrvnqsr.@
+br
+` …… Por algum motivo, tenho um mau pressentimento quanto a isso.
+\
+`"Ei, Arcueid!"@
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=6]"@
+` Ela continua andando sem olhar para trás.@
+`"Vamos conversar.@ Pelo menos me diga quais são os seus planos."@
+`"[line=6]"@
+` E obviamente, ela apenas continua andando sem olhar para trás.@
+` …… Seria uma vergonha se eu deixasse as coisas assim.@
+` Resolvo segui-la em silêncio por enquanto.
+\
+bg #000000,lcartain,800
+bg "bg/bg_26a",lcartain,400
+` Os passos ecoam pela brisa noturna.@
+br
+` [line=3]E então,
+` de repente, a Arcueid para e se vira para mim.@
+ld c,"tachi/ark_t07",crossfade,400
+`"Não me siga.@ Não entende que é perigoso para uma pessoa normal como você me seguir por aí?"@
+`"[line=3]Então me diga o que você vai fazer que eu vou embora."@
+ld c,"tachi/ark_t06",crossfade,400
+`"…… Não é da sua conta, me deixe em paz."@
+` Ela volta a caminhar.@
+cl c,lshutter,400
+` …… Droga.@
+` Parece que o nosso passeio silencioso vai continuar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Quando nos aproximamos da rua principal, a Arcueid fica paralisada.@
+ld c,"tachi/ark_t22",lshutter,400
+play "*4"
+`"[line=3]Achei."@
+`"Hã……… ?"@
+` Sua voz é fria, como se fosse uma pessoa totalmente diferente.@
+`"[line=4]Ah."@
+` …… Um calafrio corre pela minha coluna.@
+` Mesmo estando atrás dela, consigo sentir sua hostilidade se manifestando.
+\
+`"Arcueid[line=3]O que você[line=2]"@
+` Nem consigo terminar de falar.@
+` Sua intenção está clara, mesmo sem dizer nada.@
+` Sem dúvidas, ela está dominada pela pura e autêntica intenção de matar.
+\
+`"Ei[line=3]O que está pensando……!?"@
+`"[line=4]"@
+` Ela não responde.@
+` Seus olhos estão fixos unicamente em um homem de terno que está passando.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki.@ Tire os óculos e olhe para aquela pessoa."@
+`"Aquela pessoa[line=3]está falando do cara de terno?"@
+`"Rápido.@ Se quiser saber o que estou fazendo, deixe as perguntas para depois."@
+`"[line=4]Tudo bem.@ Não gosto de tirar meus óculos dentro da cidade, mas[line=3]"@
+cl c,notrans,0
+\
+monocro #ff00ff
+bg "bg/bg_25b",lshutter,1500
+` Eu tiro os óculos.@
+`"…… Ai."@
+` Na mesma hora minha cabeça começa a doer de leve.@
+` Em compensação pela dor, posso ver as "linhas" percorrendo todos os muros e o chão.
+\
+monocro off
+bg "bg/bg_25b",lshutter,1500
+ld c,"tachi/ark_t01b",crossfade,400
+`"Uma pergunta, Shiki.@ Você só consegue ver "pontos" em coisas vivas, certo?"@
+`"Hã[line=3]?@ É, parece que funciona assim.@ Coisas como prédios só têm linhas."@
+` …… Eu vi aquela vez no hotel, ao custo de uma dor de cabeça que quase me fez desmaiar.@
+`"Certo, como você é um ser vivo, não pode compreender a morte de objetos inanimados.@
+` Para conseguir "ver" a morte de objetos inanimados, primeiro você precisa se conectar a um circuito da mesma orientação que eles.@ Para "ver", você precisa "compreender" primeiro.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Outra pergunta.@ Como você vê aquela pessoa?"
+\
+cl c,notrans,0
+`"[line=4]?"@
+` Vai ser o mesmo de sempre[line=3]
+ld c,"tachi/man_t03",lshutter,400
+`"[line=4]!?"@
+` Sem pensar, dou um passo para trás.
+\
+` …… O que é aquilo?@
+` É claro que todos os seres humanos têm as "linhas" em seus corpos.@
+` Mas eles possuem uma quantidade limitada e que seguem padrões geométricos.@
+br
+` Mas[line=3]o que é aquilo?@
+` Há "linhas" percorrendo todo o seu corpo.@ Aquelas "linhas" o cobrem por inteiro, como se fossem vasos sanguíneos… são tantas linhas que nem consigo distinguir sua aparência.
+\
+`"[line=4]Credo."@
+` Quero vomitar.@
+` As "linhas" pretas[line=3]são rabiscos que estão criando uma forma humana… eu vejo "pontos pretos" por todo o seu corpo, e parece jorrar sangue deles[line=4]
+cl c,lshutter,400
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki, o que você vê quando olha para ele?@ Parece uma pessoa normal ou não?"@
+`"[line=6]"@
+` Não consigo responder.@
+` Nesse momento[line=3]preciso concentrar todas as minhas forças só para segurar o vômito.
+\
+`"[line=3]Entendo.@ É lamentável que você seja capaz de ver a morte até mesmo naquela coisa."@
+`"Sim…… não é normal, mas…… eu ainda, posso ver, as linhas……"@
+ld c,"tachi/ark_t07",crossfade,400
+`"Eu sabia[line=3]você pode matar até mesmo Os Mortos.@ O fato de que eles não possuem qualquer tipo de vida não significa nada para você.@ Você pode destruir completamente qualquer coisa, sejam as que se movam, que quebram, sem exceções[line=3]Você é um verdadeiro monstro, Shiki."@
+`"Hein[line=5]"
+\
+ld c,"tachi/ark_t22",crossfade,400
+`"Como pôde ver, já não podemos mais chamar aquela coisa de humano.@ É um vampiro que engana a morte sugando o sangue de outras pessoas."@
+` A Arcueid acelera o passo.@
+` Ela vai na direção do homem.
+\
+`"Ei, Arcueid[line=3]"@
+`"Fique aí, Shiki!"@
+` Será que aquele homem percebeu a presença dela?@ Ele começa a correr em direção a um beco.@
+` Ela avança silenciosamente.@
+` Sob o luar, ela desaparece dentro do beco.
+\
+cl c,lshutter,400
+bg #000000,lshutter,400
+monocro #ff00ff
+bg "bg/bg_25b",lshutter,1500
+br
+` [line=3]Tu, dum.@
+br
+` As batidas do meu coração estão bem altas.@
+` Ainda nem é de madrugada.@
+` Mesmo estando no meio de um distrito comercial movimentado, não consigo sentir a presença de ninguém além de mim mesmo.
+\
+br
+` [line=3]TU, DUM.@
+br
+` Meus óculos[line=3]tenho que colocar os meus óculos.@
+` Se eu não fizer isso, vou ver coisas terríveis.
+\
+` Vou ver algo tão terrível que tudo o que vi até hoje não seria nada em comparação.
+\
+br
+` [line=3]Tu, dum.@
+br
+` Mas meu corpo não se mexe.@
+` Meus olhos, que veem o mundo como se fosse uma colcha de retalhos, estão olhando fascinados para aquele beco.
+\
+playstop
+`"[line=6]"@
+waveloop se_02
+` De repente, os sons desaparecem.@
+!w500
+` E a presença de outras pessoas,
+!w500
+` o som do vento,
+!w500
+` e o cheiro de sujeira.@
+br
+` Tudo congela.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]GI
+\
+` Sob o luar congelado.@
+` Um barulho bizarro surge do outro lado do muro.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]GOH.
+\
+br
+br
+` Não consigo ver nada,
+` não consigo ouvir nada.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Um som repulsivo
+\
+br
+br
+br
+br
+` Mas eu consigo ver algo.@
+` Meus olhos veem o som da morte.
+\
+monocro #ff0000
+bg "bg/bg_25b",lshutter,800
+`"Gah[line=4]"@
+` Estou enxergando tudo vermelho.@
+` Por que[line=3]meus olhos veem a "morte", algo que não deveria ser visto?@
+`"[line=4]"@
+` Meus óculos.@ Preciso colocá-los senão vou ficar louco.@
+br
+` Contenho minha ânsia de vômito e com as mãos trêmulas coloco os óculos.
+\
+wavestop
+bg #ffffff,crossfade,400
+monocro off
+bg "bg/bg_25b",crossfade,400
+` Os sons e as luzes retornam ao meu mundo.@
+` Agora que estou calmo, olho ao meu redor e não vejo nada fora do comum no distrito comercial.@
+` A agitação das pessoas que estão passando.@
+` O brilho da vitrine de uma loja e o som do motor dos carros.
+\
+` Estou muito ofegante.@
+br
+` Mal consigo respirar.@
+` Mesmo depois de colocar os óculos, ainda sinto vestígios daquela "morte" e isso me deixa enojado.
+\
+ld c,"tachi/ark_t18",lshutter,800
+`"Ar[line=2]cueid……?"@
+` Ela sai do beco cambaleando, tendo mais dificuldade para respirar do que eu.@
+br
+`"[line=3]Shiki…… Ah, você ainda, estava aqui."@
+` Com a respiração ofegante, ela passa por mim.@
+` Ela cambaleia para frente e para trás, e anda com dificuldade, como se estivesse doente.@
+cl c,lshutter,800
+\
+br
+` [line=3]Para ser sincero, ainda não me sinto bem.@
+` Mas ver a Arcueid sofrendo desse jeito me faz suportar isso.@
+br
+`"Espere aí, o que está acontecendo……!"@
+ld c,"tachi/ark_t18",crossfade,400
+`"Eu estou bem, só estou um pouco cansada, não se preocupe.@  [line=4]Isso não é problema seu, Shiki."@
+`"Idiota, se está cansada, descanse!@ Não tem como você estar bem com este rosto pálido!"@
+` Ainda com dificuldade para respirar, agarro o braço dela.
+\
+`"…… Escuta aqui.@ Você fica dizendo essas coisas, mas também está com cara de quem vai desmaiar a qualquer momento."@
+`"É apenas minha anemia.@ Já que tem tempo para se preocupar comigo, preocupe-se com a sua saúde."@
+`"[line=3]Está tudo bem.@ Não tem por que se preocupar com isso."@
+cl c,crossfade,400
+` A respiração dela está muito fraca.@
+`"Não me diga que[line=3]o ferimento daquela vez[line=3]"@
+` Ainda não se curou?@ Mas não consigo terminar a frase.@
+` Porque ela se feriu me salvando.
+\
+`"[line=5]"@
+` Ela não responde, apenas olha para baixo.@
+` Mas para mim foi uma afirmação muita clara.
+\
+`"Idio[line=4]O que está fazendo nesse estado!?@ Você precisa pegar leve enquanto não estiver completamente curada!"@
+`"Eu acho[line=4]que estou[line=4]pegando leve."@
+`"Não está!@ Mesmo estando em um nível sobre-humano, o que estava fazendo nessas condições[line=3]"@
+br
+` …… Não posso deixá-la sozinha.
+\
+` Eu sabia.@ Simplesmente não posso deixar essa encrenqueira sozinha.
+\
+`"Não fique calada, me responda.@ Não vou embora até você me explicar tudo……!"@
+` Eu seguro os ombros dela.@
+` Ainda olhando para baixo, ela concorda.@
+`"…… Nossa, você é muito persistente.@ Tudo bem, vamos conversar em outro lugar."@
+` Soltando-se de mim, ela começa a caminhar, ainda cambaleando.
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+` Chegamos no parque.@
+` Seu rosto está alegre como de costume, como se a caminhada até aqui tivesse recuperado suas energias.
+\
+ld c,"tachi/ark_t01a",lshutter,400
+play "*2"
+`"Bem, como pediu, vamos conversar sobre o que você quiser, Shiki."@
+` Não sei para onde foi sua fraqueza de agora há pouco, mas ela ficou bem arrogante.
+\
+`"Então me responda, quem era aquele cara de agora há pouco?@ Você disse que era um vampiro, ele que era o seu alvo?"@
+`"Não, ele faz parte do meu alvo, mas colocar Os Mortos de volta em seus túmulos não é meu objetivo.@ Só o matei por ele ser um subordinado do meu "inimigo".@
+` Se eu o ignorasse, ele iria matar mais pessoas para aumentar seu poder."
+\
+`"…… Arcueid.@ Você pode explicar isso de uma forma que eu entenda?@ Não sei nem se aquele cara era humano ou não."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ah.@ Acho que nunca te expliquei direito sobre os vampiros, né!@ O Nrvnqsr era uma aberração em meio à raça dos vampiros, então não precisei explicar nada disso daquela vez."@
+`"……?@ Então, o que é um vampiro normal?"
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Estou falando do que vocês acreditam sobre vampiros.@ Seres imortais, que nunca envelhecem, que sugam sangue humano e transformam esse humano em outro vampiro, que são destruídos pelo sol, estou falando sobre todas essas crenças.@
+` Meu "inimigo" é esse tipo de vampiro."@
+`"…… Hum, e esse seu "inimigo" é quem está por trás de todos os assassinatos que vêm acontecendo?"
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"…… Acredito que sim.@ Mas sugar o sangue de todas aquelas pessoas deve ser o trabalho dos "Mortos", como aquele que você viu agora há pouco.@
+` Shiki, você se lembra que o corpo do Nrvnqsr era feito de todos aqueles familiares, né?"@
+`"[line=3]Sim, não é algo que dá para esquecer facilmente."
+\
+`"Os Mortos são iguais.@ Quando humanos têm seu sangue sugado por um vampiro, eles também podem receber um pouco do sangue desse vampiro.@
+` Eles morrem, mas permanecem neste mundo como servos do vampiro.@ Eles são chamados de Os Mortos e são como os familiares do vampiro.@
+` Ah, talvez seja mais fácil de entender se eu usar a palavra zumbi.@ É parecido com a crença vodu do Haiti, em que a Serpente-Deus branca, Damballa, é invocada para controlar um corpo morto.@ Mas vamos simplesmente dizer que um corpo morto que se move é um zumbi, tudo bem?"@
+br
+` [line=3]É, eu consigo visualizar melhor dessa forma.
+\
+`"Entendi, aquele homem foi morto por um vampiro que agora o usa como um zumbi?"@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Sim, isso mesmo." Ela concorda alegremente.@
+`"[line=3]Mas eu continuo confuso.@ Por que um vampiro faria uma coisa dessas?@
+` Matar alguém[line=3]e não deixar essa pessoa morrer, depois controlá-la dessa forma, que coisa desagradável."
+\
+`"Concordo, esses vampiros são bem desagradáveis.@ Mas isso é uma coisa que só os Apóstolos da Morte fazem.@ Aqueles que são vampiros de nascença não fazem esse tipo de coisa."@
+`"[line=4]?"@
+` Vampiros de nascença ……?
+\
+`"[line=3]Eu me lembro.@ Você disse que existiam dois tipos de vampiros, aqueles que nasceram vampiros e aqueles que já foram humanos um dia.@
+` …… Quando ouvi isso, fiquei martelando essas palavras na minha cabeça, achei meio estranho.@ Então, pode me explicar sobre aqueles que não nasceram vampiros?"
+\
+`"É muito simples, os Apóstolos da Morte costumavam ser humanos.@ Eles ganharam a imortalidade através de magia ou se tornaram servos dos Ancestrais Originais que sugaram seu sangue.@
+` …… Shiki, você disse que era desagradável usar humanos que foram mortos, mas isso é o de menos.@ Existem vampiros que pensam em joguinhos bem piores."
+\
+`"[line=3]Joguinhos[line=3]como assim?@ Vocês matam por diversão e usam os cadáveres das pessoas como brinquedos……!?"
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"…… Não vou negar isso.@
+` Para os vampiros, se divertir é o mesmo que respirar.@ Para aqueles que já foram humanos e ganharam a imortalidade imperfeita, seu maior inimigo é o tédio.@
+` Para começo de conversa, eles não tinham um motivo real para alcançar a imortalidade, por isso quando se tornaram imortais, perderam toda a ganância.@
+` O objetivo deles era a própria imortalidade, por isso são desse jeito."
+\
+`"[line=3]Eles estão entediados e querem brincar?@ Não seja ridícula.@ Já não basta serem imortais?@ Não envelhecerem ou morrerem?@ Eles precisam mesmo de mais alguma coisa?"
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Mas é como eu disse, eles conseguiram tudo o que queriam.@ Eles não possuem mais nenhuma razão para existirem.@
+` Assim que alguém descobre que não tem mais valor[line=3]que sua vida está parada, sua razão de existir desaparece.@
+` Imortalidade é um sinônimo de morte.
+\
+` Eles começaram a se cansar e criaram suas próprias formas de diversão, como se fosse para provar para si mesmos que, enquanto estivessem vivos, poderiam se divertir.@ [line=3]Esse foi o começo de tudo.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Eles copiam os humanos e se veem em um jogo, como os lordes de um castelo expandindo seus territórios.@
+` Acho que poderíamos chamar isso de um jogo Dos Mortos.@ Parece que eles se divertem mais do que esperavam."@
+br
+` …… Ela fala como se isso não tivesse nada a ver com ela.@
+` A Arcueid deveria ser como eles, mas parece que não tem esse passatempo.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Bem, vamos focar no assunto principal, os Apóstolos da Morte eram originalmente humanos.@
+` Existem poucos casos que eles se transformaram em vampiros através de suas pesquisas mágicas, a maioria deles eram humanos que tiveram seu sangue sugado.@
+` Eles são imortais, mas não podem durar para sempre.@ Só podem continuar imortais se beberem o sangue dos outros.@
+` Eu não disse que a imortalidade deles era imperfeita?@ Se eles não se alimentarem de humanos a imortalidade desaparece."
+\
+`"…… Espere um pouco, isso não é estranho?@
+` Para se tornarem imortais eles bebem sangue humano, isso não significa que um novo Apóstolo da Morte vai nascer toda vez que fizerem isso?"
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Não, as coisas ficam complexas a partir daqui.@
+` As pessoas que têm seu sangue sugado morrem.@ Mas nessa hora, se o Apóstolo da Morte colocar um pouco de seu sangue dentro do corpo da vítima, o corpo não poderá morrer.@
+` Os corpos impossibilitados de morrer permanecem alguns anos dentro do túmulo e quando o cérebro apodrece e a alma é "fixada" no corpo, eles se transformam em um cadáver que se alimenta de carne, um carniçal.@
+ld c,"tachi/ark_t01a",crossfade,400
+` Somente uma a cada cem pessoas tem esse potencial.@
+` …… Bem, existem aqueles que têm uma habilidade natural para "pular" esse processo e se tornar um vampiro imediatamente, mas isso é tão raro que está fora de cogitação."
+\
+`"Os cadáveres que se transformam em carniçais comem a carne de outros corpos para sustentar suas partes apodrecidas.@
+` Depois de restaurar seus corpos por completo, eles podem virar zumbis…… membros da classe de cadáveres vivos, os Mortos-Vivos."@
+`"[line=3]Hum.@ Então esses Mortos-Vivos são iguais "Os Mortos" que você estava falando antes?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Não.@ "Os Mortos" são apenas fantoches.@ Os Mortos-Vivos são bem mais fracos que Os Mortos, mas eles têm vontade própria e são membros da raça vampírica por causa disso.@ Eles estão em um nível diferente daqueles "Mortos" que são simplesmente manipulados."
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Depois de muitos anos, quando um Morto-Vivo consegue recuperar sua inteligência, ele vira um vampiro.@
+` É provável que apenas um a cada dez mil tem essa habilidade.@ Como eu disse antes, quanto mais potencial você tem, maior será sua probabilidade de sucesso.@
+` Nós chamamos de Apóstolos da Morte aqueles que criam esses tipos de vampiros."
+\
+`"…… Mas isso continua estranho.@ Se esse jogo continuar, o mundo não vai estar transbordando com vampiros um dia?"
+\
+`"Não necessariamente.@ Normalmente, os Apóstolos da Morte são mortos pelos novos vampiros que eles criam.@
+` Eu já não disse?@ Eles agem como humanos.@ Eles colocam seu próprio sangue dentro dos humanos que caçaram por pura diversão.@
+` Um a cada dez mil desses cadáveres se transformam em vampiros e eventualmente matam seus criadores, se tornando novos Apóstolos da Morte."
+\
+`"São como simples Cavaleiros que se tornam Lordes através da força bruta e matam seu rei[line=4]eles só conseguem sobreviver jogando esses joguinhos.@
+ld c,"tachi/ark_t03",crossfade,400
+` …… Não entendo bem o porquê, mas acho que isso não os deixa morrer de tédio.@
+` Acho que são os caprichos de uma existência próxima a de um demônio.@ Mesmo sendo imortais, se não mantiverem sua razão para existir, seria uma imortalidade vazia."@
+` A Arcueid deixa claro como acha tudo isso uma tolice.
+\
+`"…… Entendi.@ Quer dizer que aquele Morto que você matou agora há pouco…… era como um soldado dos Apóstolos da Morte?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Não é bem um soldado, está mais para uma marionete.@ Os Apóstolos da Morte controlam os cadáveres pulando o processo que os transformariam em vampiros.
+\
+` Os Mortos são totalmente conectados com seu vampiro criador.@
+` Eles atacam os outros e comem sua carne para sobreviver, porém mais da metade dessa energia vai para o seu mestre.@
+` Como uma abelha rainha alimentada pelas abelhas operárias, os Apóstolos da Morte usam Os Mortos para aumentarem seu poder enquanto dormem."
+\
+`"…… Não estou conseguindo encontrar facilmente o meu "inimigo" porque ele está usando muitos Mortos.@
+` Ele suja as mãos apenas uma vez.@ Depois disso, simplesmente controla Os Mortos enquanto dorme e expande seu território.@
+` [line=3]A mídia disse que encontraram vários corpos nos recentes supostos assassinatos, mas na verdade, aqueles foram apenas os que falharam.@
+` Já há mais de cem vítimas nesta cidade.@
+` Mas apenas as que foram encontrados viraram notícia na mídia."
+\
+cl c,crossfade,400
+playstop
+`"O qu[line=4]"@
+` Mais de cem[line=3]?@
+` Tantas pessoas assim tiveram seu sangue sugado?@
+` E todas elas sugam o sangue de outras pessoas e as transformam em monstros como a si mesmas, como aquela coisa que encontramos agora há pouco[line=3]
+\
+`"……… Isso é ridículo."@
+` Três dias atrás.@
+` Eu me lembro de como aquelas pessoas no hotel foram mortas sem motivo algum.@
+br
+` Eu estava lá, mas não vi acontecendo, então só posso imaginar e não dizer exatamente o quão violento foi o massacre.@
+br
+` Está acontecendo a mesma coisa.@
+` Não consigo entender a existência de vampiros que sugam sangue humano apenas para aumentar seu território.
+\
+` [line=3]Eu,
+br
+` como eu reagiria se alguém próximo a mim morresse daquela forma, sem motivo algum?@
+` Eu nem gosto de pensar nessas coisas, mas por um breve momento…@
+` Penso na Akiha tendo seu sangue sugado e sendo descartada como lixo.@
+br
+`"K[line=4]"@
+` O que mais me enfurece[line=3]é o fato de que, na pior das hipóteses, isso pode acontecer a qualquer minuto nesta cidade e eu não tinha nem noção disso.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Eu sabia que você ia ficar bravo, Shiki.@
+` …… Eu não queria falar sobre esse assunto porque para as presas[line=3]para vocês, esse é um mal imperdoável.@
+` Para pessoas como você, as atitudes dos vampiros são imperdoáveis."
+\
+`"…… Mas é claro.@ Tudo isso é simplesmente um absurdo.@
+` Ainda que sejam pessoas que não conheço, cada uma tinha sua história e sonhos que desejava alcançar.@
+` Até mesmo eu[line=3]não quero ser morto apenas para divertir alguém.@ Seria deplorável.@ Sem sentido algum.@
+` Seria simplesmente[line=3]muito patético, não acha?"@
+cl c,crossfade,400
+\
+` [line=2]É mesmo.@
+` Todas aquelas pessoas assassinadas pelo Nrvnqsr em meio ao medo e ao caos.@
+` Será que seus últimos pensamentos estavam cheios de tristeza e remorso?@
+br
+` Naquela noite no parque.@
+` Aquela garota que foi morta pelo Nrvnqsr enquanto passava ali por pura coincidência.@
+` Ela nem percebeu que estava morrendo.
+\
+` Uma morte sem o menor sentido.@
+` Um fim tão abrupto.@
+` Uma morte que ninguém ficou sabendo.@
+` Quando aconteceu, eu fiquei arrasado pela completa falta de racionalidade daquilo tudo.@
+` Meu medo do Nrvnqsr desapareceu e, acima de tudo, eu o odiei.
+\
+`"…… Não posso aceitar isso.@ Não importa o motivo, não posso aceitar."@
+` Ranjo os dentes.@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Shiki, não existe motivo.@ Para eles, é apenas um jogo."@
+`"[line=3]É por isso que é ridículo.@ Para vocês isso não passa de um jogo……!?@ O Nrvnqsr e esse outro cara, o que eles pensam que vidas humanas são……!?"
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Eles inventam esses jogos porque acham que suas vidas não valem nada.@
+` Nem eu consigo entender como eles pensam, nem pretendo entender.@
+` Mas se você perguntar quem é o culpado aqui, são os mais fracos, não acha?@ No final das contas, aqueles que são mortos são os culpados.@ É a lei da natureza, a sobrevivência do mais forte."
+\
+`"O qu[line=4]"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Mas se você parar para pensar, a raça humana é bem forte.@
+` De um ponto de vista, a habilidade de compensar suas fraquezas com outras coisas, faz da sua raça a mais forte.@
+` É provável que os únicos capazes de matar a maior criatura de todas, aquela chamada de "mundo", são os humanos."
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Mas mesmo que sejam fortes como uma espécie, eles são fracos como indivíduos.@
+` Eles não podem viver sem sacrificar as vidas daqueles que não são de sua raça, o que é um "mal" imperdoável, não acha?@
+` Não importa se possuem inteligência ou não, para vocês, tudo não passa de um jogo justo por comida, não é?@
+` Por isso[line=3]aqueles que matam sempre estão certos.@ Se existe algum pecado, é o de vocês não serem capazes de se protegerem sob essa regra."
+\
+`"Isso[line=3]isso é apenas o argumento do mais forte.@ Os humanos não são fortes como todos vocês.@
+` Por não sermos capazes de nos defendermos completamente é que vivemos juntos, para ajudar uns aos outros[line=3]Eu não saberia o que fazer se seres como vocês se misturassem entre nós e[line=3]"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Isso é verdade.@ Esse é o mecanismo de defesa da sua espécie.@
+` Já que vocês não conseguem se proteger quando algumas espécies entram em seu grupo, vocês criam regras para garantir que elas não sejam capazes de entrar.@
+` …… É exatamente como você diz, Shiki.@
+` Por isso, casos como o desta cidade geralmente não ocorrem.
+\
+`"Você pode não saber, mas a raça humana é realmente muito forte.@ Vocês ergueram um mecanismo de defesa contra as raças que superam em muito a sua.@
+` Se ele estivesse funcionando corretamente, não haveria aparecido vampiro algum nesta cidade nos últimos oito anos."@
+`"Mecanismo…… De defesa?"
+\
+`"Sim.@ Vampiros escondem os corpos de suas vítimas e permanecem na escuridão porque não querem ser descobertos pelos seres humanos.@
+` Eles escondem suas identidades e expandem seus territórios para protegerem suas próprias vidas.@
+` Eles não querem que a existência dos vampiros seja conhecida.@ Se forem descuidados, o mecanismo de defesa poderia reagir.@
+` Bem, ele provavelmente ainda não reagiu mesmo depois das notícias sobre o "Vampiro dos Tempos Modernos" porque esse país é ateu."@
+`"…………?"@
+` Sua escolha de palavras é tão única que não consigo compreender o que de fato ela quer dizer com isso.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+play "*8"
+` "Mas pode ficar tranquilo, Shiki.@
+` Mesmo que os inimigos jurados deles não estejam neste país, eu estou aqui agora.@
+` Eu não te disse antes que meu propósito era executar vampiros?"@
+` Eu não sei para onde foi aquela atmosfera pesada, porque a Arcueid fica animada de repente.
+\
+`"Sim, eu me lembro.@ …… Mas você é uma vampira também, certo?@ Por que se alia aos humanos?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Na realidade, não estou do lado dos humanos, só faço isso porque não tenho mais nada para fazer."@
+br
+`"[line=4]?"@
+` Ela não tem mais nada para fazer?@ Continuo sem entendê-la.
+\
+`"Bem, isso faz com que os Apóstolos da Morte venham atrás de mim, mas você derrotou o Nrvnqsr que estava me perseguindo, não foi, Shiki?"
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Agora eu posso voltar ao meu plano original e derrotar o meu "inimigo".@
+` Você pode voltar a viver sua vida normal agora, não precisa mais se associar a mim."@
+` Ela sorri, como se estivesse feliz por algum motivo.
+\
+cl c,crossfade,400
+\
+`"Ah[line=2]é.@ Isso me deixa contente, mas[line=2]"@
+br
+` Mas[line=3]você vai ficar bem sozinha?@
+br
+` Essas palavras pairam no fundo da minha mente.@
+` …… Tem algo errado comigo.
+\
+` Estou me sentindo culpado por deixá-la encarar o perigo sozinha.@ Realmente deve haver algo de errado comigo.
+\
+`"………………"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Shiki?@ Por que está fazendo essa cara de preocupado novamente?"@
+`"Porque eu estou preocupado.@ Isso é algo que envolve a cidade onde moro."@
+`"Eu disse que você não precisava se preocupar.@ Em dois ou três dias vai estar tudo terminado, não haverá mais vítimas."@
+cl c,crossfade,400
+br
+` É, sinceramente, não quero me envolver.@
+br
+` [line=3]Mas aquilo que ela disse…
+` Não deveria ser eu, aquele que vive nesta cidade, quem deveria dizer aquela frase ao invés da Arcueid?
+\
+`"…… Arcueid.@ Hum, posso te fazer uma pergunta?@ Esse "inimigo" de quem você fala, ele é forte?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Bem, ele deve ser muito superior ao Morto de agora há pouco.@ Eu ainda não me encontrei com ele dessa vez, mas por ter ficado latente por oito anos, talvez ele seja um vampiro de Classe Cinco agora."@
+`"[line=3]Está dizendo que ele é mais forte que O Morto de agora há pouco?"@
+` Ela parece ter sofrido bastante na luta contra apenas ele, será que não está subestimando demais seu inimigo, Arcueid?
+\
+`"…… Classe Cinco?@ Eu não entendo, mas isso significa que ele é mais forte que o Nrvnqsr?"@
+`"Claro que não.@ O Nrvnqsr era especial.@ Ele era um vampiro puro e supremo, que seria difícil de vencer mesmo usando todo o meu poder.@ Comparado a ele, esse inimigo é muito fraco."
+\
+`"[line=4]Ah.@ Então não há como você ser derrotada."@
+` Eu suspiro aliviado.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum, quem sabe, né?@ Alguns dias atrás ele não seria um problema, mas agora eu estou me recuperando.@ A possibilidade de que ele tenha mais poder que eu é grande."@
+`"…… Recuperando?@ Arcueid, você está doente ou algo do tipo?"@
+`"Sim, ainda sofro os efeitos de quando você me matou e não acho que vou melhorar por pelo menos mais alguns dias."@
+`"[line=4]Ah."@
+cl c,crossfade,400
+` É verdade[line=2]o motivo pelo qual a Arcueid está fraca… não é culpa de ninguém além de mim mesmo.
+\
+` A Arcueid toca suavemente ao lado da sua barriga.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Parece que os ferimentos não estão curando como de costume.@ Eu pude cuidar da parte externa, mas não consigo curar a parte interna."@
+br
+` [line=3]E tem aquele ferimento também.@
+` O que ela recebeu para me salvar.
+\
+`"U[line=5]"@
+` Eu estou sem palavras.@
+` A culpa por ela estar nesta situação é toda minha.@
+br
+` Então, por quê?@
+` Por que ela não usa isso contra mim?@ Por que ela simplesmente me mostra esse sorriso inocente[line=3]?
+\
+`"…… Você precisa parar.@ Apenas descanse até estar devidamente curada.@ O mundo não vai acabar se você tirar um ou dois dias de folga, portanto[line=3]"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Não seria uma boa ideia.@ Graças à chegada do Nrvnqsr, o "inimigo" sabe que estou aqui.@ Parar para descansar seria como dizer a ele que estou enfraquecida."
+\
+`"Então você está dizendo que vai continuar nessas condições?"@
+`"Sim.@ Já que não sei onde é o covil do "inimigo", tenho que continuar destruindo suas fontes de sangue.@
+` Se eu acabar com todas elas, isso vai forçá-lo a aparecer."
+\
+cl c,crossfade,400
+`"[line=3]Arcueid.@ E se isso acontecesse amanhã?@ Você não seria morta ao invés dele……!?@ Então[line=3]"@
+` Eu quero mandá-la parar, mas hesito e não termino a frase.@
+br
+` É como a Arcueid diz[line=2]se o "inimigo" ver essa fraqueza, ela pode ser morta.@
+` E além de tudo, eu aprendi algo sobre ela durante esses últimos quatro dias.@
+` A Arcueid não é alguém que para no meio do caminho quando decide que quer fazer alguma coisa, não importa o quanto isso a machuque.
+\
+`"Droga[line=4]"@
+` Ela não vai parar.@
+` Se eu abandoná-la[line=3]provavelmente ela nem será mais capaz de conversar dessa forma novamente.@
+` Isso me deixa bravo, mas ela nem tem medo da própria morte.
+\
+`"…… Será mesmo?"@
+` …… Por que ela sorri assim?@
+` Se ela não sorrisse desse jeito[line=3]Se ela agisse mais como uma vampira de verdade, eu não precisaria me sentir assim.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Qual o problema, Shiki?@ Seu corpo está tremendo, está com vontade de ir no banheiro?"@
+`"[line=2]Você[line=2]por que você[line=2]"@
+` Por que você está tão tranquila?@
+cl c,crossfade,400
+\
+`"…… Que………… droga."@
+` …… Eu não quero perdê-la.@
+` Eu não sei o que é esse sentimento.@
+` Mas os últimos quatro dias não foram algo que eu possa simplesmente esquecer.@
+` Por isso[line=3]nos separar aqui, com a possibilidade de ela morrer amanhã, o arrependimento seria completamente, totalmente, insuportavelmente[line=3]difícil.
+\
+`"…… Dá um tempo.@ Meus olhos já são defeituosos, meu coração também vai ficar do mesmo jeito."@
+br
+` A Arcueid é uma vampira e eu não quero me envolver em algo daquele tipo novamente.@
+` Lembro-me da luta contra o Nrvnqsr.@
+` Só de pensar nisso já me dá um arrepio na espinha.@ O medo de estar a um passo da morte ainda permanece.
+\
+` É a mesma coisa agora.@
+` O oponente dessa vez também não é normal.@
+` Não há necessidade alguma de me envolver.@
+` Já que a Arcueid está dizendo que vai cuidar disso, posso confiar nela.@
+` Mas mesmo sabendo de tudo isso.@
+br
+` …… Eu não posso, eu simplesmente não posso deixá-la sozinha.
+\
+`"[line=3]Droga, o que diabos há de errado comigo!?"@
+` Dou um chute no chão.@
+` Eu estou com raiva de mim mesmo por não aceitar qualquer argumento ou desculpa.@
+ld c,"tachi/ark_t12",crossfade,400
+`"O q[line=2]que foi?@ Qual o problema, Shiki?@ O que te deu pra ficar bravo assim do nada?"@
+`"Só estou irritado com a minha estupidez.@ Por que quero dizer isso, mesmo depois de tudo aquilo que aconteceu comigo!?"@
+` Fico mais nervoso agora que coloquei isso em palavras.@
+` Estou sendo tão estúpido[line=3]que se pudesse ver meu reflexo em um espelho nesse momento, o quebraria em pedaços.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Ei, sério mesmo, qual o seu problema, Shiki[line=3]?@ Você não está normal."@
+`"Não, não estou mesmo!@ Se eu estivesse normal, nunca diria isso……!"@
+` Eu cuspo no chão.@
+br
+` Eu não quero admitir isso, mas já está decidido.@
+` Porque a minha boca já confirmou por mim.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Ah, não estou entendendo, Shiki!@ O que foi!?@ Você fica só repetindo que vai dizer alguma coisa, então o que é!?"@
+`"Idiota, não é óbvio!?@
+` Vou te ajudar até que seu corpo se cure.@ É isso que o idiota e estúpido Tohno Shiki quer dizer!"@
+ld c,"tachi/ark_t13",crossfade,400
+br
+`"[line=5]Hein?"@
+` A Arcueid olha para mim totalmente surpresa.@
+` Quanto a mim, finalmente me acalmo após dizer isso a ela.
+\
+`"Shiki.@ Você está falando sério?"@
+`"…………"@
+` Eu resmungo.@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Eu não ouvi.@ Pode repetir, por favor?"@
+`"………………"@
+` Eu resmungo um pouco mais.@
+` Não importa o quanto eu me arrependa, já está feito.@
+` No instante em que transformei os meus sentimentos em palavras[line=3]eu já não poderia continuar mentindo para mim mesmo.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Depressa.@ Eu quero ouvir aquelas palavras novamente."@
+` Ela pede gentilmente.@
+` Olhando para longe, tento parecer relutante.@
+`"…… Parece que não tenho escolha.@ É minha culpa você estar tão fraca agora, e também não posso deixar esse monstro vagando pelas ruas.@
+` Eu não posso confiar só em você para acabar com ele, por isso se me permitir, gostaria de ajudá-la… foi isso o que eu disse."
+\
+`"Shiki[line=4]!"@
+` Os olhos da Arcueid começam a brilhar subitamente.@
+` Ela pega minha mão e balança para cima e para baixo, toda feliz.@
+`"…… Bem, talvez eu não seja muito útil, mas é melhor do que nada."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Sim……!@ Não preciso ter medo de nada com você me ajudando!"@
+` Ela continua balançando minha mão para cima e para baixo.@
+cl c,crossfade,400
+br
+` …… Como posso explicar?@
+` Ela parece feliz de verdade.
+\
+bg #000000,lshutter,400
+bg "bg/bg_27b",lshutter,400
+`"Então, o que vamos fazer agora?@ Você quer continuar procurando por mais Mortos como antes?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sim, acho que é a única coisa que podemos fazer por enquanto.@ Esse último foi o décimo segundo, não deve haver muitos sobrando.@ O vampiro mestre terá que sair de seu esconderijo quando todos eles forem destruídos, por isso temos que caçar os que sobraram.@
+` Tudo bem se for assim?", ela me pergunta.
+\
+`"Tanto faz, estou apenas te acompanhando.@ Você mostra o caminho que eu vou atrás.@ [line=2]Bem, vamos recomeçar?"@
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah, não, já está bom por hoje.@ Normalmente eles seguem uma rota fixa, e é provável que os outros Mortos não saiam esta noite.@
+` Já que estão em menor quantidade, acho que ele não deixaria todos saírem por aí de uma vez só."@
+`"[line=3]Sério?@ Mas então isso não significa que esse "inimigo" vai tentar esconder Os Mortos de você, Arcueid?"
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sim.@ Mas como ele é um vampiro, ele precisa roubar o sangue e a energia das pessoas.@
+` Então, mesmo sabendo que estou à sua procura, ele tem que enviar Os Mortos para obter o mínimo de sangue que precisa."@
+br
+` [line=3]*suspiro*@
+` Então, o mínimo que ele enviou foi aquele homem de antes.
+\
+br
+`"Por isso seria perda de tempo continuar procurando eles esta noite."
+\
+`"…… Bem, eu não me importo.@ Mas isso é entediante."@
+`"Sim, caçar vampiros é um trabalho entediante.@ Nós temos que encontrar o caixão desse "inimigo" que está em algum lugar nesta cidade, não será fácil."@
+cl c,crossfade,400
+` A Arcueid solta a minha mão e dá um pulinho para trás.
+\
+`"Arcueid……?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Por hoje já está bom.@ Vamos nos encontrar de novo amanhã."@
+` Com passos dançantes, ela me observa enquanto vai se distanciando.
+\
+cl c,lshutter,800
+`"Amanhã[line=3]espera, onde vamos nos encontrar……!?"@
+`"Aqui mesmo.@ O horário[line=3]hum, por volta das dez horas está ótimo."@
+` Ela promete isso com um sorriso.
+\
+`"Boa noite, Shiki.@ Até amanhã!"@
+br
+` E,
+` balançando a mão, ela desaparece.
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_32c",lcartain,800
+` [line=3]Eu volto para a mansão.@
+` Como já é muito tarde, ela está completamente escura.@
+br
+`"……… Isso não é bom."@
+` Eu coloco a mão no portão.@
+` Clang.@
+` Uma corrente bem grossa mantém o portão fechado.@
+`"[line=3]Droga.@ É melhor eu não cortar isso."@
+` Eu penso por um instante.@
+` E decido pular o portão.
+\
+bg "bg/bg_33d",lcartain,800
+` …… Estou exausto.@
+` Depois de pular o muro furtivamente, como se fosse um ladrão, vou até a entrada da mansão.@
+` O portão estava trancado, mas a porta não está.@
+`"…… Deve ter sido a Hisui."@
+` Solto um suspiro de agradecimento.@
+` Então, para não acordar a Akiha, a Kohaku ou a Hisui, me esgueiro pela mansão.
+\
+bg "bg/bg_40d",lcartain,800
+`"[line=6]Ufa."@
+` Suspirando, eu deito na minha cama.@
+br
+`"………………"@
+` Minha promessa com a Arcueid.@
+` Talvez seja obra do destino, mas você se meteu em um mar de problemas novamente, Tohno Shiki.@
+br
+`"[line=4]E tinha outra escolha?@ Eu não podia abandoná-la."@
+` Ou talvez não queria abandoná-la!?
+\
+`"Bem…… Eu realmente acho ela linda."@
+` Não entendo meus sentimentos nesse momento.@
+` Nesse instante, não tenho muita certeza do que é certo e do que é errado.@
+br
+` De qualquer forma, parece que vou ajudar a Arcueid de novo a partir de amanhã.@
+` E é por isso que eu deveria estar pensando apenas em ter uma boa noite de sono[line=4]
+\
+bg #000000,crossfade,800
+!w3000

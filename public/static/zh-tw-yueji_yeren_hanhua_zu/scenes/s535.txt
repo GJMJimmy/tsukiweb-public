@@ -1,0 +1,61 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Merci ！@
+`　hi，終於到了第四次了。@
+`　為了再次光顧不講理的Dead End 的遠野君所準備的、
+`“教教我吧！@知得留老師！@”的時間又到了。
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`「真好啊ー，希耶爾的出鏡率這麼高我雖然是女主角可還是被那幫傢伙們畫得跟塗鴉似的」@
+br
+`　喂喂，不要說這麼奇怪的話嘛。@
+`　這有什麼不好的，不像我這樣需要收拾各種各樣的爛攤子。@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不嘛ー、不滿ー！@　我也想穿成希耶爾這樣子、讓別人誇我聰明嘛ー！」
+\
+`　…………。@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不能出場！@　不能出場！@　不能出場！@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+`「不能出場！@　不能出場！@　不能出場！@　不能出場！@　不能出場！@　希耶爾眼鏡！@　希耶爾低階！@　希耶爾下臺！@　眼鏡希耶爾！@　假法國人！@　手槍控！@　希耶爾印度！」@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+br
+`　…………（呣嘎）
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+`「嗚啊啊啊啊啊啊啊啊………………」@
+br
+ld r,"tachi/cel_t20",lshutter,400
+`[line=4]接下來，開始授課。@
+br
+`　這次的死因非常明確。@
+`　自己一個人全部解決吧！@　雖說這種氣勢很了不起，這次的事件不是遠野君一個人所能解決的。@
+`　為了獲得些什麼總要失去一些東西，這是世間常識。@
+`　雖然老師我也很傷心，這一次你應該和希耶爾小姐告別了。
+\
+bg #000000,crossfade,800
+playstop

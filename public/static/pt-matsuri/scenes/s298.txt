@@ -1,0 +1,68 @@
+monocro off
+wavestop
+bg "bg/bg_02a",notrans,0
+play "*4"
+br
+` [line=3]Instantaneamente, eu pulo para trás.@
+br
+bg #000000,lshutter,400
+` Com apenas esse pequeno pulo,
+` aumento a distância entre nós em vários metros.
+\
+`"Hã[line=5]?"@
+` Sou eu quem estou surpreso.@
+` Ainda com a arma empunhada, a Senpai me persegue sem demonstrar qualquer emoção.@ "[line=4]!"@
+` Corro na direção do portão principal da escola.@
+` Meu corpo está assustadoramente leve.@
+` Eu corro como se estivesse cortando o ar.@
+br
+` Mesmo que as habilidades atléticas da Senpai sejam superiores à de um ser humano normal, ela não vai conseguir me perseguir enquanto eu estiver assim[line=4]
+\
+bg "bg/bg_03c",lshutter,800
+wave se_06
+monocro #0000ff
+bg "bg/bg_03c",crossfade,400
+monocro off
+bg "bg/bg_03c",crossfade,400
+` [line=4]E então.@
+br
+` Meu corpo para subitamente.@
+` Não importa o quanto eu tente me mexer, minhas pernas não obedecem.
+\
+`"[line=5]O qu[line=2]"@
+` Quando viro o rosto para olhar, vejo uma espada cravada bem perto de mim.@
+` Uma espada fina está fincada no chão, perto do meu pé.@
+` A espada está prendendo a minha sombra, parece ser esse o motivo de eu não conseguir tirar meus pés do chão.
+\
+`"Por que…… sua……!"@
+` Junto todas as forças do meu corpo nas minhas pernas.@
+` Mas não importa o que eu faça, elas não se mexem.@
+br
+` [line=3]E então.@
+br
+ld c,"tachi/cel_t06c",lshutter,800
+`"Como você é descuidado.@ Já que ia tentar fugir, havia outras formas mais inteligentes de fazer isso."@
+` O membro da Agência Mortuária apelidada de "O Arco" aparece.
+\
+`"Sen[line=3]pai."@
+`"Agora que seu corpo se transformou no de um vampiro, não posso permitir que fuja.@ Prepare-se[line=3]vou exorcizar sua alma."@
+cl c,crossfade,800
+br
+` O som dos seus passos.@
+` Como o som de um criminoso condenado caminhando os treze passos em direção à forca.
+\
+bg #000000,crossfade,800
+`"[line=3]Adeus.@ Pelo menos agora[line=3]"@
+` Ela fala baixinho, quase não posso ouvir.@ Ela enfia a ponta da arma no meu coração e puxa o gatilho.@
+br
+` Uma breve explosão.
+\
+`"G[line=3]hu."@
+` Eu tusso sangue.@
+` Depois de um clarão de luz que parece ter explodido completamente o meu cérebro,
+` dentro da minha existência que está desaparecendo, eu vejo a minha alma se espalhando e dissipando, como páginas de um livro velho.
+\
+playstop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

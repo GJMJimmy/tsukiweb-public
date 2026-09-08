@@ -1,0 +1,52 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w1000
+bg "bg/bg_06a",lcartain,800
+` I get to the classroom, and the class starts uneventfully, as always.@
+br
+` …… There's no one at Yumizuka's desk.@
+` Even though a classmate is gone forever, class life remains unchanged.@
+br
+`"………"@
+` I become a little uneasy.@
+` Because of Hisui, I had forgotten all about that.@
+` Perhaps because of that incident?@
+` With that uneasiness, my thoughts drift towards the sky.
+\
+bg #000000,crossfade,800
+bg "bg/bg_06b",crossfade,800
+` Before I realized it, the school day was over.@
+` I let out a sigh.@
+` I don't really feel like seeing Arihiko or Senpai.@
+` Right now, it seems I'm just more at ease in the Tohno mansion than in school.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,800
+bg "bg/bg_33b",lshutter,800
+play "*1"
+` I enter the lobby and immediately encounter Hisui.@
+ld c,"tachi/his_t16",lshutter,800
+`"Welcome back, Shiki-sama."@
+`"I'm home, Hisui.@ Are Kohaku-san and Akiha here?"@
+ld c,"tachi/his_t01",crossfade,800
+`"Akiha-sama has not returned yet.@ Nee-san will most likely be in the rear courtyard sweeping."@
+`"As usual.@ Well, I'll be in my room; please continue whatever you were doing."@
+`"Yes.@ Please excuse me."
+\
+cl c,lshutter,800
+` I head up the stairs to the second floor.@
+`"Ah, Shiki-sama?"@
+`"Hm?"@
+ld c,"tachi/his_t23",lshutter,400
+`"I will be in Makihisa-sama's room sorting things out.@ If you need me, please call for me."@
+cl c,lshutter,800
+` Hisui disappears towards the east end of the mansion.
+\
+bg #000000,lshutter,400
+bg "bg/bg_40b",lshutter,400
+playstop
+` Putting down my bag, I take off my jacket.@
+`"…… Well, then."@
+` There's still time until evening, so what should I do?
+\

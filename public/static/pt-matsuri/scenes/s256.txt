@@ -1,0 +1,63 @@
+playstop
+wavestop
+monocro off
+bg "bg/bg_29b",crossfade,800
+play "*1"
+`"Ah[line=3]os postes de luz estão voltando a funcionar."@
+` Os postes que estavam totalmente apagados voltam à vida.@
+` O parque, que estava iluminado apenas pelo luar, vai ficando gradualmente mais brilhante.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Parece que aquela mulher tirou sua barreira.@ Deveria ter impedido que alguém entrasse no parque, mas parece que você pôde atravessar sem problemas."@
+`"Hum?@ Quer dizer que a falta de energia foi coisa da Senpai?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Sim, é uma das especialidades deles não deixar que as pessoas se envolvam."@
+ld c,"tachi/ark_t06",crossfade,400
+`"A propósito, Shiki.@ O que você acha da Ciel?"@
+` Com uma voz fria, a Arcueid me pergunta subitamente.
+\
+`"…… A Senpai?@ …… Por que está me perguntando sobre ela?"@
+`"Ah, não é nada.@ Apenas odeio aquela mulher.@ Deveríamos ter nos encontrado para trocar informações, mas fiquei irritada durante a conversa e acabamos tentando nos matar."@
+`"T-tentando se matar[line=3]como chegaram a isso!?@ Em primeiro lugar, a Senpai não é uma vampira.@ Por que tentou matar ela?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Eu também queria entender.@ Foi ela quem atacou primeiro!"@
+`"[line=4]Hein?"@
+br
+` …… Quem atacou primeiro[line=4]foi a Senpai……?@
+br
+ld c,"tachi/ark_t04",crossfade,400
+`"Isso mesmo.@ Ela disse: 'eu sabia que era inútil, simplesmente não posso permitir sua existência'; e então me atacou.@ Ela pode parecer muito calma, mas todos os membros da Agência Mortuária gostam de brigar.@ Não deixe ela te enganar também, Shiki."@
+`"O qu[line=5]"@
+br
+` Gostam de brigar?@ Será que a Senpai realmente[line=3]
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=3]Shiki.@ Você foi enganado por ela até agora, não foi?@ Por que está dizendo coisas a favor dela?@
+` Ela te enganou esse tempo todo fingindo ser uma pessoa normal.@ Você não se sente nem um pouco irritado por ter sido usado dessa forma?"@
+` A Arcueid me encara.@
+`"……………"@
+` Bem,
+` é claro que estou chocado que a Senpai não seja uma pessoa normal, e que seja da mesma laia que a Arcueid.@
+` Mas não sinto como se tivesse sido enganado.@ Pelo contrário, a Senpai me ajudou tantas vezes.
+\
+`"Eu[line=4]"@
+` …… Mesmo que agora eu saiba sobre a identidade da Senpai, ainda penso nela como a Senpai.@
+` Almoçar com ela, falar sobre coisas estúpidas com ela e o Arihiko, andar com ela até o portão da escola, tudo isso foi tão divertido.@
+` Então[line=3]teria sido melhor[line=3]@
+` Teria sido melhor se eu não tivesse descoberto sobre ela.
+\
+ld c,"tachi/ark_t05b",crossfade,400
+`"Shiki.@ De que lado você está, do meu ou daquela mulher?"@
+` Sinto uma pressão.@
+` Os olhos dela são a fonte dessa pressão.@
+` Agora ela não parece mais com um ser humano, parece mais um animal caçando sua presa.@
+` Parece que a Ciel-senpai é um inimigo imperdoável para a Arcueid.@
+` É por isso que ela está me olhando com esses olhos tão ferozes e hostis.@
+` Como se me dissessem que, se sou amigo da sua inimiga, serei inimigo da Arcueid também.
+\
+`"…… Arcueid……"@
+` Tenho dificuldade para responder.@
+` Eu[line=3]
+br
+cl c,crossfade,400

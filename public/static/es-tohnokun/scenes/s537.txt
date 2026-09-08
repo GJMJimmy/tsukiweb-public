@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ¡Bonjour!@
+` El rincón de consejos para Tohno-kun, quien ha terminado en este Final Muerto estando muy cerca del final,
+` Es la hora de "¡Enséñame, Ciel-sensei!"
+\
+` En la quinta hora hablaremos sobre peleas con vampiros.@
+` He traído al Profesor Roa como un invitado especial.@
+` Profesor Roa, ¿cuál es la razón de la derrota de Tohno-kun esta vez?@
+br
+ld l,"tachi/roa_t04a",lshutter,400
+`"Debo decir que fue un poco descuidado.@
+` Comprender el arma de tu enemigo es la prioridad principal en una batalla contra la raza trascendental.@
+` Bueno, en este caso, creo que él ya la comprendía, pero no actuó con mucha inteligencia."
+\
+` Ya veo.@
+` Discúlpeme, Profesor, pero ¿por qué SHIKI-san se ve diferente a usted en esta ruta?@
+` Me lo he estado preguntando por un largo tiempo.@
+br
+ld l,"tachi/roa_t02a",crossfade,400
+`"Sí, creo que se trata de una diferencia entre nuestros gustos.@
+` Cuando la mente de SHIKI era débil, las preferencias de Roa sobresalieron, y yo vestía de esta manera.@
+` Pero en este caso, SHIKI-kun perdió toda la cordura por alguna razón, y Roa no pudo salir porque él depende de controlar la mente de alguien.@ Ésa es mi teoría."
+\
+` Oh ¿en serio?@ Entonces, en la ruta de Akiha-san, SHIKI-san es el verdadero Tohno SHIKI.@
+` …… Dicen que Tohno-kun es como SHIKI-kun, pero no son nada parecidos……
+\
+bg #000000,crossfade,800
+playstop

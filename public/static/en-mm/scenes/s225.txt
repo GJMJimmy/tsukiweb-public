@@ -1,0 +1,62 @@
+monocro off
+play "*3"
+bg "bg/bg_03a",notrans,0
+wave se_03
+` The ten minute bell rings.@
+`"[line=2]Uh-oh, we'll be late.@ Well, bye Senpai, see you later!"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Yes, I'll come see you during lunchtime."
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` I fly into my classroom.@
+` It's still five minutes before class, so it's very noisy inside.@
+br
+`"[line=2]Whew."@
+` I take a breath and head to my seat.@
+` With this much time left, I didn't even need to run at all.@
+`"Yo, Duke of Delinquency."@
+`"………"@
+` From behind, I hear the voice I never look forward to.
+\
+ld c,"tachi/ari_t01",lshutter,400
+`"What's going on, Tohno?@ I never heard you were skipping class.@ It's a lot of trouble.@ You have to tell me when you skip school and go play!"@
+` Arihiko says those preposterous words with an unbelievably happy expression.
+\
+`"…… Why should I have to tell you when I don't go to school?"@
+`"Isn't it obvious?@ When you don't show, neither does Senpai, so it's bad unless I think of something ahead of time."@
+` …… What's bad for this guy?
+\
+`"But seriously[line=2]What happened?@ Since middle school, you've had anemia, but never skipped school.@ Well, you did a cool trick several times, leaving as soon as you arrived."@
+`"It's kind of like that.@ I made it to the intersection and felt bad, so I went back home."@
+ld c,"tachi/ari_t04",crossfade,400
+`"Hmmm… Both you and Yumizuka seem to be acting like bad students lately."@
+`"[line=2]Well, I'm guilty as charged, but …… is something wrong with Yumizuka-san?"
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Her?@ She's been absent lately.@ She was always such an honor student, so I think she might have been stressed out.@ But I bet she can't call a raise 'cause she has a bad hand."@
+`"……………"@
+` Arihiko's words are always… very unique.
+\
+wave se_03
+` [line=2]While we are talking, the homeroom chime rings.@
+br
+`"Well, I'm off.@ Since you skipped Saturday, make sure you study hard today."@
+cl c,lshutter,400
+` Arihiko goes back to his seat.
+\
+bg #000000,lshutter,800
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` Fourth period ends and the class erupts into pandemonium all over again.@
+` The guys dash off to the cafeteria, the girls eat their lunches at their desks, and Inui Arihiko's carrying a sandwich and coming over to me.@
+br
+ld c,"tachi/ari_t02",lshutter,400
+`"Yo Tohno!@ Lunch, lunch."@
+`"[line=3]"
+\
+` …… What should I do?@
+` Since morning, I haven't really had an appetite.@ I don't feel hungry, so maybe I don't have to force myself to eat.@
+` …… If I eat, I might throw it up again and cause trouble.@ I should[line=3].
+\

@@ -1,0 +1,149 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11a",notrans,0
+`"I have some curry bread."@
+br
+` I pull out my secret weapon.
+\
+`"Tohno-kun, do you think I can just be bought with food!?"@
+` Senpai shouts from the other side.@
+` …… Maybe this less than one hundred yen bread didn't work.@
+`"……………"@
+` Geez.@ I think trying to barge in would make her more angry, so I guess I should just go back.@
+br
+` [line=3]And then,
+\
+ld c,"tachi/cel_t12",lcartain,400
+`"Well, I guess I'll have some though."@
+` She opens the door and stands in front of me.@
+`"Se, Senpai[line=2]?"@
+ld c,"tachi/cel_t08b",crossfade,400
+`"Come to think of it, I shouldn't be taking this out on you Tohno-kun.@ Turning away a guest that came here would be a little rude."@
+` With a red face, she mumbles something like an excuse.
+\
+`"Senpai, does that mean, we can eat lunch together?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"…… Ummm, I don't mind if you take it that way.@ If you like this room that much, then please come in."@
+cl a,crossfade,400
+` Senpai goes into the tea ceremony room.@
+` Following behind her, I walk inside.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09a",lcartain,800
+play "*3"
+` I start to eat with Senpai.@
+` Even though I got the impression that she was in a bad mood from Arihiko and her reaction back then, it certainly doesn't seem that way.
+\
+`"…… Senpai.@ I heard this from Arihiko, but you're angry at me?@ How come?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Eh[line=2]no, I'm not really angry at you.@ It's more of an indirect thing…… Maybe, it's more your insensitivity?"@
+`"…… Wait a sec Senpai.@ You're normally a hard person to understand, but today you're even more so.@ If you're angry at my insensitivity, that's fine, but what do you mean by 'maybe'?@
+` Senpai, you don't understand how you feel?"
+\
+ld c,"tachi/cel_t09",crossfade,400
+` She sighs.@
+` "I'm a little unsure.@ I'm not usually concerned with myself."@
+` Senpai almost sounds apologetic.@
+`"[line=3]Probably, I don't like myself."@
+`"…… Senpai?"@
+` Senpai sits in silence without looking at me.@
+` After a short moment of silence, she suddenly glares at me.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"More importantly, Tohno-kun."@
+`"…… Yes?"@
+` Straightening up, I look back into her eyes.@
+` …… Since I know she's about to begin a very serious conversation.@
+br
+`"Uh…… what is it, Senpai?"
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Could I have that curry bread?"@
+br
+`"Wh, what's with that all of a sudden!?@ Didn't you just say you won't be bought out by food!?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"That's a different matter.@ Tohno-kun, are you trying to take back what you said earlier!?"@
+br
+` …… Senpai is really angry.@
+` It was just a joke for me, but I guess she took it very seriously.
+\
+`"…… Yes, yes, I understand.@ Please accept this, Your Highness."@
+` I hand over the curry bread.@
+` Giving that up, I only have some sausage bread left.@
+ld c,"tachi/cel_t04",crossfade,400
+br
+` "Yay!" Senpai happily takes it from me.@
+` …… Is she a kid or something?
+\
+ld c,"tachi/cel_t05",crossfade,400
+`"Then I will give you some of this hamburger.@
+` Here you go," Senpai says as she gives me half of it from her lunch.@
+`"………"@
+` I think the difference in the barter exchange rate was a little high…
+\
+bg #000000,lshutter,800
+bg "event/cel_e02a",lshutter,800
+` After we finish our meals, we pass the time while sipping tea.@
+` A perfectly tranquil passing of time.@
+br
+` It seems like she's not conscious of my presence, and I'm not especially conscious of her presence either.@
+br
+` Just, a calmness.@
+` Like two friends of the same gender, we pass the remaining break time like this.
+\
+`"Hey, Tohno-kun."@
+`"Yes?@ What is it, Senpai?"@
+`"I've been thinking about this for a while, but your glasses aren't used to correct your vision, right?"@
+`"…… Wow, you're amazing Senpai, bullseye.@ They're just for show."@
+br
+`"I knew it," Senpai nods.
+\
+`"Hey, Tohno-kun, could I ask a favor?"@
+` Senpai looks expectantly at my eyes.@ …… Not so much my eyes, but my glasses.@
+`"Just once, could you take off those glasses?"@
+`"[line=9]"@
+` That would be troubling.@
+` Taking these glasses off means I would see those "lines" and more importantly[line=3]I don't want to see the "death" of this person close to me.
+\
+`"I can't do that.@ Unfortunately, I've never taken these off in front of others.@ It's kind of like a vow, so I'll reject your request."@
+` I answer clearly.@
+` Senpai slumps disappointedly.@
+`"Huh, if you say so, then I guess it's not possible."@
+`"Yes, because these past eight years, I never[line=3]"@
+br
+` …… never took them off in front of other people, but.@
+playstop
+`"[line=4]"@
+` That's right.@ That ended.@
+` With these eyes.@
+` I saw the death of many, many things.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_09a",crossfade,400
+bg "bg/cmo_13",crossfade,1500
+!w4000
+br
+br
+br
+br
+br
+br
+br
+`"[line=7]Tohno-kun?"
+\
+bg "bg/bg_09a",crossfade,1500
+ld c,"tachi/cel_t07a",crossfade,1500
+`"Ah[line=3]yeah, what is it Senpai?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"What do you mean, 'what is it?' Suddenly spacing out like that, lunch break is almost over you know."@
+`"…… Oh, that's true.@ I thought we had about ten more minutes."@
+cl a,crossfade,400
+ld c,"tachi/cel_t12",crossfade,400
+`"Yes, we did have ten minutes.@ But you were just spaced out for that long."@
+cl a,crossfade,400
+` Senpai gathers up the cups.@
+`"Huh…… Was it really ten minutes……?"@
+` While I'm still tilting my head in curiosity, I help Senpai tidy up the tea ceremony room and then leave.
+\
+bg #000000,crossfade,1500

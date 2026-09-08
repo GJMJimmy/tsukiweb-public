@@ -1,0 +1,41 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+`"[line=6]"@
+` …… O corpo principal.@
+` Se eu puder dar um jeito no corpo principal do Nrvnqsr, que é quem controla todos os animais, acho que talvez consiga salvar pelo menos a Arcueid[line=2]
+\
+`"AAAAAAAAAH!"@
+wave se_07
+` Eu balanço a faca para todos os lados.@
+` Forço o meu corpo machucado e corro para frente.@
+` Se ele não saiu do lugar enquanto brincava comigo,
+` então, a metade do seu corpo deve estar só um pouco mais para a frente[line=4]
+\
+bg "bg/bg_29c",notrans,0
+ld c,"tachi/nero_t02d",notrans,0
+`"[line=4]!"@
+` Nrvnqsr[line=4]!@
+`"Pare com essa algazarra, é muito desagradável."@
+` Seu sobretudo esvoaça.@
+br
+` De lá,
+` um chifre branco vem na minha direção.
+\
+bg #000000,crossfade,400
+ld c,"tachi/kemo_t05",bshutter,800
+`"Hã[line=4]?"@
+` Os chifres… cravam… no meu torso.@
+` Tum.@
+` São tão afiados, que nem sinto dor.@
+br
+`"[line=6]"@
+` Eu caio de costas no chão.
+\
+bg #000000,crossfade,800
+`"Eu sou uma pessoa bem exigente.@ Fique tranquilo, não vai sobrar sequer uma célula do seu corpo."@
+br
+` Ouço uma voz.@
+` Ao mesmo tempo, uma cúpula negra surge sobre mim.
+\

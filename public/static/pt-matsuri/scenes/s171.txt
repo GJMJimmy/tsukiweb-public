@@ -1,0 +1,139 @@
+monocro off
+play "*3"
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_27a",lcartain,800
+play "*3"
+` O tempo está ótimo, acho melhor irmos para o parque.@
+` Vamos poder relaxar e depois poderemos ir para algum lugar mais apropriado.
+\
+bg "bg/bg_28a",lcartain,800
+` Chegamos no parque.@
+` Ainda estamos no meio da manhã, mas está cheio de pessoas da minha idade aqui.
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Hum, fica cheio de gente aqui durante o dia.@ Já nos encontramos aqui várias vezes, mas agora parece um lugar completamente diferente."@
+` A Arcueid parece estar de bom humor.@
+` Minha ideia era só caminharmos pelo parque, mas ela não parece entediada com isso.
+\
+`"Ah, tem alguém vendendo alguma coisa ali.@ Shiki, o que ele está vendendo?"@
+` Ela aponta toda animada para o vendedor.@
+` O caminho que passa pela fonte leva até um carrinho de sorvetes.
+\
+`"É um vendedor de sorvetes fora de época.@ Coisas geladas não fazem bem para a saúde, é melhor não tomarmos." Eu respondo sua pergunta antes de ela fazê-la.@
+ld c,"tachi/ark_t11",crossfade,400
+` Não importa o quanto infeliz ela pareça, eu vou continuar achando que tomar sorvete no outono vai fazer mal à saúde.
+\
+` [line=4]Mas que sensação estranha é essa?@
+` Estou me sentindo estranho simplesmente por caminhar aqui, parece que todos estão nos observando……
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Shiki, você conhece essas pessoas?"@
+`"Não, só conheço uma pessoa que faltaria de aula para ficar de bobeira assim.@ Por quê?"@
+`"Hum, tem um monte de pessoas olhando para a gente, pensei que você as conhecesse."@
+`"…… Humm.@ Então era por isso que eu estava com essa sensação estranha."
+\
+` Eu já entendi tudo.@
+` Eu estava simplesmente procurando um bom lugar na grama para sentarmos, mas as pessoas não tiram os olhos de nós.@
+` Na verdade, eles estão olhando para a Arcueid, não para mim.
+\
+` Eu estive me esforçando ao máximo para não dar atenção a isso, só que a Arcueid é absurdamente linda.@ E caminhar pelo parque com ela é o mesmo que pedir para sermos olhados desse jeito.@
+br
+` Os homens que estão de bobeira no parque ficam encarando ela.@
+` …… Por algum motivo, fico muito bravo.
+\
+`"Arcueid, vamos para outro lugar."@
+` Pego sua mão e vou puxando ela mais para o fundo do parque.@
+bg "bg/bg_29a",lcartain,800
+` O lugar onde sempre nos encontramos tem menos pessoas do que em frente à fonte.@
+` …… É melhor ficarmos aqui.
+\
+`"Vamos matar o tempo aqui.@ Vou comprar algo para beber, o que você vai querer?"@
+` Eu solto sua mão.
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"H…… um, pode ser água?"@
+`"Claro.@ Pode me esperar naquele banco…… se algum cara começar a conversar com você, simplesmente ignore-o."@
+` Digo isso e vou até uma máquina de vendas.
+\
+bg #000000,lshutter,400
+bg "bg/bg_29a",lshutter,400
+` Mesmo agora sendo mais de meio-dia, não saímos do parque.@
+` …… Não sei o motivo, mas a Arcueid esteve muito quieta desde que chegamos aqui.@
+` Ela nem tomou a água que comprei, só fica observando o parque sem fazer nada.
+\
+` Observamos o bando de pombos e as crianças correndo felizes acompanhadas das mães.
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Ei, Shiki."@
+`"Hum?@ Ficou entediada?@ Podemos ir para outro lugar e comprar algo para comer."@
+`"Não, não é isso…… estava pensando sobre o que aconteceu agora há pouco."@
+`"……?"@
+` Agora há pouco?@ …… Do que ela está falando?
+\
+`"Não entendi.@ Do que está falando?"@
+`"Estou falando de quando você pegou minha mão.@ Já tivemos esse contato antes, mas foi sempre por algum motivo.@ Mas agora há pouco, não tinha nenhum motivo, então estava pensando no porquê."@
+`"Mas[line=3]Hein?[line=4]Realmente não tinha um motivo."
+\
+` Agora que penso sobre isso, também fico confuso.@
+` …… Eu saí puxando ela como algo normal de se fazer, sem precisar de um motivo.@
+` Não sei por que fiz isso.
+\
+`"Isso não importa.@ Não foi nada de mais.@ Essas ações repentinas, são coisas de humanos mesmo."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum, entendi.@ Fazer um monte de coisas sem ter motivos para isso… você já fez muita coisa inútil, hein!?"@
+` A Arcueid responde, surpresa.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Shiki.@ Isso é meio fora do assunto, mas você já fez aquilo?"@
+` Realmente não tem nada a ver com o assunto.@
+` Ela está olhando para as crianças que estão brincando, provavelmente deve estar me perguntando sobre isso.
+\
+`"…… Humm, talvez.@ Eu brincava muito quando era criança, mas só dentro da mansão.@ Raramente brinquei em um parque assim."@
+br
+` …… É mesmo.@ Meus únicos companheiros de brincadeiras eram a Akiha e os outros.@ Nunca brinquei com pessoas que não conhecia como essas crianças aqui no parque.@
+br
+` Eu devo ter sido mais como…
+` Uma criança que levou uma vida isolada.
+\
+`"E quanto a você, Arcueid?@ …… Hum, não precisa responder se não quiser."@
+` …… Caso os vampiros não tenham infância, foi rude ter perguntado isso.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Como você já deve estar imaginando, eu nunca tive infância.@ Enquanto era fraca como um indivíduo, eu simplesmente permaneci dormindo, e só fiquei ativa quando minha existência alcançou o seu auge.@
+` Acho isso muito estranho.@ A infância e a velhice são tão inúteis, como as pessoas conseguem passar por isso?"@
+` É como se ela estivesse perguntando isso para si mesma, não para mim.
+\
+`"…… Arcueid?"@
+`"Não é nada.@ Essa é a primeira vez que gasto meu tempo assim, sem fazer nada, acho que por isso meus pensamentos parecem confusos."@
+cl c,crossfade,400
+` Depois de dizer isso ela se levanta do banco.@
+` Eu também me levanto.@
+` …… Bem, já ficamos debaixo do sol por cerca de duas horas, é melhor irmos para o centro da cidade.
+\
+`"[line=4]Olha, se estava tão chato assim, você deveria ter me falado."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum, talvez estivesse um pouquinho chato, mas nada tão entediante assim.@
+` Eu nem me importaria de ficar um pouco mais, mas você também não estava gostando, né?"@
+`"Hã……?"
+\
+` …… Pensando bem, mesmo sem fazer nada, não estava entediante.@
+` Passar o tempo tomando um banho de sol com a Arcueid é algo bem raro.
+\
+`"[line=4]Ah, realmente não estava ruim.@ Mas vamos comprar algo para comer.@ Não como nada desde manhã cedo, estou morto de fome."@
+` Digo isso e começamos a sair do parque.
+\
+`"Hum[line=6]"@
+` Por um breve momento, eu penso em segurar a mão dela, mas desisto.@
+` Naquela hora que não tinha motivo para fazer isso, pareceu algo bem natural de se fazer.@
+` Mas agora que eu tenho um motivo, segurar a mão dela assim do nada, vai ser muito estranho.
+\
+` …… Estar ciente do que estou fazendo significa que estou tendo pensamentos impuros.@
+br
+`"Estou cheio das teorias hoje."@
+br
+` Poxa.@ É como a Arcueid disse, acho que eu faço um monte de coisa inútil mesmo.
+\
+bg #000000,lcartain,1500
+playstop
+!w1000

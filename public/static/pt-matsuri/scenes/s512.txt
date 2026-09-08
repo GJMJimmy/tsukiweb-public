@@ -1,0 +1,41 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` Esse cantinho é para o Tohno-kun azarado, que com muita facilidade acabou em outro Final Ruim.@
+` Está na hora do: "Ensine-me, Ciel-sensei!"@
+br
+` Vamos começar o segundo período.@
+` Vamos apresentar o primeiro "Agitos e Arrepios na Terra dos Animais", da série que fornecerá observações detalhadas sobre animais selvagens.
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Sensei, tenho uma pergunta antes disso.@ E esse nome é muito ridículo!@ E em japonês, seu nome pode ser lido como Chiel."@
+br
+` Pergunta negada.@
+cl l,lshutter,400
+` [line=4]Vamos continuar, Tohno-kun.@
+` Acho que é ótimo ser prudente, mas desta vez, o tiro saiu pela culatra.@
+` Olha, você é um herói, então um pouco de imprudência será perdoada.@
+` Mas em uma situação absurda dessas, com um tubarão, acho que você não tinha muita escolha.@
+` Você terá que abandonar a Arcueid dessa vez.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+ld l,"tachi/ark_t31b",lshutter,400
+`"Eiiiiiii!@ Eu não quero ouvir isso vindo da Chiel!!"@
+br
+` [line=3]Abandone ela!@
+cl l,lshutter,400
+br
+`"Kyaah!@ Sem violência!"@
+br
+` Enfim, prepare-se para explorar o hotel sozinho.@
+` Dentro dele, você encontrará um reino animal inteiro.@
+` Como representante dos primatas, mostre às feras do que somos capazes.
+\
+bg #000000,crossfade,800
+playstop

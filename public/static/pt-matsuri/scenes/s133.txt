@@ -1,0 +1,23 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11a",notrans,0
+ld c,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, você dormiu bem essa noite?"@
+`"Hã?"@
+` Ela me olha bem no fundo dos olhos quando faz essa pergunta.@
+cl c,crossfade,400
+` …… Se eu dormi bem?@ Mas isso não é óbvio!?@ Eu custei a dormir essa noite e também[line=2]
+\
+`"Hum……"@
+` Eu fico corado quando as lembranças voltam.@
+` Com um olhar penetrante, a Senpai me observa.@
+`"Senpai, hum[line=2]"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Tohno-kun, seu pervertido."@
+`"Hein?"@
+cl c,lshutter,800
+` Com um olhar que deixa claro que ela quer falar mais coisas, a Senpai vai embora.
+\
+bg #000000,crossfade,800
+!w1000

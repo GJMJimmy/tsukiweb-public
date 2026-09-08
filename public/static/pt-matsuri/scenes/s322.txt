@@ -1,0 +1,248 @@
+bg #000000,notrans,0
+wavestop
+play "*3"
+!w2000
+bg "bg/bg_34c",rshutter,800
+` [line=5]E…
+br
+` Em menos de uma hora a Hisui cai no sono e a Kohaku-san a carrega para o seu quarto com um sorriso no rosto.
+\
+`"…………"@
+` Como não estou acostumado a tomar álcool, fico meio grogue.@
+` A Akiha está sentada perto de mim e continua bebendo toda animada.@ E eu tenho um mau pressentimento em relação a isso.@
+`"…… Akiha, você tem uma boa tolerância, né?"@
+ld c,"tachi/aki_t26",crossfade,400
+`"Ah?@ Eu não estou bebendo puro, talvez seja por isso que pense assim."@
+` …… Hum, não era bem disso que estava falando…
+` Quero dizer que ela é muito acostumada a beber apesar de ser menor de idade.
+\
+ld c,"tachi/aki_t13b",crossfade,400
+`"Francamente, pare de fazer essa cara.@ Pelo menos se embebeda um pouco, Nii-san.@
+` A Kohaku preparou tudo isso para te animar, vai ser um desperdício se você continuar assim."@
+`"Ah, é mesmo.@ …… Tenho que agradecer a Kohaku-san pela sua consideração.@ Graças a ela, realmente estou me sentindo um pouco melhor."
+\
+ld c,"tachi/aki_t03b",crossfade,400
+`"Do que está falando?@ Você não parece nem um pouco feliz.@ Se o álcool não conseguiu te deixar animado, nada mais conseguirá."@
+`"Uau, que absurdo você acabou de dizer.@ Não acha que está muito enganada?"@
+ld c,"tachi/aki_t18b",crossfade,400
+`"Não posso fazer nada já que você não quer conversar comigo, Nii-san.@ Se você falasse sobre ontem à noite, eu não estaria pedindo ajuda ao álcool."@
+`"[line=6]"@
+` Ah, entendi.@
+` Assim como a Kohaku-san, a Akiha também está preocupada comigo.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"Mas eu não posso perguntar, né?@ Eu já prometi que não ia mais perguntar."@
+`"…… Desculpa.@ Eu sou apenas um fardo enorme para vocês."@
+ld c,"tachi/aki_t26",crossfade,400
+`"Bem, contanto que você entenda, está tudo bem.@
+` [line=4]Hum, acho que estou um pouco tonta, vou lá para fora."@
+cl a,lshutter,800
+br
+` Apesar de dizer que está "bêbada", seus passos estão bem firmes quando ela sai da sala de jantar.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_42b",lcartain,800
+play "*9"
+` Vou atrás da Akiha e chego até o pátio para tomar um ar fresco.@
+` Ainda nem são seis horas.@
+` O sol vermelho colore o céu.@
+`"…… Ainda é de tarde?"@
+` Não tem ninguém aqui.@
+` Pensei que a Akiha estava aqui, mas parece que nos desencontramos.
+\
+`"…… O pôr do sol vermelho."@
+` Até agora, o pôr do sol vermelho me lembrava de sangue fresco.@
+` Mas hoje,
+` ele me lembrou do último sorriso que ela me mostrou no dia que nos despedimos.@
+br
+wave se_01
+` …… Tum.@ Sinto uma dor aguda no peito.@
+br
+wave se_01
+` Será que é a cicatriz no peito que está doendo?@
+` Ou seria o meu coração doendo de remorso?
+\
+` Não sei dizer a diferença.@
+` Sei apenas que o meu peito está doendo.@
+` Como se estivesse sangrando.@
+br
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_42b",crossfade,400
+`"Gah[line=6]"@
+` A tontura me ataca.@
+` Por culpa do álcool e da dor no meu peito,
+` por coisas tão insignificantes, eu perco a consciência[line=4]
+\
+bg #ffffff,crossfade,800
+!w2000
+` …… Bem, minha casa é por aqui, então nos vemos na escola amanhã.@
+` Depois de dizer isso, ela entrou em uma rua diferente.
+\
+` …… Obrigada.@
+` Provavelmente ela disse isso porque fiquei com ela até o fim.
+\
+br
+` …… Desculpe.@
+` Provavelmente ela disse isso porque sabia que eu iria carregar esse remorso pelo resto da vida.
+\
+` …… Está tudo bem, você pode esquecer.@
+br
+` Parece que ela sussurrou essas palavras no meu ouvido.
+\
+` …… Mas será que isso não passa de uma felicidade falsa?@
+` Ouço essas palavras egoístas em meu sonho.
+\
+` Se eu pudesse simplesmente esquecer, seria muito fácil.@
+` Mas não consigo.@
+` Eu nem a amava tampouco a odiava, mas,
+` acho que não devo esquecer do seu sorriso.@
+` E além disso,
+` enquanto eu tiver essa cicatriz no meu pescoço, não vou esquecer de nada[line=4]
+\
+playstop
+!w1000
+bg "bg/bg_40c",crossfade,800
+play "*1"
+`"Ah[line=5]"@
+` Quando acordo, vejo que estou deitado na minha cama.@
+` A Akiha deve ter ficado cuidando de mim enquanto eu dormia porque ela está aqui, bem na minha frente.@
+`"Aki[line=2]ha?"@
+ld c,"tachi/aki_t17b",crossfade,400
+`"Você acordou?@ Minha nossa, você desmaiou de repente, o que foi que houve, Nii-san?"@
+`"Ah…… Eu desmaiei?"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Sim.@ Mas ainda bem que acordou rapidamente.@ Eu[line=2]me desculpe por te forçar a beber daquele jeito."@
+`"Não, não teve nada a ver com isso.@ Não desmaiei por causa da bebida."
+\
+cl a,crossfade,400
+` Dizendo isso, apenas encaro o teto.@
+` A minha cabeça ainda está um pouco tonta e não estou com muita vontade de conversar agora.@
+` …… Mesmo assim, a Akiha não se importa e continua cuidando de mim em silêncio.
+\
+`"…… Akiha?"@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Hum?@ O que foi, Nii-san?"@
+`"[line=3]Você não está entendiada?@ Eu estou bem, pode voltar para o seu quarto se quiser."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Por acaso eu estou te incomodando?"@
+`"Não, eu não disse isso.@ Eu achei que você estivesse um pouco entediada de ficar aqui."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"É entediante mesmo, mas eu aguento.@ Estou fazendo isso por interesse próprio, por isso não há necessidade de se preocupar, Nii-san."@
+br
+` Então[line=4]acho que não vou falar mais nada.
+\
+` O tempo passa.@
+` Já passa das sete horas da noite.@
+` A Akiha ficou cuidando de mim esse tempo todo.@
+` Ela mede a minha temperatura silenciosamente.@
+br
+bg #000000,crossfade,800
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+` …… Estou me lembrando de uma coisa.@
+` Algo que aconteceu há mais de oito anos.@
+` A Akiha foi ao meu quarto para cuidar de mim quando eu tinha pegado um resfriado.
+\
+` E foi um resfriado terrível; eu sentia dor até para respirar.@
+` A garotinha de cabelos negros sentou-se perto do meu travesseiro, segurou a minha mão e ficou apenas me observando.@
+` O tatame e as portas de shouji.@
+` O vento frio do inverno.@
+` No quarto escuro com tatames no chão, a jovem Akiha cuidava de mim à beira das lágrimas.
+\
+bg #000000,crossfade,800
+monocro off
+bg "bg/bg_40c",crossfade,400
+`"…… Estou um pouco aliviado."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Hã?@ Disse alguma coisa, Nii-san?"@
+`"…… Sim, eu disse.@ Estava aqui pensando comigo mesmo, parece que ainda existe um pouco da velha Akiha em você.@ Não é muito, mas é o suficiente para me deixar feliz."@
+` Eu sorrio para ela tão naturalmente que eu mesmo fico surpreso.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"Então tá[line=4]mas você não mudou absolutamente nada.@ Continua dando trabalho para os outros… Por favor, seja mais responsável."@
+` Ela desvia o olhar e reclama.@
+` Vendo que ela está apenas com vergonha, começo a ficar mais feliz ainda.
+\
+ld c,"tachi/aki_t13b",crossfade,400
+`"…… Francamente, por que está sorrindo assim?@ Já que tem tanta energia, acho que não precisa mais que eu tome conta de você."@
+`"Ah, não é bem assim.@ É que me lembrei de algo que aconteceu há muitos anos.@ Akiha, sabe aquele quarto com o chão de tatame?[line=4]"
+\
+cl a,crossfade,400
+wave se_01
+br
+` [line=4]Quarto com chão de tatame?@
+br
+` Por que será?@
+` Eu até entendendo o motivo de ela estar cuidando de mim, mas por que foi em um quarto com chão de tatame e não no meu próprio quarto?@
+br
+` Hum.@
+` Algo não está certo.
+\
+`"Akiha.@ Por acaso tem um quarto só com tatames na mansão?"@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Não, não temos quartos no estilo japonês nesta mansão."@
+`"Já imaginava.@ Ah, não é nada.@ Só achei meio estranho, deixa pra lá."@
+ld c,"tachi/aki_t13b",crossfade,400
+`"Hum?@ E o que tem de estranho em não termos um quarto no estilo japonês?"@
+`"Bem, você sabe.@ Esta mansão é tão grande que imaginei que poderia ter ao menos um quarto assim."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Na verdade, tem uma edícula ao estilo japonês."@
+`"Hã[line=4]?"@
+` [line=4]Agora que ela falou eu me lembrei.@
+` No meio da floresta, no jardim, realmente tem uma construção no estilo japonês.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"…… Minha nossa, de onde saiu toda essa energia?@ Acho que vou é te atrapalhar se continuar aqui, portanto vou voltar para o meu quarto."@
+cl a,crossfade,400
+` Levantando-se da cadeira, ela vai na direção da porta.
+\
+`"Obrigado, Akiha.@ Desculpe-me por ter te forçado a ficar aqui até agora."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Não se preocupe com isso.@ A partir de amanhã, a sua rotina não vai ser muito diferente disso."@
+cl a,lcartain,800
+`"………?"@
+` Depois de dizer algo que eu não consegui entender, ela sai do meu quarto.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_40d",rcartain,800
+` [line=4]Eu desligo as luzes e deito na cama.@
+br
+` Graças à ajuda da Akiha eu me sinto bem mais relaxado.@
+` Nesse ritmo, devo conseguir domir tranquilamente pela primeira vez em dias.@
+br
+` Respiro fundo e fecho os olhos.
+\
+bg #000000,crossfade,800
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+` …… Quando eu estava quase pegando no sono,
+` a lembrança de estar aos cuidados da jovem Akiha surge claramente na minha mente.
+\
+` O quarto escuro no estilo japonês onde ninguém veio me visitar.@
+` Será que ela saiu escondida do Makihisa?@ A Akiha entrou no quarto e chorou enquanto segurava a minha mão.@
+` "Me desculpe," é o que ela dizia.@
+` Eu não sabia o motivo, mas a garotinha de cabelos negros continuava repetindo a mesma frase "Me desculpe".
+\
+` [line=6]Eu me lembro.@
+br
+` Da única pessoa que tomou conta de mim, a orgulhosa filha mais velha da fammília Tohno.
+\
+`"………………"@
+` A garotinha sempre chorando no escuro quarto ao estilo japonês.@ Frustrado, eu mordo a minha língua, muito tonto por causa da febre.@
+` Por que será que ela está chorando.@
+` Se dependesse de mim,
+` jamais faria[line=4]a Akiha chorar.
+\
+` …… Me desculpe.@
+` …… Me desculpe, Shiki-nii-san@
+br
+` Suas lágrimas eram simplesmente belas.@
+` Desde aquele momento, eu jurei que seria seu irmão de verdade[line=4]
+\
+bg #000000,crossfade,1500
+monocro off
+playstop
+!w2000

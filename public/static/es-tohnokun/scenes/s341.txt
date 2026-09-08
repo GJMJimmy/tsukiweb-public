@@ -1,0 +1,185 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+` …… no, mantendré la promesa que le hice a Akiha.@
+` Akiha me dijo que no fuese a ese lugar, y no puedo romper una promesa sólo por tonta curiosidad.@
+br
+`"…… Nn."@
+` Una serena soñolencia impregna mi cuerpo.@
+` Me quedaré tranquilo esta noche y dormiré.
+\
+bg #000000,crossfade,800
+!w1000
+playstop
+monocro #ff0000
+!w2000
+wave se_01
+!w600
+` [line=4]Caliente.
+\
+wave se_01
+!w600
+br
+br
+br
+` [line=4]Caliente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+` [line=4]Caliente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Mi garganta, seca de sed, caliente.
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=6]No puedo dormir así.@
+`      Iré a buscar un vaso de agua.
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` Parece que fui a la ciudad de noche.@
+` Parece que estoy esperando, con ojos inyectados de sangre, que alguien pase cerca.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Hace calor.
+\
+` De pronto, veo un rostro reflejado en la ventana.@
+` Los ojos están inyectados de sangre, y el rostro parece demencial.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Hace tanto calor.
+\
+` Parece que encontré mi presa.@
+` Al estragularla desde atrás, todo termina.@
+` Parece que la mujer desconocida ha muerto sólo con eso.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Estoy, muy acalorado.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+` Tomando el cadáver, quizás muerdo su garganta.@
+` Hay un gorgoteo.@
+` Al beber la sangre que sale de su cuello desgarrado, calmo mi sed.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]No entiendo.
+\
+` El sonido de pesadas respiraciones.@
+` Este acto…
+` ¿Este acto en verdad me excita tanto?@
+` Meto mi dedo en el pecho del cadáver.@
+` El sonido de la carne siendo aplastada y de los huesos siendo rotos.@
+` El sonido de un corazón siendo arrancado por mi mano desnuda.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Mientras observo, mi cabeza se llena de blanco puro.
+\
+` Esto, el máximo despojo.@
+` La cima de la inmoralidad.@
+` Sólo al observar, me siento acalorado.@
+` Podría decirse que es un placer negativo, pero a la hora de excitar a alguien, sigue siendo lo mismo.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]No entiendo.
+\
+bg "bg/ima_18",crossfade,400
+` Con sangre caliente goteando de mi boca, miro hacia el cielo nocturno, fascinado.@
+` Mi largo cabello ondula a mi alrededor.@
+` Arriba está el espiral del cielo.@
+` Una luna plateada tan hermosa.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Igualmente, no entiendo.@
+`   Estoy, simplemente, caliente[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

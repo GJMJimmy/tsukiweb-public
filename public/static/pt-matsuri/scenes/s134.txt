@@ -1,0 +1,56 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11a",notrans,0
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=4]Ah."@
+` Com ela me olhando desse jeito[line=2]acabo me lembrando do sonho.@
+`"Tohno-kun?@ Algum problema?@ Seu rosto está ficando vermelho."@
+`"N-Não é nada.@ É que tive um sonho estranho.@ Não estou me sentindo muito bem."@
+` Acho que estou sendo sincero, já que disse que não me sinto muito bem com isso.
+\
+`"……… Tohno-kun?"@
+` Ela me olha com uma expressão muito séria.@
+`"…… Senpai……?"@
+` Estou perplexo.@ Sinto como se a Senpai estivesse lendo a minha mente, e me lembro mais ainda do sonho de ontem à noite.@
+ld c,"tachi/cel_t12",crossfade,400
+`"Tohno-kun, você disse que teve um sonho estranho.@ O que quis dizer com isso?"@
+`"Não quis dizer nada, e não é da sua conta também.@ Esquece isso, e me diga o que você está fazendo."
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"É da minha conta sim!@ Tohno-kun, você não dormiu bem essa noite, né?"@
+`"[line=4]Hã?"@
+` Bem[line=2]ela está certa.@
+`"…… Senpai, como é que você sabe disso?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Porque seu rosto está todo vermelho.@ Não sei se você está doente, mas não parece estar bem."@
+`"Ah[line=2]Entendi."@
+` Fiquei surpreso por um momento.@
+` Ela acertou sobre a noite passada, por isso pensei que[line=2]
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Sobre o seu sonho, Tohno-kun.@ Por favor, me conte que tipo de sonho foi."@
+` …… A Senpai me pergunta novamente, ela não desistiu.@
+`"…… Tá bom.@ Não é grandes coisas, sério.@ É que…… Hum, você esteve nele um pouquinho."@
+br
+` Respondo com relutância.@
+br
+` De repente,
+ld c,"tachi/cel_t10d",crossfade,400
+`"E-Eu estava no sonho!?"@
+` Ela fica nervosa.
+\
+`"Hum…… Senpai?"@
+ld c,"tachi/cel_t09b",crossfade,400
+`"……………………"@
+` Ela se afasta rapidamente e olha para mim.@
+`"…………"@
+cl c,lshutter,800
+` Parece que ela quer falar mais alguma coisa, mas apenas faz uma mesura e vai embora.
+\
+`"………?"@
+` Inclino a cabeça, confuso.@
+` Logo em seguida, o sinal da escola ecoa pelo corredor.
+\
+bg #000000,crossfade,800
+!w1000

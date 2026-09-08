@@ -1,0 +1,59 @@
+play "*3"
+wavestop
+monocro #0000ff
+bg "bg/bg_29b",notrans,0
+cl c,notrans,0
+` Arcueid looks up at me full of amusement.
+\
+`"Uh[line=4]"@
+` She's acting like the Arcueid from last night's dream.@
+br
+`"It doesn't concern you, so leave me alone."@
+` I look away from her and refuse.@
+` But Arcueid keeps saying "Come on, come on," over and over.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Come on, tell me.@ You can at least tell me who you dreamed about."@
+` She asks like a curious kid.@
+` Every time I turn away she keeps jumping in front of me, saying "Come on, come on."@
+br
+` …… This is pure torture.@
+` She's as mischievous as last night's dream.
+\
+` I bury my face in my hands.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hey Shiki, don't be quiet and tell me."@
+` Arcueid keeps looking at me with those upturned eyes.@
+` [line=3]I can't, God.@
+` This is my limit.@
+br
+`"…… You."@
+` I hesitatingly let it out in a quiet voice.
+\
+`"[line=3]Eh?@ What about me?"@
+`"Don't make me say it again.@ I'm saying that it was you who came!"@
+` I shout angrily as I look away.@
+` Arcueid's eyes widen in surprise.@
+ld c,"tachi/ark_t13",crossfade,400
+`"M, me……?"@
+`"Yeah, it's not a joke.@ You came, and[line=4]"@
+` There's no way I can finish.
+\
+ld c,"tachi/ark_t10",crossfade,400
+playstop
+`"Ah[line=4]"@
+` Now Arcueid looks away from me, looking very uncomfortable.@
+cl c,crossfade,400
+br
+`"………………"@
+`"………………"@
+` Neither of us know what to say.@
+` The uncomfortable silence continues.
+\
+` ……@
+` …………@
+` …………………@
+` …………………………@
+` ………………………………… *ahem*@
+` I can't bear the silence any longer and force out that cough.
+\

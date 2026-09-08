@@ -1,0 +1,26 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` …… It's now time for lunch during our third day.@
+` I usually go outside to get lunch, but this time, I don't feel like doing so……@
+br
+ld l,"tachi/ark_t30",lshutter,400
+`"You got your head cut off.@ Even if you eat, it won't get to your stomach.@ Shiki does some nasty things, but isn't it your own fault, Ciel?"@
+br
+` Hahaha, shut up.@
+` It's better than not even appearing.
+\
+ld l,"tachi/ark_t31b",lshutter,400
+`"Ugh.@ You're right!!@ Why don't I get to appear?@ It's stupid!"@
+br
+` I bet it's your karma, but I have no time to play with you right now.@
+` Tohno-kun.@
+` Please go back to the previous choice and choose the selection that's more in tune with your character.@
+` With things like the way they are now, neither I nor Tohno-kun will be saved!
+\
+bg #000000,crossfade,800
+playstop

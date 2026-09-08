@@ -1,0 +1,38 @@
+play "*1"
+wavestop
+bg "bg/bg_33b",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Seja bem-vindo de volta, Shiki-sama."@
+`"Cheguei…… Onde a Akiha está?"@
+`"A Akiha-sama teve que permanecer na escola por causa de algumas formalidades.@ Como ela chegará tarde, nós vamos jantar primeiro."@
+`"…?"@
+` Hum!?@ Algumas formalidades?@
+` Provavelmente essa escola que ela frequenta é cheia das formalidades já que é uma escola de elite só para garotas.
+\
+`"Tá bom…… Vou para o meu quarto descansar até o jantar ficar pronto, eu vou para a sala de jantar quando der a hora."@
+`"Certo.@ Descanse bem que eu lhe chamarei quando estiver pronto."@
+cl a,crossfade,400
+` Dou as costas para a mesura da Hisui e vou para o meu quarto.
+\
+bg #000000,tshutter,800
+!w2000
+bg "bg/bg_40c",rshutter,800
+br
+` [line=3]Depois de jantar, volto para o meu quarto e sento na cama.@
+br
+` São nove horas da noite.@
+` Como é proibido sair da mansão depois das oito horas da noite, eu já não posso mais ir para a rua.@
+`"…………"@
+` Mas é apenas uma regra idiota.@
+` Se eu quiser mesmo, posso sair facilmente.
+\
+bg #000000,crossfade,400
+bg "event/stk_e03",crossfade,400
+br
+` [line=3]Então, nos vemos na escola amanhã.@ Tchauzinho, Tohno-kun.
+\
+br
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Eu[line=3]
+\

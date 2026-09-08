@@ -1,0 +1,40 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*4"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/nero_t02a",tshutter,800
+`"Joven, ¿tiene una pregunta?"@
+br
+ld l,"tachi/ark_t31a",lshutter,400
+`"Oye, eso es jugar sucio.@ Tú también estás tratando de lucirte viniendo aquí, Nrvnqsr."@
+br
+ld r,"tachi/nero_t03",crossfade,400
+`"No seas ridícula.@ Ciel-kun fue a la tienda de curry.@ Yo soy el sustituto."@
+br
+`"Muy bien.@ Entonces denos una pista."@
+br
+cl r,crossfade,400
+ld r,"tachi/nero_t04",crossfade,400
+`"Pelear castiga a ambos bandos.@ No mates sin necesidad."
+\
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"No estoy convencida.@ Aunque no quisieran pelear con Ciel, hay algunos que se quitaron los lentes incondicionalmente.@
+` ¿Qué pasa con ésos?"@
+ld r,"tachi/nero_t02a",crossfade,400
+br
+`"No debéis robar, violar, o engañar a otros.@ Puede sonar familiar para algunos de ustedes.@ De ser así, hagan un viaje en el tiempo hasta esta mañana.@
+` Sí.@ Ahora que lo pienso, la princesa podría tener una idea sobre eso, ¿no?"
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Nya, ¿q-qué?@ No entiendo de qué estás hablando."@
+br
+ld r,"tachi/nero_t02c",crossfade,400
+`"…… Bueno, lo que le suceda a otros es algo trivial para mí.@
+` Entonces, observaré cómo termina la obra para todos ustedes desde aquí[line=5]"
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,103 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… That's right.@ She's been taking care of me since yesterday, so if I have time to fool around, I ought to go help Hisui.
+\
+bg #000000,lshutter,400
+bg "bg/bg_46b",lshutter,800
+play "*1"
+` [line=3]Well then.@
+` Hisui said she'd be cleaning the mansion, but where could she be?@
+br
+bg #000000,lshutter,400
+bg "bg/bg_33b",lshutter,400
+` I go down to the lobby.@
+` She wasn't in the hallway on the second floor, so maybe she's in the sitting room?@
+br
+bg "bg/bg_34c",lshutter,800
+` …… Not here.
+\
+br
+bg "bg/bg_35",lshutter,800
+` ………… Not here.@
+br
+bg "bg/bg_46b",lshutter,800
+` ……………… Not here.@
+br
+bg #000000,lshutter,800
+` …………………… Not here.
+\
+bg "bg/bg_33b",lshutter,800
+` She's not anywhere on the first floor.@
+` The only place I haven't been are the locked recreation rooms, the guest rooms, and the salon where Akiha is right now.@
+`"…… I guess she's on the second floor then."@
+` It is a big mansion, so there's probably a bunch of places I haven't looked.@
+` Psyching myself up, I start up the stairs.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46b",lcartain,800
+playstop
+` I go up the stairs and glance down the hallway.@
+` And then,
+` I see Hisui's silhouette standing by the window in the east hall of the mansion.
+\
+bg #000000,lcartain,800
+bg "event/his_e04",crossfade,800
+play "*9"
+`"Hisu[line=2]"@
+` My voice dies in my throat.@
+` In the middle of the hallway.@
+` In the twilight, between light and shadow, Hisui stands motionless.
+\
+`"[line=6]"@
+` …… I can't… speak.@
+` Something about her seems… dangerous.@
+br
+` Hisui lingering in the gloom of this western-style mansion.@
+` She seems so incredibly beautiful; but at the same time, a chill runs through me, as if I were looking at a ghost.@
+br
+` She doesn't even move a finger.@ She simply stares out the window.@
+`"[line=6]"@
+` That window.@
+` Is that the same one she watched us from back then?
+\
+`"Hisu[line=4]i"@
+` I can't do anything but stare in fascination.@
+` I'm so dumbstruck I can't speak, or even blink.@ I can only watch her.@
+br
+` [line=4]And then.@
+` Her eyes, still like that of a doll's, suddenly turn towards me.
+\
+`"Shiki-sama, is something wrong?"@
+`"Ah[line=3]no, nothing, I just, um……"@
+`"?"@
+` Hisui tilts her head in curiosity.@
+` That seems to break the mysterious spell I was under.
+\
+`"I was looking for you because I had some free time and thought I'd give you a hand.@ For some reason, I couldn't find you, but I made it."@
+`" …… I see.@ But Shiki-sama, there is no need for you to do that.@ Please return to your room."@
+`"Hmmm………"@
+` I thought it would turn out like this, Hisui doesn't want me to do any work.
+\
+`"But Hisui, I don't have anything else to do.@ I don't like just doing nothing, so I thought I ought to pitch in."@
+`"Shiki-sama, you may say that, but there is no longer any work that you might assist me with.@ The only thing that remains is to arrange Akiha's bedroom.@
+` No males are allowed to enter Akiha's bedroom.@ Not even you, Shiki-sama."@
+`"Hmmmm…………"@
+` Well, that's definitely true.@
+` …… But, it is a little cruel.@ She didn't have to emphasize that last part.
+\
+`"Please excuse me, I have to finish my duties."@
+bg "bg/bg_46b",crossfade,800
+` Her footsteps echo in the air and she goes into Akiha's bedroom.@
+`"…………… Sheesh."@
+` I can't just go into a girl's bedroom because I have free time.@
+`"…… Oh well, I guess I'll go back to my room."@
+` I turn on my heels.@
+` Before doing so, I get curious about the window Hisui was staring out of.@
+`"Huh[line=3]isn't that Kohaku-san in the courtyard?"@
+` You can see the whole courtyard from this window.@
+` Was Hisui looking out into the courtyard from this window just as she did when she was a child……?
+\
+bg #000000,crossfade,800
+playstop
+!w2000

@@ -1,0 +1,61 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@
+` We're finally in the fourth period.@
+` The hint corner for Tohno-kun, who has unluckily ended up in this unjust Dead End,
+` It is time for "Teach me, Ciel-sensei!"
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"I envy you, Ciel.@ You get a lot of appearances.@ I'm the main heroine, but they still treat me like this scribble."@
+br
+` Hey you, don't say weird things.@
+` That's fine.@ At least you have more dignity than me, the do-it-all character.@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"No!!@ Unsatisfactory!@ I want to dress like you and be called smart!!"
+\
+` …………@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+` No appearance!@ No appearance!@ No appearance!@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+`"No appearance!@ No appearance!@ No appearance!@ No appearance!@ No appearance!@ Ciel-glasses!@ No appearance!@ No Ciel!@ No appearance!@ Ciel-glasses!@ No appearance!@ Ciel-too plain!@ Ciel-get out!@ Ciel-glasses!@ Fake-Frenchie!@ Gun-fetish!@ Ciel-India!"@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+br
+` ………… (Anger)
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+`"Kyuuuuuuuuu………………"@
+br
+ld r,"tachi/cel_t20",lshutter,400
+` [line=4]Well, let's start the lecture.@
+br
+` The cause of death is clear this time.@
+` Your eagerness to try and solve this incident by yourself is splendid, but this is something you cannot solve by yourself.@
+` It's the way of the world to lose something to obtain something.@
+` It's also sad for me, but you should part with Ciel-san just this once.
+\
+bg #000000,crossfade,800
+playstop

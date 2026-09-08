@@ -1,0 +1,125 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… É mesmo, ela está sempre cuidando de mim.@ Já que tenho tanto tempo livre, vou lá ajudar a Kohaku-san.@
+`"Acho que ela está varrendo o pátio."@
+` Até eu consigo ajudar se for só para varrer o pátio.@
+` Fico animado para ajudá-la e vou para o pátio.
+\
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+play "*3"
+ld c,"tachi/koha_t06",lshutter,800
+`"Bem-vindo de volta, Shiki-san."@
+` A Kohaku-san me cumprimenta com um sorriso meigo.@
+`"Obrigado.@ Está varrendo o pátio sozinha?"@
+`"Estou sim.@ O jardineiro não vai vir pelos próximos três dias, por isso resolvi varrer as folhas caídas."@
+` Ela segura a vassoura de bambu com as duas mãos.@ E parece estar se divertindo muito.@
+` Limpar esta área enorme sozinha não deve ser brincadeira.
+\
+`"Você é muito animada, Kohaku-san.@ Eu ia reclamar muito se tivesse que varrer este pátio todo sozinho."@
+`"Ah não, não é bem assim.@ É o meu trabalho, o meu ganha-pão.@ É por isso devo segurar as lágrimas e varrer este pátio caladinha.@ Ahahaha!"@
+` Ela dá uma risada e depois sorri despreocupada.@
+` Que garota mais cheia de vida!
+\
+`"Além disso, tem umas coisinhas secretas que eu faço no jardim perto do pátio, por isso quando não estou ocupada, sempre venho verificar o jardim."@
+`"Hein……?@ 'Coisinhas secretas'?@ Tipo o quê?"@
+`"Hummmm, vejamos.@ Desde criança sempre gostei de cultivar flores.@ Eu juntei tantos tipos de flores diferentes em um lugar só, que acho que virou uma selva em de vez de um canteiro de flores."
+\
+cl c,crossfade,400
+`"Ahahahaha," a Kohaku-san ri novamente.@
+` …… Eu não sabia disso.@ Raramente venho aqui atrás, por isso nunca reparei bem, mas acho que vi um jardim de flores lá do segundo andar uma vez.
+\
+`"Quer dizer que você gosta de jardinagem, né, Kohaku-san?@ Quais flores você cultiva?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Humm, um monte delas.@ Mas a maioria são glórias-da-manhã."@
+`"Glórias-da-manhã?@ Foi uma escolha bem adequada."@
+`"Acha mesmo?@ Eu sempre pensei que elas não combinavam muito com a mansão…"@
+`"Não, eu não estou falando da mansão.@ Eu quis dizer que elas combinam muito com você, Kohaku-san.@ As glórias-da-manhã são bonitas pela sua simplicidade."
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"Shiki-san, acho que você está tendo uma ideia meio errada.@ As que estão no jardim são glórias-da-manhã coreanas.@ Essas são meio perigosas."@
+` Ela ri como se tivesse achado algo muito engraçado.@
+`"Hummm!@ Mas mesmo sendo glórias-da-manhã coreanas ainda são glórias-da-manhã, né?"
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Sim.@ Elas também são conhecidas como berinjelas loucas ou datura.@ É possível fazer um anestésico com essas flores.@ A primeira anestesia geral do mundo, a Tsuusensan, foi feita no Japão usando as glórias-da-manhã coreanas como o seu principal ingrediente ativo.@ Caso seja ingerida por acidente, ela causará alucinações perigosas, por isso tenha cuidado, Shiki-san."@
+br
+` …… Eu duvido que algum dia eu vou 'ingerir por acidente' essas flores.
+\
+`"Eu também queria ter cultivados alguns cactos e outras coisas bonitinhas desse tipo, mas a Akiha-sama foi totalmente contra, por isso tive que parar.@ É uma pena eu poder apenas falar sobre elas e não ter nenhuma para te mostrar."@
+cl c,crossfade,400
+` Depois de dizer isso, ela pega a vassoura novamente.@
+`"…… Entendi.@ Quer dizer que você gosta de vir varrer o pátio porque gosta das flores, né?"@
+ld c,"tachi/koha_t06",crossfade,400
+`"Não, não é esse o motivo.@ Na verdade, sou um desastre limpando o interior da mansão.@ Não sei bem o motivo, mas sempre acabo quebrando alguma coisa."
+\
+`"Hã?"@
+`"Eu sempre quebro ou rasgo o que tem de mais valioso em um cômodo.@ Mas não faço isso de propósito, tá?@ Só que a Hisui-chan me disse o seguinte: 'Nee-san, talvez você deva cuidar apenas da cozinha e das finanças da família.' Foi muita maldade ela dizer isso!"@
+` A Kohaku-san continua sorrindo enquanto finge estar brava.@
+` Mas[line=4]isso é muito diferente da primeira impressão que tive dela.
+\
+`"…… Quer dizer que… Kohaku-san, você é muito desajeitada?"@
+` O que eu disse foi mais um desabafo do que uma pergunta direta.@
+` Ela resmunga, desapontada.@
+`"Você também vai falar isso, Shiki-san?@ A Hisui-chan é muito cruel e costuma me dizer: 'Nee-san, você é muito lenta', enquanto a Akiha-sama gosta de me provocar dizendo: 'Você não está sendo cuidadosa o bastante.'
+` Eu não sou atrapalhada porque quero, poxa!@ Elas são tão malvadas comigo!"@
+`"…… Eu sei disso.@ Não existem muitas pessoas por aí que são atrapalhadas porque querem."@
+` Eu fiquei sem saber o que dizer, por isso tentei falar algo mais neutro.
+\
+`"É isso mesmo!@ O que conta é a intenção, por isso acho que elas deveriam fazer vista grossa se eu me atrapalho só umas dez ou vinte vezes!"@
+cl c,crossfade,400
+` A Kohaku-san começa a varrer as folhas.@
+` [line=3]Bem, eu não vim aqui para atraplhar o seu serviço.
+\
+`"Kohaku-san, tem outra vassoura por aí?"@
+ld c,"tachi/koha_t06",crossfade,400
+`"Sim, tem várias.@ Para o que você vai usar?"@
+`"Pensei em te ajudar a varrer as folhas."@
+` A vassoura nas mãos dela para bruscamente.@
+ld c,"tachi/koha_t03",crossfade,400
+`"[line=4]De jeito nenhum, Shiki-san.@ Eu vou ter sérios problemas se você fizer isso."@
+`"Hein?@ Por que você teria problemas se eu[line=4]ah, acho que já sei quem seria a única pessoa deste mundo que ia te amolar por isso."@
+`"Pois é."@
+` Ela concorda na mesma hora.
+\
+`"Não se preocupe.@ Eu vou fazer isso porque quero.@ A Akiha não tem nada o que reclamar.@ Se ela for conversar fiado vai ser comigo, não com você."@
+`"Ah, isso é bem verdade."@
+`"Pois é!@ Então, fique tranquila.@ Além disso, vai ser mais divertido se nós dois varrermos o pátio."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"…… Humm.@ Shiki-san, parece que você não entende direito a Akiha-sama.@ Se me ajudar, acho que ela vai ficar brava por outro motivo."@
+`"…… Não estou entendendo, você está dizendo que ela vai ficar brava de qualquer forma, independente do que aconteça?"
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"Ahahahaha, exatamente.@ Por isso é melhor você não se preocupar em varrer aqui."@
+` Ainda sorrindo, ela diz isso sem fazer rodeios.@
+`"…… Ah.@ Então a Akiha vai ficar brava com você de todo jeito, né?@ Então eu não vou complicar mais a sua vida.@ Desculpe por não pensar nas consequências dos meus atos, Kohaku-san."@
+`"Não, imagina.@ Eu fiquei muito feliz por você querer me ajudar."@
+` Embora ela diga isso com um sorriso tão lindo, eu fico triste porque realmente queria ajudá-la.@
+br
+` Eu suspiro.@
+` Ela fica me observando, toda feliz.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Shiki-san, você quer ajudar mesmo?"@
+`"Sim, se não for te causar problemas…"@
+`"Então, vamos para outro lugar?@ A Akiha-sama vai nos encontrar se ficarmos aqui, seria melhor se varrermos a parte de trás da mansão."@
+`"A parte de trás…… Varrer o quintal?"@
+`"Sim.@ A Akiha-sama nunca vai nos encontrar lá, poderemos varrer o quanto quisermos.@
+` Toma aqui," Ela me entrega a vassoura que estava usando.
+\
+`"Eu vou lá dentro pegar outra, pode ir na frente.@ Por favor, não deixe a Hisui-chan e nem a Akiha-sama te verem indo para lá, tá bom?"@
+cl c,lshutter,800
+` Tap tap tap!@ A Kohaku-san sai correndo com passos leves.@
+br
+` [line=3]Ela realmente parece ser uma garota travessa.@
+br
+` Antes que eu perceba, um sorriso se forma nos meus lábios.@
+` A Akiha e a Hisui não parecem ser do tipo brincalhonas, por isso acho muito charmoso esse brilho da Kohaku-san.
+\
+`"Certo, vou indo na frente[line=4]!"@
+` Segurando a vassoura que ela me entregou, vou secretamente para o quintal da mansão.
+\
+bg #000000,lcartain,800
+playstop
+!w2000

@@ -1,0 +1,27 @@
+playstop
+wavestop
+bg "event/stk_e01a",notrans,0
+` ……………… Frio.@
+` Você estava aguentando todo esse frio sozinha, Yumizuka?@
+` Embora tenha sentido pena de você, eu não entendia nem um pouco a sua dor.@
+br
+` Mas agora acabou.@
+` Tohno Shiki vai desaparecer em breve e tudo vai terminar.
+\
+playstop
+bg #000000,crossfade,800
+` [line=3]Meu coração vai parando aos poucos.@
+br
+` O calor do meu corpo, e tudo que está vivo dentro de mim, cessa.@
+` Uma sensação familiar.@
+` Aquele dia de verão há oito anos.@
+br
+` TU, DUM
+br
+` Após uma forte pulsação, meu coração para.@
+` E tudo.@ Tudo que compõe o Tohno Shiki desaparece.
+\
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

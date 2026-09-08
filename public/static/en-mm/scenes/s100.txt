@@ -1,0 +1,41 @@
+monocro off
+playstop
+waveloop se_02
+bg "bg/bg_29c",notrans,0
+` …… Still, still too early.@
+` There's about ten meters in between me and Nrvnqsr.@
+` I need a more definite opening before I can draw close without him realizing me.
+\
+`"[line=6]"@
+` I gulp.@
+` A little more[line=4]a little more, something[line=4]
+\
+`"…… I do not understand."@
+` Muttering.@
+` As if speaking to the moon above, Nrvnqsr mutters aloud.
+\
+`"It is displeasing to be faced by such unsightly enmity, but I cannot think this is one of the Princess's familiars.@ Is that just trash?"@
+`"[line=6]!@ Shiki, run away!"@
+` Arcueid's composed voice.
+\
+`"……… Eh?"@
+` But, I can't understand in time.
+\
+bg #000000,bcartain,1500
+wavestop
+` My legs start to sink in something.@
+` The firm ground beneath me is like quicksand.@
+`"Ah[line=6]"@
+` The ground is full of something pitch-black.@
+` My body collapses.@
+` My ankles which sunk into the black puddle are attached to nothing.
+\
+`"[line=6]"@
+` I fall with a splash into the puddle.@
+` …… There's no bottom.@
+` This black puddle transforms into a mouth of a large animal and compresses my body[line=5]
+\
+wait 2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

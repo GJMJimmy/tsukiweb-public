@@ -1,0 +1,44 @@
+play "*3"
+wavestop
+bg "bg/bg_23b",lcartain,800
+` Caminho ao lado da Akiha em direção à mansão.@
+`"……"@
+` Para ser sincero, está difícil.@
+` Quando olho para o lado, vejo a Akiha caminhando tranquilamente com seus longos cabelos esvoaçantes.@
+` Ela caminha graciosamente em silêncio, realmente é a filha perfeita de uma família respeitada.
+\
+`"………"@
+` Por que não consigo pensar em nada para dizer?@
+` Embora eu a veja em casa todos os dias, agora que estamos caminhando juntos eu me sinto meio tenso.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,400
+play "*1"
+` Chegamos na mansão.@
+` A Akiha se apressa na frente para abrir o portão, mas se vira na mesma hora, parece que se lembrou de falar alguma coisa.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Eu tenho uma pergunta.@ O quão próximo você é daquela pessoa chamada Ciel?"@
+` Abruptamente, sou atacado por uma pergunta extremamente direta.@
+`"Não somos especialmente próximos.@ Somos apenas amigos de escola.@ Ela… É alguém com quem consigo conversar normalmente."@
+cl a,crossfade,400
+`"Sério?" é o que a Akiha diz enquanto se vira para abrir o portão e entrar.
+\
+bg "bg/bg_48b",lshutter,800
+` Cruzamos o pátio e chegamos na porta de entrada.@
+` A Hisui não está me esperando em lugar algum e a Kohaku-san não está varrendo o jardim.
+\
+`"Ah."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Hum?@ Disse alguma coisa, Nii-san?"@
+`"Estava pensando aqui… Estou querendo dar uma olhada na construção ao estilo japonês que você estava me falando antes."@
+`"[line=4]A edícula?"@
+` Ela murmura e vejo sua testa franzir de preocupação.
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Por favor, não vá.@ Ela foi selada há muitos anos.@ Nii-san, nem mesmo você tem permissão de ir lá."@
+cl a,lshutter,400
+` Ela deixa isso bem claro e entra na mansão.
+\
+bg #000000,lshutter,800
+playstop
+!w1000

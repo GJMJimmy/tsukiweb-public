@@ -1,0 +1,1411 @@
+phase "bg/cmo_06",l,aki,08a,8
+bg #000000,notrans,0
+!w1000
+bg #ffffff,notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Abro os olhos para o sol da manhã.@
+` Eu me sinto muito bem, embora ainda esteja com o corpo pesado por causa do ataque anêmico de ontem.@
+` …… Já se passaram quantos dias?@
+` Há quanto tempo não tenho uma manhã tão tranquila?@
+` E hoje é o Dia do Fundador da Escola.@
+` Não preciso me arrumar para ir na escola, posso aproveitar a minha manhã tranquilamente.
+\
+`"Ah[line=3]"@
+` Só agora percebo.@
+` Tem uma pessoa dormindo debruçada na minha cama.@
+`"Akiha…?"@
+` Parece que ela ficou cuidando de mim a noite toda e agora está sentada em uma cadeira, com a parte de cima do corpo debruçada na minha cama.
+\
+bg "event/aki_e09",tshutter,800
+` Sua respiração está muito tranquila.@
+` Seus cabelos longos estão espalhados por toda a cama… É uma imagem linda.@
+`"Akiha… Ei, Akiha…"@
+` Chamo baixinho, mas parece que ela não vai acordar.@
+` …… Bom, é melhor não acordá-la já que o sono está tão profundo.
+\
+`"…… Mm."@
+` Ela se vira devagarzinho.@
+` Dormindo assim, não vejo nenhum sinal de toda aquela força do dia a dia.@
+` Seu rosto indefeso não mudou nada desde quando éramos crianças.@ Por isso que consigo fechar os olhos e me lembrar vividamente da Akiha daquele tempo.
+\
+bg "event/aki_e01b",crossfade,400
+` …… Oito anos atrás.@
+` Nós brincávamos juntos, a garotinha de cabelos negros sempre estava indo atrás de mim.@
+` Embora fosse muito quieta, a Akiha sempre saía conosco.@
+` Raramente ela sorria e mesmo quando sorria, o sorriso parecia um pouco triste.@
+br
+` [line=3]Quando eu era criança e não sabia de nada.@
+br
+` Eu queria muito fazer ela rir de felicidade, por isso sempre estava a arrastando para o jardim pra brincar conosco.
+\
+bg "event/aki_e09",crossfade,800
+`"Nn… Nii… san…"@
+` Ela murmura para si mesma e eu me pergunto o que estará sonhando.@
+`"[line=6]"@
+` Por algum motivo, por impulso, eu afasto o cabelo do seu rosto.@
+` O meu coração fica muito calmo quando olho para o seu rosto dormindo.@
+` …… Se eu pudesse, ficaria olhando pra ela desse jeito para sempre.
+\
+`"…… Akiha."@
+` …… Eu me lembro.@
+` Eu sempre pensei assim quando éramos crianças.@
+` Naquele dia, eu prometi que cuidaria dessa garota porque ela era a pessoa mais preciosa do mundo para mim.@
+` A Akiha que chorava enquanto se segurava em mim.
+\
+`"…… Mas isso não é legal, né?@ A imagem daquele tempo se foi.@ Agora ela uma jovem exímia."@
+` Murmuro enquanto observo seu belo rosto.@
+`"[line=4]Nn."@
+` Solto seus cabelos longos.@
+`"…… Me…… Perdoe."@
+` Enrugando as sobrancelhas, ela diz essas palavras em seus sonhos.@
+`"…… Me perdoe…… Me perdoe, Nii-san……"@
+`"[line=4]Akiha?"
+\
+` A respiração dela fica irregular.@
+` Seus cabelos longos deslizam pela cama e lentamente ela se levanta.
+\
+bg "bg/bg_40a",tshutter,800
+ld c,"tachi/aki_t19c",crossfade,400
+`"Ah[line=3]é o Nii-san.@ Nii-san… Por que você está aqui…?"@
+`"…… Ué, é meio óbvio a resposta.@ Este é o meu quarto, né!?"@
+ld c,"tachi/aki_t24",crossfade,400
+`"Hã[line=3]!?"@
+cl a,crossfade,400
+` Ela dá um pulo da cadeira como se tivesse sido picada por um inseto e olha ao seu redor.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Bom dia, Nii-san.@ Como passou a noite?"@
+` …… Ela me cumprimenta tranquilamente, como se não tivesse dormido debruçada sobre a minha cama.@ Ela age como a Akiha de sempre.@
+` A sua coragem, ou devo dizer a sua 'reação', não é normal.@
+`"Bom dia.@ Graças a você, eu dormi muito bem.@ Fazia tempo que não tinha uma manhã tão agradável como essa."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Sério?@ O seu corpo se recuperou completamente?"@
+`"Não, ainda está meio pesado.@ Mas como hoje é feriado, vou poder descansar."
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Nii-san, isso não é do seu feitio.@ Normalmente, você desaparece para sabe se lá onde sem que ninguém perceba."@
+`"Por favor, não diga essas coisas.@ A partir de agora só vou ficar em casa quietinho, não precisa se preocupar mais."@
+ld c,"tachi/aki_t08b",crossfade,400
+`"Sei, sei, vou aceitar metade dessa afirmação."@
+cl a,crossfade,400
+` Sorrindo com uma cara muito feliz, ela me observa.@
+` …… Se os nossos rostos continuarem tão pertos assim, teremos problemas.@
+` A Akiha é linda demais[line=4]se ela continuar me olhando com esse sorriso maravilhoso, eu vou enlouquecer.
+\
+ld c,"tachi/aki_t09b",crossfade,400
+`"Bem, veremos como você vai estar se sentindo até a hora do almoço, Nii-san.@ Até lá, por favor, não se esforce e não saia para a rua."@
+`"Tudo bem… Mas é muito triste, né!?@ Desde que eu voltei para casa, você tem que cuidar de mim o tempo todo.@ Que belo irmão mais velho estou sendo!"@
+ld c,"tachi/aki_t17b",crossfade,400
+`"[line=4]Nii-san."@
+` Foi só um comentário bobo, mas a feição da Akiha muda imediatamente.@
+` Depois de pensar por um momento, ela se levanta e olha para cima.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"[line=3]Não diga essas besteiras.@
+` Você é meu irmão.@ E mesmo que não aja como um bom irmão, nada vai mudar por causa disso."@
+`"…… É, eu sei, mas…"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"…… Não é nada.@ Mas o que eu disse é verdade.@ Não me importo de cuidar de você todos os dias, então, por favor, não fique se preocupando com essas coisas."
+\
+cl a,crossfade,400
+` Ela vai rapidamente até a porta.@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Com licença.@ Não vou ficar em casa no período da manhã, se precisar de alguma coisa é só pedir para a Hisui."@
+cl a,lshutter,400
+` E depois de dizer isso, ela sai do quarto.
+\
+bg #000000,lcartain,800
+!w500
+bg "bg/bg_40a",tshutter,800
+` Já são dez horas da manhã.@
+` É bom poder descansar, mas ficar deitado na cama o dia inteiro é entediante.
+\
+`"…… Ahhhh…"@
+` …… Porém o meu corpo parece que ainda não descansou o suficiente.@
+` Ainda não tenho muitas energias e se eu sair por aí e acabar desmaiando como ontem, a Akiha vai ficar muito brava.@
+`"…… Ela deve voltar daqui a duas horas.@ Sem contar que eu prometi tirar o dia de folga, né!"@
+` Digo isso para mim mesmo e jogo os lençóis por cima do meu corpo.
+\
+playstop
+monocro #fffff0
+bg "bg/bg_40a",crossfade,400
+` Estou muito sonolento, provavelmente porque ainda estou exausto.@
+wave se_01
+` …… Se ficar quieto, posso ouvir as batidas do meu coração.@
+wave se_01
+`"Quen… Te…"@
+` Eu não bebo nada desde ontem.@
+` A minha garganta está seca e a minha mente está meio lerda.
+\
+wave se_01
+` Só um pouco.@
+` Acho que não tem problema sair da cama só para pegar um pouco de água.
+\
+wave se_01
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_46a",notrans,0
+waveloop se_02
+` O corredor está vazio.@
+` Há muito tempo.@
+` Há tanto tempo que nem consigo me lembrar, ou não preciso me lembrar.@ É como ruínas em um filme, tudo muito quieto.
+\
+waveloop se_02
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_36a",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_39",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_48a",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_42a",notrans,0
+` Quente.@
+` O sol está muito quente.@
+` Será que o meu corpo ainda não se recuperou?@
+` Parece que não posso ficar muito tempo no sol.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_54a",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_44a",notrans,0
+bg #ffffff,crossfade,400
+monocro off
+` …… A edícula parece tremular por causa do calor do sol.@
+` A minha visão fica embaçada, como se eu estivesse no meio de um deserto escaldante.@ Branco.@
+br
+` …… Ouço um barulho alto.@
+` …… E vem da edícula.@
+` …… Tem alguém.@
+` …… Tem alguém ali?
+\
+bg #000000,tshutter,800
+bg "bg/bg_45b",bshutter,800
+` Abro a porta de correr bem devagarzinho e olho lá dentro.@
+` Vejo a Akiha e a Kohaku-san.@
+` Elas estão meio estranhas.@
+` Ouço o sibilar de um obi sendo removido.@
+br
+` [line=5]O quê…?@
+br
+` Sem dizer uma palavra, a Kohaku tira o quimono e descobre os seus seios.
+\
+bg #ffffff,lshutter,800
+bg "event/aki_h13",lshutter,800
+` A Kohaku fica na mesma posição e com o rosto bem corado, mas não se move.@
+` A Akiha pressiona os lábios no seio descoberto.@
+br
+` Tensão.@
+br
+` A Kohaku olha para o seu próprio seio, a Akiha se abaixa um pouco e enterra o rosto nos seios da Kohaku.@
+` Uma fina linha vermelha escorre do seu seio.
+\
+` A garganta da Akiha começa a se mexer, engolindo alguma coisa.@
+` O que[line=3]o que ela está bebendo?@ Não há dúvidas; eu já entendi tudo.@
+br
+` A Akiha[line=4]está bebendo[line=4]o sangue da Kohaku[line=4]
+\
+bg #ffffff,crossfade,400
+br
+br
+br
+br
+br
+br
+` [line=10]Sonho
+`         Sonho[line=6]
+br
+` Isso é um sonho.@
+` É um sonho, é melhor eu acordar.
+\
+wavestop
+bg "bg/bg_40a",notrans,0
+play "*1"
+`"[line=4]Hein?"@
+` …… É o meu quarto.@
+` Tenho certeza de que estou… No meu quarto.
+\
+`"A Akiha e a Kohaku-san…?"@
+` Akiha.@ A Akiha estava bebendo o sangue da Kohaku-san; tenho certeza de que vi isso.@
+`"Será que foi só um sonho…?"@
+` …… Talvez sim.@
+` Não, tem que ter sido um sonho.@
+` Não tem como ter sido real.
+\
+`"…… Mas… Pareceu tão real."@
+` Tem que ser um sonho.@
+` O cheiro do chão de tatame, a respiração irregular das duas garotas, o som de estar engolindo algo que ouvi vindo da garganta da Akiha.@
+`"[line=8]"@
+` Eu saio da cama.@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+` …… Estou tonto.@
+` Mas não me importo.@
+` A edícula.@
+` Se eu for até a edícula, vou me certificar se foi ou não um sonho[line=3]
+\
+bg #000000,lcartain,400
+!w1500
+bg "bg/bg_54a",lcartain,400
+`"[line=4]!"@
+` Ouço um barulho e me escondo.@
+ld c,"tachi/koha_t09",lshutter,800
+cl a,lshutter,800
+`"Kohaku… san."@
+` A Kohaku-san está vindo da direção da edícula e agora está indo na direção da mansão.
+\
+bg #000000,lcartain,400
+bg "bg/bg_44a",lcartain,400
+` …… A edícula está silenciosa como um túmulo.@
+` Acho que está vazia.@
+` A Akiha não está aqui.@
+` Ela disse que não estaria em casa no período da manhã.@
+` A Akiha não estaria neste lugar com a Kohaku-san.@
+br
+`"………"@
+` Eu engulo em seco.@
+` Tomo um grande fôlego e entro.
+\
+bg #000000,lcartain,800
+bg "bg/bg_45a",lcartain,800
+ld c,"tachi/aki_t19",crossfade,800
+`"…… Nii…… san……?"@
+` A Akiha está aqui, no quarto ao estilo japonês.@
+` Ela me olha horrorizada.@
+`"…… Akiha."@
+`"Sim…?@ O que foi, Nii-san…?"@
+` Ela não parece surpresa por eu estar aqui.@
+` Ela age com indiferença.
+\
+`"'O que foi'…?@ O que você está fazendo aqui?"@
+`"Hum?@ Eu só quis dar uma última olhada antes da demolição."@
+`"[line=3]Não, não foi isso que eu quis…"@
+cl a,crossfade,400
+br
+` Olho para o corpo dela.@
+` Hum?@ [line=3]A Akiha está como uniforme da escola.@
+` Ela não estava com suas roupas normais agora há pouco…?
+\
+`"Akiha, você trocou de roupa?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Sim, porque eu fui na escola de manhã.@ Depois de sair do seu quarto, eu me troquei e acabei de chegar agora."@
+`"…… Sério?@ É mesmo[line=4]é claro[line=4]você não estava aqui fazendo aquilo."@
+br
+` [line=2]É, foi só um sonho mesmo.@
+` …… Mas tem algo estranho aqui.@
+` Tem algo estanho, mas… Quem é o estranho?
+\
+` É a Akiha?@ Ou sou eu?
+\
+` Quando vi aquela cena, a Akiha estava com as suas roupas normais.@
+` Seria estranho ela ter trocado de roupa depois daquilo e não tem nada de anormal no que ela acabou de falar.@
+br
+` Então[line=3]isso faz de mim, aquele que viu um sonho daqueles, o estranho da situação toda.
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"…… Nii-san?@ Qual o problema?@ Você parece pálido.@ Você disse que ia descansar a manhã toda, por que está aqui?"@
+`"Resolvi caminhar um pouco, só isso."@
+ld c,"tachi/aki_t11a",crossfade,400
+`"…… Sério?@ Não tem problema fazer isso, mas eu te proibi de vir aqui.@ Parece que não conseguiu manter sua promessa comigo, Nii-san."@
+` Ela me observa com um olhar acusador.@
+` O seu olhar parece ver no fundo do meu coração que acaba acelerando por causa disso.
+\
+`"…… Tem razão.@ De agora em diante, vou ser mais cuidadoso."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Esta construção é muito velha, por isso existe uma chance de desmoronar sozinha.@ Por favor, não volte mais aqui, Nii-san."@
+br
+` [line=3]Seria apenas a minha imaginação?@
+` Eu acho que realmente tem algo estranho nessa atitude da Akiha.@
+` Para começo de conversa, por que ela ficaria em um lugar tão perigoso e sozinha……?
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Agora volte para casa, Nii-san.@ Você não parece bem."@
+cl a,crossfade,400
+` Ela passa por mim e sai do quarto ao estilo japonês.
+\
+`"Espera aí, Akiha.@ Tem uma coisa que esqueci de te perguntar ontem."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Esqueceu de perguntar o quê?"@
+`"Sobre aquela clareira onde desmaiei.@ Há muito tempo, costumávamos brincar lá, mas tenho a sensação de que tinha mais uma pessoa.@ Você se lembra?"@
+`"[line=3]Não havia mais ninguém.@ Você está enganado."@
+cl a,lshutter,400
+` Respondendo claramente, ela sai da edícula.
+\
+`"…… Não, Akiha, havia uma terceira criança sim.@ Uma criança que foi adotada há dez anos.@ Está dizendo que não sabe nada sobre ela?"@
+` Digo isso mais alto enquanto sou deixado sozinho no quarto ao estilo japonês.@
+` Será que ela está escondendo a verdade sobre a terceira criança, ou será que realmente não se lembra?@
+br
+` [line=4]Não sei dizer.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_40c",rcartain,800
+` [line=4]Está de noite.@
+` Retorno ao meu quarto e fico distraído sem fazer nada de especial.@
+` …… Tem tantas coisas para pensar.@
+` Os assassinatos continuam acontecendo, mesmo depois que a Yumizuka se foi.@
+` Eu tenho sonhos que condizem com os assassinatos e eu até sugo o sangue das pessoas nesses sonhos.
+\
+` Há oito anos.@
+` O ferimento quase fatal que recebi em um acidente e uma outra criança que vivia aqui.@
+` A cena que me lembrei no pátio.@ Sem dúvida alguma, aquilo foi uma lembrança de oito anos atrás.@
+` Não tenho dúvidas quanto ao motivo de eu ter começado a ter sonhos onde mato as pessoas.@ Ao que parece, algo assim aconteceu diante dos meus olhos, há muito tempo.
+\
+`"[line=5]"@
+` …… Eu não vejo a Akiha desde aquela hora.@
+` A Kohaku-san trouxe o jantar no meu quarto, mas a Akiha não veio me visitar.@
+`"Bom, como já estou melhor, realmente não tem necessidade de vir me visitar, mas…"@
+` …… A coisas entre nós dois ainda está entranha.@
+` Acho que quando o dia amanhecer e nos cumprimentarmos com um "bom dia" como sempre fazemos, esse sentimento estranho vai passar.@
+`"…… É isso aí.@ Hoje vou deitar, dormir e mais nada."
+\
+bg #000000,crossfade,400
+playstop
+` Desligo as luzes e me deito.@
+br
+` Mas a Akiha não está ao meu lado.@
+` Se eu dormir desse jeito[line=4]eu…
+` Talvez eu sonhe que estou matando pessoas novamente[line=4]
+\
+bg "bg/bg_40d",notrans,0
+`"[line=4]Merda."@
+` …… Não consigo dormir.@
+` Ontem eu consegui dormir tranquilamente porque a Akiha estava ao meu lado.@
+` Se eu dormir sozinho, vou ter aquele sonho de novo.@
+` E se eu sonhar que estou tomando sangue outra vez e outra vítima aparecer…
+` Eu não vou ter como negar o fato e terei de concluir que eu sou o assassino.
+\
+`"[line=4]Gh."@
+` Eu saio da cama.@
+` …… Não vou dormir.@
+` Não vou dormir essa noite, vou ficar acordado.@
+` O luar entra pela janela, acho que vou ficar apenas observando a lua[line=3]
+br
+`"Hum?@ tem alguém no pátio."@
+` Tento focar o olhar.@
+`"É a Akiha?@ O que ela está fazendo ali?"@
+` Ela está em pé, quietinha, debaixo de uma árvore enorme.
+\
+`"…… Talvez tenha saído para uma caminhada.@ Já passa das onze horas da noite; ela está sendo muito descuidada."@
+` Na verdade, na primeira noite que vim para a mansão, a Akiha estava perambulando de noite também.@
+` ……… Como não vou dormir mesmo…
+` Se, como ontem, eu tiver a Akiha do meu lado, acredito que não vou ter pesadelos[line=3]
+\
+bg #000000,lcartain,800
+bg "bg/bg_48d",lcartain,800
+bg #000000,lcartain,800
+play "*8"
+` Caminho sob o luar.@
+` As árvores da mansão estão pintadas pelas esplêndidas cores do outono e as folhas que caem parecem ilusões.
+\
+bg "bg/bg_54c",lcartain,400
+` A Akiha está no centro de tudo isso.@
+` Olho para os seus longos cabelos negros, para as suas costas finas e para as folhas de outono que a cercam.@
+` Balançando.@
+` Seus cabelos balançam na direção do vento, assim como as folhas; será por isso que o seu corpo parece tão frágil?@
+` A imagem da Akiha parece um miragem.
+\
+`"…… Akiha?@ O que está fazendo a essa hora?"@
+`"Hã?@ Eu estou observando a lua.@ Assim como você, Nii-san."@
+` Sem mostrar surpresa por eu ter aparecido, ela se vira e me responde.
+\
+bg "event/aki_e03",lshutter,800
+`"Boa noite, Nii-san.@ Sair de casa a essa hora mesmo estando doente; você é um paciente muito problemático, não é mesmo?"@
+`"Acho que sim.@ Eu conseguia ver a lua pela minha janela, mas havia uma pobre garotinha sozinha no jardim.@ Como um bom irmão, tive que ir atrás dela."@
+`"Huhu.@ Ah, me desculpe por isso."
+\
+`"Acho que dentro desta área da mansão não tem problemas, mas ultimamente as coisas andam perigosas.@ Você é mulher, não deveria ficar perambulando do lado de fora de casa durante a noite."@
+`"Tem razão.@ Vou direto para o meu quarto agora."@
+`"Ah, agora está tudo bem.@ …… Eu[line=4]também não estava conseguindo dormir, seria legal passarmos um tempo juntos."@
+`"Por mim tudo bem, Nii-san."@
+` Ela fecha os olhos e faz um gesto afirmativo com a cabeça.@
+` …… Ela me deu a impressão de que estava rezando por alguma coisa enquanto afirmava.
+\
+`"…… Estou surpresa.@ Você está muito agradável esta noite.@ Aconteceu algo de tão bom assim com você?"@
+`"Não aconteceu nada… Mas acho que poder conversar assim com você já é algo de muito bom."@
+` Ela dá uma risadinha e abre um sorriso.@
+`"[line=5]"@
+` O meu coração bate forte em resposta a esse gesto.
+\
+`"Nii-san?@ O que foi?@ O seu rosto está vermelho.@ Se não estiver se sentindo bem, podemos ir para a varanda."@
+`"Não, eu estou bem.@ Vamos continuar aqui, quero observar a lua mais um pouco."@
+`"Pois é… Esta noite está muito bonita mesmo.@ De todo o cenário ao redor da mansão, este é o meu favorito."@
+` Ela sorri.@
+` …… O seu comportamento está me surpreendendo.@
+` Ela está tão tranquila e tão gentil.@
+` Em meio às folhas vermelhas do outono.@
+` A Tohno Akiha está mil vezes mais bonita do que o normal.
+\
+`"Nii-san?@ Você se lembra deste lugar?"@
+`"Hum?@ Está falando desta árvore enorme?"@
+`"Sim.@ Quando éramos crianças, aqui era nosso local de encontro.@
+` Quando eu estava lá dentro fazendo as minhas lições, sempre escutava uma pedra batendo na janela.@
+` Aí eu escapava do meu professor particular e vinha correndo para cá."
+\
+` [line=4]É mesmo, pensando bem, ela está certa.@
+` A Akiha estava sempre tendo lições dentro da mansão; o nosso pai não deixava ela sair de jeito nenhum.
+\
+`"O pessoal da mansão tinha medo do nosso pai, por isso eles não conversavam comigo.@
+` …… Mas era algo normal.@
+` Eu também achava que não deveria falar com mais ninguém além do nosso pai.@
+` Havia muitas pessoas em casa, mas para mim, as regras da mansão Tohno eram mais importantes do que as pessoas.@ Por isso eu ficava bem sozinha e conseguia suportar as lições do nosso pai."
+\
+`"…… É, eu me lembro.@ Ele nem ligava pra mim, mas era muito rigoroso com você.@ Você ficava presa dentro do quarto o dia inteiro fazendo lições.@ Eu não gostava disso nem um pouquinho."@
+`"Para ser sincera, eu também odiava aquilo."@
+` …… Acho que ela já deixou tudo isso no passado.@
+` Ela ri de forma nostálgica.
+\
+`"Mas foi você quem me fez perceber que eu não gostava de tudo aquilo, Nii-san.@
+` …… Você não deve se lembrar do que vou contar, já que era uma coisa rotineira para você, mas teve um dia, enquanto eu esperava pelo professor no pátio; você surgiu do nada, agarrou a minha mão e começou a correr.@
+` Eu te perguntei o que estava fazendo e você respondeu que não podia brincar de pega-pega sozinho, por isso eu tinha que brincar também.@
+` …… Nossa… Pensando bem, você era uma pessoa terrivelmente insistente, né, Nii-san?"@
+` A Akiha dá uma risadinha.
+\
+`"…… É o que as crianças fazem mesmo.@ Por favor, perdoe a minha falta de educação."@
+`"Pois é… Depois disso, nosso pai ralhou conosco e acabou ficando mais difícil de nos encontrarmos[line=3]"@
+`"[line=4]É, eu fiquei mais teimoso depois daquilo.@ Resolvi que ia brincar com você pelo menos uma vez por dia e, de uma forma ou de outra, ia te levar para fora de casa.@
+` Só que no final das contas, você saiu lá de dentro sozinha.@ Mas você só ficava olhando de longe e nunca se aproximava."
+\
+`"Só isso já me deixava feliz.@
+` [line=3]Eu era muito feliz.@
+` Você me levava para fora de casa pra brincar e nosso pai ralhava conosco.@
+` Os xingamentos do nosso pai ficavam pior a cada dia que passava, lembra?@ Por isso eu comecei a pensar o seguinte.@ Ele não vai vir hoje.@ Ele não deveria vir hoje.@ Eu acho que ele não vai vir hoje…
+` Mas você sempre traía as minhas expectativas.@ Sempre que levávamos xingamentos e eu pensava que você não iria mais aparecer, você sempre aparecia e sorrindo ainda por cima.@
+` Você sempre dizia que nosso pai não tinha te xingado, mas era só uma mentira muito mal contada."
+\
+`"…… Sério?@ Eu sempre achava que tinha te enganado completamente; mas realmente deve ter sido fácil de perceber que era mentira."@
+`"É claro, né!@ Eu ficava triste por você levar xingamentos por minha causa.@
+` Todos os dias no mesmo horário, eu ficava toda animada imaginando: 'Será que o Nii-san vai vir hoje'"
+\
+`"…… Era a hora mais feliz do meu dia.@
+` Quando você foi embora, a vida voltou ao normal, mas eu não sofri.@
+` As memórias de você eram mais fortes que qualquer coisa, Nii-san.@
+` …… Você falou que me deixou aqui sozinha, que me abandonou, mas não é verdade.@ Eu[line=4]eu sempre estava sendo salva por você.@
+` Por causa das nossas lembranças juntos, eu fui capaz de continuar sendo a Tohno Akiha."@
+br
+` E[line=4]como em uma ilusão, a Akiha sorri.
+\
+`"[line=3]Deve ter algo de errado comigo.@ Se eu vivia agarrada em você quando criança, dificilmente eu poderia ser a chefe da família Tohno."@
+`"…… Deixa de ser boba.@ Uma coisa não tem nada a ver com a outra.@ Não tem problema depender de alguém em um momento de necessidade.@ Afinal de contas, somos irmãos."@
+`"Não, isso foi só quando éramos crianças.@ Foi decidido que eu seria a herdeira da família Tohno.@ Por isso, agora não posso depender de mais ninguém; preciso dar conta de tudo sozinha."
+\
+`"…… Como assim?@ Só porque você se tornou a herdeira da família Tohno, agora não pode mais tomar suas próprias decisões?"@
+`"É isso que significa ser a herdeira da família Tohno.@ Há muito tempo, isso é o que me foi ensinado.@
+` [line=3]Mas ainda não sou boa nisso.@ Afinal, olha como eu estou te mostrando tantas fraquezas minhas, né?"@
+br
+` Enquanto fala,
+` a Akiha dá um salto leve para frente.@
+` Como se estivesse dançando, ela caminha em meio às folhas caídas do outono.
+\
+`"Aki[line=3]ha."@
+` …… Meu peito dói.@
+` Não sei o motivo, mas nesse exato momento, eu quero abraçar a Akiha muito forte.@
+` …… Há alguma magia no luar?@
+` Embora ela seja a minha irmã… Não, é exatamente por ela ser a minha irmã[line=4]que quero muito proteger essa garota.
+\
+bg #000000,crossfade,400
+bg "event/aki_e03",crossfade,400
+`"Está esfriando.@ Vamos entrar, Nii-san?"@
+`"…… Vamos.@ Não podemos ficar aqui para sempre[line=4]"@
+br
+bg #9c0120,crossfade,400
+playstop
+bg "event/aki_e03",crossfade,400
+`"…… Nii-san?"@
+`"[line=5]"@
+` Ouço a voz da Akiha.@
+` Mas não entendo o que ela está dizendo.@
+br
+` Não sei o que aconteceu.
+\
+bg #9c0120,crossfade,400
+waveloop se_02
+monocro #ff0000
+bg "event/aki_e03",crossfade,400
+` Os cabelos da Akiha deveriam ser negros,
+` mas estão vermelhos, como sangue.
+\
+bg #000000,crossfade,400
+monocro off
+bg "bg/ima_13",crossfade,400
+` [line=5]Desnecessário.
+\
+` É desnecessário.
+\
+br
+br
+br
+` [line=4]Desnecessário.@
+` É algo desnecessário.
+\
+br
+br
+br
+br
+` [line=4]Desnecessário.@
+` Cabelos vermelhos.@ A imagem de sangue.@ Um demônio que bebe sangue.
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Isso não é humano, portanto…
+\
+br
+br
+br
+br
+br
+br
+br
+`    Isso[line=4]precisa ser eliminado.
+\
+bg #000000,tshutter,400
+bg "bg/bg_54c",rshutter,400
+`"[line=3]Nii-san?@ Você está bem?@ Nii-san…!?"@
+`"Guh… ahh…!"@
+` O meu peito aperta.@
+` Meu coração está acelerado.@
+` O sangue começa a coagular dentro das minhas veias.@
+` Repetindo na minha cabeça: Mate-a, mate-a.
+\
+bg #000000,notrans,0
+` [line=5]Não, ainda não vou matá-la.@
+br
+` Primeiro vou me deliciar com o corpo desta mulher.@
+` Seus braços finos.@ Seus belos cabelos.@ Seus seios pequenos.@
+` Seu corpo é[line=4]perfeito[line=4]como o de uma boneca de porcelana; eu vou violar esse corpo maravilhoso.@
+bg "bg/bg_54c",notrans,0
+br
+` [line=3]A minha garganta está quente.@
+` É igual quando…
+` Eu mato as pessoas nos meus sonhos.@ Quente.
+\
+`"Nii-san, aguente firme.@ Eu vou te ajudar, vamos voltar para a mansão."@
+` A voz.@ Ouço apenas a voz da Akiha.@ Não, eu não posso ver o seu rosto.@ Se eu ver o rosto dela agora, eu vou…@
+`"[line=3]Está tudo bem.@ Eu… Não vou tocar[line=4]no seu corpo."@
+` Não.@ Eu não posso tocar nele.@
+` Se eu tocar no corpo dela agora[line=4]não sei o que sou capaz de fazer.@
+`"…… Eu vou pra dentro primeiro.@ Venha depois, Aki[line=4]ha…"@
+` Com o pouco de razão que me resta, saio correndo de perto dela.
+\
+bg #000000,lcartain,400
+wavestop
+!w1000
+bg "bg/bg_40d",lcartain,400
+play "*6"
+` Consigo voltar sozinho.@
+` Respiro desesperadamente.@
+` Caio na cama.@
+`"Droga………!"@
+` Eu me odeio.@
+` Eu estou sentindo esses impulsos no mundo real também, será que não estou satisfeito com aqueles sonhos macabros?@
+` E não foi com uma pessoa estranha; eu quis fazer aquelas coisas com a Akiha[line=3]
+\
+`"Eu[line=3]eu…"@
+` Eu não me entendo mais.@
+` As lembranças de oito anos atrás.@
+` A Akiha e um garoto coberto de sangue.@
+` Um evento que não sei distinguir se foi apenas um sonho ou realidade.@
+br
+` [line=5]O Tohno Shiki[line=4]sendo um assassino.
+\
+bg #000000,notrans,0
+ld c,"tachi/stk_t02",notrans,0
+`"[line=2]Eu conheço.@ O lado frágil do Shiki-kun."@
+` …… Ela.@ A Yumizuka falou algo desse tipo e com orgulho.@
+br
+`"Você é igual a mim.@
+` Assim como eu, você também tem essa vontade insuportável de matar[line=3]!"
+\
+bg "bg/bg_40d",crossfade,400
+`"[line=4]"@
+` Não posso negar.@
+` Todos os membros da família Tohno têm problemas.@
+` Morte por loucura.@ Morte por violência.@ Desaparecimentos.@ Episódios psicóticos.@
+` A Akiha bebendo o sangue da Kohaku.@
+` Eu[line=4]tendo sonhos homicidas.@
+br
+`"[line=5]Guh."@
+` Pensando bem, tenho que rir da minha tolice.@
+` Por que a Akiha seria a estranha?@
+` A Akiha é normal, tudo não passou da minha imaginação agindo contra mim.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/ima_13",notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+` Isso mesmo, eu sou o único louco que tem aqui.@
+` Só eu estou[line=4]querendo sangue outra vez esta noite[line=3]
+\
+playstop
+bg #000000,crossfade,1500
+!w5000
+wave se_01
+!w750
+br
+br
+` [line=5]Quente.
+\
+wave se_01
+!w750
+br
+br
+br
+br
+` [line=5]Quente.
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+br
+` [line=5]Quente.
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=5]O meu corpo, uma vez desperto, não pode ser acalmado com algo tão simples como dormir.
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Portanto.@
+`     Esta noite vou aliviar a minha sede.
+\
+bg "bg/bg_26a",notrans,0
+play "*4"
+` Ao que parece, eu vim para a cidade à noite.@
+` Ao que parece,
+` estou aqui com os olhos sedentos, esperando alguém passar novamente.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Quando foi que eu adormeci sem saber?
+\
+` Os cabelos longos balançam ao vento.@
+` Vagando pelo ar noturno.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Estou tendo outro sonho homicida.
+\
+` Acho que encontrei a minha nova presa.@
+` Qualquer um vai ser vir esta noite.@
+` Mato um homem desconhecido, arrasto ele até um beco afastado.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/ima_12b",notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+` Mordo o seu pescoço.@
+` Faz um som borbulhante.@
+` Eu bebo o sangue para aliviar a minha sede.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]É o mesmo de sempre.
+\
+` E então.@
+` Surge um obstáculo.@
+` Jogo o cadáver para longe e dou um salto.@
+` Alguém.@ Tem alguém me observando.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]A pessoa vestida de preto aparece.
+\
+` Balançando os meus cabelos, eu olho para a lua.
+\
+bg #000000,tshutter,400
+bg "event/cel_e04",bshutter,800
+br
+br
+br
+br
+br
+br
+br
+` [line=4]A pessoa vestida de preto é alguém que conheço.
+\
+` De telhado em telhado.@
+` De sombra em sombra.@
+` A pessoa continua perseguindo.
+\
+br
+br
+br
+br
+br
+` [line=4]A pessoa vestida de preto se parece muito com a Ciel-senpai e ela iguala a sua velocidade à velocidade anormal do demônio.
+\
+bg #000000,lshutter,400
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Os movimentos dele param.
+\
+` Ele está muito animado.@
+` Ele parece estar pronto para lutar.@
+` Ele parece estar cansado de fugir.@
+` Ele parece estar com vontade de brincar um pouco.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]A Ciel-senpai está chegando.
+\
+monocro #ff0000
+bg "bg/ima_18",lshutter,400
+` …… Depois que ela chegou, acabou muito rápido.@
+` A Ciel-senpai é muito forte, mas subitamente surgiu uma pessoa no local e tudo terminou.@
+` Quando ela se moveu para proteger a pessoa, tanto ela quanto a pessoa foram empalados por uma espécie de cano de ferro.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]É algo muito cruel de se assistir.
+\
+` Ela levanta as mãos, mas elas também são empaladas com os canos na mesma hora.@
+` Pendurada como em um crucifixo, a Ciel-senpai é despida.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]…… Eu sei que ele está rindo.
+\
+` Ele ri enquanto desliza a língua pelos seios da Ciel-senpai.@
+` Ela apenas o encara, sem fazer nada.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]As pupilas azuis são como chamas ardentes.@
+`    E olham para os meus olhos.
+\
+playstop
+bg #000000,notrans,0
+wait 100
+bg "bg/ima_13",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/ima_18",notrans,0
+br
+br
+br
+br
+br
+br
+br
+` [line=4]A imagem congela.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Os orgãos são destruídos.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]É como se estivesse arrancando a crosta de um ferimento.
+\
+br
+br
+br
+br
+br
+br
+br
+`          Eu acordo.
+\
+monocro off
+bg #000000,crossfade,1500
+!w4000
+phase "bg/bg_11c",l,aki,09a,9
+bg "bg/bg_40a",bshutter,400
+waveloop se_11
+`"[line=4]!"@
+` Dou um pulo da cama.@
+` São quase seis horas da manhã.@
+`"Até a Senpai[line=3]por quê?"@
+` …… Não, não tenho certeza que aquela mulher com roupa de padre é a Senpai.
+\
+` Tinha algo de diferente nela.@
+` O meu 'eu' dentro do sonho era estranho, mas aquela Senpai era mais estranha ainda.@
+` Ela pulava de telhado em telhado e arremessava espadas no ar como se fossem balas de uma arma de fogo.@
+` Parecia que a Senpai era uma criatura muito mais monstruosa do que o próprio assassino.@
+br
+` [line=3]Só pode ser um sonho mesmo.@
+` Porque quando abri os olhos, eu estava deitado na minha cama.
+\
+`"[line=3]Será que posso realmente chamar esse pesadelo de sonho?"@
+` Eu rio.@
+` O problema não é se foi um sonho ou não.@
+` O que eu me lembro e a minha vontade forte de não querer matar, não têm importância.@
+br
+` [line=3]Tudo que sei, é que o meu corpo ainda está excitado.
+\
+` A sensação de quebrar o pescoço daquele homem,
+` a sensação de empalar os braços da Ciel-senpai sobre a sua cabeça e o sabor que senti ao lamber o seu corpo.@
+` …… Ainda posso sentir o calor da sua respiração.@
+` Portanto, não faz a menor diferença se foi real ou se foi apenas um sonho.@
+` De uma forma ou de outra, eu matei alguém e tentei estuprar a Senpai.
+\
+wavestop
+wave se_04
+ld c,"tachi/his_t01",lshutter,400
+`"Com licença."@
+` A Hisui entra trazendo o meu uniforme da escola.@
+waveloop se_11
+`"Bom dia, Shiki-sama."@
+`"…… Bom dia, Hisui."@
+` Respondo e tento esquecer a sensação do calor do corpo da Senpai.@
+` …… Mas não adianta.@
+` Embora a Hisui tenha vindo me acordar, não consigo deixar de ficar deprimido.
+\
+`"Shiki-sama…?@ Você está pálido.@ Ainda está doente?"@
+`"…… Não.@ Eu sempre fico assim de manhã."@
+` Saio da cama.@
+bg #000000,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` …… A minha cabeça dói, mas ignoro isso.
+\
+`"Eu vou para a sala de estar.@ Aposto que a Akiha está lá me esperando, né?"@
+ld c,"tachi/his_t04",crossfade,400
+`"Não.@ Parece que a Akiha-sama também não está se sentindo bem, por isso nao irá à aula hoje."@
+`"Hã[line=3]mas ela parecia muito bem ontem à noite."@
+ld c,"tachi/his_t01",crossfade,400
+`"Não sei dizer ao certo.@ Foi o que Nee-san me disse, eu não sei dos detalhes."@
+`"[line=3]Entendi.@ Deve ser o mesmo que aconteceu antes, né…!?"@
+`"A Nee-san está na sala de estar, pergunte a ela os detalhes."@
+cl a,lshutter,400
+` E assim, a Hisui sai do quarto.
+\
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+play "*2"
+ld c,"tachi/koha_t02",crossfade,400
+`"Bom dia, Shiki-san.@ Acordou cedo hoje!"@
+`"Bom dia, Kohaku-san… Parece que a Akiha está mal, o que houve?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Hã[line=2]?@ Ah, a Hisui-chan te falou?@ A Akiha-sama está com febre, por isso vai tirar o dia de folga."@
+`"Febre… Mas por quê?"@
+`"Ela tem estado muito ocupada desde que você voltou, né?@ Discutindo com parentes, fazendo os preparativos para mudar de escola.@ Ela está apenas cansada."
+\
+`"…… Apenas cansada?@ Sério mesmo?"@
+ld c,"tachi/koha_t05",crossfade,400
+`"Claro.@ Ah, Shiki-san, você está entrando em pânico.@ Ela deve ser muito importante para você, né?"@
+` A Kohaku-san ri.@
+` Quando ela fala isso, percebo que eu estava ficando muito tenso.@
+`"Ah… Não é que eu estivesse muito preocupado, eu só…"@
+ld c,"tachi/koha_t03",crossfade,400
+`"Você só o que, Shiki-san?"@
+` Ela me encara.@
+` Eu não sou bom em mentir e também não quero trair os meus sentimentos.
+\
+`"[line=3]Não, você tem razão.@ A Akiha é muito importante para mim, eu fiquei muito preocupado sim."@
+` …… Embora envergonhado, digo à Kohaku-san os meus verdadeiros sentimentos.@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Shiki-san, você está sendo muito sincero hoje.@ Por favor, diga isso de novo quando a Akiha-sama estiver aqui."@
+` Ela diz algo assustador com um sorriso inocente no rosto.
+\
+`"… Ah, para com isso.@ Não tem como eu falar isso diretamente para ela.@
+` A propósito, ela ainda está dormindo?"@
+ld c,"tachi/koha_t03",crossfade,400
+`"Sim, ela tomou um remédio e foi dormir agora há pouco.@ Ela disse: 'não há necessidade de me visitar, é melhor o Nii-san ir direto para a escola'."@
+`"…… Então.@ Pelo menos, posso ficar aliviado agora."@
+cl a,crossfade,400
+` Eu me sento no sofá.@
+` …… É uma coisa a menos para me preocupar.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Ah, Shiki-san.@ Ontem à noite você estava conversando com a Akiha-sama no jardim?"@
+`"Sim.@ Eu não estava conseguindo dormir e quando olhei pela janela, vi a Akiha no jardim, daí resolvi descer para conversarmos.@ Por quê?"@
+ld c,"tachi/koha_t02",crossfade,400
+`"É que a Hisui-chan me contou isso e fiquei preocupada.@
+` Shiki-san, você não deve sair de casa tarde da noite assim.@ Anda muito perigoso lá fora."
+\
+`"…… Está dizendo isso por causa do tal assassino, né?@ Acho que sei disso melhor do que ninguém."@
+`"Mesmo assim, tenha muito cuidado.@ Parece que um homem foi morto no centro da cidade ontem à noite."@
+`"[line=7]"@
+br
+playstop
+` Dou um pulo do sofá.@
+br
+`"Kohaku-san… Isso é verdade mesmo?"@
+ld c,"tachi/koha_t02",crossfade,400
+`"Sim, estava no noticiário da manhã.@ Como todas as vítimas anteriores eram mulheres, eles estão falando bastante sobre esse assunto."
+\
+cl a,crossfade,400
+`"[line=5]"@
+` Um homem.@ A vítima dessa vez foi do sexo masculino.@
+` O homem desconhecido que matei no meu sonho.
+\
+`"Shiki-san[line=3]?"@
+` …… A Kohaku-san está falando mais alguma coisa.@
+`"Ah[line=3]não, não é… Nada."@
+` É só o que consigo dizer no estado de choque em que me encontro.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_01a",lcartain,800
+` [line=4]Eu chego na escola.@
+br
+` Agora é sete e cinquenta da manhã.@
+` Embora tenha saído da mansão bem cedo, acabei chegando na escola em cima da hora.@
+` O motivo é óbvio.@
+` A possibilidade de que eu seja um assassino, acabou atrasando os meus passos.
+\
+bg "bg/bg_03a",lshutter,800
+` Passo pelo portão.@
+` Tem um monte de gente indo para as suas classes, assim como eu.@
+`"[line=7]"@
+` …… Sempre que olho para um deles, eu congelo.@
+` São pessoas que nunca pensaram em assassinatos.@ E entre eles, tem alguém como eu, participando das mesmas aulas.
+\
+`"…… Yumizuka.@ Finalmente sei como você se sentiu."@
+` Não, não posso comparar a minha situação com a dela.@ Mas agora entendo um pouco dos seus sentimentos.@
+br
+` …… Da forma como estou agora, não tenho o direito de estar aqui.@
+` Eu já matei tantas pessoas.@
+` Não importa se foram sonhos ou não, se estou tendo desejos assim, não tenho o direito de ficar aqui.
+\
+`"………… Há."@
+` Sorrio ironicamente.@
+` Há alguns dias, eu nunca imaginaria algo assim.@
+`"Ei, você.@ Se ficar aqui vai se atrasar para a aula."@
+`"Hein?"@
+` Alguém me acerta no ombro.@
+play "*3"
+ld c,"tachi/cel_t04",lshutter,800
+`"Bom dia, Tohno-kun.@ Chegamos aqui no mesmo horário hoje."
+\
+`"[line=6]"@
+` Estou tão surpreso que não consigo falar.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Hum?@ Qual o problema?@ Seu rosto está vermelho, Tohno-kun."@
+`"[line=6]"@
+` Eu me esqueci.
+\
+` Fiquei pensando só em mim e esqueci sobre a Senpai.
+\
+bg #000000,crossfade,400
+monocro #ffff00
+bg "event/cel_e04",crossfade,400
+` [line=5]Ontem à noite.@
+br
+` A pessoa vestida de preto que apareceu diante do meu 'eu' assassino.@
+` Perseguindo o assassino, pega pelo assassino e empalada por ele.@
+br
+` [line=5]E então.@
+` O corpo dela[line=4]que eu estava prestes a[line=4]estuprar.
+\
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_03a",crossfade,400
+`"…… Senpai, hum[line=3]"@
+` Não sei o que dizer.@
+` Eu deveria pedir desculpas pela noite passada, mas ainda não sei se foi apenas um sonho ou se foi realidade.@
+` Mas[line=3]
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Sim?@ O que foi, Tohno-kun?"@
+`"Nada, é que você… Você parece a mesma de sempre, Senpai."@
+` [line=3]Ela parece a mesma de sempre, não vejo mudança alguma.@
+` Portanto, ou os eventos da noite passada foram apenas um sonho, ou a pessoa vestida de preto não era a Ciel-senpai.@
+` A pessoa que foi empalada por um cano de ferro ontem à noite não viria para a escola hoje… E se aquela pessoa realmente fosse a Ciel-senpai, ela não estaria sorrindo dessa forma para o assassino.
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Tohno-kun?@ Tem alguma coisa errada?@ O seu rosto fica mudando de cor, de vermelho para azul.@ Não está se sentindo bem?@ Será que pegou um resfriado de outono?"@
+`"Não, é só que[line=3]"@
+` …… A sensação do sonho dessa noite ainda permanece em mim e por causa disso não consigo olhar direito para ela.@
+` O brilho da sua pele nua, sua textura macia.@
+` Os meus dedos agarrando os seus seios macios.
+\
+`"[line=5]Hum."@
+` …… Isso é mal.@ Estou me lembrando bem até demais, está muito real na minha mente.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun?@ Você está muito estranho.@ Não seria melhor tomar um remédio na enfermaria antes de ir para a classe?"@
+` Será que está preocupada comigo?@ Ela está me encarando.@
+cl a,crossfade,400
+`"Hum[line=3]espera aí, Senpai…"@
+` Se ela se aproximar muito, vou me lembrar mais ainda do sonho de ontem.@
+` …… Com a Ciel-senpai tão perto de mim, sinto que o meu rosto está ficando completamente vermelho.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Ahh, você está parecendo doente mesmo."@
+` Relaxando os ombros, ela estica o braço.@
+cl a,crossfade,400
+` A mão da Senpai toca a minha testa.@
+` O seu toque quente e gentil acaba comigo.
+\
+`"Espera, Senpai… Está tudo bem[line=3]não precisa fazer isso[line=4]eu[line=3]"@
+`"Humm, parece que você não está com febre."@
+` Ela pressiona a mão na minha testa, ignorando as minhas palavras.@
+br
+` [line=4]E.@
+br
+` Enquanto ela mede a minha temperatura, vejo uma atadura por dentro da manga da sua blusa.@
+`"[line=4]Hã?"@
+` …… As ataduras vão até um pouco mais para baixo do seu pulso.@
+` Não há dúvidas.@
+` É o lugar onde a acertei ontem.
+\
+playstop
+wave se_01
+` O calor do meu corpo desaparece instantaneamente.@
+` É como se a realidade estivesse desmoronando ao meu redor.@
+br
+`"…… Senpai.@ Essa atadura no seu braço.@ O que houve?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ah, isso?@ Bem, é meio embaraçoso, mas foi por negligência minha.@ Até já sarou, mas mesmo assim eu coloquei uma atadura.@ Não foi nada demais, não se preocupe."@
+` Ela responde casualmente.@
+` …… Por quê?@
+` Porque eu sei que é mentira.
+\
+`"[line=3]Não, foi algo demais sim.@ Você foi empalada por aquele cano de ferro, aposto que ainda deve doer."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=6]"@
+` E então, o sorriso desaparece completamente do rosto da Senpai.@
+`"Ah[line=3]"@
+br
+` [line=4]Tu, dum.@
+br
+` A atmosfera do meu sonho retorna.@
+` Por instante, o ar ao meu redor congela.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Tohno-kun, você tem um minuto?"@
+` Dizendo isso, ela agarra o meu braço.@
+`"[line=7]"@
+` …… Não consigo encontrar as palavras para dizer.@
+cl c,lshutter,800
+` Ela não diz nada e sai me puxando para a parte de trás da escola.
+\
+bg #000000,lshutter,800
+wave se_03
+bg "bg/bg_05a",rshutter,800
+play "*1"
+ld c,"tachi/cel_t01a",crossfade,400
+`"Parece que te obriguei a faltar à aula."@
+` Ela está falando de um jeito normal.@
+cl a,crossfade,400
+`"……………"@
+` Eu não digo nada.@
+` Apenas me penduro nesse pequeno raio de esperança.
+\
+` Que em algum momento a Senpai vai dizer: "Do que está falando?@ Ontem à noite, Tohno-kun?"@
+` Aí o sonho vai continuar sendo um sonho e a Senpai vai continuar sendo apenas a Senpai.
+\
+`"…… Senpai, eu…"@
+`"Primeiro deixa eu te mostrar isso."@
+` Interrompendo as minhas palavras, a Ciel-senpai enrola as mangas dos dois braços.@
+` …… Ambos estão enrolados por atarduras.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Como você mesmo disse, isso aconteceu ontem à noite."@
+`"[line=6]"@
+` Não posso perguntar quem fez isso com ela.@
+` Porque fui eu.@
+` Mas agora ficou claro.@
+` Essa é a verdade; eu sou um assassino que matou muitas pessoas.
+\
+`"…… Merda.@ É real… Aquilo realmente aconteceu…"@
+`"[line=6]"@
+` A Senpai não fala mais nada, apenas me observa.@
+` Ela me encara.@
+` Ela sabe que Tohno Shiki é o assassino, então por quê…
+\
+`"[line=8]Por quê?"@
+` Por que ela…
+`"Por que não disse nada até então, Senpai…!?@ Você sabia que eu era o assassino, não é?@ Por que você não[line=3]"@
+` Não consigo entender o motivo de ela continuar agindo como a minha senpai normal de todos os dias.
+\
+`"Eu matei pessoas.@ Eu fiz isso com você ontem à noite.@ Como pode agir assim na minha frente…!?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Não tem nada de anormal nisso.@ Eu sou a sua senpai, por que deveria agir de forma diferente?@ Independente do que você diga, eu não te vi durante a noite."@
+` Endireitando-se, ela fala com franqueza.@
+`"[line=4]O quê?"@
+` …… Ela não me viu de noite[line=4]mas não estávamos lutando até a morte ontem à noite……?
+\
+`"[line=3]Como assim, Senpai!?@ Já são duas vezes que você me interrompe quando estou matando alguém…!"@
+`"Eu nunca levantei uma espada contra você."@
+`"O qu[line=4]que besteira, você arremessou um monte delas na minha direção!@ Eu vi claramente.@ Ou está querendo dizer que aquela pessoa não era você?@ Está fingindo que não sabe de nada agora!?"
+\
+`"Bem que eu gostaria de me fingir de boba, mas não há motivos para fazer isso agora que você viu tanta coisa."@
+` A atitude da Senpai não mudou.@
+` Só que as suas palavras não vão direto ao ponto… E ela está fazendo isso de propósito.@
+` [line=4]Se eu me acalmar…
+` Não posso falar muito, mas a Senpai também não é uma pessoa normal.@
+` Será por isso que ela está tentando esquivar das minhas palavras[line=4]?
+\
+`"Senpai, por favor, me responde com seriedade.@ Tem tanta coisa que não entendo; vou acabar enlouquecendo.@ Por que você está fazendo isso?"@
+ld c,"tachi/cel_t09",crossfade,400
+`"Ah… Tohno-kun, você está assustador."@
+` …… Não sei o quão séria está sendo, mas ela se afasta de mim.@
+` Ela se esquiva completamente da pergunta.
+\
+`"…… Senpai, por favor, me responde com seriedade.@
+` Anteontem e ontem, o que foi aquilo?@ Você fez coisas que um ser humano normal nunca seria capaz."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Ahh… O que quis dizer com 'aquilo'?"@
+`"Quero dizer…!@ Aqueles movimentos absurdos, arremessando todas aquelas espadas daquele jeito…!@ Eu vi umas vinte espadas voando, onde você estava guardando tantas espadas assim!?@ E[line=4]ontem à noite…"
+\
+`"Sim?@ O que tem a noite de ontem?"@
+`"Ontem à noite[line=4]eu… Eu te empalei com um cano de ferro.@ Então, como você pode estar andando tranquilamente hoje?@ Independente da forma que se olhe para a situação, não tem nada de normal nela.@ Senpai, você realmente é humana…!?"@
+br
+` Por um momento.@
+` A Senpai olha para baixo com uma expressão muito triste.@
+`"…… Eu não sei.@ Para ser sincera, não faço ideia."@
+ld c,"tachi/cel_t08",crossfade,400
+`"A única coisa que tenho é o nome 'Ciel', sou uma exorcista especializada em vampiros.@ E também sei que não sou um ser humano comum, igual a você."
+\
+`"Hein… Vampiros, Senpai…?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Não se preocupe.@ Eu não sou daqui, por isso já estou acostumada a ser olhada desse jeito."@
+` Desviando o olhar, ela diz algo incompreensível.@
+`"Espera um pouco, Senpai, o que quis dizer com 'exorcista'!?"@
+ld c,"tachi/cel_t09",crossfade,400
+`"Um exorcista é um exorcista, ué!@ É um membro de uma ordem sagrada que aprendeu os ritos para banir demônios.@ Você não conhece, Tohno-kun?@ É uma palavra tão comum, pensei que soubesse o significado."
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Bem, para ser sincera, o meu negócio é mais exterminar e menos banir, sou um pouco diferente.@ Ajudaria mais a entender se eu dissesse que sou tipo uma feiticeira?@ Não é bem isso, mas… Na verdade, é quase o oposto disso, mas talvez fique mais fácil para você entender dessa forma."
+\
+`"Uma feiticeira?@ Mas[line=3]"@
+` Dificilmente posso dizer que é algo impossível.@
+` Afinal, eu já vi os seus poderes sobrehumanos.@
+` …… Mas não dá para acreditar.@
+` Ou talvez eu simplesmente não queira acreditar.@
+` Como ela sempre foi uma senpai tão gentil, talvez eu apenas queira que a Ciel continue sendo apenas a minha Senpai.
+\
+`"[line=3]Isso é mentira…"@
+` …… Digo essas palavras sem perceber que as estou falando.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Isso aí, você está certo, é tudo mentira.@ É tudo besteira, não acredite em nada disso."@
+br
+` …… Ela não vai falar nada.@
+` Vai deixar essa conversa morrer e fingir que é tudo mentira.@
+br
+`"[line=3]Não.@ Não é besteira."@
+` …… Não quero aceitar os fatos, mas preciso.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"……………"@
+` …… Por que será?@
+` Ela abaixa o olhar com tristeza.@
+`"…… Eu não sei o que está acontecendo.@
+` Mas sei que tentei matar pessoas e você sempre me salvou.@ Não estou entendendo nada, mas isso eu entendi."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Não foi tudo um sonho?@ Você é apenas um estudante normal.@ Eu te dou a minha palavra em relação a isso."@
+`"Normal…!?@ Mesmo que for um sonho, alguém que adora matar todas as noites está vivendo junto das pessoas normais!@ Eu me sinto mal por ser mau……!"
+\
+` [line=3]É isso mesmo, esse desejo de matar as pessoas.@
+br
+` Não apenas nos sonhos, eu estou tendo eles no mundo real também.@
+` E não foi com algum estranho; foi com a Akiha, uma pessoa que conheço tão bem[line=4]
+\
+`"…… Eu sou um assassino.@ É isso mesmo.@ Agora eu finalmente entendi.@ É por isso que você vai atrás de mim todas as noites.@ Não dá para deixar um cara tão perigoso à solta.@
+` Então[line=3]quer dizer que[line=4]você ia me matar, Senpai……!?"@
+ld c,"tachi/cel_t09",crossfade,400
+`"………………"@
+`"Por que não me responde?@ Fala alguma coisa, Senpai!"@
+`"Ah[line=3]"
+\
+cl a,crossfade,400
+` Eu agarro o braço dela perto das ataduras e a puxo para perto de mim.@
+` Ela não diz nada, fica apenas olhando para baixo.
+\
+`"…… Eu não entendo.@ Eu não estou entendendo nada, Senpai.@
+` Eu não me entendo mais.@ Então, por favor.@ Se você sabe de alguma coisa, por favor, me diga…!"@
+`"…… Tohno-kun.@ Você acredita mesmo que é o assassino?"@
+`"Eu não consigo pensar em outra coisa.@
+` …… Por isso eu só quero descansar a mente agora.@ Como não conheço a mim mesmo… Quero ouvir claramente da sua boca.@
+` E então[line=3]"@
+` E então, mesmo se eu tiver que morrer, estarei pronto para isso.
+\
+`"…… Por quê…"@
+`"Senpai…?"@
+`"Por quê…… Por que não ri disso como sempre faz?@ Aí talvez possamos seguir em frente…"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"É tarde demais para isso.@ O efeito do feitiço já acabou."@
+cl a,crossfade,400
+br
+` [line=3]Dizendo isso,
+` ela escapa de mim e salta para longe, para bem longe.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Tohno-kun, eu vou te dizer o que sei.@ O tipo de pessoa que voce é… Exatamente quantas pessoas você matou."@
+`"Ah[line=5]"@
+` Fico tonto por um instante.@
+` Embora tenha dito que estou pronto, ouvir 'você matou' tão claramente faz o meu peito doer.
+\
+`"…… Ótimo.@ Diga-me, Senpai."@
+`"Não, agora não.@ Vou estar na escola essa noite.@ Depois disso, a escolha é sua, Tohno-kun."@
+cl a,crossfade,400
+br
+` …… Quer dizer que ela está deixando a decisão final comigo.@
+` Se eu aparecer na escola esta noite, será o fim.@
+` Mas se eu não aparecer, tudo vai voltar ao normal; uma última escolha[line=3]
+\
+`"…………"@
+` Não posso responder que 'com certeza' vou aparecer e por isso não digo nada.@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Muito bem, estarei esperando na escola de noite.@
+` Prometa apenas uma coisa.@ Prometa que vai manter isso em segredo da sua irmã."@
+`"Hã?@ Da Akiha?"@
+` É óbvio que eu não envolveria a Akiha em nada disso, nem precisava me pedir.@
+` Não precisava mesmo, mas…
+` Por que a Senpai está me pedindo com uma cara tão séria?@
+` É como se dissesse que a Akiha é o inimigo, não eu.
+\
+`"…… Senpai, a Akiha não tem nada a ver com isso."@
+`"[line=2]Tohno-kun.@ Tenha muito cuidado quando estiver perto dela."@
+cl a,lshutter,800
+` A Senpai desaparece, deixando um aviso com uma voz assustadora.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_06b",rcartain,800
+` [line=3]Todas as aulas do dia terminam e os alunos se dispersam.@
+` …… Mesmo se eu for me encontrar com a Ciel-senpai esta noite, primeiro tenho que voltar para a mansão.@
+` No final das contas, a nossa conversa só deixou claro para mim que os meus sonhos eram reais.@
+` Nada foi resolvido e ainda não sei se sou ou não o assassino.@
+br
+` [line=6]*suspiro*@
+` Depois de respirar fundo, saio da sala de aula.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_32b",lcartain,400
+` A Hisui está no portão da mansão.@
+`"Hum?@ O que está fazendo aqui, Hisui?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Estou aguardando a sua chegada, Shiki-sama."@
+`"Hã?@ Bem, fico feliz, mas por quê?@ Você disse que não faria mais isso."@
+ld c,"tachi/his_t05",crossfade,400
+`"Disse porque você estava voltando com a Akiha-sama.@ …… A Nee-san… Sugeriu que, quando vocês dois estivessem juntos, deveríamos nos abster de levá-los até o portão na saída e de recebê-los na chegada."@
+`"[line=7]"@
+` Entendo.@ É, se eu estivesse com a Akiha, seria estranho ser recebido dessa forma pela Hisui.
+\
+`"Outra das ideias malucas da Kohaku-san.@
+` Bem, de toda forma, fico feliz de ser recebido por você, Hisui.@
+ld c,"tachi/his_t04",crossfade,400
+` Obrigado por vir me receber."@
+`"Seja bem-vindo de volta, Shiki-sama."@
+` Ela faz uma mesura.@
+` …… Pensando bem, ver uma empregada se curvando em frente a uma mansão é uma imagem muito antiquada.
+\
+`"A Akiha melhorou?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim, sua condição havia melhorado até o horário do almoço.@ Talvez seria recomendável você visitá-la em seu quarto."@
+`"Talvez, pelo menos uma vez, né[line=3]"@
+br
+` [line=3]Tenha muito cuidado quando estiver perto dela.@
+br
+`"[line=4]Não, melhor não.@ Eu… Não posso vê-la agora."@
+` …… Não é que não esteja preocupado com ela.@
+` É que, depois do que a Ciel-senpai disse, ficou difícil vê-la nesse momento.
+\
+`"Shiki-sama.@ Não vai para o seu quarto?"@
+`"Ah, é.@ Vamos entrar?"@
+` Passo pelos portões da mansão, agindo de forma alegre para esconder o meu mal-estar.
+\
+bg #000000,lcartain,800
+!w1000
+playstop
+bg "bg/bg_40c",tcartain,800
+` …… Está de noite.@
+` Eu conversei só um pouquinho com a Akiha durante o jantar, em seguida, vim direto para o meu quarto.@
+` Ela não parecia nem um pouco diferente do normal, acho que aquele aviso da Senpai foi besteira.
+\
+`"…… Se eu for para a escola, é melhor me preparar para sair."@
+` A Senpai disse que conversaríamos na escola esta noite.@
+` Se eu for, ela não será mais a minha Senpai.@
+` Mas se eu não for, tudo vai voltar a ser como era antes.@
+br
+` A Senpai me deixou com essa escolha.@
+` Eu[line=3]
+\

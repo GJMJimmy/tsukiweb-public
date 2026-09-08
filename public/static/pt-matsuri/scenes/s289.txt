@@ -1,0 +1,546 @@
+phase "bg/bg_33d",l,cel,11b,11
+monocro #fffff0
+bg "bg/bg_40e",crossfade,1500
+play "*6"
+` Amanhece e finalmente consigo trancar a porta.@
+br
+` *arf* *arf* *arf*
+br
+!w500
+` Minha respiração ofegante, como a de um animal, preenche o quarto.@
+` Minha cabeça dói.@
+` Parece que deixei meus óculos caírem em algum lugar.@
+` Ver as "linhas" por todo o meu quarto me deixa enjoado.
+\
+` *arf* *arf* *arf*
+br
+!w500
+` Estou me sentindo tão mal que corto todas que vejo pela frente.@
+` Agora me sinto melhor.@
+` Meu coração só se acalma quando corto as coisas.@ Mas quanto mais corto, mais sedento fico.
+\
+` *arf* *arf* *arf*
+br
+!w500
+` Sei muito bem pelo que estou sedento.@
+` Estou sedento por tudo.@
+` Tudo que vejo me enfurece.
+\
+br
+` *arf* *arf* *arf*
+br
+!w500
+` Eu quero destruir tudo,
+` matar tudo.@
+` Sei que é errado, mas acho que não posso segurar isso dentro de mim.@
+` Meu corpo transborda de excitação; estou prestes a enlouquecer.
+\
+wave se_04
+`"Shiki-sama, você está acordado?"@
+`"[line=4]!"@
+` Ouço a voz da Hisui do outro lado da porta.
+\
+`"Shiki-sama, não é uma boa ideia manter a porta trancada.@ Se está acordado, por favor, abra a porta."@
+`"………… Abr…… ir…………?"@
+` Abrir a porta?@
+` Abrir a porta e deixar a Hisui entrar?
+\
+br
+` [line=3]Você deve estar de brincadeira.@
+` Se isso acontecesse, não sei o que eu faria.@
+` Do jeito que estou[line=3]se continuar sozinho como estou, deitado na cama com as cortinas fechadas, posso afastar os desejos que ameaçam tomar o controle da minha mente.@
+` É por isso que, se a Hisui entrar aqui, eu vou[line=3]
+\
+`"[line=3]Cala a boca!@ Some daqui, me deixa em paz!"@
+` Grito em direção à porta.@
+`"…… Shiki-sama?@ Você não está se sentindo bem?"@
+`"Já disse para me deixar em paz……!@ Eu estou ótimo, só que quero que me deixem em paz……!"@
+` Se ela[line=3]entrar neste quarto, algo irreparável poderia acontecer.@
+`"…………"@
+` Após um silêncio profundo, ouço seus passos.@
+` Ela se afasta da porta sem falar nada.
+\
+` *arf* *arf* *arf*
+!w500
+br
+` [line=3]Agora estou seguro.@
+` Pensando isso, fico um pouco mais calmo.@
+` Eu deveria[line=3]ler um livro para relaxar.
+\
+`"H[line=3]ã?"@
+` O livro que sempre esteve ao lado do meu travesseiro não está lá.@
+` O livro estava escrito em inglês …… com certeza eu não conseguiria ler nada, mas era uma forma de passar o tempo.@
+` Procuro por ele, mas não consigo encontrar.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40e",crossfade,800
+bg #000000,notrans,0
+bg "bg/bg_40e",crossfade,800
+` Não consigo encontrá-lo.@
+` Tento me lembrar de como era a capa do livro.@
+` Mas não consigo.@
+br
+` *arf* *arf* *arf*
+br
+!w500
+`"O livro[line=3]o livro."@
+` Pensando bem,
+` por que coloquei aquele livro perto do meu travesseiro?
+\
+` Eu não sei.@ Não me lembro nem de tê-lo trazido para cá.@
+` Não sei nem de onde eu trouxe esse livro.@
+` Pra começo de conversa[line=3]esse livro existe mesmo?
+\
+br
+br
+br
+br
+br
+br
+br
+` …… Você nunca tinha pensado nisso antes?
+\
+!w1000
+\
+` …… Lembro da voz irritante do Roa.@
+` Aquele livro[line=3]o conteúdo dele.@
+` O livro que leio quando não consigo dormir.@
+` Talvez tenha sido um sonho onde sonhava que estava acordado e não conseguia dormir?
+\
+br
+br
+br
+br
+br
+br
+br
+` "…… Você já estava louco há muito tempo……!"
+\
+!w1000
+\
+` O Roa disse isso.@
+` SONHO[line=3]sonho.@
+` Mas não tenho esse tipo de sonho.@
+` Pra começo de conversa, não tenho todo aquele conhecimento estranho dentro de mim.@
+` Não há motivo algum para ter aquele sonho.@
+` Aquilo[line=3]não foi um sonho meu.
+\
+br
+br
+br
+br
+br
+br
+br
+`   Nunca tinha pensado nisso?
+\
+!w1000
+\
+`"[line=4]Cala[line=4]a[line=4]boca."@
+br
+` *arf* *arf* *arf*
+br
+` Então, o que está acontecendo?@
+` Desde quando comecei a ter sonhos que pertencem a outra pessoa?
+\
+br
+br
+br
+br
+br
+br
+br
+`    Nós dois estamos conectados, Shiki.
+\
+!w1000
+\
+`"[line=4]Cala a boca, você está morto."@
+` Cala a merda dessa boca, seu desgraçado.@ Você já está morto, pare de me chamar constantemente.@
+` Eu sou[line=3]diferente de você.@
+` Não sou um assassino.@
+` Só estou confuso por causa de todos esses efeitos posteriores.@
+` Já que a Ciel-senpai voltou, não vou me permitir ficar louco por algo assim.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Eu também pensava assim no início.@
+`    Ainda que a vontade do Roa estivesse em mim[line=3]
+\
+!w1000
+\
+`"[line=3]Já mandei calar a boca……!"@
+wave se_10
+quakey 2,100
+br
+` *arf* *arf* *arf*[line=5]
+br
+!w500
+` …… Respiro com dificuldade.@
+` A luz do sol me irrita.@
+` Minha garganta está tão seca que estou a ponto de enlouquecer.
+\
+`"Shiki-sama……!@ O que você está fazendo, Shiki-sama!?"@
+` Ouço a voz da Hisui do outro lado da porta.@
+` …… Não consigo responder.@
+` Palavras.@ Não consigo me lembrar[line=4]das palavras.@
+`"Shiki-sama, por favor, abra a porta, Shiki-sama!"@
+` Ouço sua voz do outro lado da porta.@
+br
+` …… Parece até que ela está falando em outro idioma.
+\
+` Tão diferente.@
+`"Ah[line=5]gh."@
+` …… Isso não é bom.@
+` Eu[line=3]não tenho a confiança de encarar a Hisui como de costum.@
+`"Shiki-sama, aconteceu alguma coisa?@ Shiki-sama…………!"@
+` Ela bate na porta.@
+`"…… Cala a…… boca……"@
+` Cubro meus ouvidos com as mãos, desesperado…@
+`"        "@
+` …… Não ouço mais a voz da Hisui.@
+` Tem que ser assim,
+` tenho que ficar trancado aqui para não ver a Hisui, a Akiha ou a Kohaku-san[line=4]
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_40e",crossfade,1500
+waveloop se_11
+` Agora são dez horas da manhã.@
+` A Hisui desistiu e foi embora.@
+` A Akiha e a Kohaku-san também vieram e se revezaram batendo na porta, mas ignorei elas.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Meio-dia.@
+` …… Estou com fome.@
+` Mas ainda estou bem.@
+` Puxo os lençóis para me cobrir e abraço meu corpo trêmulo.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` São duas horas da tarde.@
+` …… Estou morrendo de sede.@
+` Perdi completamente a noção do tempo.@
+` Está tudo muito calmo.@
+` Mas meu corpo quer enfurecer, como se eu estivesse tomando estimulantes.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+` Quatro horas da tarde.@
+` …… Mais batidas na porta.@
+` Um nome está sendo chamado.@
+` De quem é essa voz?@ O nome de quem elas estão chamando?@ Não sei dizer.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+bg "bg/bg_40e",crossfade,1500
+br
+br
+` Cinco horas da tarde.@
+` Lentamente começa a escurecer.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+br
+br
+` Seis horas da tarde.
+\
+bg #000000,crossfade,1500
+monocro off
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+` Sete horas da noite.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+br
+` Oito horas da noite.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+wave se_04
+br
+br
+br
+br
+br
+br
+` [line=3]Alguém vem até aqui.
+\
+`"Shiki-san, trouxe o jantar.@ Você não comeu nada desde manhã, assim vai acabar desmaiando."@
+br
+` A voz da Kohaku.@
+` Ela bate na porta.@
+br
+`"Minha nossa, se vai agir assim, vou ter que te obrigar a comer alguma coisa."@
+` Um barulho diferente.@
+` Não de batidas, é o som de uma fechadura sendo aberta.
+\
+`"Uhuhuhu, hora de usar minha arma secreta, a chave mestra!"@
+`"[line=4]Ah."@
+br
+` Ela destranca a porta.@
+` …… A porta abre.@
+` É tarde demais.@ Mesmo se eu mandá-la embora, ela já entrou no quarto.@
+br
+` [line=4]Mas ainda assim.@
+` Eu não sou alguém capaz de sentar-me calmamente e comer.@
+` Vou ficar muito excitado e quebrar em pedaços o que sobrou do "Tohno Shiki" dentro de mim.
+\
+` …… *arf*…… *arf*…… *arf*……
+br
+` Respiro com dificuldade.@
+` De alguma forma.@
+` Tenho que resistir a isso.
+\
+ld c,"tachi/koha_t02",lshutter,800
+`"Shiki-san, estou entrando…… o qu[line=2]o que aconteceu?"@
+` Ainda sorrindo, ela olha com surpresa para o quarto em completa desordem.
+\
+` …… *arf*…… *arf*…… *arf*……
+br
+` Seu rostinho lindo, desprovido de medo.@
+` Sua figura completamente indefesa.@ Seus cabelos vermelhos[line=4]e sua pele de aparência deliciosa.
+\
+`"Shiki-san……?@ Que coisa estranha, como tudo isso aconteceu?"@
+` Ainda sorrindo, ela se aproxima da cama, onde estou enrolado nos lençóis.@
+cl c,lshutter,800
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` [line=17]Rápido.@
+wave se_01
+` Não.@
+` [line=14]Rápido.@
+wave se_01
+`    Não.@
+` [line=11]Rápido.@
+wave se_01
+`       Para com isso.@
+` [line=8]Rápido.@
+wave se_01
+`         Cala a boca.@
+` [line=6]Rápido.@
+wave se_01
+`            Eu não quero fazer isso.@
+` [line=2]Rápido.@
+wave se_01
+`               Eu.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Fuja[line=3]daqui…"@
+` Usando os últimos vestígios da minha própria vontade, consigo soltar essas palavras.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Hã?@ Não consegui ouví-lo, poderia repetir, por favor?"@
+` Mas elas estão agindo contra mim.@
+` Preocupada, ela se aproxima da minha cama.@
+` Do meu/DO MEU
+!w1000
+` corpo/CORPO,
+!w1000
+` seu rosto/SUA FORMA,
+!w1000
+` se aproxima de/CONVIDA A
+!w1000
+` mim.
+\
+waveloop se_02
+` Seus dedos macios tocam meus ombros levemente.@
+` Dedos pulsando com sangue.@
+` O calor do seu corpo.@
+` Pequenos fogos de artifício explodem na parte de trás da minha cabeça.
+\
+bg #000000,lshutter,400
+`"Kya[line=4]!"@
+` Ouço um grito.@
+` Minha mão envolve sua garganta.
+\
+`"Hwa[line=3]ha, a, h[line=3]"@
+` Minha respiração está fora de controle.@
+` O quê.@ Estou.@ Tentando.@ Fazer?
+\
+`"Shi…… ki-s-sa[line=3]"@
+` Sua voz é cortada.@
+` Sem me importar, aperto com mais força.@
+` Aperto.@
+` Os ossos do seu pescoço rangem.
+\
+`"P-par[line=3]!"@
+` O som de algo sendo rasgado.@
+` Seus dedos afundam no meu braço.@
+bg "bg/ima_13",crossfade,800
+` Ela deve estar ficando desesperada, estando à beira da morte assim.@
+` Suas unhas rasgam a minha roupa e entram na carne do meu braço.
+\
+`"Ah[line=4]ch."@
+` Dor.@
+` Bem, não tanta dor quanto a que a Kohaku deve estar sentindo.@
+` Mas o meu sangue escorre.@
+` O sangue escorre do meu braço até a mão que está apertando o pescoço dela.
+\
+`"Ha[line=4]ha."@
+` Pintado de um vermelho intenso.@
+` Seu pescoço indefeso está todo ensanguentado.@
+` Eu nem posso sentí-la mais.@
+` Apenas o fato de que ela vai morrer em poucos segundos…
+\
+`"Haha[line=5]ha."@
+` parece tão engraçado que começo a rir.@ Não tem nem um minuto que agarrei o pescoço dela.@
+` Ela não vai morrer de asfixia.@
+` Vai morrer aqui, pelas minhas mãos.
+\
+`"Ha, haa, ha."@
+` Sem motivo algum.
+\
+`"Ahahaha, ha[line=3]ha, ha, ha."@
+` Como um simples utensílio.
+\
+br
+br
+br
+br
+br
+br
+`"Ahahahahahahahahahahahaha!"@
+` Ela vai morrer por ter os ossos do seu pescoço quebrados.
+\
+bg #000000,crossfade,800
+wavestop
+bg "bg/bg_40c",crossfade,800
+` Em um instante,
+` Como se tivesse me livrado da possessão demoníaca, o calor desaparece.@
+br
+` Diante dos meus olhos está o corpo ensanguentado da Kohaku-san.@
+` Minha mão está apertando o seu pescoço e a qualquer segundo vai[line=5]
+br
+`"[line=6]!"@
+` Solto-a rapidamente.
+\
+` Sem fazer barulho,
+br
+` a Kohaku-san cai no chão.
+\
+`"Uu…… ha, [line=5]"@
+` Ela respira penosamente com os olhos fechados.@ "Kohaku[line=4]san."@
+` …… Ela está viva.@
+` Só mais um pouco.@ Se tivesse continuado só um pouquinho mais, eu teria[line=4]
+\
+eroskip 3
+`"Uu……, u, u………"@
+` …… Ela está chorando.@
+` Caída no chão, incapaz de se mexer, ela está chorando.@
+` Olho para baixo.@
+` Seu quimono está coberto com um fluído branco.@
+br
+` Aquilo[line=4]é o meu sêmen.@
+` Eu[line=4]por estar fazendo isso com ela, acabei liberando qualquer coisa que tivesse dentro de mim?
+\
+`"[line=5]Ha."@
+` Não posso acreditar.@
+` Enquanto uma mão estava sufocando a Kohaku-san, minha outra mão[line=4]estava se deleitando no prazer de matar?@
+br
+` [line=4]Tum.@
+br
+` Ainda não acabou.
+\
+` Ainda estou de pinto duro e, além disso, não estou satisfeito.
+\
+` Estou com tanta sede.@
+` Eu[line=3]fiz uma coisa terrível com a Kohaku-san, mas não parece ter acabado.@
+` A verdade é que[line=4]meu remorso está desaparecendo mesmo agora, enquanto olho para o pescoço dela.@
+br
+` Seu pescoço macio.@
+` Quero colocar os meus dentes na sua garganta e[line=2]
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Quero[line=2]sugar[line=2]o sangue dela.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=4]Como assim?"@
+!w500
+` Eu perdi o controle.@
+`"O que diabos[line=4]o que eu[line=4]"@
+!w500
+` Eu perdi o controle.@
+` Eu fiquei louco?
+\
+`"Por que[line=5]"@
+` Lá fora.@
+` Tenho que ir lá para fora.@
+` Se eu continuar aqui, vou matar a Kohaku-san.@
+` Se eu continuar na mansão, vou matar até a Akiha e a Hisui.@
+` Portanto, antes que esses impulsos voltem, tenho que desaparecer.
+\
+`"O que[line=4]eu[line=4]estou[line=4]fazendo?"@
+` Um lugar onde não tenha ninguém.@
+` Tenho que ir para um lugar onde não haja ninguém ou vou enlouquecer novamente[line=4].
+\
+bg #000000,crossfade,1500
+wave se_01
+` [line=3]Saio da mansão.@
+` Minha respiração irregular passa pela minha garganta seca.@
+`"…… A…… haa…… ha…… ah."@
+` Como isso aconteceu?@
+` Minha mente está ficando[line=4]vazia.@
+br
+` Não consigo me lembrar.@
+` De coisas como respirar, pensar corretamente, equilibrar o movimento dos meus braços e pernas.@ Preciso pensar antes de realizar essas tarefas, do contrário não posso fazê-las corretamente.
+\
+wave se_01
+`"Ah……, ha……"@
+` …… Não tenho nenhum lugar em mente.@
+` Sem um motivo real.@
+` Quero simplesmente observar o luar dourado.
+\
+bg "bg/bg_24d",crossfade,800
+wave se_01
+` [line=3]As linhas não vão desaparecer.@
+` A distorção na minha visão piora.@
+` A noite na cidade está envolta por uma névoa branca, como se fosse uma cidade que morreu há milhares de anos.@
+br
+` Não há sinal de qualquer outra pessoa.@
+` Casulos parecendo feitos de teia de aranha estão por todos os lugares, em cada um dos prédios.@
+` Está terrivelmente quieto.@
+` Como se fosse uma cidade morta no fundo de um oceano vasto.
+\
+wave se_01
+` Continuo andando dentro desta ilusão.@
+` Lá no céu, a enorme lua dourada brilha radiante.@
+` É a misericordia da lua?@
+` A dor de cabeça desapareceu e minha mente fica um pouco atordoada.@
+br
+` Sob a lua.@
+` Continuo andando, como se estivesse enfeitiçado.
+\
+bg #000000,crossfade,1500
+` Caminho pela cidade morta coberta pelas trevas.@
+` Posso sentir a faca dentro do meu bolso.@
+` …… Não posso acreditar.@
+` Parece que a coloquei no bolso inconscientemente.@
+br
+br
+` Provavelmente,
+` para que eu possa matar alguém a qualquer momento.
+\

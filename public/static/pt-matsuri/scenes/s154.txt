@@ -1,0 +1,61 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=2]É mesmo.@
+` Não importa o quanto eu tente, não vou conseguir esconder isso da Hisui e da Kohaku-san que estão encarregadas de cuidar de toda a mansão.@
+` O mínimo que posso fazer é informá-las quando vou sair todas as noites nos próximos dias.
+\
+`"…… Para ser sincero, eu vou continuar saindo por algumas noites começando por hoje.@ Eu juro que não estou saindo para me divertir ou para fazer algo de ruim.@ É provável que a Akiha acabe me odiando, mas não posso parar agora."@
+br
+` É isso mesmo.@ O vampiro continua nesta cidade atrás de vítimas.@
+` Como alguém que mora aqui, não posso fingir que não sei de nada.
+\
+`"[line=3]Eu sei que é um fardo para você, Hisui, mas peço que faça vista grossa quanto a isso.@ Não sei que horas vou voltar, apenas deixe o portão destrancado."@
+`"Shiki-sama, você não vai nos dizer o motivo?"@
+`"…… Não, me desculpe, Hisui.@ Você pode achar que sou um irresponsável, mas não me pergunte.@ Eu… não quero ter que mentir."@
+`"…… Não.@ Você é meu mestre.@ Uma serva não menospreza seu mestre dessa forma."@
+` Ela fala claramente e sem qualquer expressão.@
+` A conversa termina e começo a subir para o meu quarto.
+\
+bg "bg/bg_46b",lcartain,800
+`"Por favor, espere."@
+ld c,"tachi/his_t04",lshutter,400
+`"…… Perdoe a minha impertinêcnia, mas…"@
+` Depois de pausar a fala, ela fecha e aperta os punhos enquanto olha para mim.@
+ld c,"tachi/his_t01",crossfade,400
+`"Se assim desejar, Shiki-sama, posso manter suas saídas em segredo e não contar para a Akiha-sama."@
+`"Hã?@ Quer dizer, que você não vai[line=3]contar para ela?"@
+`"[line=3]Sim.@ Depois de jantar, é extremamente raro a Akiha-sama sair do quarto.@ A Nee-san e eu somos responsáveis por conduzir uma ronda logo antes de ela dormir, então se eu não contar a verdade, ela não vai ficar sabendo."
+\
+`"É, isso me ajudaria muito.@ Ajudaria mesmo, mas…… está tudo bem para você?@ Ela não é a sua chefe?"@
+ld c,"tachi/his_t04",crossfade,400
+`"Eu te disse que você é o meu mestre, Shiki-sama."@
+br
+` [line=3]hum…… eu meio que, fiquei feliz.@
+` Eu sempre tenho que ficar falando para ela parar de adicionar "sama" ao meu nome, mas em momentos como esse, acho que tive uma sorte incrível.@ Como eu poderia não ficar feliz?
+\
+`"Sim[line=4]isso vai me ajudar muito, se você puder, por favor, faça isso."@
+ld c,"tachi/his_t01",crossfade,400
+`"Então use a entrada dos fundos esta noite.@ A entrada da frente será trancada, mas se você tiver a chave e usar a entrada dos empregados, poderá entrar e sair sem ser detectado."@
+`"Ah?@ Existe uma entrada para os empregados?@ Por isso nunca te vi sair pelo portão principal."@
+`"Só a Nee-san usa essa entrada.@ Ela tem a chave, vou pegá-la para você mais tarde."@
+cl c,lshutter,800
+` "Muito bem", ela diz, faz uma mesura e desaparece.
+\
+`"[line=5]Ótimo!"@
+` A ajuda veio de uma fonte inesperada.@
+` Assim vou poder manter minha promessa com a Arcueid sem preocupar a Akiha.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40c",crossfade,800
+playstop
+` Depois do jantar, volto para o meu quarto.@
+` São quase dez horas da noite.@
+` Enquanto eu jantava, a Hisui deixou a chave na minha mesa.@
+br
+`"Bem[line=3]acho que vou indo."@
+` Coloco minha faca no bolso e saio do quarto sem fazer barulho algum.
+\
+bg #000000,crossfade,800
+!w2000

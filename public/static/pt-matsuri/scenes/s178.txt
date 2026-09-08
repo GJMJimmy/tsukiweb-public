@@ -1,0 +1,300 @@
+monocro off
+wavestop
+play "*1"
+bg "bg/bg_28b",lshutter,800
+play "*1"
+` Os ponteiros do relógio giram.@
+` Já faz duas horas desde que viemos para o parque.@
+br
+`"[line=4]Ufa."@
+` Agora que finalmente estou completamente descansado, percebo que já não tem mais ninguém no parque.@
+` A noite começa a se aprofundar.
+\
+`"Arcueid, podemos ir agora?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Sim, podemos."@
+` Ela concorda comigo, mas não parece animada.@
+`"Você está agindo de forma estranha há muito tempo.@ Qual é o problema?"@
+`"[line=4]Não é nada.@ Só estava preocupada com esse homem enfaixado de quem você falou."@
+` Ela suspira enquanto reflete sobre o assunto.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah, é mesmo.@ Shiki, ontem à noite um cara deu em cima de mim aqui."@
+`"[line=4]Hein?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Estou te contando que um cara começou a conversar comigo ontem."@
+`"…… Não, eu entendi o que você disse.@ Mas achei que estivesse pensando sobre o homem enfaixado."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Eu estava, foi por isso que me lembrei.@ Enquanto você estava sendo atacado, eu estava levando uma cantada."
+\
+`"…… Sei.@ Bem, não é nada anormal.@ Veja bem, você é uma mulher bonita, é completamente normal um cara puxar assunto com você vendo que está sozinha em um parque."@
+` Dou uma resposta séria.@
+` Às vezes, sou honesto demais.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Você acha?@ De início eu achei que fosse um inimigo, mas aí lembrei que você tinha dito alguma coisa sobre eu me destacar muito.@ Então depois de estudar ele por um minuto, vi que era apenas um humano comum."@
+`"…… Espera um pouco.@ Não me diga que você fez alguma coisa com o cara!"@
+ld c,"tachi/ark_t14",crossfade,400
+`"Não, não fiz nada.@ Só conversei com ele um pouquinho e fiz ele esquecer de tudo logo em seguida.@ …… Mas se eu não tivesse me lembrado do que você falou, provavelmente teria feito alguma coisa."
+\
+`"Ah, que alívio.@ Bom trabalho, Arcueid.@ Acho que até mesmo você consegue diferenciar as coisas."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Mas é claro.@ Precisaria ter sido alguém igual a você pra ter me deixado brava."@
+` Ela parece dizer isso com uma entonação meio feliz e sarcástica.@
+` …… Bem, é claro que uma pessoa vai ficar morrendo de raiva depois de ter sido morta.@
+cl c,crossfade,400
+\
+` Eu apenas suspiro e dou uma olhada em volta do parque.@
+` …… Um mês atrás.@
+` Se os assassinatos em série nunca tivessem começado, ainda haveria alguns casais e talvez alguns estudantes de bobeira por aqui.@
+` Mas agora, só nós dois estamos neste parque.@
+br
+` Eu começo a pensar calmamente sobre minha situação atual.@
+` Quando foi que o Tohno Shiki adentrou neste mundo bizarro[line=4]?
+\
+playstop
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah.@ Ei, olha."@
+` De repente, a Arcueid me chama.@
+`"O quê?@ O que houve?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Viu?@ Olha para o relógio.@ Está na hora."@
+` Ela aponta para o relógio do parque enquanto sorri de orelha a orelha.@
+` Eu olho[line=4]e vejo que são dez horas da noite.@
+cl c,crossfade,400
+\
+play "*8"
+` O horário que combinamos de nos encontrar.@
+` A promessa que fizemos de nos encontrar ontem às dez horas da noite.@
+br
+` …… Ontem à noite.@
+` A promessa que não pude cumprir.
+\
+`"[line=8]"@
+` As palavras ficam entaladas na minha garganta.@
+` Por que uma coisa tão boba me deu um aperto no peito?@
+br
+` Por que… uma coisa tão boba deixa ela tão feliz?
+\
+` …… Não consigo entender.@
+` Passei o dia todo com a Arcueid.@
+` Mas nunca tive a sensação de que estava ao lado de uma vampira.
+\
+`"…… Deixa eu te fazer uma pergunta."@
+br
+` [line=4]Pare, Shiki.@
+br
+ld c,"tachi/ark_t09",crossfade,400
+`"Pode fazer."@
+`"…… Você realmente…"@
+br
+` [line=4]Não pergunte isso a ela.@
+br
+ld c,"tachi/ark_t01a",crossfade,400
+`"Eu realmente o quê?"@
+`"…… É uma vampira?"@
+br
+` [line=4]Que tipo de resposta você está esperando?
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"Se sou uma vampira!?[line=2]De onde saiu essa pergunta, Shiki?"@
+`"É que estive pensando sobre isso."@
+` Eu desvio o olhar.@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hein?@ Não sei dizer se você está sendo bobo ou falando sério.@ Na verdade, não me importo, mas meio que foi um insulto.@ Por que está me perguntando isso?"@
+cl c,crossfade,400
+` Não tem um motivo de verdade.@
+` Mas[line=4]ao mesmo tempo, também não tem qualquer prova real de que ela seja uma vampira de verdade.@
+` Por isso[line=4]
+\
+`"…… Bem, você mesma disse que não gosta de sangue.@ Que vampira é essa?@ Você mesma disse que não era uma vampira completa, uma vampira que nunca bebeu sangue não é uma vampira, é?"@
+br
+` [line=4]Mas não é nada disso.@
+` Será que o que está acontecendo aqui não é que, bem no fundo, Tohno Shiki está querendo muito que ela não seja uma vampira?
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki.@ Levante-se."@
+` Ela se aproxima do banco onde estou.@
+` Eu me levanto.@
+br
+`"[line=4]"@
+` Nossos olhos se encontram.@
+` Estamos a cerca de dois metros de distância um do outro.@
+br
+` A Arcueid suspira bem fundo e, de repente, sorri.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Acho que você tem razão.@ Eu mesma já pensei nisso.@ Fiquei imaginando se a Arcueid Brunestud realmente era uma vampira!@
+` Ahaha," ela ri.
+\
+br
+` …… Que alívio.@
+` Achei que tinha insultado ela com essa pergunta[line=4]Mas felizmente, ela parece ter levado na esportiva.@
+br
+`"[line=4]Pois é.@ Você não se parece em nada com uma vampira."@
+` "Ahaha," ela ri novamente.
+\
+`"Então, vamos tentar?"@
+br
+` Ela diz isso, ainda sorrindo.@
+`"Tentar[line=4]hein?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Vamos ver se eu consigo beber sangue?@ Se eu conseguir, você me dá uma recompensa, Shiki?"@
+`"O qu[line=4]"@
+` Ainda com aquele sorriso no rosto, ela dá um passo na minha direção.@
+cl c,crossfade,400
+playstop
+\
+bg "bg/ima_02",crossfade,400
+` Tap, tap.@
+` Seus passos ecoam pelo ar.@
+br
+` Eu sei que ela está brincando.@
+` Mesmo assim[line=4]não consigo me mexer.
+\
+`"Es[line=4]"@
+` [line=2]pera.@ Mas nem consigo terminar a frase.@
+` Não foi por causa do poder dela[line=4]eu parei por conta própria.@
+br
+` Ela está mais perto.@
+` Mais um passo.@ Outro passo.@
+` Vai se aproximando pouco a pouco.@
+` Eu[line=4]não sou capaz de mexer um dedo, estou fascinado pelos seus lábios[line=4]
+\
+bg #000000,crossfade,800
+`"Shiki, você disse que não sou uma vampira completa, mas……"@
+br
+` Uma voz doce que parece ecoar no fundo da minha cabeça.@
+` Mais um passo, e eles param.@
+br
+` [line=3]Sabe, beber sangue é muito fácil.@
+br
+` Ouço essa voz bem no meu ouvido.
+\
+bg "event/ark_e05a",lshutter,800
+waveloop se_02
+` Sinto o seu corpo pressionando contra o meu.@
+br
+`"[line=6]"@
+br
+` Minha garganta congela e não consigo falar nada.@
+` Só consigo sentir sua respiração no meu pescoço.@
+br
+` [line=4]É quente como o fogo.
+\
+`"Ar[line=5]"@
+` Eu não termino de falar seu nome.@
+` Eu parei por vontade própria.@
+` Porque sei que se eu disser seu nome, ela vai se afastar de mim.
+\
+`"[line=6]"@
+` Sua respiração está tão perto.@
+` Seus dedos em meus ombros estão tremendo.@
+br
+` [line=4]Ela está, com medo.@
+br
+` Minha mente está em branco e não estou com medo algum.@
+` Mas a Arcueid está tremendo.
+\
+` Não posso ver o rosto dela.@
+` Apenas sinto sua respiração no meu pescoço, e também seu corpo trêmulo contra o meu.@
+br
+` Ela muda de uma respiração fraca para uma ofegante.
+\
+`"Ar[line=3]cueid?"@
+`"Era para ser[line=6]uma brincadeira."@
+` Sua voz está trêmula.@
+` Mas os dedos em meus ombros param de tremer.@
+br
+` Eles perfuram meus ombros, como se fossem as garras de um pássaro.
+\
+`"Ai[line=5]!"@
+` Solto um suspiro de dor.@
+` Mas suas garras não me soltam.@
+` Elas perfuram mais profundamente, como se quisessem me impedir de escapar.
+\
+`"Arc[line=4]Desculpe-me, acho que fui longe com a brincadeira.@ Desculpe-me[line=4]você pode, me largar agora?"@
+`"Shi[line=4]ki."@
+` Seus dedos não se mexem.@
+br
+` [line=4]Isso não é bom.@
+` Minha mente grita me avisando do perigo e eu junto todas as minhas forças.@
+` Meus braços se movem para empurrá-la.
+\
+br
+br
+br
+br
+br
+br
+` Mas antes que possa fazer isso,
+` uma dor forte ataca meus ombros.
+\
+`"………………!!!"@
+` Não consigo mexer os braços.@
+` Seu aperto nos meus ombros deixam meus braços dormentes.@
+`"[line=4],[line=4],[line=8]"@
+` …… Posso sentir sua respiração ficar cada vez mais ofegante.@
+` Ela está perdendo o controle.@
+` Seus dentes quase encostam no meu pescoço.
+\
+bg #ffffff,crossfade,400
+`"N[line=4]Não……!"@
+br
+` Depois de me apertar com mais força ainda,
+` a Arcueid dá um salto para trás, praticamente gritando.
+\
+wavestop
+bg "bg/bg_28b",notrans,0
+play "*9"
+` O som da sua respiração ofegante preenche o ambiente.@
+br
+` Ele ecoa por todo o parque.@
+` A minha respiração irregular[line=5]a respiração trêmula da Arcueid.
+\
+`"Shi[line=6]ki."@
+` Seu corpo todo está tremendo.@ Ela suspira como se tentasse sugar todo o ar ao seu redor e olha incrédula para suas próprias mãos.@
+br
+` As pontas dos seus dedos brancos estão pingando meu sangue vermelho.@
+` O vermelho vai dos seus dedos para suas palmas e também para os seus braços.
+\
+`"Ah[line=4]"@
+` Ela olha para o sangue e parece estar à beira do desespero.@
+`"…… Arcueid, isso, foi[line=4]"@
+` Eu chamo por ela.@
+` Subindo o olhar das suas mãos vermelhas, ela me encara.
+\
+ld c,"tachi/ark_t18",crossfade,400
+`"Shi[line=4]ki?"@
+`"…… Sim, estou aqui.@ Isso, foi[line=4]uma brincadeira, mas acho que foi longe demais."@
+` Digo isso para que o ocorrido termine apenas como uma brincadeira.@
+` Mas acho que não funcionou.@
+`"Shiki[line=4]eu, fiquei[line=4]"@
+` Seus olhos perdem a sanidade.@
+`"Com[line=4]muita sede[line=4]"@
+` Sua tremedeira se transforma em convulsões e[line=4]parece que ela vai desmoronar no chão.
+\
+`"Por favor[line=4]vá embora, Shiki."@
+cl c,crossfade,800
+`"Ei, Arcueid……!?"@
+` Ela começa a correr.@
+` E desaparece rapidamente.@
+` Não como antes, quando ela estava me levando em consideração.@
+` Ela correu com uma velocidade que eu não conseguiria acompanhar nem se corresse com todas as minhas forças, e desapareceu na direção da cidade.
+\
+`"[line=4]O qu…"@
+` Ela acha que simplesmente vou embora depois de vê-la naquele estado?@
+`"Aquela idiota[line=4]onde será que ela foi sofrendo dor daquele jeito……!?"@
+` Não posso simplesmente ir para casa.@
+br
+` Mesmo sem saber onde vou encontrá-la, eu começo a correr em direção à cidade.
+\
+bg #000000,lcartain,400
+playstop
+bg "bg/bg_25b",lcartain,400
+` [line=4]Não vejo nem sombra dela.@
+` A cidade é enorme e é quase impossível para uma única pessoa encontrá-la sendo que ela não deixa qualquer rastro.@
+` Vai ser mais fácil encontrá-la se eu prever para onde ela está indo ao invés de sair procurando às cegas.@
+br
+` Então[line=4]
+\

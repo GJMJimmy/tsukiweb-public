@@ -1,0 +1,156 @@
+play "*2"
+wavestop
+bg "bg/bg_40a",notrans,0
+` Às vezes eu me levanto bem mais cedo do que de costume.@
+` Estou preocupado com o incidente de ontem à noite[line=4]depois do jantar, o rosto da Akiha ficou pálido e ela se retirou para o seu quarto.@
+` Se ela tiver melhorado, devo encontrá-la na sala de estar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+ld c,"tachi/koha_t03",lshutter,800
+`"Bom dia, Shiki-san.@ Você levantou cedo hoje."@
+` A Kohaku me cumprimenta assim que me vê.@
+`"Bom dia, Kohaku-san.@ A Akiha já se levantou?"@
+`"Sim, ela já deve estar vindo para cá.@ Vocês vão poder tomar o café da manhã juntos."@
+cl c,lshutter,800
+` Ela vai toda feliz para a cozinha.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san……?"@
+`"Ei, bom dia, Akiha.@ Está se sentindo melhor?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Hã[line=4]s-sim.@ Graças a você, meus espamos passaram…… Nii-san, você estava preocupado comigo?"@
+`"Sim.@ Fiquei um pouco preocupado.@
+` …… Eu[line=4]me desculpe pela noite passada.@ Eu não sabia sobre essa sua condição, acabei entrando em pânico e acho que fiz você se esforçar muito."
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"Não, sou eu que peço desculpas por ter agido daquela forma…… Quando estou naquelas condições, fico meio cabeça-dura e a minha conduta fica meio rude."@
+` A Akiha começa a ficar envergonhada quando se lembra do que houve.@
+`"…… Eu sinto muito, me desculpe, Nii-san.@ Eu te mostrei um lado meu que é bem desagradável."@
+`"Não é verdade.@ Todo mundo age diferente quando está doente.@ Não precisa ficar remoendo isso."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Ah…… Tudo bem então.@ Já que está dizendo[line=4]me sinto um pouco melhor agora."@
+` Ela ainda parece estar aborrecida com o acontecido porque não está relaxada de verdade.
+\
+` E…
+`"Shiki-saan, Akiha-samaaa, o café da manhã está prontoooooo!"@
+` A voz animada da Kohaku-san ecoa pelo ar.
+\
+`"…… Vamos comer?@ Pensando bem, até hoje não tomamos café da manhã juntos."@
+ld c,"tachi/aki_t04a",crossfade,400
+`"É verdade.@ Agora que mudei de escola, meu horário durante a manhã ficou mais flexível.@ Gostaria muito que fosse possível fazermos isso todas as manhãs."@
+cl c,crossfade,400
+br
+` [line=3]Agora que ela tocou no assunto, realmente é verdade.@
+` Agora que frequentamos a mesma escola, se eu levantar dez minutos mais cedo, vou poder tomar o café da manhã com a Akiha todos os dias.
+\
+bg #000000,tshutter,800
+!w1000
+bg "bg/bg_34a",bshutter,400
+` Depois do café da manhã eu volto para a sala de estar.@
+` São sete e vinte da manhã.@ Temos que sair logo se quisermos ir para a escola caminhando tranquilamente.@
+` A Akiha já deve estar pronta porque está sentada no sofá encarando o relógio.@
+br
+` …… Na verdade, ela tem ido para a escola de carro esse tempo todo.@ Talvez ela tenha a intenção de continuar indo de carro.
+\
+`"Akiha, você vai de carro para a escola?"@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Ir de carro para a sua escola seria muito absurdo.@ Até mesmo eu entendo isso."@
+` Hum.@ Vamos juntos então.@
+`"Então vamos indo?@ Se saírmos agora poderemos ir tranquilamente."
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Hã…… Nii-san?"@
+`"Vamos para a escola juntos.@ Vou te mostrar o melhor caminho…… Bem, se não quiser ir comigo não tem problema."@
+ld c,"tachi/aki_t09",crossfade,400
+`"[line=4]Eu adoraria ir com você, Nii-san.@ Dessa forma, não vou precisar me preocupar com nada."@
+`"Então está decidido.@ Vamos indo."@
+cl c,crossfade,400
+`"Hisui, não precisa nos acompanhar até a saída.@ Vamos voltar de tardinha, se cuida."@
+` Depois de avisar a Hisui, saio da mansão com a Akiha.
+\
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_01a",rcartain,800
+` Acompanho o passo dela e chegamos na escola caminhando tranquilamente.@
+` Ainda nem é sete e cinquenta.@ Temos muito tempo antes das aulas começarem.@
+br
+`"Bem na hora.@ Acho que podemos sair de casa sete e meia e ainda chegar a tempo[line=4]hum[line=4]Akiha?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"………………"@
+` Ela observa o portão da escola como se tivesse algo de muito estranho nele.
+\
+`"O que foi?@ Está vendo algo estranho?"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"Ah[line=4]não, não é nada demais.@ Ontem eu cheguei antes de todo mundo, portanto essa é a primeira vez que estou vendo tamanha quantidade de alunos chegando de uma vez em meio a tanta desordem."@
+cl c,crossfade,400
+br
+` …… Ela sempre esteve no internato, esta visão dos alunos chegando na escola deve ser algo bem estranho mesmo.
+\
+`"Deixa de ser boba, por que está sendo tão reservada?@ Desde ontem você se tornou uma de nós.@ Não precisa ficar assim."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"………………"@
+` Ela não parece muito animada.@
+`"Qual o problema, Akiha?@ Você não parece muito bem."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… O-o que eu posso fazer?@ Eu pensei que só o fato de ir para a escola com você seria o suficiente, mas esse estilo de vida normal é[line=4]"@
+cl c,crossfade,400
+` Ela desvia o olhar, parecendo triste.
+\
+`"…………?"@
+` Não sei o que ela está tentando dizer.@
+` O problema agora é que estamos nos destacando demais na frente do portão.@
+` Os alunos que chegam ficam encarando a Akiha e, eu estou ficando meio envergonhado por ser o centro das atenções.@
+`"Anda, vamos entrar."@
+` Pego a mão dela e passamos pelo portão.@
+bg "bg/bg_03a",lshutter,800
+` Chegamos na entrada.@
+` Aqui nos despedimos; a Akiha irá para o quarto andar e eu vou para a minha classe que fica no terceiro andar.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san, vou indo para a minha classe.@ Até depois das aulas."@
+`"Por quê?@ Ainda tem o intervalo do almoço antes.@ Vou te esperar no pátio, não demore."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Ah[line=4]tudo bem.@ Estarei lá."@
+cl c,lshutter,800
+br
+` Fazendo uma mesura muito meiga, ela sai apressada.
+\
+`"[line=6]"@
+` …… Hum, e não é que essa menina tem seu lado fofo!@
+`"Que coisa boa!@ Vocês se dão muito bem, né?"@
+` !?@
+ld c,"tachi/cel_t04",lshutter,400
+`"C… Ciel-senpai!@ Será que você poderia não se esgueirar por trás de mim assim…!?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tá, vou ser mais cuidadosa a partir de agora."@
+` Sorrindo, a Senpai me observa toda feliz.
+\
+`"…… O que foi, hein?@ Se está querendo falar alguma coisa, fala logo de uma vez."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Não, quero não; acho desnessário dizer qualquer coisa.@ Você parece tão feliz, Tohno-kun."@
+`"[line=3]O qu…!"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Se você entrar na sua classe com essa expresão, o Inui-kun com certeza vai pegar no seu pé.@ Vou indo, até a hora do almoço, Tohno-kun."@
+cl a,lshutter,400
+` Ela sai, rindo sozinha.
+\
+`"[line=6]"@
+` Dou um beliscão na minha bochecha.@
+`"…… Será que estou parecendo tão feliz assim?"@
+` …… Hum, talvez sim.@
+` Só de ver a Akiha sorrindo me deixou extremamente feliz.
+\
+bg #000000,lcartain,800
+!w1000
+wave se_03
+!w1000
+bg "bg/bg_06a",tshutter,800
+wave se_03
+` [line=4]O quarto período termina.@
+br
+` Chega o intervalo do almoço e a escola fica barulhenta.@
+`"[line=4]Certo."@
+` A Akiha deve estar me esperando no pátio.@
+` …… Bem, se tratando da Akiha, acho que ela deve ter pedido para a Kohaku-san preparar o seu almoço, mas vou comprar alguma coisa por precaução.
+\

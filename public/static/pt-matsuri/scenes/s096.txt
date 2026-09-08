@@ -1,0 +1,45 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_15c",notrans,0
+br
+` [line=4]Eu me recuso.@
+` É impossivel eu conseguir enfrentar aquele monstro.@
+` Ela me pediu para ser seu escudo e cuidar dela enquanto estava dormindo, mas nem isso eu consegui fazer direito.@
+` Mesmo que eu lutasse ao seu lado, provavelmente eu só atrapalharia.
+\
+`"Arcueid.@ Desculpe-me, mas eu não posso.@ Ele é muito diferente.@ Mesmo se eu enfrentá-lo, não vou ser capaz de sequer arranhá-lo."@
+ld c,"tachi/ark_t11",crossfade,400
+`"O quê?@ Está falando sério…?"@
+` …… Ela inclina a cabeça para o lado, deixando claro que duvida de mim.
+\
+`"…… Eu fico feliz que pense tão bem de mim, mas eu não consigo enfrentá-lo.@ A promessa que fizemos foi de eu cuidar de você por apenas uma noite.@ Eu não quero ter que me encontrar com aquele monstro novamente."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Humm, pode ser tarde demais para isso.@ O Nrvnqsr já te conhece.@ Mesmo que você não esteja mais comigo, ele não vai te deixar em paz."@
+` Ela fala tranquilamente, como se o assunto não tivesse nada a ver conosco.
+\
+`"O qu[line=6]"@
+` Finalmente entendo a situação.@
+` Esse tal de Nrvnqsr é o vampiro que está matando as pessoas na cidade.@ É claro que ele não vai me deixar em paz depois que vi seu rosto.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Mas eu sou mais rápida que o Nrvnqsr.@ Ele não pode sair durante o dia e você está bem na minha frente, por isso está tudo ao meu favor."@
+`"…… Do que está falando?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Ah, não é nada de importante.@ Só estava pensando que se você for fugir, vou matá-lo aqui mesmo."@
+` A Arcueid sorri quando faz essa brincadeira, mas ao mesmo tempo ela parece ter falado sério.
+\
+`"U…………, gh."@
+` Seu sorriso não desaparece.@
+` …… Ela realmente quer me forçar a fazer isso.@
+cl c,crossfade,400
+\
+`"………… Você é um demônio."@
+` …… Estou em uma armadilha.@
+` Vou ser atacado de qualquer forma, então não tenho escolha, vou ter que ajudar a Arcueid.@
+` Olho para o teto e respiro fundo.@
+` Felizmente, isso me prepara um pouco para o que está por vir.
+\
+`"Está bem, estou pronto.@ …… Pensando bem, a partir do momento em que eu te conheci, já não havia mais escapatória para mim.@ E como eu já cheguei tão longe, não teria mesmo outra escolha a não ser ir até o final."
+\
+bg #000000,crossfade,800

@@ -1,0 +1,86 @@
+monocro off
+playstop
+waveloop se_02
+bg "event/ark_h03",notrans,0
+` [line=4]No puedo hacerlo.@
+` No puedo hacer algo que ella no quiere, de nuevo.@
+` Una vez, sucumbí ante este dolor de cabeza y la asesiné.@
+br
+` Por eso, nunca más.@
+` No puedo rendirme ante mis deseos y hacer llorar a Arcueid.@ Aun si este dolor de cabeza me destroza, no lo haré[line=4]
+\
+bg #ffffff,crossfade,800
+wavestop
+bg "bg/bg_31b",crossfade,400
+play "*9"
+`"¡Ha[line=4]ah!"@
+` Me aparto de su cuerpo.@
+` El dolor de cabeza desaparece y mi corazón vuelve a la normalidad.@
+` Los impulsos que hacían estragos en mi corazón también han desaparecido y finalmente empiezo a comprender lo que acabo de hacer.
+\
+`"[line=4]¿Qué[line=4]he…"@
+` No puedo creerlo.@
+` Pero el recuerdo es demasiado claro.@
+` Cómo la empujé hacia abajo.@
+` Cómo la asfixié y sostuve mi cuchillo sobre ella.@
+` …… y las deshonrosas cosas que hice después.
+\
+`"[line=6]"@
+` No sé qué decir.@
+` Arcueid ajusta su ropa y se levanta.@
+` Yo[line=4]no sé cómo disculparme.@
+` Sólo decir que lo siento… ¿cómo puede eso compensarlo?@
+`"[line=4]Arcueid, yo[line=4]"@
+ld c,"tachi/ark_t10",crossfade,400
+`"No te preocupes por eso…… Soy yo quien debería disculparse."@
+` Ella aparta la vista incómodamente.
+\
+`"¿Qué[line=2]qué estás diciendo?@ Fui yo el que hizo algo equivocado.@ Si sólo[line=4]hubiese sido más fuerte, eso nunca habría sucedido."@
+ld c,"tachi/ark_t17",crossfade,400
+`"No.@ No creo que fuese algo que hubieses podido resistir, porque viste mis 'Ojos Místicos'."@
+`"¿Eh[line=4]?@ ¿Ojos Místicos?@ ¿Como los ojos de Nrvnqsr……?"
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Exactamente.@ No estaba cuerda entonces.@ Estaba tan sedienta, que no podía controlarme.@
+` Por eso[line=4]encontré algunos Muertos, e intenté mantener alejado ese impulso reemplazándolo por el deseo de destruir.@
+` En ese momento, fui incapaz de contenerme[line=4]y por eso viste mis Ojos Místicos cuando viniste."@
+`"…… Ciertamente me sentí extraño desde que vi tus ojos dorados[line=4]pero eso no tiene nada que ver.@ Yo, con mi propia voluntad[line=2]"
+\
+`"No, estás equivocado.@
+` Shiki, mis Ojos Místicos de Encantamiento cautivan completamente a cualquiera mire hacia ellos.@ …… Creo que por eso comenzaste a sentir todos esos deseos sexuales."@
+`"[line=2]Eso[line=4]no puede ser cierto."@
+` Porque, aunque no estuviese bajo su control.@
+` Ella, podría, gustarme.
+\
+`"En fin, todo esto fue debido a mi falta de cuidado.@ …… Lo siento, Shiki.@ Manipulé tu cuerpo sin considerar tus sentimientos."@
+cl c,crossfade,400
+` Su mirada se aleja mientras dice esto.@
+` …… Que se disculpe conmigo de esta manera hiere mi corazón.@
+` Porque no sentí que estaba siendo manipulado, en absoluto.@
+` Más bien[line=4]parece que utilicé eso para obedecer a mi propia lujuria.
+\
+`"Arcueid, yo[line=4]"@
+ld c,"tachi/ark_t17",crossfade,400
+`"No te disculpes.@ …… Shiki, todo esto fue un accidente.@ Lo olvidaré, así que por favor tú también olvídalo.@ Creo que así es mejor para ambos."@
+cl c,lshutter,800
+` Diciendo eso, ella comienza a caminar silenciosamente.
+\
+`"…… ¿Arcueid……?"@
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=4]Creo que es suficiente por esta noche.@ Acabo de matar a todos estos Muertos, probablemente sea inútil buscar más."@
+`"…… Está bien pero, ¿qué hacemos con esa montaña de cadáveres?@ Si alguien la encuentra, habrá problemas."@
+`"No hay necesidad de preocuparse.@ Una vez que algo se convierte en vampiro y muere, no deja rastro.@ Aquellos que rehusaron volver a la Tierra se convierten en ceniza y se van con el viento una vez que mueren.@ Regresarán y se dispersarán por sí mismos dentro de un rato."
+\
+cl c,lshutter,800
+` Sin voltear, ella desaparece del callejón con pasos débiles.@
+`"………………"@
+` No puedo detenerla ahora.@
+` Aún tengo la sensación de Arcueid en ambas manos.
+\
+`"[line=4]Idiota.@ Qué estúpido idiota soy."@
+` Me quejo de mí mismo.@
+` En el callejón que se convirtió en un escenario de tragedia, levanto la mirada hacia la luna con remordimiento.
+\
+bg #000000,crossfade,1500
+playstop
+!w3000

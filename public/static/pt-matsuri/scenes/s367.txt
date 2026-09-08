@@ -1,0 +1,46 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=4]Fica na… Ala oeste do primeiro andar?
+\
+bg #000000,lcartain,400
+bg "bg/bg_39",lcartain,400
+` …… As luzes estão apagadas e não consigo ver direito o que tem no quarto.@
+` Mas tenho certeza de que não é o quarto da Akiha.
+\
+`"Este é o quarto da Kohaku-san……!"@
+` Dou um chute no chão de tanta raiva.@
+` Pensando bem, o quarto da Akiha fica exatamente em frente ao meu só que em outra ala.@ Ou seja, ele fica na ala leste do segundo andar.@
+`"Gah……!"@
+` Quando me viro para sair do quarto e entrar no corredor, vejo uma pessoa caída no chão.@
+`"………?"@
+` Eu forço a visão para enxergar no escuro.@
+` E vejo[line=4]a Hisui desmaiada no chão.
+\
+`"Hisui[line=4]!?"@
+` Corro até ela.@
+`"…………… Mnh."@
+` Ela não responde.@
+` Simplesmente respira tranquilamente em sono profundo.@
+`"Ela está…… Dormindo?"@
+` Não dá para acreditar nisso, mas é o que está acontecendo.@
+` A Hisui não parece estar machucada ou sofrendo.@ Realmente parece estar apenas dormindo.@
+` Tem uma xícara de chá tombada sobre a mesa e o seu conteúdo foi todo derramado.@
+` A explicação que faz mais sentido é que havia algum tipo de remédio para dormir misturado no chá dela e assim que tomou o primeiro gole, adormeceu.
+\
+`"[line=4]A Kohaku-san não está aqui?"@
+` Parece que é só a Hisui mesmo.@
+` …… Como ela está apenas dormindo, não preciso me preocupar, vou atrás da Akiha, preciso ter certeza de que ela está bem[line=4]
+\
+bg #000000,lcartain,400
+` …… Subo as escadas correndo.
+\
+` O ambiente quente e esse mau pressentimento refletem na escuridão da noite como em um espelho.@
+br
+` [line=4]*arf*, *arf*, *arf*.@
+br
+` Respirando com dificuldade, chego no topo das escadas e caminho pelo corredor…@
+` …… As minhas costas doem.@
+` Essa sensação terrível que paira no ar piora quando me aproximo do quarto da Akiha.
+\

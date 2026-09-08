@@ -1,0 +1,19 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",notrans,0
+`「…………」@
+`　就在這裡等吧。@
+`　我不覺得學姐會來，但是可能她會和昨天一樣來上學吧。
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_01a",lshutter,800
+`[line=4]時間到了。@
+br
+`　離上課還有十分鐘，正門關閉了。@
+`「…………」@
+`　學姐沒來。@
+`　嘆了口氣，帶著沉重的腳步往教室走去。
+\
+bg #000000,lcartain,800

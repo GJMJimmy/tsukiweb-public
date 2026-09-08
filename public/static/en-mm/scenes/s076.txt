@@ -1,0 +1,82 @@
+monocro off
+wavestop
+bg "bg/bg_31a",notrans,0
+play "*9"
+`"I[line=3]"@
+br
+` …… For some reason, I can't decline.@
+` I did kill her, after all.@
+` It's my fault she's weak and has to ask others for help.@
+br
+` [line=3]It is my responsibility.@
+` Besides, although I've only known her for a little while, she doesn't seem like a bad person.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"So how about it?@ Can't a human like you cooperate with a vampire like me?"@
+`"[line=3]Well, that would be the obvious answer, but…"@
+ld c,"tachi/ark_t17",crossfade,400
+`"[line=4]"@
+` Argh, don't look at me with those eyes!@
+` …… Why is it?@ It's making me feel overcome with guilt and unable to refuse.@
+`"But now that I've gotten myself into this mess, I won't be able to sleep at night if I just deny all responsibility."@
+br
+` [line=3]Man, I just know I'm going to regret this.
+\
+`"…… So, yeah.@ I think I could probably do it.@ The enemy's the serial killer, right?@
+` As a resident of this town, I'd probably be struck with some kind of divine punishment if I refused to help you."@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Eh[line=2]?@ You mean[line=3]"@
+`"I'm not going to be your shield, but if it's just being your lookout, I'll do it."@
+` I feel disgusted at how stupid I am as soon as those words are out of my mouth.@
+br
+` I feel disgusted, but[line=4]
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=6]"@
+` There is something about her deeply shocked expression that's[line=4]
+\
+br
+`"Wow!@ Are you serious!?@ I'm really a vampire, you know!"@
+`"…… Hey, listen.@ Why are you saying all this now, after you've threatened me so much?"
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Ah… Hm.@ That's true, but[line=3]"@
+ld c,"tachi/ark_t08",crossfade,400
+`"[line=3]Well, whatever!@ If you're going to cooperate with me, then I should be grateful!"@
+` …… With a very happy expression on her face, she approaches me as I lie there on my rear, up against the wall.
+\
+ld c,"tachi/ark_t09",crossfade,800
+`"Our contract is established."@
+` She extends her hand towards me.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"I guess I can finally introduce myself now.@
+` I'm Arcueid[line=3]hmm… my last name is really long, so just Arcueid is fine for now.@ I'm a True Ancestor type vampire.@ How about you?"@
+cl c,crossfade,400
+br
+` I heave a heavy sigh at her unprecedented introduction.@
+` …… It's a sigh of resignation, evidence I've decided to accept this nonsensical situation.
+\
+`"I'm Tohno Shiki.@ Sadly, I'm just your everyday student.@ …… I've said it before, but I'm really not going to be much use."@
+br
+` Grasping her[line=3]Arcueid's hand, I stand up.@
+br
+` She takes a long hard look at me, and then offers me her hand again.
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"Nice to meet you, Shiki.@
+` I'll have you take responsibility for killing me."@
+` Arcueid grins as she extends her left hand.@
+cl c,crossfade,400
+\
+` *sigh*@
+br
+` …… There are all sorts of responsibilities in this world, but this is probably the first and last time someone takes responsibility by helping someone they've killed.@
+br
+`"…… Damn it… this is seriously messed up."@
+` But there's nothing else I can do.@
+br
+` I grudgingly extend my left hand and shake hands with the woman in white claiming to be a vampire.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

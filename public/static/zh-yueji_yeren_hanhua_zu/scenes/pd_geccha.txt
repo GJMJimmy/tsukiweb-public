@@ -1,0 +1,761 @@
+bg #000000,crossfade,1500
+br
+br
+br
+br
+`　说明：@
+`　这段闲话公开了许多本篇中的秘密。@
+`　只适合觉得月姬本篇「啊，月姬已经不需要再玩了」
+`的人观看。
+\
+bg "word/pd_tea",crossfade,1500
+wait 3000
+play "*03"
+bg "bg/bg_59",rcartain,800
+ld l,"tachi/ark_t03",notrans,0
+`「呐Ciel。@虽然觉得好像开始了，这是要干什么呢？」@
+ld r,"tachi/cel_t01a",notrans,0
+`「要说要干什么的话，好像是纪念完成的茶会哦。@
+`可能因为考虑到预算就变成了这样的东西了，让我和你反省到现在为止的事情的，似乎是这样的。」@
+ld l,"tachi/ark_t11",notrans,0
+`「唔哇，是这样啊。@……什么啊，早知道是这样就不来了。说起来，为什么是我和Ciel？我可不喜欢这个组合啊。」@
+ld r,"tachi/cel_t12",notrans,0
+`「嗯，我也最讨厌你了来着，这组合是为什么呢？」
+\
+ld l,"tachi/ark_t04",notrans,0
+`「嗯，你看啊，这和之前的知得留老师组合人员相同的吧？@　Ciel你待遇真好，连立绘都有。@但是我的话就是那样了。@　该说是这种待遇我觉得很过分呢？还是该说我开始怀疑自己是不是第一女主了呢？什么的，总之我有各种不满。」@
+ld r,"tachi/cel_t03",notrans,0
+`「哈哈。@说起来那个组合，好像评价不错呢。@因为收集全要素的执念而接受了所有授课的人也是有的吧？」@
+ld l,"tachi/ark_t01a",notrans,0
+`「根本没有吧？@　你看啊"心惊胆战的动物园其二"那里连剧本担当（译者注：武内崇）都抱怨说不看攻略打不出来呢。」
+\
+ld r,"tachi/cel_t08",notrans,0
+`「……哈。@怎么觉得，作为游戏来说有破绽啊？」@
+ld l,"tachi/ark_t03",notrans,0
+`「嗯，嘛反正也是和游戏本篇无关的组合，
+`这种程度的话还是可以接受的……那个，Ciel好像有新的客人来了的样子。」@
+ld r,"tachi/cel_t12",notrans,0
+`「什么？@　真是奇怪呢，明明说今天包给我的[line=5]」
+\
+cl a,notrans,0
+ld c,"tachi/aki_t15b",rshutter,400
+br
+br
+br
+br
+br
+br
+br
+`「[line=10]额」
+\
+cl c,rshutter,800
+`「……………………………」@
+`「……………………………」@
+`「……………………………」@
+ld l,"tachi/ark_t04",notrans,0
+`「……………我说。@这算什么啊，那个“额”的反应。」@
+ld r,"tachi/aki_t04b",notrans,0
+`「………………………」@
+ld l,"tachi/ark_t16",notrans,0
+`「喂。@不要一副什么事都没有的样子坐下来啊。@特地连沙发都带来了，到底想干什么啊妹妹」
+\
+ld r,"tachi/aki_t01b",notrans,0
+`「…………想干什么，这是我的台词吧。@我是因为今天开茶会就来了，为什么你们两个人在这里啊？@
+`虽然这么说有些失礼，这种简陋的座位也配不上你们吧。
+`う？」@
+ld l,"tachi/cel_t01a",notrans,0
+`「[line=5]哈哈。@这就是那种情况吧。@因为只有我和Arcueid的话也没什么可讲的，就把有班长属性的秋叶当做主持人来确保对话的顺利进行，这样。」
+\
+ld l,"tachi/ark_t30",notrans,0
+`「诶诶ー！@　什么喵，那种东西听都没听说过啊！@　妹妹什么的不是在本篇中出场最多吗！@
+`连这种番外篇也要出场真是任性呢！」@
+ld r,"tachi/aki_t03b",notrans,0
+`「Arcueid。@那个，可不可以不要叫我妹妹？@
+`我虽然是远野志贵的妹妹，但是和你没有任何关系，只是陌生人而已。@因为这之后，不管发生什么都不会和你有血缘关系的」@
+`「这样啊？@　如果我和志贵结婚了，妹妹不就成了我的妹妹了么？」
+\
+ld r,"tachi/aki_t15b",notrans,0
+`「什[line=4]什么啊你那种蛮不讲理的说法！@
+ld r,"tachi/aki_t06b",notrans,0
+`　听好了，因为像你这种不明生物是不能和人类结婚的，所以不要老是粘着别人的哥哥了！@　吸血鬼就像吸血鬼那样，在没人注意的到的地方咻咻的吸着老鼠的血就行了！」@
+ld l,"tachi/ark_t06",notrans,0
+`「唔。@先说清楚，我可是不吸人血的，@相反妹妹的话才是需要定期的吸人血的吧，你才没法像人类那样生活呢？@　说起来我们两个，某些方面是一样的呢。」
+\
+ld r,"tachi/aki_t18b",notrans,0
+`「哈，怎么可能。@我只是把血液当做用餐的一环品尝而已。@只是稍微和普通人的趣味不同罢了，只是懂得其中不同的可爱的美食家罢了。@和根本不是人类的存在完全不一样，所以请不要产生同类意识。」@
+ld l,"tachi/ark_t05d",notrans,0
+`「[line=3]诶。@那时候可不像你说的，不是相当享受吗？@头发通红的吸着血的妹妹，可比不专业的死徒内行多了。」@
+ld r,"tachi/aki_t07b",notrans,0
+`「那，那是……那个，是哪里搞错了！@　再说本来就是因为你到处追Roa那个亡灵，我和哥哥才会那么惨。@
+`　如果没有那种东西来添麻烦的话，我就会一直保持现在这个样子的。」
+\
+`「呼呼，是这样吗？@　嘛，既然妹妹都这么说了就当是这样吧。」@
+ld r,"tachi/aki_t29",notrans,0
+`「…………！@　你，哪里有问题啊你这个小偷吸血鬼！」@
+ld l,"tachi/cel_t01a",notrans,0
+`「知道了知道了，冷静下来秋叶。@今天可不能吵架哦。@
+`因为这里是大家喜欢的咖啡厅啊。」@
+ld r,"tachi/aki_t05b",notrans,0
+`「……我知道。@不需要劳驾前辈来说。」@
+`「也是呢？@　[line=4]真是的，两个人是五十步笑百步所以不能不好好相处哦。@今天我们设定上相互不是敌对关系而是朋友关系呢。@
+`　嗯，所以说差不多该叫个蛋糕了。
+`不好意思，可以点餐吗？」
+\
+cl a,crossfade,400
+wait 2000
+ld l,"tachi/his_t01",rshutter,400
+`「让您久等了。」@
+ld r,"tachi/koha_t03b",rshutter,400
+`「噢，不要客气尽管点吧！」@
+cl a,notrans,0
+ld l,"tachi/ark_t13",notrans,0
+`「[line=14]」@
+ld r,"tachi/cel_t07a",notrans,0
+`「[line=14]」@
+ld l,"tachi/aki_t15b",notrans,0
+`「[line=14]」@
+cl a,notrans,0
+wait 1000
+ld l,"tachi/aki_t03b",notrans,0
+`「…………我说。@你们俩，在这种地方干什么呢？」@
+ld r,"tachi/koha_t03b",notrans,0
+`「诶嘿嘿。@想稍微挣点零用钱就来打工了。@但是这工作只有今天，只干一小时哦。」@
+ld r,"tachi/his_t05",notrans,0
+`「[line=8]」
+\
+cl a,crossfade,400
+ld l,"tachi/cel_t08",notrans,0
+`「……真厉害。@以这种认真的工作来增加自己的fans吗？
+`因为毫无破绽所以无法击破啊。@这种，魅惑的激光！@之类的。」@
+ld r,"tachi/ark_t06",notrans,0
+`「…………同感。@我对你们能轻松面对对方发脾气稍稍有些觉得感动呢。@果然是这样啊，为了fans的数量不得不做到那种程度呢。」
+\
+cl a,crossfade,400
+ld l,"tachi/aki_t11b",notrans,0
+`「……好胆量呢，琥珀。@仅仅是在本篇还不满足，连这个番外篇里也要和我对着干吗？」@
+ld r,"tachi/koha_t03b",notrans,0
+`「没有没有，没有那种事情。@我们俩只是普普通通的的服务员，@稍稍在后面听了听你们说话罢了，请不要太在意。」@
+`「………………………」@
+ld l,"tachi/his_t15",notrans,0
+`「（喂，姐姐……秋叶小姐都生气了，是不是应该表现的老实一点比较好……）」@
+ld r,"tachi/koha_t08",notrans,0
+`「[line=7]（咔）」@
+cl l,bshutter,400
+`「啊呜[line=5]！？」@
+ld r,"tachi/koha_t03b",notrans,0
+`「好的，那么请点餐吧！@　总之推荐的似乎是是特大草莓派。」
+\
+ld l,"tachi/aki_t01b",notrans,0
+`「这样吗。@那么适当的拿点来吧，服务员。」@
+`「好的，明白了。@那么我去去就来。」@
+cl r,rshutter,800
+ld l,"tachi/cel_t09",notrans,0
+`「……哇……琥珀把翡翠拖到厨房里去了呢。@感觉就像是恐怖电影一样。@熟食店，之类的」@
+ld r,"tachi/ark_t11",notrans,0
+`「三菱铁丝？」@
+`「……好了。@说起来这里是那个咖啡厅呢。@秋叶，你知道吗？」@
+ld r,"tachi/aki_t18b",notrans,0
+`「虽然只是听说过而已。@说起来前辈你和哥哥一起来过吗？」
+\
+ld l,"tachi/cel_t02",notrans,0
+`「唔，他每次都推推拖拖的最后不了了之。@虽然这里是相当热的话题，却没能进入本篇呢。」@
+ld r,"tachi/ark_t02",notrans,0
+`「啊，那是没有办法的事哦。@
+`这里啊，应该说并不是本来就在"月姬"的世界里的地方，
+`因为是像分界线一样的的地方。@
+`　所以说不能作为和某个世界紧密联系的正式的存在，
+`说起来普通的人并不能成为主角，
+`但这里是只有主角才能进入的。」@
+ld l,"tachi/aki_t17b",notrans,0
+`「什么？」@
+ld r,"tachi/ark_t16",notrans,0
+`「所ー以ー说ー、志贵和式见面的话会变的很麻烦的吧。
+`@　远野志贵和浅上藤乃的话还没什么问题，
+`如果是志贵和式，我和橙子相遇的话因为会产生矛盾，在正式的时间轴上我们是进不去的。」
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t03b",notrans,0
+`「上餐，让大家久等了！@　……诶，这是怎么了？@　怎么大家都一脸沉重的表情？」@
+cl a,notrans,0
+ld l,"tachi/aki_t01b",notrans,0
+`「嗯？@　啊，稍稍有些呢，和你们俩没有关系。@
+`怎么说你们也是副女主角，在本篇中也是可以进入这个咖啡厅的。」@
+ld r,"tachi/his_t07",notrans,0
+`「……………？」@
+ld l,"tachi/aki_t04b",notrans,0
+`「好了好了，喝茶吧。@说起来翡翠。」@
+ld r,"tachi/his_t04",notrans,0
+`「[line=4]哦。@是什么事呢？秋叶小姐。」@
+ld l,"tachi/aki_t16b",notrans,0
+`「琥珀有没有动什么手脚？@　你看，就像是往茶里混奇怪的东西之类的……」
+\
+bg #000000,crossfade,1500
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+`「[line=4]那么。@吃的也差不多了我觉得该进入正题了。」@
+cl a,notrans,0
+ld l,"tachi/ark_t03",notrans,0
+`「那个什么反省会？@　那个算了，我才没有什么好反省的。」@
+ld r,"tachi/cel_t07a",notrans,0
+`「同意。@……嘛，虽然白天没能去消灭在街上旁若无人的徘徊的吸血鬼是挺值得反省的。」@
+ld l,"tachi/aki_t04b",notrans,0
+`「前辈，这样说的话我也有要反省的事情，
+`这样的话就好好运用难得的后日谈的好处吧。
+`@　反正琥珀和翡翠也在认真听着呢，这里我觉得不应该是反省会而想办成感想会。」
+\
+ld r,"tachi/his_t04",notrans,0
+`「感想会是吗……？@　非常对不起，我不是很明白秋叶小姐的想法……也就是要做民意调查？是这样吗？」@
+`「民意调查，应该是各自把各自的疑问说出来一起讨论，这种形式吧。@
+`就算是翡翠，在本篇里不是也有过一两次歪着头说着“怎么回事？！”@
+`的的时候么？？@　就是解决这种疑问的哦。」@
+ld r,"tachi/ark_t01a",notrans,0
+`「呐呐，那么如果不是疑问也行吗？@　那样的话我也有几句想说的。」@
+`「可以没关系。那么就从Ciel前辈开始吧。」
+\
+cl a,crossfade,400
+ld l,"tachi/cel_t08",notrans,0
+`「从我开始吗……！？@　唔嗯，我想想……虽然和本篇没什么关系，我想关于远野君的钱包问点问题。@
+`　远野君有的时候抱怨说都想去打工了，你给他每个月多少零花钱呢？」@
+ld r,"tachi/aki_t04b",notrans,0
+`「我不给哦。」@
+`「诶？」@
+`「哥哥才没有零花钱什么的呢。@在有间家的时候我不太清楚，回到本家之后就是这样的。@
+`　本来那种东西，没必要给吧？」
+\
+ld l,"tachi/cel_t10a",notrans,0
+`「没，没必要什么的[line=3]难道说远野君，有银行卡之类的吗？」@
+ld r,"tachi/koha_t03b",notrans,0
+`「哈哈哈，真是的Ciel。@秋叶小姐不给志贵任何钱，不是这样说过了吗？」@
+ld l,"tachi/cel_t09",notrans,0
+`「……那个，这样的话远野君平时都是怎么维持生活的？@　没有零用钱的话，从学校回家路上的零食之类的，咖喱面包之类的怎么办啊？」@
+ld r,"tachi/aki_t11b",notrans,0
+`「那些是没有必要的。@想吃东西的话就吃必要的几顿，钱是没有必要的吧？」
+\
+ld l,"tachi/cel_t08",notrans,0
+`「……哈？@但是，我觉得除此之外还会有好多想要的东西的。」@
+ld r,"tachi/aki_t04b",notrans,0
+`「对啊。@所以说，那样的话就直接跟我说我去准备就行了。@如果哥哥真的需要的话明明不管是什么我都会去准备的，不知道为什么从没和我说过。@
+`　真是的，哥哥的无欲无求有点不正常呢。@
+`你不这么觉得吗？琥珀。」@
+ld l,"tachi/koha_t15",notrans,0
+`「嗯。@因为明明都怎么那样说了还拼命的去打工，
+`非常想去打工呢。」@
+ld r,"tachi/his_t17",notrans,0
+`「……姐姐，我觉得不是那个样子的……」
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",tshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+`「啊，那么接下来轮到我了呢。@要说在意的事的话是那个哦。@怎么区分在那边的两个人呢？」@
+ld r,"tachi/his_t23",notrans,0
+`「………………？」@
+ld r,"tachi/koha_t02b",notrans,0
+`「哈？@　是说我和翡翠的事情吗？」@
+`「嗯。@你们两个时不时[line=5]会相互装扮的吧？
+\
+`仅靠外表分不出来所以不得不靠具体情况分析了，就没有什么方便的判断方法吗？@　其实眼睛的颜色的区别也会消失，之类的」@
+ld r,"tachi/cel_t01a",notrans,0
+`「啊，这个我也想问。@没有什么提示之类的东西吗？」@
+ld l,"tachi/aki_t02b",notrans,0
+`「说起来，这连我都不知道是怎么回事啊。@
+`……嘛，虽然琥珀的话和普通标准不一样我是一直知道的，居然连翡翠也……」
+\
+ld r,"tachi/his_t21",notrans,0
+`「啊…………………」@
+ld r,"tachi/koha_t17",notrans,0
+`「不是这样的。@那是我一个人干的。@和翡翠没有任何的关系。@眼睛的颜色是使用颜色控制物的，时间的话等翡翠因为药物睡着后，找准那段时间的。」@
+ld l,"tachi/cel_t08",notrans,0
+`「把毒手伸向了自己的妹妹呢，琥珀.」@
+ld r,"tachi/koha_t02b",notrans,0
+`「讨厌啦，这多不好听啊。@还没通翡翠线的好孩子看到了不是会产生误会吗？」@
+ld l,"tachi/aki_t18b",notrans,0
+`「这既不是误会也不是舞会是毫无争议的事实啊」
+\
+ld r,"tachi/koha_t08",notrans,0
+`「啊，秋叶小姐好过分！@　我会好好的告诉志贵了啦。@
+ld r,"tachi/koha_t02b",notrans,0
+`　虽然也有人注意到了，总之就是姐姐（姉さん）和姐姐（姉）的区别咯。@
+`　好孩子们，你们明白了吗？@　二周目的话如果注意到那里去玩的话，意外的就都暴露了呢。」@
+ld l,"tachi/ark_t03",notrans,0
+`「诶，哪里哪里？……啊，真的。@这样啊，还以为一定是写错字了就没注意。」@
+ld r,"tachi/his_t04",notrans,0
+`「……嗯。@总之都到了连原画担当都说：那个称呼，叫姐姐（姉）的话是不是更好？”@的程度了。」
+\
+ld l,"tachi/aki_t06b",notrans,0
+`「真是自作自受呢。@那家伙老是造点新的词出来，连正常的的文章别人都看不懂了」@
+ld r,"tachi/his_t18",notrans,0
+`「[line=4]不好意思。」@
+ld l,"tachi/koha_t03b",notrans,0
+`「嗯？@　怎么了翡翠酱，突然露出那么令人害怕的神情。」@
+`「关于那些新词，有些词语我无论如何都不会读。@
+`　[ruby=くら]眩[/ruby][ruby=やみ]病[/ruby][ruby=づき]月[/ruby]，
+`　[ruby=すけ]透[/ruby]る[ruby=つめ]爪[/ruby][ruby=あと]跡[/ruby]，
+`　[ruby=おり]檻[/ruby][ruby=がみ]髪[/ruby]，
+`　这些我虽然会读，这个“硝る躯”怎么读呢？」
+\
+ld l,"tachi/ark_t08",notrans,0
+`「哈哈哈」@
+ld r,"tachi/cel_t04",notrans,0
+`「嘿嘿嘿」@
+`「？@　两位知道怎么读吗？」@
+ld l,"tachi/ark_t01a",notrans,0
+`「啊，嗯。@说到这里呢。@我觉得那里的话就放过他比较好。@他本人好像也反省的相当厉害呢。」@
+ld r,"tachi/cel_t01a",notrans,0
+`「好像在认真写解释呢。」@
+cl a,crossfade,400
+ld c,"tachi/his_t18",notrans,0
+`「……这不算是回答。@本来就是为了消除疑问才进行的交流，请无论如何回答我的问题。」
+\
+cl a,crossfade,400
+ld l,"tachi/ark_t03",notrans,0
+`「唔嗯……没有办法呢。@那个呢，读作“因为很燃啊”就行了。」@
+ld r,"tachi/cel_t08",notrans,0
+`「哦。@对于学过语言学的人来说用这种词是该吊死呢，还是该说只是新造的词呢？」
+\
+`「你看，是说硝烟的硝字吧？@　单词的意思什么的放在一边，已经给人深刻的印象了」@
+ld l,"tachi/aki_t15b",notrans,0
+`「[line=7]（说不出话来）」@
+ld r,"tachi/koha_t02b",notrans,0
+`「哈哈。@与其做那种半吊子的事情，干脆用“好萌的身体”不就行了。@不是都受到翡翠酱的献身照料了吗？
+`用那个的话更好吧。@是吧翡翠酱？@　能照料志贵你看起来很高兴呢。」@
+ld l,"tachi/his_t02",notrans,0
+`「……………………」
+\
+wait 2000
+cl a,crossfade,400
+ld l,"tachi/ark_t03",notrans,0
+`「说起标题的话，虽然一开始想每一个都标上英文题目的。@Ciel，你还记得吗？」@
+ld r,"tachi/cel_t01a",notrans,0
+`「记得啊。@确实是这样呢，
+`　硝子の月 / Glass Moon
+`　黒き獣Ⅰ / Six Six Six
+`　朱の紅月 / Crimson Air
+`　静夢 / cizumu
+`　沈夢 / cizumu
+`　之类的，这种感觉。」
+\
+ld l,"tachi/koha_t15",notrans,0
+`「啊。@对了，“静（しずむ）夢”和“沈（しずむ）夢”在日语里读音一样呢！」@
+ld r,"tachi/his_t20",notrans,0
+`「……诶……我，沈……沈……」@
+ld l,"tachi/koha_t03b",notrans,0
+`「诶？@　你在说什么呢翡翠酱？@　你觉得沈梦该怎么读呢？」@
+ld r,"tachi/his_t21",notrans,0
+`「………那个……沈（ちん）梦（む）……这样」@
+ld r,"tachi/aki_t03b",notrans,0
+`「琥珀，别欺负翡翠太过分。」
+\
+ld l,"tachi/koha_t12",notrans,0
+`「知道了。@但是Arcueid和Ciel对内部消息知道的很清楚呢。@为什么呢？」@
+ld r,"tachi/ark_t01a",notrans,0
+`「因为，我和Ciel是最早就在的。@虽然妹妹也挺早就在的，最早的一年半里，我们一直在和月姬打交道哦？」
+\
+ld l,"tachi/cel_t12",notrans,0
+`「也是呢。@我们不管是月姬的酸甜苦辣都很清楚呢。@就说我的的结局吧，总计重写了两次，秋叶的结局重写了3次。试玩版阶段的结局和完全版的结局完全不同呢。@
+`　特别是秋叶的测试版结局现在相当珍贵呢。@为什么远野君会○○○○的呢，因为很简单就由我来和大家口头说明吧。@
+`　那么，总之是这个样子的，请有着世界上仅有十份的试玩版程序的人马上卸载掉，并且销毁掉CD。」@
+ld r,"tachi/his_t01",notrans,0
+`「……也就是说销毁证据呢，没错吧？」@
+ld l,"tachi/koha_t15",notrans,0
+`「唔嗯，不小心看到大人的世界的阴暗面了。」
+\
+bg #000000,bshutter,800
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+`「咳咳。@那么接下来就轮到我了。@
+ld c,"tachi/aki_t01b",notrans,0
+`　虽然内容可能有些沉重，前辈为什么还呆在这条街上呢？」@
+cl a,crossfade,400
+ld l,"tachi/cel_t12",notrans,0
+`「诶……？@　啊，哈哈，那个，那是因为……这是为什么呢？」@
+ld r,"tachi/ark_t04",notrans,0
+`「你这么一说确实是呢。@Roa已经被消灭了，你留在这里的理由已经没有了。」
+\
+ld l,"tachi/cel_t10a",notrans,0
+`「理由什么的我有哦！@　是这样的哦，吸血鬼潜伏过的地方的话即使把那个吸血鬼消灭了之后也还是有调查的必要的。@
+`吸血鬼会不断制造新的吸血鬼。@这么说你应该能听懂吧？@
+`　父母辈的吸血鬼如果死绝了的话子女辈的吸血鬼大部分也会死绝。@但是被当做“后继人”的特别的“孩子”的话，即使父母死绝了也能幸存。@
+`　所以说，净化被吸血鬼污染的区域的话不如说消灭掉父母辈的吸血鬼之后才真正开始。@我的话，那个……稍稍改了下文件，让自己去处理那件事情了……」
+\
+ld r,"tachi/ark_t06",notrans,0
+`「乱用职权吗？@真像你的作风呢，为了目的不择手段。」@
+ld l,"tachi/cel_t12",notrans,0
+`「哼，你想说什么就说什么吧。@再说了不乱用一下还要职权有什么用？」@
+ld l,"tachi/koha_t03b",notrans,0
+`「啊，刚才你的发言有问题啊Ciel。@对待工作要正确确干干净净，可不能表里不如一啊。」@
+ld r,"tachi/aki_t16b",notrans,0
+`「是我幻听吧？@刚才，我好像听到和这句话最不相符的人说了这句话。」
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/koha_t02b",notrans,0
+`「啊，我也有想问的问题，可以问吗？」@
+ld r,"tachi/aki_t04b",notrans,0
+`「请问吧。@这样的话干脆别站着了搬张凳子来怎么样？」@
+`「不用不用，我和翡翠说到底只不过是在偷听的普通服务生而已」@
+ld l,"tachi/his_t04",notrans,0
+`「…………………（刷）」@
+ld r,"tachi/ark_t01a",notrans,0
+`「咦？@　要坐在我的旁边么？」@
+`「……………………」@（点头）
+ld r,"tachi/koha_t16",notrans,0
+`「啊，翡翠酱好过分！@　我们俩不是明明说好了这次好好服侍秋叶小姐的吗？
+`你居然背叛了！」
+\
+ld l,"tachi/aki_t18b",notrans,0
+`「……琥珀。@关于冬comic体验版的组合。」@
+ld r,"tachi/koha_t14",notrans,0
+`「诶[line=4]？」@
+`「我说，冬comic体验版的组合。」@
+ld r,"tachi/koha_t11",notrans,0
+`「啊，唔[line=5]秋叶小姐，难道说……你看到了？」@
+ld l,"tachi/aki_t04b",notrans,0
+`「放心吧。@Arcueid和Ciel还没有看到呢。@嘛，琥珀如果表现好的话我也可以向Arcueid和前辈保密的？」@
+ld r,"tachi/koha_t12",notrans,0
+`「哈唔[line=4]连那些都看到了呢……呜呜，我发誓之后会更加忠诚的。」
+\
+ld l,"tachi/aki_t28",notrans,0
+`「你明白就好。@仆人就像个仆人，去扫扫窗户外的庭院什么的就好了。@
+ld l,"tachi/aki_t04b",notrans,0
+`[line=4]那么，你的疑问是什么呢？」
+\
+ld r,"tachi/koha_t03b",notrans,0
+`「嗯。@是Arcueid和志贵关系很好的时候的事。
+`不是有5个死者来了吗？@
+`　那之后，究竟怎么样了呢？@　虽然是Arcueid线第十天的事情。」@
+ld l,"tachi/ark_t03",notrans,0
+`「诶？@　咦，本篇里没有好好说明吗？」@
+ld r,"tachi/his_t01",notrans,0
+`「是的，没有。」@
+ld l,"tachi/ark_t09",notrans,0
+`「这样么。@……嘛，过去的事就让它过去吧。@你说呢,Ciel？」@
+ld r,"tachi/cel_t09",notrans,0
+`「[line=9]唔。@没关系，这又没什么。@反正我是很方便的万事屋啦。@嗯，事到如今再说点黑历史反而相当于表扬你呢。」
+\
+`「……？@　咦，这是Ciel干的吗？」@
+ld l,"tachi/ark_t01a",notrans,0
+`「是啊。@第九天我一下子击溃死者后把他们的身体保存了下来，在路灯上面用线控制。@巫术什么的对于你这个Roa的女儿来说应该是相当简单呢」@
+ld r,"tachi/cel_t12",notrans,0
+`「……虽然不觉得简单，嘛，你大概对了70%吧。」@
+ld l,"tachi/his_t23",notrans,0
+`「啊……说起来，那个Roa称呼Ciel为女儿，是这样来着……」@
+ld r,"tachi/cel_t07a",notrans,0
+`「……那个的话，被选作Roa的转生体的人们是和Roa没有仅仅没有血缘关系的子孙，也就是孩子了。
+\
+`罗亚好像特别特别中意我，比起其他的转生体更加依恋我呢」@
+ld r,"tachi/aki_t08b",notrans,0
+`「……这样啊。@前辈也有一段黑历史呢。」@
+ld l,"tachi/koha_t15",notrans,0
+`「啊，那个不错呢！@　下次的番外篇就用那个吧。@巴黎的偏僻乡村被支配的女吸血鬼的倦怠和淫乱的日子！@　掉入欲望的无底洞的少女的命运―
+`[line=3]下期月姬2，我不相信爱情ーーー！@
+`这种怎么样！@　吖，Ciel好厉害！」
+\
+ld r,"tachi/cel_t06a",notrans,0
+`「[line=4]就，就算搞错的情况下也不可能有那种番外篇的！@
+`　祭典光盘上收录的10个番外篇，已经定下来了！」@
+ld l,"tachi/koha_t16",notrans,0
+`「切，没劲。」@
+ld r,"tachi/his_t05",notrans,0
+`「没劲。」
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/aki_t16b",notrans,0
+`「接着。@这样的话虽然所有人的疑问都解决了，不觉得哪里有些不足吗？@Arcueid，其他还有什么漏掉的吗？」@
+ld r,"tachi/ark_t01a",notrans,0
+`「我想想，就比如说现在的状态。@虽然说这场景是接在故事的后面的时间轴上的，那是谁的故事呢。@
+`　我也在，Ciel也在，妹妹和女仆也在，我想是我或者Ciel的结局吧。」@
+ld l,"tachi/aki_t01b",notrans,0
+`「……也是呢。@虽然不情愿这么说，我和翡翠他们的结局的话，可不存在这么理想的“之后”。」
+\
+ld r,"tachi/cel_t03",notrans,0
+`「这也不是我的结局。@应该是Arcueid的goodend之后的事吧。@
+`　但是稍稍有些不同，我，Arcueid，Roa和远野君战斗的时候、远野君也手法高明的体验了和秋叶酱，翡翠，琥珀的故事。@虽然重要的核心部分没体验。」@
+`「……这样的话果然，Arcueid的结局是月姬这个故事正式的结局，应该这样理解吧？」@
+ld l,"tachi/ark_t08",notrans,0
+`「诶嘿嘿。」
+\
+ld r,"tachi/cel_t07a",notrans,0
+`「（……不服）嗯。@但是，这是“月姬”这个故事的正式结局。@远野志贵作为主人公他的结局是和秋叶在一起的。@本来的话和我和这边的阿姨吸血鬼是没什么关系的。」@
+ld l,"tachi/aki_t11b",notrans,0
+`「……也就是说我或者翡翠，琥珀之中的一个人的结局可能成为正式的结局吗……」@
+ld r,"tachi/koha_t08",notrans,0
+`「………………」@
+ld l,"tachi/his_t01",notrans,0
+`「………………」@
+wait 1000
+cl a,crossfade,400
+ld l,"tachi/ark_t01b",notrans,0
+`「……等等Ciel。@你们3个，怎么感觉在沉默着相互瞪视。]
+ld r,"tachi/cel_t04",notrans,0
+`「是在观察是该佯攻还是该后手反击呢。@
+`就别打扰他们了。」
+\
+bg #000000,crossfade,800
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/stk_t01",rshutter,400
+`「[line=6]来了，来了来了来了！」@
+cl c,notrans,0
+ld l,"tachi/ark_t11",notrans,0
+`「啊，是五月啊」@
+ld r,"tachi/stk_t01",notrans,0
+`「那个，我的待遇之后也没变过吗！？@
+`　不管怎么样我觉得那样太过分了，你们说呢！」@
+ld l,"tachi/cel_t08",notrans,0
+`「……唔嗯……据说弓塚线在构思阶段好像是有的……剧本担当是这么说的。」@
+ld r,"tachi/aki_t01b",notrans,0
+`「以“把月姬本篇有意图的无视的事件”为主轴的故事是吗？@　但是很难呢。@放入祭典光盘的话有太长了。」@
+ld l,"tachi/koha_t17",notrans,0
+`「这么说着，做完完全版后，又没有做“真·完全版”……」@
+ld r,"tachi/his_t01",notrans,0
+`「……很对不起，弓塚就只能保持做个配角了。」
+\
+cl a,notrans,0
+ld c,"tachi/stk_t09",notrans,0
+`「过，过分，神啊你太过分了！@　我喜欢上了学校最笨的笨蛋，最后还在前半就死了！@　明明琥珀都有匆忙做出的剧本呢，只有我是这个样子！@　哇唔！」@
+cl c,notrans,0
+ld l,"tachi/ark_t11",notrans,0
+`「不是挺好么？五月你很幸福啊。@既然吸血鬼是主题而你是唯一很符合吸血鬼的人物啊。@五月，你是隐藏主角哦。」@
+ld r,"tachi/koha_t15",notrans,0
+`「正因为是吸血鬼，一生都不能暴露到阳光下呢。」@
+ld l,"tachi/cel_t05",notrans,0
+`「啊，正好。@给你个坐垫。」@
+cl a,notrans,0
+ld c,"tachi/stk_t12",notrans,0
+`「远野君这个大大大大大笨蛋！@　好吧，我一定会在夢現解体这一章里好好报仇的。！！」
+\
+cl c,rcartain,400
+wait 2000
+ld r,"tachi/cel_t07a",notrans,0
+`「弓塚离开了房间。@……对了，说到弓塚的话秋叶。@歌月十夜，你知道了？」@
+ld l,"tachi/aki_t10b",notrans,0
+`「…………………」@
+ld r,"tachi/cel_t08",notrans,0
+`「“那么，跟着我吧”这样。@远野君对于年龄比他小的孩子（莲）要温柔三倍呢。」@
+ld r,"tachi/koha_t15",notrans,0
+`「反过来利用这一点采取行动吗！」@
+ld l,"tachi/aki_t05b",notrans,0
+`「……嘛，怎样都无所谓了。@我重新认识到了无意识的善意就是罪恶。」@
+ld r,"tachi/cel_t08",notrans,0
+`「嗯，完全同意。@这次远野君这回犯了相当重的罪了。@弓塚也肯定受不了他了。」
+\
+`「嗯。@……真是的，也不分清楚对象就采取那种态度一定是个纯真的孩子呢。@
+ld l,"tachi/aki_t28",notrans,0
+`　……果然不把哥哥关到地下的禁闭室里好好的反省一次不行呢………哼哼哼」@
+ld r,"tachi/his_t07",notrans,0
+`「啊，秋叶小姐，请不要低声念叨那种令人害怕的东西」@
+ld l,"tachi/cel_t09",notrans,0
+`「那个，……秋叶，你不会是被什么附体了吧@
+`感觉上，你后面渐渐出现了一个黑女巫……」@
+ld r,"tachi/koha_t03b",notrans,0
+`「不是不是，没有那回事啊。@秋叶小姐已经完全痊愈了。@这毫无问题肯定是秋叶小姐自己的性格啦。」@
+ld l,"tachi/his_t17",notrans,0
+`「槙久大人的二重人格，遗传给了秋叶小姐……」
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/aki_t04b",notrans,0
+`「关于兴趣的话题。」@
+ld r,"tachi/ark_t06",notrans,0
+`「好突然啊。」@
+ld l,"tachi/aki_t08b",notrans,0
+`「是的。@我不说出来的话谁都不会说的吧？@
+`　姑且到了这里就问问这个吧。大家能说一首自己喜欢的歌吗？
+`@　但是限定日本音乐。@什么西洋音乐什么亚马逊部落音乐什么福音歌是禁止的。」
+\
+cl a,crossfade,400
+ld c,"tachi/ark_t08",notrans,0
+`「歌？@ 说到歌的话，应该是Nav Katze的crazy dream。」@
+ld c,"tachi/cel_t08",notrans,0
+`「……那个，地下室的旋律」@
+ld c,"tachi/his_t02",notrans,0
+`「我非常喜欢SOFT BALLET大人的parade。」@
+ld c,"tachi/koha_t03b",notrans,0
+`「喜欢cocco的柔和的忧伤的曲子。」@
+ld c,"tachi/aki_t04b",notrans,0
+`「最近的话，我喜欢Swinging Popsicle的铁砂塔。」@
+cl a,notrans,0
+ld c,"tachi/stk_t03",rshutter,400
+`「那个！@　我的话最喜欢文学风的原田知世的歌！」
+\
+cl c,rshutter,400
+ld l,"tachi/cel_t11",notrans,0
+`「唔哇，翡翠喜欢parade吗！@　真好真好，SOFT BALLET真不错呢！@　跟着被称作世界上最强的heavy voice辽先生的声音大声唱的话，就像在教会的正中听赞美歌一样，给人一种那样的感觉！」@
+ld r,"tachi/his_t20",notrans,0
+`「…………………………」@
+ld l,"tachi/aki_t16b",notrans,0
+`「……说到parade……难道说，是那个？」@
+ld r,"tachi/koha_t11",notrans,0
+`「是呢。@翡翠酱，每天早晨陶醉在那首曲子中醒来。@我有的时候在担心翡翠其实思维方式相当不得了呢。」
+\
+bg #000000,bshutter,400
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+`「……嘛，似乎有很多问题但是每个人的问题都解决了吧？@
+`　接着，那么[line=4]首曲子好像要作为每个人印象歌呢。」@
+cl c,notrans,0
+`「诶诶ーーーーーーーーーーーーーーー！？」@
+ld r,"tachi/cel_t10a",notrans,0
+`「稍，稍微等一下，从没听说过这种事情！」@
+ld l,"tachi/aki_t04b",notrans,0
+`「咦，前辈。@有什么不方便吗？」@
+`「肯，肯定有啊！@　我的印象歌为什么是地下室的旋律啊！？@
+`　不是仅仅是“这里是哪里啊，另外我是谁"之类的歌词拼接成的歌吗！」
+\
+ld l,"tachi/aki_t08b",notrans,0
+`「真是好曲子呢，地下室的旋律。@有一种说法是，当時还是学生的剧本担当在废墟一样的医院的等候室里看着歌词卡，吓得半年没敢打开CD盒，到达了有这样的传说的程度呢。」@
+`「啊，啊呜呜呜呜呜呜！@　再这么说，再怎么说把它作为印象歌什么的，那样不就像恐怖电影一样了吗！」@
+ld l,"tachi/ark_t08",notrans,0
+`「“逃吧逃吧，逃吧逃吧，帮你开门吧？”」@
+ld r,"tachi/cel_t06a",notrans,0
+`「就是这个！@　不要接着唱了！」@
+`「“大白天，一边颤抖?　哈
+ld l,"tachi/ark_t20",crossfade,400
+`　哈ーーー！”」@
+cl a,notrans,0
+`「呀ーーーー！@　神啊，这样太过分了ーーーー！」
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+`「啊，好痛快。@但是Nav Katze的crazy dream是女子组合，以吸血鬼为主题的可爱的歌哦。@
+`　因为剧本担当说这就像真正的月姬（Arcueid ）的印象歌，有兴趣的人试着听听看可能也没什么问题。」@
+ld r,"tachi/his_t01",notrans,0
+`「OUT，这种小唱片。@两千元左右。@……说起来Arcueid，这种传教行为也能被允许？」@
+ld l,"tachi/ark_t09",notrans,0
+`「okok，没问题！」
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+`「啊。@怎么觉得外面变暗了。」@
+ld r,"tachi/cel_t01a",notrans,0
+`「也是呢。@差不多也到了该结束的时候了吧。」@
+ld l,"tachi/aki_t01b",notrans,0
+`「啊，是吗？@　但是还有一个不得不问的事情。@
+`　那么真的是最后了，对于你们来说月姬本篇“最坏的人”是谁？」@
+cl a,crossfade,400
+`「……………………………………」@
+`「……………………………………」@
+`「……………………………………」@
+`「……………………………………」@
+`「……………………………………」
+\
+ld l,"tachi/ark_t03",notrans,0
+`「Ciel，没事你先说吧」@
+ld r,"tachi/cel_t12",notrans,0
+`「你先请。@我在你后面说就行了。」@
+ld l,"tachi/aki_t01b",notrans,0
+`「琥珀？@　翡翠也不用先说吗？」@
+ld r,"tachi/koha_t12",notrans,0
+`「啊哈，感觉第一个说的话有些不好意思呢。」@
+ld l,"tachi/his_t20",notrans,0
+`「…………………（咽口水声）」@
+cl a,crossfade,400
+ld c,"tachi/ark_t01a",notrans,0
+`「没办法呢。@这样的话大家一起说吧。
+`预ー备，」
+\
+ld c,"tachi/ark_t03",notrans,0
+`「嗯，可能是志贵。」@
+ld c,"tachi/cel_t01a",notrans,0
+`「当然是远野君了。」@
+ld c,"tachi/aki_t21b",notrans,0
+`「肯定是哥哥吧。」@
+ld c,"tachi/his_t17",notrans,0
+`「……真的很对不起，志贵少爷」@
+ld c,"tachi/koha_t15",notrans,0
+`「只能想到志贵呢。」
+\
+cl a,crossfade,400
+ld l,"tachi/ark_t12",notrans,0
+`「……咦。@大家都讨厌志贵吗？」@
+ld r,"tachi/cel_t02",notrans,0
+`「唔嗯，虽然说不上讨厌。但是说到坏的话…
+`…爱之深恨之切，这种理由吧。」@
+ld l,"tachi/aki_t16b",notrans,0
+`「我只是单纯的觉得哥哥是个坏人。@因为都是因为哥哥我才一直很痛苦。@也太不挑剔了。
+`哥哥是个坏人。」@
+ld r,"tachi/his_t22",notrans,0
+`「………………………」@
+ld l,"tachi/koha_t03b",notrans,0
+`「也是呢。@而且因为志贵老是喜欢H，这样结束之后不是非常累么？@　我在想志贵怎么这个样子身体还这么好？」
+\
+ld r,"tachi/cel_t11",notrans,0
+`「……赞成。@远野君，到底有多能干啊？」@
+ld l,"tachi/ark_t14",notrans,0
+`「是这样吗……？@　除了志贵以外，我不知道其他人H的频率，不是特别清楚……」@
+ld r,"tachi/his_t21",notrans,0
+`「……………………（右边的好像也一样）」@
+ld l,"tachi/aki_t16b",notrans,0
+`「……嘛，虽然和听到的比起来确实觉得相当厉害……@
+ld l,"tachi/aki_t07b",notrans,0
+`　啊啊真是的，为什么会变着这种话题啊！@
+`我们应该讲讲哥哥不成熟的地方！」@
+ld r,"tachi/cel_t12",notrans,0
+`「嗯ー，这不也是远野君相当不成熟的地方吗？」@
+ld l,"tachi/ark_t08",notrans,0
+`「嗯。@我也挺感兴趣的。@妹妹也别顽固了怎么样？
+`　反正这个场合不拘身份的。」
+\
+ld l,"tachi/aki_t16b",notrans,0
+`「[line=5]嘛，也是呢。@那个，就算是我也挺感兴趣的嘛……虽然没忘坏的方面想。」@
+ld r,"tachi/his_t13",notrans,0
+`「怎么这样……秋叶小姐，在志贵少爷不在的场合里讨论这种事太过分了。」@
+ld r,"tachi/koha_t15",notrans,0
+`「也是呢ー。@志贵不在这里挺遗憾的。@
+`如果志贵在的话一定会很欢乐的。@
+`　你们看，不是有用剑刺钻入木桶里的乌贼的游戏吗？
+`@和那个差不多从四面八方直直的刺向中间，
+`能让志貴很困扰呢。啊，真是遗憾呢。@
+`志贵在的话会很有趣呢。」@
+ld l,"tachi/aki_t24",notrans,0
+`「唔……。@
+ld l,"tachi/aki_t25",notrans,0
+`　琥，琥珀，这个，那个……你想出很厉害的东西了呢
+`……」
+\
+bg #000000,bshutter,800
+bg "bg/bg_59",rshutter,800
+wave pd/se02
+ld l,"tachi/ark_t03",notrans,0
+`「嗯？@　是什么，这个钟的声音。」@
+ld r,"tachi/koha_t02b",notrans,0
+`「啊，到了打烊的时间了。@大家今天真是好好的聊了一场呢ー。」@
+ld l,"tachi/aki_t04b",notrans,0
+`「……是呢。@一开始虽然还在想会变成怎样呢，这样较过劲之后敌意也消失了，谈的很开心呢。」@
+ld r,"tachi/cel_t04",notrans,0
+`「我们三个人的话相互平衡的不错呢。@我今天也很开心。」@
+ld l,"tachi/koha_t03b",notrans,0
+`「呼呼，虽然今天也是相当危险的平衡呢」@
+ld r,"tachi/his_t04",notrans,0
+`「……姐姐，这是多余的话……」
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t08b",notrans,0
+`「那么我先回去了。@后面的收拾就拜托你们两个二人了。」@
+cl c,rshutter,800
+ld c,"tachi/cel_t04",notrans,0
+`「我也准备走了呢。@差不多到巡逻的时间了。」@
+cl c,rshutter,800
+ld c,"tachi/ark_t03",notrans,0
+`「我也该走了呢。@感觉，过了相当长的时间了呢。」@
+cl a,crossfade,400
+ld l,"tachi/koha_t03b",notrans,0
+`「好的。@Arcueid也路上小心。」@
+ld r,"tachi/ark_t01a",notrans,0
+`「那么再见咯。@啊，说起来我和翡翠今晚会见面吗？」@
+ld l,"tachi/his_t17",notrans,0
+`「……Arcueid大人。@那个，请不要频繁的潜伏进志贵大人的房间里。」
+\
+`「知道了知道了，开玩笑的。@那么两位再见！」@
+cl r,rshutter,800
+ld r,"tachi/koha_t15",notrans,0
+`「好的，那么再见了，来年再见！」@
+@
+cl a,crossfade,800
+playstop
+wait 1000
+bg #000000,bshutter,1500
+bg "word/pd_fin",crossfade,1500
+wait 2000

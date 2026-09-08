@@ -1,0 +1,29 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ………… *suspiro*@
+` O que diabos estava fazendo, Tohno-kun?@
+` Nunca imaginei que você chegaria ao raro terceiro período de lições, o segundo "Agitos e Arrepios na Terra dos Animais".@
+br
+` [line=4]Bem, Tohno-kun.@
+` Infelizmente vou ter que pedir para corrigir seus erros.@
+` Parece que você foi se deixando levar pelos dias, sem prestar nenhuma atenção especial na Arcueid, na Ciel-san, ou na Akiha-san.
+\
+` Para falar a verdade, esta é a parte mais importante da rota da Ciel-san.@
+` Mas o fato de que você ainda morreu, significa que não recebeu um certo amuleto de uma certa pessoa.@
+` A moral dessa história é que você deve prestar mais atenção na sua Senpai lá na escola!@
+br
+` Primeiro, vá para a sala de cerimônia de chá depois da aula.@
+` Segundo, você deve reconhecer com sinceridade os erros que cometeu.@
+br
+` Se manter isso em mente, não vai ter problemas com o teste.@
+` E aqui terminamos o terceiro período de lições.@
+` Por favor, esforce-se bastante para não terminar aqui novamente.
+\
+bg #000000,crossfade,800
+playstop

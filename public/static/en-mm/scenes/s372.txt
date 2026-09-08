@@ -1,0 +1,34 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` [line=4]I should worry about Akiha's safety most of all.@
+br
+` It's too dangerous to fight near Akiha.@ I need to move to somewhere bigger, like the lobby[line=3]
+`"Ku……………!"@
+` Still holding my knife, I jump back without looking.
+\
+bg "bg/ima_14",lshutter,400
+wave se_12
+`"………!!"@
+` SHIKI's knife slashes in front of my face.@
+` Fortunately, I did not get cut.@
+` But, he hits my glasses off[line=4]
+br
+bg #9c0120,notrans,0
+wait 100
+bg "bg/ima_14",notrans,0
+`"Y[line=4]ou bastard………!!"@
+` My heart pounds loudly.@
+` "Death" covers my view.@
+` Hatred takes over my mind.
+\
+` I gasp for air.@
+` My breathing goes wild.@
+` SHIKI attacks.@
+` In that case, there's nothing to be afraid of now.@
+br
+` [line=4]Not a problem.@
+` Fortunately, this is my third time fighting in a life-or-death situation.@
+` By now, I know more than enough about how exactly I should be moving[line=3].
+\

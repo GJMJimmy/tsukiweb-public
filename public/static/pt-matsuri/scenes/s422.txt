@@ -1,0 +1,2121 @@
+play "*1"
+wavestop
+bg #000000,crossfade,400
+` Eu estava tão cansado assim?@ Toda a energia abandona o meu corpo e a sonolência me domina.@
+playstop
+br
+!w2000
+wave se_01
+` …… Ouço a minha pulsação nas minhas orelhas.@
+` Tum, dum, Tum, dum, Tum, dum, Tum, dum.@
+` Ela ecoa por todo o meu corpo, alto o suficiente para não me deixar dormir.
+\
+wave se_01
+`"Quen……… te."@
+` Estou com sede de novo.@
+` A minha garganta está seca, e a minha mente está meio lerda.@
+br
+bg "bg/bg_40a",crossfade,400
+wave se_01
+` Eu abro os olhos.@
+` O meu corpo continua fraco, e a minha febre parece ter aumentado um pouco.@
+` Ainda assim, acho que consigo ir até a sala de jantar para tomar um copo de água.
+\
+waveloop se_02
+bg #000000,lshutter,400
+bg "bg/bg_46a",lshutter,400
+` O corredor está vazio.@
+` Há muito tempo.@
+` Há tanto tempo que nem consigo me lembrar, ou não preciso me lembrar.@ É como ruínas em um filme, tudo muito quieto.
+\
+bg #000000,rshutter,800
+bg "bg/bg_36a",notrans,0
+bg #000000,tshutter,400
+bg "bg/bg_41",notrans,0
+bg #000000,bshutter,400
+bg "bg/bg_42a",notrans,0
+` Quente.@
+` O sol está muito quente.@
+` Eu só quero um pouco de água, por que isso?@
+` Algo me obriga a continuar por aqui.
+\
+bg #000000,rshutter,800
+bg "bg/bg_54a",notrans,0
+bg #000000,tshutter,800
+bg "bg/bg_44a",notrans,0
+` …… A edícula está banhada pelos raios do sol.@
+` A minha visão fica embaçada, como se eu estivesse no meio de um deserto escaldante.@ Branco.@
+br
+` …… Ouço um barulho alto.@
+` …… E vem da edícula.@
+` …… Tem alguém.@
+` …… Tem alguém ali?
+\
+bg #000000,bshutter,800
+bg "bg/bg_45b",crossfade,400
+` Abro a porta de correr bem devagarzinho e olho lá dentro.@
+` Vejo a Akiha e a Kohaku-san.@
+` Elas estão meio estranhas.@
+` Ouço o sibilar de um obi sendo removido.@
+br
+` [line=5]O quê?@
+br
+` Sem dizer uma palavra, a Kohaku tira o quimono e descobre os seus seios.
+\
+wavestop
+bg "event/aki_h13",crossfade,800
+play "*9"
+` A Kohaku continua na mesma posição e com o rosto bem corado, mas não se mexe.@
+` A Akiha pressiona os lábios no seio descoberto.@
+br
+` Tensão.@
+br
+` A Kohaku olha para o seu próprio seio, a Akiha se abaixa um pouco e enterra o rosto nos seios da Kohaku.@
+` Uma fina linha vermelha escorre do seu seio.
+\
+` A garganta da Akiha começa a se mexer, engolindo alguma coisa.@
+` O que[line=3]o que ela está bebendo?@ Não há dúvidas; eu já entendi tudo.@
+br
+` A Akiha[line=4]está bebendo[line=4]o sangue da Kohaku[line=4]
+\
+monocro #ff0000
+bg "event/aki_h13",crossfade,400
+wave se_01
+`"[line=7]"@
+` O tempo parece congelar.@
+` O meu corpo todo pulsa forte uma vez só, e sinto como se tivessem me virado do avesso.@
+` O meu coração não bate mais.@
+` Ele faz um tique-taque, como um relógio.@
+` As células do meu corpo se transformaram.
+\
+monocro off
+bg "event/aki_h13",crossfade,400
+` [line=3]O meu corpo paralisou, nada se move, como um lago congelado pelo frio.@
+` Só consigo mover a cabeça e processar o que vejo.@
+` Akiha.@
+` Fico perplexo.@ A Akiha também é uma vampira?
+\
+`"…… Akiha[line=3]sama."@
+` Os lábios da Kohaku tremem.@
+`"…… Pare.@ Não vai acabar bem se você tomar mais.@ É como usar um remédio em exagero, se viciar demais em sangue vai[line=3]"@
+`"Está insinuando que vou ficar como o SHIKI?@ Que estranho, Kohaku.@ Não é isso que você quer?"@
+` Os seus olhos demonstram deleite com a situação.@
+`"……………"@
+` A Kohaku não responde.
+\
+`"Está tudo bem, eu não gostava do meu pai também.@
+` Ele era o mal em forma humana.@ Só de pensar que era o meu pai biológico já me dava vontade de matá-lo.@
+` Não é mesmo?@ Ele sucumbiu ao sangue Tohno e forçou os seus desejos em você, que ainda era uma criança.@ Ele praticava aqueles atos hediondos todos os dias.@
+` Portanto, Kohaku.@ Eu tenho plena noção de que você guarda rancor contra mim e o SHIKI."
+\
+`"…… Por quê?@ Você sabe disso e ainda bebe o meu sangue?"@
+`"Claro.@ Sei que o seu rancor contra mim é inevitável, mas eu ainda gosto de você.@ Sendo assim, perdoarei tudo o que fizer.@
+` …… A menos, óbvio, que toque no que me é mais importante."@
+` Sorrindo, a Akiha lambe o mamilo da Kohaku.
+\
+` De repente, ela treme.@
+` Com os ombros trêmulos, a Kohaku segura um gemido.
+\
+`"…… Não, pare, Akiha-sama…… Se beber mais sangue que o normal, você vai acabar[line=3]"@
+`"Não se preocupe.@ Não vou ficar igual ao Nii-san.@ Sugar sangue é apenas um prazer para mim.@ Não é algo que vai me destruir como destruiu o SHIKI.@
+` Mas eu sei[line=4]que você ficaria feliz se isso me acontecesse."@
+`"………………"@
+` A Kohaku não responde.@
+` Ela aperta os olhos, sem concordar ou negar.
+\
+monocro #ff0000
+bg "event/aki_h13",crossfade,400
+wave se_01
+` A língua vermelha da Akiha serpenteia pela pele branca da Kohaku.@
+` Ela aperta o seio da Kohaku com as unhas.@
+` Corte.@
+` Elas perfuram a pele, permitindo que gotas avermelhadas surjam.
+\
+` [line=11], [line=8].@
+br
+` Chikichiki.@ Chikichiki.@
+br
+` O meu coração acelera.@
+` A minha consciência não está mais aqui.@
+` Tum, dum.@ Tum, dum.@
+` Estou sendo ordenado a matar.@ Matar.
+\
+monocro off
+bg "event/aki_h13",crossfade,400
+`"…… Akiha-sama, por que o SHIKI-sama queria tanto sangue?@ O meu sangue era o suficiente para que ele ficasse vivo."@
+`"Sim, é verdade.@ Por ser uma Sincronizadora, o seu sangue é mais eficiente e mais gostoso.@
+` Mas[line=4]a reprodução e o ato de sugar sangue são coisas diferentes.@
+` Não é só uma questão de precisar de uma grande quantidade de sangue.@ Nenhum sangue tem o mesmo sabor.@ Um ser que se acostumou a sugar sangue vai buscar por sabores diferentes."
+\
+`"Não tem[line=4]um limite?"@
+`"Sim.@ Mas é como um passatempo, tendo força de vontade, você pode parar.@ Porque é fácil obter sangue delicioso em qualquer lugar, caso queira.@
+` …… Na realidade, tanto eu quanto o SHIKI só precisamos do sangue de uma pessoa."
+\
+monocro #ff0000
+bg "event/aki_h13",crossfade,400
+wave se_01
+` [line=4]Será que estou fascinado pela cena diante dos meus olhos?@
+br
+` Fico sem fôlego só de olhar para a Akiha bebendo o sangue.@
+br
+` Chikichiki.@ Chikichiki.@
+br
+` Que dor.@
+` Se doer demais, eu posso acabar……
+` matanto[line=3]para[line=3]me[line=3]libertar[line=3]desta dor.
+\
+monocro off
+bg "event/aki_h13",crossfade,400
+`"…… O sangue de uma única pessoa?"@
+`"Sim.@ Para o SHIKI, poderia ser o meu sangue.@ É por isso que ele nunca veio aqui.@ …… O seu jogo divertido acabaria na mesma hora."
+\
+`"Sim, acabaria de vez.@ Se beber o melhor sangue possível para você, não restaria mais nada.@
+` Eu mataria quem mais amo e beberia cada gota de vida dele.@ Depois disso, só me restaria um vazio."@
+` A Akiha aperta os dedos pelo corpo da Kohaku.@
+` Ela fecha os olhos e suporta as ações da Akiha.@
+`"…… É por isso que jamais irei atrás daquilo que mais desejo.@
+` Se eu o fizesse isso, seria……"
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Depois de descobrir que ele jamais seria meu.
+\
+` As duas garotas deitam ao mesmo tempo.@
+` Farfalha.@ Farfalha.@
+` Os seus cabelos vermelhos preenchem o quarto como uma cachoeira estática.
+\
+bg #ffffff,tshutter,800
+playstop
+!w1000
+bg "bg/bg_44a",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_54a",notrans,0
+play "*6"
+`"Ha[line=5]ah."@
+` Lutando contra a náusea, eu fujo com os olhos vermelhos.@
+` A tontura ameaça me vencer.@
+` O que[line=4]o que ela estava falando?
+\
+`                 Chiki.@
+` Ela estava sugando sangue.@
+` Igual ao SHIKI[line=4]e ainda brincava com a Kohaku enquanto sugava o sangue dela.@
+` Os seus cabelos vermelhos.@
+` A Kohaku.@ A Kohaku.@ A Kohaku-san.@ Foi violentada vergonhosamente[line=4]pelo Makihisa.
+\
+br
+br
+br
+`               Chikichiki.
+\
+bg #ffffff,notrans,0
+bg "bg/bg_42a",lshutter,400
+` A minha cabeça está doendo.@
+` O meu coração continua descontrolado.@
+` Akiha.@ Eu a vi bebendo o sangue da Kohaku e achei uma visão linda.
+\
+br
+br
+br
+br
+br
+`            Chikichikichikichiki.
+\
+` Cabelos escarlates.@
+` Uma teia de aranha vermelha.@
+` Um vermelho incomum, como as asas de uma mariposa venenosa, a própria cor do mal.@
+` Bela em excesso, venenosa em excesso.@
+br
+` Por causa disso[line=4]sou dominado por essa sensação estranha.
+\
+` Caminho pela floresta sob o sol brilhante.
+\
+br
+br
+br
+br
+br
+br
+br
+`      Chikichiki.@ Chikichiki.@ Chikichiki.
+\
+`"[line=3]Para com[line=3]esse barulho[line=4]"@
+` Mas o barulho não para.@
+` Chikichiki.@
+` Os sons não são naturais.@
+` Posso ouvi-los vindo por trás de mim.
+\
+br
+br
+br
+br
+br
+br
+br
+`      Chikichiki.@ Chikichiki.@ Chikichiki.
+\
+` Insetos.@
+` Alguns insetos estão subindo nas minhas costas.
+\
+`  …… A Kohaku-san me chamou de estúpido.@
+` Esses insetos acham que as minhas costas são o tronco de uma árvore e sobem nela, procurando por seiva.
+\
+bg #ffffff,lshutter,400
+monocro #ff0000
+bg "bg/bg_48a",lshutter,400
+br
+br
+br
+br
+br
+br
+br
+` Chikichiki.@ Chikichiki.@ Chikichiki.@ Chikichiki.@ Chikichikichikichikichiki.@ Chikichikichikichikichikichikichikichikichikichiki.@ Chikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichikichiki……!!!
+\
+` Os insetos sobem pelas minhas costas e entram no meu cérebro.@
+` Incontáveis insetos atacam as minhas costas, guinchando.@
+` Enquanto eles entram[line=4]um impulso doentio quase toma conta de mim.@
+` MATE.@
+` A ordem para matar Tohno Akiha domina a minha mente.@
+br
+` Não tem erro, o nome desses insetos é "A vontade de Matar".
+\
+`"Parem[line=4]com isso, parem, parem, parem, parem………………!!!!!"@
+` Bato a mão na minha nuca.@
+` Eu ficaria doido se não fizesse isso.@
+` Eu não odeio a Akiha por ela sugar sangue.@
+br
+` Só odeio a mim mesmo.@ Eu me odeio por sentir vontade de matá-la[line=4]
+\
+bg #9c0120,crossfade,800
+playstop
+monocro off
+bg "bg/bg_40a",lcartain,800
+`"Haa……… ha, ah, haa[line=5]"@
+` Tirando os insetos da nuca, eu continuo fugindo para o meu quarto.
+\
+`"[line=4]Ah[line=5]ha, ah[line=5]"@
+` Encosto na parede e recupero o fôlego.@
+` Não consigo me controlar.@
+` Qual é a diferença entre o SHIKI e o meu eu de agora?@
+`  …… Não.@
+` Isso não é importante.@
+` Por que[line=4]por que eu não pude entendê-la?
+\
+play "*7"
+`"[line=7]Kohaku[line=3]san[line=5]"@
+` …… A palavra no diário do Makihisa.@
+` "Sincronizadora".@ A Kohaku e a Hisui não foram simplesmente adotadas, elas foram trazidas para cá a fim de serem usadas como meras ferramentas.@
+` O que aquilo realmente significava!@
+` Eu não sabia o que significava ela ser uma serva do Makihisa.@ Eu nem tentei entender.@
+br
+`   [line=3]Todo dia, todo dia, todo dia, sem descanso[line=3]
+br
+` A Akiha disse com todas as palavras.@
+` Não preciso pensar muito para saber o que o Makihisa fez.@
+` Se ele sofria da mesma ansiedade violenta que eu, posso entender perfeitamente o que ele fez.
+\
+br
+` [line=3]Sempre lá.@ A garota que estava sempre perto da janela.@
+` Ela não sabia como fugir, muito menos como pedir socorro.@
+br
+` O Makihisa não teve simpatia pelo fato da Kohaku ser só uma garotinha.@
+` Estava escrito no diário.@
+` Ele só a via como uma ferramenta.@
+` Como uma criança mimada, fazendo-a suportar todas as birras dele.
+\
+br
+` [line=3]Aquela garota ficava sempre nos observando enquanto brincávamos no jardim.@
+br
+` Não posso condenar o Makihisa.@
+` Eu também a torturei, muito mais do que ele.@
+br
+` A Hisui disse.@
+` Que a Kohaku-san sempre quis se tornar a "Hisui".
+\
+`"[line=9]"@
+` Não consigo nem imaginar.@
+` Aquela garota trancada na mansão desde a infância.@
+` Nos obervando brincar do outro lado da janela todos os dias.@
+br
+` Apesar disso,
+` ela me entregou algo importante para ela antes de eu partir.
+\
+` Depois disso.@
+` Pelo bem da sua irmãzinha, ela começou a sorrir, atuando para si mesma.@
+br
+` [line=4]Uma farsa horrível.@
+br
+` …… Porém, dentro dessa atuação que ela própria reconhece como farsa, tudo que resta a ela é rir?
+\
+`"[line=6]Mas qu[line=3]"@
+` Mas que coisa terrível eu fiz.@
+` …… Eu confundi a Kohaku-san com a Hisui, e conversei com ela sobre as minhas lembranças do passado.@
+` No dia da festa de boas-vindas.@
+` Enquanto cozinhava com a Kohaku-san, eu falei feliz sobre as lembranças que tenho com a Hisui.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Ela disse que não sentiu dor quando cortou o dedo.
+\
+`"[line=4]Que besteira."@
+` …… Sinto o meu peito apertar.@
+` Não consigo respirar.@
+` O eu que quer matar a Akiha.@
+` O eu que não entendia o que se passava ao meu redor.@
+br
+`"Desculpa[line=4]desculpa, Kohaku-san[line=6]"@
+br
+` A minha consciência começa a oscilar.@
+` O meu corpo fica dormente.@
+` Pela primeira vez na vida,
+` quero usar a minha habilidade para me matar.
+\
+quakey 1,400
+!w1000
+playstop
+!w2000
+bg #000000,crossfade,800
+!w5000
+bg "bg/bg_40c",notrans,0
+bg #9c0120,crossfade,800
+bg "bg/bg_40c",notrans,0
+bg #000000,crossfade,400
+bg "bg/bg_40c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_40c",crossfade,800
+play "*1"
+`"Akiha-sama, você não vai chamar um médico?"@
+`"Não vai ajudar em nada.@ Ele não está doente.@ E não vai melhorar até darmos um jeito na causa."
+\
+` …… A Akiha  e  a Hisui   estão conversando.@
+` Este  é   o quarto do SHIKI.@
+` Parece   que   estou  deitado  na cama.
+\
+` Tento sair da cama, mas não consigo me mover.@
+` O meu corpo pesa como chumbo.@ Só consigo mexer a boca e os olhos livremente.@
+` Por um instante,
+` penso estar sonhando.
+\
+ld l,"tachi/aki_t03b",lshutter,400
+`"Você falhou, Hisui.@ Eu mandei ficar de olho no Nii-san hoje, não foi?@ Não posso nem confiar que cuide dele nesse estado."@
+ld r,"tachi/his_t21b",lshutter,400
+`"Eu………… Peço desculpas."@
+ld l,"tachi/aki_t11b",crossfade,400
+`"Se quiser pedir desculpas, peça para o Nii-san.@ Se deculpar comigo só vai me deixar com mais raiva."
+\
+cl l,lshutter,400
+` …… Não sei o motivo disso estar acontecendo.@
+` Mas pelo menos posso dizer que a Hisui está sendo repreendida por minha causa.
+\
+ld r,"tachi/his_t05",crossfade,400
+`"…… Akiha-sama.@ Eu não posso fazer nada se o Shiki-sama desmaiar.@ Por favor, dê a minha função para a Nee-san."@
+ld l,"tachi/aki_t03b",lshutter,400
+`"…… Impossível.@ Não posso deixar a Kohaku sozinha com o Nii-san.@ Você também não deve deixar.@ Fique junto da Kohaku toda vez que ela estiver aqui e jamais deixe ela ficar a sós com o Nii-san."
+\
+ld r,"tachi/his_t04",crossfade,400
+`"Mas a condição do Shiki-sama está piorando.@ Se ele não receber os medicamentos da Nee-san, mal vai ser capaz de ficar de pé."@
+ld l,"tachi/aki_t01b",crossfade,400
+`"…… É verdade.@ Mas será melhor para mim."@
+` A Akiha murmura isso enquanto pensa no assunto.@
+`"Hisui, diga ao Nii-san para faltar à aula por alguns dias quando ele acordar.@ Ele não anda muito bem ultimamente, não permita que ele saia do quarto até que melhore.@
+` Vou avisar a escola dele."
+\
+cl a,lshutter,400
+` …… Não consigo mais ver a Akiha.@
+` Só tem uma Hisui cabisbaixa no quarto.@
+ld c,"tachi/his_t04",lshutter,400
+`"…… Shiki-sama, você está acordado?"@
+` …… Estou surpreso.@
+` A Akiha nem percebeu, mas a Hisui notou que eu estava acordado.@
+`"…… Sim, acordei agora há pouco.@ …… Desculpa.@ A Akiha ficou brava com você por minha causa."
+\
+ld c,"tachi/his_t05",crossfade,400
+`"Não, faz todo o sentido que ela fique brava.@ Eu não percebi que você tinha desmaiado."@
+`"[line=4]Poxa.@ Eu já estou acostumado.@ E o que deu nela para querer que eu mate aula?@
+` Eu estou bem, não preciso ficar protegido numa bolha de plástico."
+\
+ld c,"tachi/his_t13",crossfade,400
+`"…… Shiki-sama.@ Quanto a isso, poderia obedecê-la?"@
+`"Hein?@ Você quer que eu falte amanhã?"@
+` A Hisui assente.@
+` Ela não parece estar preocupada em levar outro sermão da Akiha.@ Na verdade, parece pensar mesmo no meu bem-estar.
+\
+`"Ah[line=8]"@
+` Não posso dizer não para esses olhos.@
+`"………… Entendi.@ Vou faltar e ficar em casa descansando amanhã."@
+ld c,"tachi/his_t04",crossfade,400
+` A Hisui me mostra um pequeno sorriso de desculpas.
+\
+`"…… Pois bem, com licença.@ Por favor, me chame se precisar de alguma coisa."@
+cl c,lshutter,400
+br
+` [line=3]Ela faz uma mesura e vai embora.@
+` Assim que fico sozinho, sinto a sonolência atacar.@
+`"[line=5]"
+\
+` Sendo sincero, parece ter algo errado com o meu corpo.@
+` Estou tentando ficar acordado, mas não tem jeito.@
+` Encarando o teto, caio facilmente no sono[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+phase "bg/ima_07",l,koha,09a,9
+bg #ffffff,crossfade,800
+play "*7"
+` [line=4]Por que existe tamanha tristeza?@
+br
+` Eu não entendo o motivo.@
+` Não importa o que aconteça ou com quem, é o destino daquela pessoa.@
+` Não é algo que eu deva me intrometer.@
+` Muito menos tentar mudar a dor, a felicidade, os sentimentos ou até o corpo daquela pessoa.@
+` Não é que eu esteja triste.
+\
+bg "event/his_e02b",crossfade,800
+` [line=3]Então, o que é esse arrependimento inquietante?@
+br
+` Embora eu jamais tivesse realmente conhecido aquela garota.@
+` Embora eu só a tenha conhecido de verdade agora.@
+` Ao meu ver, não existe uma conexão entre nós.@
+` Sendo assim, por quê?@
+` Depois de pensar em um passado que não compreendi até agora, por que o meu peito dói tanto?
+\
+bg "bg/ima_02",crossfade,800
+` [line=3]O que você acha que é mais miserável?@
+br
+` Aquela noite dominada pelo luar.@
+` O assassino que encontrei naquela noite perguntou algo do tipo.@
+` Foi uma das diversas cenas aleatórias e sem sentido.@
+br
+` …… E o que eu respondi?
+\
+br
+` A tristeza é fácil de se enxergar e a felicidade é difícil de se entender.@
+br
+` Se quiser ver situações miseráveis, precisa procurar bem.@
+` Se ser miserável significa viver uma vida tão dolorosa e cheia de sofrimentos que o faça desejar morrer, então seria melhor nem ter nascido.@
+br
+` [line=3]Quanto a mim,
+` pensei que a coisa mais triste seria jamais ter vindo ao mundo.
+\
+bg #000000,tshutter,400
+` Depois que falei isso, o assassino riu.@
+` Depois de rir bastante, ele disse alguma coisa sobre como eu era um cara legal.@
+br
+` [line=3]O que é miséria?@
+` Eu acho que é não perceber que está na miséria e confundi-la com felicidade.
+\
+` Lembro de concordar com isso.@
+` Não tem jeito mesmo.@
+` Ser incapaz de se considerar miserável.@
+` A única coisa garantida para os que vivem assim é uma simpatia sem sentido.@
+` Acreditar na ilusão de que é feliz e de que viverá uma vida alegre.@
+br
+` Como um estranho, que não pode sentir a sua dor,
+` eu concordei que esse tipo de miséria é a pior que existe.
+\
+bg #ffffff,crossfade,800
+playstop
+!w2000
+bg "bg/bg_40a",crossfade,800
+play "*2"
+`"[line=7]"@
+` Acordo lentamente, sem motivo algum.@
+` A combinação da brisa gelada e a luz do sol entrando pela janela é maravilhosa.@
+` O tempo está ótimo.
+\
+` Não é um clima para se ficar o dia todo na cama.@
+` Eu levanto a parte de cima do meu corpo.@
+br
+`"Aaaaiiii[line=4]ainda não dá."@
+br
+` Os meus braços ainda estão moles.@
+` Não chegou ao ponto de não poder me levantar, mas provavelmente não vou conseguir andar.
+\
+wave se_04
+` Escuto alguém batendo na porta de forma muito educada.@
+ld c,"tachi/his_t01",lshutter,800
+`"Com licença, Shiki-sama.@ Como está se sentindo?"@
+`"Estou bem.@ Aposto que vou conseguir me mexer normalmente até de noite."@
+` …… Meio que lembro de ter dito isso ontem, mas hoje deve dar certo.
+\
+ld c,"tachi/his_t17",crossfade,400
+`"…… Shiki-sama.@ Posso fazer uma pergunta?"@
+`"Hum?@ O quê?"@
+`"Você alguma vez desmaiou desse jeito enquanto vivia com a família Arima?"@
+` A voz da Hisui está fraca.@
+` …… Ela parece preocupada que a piora na minha condição esteja relacionada ao meu retorno à mansão.
+\
+`"Não precisa se sentir responsável, Hisui.@ Isso já aconteceu enquanto eu vivia com os Arima.@ …… Bem, era uma coisa anual durante o ensino fundamental II, mas parou quando eu entrei no ensino médio.@
+` Mas eu já estava mentalmente preparado que fosse voltar logo."@
+`"E você se recuperou rápido nessas ocasiões?"@
+`"Levou um dia ou dois, não é grande coisa.@ Você está agindo como se fosse uma doença séria."
+\
+ld c,"tachi/his_t05",crossfade,400
+`"……………… É porque me parece ser uma doença séria.@
+` Eu fiquei sabendo que você tinha anemia, mas nada nesse nível.@
+` Você nunca considerou que o seu corpo era estranho?"@
+`"Ahahahaha.@ O meu médico vive falando que o meu corpo é completamente esquisito.@ Pensando bem, só de desmaiar e me recuperar rápido assim dá pra me considerar mais forte que a maioria das pessoas."@
+ld c,"tachi/his_t08",crossfade,400
+`"……………………"@
+` …… Ah.@ Eu tentei tratar o assunto como uma piada, mas isso só a deixou brava.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama.@ Pessoas fortes não ficam com a temperatura subindo a noite toda.@ Se lembra de quantas vezes ficou febril ontem à noite?"@
+`"Hã[line=3]eu[line=4]eu fiquei?"@
+`"…… Sim.@ Você ficou com febre assim que caiu no sono.@ Começou a suar muito e precisei vir conferir a sua condição de hora em hora."@
+br
+` [line=4]Se eu pudesse opinar, diria que é algo incrível.@
+` É incrível, mas estou um pouco envergonhado de ter sido um fardo pra ela.
+\
+`"…… Hã?@ Pensando bem, esse não é o pijama que eu estava usando ontem.@ Hisui…… A Kohaku-san trocou as minhas roupas?"@
+`"Não, foi a Akiha-sama.@ Nós duas nos alternamos para cuidar de você essa noite.@
+` Depois que a sua condição se estabilizou, a Akiha-sama voltou para o quarto dela."@
+`"[line=5]Foi a Akiha?"@
+` Quando falo isso, me lembro do que vi ontem.
+\
+` [line=3]A Akiha[line=3]bebendo o sangue da Kohaku-san.
+\
+`   A Akiha[line=3]gritando com a Hisui.
+\
+`"Shiki-sama……?"@
+` Escuto a voz da Hisui, sem realmente processar o que ela disse.@
+` Talvez o meu rosto tenha ficado tenso.@
+`"Hum[line=3]não é nada…… Entendi, a Akiha cuidou de mim, né?"@
+ld c,"tachi/his_t03",crossfade,400
+`"Sim.@ Ela vinha de hora em hora para cuidar de você.@
+` …… Hum, como eu não podia fazer contato fisíco com você, foi de grande alívio que ela tenha vindo."@
+`"[line=7]"@
+` …… Eu sou um idiota.@
+` A Akiha se preocupou tanto comigo, mas o que eu pensei dela?
+\
+`"…… Obrigado, Hisui.@ Agradeça a Akiha por mim também."@
+ld c,"tachi/his_t16",crossfade,400
+`"Entendido.@ Sendo assim, Shiki-sama, vou trazer o seu café da manhã, aguarde um pouco."@
+cl c,lshutter,400
+` Ela sai do quarto, e levanto o meu corpo.@
+` Inclino as costas contra a parede e respiro fundo.
+\
+` …… O meu corpo melhorou um pouco, e o tempo lá fora está excelente.@
+` Para melhorar mais ainda, estou feliz de verdade que a Hisui e a Akiha tenham cuidado de mim.@
+` Mas mesmo assim, não me sinto realmente feliz.@
+`"…… Não vejo a Kohaku-san desde ontem."@
+` Sei que, se olhar para o rosto dela, não vou conseguir conversar com ela normalmente.@
+` Mesmo assim, eu quero vê-la.
+\
+bg #000000,tshutter,800
+playstop
+!w1000
+bg "bg/bg_40a",bshutter,800
+play "*3"
+` Já passa do meio-dia e o sol começa a descer do topo do céu.@
+` Eu não melhorei mais, mas também não piorei.@
+` Sem saber o que fazer, fico apenas olhando para a janela.@
+`"[line=7]"@
+` Embora tente não pensar nessa pessoa, ela fica surgindo na minha mente.@
+` Sei que o assassino SHIKI ainda está à solta, mas estou pensando é na Kohaku-san[line=3]
+\
+wave se_04
+` Uma batida forte na porta.@
+`"Nii-san.@ Sou eu, posso entrar?"@
+` [line=3]A voz da Akiha.@
+` Eu não tenho motivos para evitá-la.@
+` …… É óbvio que estou preocupado sobre ontem.@
+` Mas não parecia que ela odiava a Kohaku-san, e pode ser uma obrigação dela que não compreendo ainda.@
+` Os que tem o sangue dos Tohno correndo nas veias precisam das Sincronizadoras.@
+` …… A Akiha não está machucando ela como o meu pai, por isso vou ficar quieto por enquanto.
+\
+`"Não precisa pedir.@ Pode entrar."@
+ld c,"tachi/aki_t04b",lshutter,400
+`"Certo, com licença, Nii-san."@
+` Ela entra no quarto.@
+`"E a escola, Akiha?@ Não são nem uma da tarde, né?"@
+ld c,"tachi/aki_t08b",crossfade,400
+`"Eu faltei à aula hoje.@ Não é certo deixá-lo sofrendo sozinho em casa, não é mesmo?"@
+cl c,lshutter,400
+` Sorrindo, ela se aproxima da minha cama.
+\
+ld c,"tachi/aki_t04b",lshutter,400
+`"Vou medir a sua temperatura, coloque isso na boca, por favor.@ Vamos precisar trocar os lençóis também, você consegue ficar em pé um pouco?"@
+` Ela enfia o termômetro na minha boca.@
+` …… Parece que ela veio no lugar da Hisui.
+\
+cl c,lshutter,400
+` Depois de conferir a minha temperatura, ela troca os lençóis com muita destreza e me entrega um novo pijama.@
+` …… Pensando bem, a Kohaku-san também é bem eficiente, mas ela não tem esse ar de precisão da Akiha.@
+` Embora a Kohaku-san seja relaxada normalmente, ela é organizada ao ponto de não fazer nada desnecessário.
+\
+ld c,"tachi/aki_t04b",lshutter,400
+`"Pronto.@ Nii-san, pode se deitar."@
+` Ainda de pé, olho pela janela.@
+`"[line=7]Ah."@
+` A Kohaku-san está varrendo as folhas no jardim.@
+` Eu posso cumprimentá-la daqui[line=3]
+ld c,"tachi/aki_t03b",crossfade,400
+`"Nii-san, eu terminei de trocar os lençóis da sua cama."@
+`"Hein……?@ Ah, desculpa.@ Eu me distraí aqui."@
+cl c,lshutter,400
+` Deito na cama.
+\
+` Sentada em uma cadeira, ela começa a descascar uma maçã, bem desajeitada.@
+` Com um olhar intenso no rosto, ela se concentra na faca, mas, volta e meia, usa força demais, e a faca quase sai voando na direção da minha cama.@
+` …… Será que ela está praticando para ser uma boa dona de casa?@
+` Eu preferia que ela fizesse essas coisas perigosas na cozinha.
+\
+`"…… Não precisa se forçar a fazer algo que não está acostumada, Akiha."@
+` Indiretamente, digo a ela para não fazer algo que ela não seja boa.@
+ld c,"tachi/aki_t13b",lshutter,400
+`"………………"@
+` Um pouco insatisfeita, ela larga a maçã e a faca.@
+` Observando-a com o prato e o garfo, percebo que obviamente ela queria fazer algo bem além de suas capacidades.
+\
+`"……………………"@
+` Apesar do resultado, estou feliz que ela cuide de mim.@
+` Mas é engraçado, então começo a rir.@
+ld c,"tachi/aki_t21b",crossfade,400
+`"…… O que foi?@ O que é tão engraçado, Nii-san?@ Não fiz nada para você ficar rindo assim."@
+`"Só me veio a cabeça que é que nem nos velhos tempos.@ Quando eu era pequeno e fiquei doente, você cuidou de mim dessa forma desajeitada também."
+\
+cl c,lshutter,400
+` …… É, eu me lembro bem.@
+` Quando ainda vivia como o filho adotado.@
+` Eu tinha ficado com uma febre bem alta.@
+` Eu fiquei descansando na edícula, mas a Akiha fugiu da mansão e foi cuidar de mim.
+\
+`"………… Que saudade daquele tempo.@ No começo você só ficou segurando a minha mão, mas depois começou a tentar cuidar de mim.@
+` No final, você pegou umas seringas vazias e quase enfiou elas em mim, lembra?"@
+ld c,"tachi/aki_t13b",lshutter,400
+`"Humm…… Eu me arrependo disso agora, mas é uma verdade que não posso negar."@
+`"Não pode mesmo.@ Se o Jinan-san não tivesse visto e te impedido, eu não estaria aqui para contar a história."@
+` Jinan-san era o assistente do médico da família.@ Depois ele virou o meu médico pessoal.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"O Jinan-sensei?@ Pensando bem, embora você não goste de médicos, você sempre acabava obedecendo ele."@
+`"…… Mas é claro.@ Ele é louco.@ Dá até um frio na espinha só de pensar no que ele faz com você se desobedecê-lo.@ Você consegue entender o quanto isso é assustador?"@
+`"Hum, será mesmo, hein?" diz a Akiha enquanto sorri.@
+` Ela sabe que não é problema dela e não liga pro meu medo.
+\
+`"Ah, por falar em médicos, quando foi que a Kohaku-san conseguiu a licença de farmacêutica dela?@ Ela não parece ser mais velha do que a gente, não tem uma idade mínima pra conseguir?"@
+`"…… Tem sim, mas nosso pai mexeu uns pauzinhos.@
+` Não sabemos a data de nascimento exata delas, então nosso pai manipulou os documentos para que ela fosse legalmente mais velha."
+\
+`"[line=6]Minha nossa."@
+` Como esperado de gente rica, apelando para métodos ilegais para ter o que quer.@
+`"Mas a Hisui parece ter a sua idade.@ Já que elas são gêmeas, a Kohaku-san deveria ter a mesma idade que você também, né?"@
+`"[line=5]Não pode ser."@
+` …… É estranho imaginar que eu e a Kohaku-san temos a mesma idade……@
+` Eu nunca parei pra pensar nisso, mas sempre achei que ela fosse mais velha.@
+` …… Na verdade, ela não age como se fosse mais velha, só que eu nunca pensei que seríamos da mesma faixa etária.@
+playstop
+` Porque, se isso for verdade…… Então[line=3]desde que ela tinha oito ou nove anos, o Tohno Makihisa já[line=3]
+\
+waveloop se_02
+bg #9c0120,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` Crack.@
+` Parece que algo quebrou dentro de mim.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"Nii-san……?@ O que foi?@ Está se sentindo mal……?"@
+`"[line=3]Não.@ Não precisa se preocupar."@
+` É só uma dor passageira.
+\
+`"Preciso me preocupar sim.@ Olha como você está suando, parece que vai desmaiar a qualquer momento……!"@
+`"[line=4]Mas[line=5]comparado ao que Kohaku-san passou[line=5]"@
+ld c,"tachi/aki_t11b",crossfade,400
+`"[line=10]"@
+bg #9c0120,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` Comparado ao que ela sofreu, essa dor não é nada.@
+` Quero muito ver ela.@
+` Não sei o que vou falar quando encontrá-la, mas preciso vê-la.@
+` Ainda não cumpri a minha parte da promessa de oito anos atrás.@
+` Isso não é hora de ficar deitado descansando[line=3]
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40a",crossfade,400
+wavestop
+` [line=3]E de repente.@
+` A minha tontura desaparece.
+\
+play "*8"
+ld c,"tachi/aki_t11b",crossfade,400
+`"E então?@ Conseguiu se acalmar?"@
+` A Akiha está com a palma da mão na minha testa.@
+` Sinto os seus dedos gelados.@
+` Parece que essa sensação gelada acabou com a minha tonteira, foi como se jogasse água em uma fogueira.
+\
+`"[line=3]Nii-san.@ Como você está se sentindo?"@
+`"Hum?"@
+` Eu já não falei pra ela?@
+` Os seus olhos estão muito sérios.@ …… Esse olhar parece perguntar outra coisa.@
+`"…… Tudo bem, eu vou investigar por conta própria."@
+cl c,lshutter,400
+` Depois de dizer isso, ela tira a mão da minha testa.@
+` E a coloca perto do meu peito, por cima da camisa.@
+`"…… Parece que não tem nada de errado acontecendo.@ Mas a sua temperatura ficar oscilando desse jeito deve ser porque eu não estou acostumada a isso ainda."@
+` Murmurando para si mesma, ela tira a mão de mim.
+\
+ld c,"tachi/aki_t01b",lshutter,400
+`"Nii-san, o seu corpo normalmente é saudável, mas você tem umas crises anêmicas desse nível com muita frequência.@ Nunca pensou que era algo bem estranho?"@
+`"…… Sim, bem, o médico me falou isso muitas vezes, mas e daí?"@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Claro que falou.@ Nenhum médico vai adivinhar a causa da sua anemia.@
+` …… Você quer saber a verdade sobre ela?"@
+`"O quê[line=5]?"
+\
+` O meu coração bate mais forte.@
+` Aquilo que eu não soube por tantos anos.@
+` Esse meu corpo instável.@
+` A Akiha sabe o motivo de ele ser assim……?
+\
+`"N…… Não parece que você está brincando."@
+`"É porque estou falando sério.@ Se quiser mesmo saber eu vou te contar.@ É por causa dos pecados da minha família, por isso é direito seu saber."@
+` Por algum motivo[line=4]as palavras da Akiha contêm um ar de perigo.@
+` Mas eu preciso saber.
+\
+`"…… Eu quero saber.@ Por favor, me conta, Akiha."@
+`"Muito bem, vou explicar.@
+` Eu digo que vou explicar, mas você já sabe boa parte.@ O seu corpo ficou assim depois do acidente de oito anos atrás, certo?@ Então a raiz do problema está lá."@
+`"Oito anos atrás[line=4]você fala de quando quase fui morto pelo SHIKI?"
+\
+`"Exato.@ Naquele dia, ele roubou boa parte da sua vida.@
+` Depois que o meu pai deu a setença ao SHIKI, ele foi mantido vivo no porão.@ Desde então ele está usando a sua vida para se manter vivo, substituindo assim a vida que perdeu.@
+` É por isso, Nii-san.@ É por esse motivo que você não pode se mover livremente com a sua própria vida.@ E, como resultado, você está sempre a um passo da morte.@
+` Ou seja, enquanto o SHIKI viver, você sempre estará assim.@ Jamais vai poder voltar ao que era antes."
+\
+`"Mas o qu…… A um passo da morte?@ Que besteira, é só uma anemi[line=3]"@
+` Não pode ser só uma anemia.@
+` Ser incapaz de me mover livremente e perder a consciência com tanta frequência não pode ser considerado uma anemia qualquer.@
+` É como ela disse.@
+` Não tem diferença disso e estar à beira da morte.
+\
+`"…… Mas por quê?@ Eu cheguei até aqui.@ Se eu vivi assim por oito anos, é certeza que[line=3]"@
+`"Não.@ O SHIKI estava trancado até então, por isso você conseguiu viver, mesmo com certa dificuldade.@
+` Mas agora ele escapou e está usando a sua vida para fazer o que bem entende.@
+` É você quem recebe o fardo por tudo que ele faz, por isso é impossível que viva como antes."
+\
+`"[line=7]"@
+` O meu pulso acelera.@
+` Ela não tenta usar eufemismos.@
+` Por ser a verdade nua e crua, ela perfura o meu coração como uma espada afiada.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"Nii-san.@ Se quiser odiar alguém, odeie o SHIKI ou quem o libertou.@
+` Porque, mesmo que ainda estivesse vivo, se ele ficasse quieto e calmo, isso jamais teria acontecido com você."@
+` Ela morde o lábio enquanto diz isso.@
+` …… Ela está brava assim com o SHIKI por ele roubar a minha vida?@ Ela morde os lábios com tanta força que o sangue começa a escorrer.
+\
+`"………… Akiha."@
+` Mas ela não me dá atenção.@
+` Está olhando para o vazio como se estivesse encarando um inimigo.
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"Mas pode ficar tranquilo.@ Farei tudo ao meu alcance para protegê-lo……@ Para que você possa sempre sorrir, eu[line=3]"@
+br
+` [line=3]Vou matar o SHIKI, é o que você quer dizer?@
+br
+` …… Lembrei do diário daquele velho.@
+` É de responsabilidade do chefe da família Tohno exterminar todos que não são mais humanos.
+\
+`"[line=7]Ah."@
+` Naquela noite.@
+` A Akiha me abraçou, lutando desesperadamente para conter as lágrimas.@
+` Eu sei que ela disse aquilo.@
+` Disse que não queria matar o irmão com as próprias mãos.@
+` …… Ela chorava, já que não podia me contar isso[line=3]
+\
+`"…… Está tudo bem.@ Você não precisa assumir a responsabilidade."@
+ld c,"tachi/aki_t23b",crossfade,400
+`"Preciso sim…… Eu sou a chefe da família Tohno.@ Portanto, preciso me responsabilizar por todos os crimes que qualquer membro da família cometa, eu[line=3]"@
+`"…… Pare com isso, eu não quero ver essa expressão de sofrimento no seu rosto.@ Está tudo bem, isso já aconteceu antes.@ Não importa o que o SHIKI faça, vou me recuperar em questão de dias.@
+` Não precisa se preocupar."
+\
+`"Nii-san, pare de repetir as mesmas palavras.@ Não aguento ver você desse jeito, muito menos sabendo que pode morrer a qualquer instante……!@
+` Sendo assim, eu[line=3]"@
+`"Já falei para não se preocupar.@
+` O SHIKI é[line=4]responsabilidade minha.@ Você não precisa fazer nada."@
+`"……………… Nii[line=3]san."
+\
+cl c,lshutter,400
+` …… É isso mesmo.@
+` A Akiha não precisa matar o próprio irmão.@
+` Isso é entre ele e eu.@
+` Se o sangue da família Tohno é almaldiçoado, e fui forçado a dançar nesse ritmo ridículo por oito anos,
+` então eu[line=4]com as minhas próprias mãos, vou dar um fim a tudo que começou oito anos atrás.@
+` Assim nem a Kohaku-san ou a Akiha precisam[line=11]vão sofrer mais por causa desse sangue maldito.
+\
+ld c,"tachi/aki_t04b",lshutter,400
+`"[line=4]Nii-san."@
+` Ela se acalmou?@ Os seus ombros não estão mais tensos.@
+`"…… Que alívio.@ Você é o meu verdadeiro Nii-san.@ Igual oito anos atrás, você só quer me proteger."@
+` Os seus olhos brilham enquanto ela me olha no fundo dos olhos.@
+` ………… Como explico essa situação?@
+` A atmosfera ficou muito íntima.
+\
+playstop
+` [line=5]E.@
+` Para destruir o ótimo clima que se formou, o estômago da Akiha ronca alto.@
+play "*3"
+ld c,"tachi/aki_t24",crossfade,400
+`"[line=8]"@
+`"………………………"@
+` …… Pensando bem, ela ficou acordada a noite toda cuidando de mim.@
+` Deve ter ficado tão preocupada comigo que nem comeu.
+\
+`"Acho que estou ficando com fome."@
+` Tento dar cobertura a ela.@
+ld c,"tachi/aki_t25",crossfade,400
+`"…… Nossa.@ Fiquei tão descontraída que perdi a compostura."@
+` Ela dá uma desculpa envergonhada.@
+` Bem, talvez isso tenha me salvado.@
+` Eu não sei o que aquele clima teria feito conosco.
+\
+`"Akiha, eu estou bem agora, pode ir descansar.@ Você cuidou de mim a noite toda, não foi?"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Ah[line=4]sim.@ Mas não foi nada demais.@ Eu não tinha como melhorar a sua condição, só fiz o melhor que podia com o que tinha."@
+`"É o bastante para mim.@ A Hisui me contou tudo.@ Estou feliz de ter uma irmãzinha tão incrível quanto você."@
+`"…… Tudo bem então.@ Acho que vou descansar um pouco.@ Eu volto depois do jantar, não saia daqui e apenas descanse."@
+cl c,lshutter,400
+` Ela se levanta da cadeira e sai do quarto.
+\
+bg #000000,lshutter,800
+playstop
+!w2000
+bg "bg/bg_40b",rshutter,800
+play "*1"
+wave se_04
+` Ouço uma batida de leve, e a porta se abre logo em seguida.@
+ld c,"tachi/koha_t02b",lshutter,400
+`"Desculpe a demora.@ Hora do jantar, Shiki-san."@
+`"[line=8]Hã?"@
+` A chegada da Kohaku-san me pega totalmente desprevenido.
+\
+`"Hein?@ Kohaku-san……!?"@
+`"Pois não?"@
+` Ela inclina a cabeça.@
+`"Pensei que a Akiha não deixaria você chegar perto de mim."@
+` Ainda pasmo de surpresa, penso em voz alta.
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"Sim, me ordenaram isso, mas a Akiha-sama e a Hisui-chan não sabem como administrar remédios por via intravenosa.@
+` Shiki-san, vou ter que te dar uma agulhada depois do jantar, tá bom?"@
+cl c,lshutter,400
+` Ela empurra o carrinho de chá e fecha a porta com o seu sorriso costumeiro.@
+` …… Na prateleira de cima está a minha janta.@ Na prateleira de baixo tem uma seringa e os materiais necessários para aplicá-la.
+\
+`"Hummmm, Kohaku-san?"@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Primeiro vem o jantar, né?"@
+` Aqui está, diz ela enquanto descobre a comida sobre a bandeja.@
+` O seu sorriso se resume a contentamento.@
+` …… Como eu poderia destrui-lo?
+\
+` [line=3]Por favor, aja como antes.@
+br
+` Lembro do que a Hisui me pediu.@
+` Até eu quero que ela continue sorrindo assim.@
+` Quero vê-la sorrindo desse jeitinho mesmo, toda feliz.@
+` Eu[line=4]eu não posso destruir isso.
+\
+`"…… Obrigado pela refeição."@
+`"Por nada.@ Mastigue tudo direitinho."@
+cl c,lshutter,400
+` Abaixo o olhar e pego os hashis.@
+` …… A Kohaku-san fica por perto com um sorriso.@
+` É triste demais, não consigo olhar no rosto dela.
+\
+` Clink.@ Clank.@ Os barulhos dos hashis no prato ecoam pelo quarto.@
+` Sinto vontade de morrer quando ela fica tão perto de mim e com esse sorriso.@
+br
+` …… Por que estou tão triste?@
+` A Kohaku-san está bem aqui.@
+` Quem eu queria encontrar desde ontem está bem ao meu lado, eu não deveria ter motivo para ficar triste.
+\
+br
+` [line=3]A tristeza é fácil de se ver,
+`   a felicidade é difícil de se entender.@
+br
+` Por exemplo,
+` uma garota que foi trancafiada na mansão desde que era bem jovem.@
+` Essa garota que deu a fita de cabelo ao Tohno Shiki.@
+` …… O meu eu idiota demais que falou alegremente sobre o passado na mansão.@
+br
+` …… Coisas assim me causam dor.
+\
+` Clink.@ Clank.@ O som dos hashis.@
+` Unindo as duas mãos, agradeço novamente pela comida.@
+` Ela tira os pratos, animada, como se estivesse feliz por eu ter pedido para repetir a porção.@
+` …… Se essa felicidade fosse genuína, talvez eu também estivesse feliz.
+\
+`"[line=5]É bem simples, não é mesmo?"@
+br
+` De repente, encontro o motivo para a minha tristeza.@
+` Deveria ter algo de errado comigo para não ter visto isso antes.@
+` Eu gosto dessa garota.@
+` Eu amo ela a ponto de não querer que ela sofra.@
+br
+` Parece que finalmente descobri algo tão simples[line=4]
+\
+ld c,"tachi/koha_t03b",lshutter,400
+`"Muito bem, vou ter que aplicar uma injeção antes da intravenosa.@ Shiki-san, pode enrolar a manga da camisa, por favor?"@
+`"……………………"@
+` Enrolo a manga até o cotovelo.@
+ld c,"tachi/koha_t02b",crossfade,400
+`"Não vai doer nadinha, é só relaxar o corpo.@ O Makihisa-sama também ficava doente às vezes.@
+` Então eu pude praticar bastante, se é que me entende."@
+` Ela esfrega o meu braço com um algodão banhado em álcool.@
+` …… Não sei o que fazer.@
+` Ela fala o nome do Tohno Makihisa como se não fosse nada demais.@
+` Essa atuação[line=4]é perfeita, há algum motivo para ela agir assim?
+\
+`"Pensando bem, você sempre se machucava quando pequeno.@ Vivia ignorando os sermões do Makihisa-sama e corria pelo jardim."@
+` Ela fala, como se sentisse saudades.@
+`"[line=9]Tss."@
+` Não consigo olhar para o sorriso dela.@
+` Por um instante, o seu sorriso tem algo de diferente.@
+` Não é o seu sorriso animado de sempre, é um sorriso que vem ao descrever um sonho distante e muito desejado.@
+` Mas, para proteger a Kohaku-san atual, eu preciso entrar no meio dessa farsa.
+\
+`"………… É mesmo.@
+` Mas você[line=4]também parecia se divertir muito, Kohaku-san."@
+ld c,"tachi/koha_t15",crossfade,400
+`"Sim, eu vivia correndo de um lado para o outro atrás de você, Shiki-san.@
+` …… Foi bem divertido.@ Brincávamos no jardim até o pôr do sol.@
+` Mas depois que voltávamos para a mansão, você sempre levava bronca por estar todo sujo de lama."@
+br
+` [line=4]Atuação atrás de atuação.@
+`    Esse sorriso é completamente falso.
+\
+playstop
+`"………………!"@
+` Incapaz de suportar isso por mais um segundo, eu abraço essa garota que fala dos seus sonhos.
+\
+bg "event/koha_e05",crossfade,800
+play "*7"
+` [line=3]Não consigo nem abraçá-la direito.
+\
+`"Ah……… Hum, Shiki-san?"@
+` Sua voz, sem entender o que se passa, me chama.@
+` Eu apenas a seguro perto de mim, sem dizer nada, e acaricio os seus cabelos.@
+`"………………"@
+` Não posso deixar que ela veja o meu rosto.@
+` Devo estar com uma expressão horrível.@
+` Não posso deixar que o seu olhar perceptivo me encare.@
+` Caso contrário, ela entenderia que sei de toda a verdade.
+\
+`"…………………………"@
+` Ainda assim.@
+` Tento conter tudo e mordo o meu lábio.@
+`"Shiki-san……?@ Você está sentindo tanta dor assim?"@
+`"………………………… Não.@ Não é[line=3]nada disso."@
+` Só posso agarrá-la com os dedos.@
+` Não consigo abraçá-la apertado, mas quero segurá-la o máximo que puder.
+\
+`"…… Ai minha nossa.@ Assim não pode, Shiki-san.@ Você é um menino crescido, precisa suportar uma picadinha."@
+` O seu braço passa pelos meus cabelos.@
+` Ela faz carinho na minha cabeça silenciosamente.@
+br
+` Isso me leva ao meu limite e não posso mais aguentar.
+\
+`"[line=7]Está tudo bem."@
+br
+`"Disse algo, Shiki-san?"@
+` Ela pergunta.@
+` Não importa o quanto a minha mente grite para que eu pare, as palavras saem sem controle.
+\
+`"[line=3]Está tudo bem.@ Você não precisa sorrir mais."@
+br
+`"Hein?"@
+br
+`"[line=3]Está tudo bem, você não precisa se forçar a sorrir."@
+br
+` Os meus sentimentos ganham voz, saindo dos meus lábios cerrados.@
+br
+`"[line=9]"@
+` As mãos dela pararam de se mover.@
+` A Kohaku-san fica paralisada.@ Nem respira.
+\
+br
+br
+br
+br
+br
+` [line=4]Kacha.@
+br
+` Escuto um barulho.
+\
+bg "bg/bg_40b",lshutter,800
+playstop
+`"……………………!"@
+` Ela se afasta.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Ah, nossa, parece que derramei o remédio."@
+` O sorriso de sempre.
+\
+ld c,"tachi/koha_t02b",crossfade,400
+`"Infelizmente, o próximo só chega amanhã, vamos ter que ficar sem por hoje.@
+` Pois bem, se acontecer alguma coisa, me chame, tá bom?"@
+cl c,lshutter,400
+` Ela empurra o carrinho de chá como se nada tivesse acontecido.
+\
+` E vai embora pela porta aberta e não a fecha quando sai.@
+`"[line=5]"@
+` O que eu fiz?@
+` Eu abracei ela, falei aquilo[line=4]e ainda quebrei a promessa com a Hisui.@
+` Sou farinha do mesmo saco que o Makihisa.@
+` Não consegui controlar os meus sentimentos.@
+` A porta aberta balança ao vento, como se zombasse do quão ridículo eu sou.
+\
+wave se_01
+` [line=3]Espera aí.@
+br
+` A Kohaku-san saiu sem abrir a porta…?@
+br
+`"…… Não faz sentido.@ Eu sei que ela fechou a porta quando entrou no quarto."@
+` Então por que a porta estava aberta quando ela saiu?@
+` Alguém devia estar observando enquanto eu abraçava a Kohaku-san.
+\
+br
+` [line=3]Eu volto depois do jantar, Nii-san.@
+br
+` …… Foi o que a Akiha disse quando saiu daqui.@
+`"A Akiha[line=4]viu tudo[line=9]"@
+` Penso em voz alta.@
+` Não foi grande coisa.@
+` Então, por que[line=3]por que sinto o meu peito doer de inquietação como se tivesse feito algo que devesse me arrepender?
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40d",crossfade,800
+play "*1"
+` [line=4]A noite cai.@
+br
+` O céu claro do dia se transforma em uma redoma escura.@
+` O mar de nuvens domina os céus e esconde o luar.
+\
+` Respiro fundo e saio da cama.@
+`"…… Viu só?@ Eu falei pra elas que estaria melhor de noite."@
+` Estou bem melhor.@ Consigo até sair correndo se der vontade.@
+` …… Tiro a minha faca da gaveta da escrivaninha.@
+` "Muito bem."@ Coloco ela no bolso e me preparo mentalmente.
+\
+` …… Os problemas realmente se empilharam.@
+` Mas não vou confundir o que posso fazer com o que deve ser feito.@
+` Tem um assassino vagando pelas ruas.@
+` Esta noite eu vou acabar com a onda de assassinatos do SHIKI de uma vez por todas.@
+`"…… Como irmão mais velho da Akiha, é o mínimo que posso fazer."@
+` Não posso forçá-la a lutar contra o seu irmão de sangue.@
+` Preciso impedir o SHIKI enquanto ainda consigo mover o meu corpo.
+\
+bg #000000,lcartain,400
+!w3000
+bg "bg/bg_25b",lcartain,800
+` Não vejo o SHIKI em lugar algum nas ruas sob o céu nublado.@
+`"…… Que merda.@ Acho que fui otimista demais."@
+` Pensei que daria de cara com ele só de caminhar pelas ruas à noite.@
+` Embora eu jamais tenha visto o sujeito, achei que conseguiria encontrá-lo como dois imãs que se atraem[line=5]
+\
+`"…… Provavelmente seria melhor se eu esperasse em algum lugar em vez de ficar andando sem rumo."@
+` …… Aquele beco é uma boa ideia.@
+` Testemunhei muitos assassinatos lá nos meus sonhos.@
+` Provavelmente é o local com mais chances de eu encontrar o SHIKI.
+\
+playstop
+bg #000000,lshutter,800
+bg "bg/bg_30b",lshutter,400
+bg #000000,lshutter,400
+bg "bg/bg_31b",lshutter,400
+` [line=5]Pois bem.@
+br
+` Eu me escondo na escuridão e respiro fundo.@
+` Agarro a faca, pronto para atacar a qualquer momento.
+\
+wave se_01
+` ………@
+` ………………
+\
+wave se_01
+` …………………………@
+` ………………………………………@
+wave se_01
+` ……………………………………………………
+\
+wave se_01
+`"[line=7]"@
+` O meu coração bate, acelerado.@
+` …… Posso estar sendo imprudente, mas a minha mente está sob controle.@
+` Logo eu vou lutar contra o SHIKI.@
+` Será muito próximo de uma luta até a morte.@
+` Eu não pretendo matá-lo, mas a chance de acabar dessa forma é bem alta.
+\
+`"[line=6]Kk."@
+` Mesmo assim, a minha mente está calma.@
+` Observar todos aqueles sonhos me deixou menos sensível para com o ato de matar?@
+` …… A única coisa normal aqui é o meu coração.@
+` É a única coisa que sente a tensão da matança iminente e bate forte, como um alarme interno.@ Talvez seja a única coisa normal no Nanaya Shiki.
+\
+wave se_01
+`"[line=7]"@
+` Respiro fundo.@
+` O sangue pulsa forte pelas minhas veias.@
+`"[line=7]"@
+` Que estranho.@
+` Os meus sentidos estão todos calmos, então por qual motivo[line=4]por qual motivo o meu sangue acelera pela ansiedade em encontrar esse vampiro?
+\
+play "*6"
+`                  Tum, dum
+`                  Tum, dum
+wave se_01
+!w1000
+`                  Tum, dum
+`                  Tum, dum
+wave se_01
+!w1000
+`                  Tum, dum
+`                   Tum, dum
+wave se_01
+!w750
+`                   Tum, dum
+wave se_01
+!w750
+`                   Tum, dum
+wave se_01
+!w500
+`                   Tum, dum
+wave se_01
+!w500
+`                   Tum, dum
+wave se_01
+!w250
+`                   Tum, dum
+wave se_01
+!w250
+`                   Tum, dum
+wave se_01
+!w250
+br
+` [line=4]Não é a primeira vez.@
+` Acho que já procurei por alguém assim antes.
+\
+wave se_08
+`"[line=9]"@
+` Sinto a presença de alguém e me escondo por reflexo.@
+` …… O som de passos.@
+` O meu pulso acelera ainda mais.@
+` Quem está vindo é o "inimigo" que vim aqui derrotar.
+\
+` [line=3]Os passos se aproximam.@
+br
+` Só mais alguns passos.@
+br
+` Um passo.@
+br
+` Dois passos.@
+br
+` Três passos.@
+br
+` Quatro passos[line=8]!
+\
+bg "bg/ima_14",lshutter,400
+` Corro até o inimigo.@
+` De repente, o inimigo gira para me encarar.@
+` O inimigo tenta recuar, mas sou muito mais rápido.@
+br
+` Levo a faca até a garganta do inimigo sem hesitar[line=4]
+\
+playstop
+bg "bg/bg_31b",notrans,0
+ld c,"tachi/aki_t15b",lshutter,400
+`""!?""@
+br
+` [line=4]Consigo recuar pouco antes de acertar.@
+cl c,lshutter,400
+` A faca passa raspando pelos cabelos da Akiha.@
+` Ambos respiramos fundo e apontamos um para o outro ao mesmo tempo.
+\
+`"O que você está fazendo aqui, Nii-san!?"@
+`"O que você está fazendo aqui, Akiha!?"@
+br
+` ……………… Bom, acho que é óbvio que temos o mesmo objetivo.
+\
+play "*3"
+ld c,"tachi/aki_t03b",lshutter,400
+`"………………"@
+` Ela olha pra mim com olhos que transbordam reclamações.@
+` …… Acho que ainda está brava por eu ter abraçado a Kohaku-san, mas não posso me preocupar com isso agora.@
+`"Akiha.@ O que você está fazendo aqui tão tarde da noite?"@
+`"Não está mais do que claro?@ Estou procurando pelo SHIKI para cumprir o meu papel como a chefe da família Tohno."@
+`"……………"@
+` Ela me responde.
+\
+`"[line=3]Eu falei que iria cuidar disso, não precisa se expor ao perigo desse jeito.@ Você não tinha concordado?"@
+ld c,"tachi/aki_t05b",crossfade,400
+`"Na hora eu posso até ter concordado, mas depois mudei de ideia.@
+` Nii-san, você parecia bastante ocupado, por isso pensei em vir no seu lugar."@
+` Com um "humph," a Akiha desvia o olhar.
+\
+`"…… Escuta aqui, Akiha, eu não vou falar nada sobre o motivo de você estar tão brava, mas não são assuntos separados?@
+` Isso é entre o SHIKI e eu.@ Não vou deixar que se envolva em uma luta tão perigosa."@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Desista.@ Você é muito inocente se está repetindo isso, Nii-san.@
+` Olha só.@ O seu corpo só está ficando mais fraco conforme o tempo passa.@
+ld c,"tachi/aki_t11b",crossfade,400
+` …… Então eu vou fazer tudo o que precisar para que você melhore.@ Não vou te dar ouvidos se me pedir pra parar."@
+` …… Ela olha para mim atentamente.@
+` A Akiha está muito séria.
+\
+`"…… Você tem razão.@ E eu estou muito feliz que se preocupe tanto comigo.@
+` Mas não vai ser difícil para você?@ O SHIKI é o seu, hum……"@
+`"Nii-san.@ Você é o único que vou chamar de Nii-san.@ …… De fato, é uma tarefa difícil, mas precisa ser feita, estou errada?@ Fui criada para dar conta dos deveres como chefe da família Tohno, então não é nada que eu não estivesse preparada para fazer."
+\
+ld c,"tachi/aki_t07b",crossfade,400
+`"Mas isso não vem ao caso!@ O que você tem na cabeça, saindo com a sua saúde desse jeito?@ Não é você quem mais corre perigo de ser atacado pelo SHIKI!?"@
+cl c,lshutter,400
+`"Argh[line=5]"@
+` A Akiha usa uma pose muito autoritária e caminha na minha direção com o dedo apontado para a minha garganta.@
+` Dou alguns passos para trás, inconscientemente, sob esse ataque.
+\
+ld c,"tachi/aki_t03b",lshutter,400
+`"Viu só, você já está perdendo para mim mentalmente.@ Você é só um ser humano normal, um monstro como o SHIKI está fora da sua alçada.@
+` Eu vou acompanhá-lo de volta à mansão hoje, mas, de agora em diante, você precisa cuidar de si."@
+cl c,lshutter,400
+` Ela agarra o meu braço e começa a andar.@
+`"E[line=2]espera, Akiha, espera um pouco……!"@
+`"Céus, fique quieto, se fizer um escândalo desses tão tarde, vai chamar a atenção da polícia……!"
+\
+`"[line=7]Argh."@
+` Perdi pra ela outra vez.@
+` …… Mas que seja.@
+` O meu corpo ainda não se recuperou totalmente, é melhor eu obedecê-la e voltar pra casa[line=4]
+\
+bg #000000,lcartain,800
+playstop
+!w2000
+bg "bg/bg_46c",lcartain,400
+play "*1"
+ld c,"tachi/aki_t21b",lshutter,800
+`"Nii-san, por favor, volte para o seu quarto.@ Eu também não vou sair de novo esta noite."@
+cl c,lshutter,400
+` A Akiha se vira, ainda um pouco perturbada.@
+br
+` [line=3]Os seu cabelos pretos ondulam no ar.@
+bg #9c0120,crossfade,400
+bg "bg/bg_46c",crossfade,400
+` Sem motivo aparente,
+` ao ver o seu semblante, sinto uma inquietação absurda.
+\
+`"…… Akiha."@
+ld c,"tachi/aki_t01b",lshutter,400
+`"Hum?@ O que foi, Nii-san?"@
+`"…… Posso confiar nisso, né?"@
+` ……?@
+` Digo isso sem saber no que quero confiar.@
+` Ela parece surpresa por um instante.@
+ld c,"tachi/aki_t08b",crossfade,400
+`"Sim, você não fez nada com o que precise se preocupar, pode descansar tranquilamente."@
+` Ela diz isso com um sorriso.
+\
+cl c,lshutter,400
+`"…………………"@
+` A Akiha se afasta.@
+` O meu quarto é no segundo andar da ala oeste da mansão.@ O dela é na ala leste.@
+` Viver sob o mesmo teto e ficar tão longe um do outro é o que me deixa inquieto?@
+` Abro a porta do meu quarto, ainda com essa sensação inquietante que não consigo definir.
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+phase "bg/cmo_14",l,koha,10a,10
+bg "bg/ima_02",crossfade,800
+play "*9"
+` [line=4]Escuto o canto de pássaros.@
+br
+` A lua distante.@
+` A noite está muito escura, a cortina de árvores cerca o mundo inteiro.@
+` O chão está pontudo, como se fossem os dentes de uma serra.@
+` Não tem ninguém por perto.@
+` Tudo que ouço é o som dos pássaros.
+\
+` Um campo escuro.@
+!w2000
+br
+` Sinto saudades de casa por instinto.@ Quando eu era pequeno, bem pequeno, sempre brinquei nesta floresta.@
+` Sempre saí no calar da noite.@
+` Já que os meus pais e irmãos não se sentem bem ao serem vistos por outras pessoas, geralmente não saímos de dia.
+\
+` Então é um dia como qualquer outro.@
+` Saio do jardim sozinho, entro na floresta e encontro aquelas pessoas desconhecidas.@
+` O campo escuro está ainda mais escuro hoje.@
+` Não é uma escuridão natural.@
+` É como se estivesse sendo irradiada de uma lâmpada fosca.@
+` As manchas de sangue fresco no chão se parecem com frutos silvestres.
+\
+` Está muito quente.@
+` Enquanto respiro, cada fôlego que tomo parece levar fogo aos meus pulmões.@
+` O calor é tão forte como se fosse verão.@
+` É por isso?@
+` Eu continuo ouvindo o som dos pássaros no ar gelado.
+\
+` Os frutos silvestres se espalham por todo o campo.@
+` No meio dele, um único olho vermelho brilhante.@
+` Um estranho está parado no meio do campo.@
+` Ele só tem um olho.@
+` O olho brilha em vermelho.@
+` Parece flutuar no ar vazio, sua existência esbanja anormalidade.@
+` Como só há um olho, a sua cor duplica?@
+` Comparado àquele olho, o sangue fresco parece ser a visão fosca de uma montanha distante.
+\
+` Um escarlate mais profundo que o vermelho.@
+` Um nome que foi passado pela tradição oral da família Nanaya.@
+` Vermelho Carmesim.@
+` Um nome que denomina a existência que despertou o sangue inumano de seus ancestrais.@
+` Descreve uma pessoa cujo ego é subordinado a seu eu transcendental e perde toda a sua sanidade.
+\
+` É dito que o Olho Maligno vermelho é um sinal de ter sido possuído.@
+` Como uma miragem, algo estremece por trás dele.@
+` Rindo, sem motivo claro, como se tivesse ficado insano.@
+` Não parece estar se divertindo.@
+` Conforme os pássaros cantam, o seu corpo se transforma em um vulto.@
+br
+` Ele desaparece, como se tivesse sido devorado pelos arbustos ao redor.
+\
+` …… Uma voz me chama à distância.@
+` Estou com medo de ficar sozinho, eu preciso voltar para a floresta.@
+` Dentro da cortina de árvores, escuto sons como se estivessem fazendo um festival.@ Crash!@ Crunch!@ Smash!@ Splat!@
+br
+` O Nanaya Shiki caminha até os fundos da floresta.
+\
+bg #000000,tcartain,800
+` Depois de atravessar o campo, penso sobre a vermelhidão que vi antes.@
+` É uma pena.@
+` Quando tudo ficou tão vago e cansativo?@
+` Parece ser algo muito forte, mas ao mesmo tempo, muito frágil.@
+` Depois de descobrir que aquilo não terá muito tempo de vida, continuo em direção ao coração da floresta.
+\
+bg #ffffff,crossfade,800
+playstop
+!w4000
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` Abro os olhos e me deparo com o sol matinal entrando pela janela.@
+`"[line=7]Está quente."@
+` O meu pijama está encharcado de suor.@
+` …… Parece que tive um sonho estranho.@
+` Foi parecido com um daqueles filmes de comédia em preto e branco e sem som…… Não lembro do nome certo, mas é aquele em que o ator com cartola e bigodinho preto se mete em todo tipo de situação… Era um sonho em que eu parecia assistir a um filme.
+\
+`"…… Pensando bem, eu não sonhava quando morava com os Arimas."@
+` Na verdade, eu nunca sonhei quando era criança.@
+` O meu médico disse que durmo tão profundamente que isso me impede de sonhar.@
+` Então os sonhos que estou tendo desde que voltei para a mansão podem ser as minhas memórias em vez de sonhos.
+\
+`"…… Espera, não é isso que chamam de sonho?"@
+` Bem, deixo isso para os estudiosos debaterem.@ Como um mero estudante do ensino médio, eu vou é para a escola.@
+`"[line=3]Certo, hora de levantar!"@
+` Levanto da cama.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"[line=5]Hein?"@
+` No entanto, o meu corpo não se mexe.@
+`"O qu…… Por que não consigo me mexer!?"@
+` Ranjo os dentes e reuno toda a minha força.@
+` O sangue sobe até a cabeça, me deixando tonto, e consigo erguer a parte superior do corpo.@
+`"Qu……… Quen[line=2]te…………"@
+` O meu corpo está pegando fogo.@
+`"Merda…… Isso está pior[line=3]que ontem……"@
+` Ontem o meu corpo só estava pesado.@ Mas, agora, só mover o corpo é muito difícil.
+\
+`"[line=5]Que mer[line=4]"@
+` Tento ver se consigo mexer o braço em sentido vertical.@
+` ……@
+` …………@
+` ………………@
+`"[line=4]Aiii…… Argh."@
+` Finalmente o ergo.@
+` Preciso de um minuto e de toda a minha energia para fazer algo tão simples.
+\
+`"…… O que está acontecendo?"@
+` É como se eu fosse um cadáver.@
+` Ou quem sabe um robô sem bateria.@
+` De toda forma, não consigo me mover.@
+` Ainda assim, a minha mente está bem e não sinto dor alguma.
+\
+`"Kohaku-san[line=5]"@
+` Começo a chamar por ela e paro.@
+` Ontem eu a abracei e falei aquelas coisas.@
+` Não sei o que ela pensou sobre isso.@
+` …… Não sei se entendeu que eu sei que ela e a Hisui trocaram de lugar, mas ainda é difícil encará-la.
+\
+`"Hisui[line=3]Akiha, oi, tem alguém aí[line=3]"@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` Eu tento chamar alguém, mas sou impedido.@
+` Falar alto traz outra onda de tontura.@
+` …… É preciso usar os músculos para gritar, isso provavelmente força os vasos sanguíneos no meu cérebro.@
+`"Ahh[line=5]"@
+` Respiro com dificuldade.@
+` A única coisa que posso fazer é esperar a Hisui vir me acordar.
+\
+bg #000000,tshutter,800
+playstop
+!w2000
+bg "bg/bg_40a",tshutter,800
+` [line=3]No fim, faltei à aula.@
+br
+` Quando a Hisui veio até o meu quarto, ela ficou pálida na hora e chamou a Akiha.@
+` Assim que ficou sabendo, a Akiha veio correndo, e acho que nem ela ou a Kohaku-san sabiam o que fazer, pois chamaram o médico para realizar alguns exames.@
+` Como sempre, acabou dando em nada.@
+` E, como esperado, a Akiha me mandou ficar na cama descansando.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40b",lcartain,800
+play "*1"
+` …… O sol afunda abaixo do horizonte.@
+` Deitado de lado, encaro a janela, sem pensar em nada.@
+`"…………………… Droga."@
+` Eu sabia que deveria ter acertado as contas com o SHIKI ontem à noite, especialmente agora que fiquei assim.@
+` Enquanto estou deitado na cama, o número de vítimas só vai aumentar.@ …… Não, até ontem, enquanto eu voltava para casa com a Akiha, o SHIKI já podia estar sugando o sangue de outra pessoa.
+\
+`"[line=7]"@
+` Foi a decisão errada?@
+` Ontem à noite.@ Talvez eu devesse ter ficado esperando o SHIKI naquele beco, não importa o que a Akiha dissesse.@
+`"……… Eu preciso resolver isso hoje."@
+` Não posso ficar me lamentando que o meu corpo não se mova.@
+` Preciso parar o SHIKI o mais rápido possível.@
+` Preciso guardar todas as minhas forças para hoje à noite.
+\
+wave se_04
+!w1000
+ld c,"tachi/koha_t03b",lshutter,800
+`"Shiki-san, você está acordado?"@
+` A Kohaku-san abre a porta e entra.@
+`"Kohaku[line=4]san."@
+`"Sou eu.@ Se passou um dia todo, hein, Shiki-san?"@
+` Ela fecha a porta com um sorriso.@
+`"…… Pois é.@ Foi um dia todo."@
+cl c,lshutter,400
+` Eu fico desconfortável de repente e desvio o olhar.@
+` Não consigo falar direito com ela agora.@ Não só estou preocupado demais com o SHIKI, como também não pensei em qualquer desculpa para a minha estupidez de ontem.
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Shiki-san?@ Que carinha desanimada é essa?@ Não se sente bem?"@
+wave se_01
+`"…………!"@
+` Ela olha pro meu rosto.@
+`"[line=4]Não, não é isso, é que…"@
+` Corando forte, eu consigo soltar uma resposta quase calma.@
+` …… Isso é ruim.@
+` Eu achava que seria difícil me encontrar com ela, mas só de ver o seu rosto já me deixa um pouco melhor.@
+` Como eu não pude vê-la por um dia inteiro, só tê-la por perto me deixa feliz, tanto que esqueço do SHIKI.
+\
+`"…… Kohaku-san, pensei que eu não precisaria de outra intravenosa."@
+` …… Mas é por isso mesmo que preciso ficar longe dela.@
+` Quebrei a minha promesa com a Hisui e abracei a Kohaku-san.@ Não sei o que ela pensa sobre ontem, mas eu finalmente percebi como me sinto.@
+` Não tenho ideia do que vou fazer se ela ficar tão perto de mim[line=4]
+\
+`"Se não for nada, por favor, vá embora.@ Se a Akiha te ver, a coisa não vai acabar bem pro seu lado."@
+`"Tenho o que fazer aqui sim, calma.@ Eu queria perguntar, você vai querer algo de especial para comer hoje à noite?"@
+`"Algo pra comer?@ …… Já que estou assim, acho que algo fácil de digerir seria melhor."@
+ld c,"tachi/koha_t15",crossfade,400
+`"Hehehe, não se preocupe com os pormenores, Shiki-san.@
+` O médico disse que você poderia comer como bem quisesse.@ Então hoje eu farei o que você quiser."
+\
+cl c,crossfade,400
+` …… Eu até tenho as minhas preferências, mas acho que a nutrição é mais importante do que o sabor agora.@
+br
+`"[line=3]Entendi, então quero algo bem nutritivo.@
+` Preciso do máximo de energia possível para impedir o SHIKI hoje[line=3]"@
+ld c,"tachi/koha_t03b",crossfade,400
+`"O quê?@ Você quer energia para se impedir?"@
+` Ela inclina a cabeça, confusa.@
+`"Ah[line=5]"@
+` Merda.@ Acabei falando sem pensar.
+\
+` …… Espera um pouco.@ Ela deve saber quem é o SHIKI.@ Quando a Akiha estava bebendo o sangue dela, as duas discutiram sobre ele.@
+` …… Até a Hisui sabia que eu era adotado.@ Não tem como a Kohaku-san não saber do SHIKI.
+\
+`"[line=3]Entendi, então você sabe."@
+`"Hum.@ Sei o quê?"@
+`"…… Que eu fui adotado, e que a Akiha tem um irmão assassino doido varrido chamado SHIKI."@
+ld c,"tachi/koha_t08",crossfade,400
+` Seu sorriso congela.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"…… Agora entendi.@ Shiki-san, você descobriu tudo."@
+` Mas foi só por um instante.@
+` A atuação da Kohaku como a "Hisui do passado" não se desfaz.
+\
+`"Mas o SHIKI-sama não está mais neste mundo.@
+` Você é o único filho mais velho da família Tohno agora.@ Acho que é melhor se esquecer disso."@
+` Ela continua sorrindo.@
+` O mesmo sorriso que tinha enquanto discutia o menu da noite.
+\
+`"…… Eu quero esquecer, mas não posso.@ Não posso perdoar o que o sangue Tohno fez."@
+br
+` O meu pai.@
+` Ele te transformou em nada além de uma boneca sorridente.@
+br
+`"…… E não posso deixar o SHIKI fazer o que bem entende.@
+` Enquanto ele for um vampiro, jamais poderei ser o irmão da Akiha."@
+br
+` Não posso devolver a fita de cabelo dessa garota também.
+\
+cl c,crossfade,400
+` [line=3]É a única coisa que posso fazer.@
+br
+` Não sei como salvar essa pessoa ou apagar o pecado do Tohno Makihisa.@
+` Agora eu só posso impedir o assassino e extinguir o sangue Tohno que ameaça a paz desta cidade.
+\
+`"…… Eu quero fazer isso com as minhas próprias mãos.@
+` Não posso deixá-lo à solta, mas, mais importante que isso tudo[line=3]eu quero te ajudar, Kohaku-san."@
+` …… Idiota.@ Eu não paro de falar coisas desse tipo.@
+` Pensar, de modo egoísta, que posso salvar a Kohaku-san assim.@ Algo tão egoísta[line=3]
+`"…… Haha, do que estou falando, né?@
+` Mas, de todo jeito, esse é um problema da família Tohno.@ Você e a Hisui podem ficar tranquilas."@
+ld c,"tachi/koha_t08",crossfade,400
+` Ela não diz nada.@
+` Mas o seu sorriso some.
+\
+`"Kohaku-san?@ Falei algo de errado?"@
+playstop
+ld c,"tachi/koha_t16",crossfade,400
+`"[line=3]Não.@ Hum, você está falando sério?"@
+br
+` [line=7]?@
+` Como assim……?
+\
+ld c,"tachi/koha_t17",crossfade,400
+`"Shiki-san.@ Você sabe que a Akiha-sama sai da mansão toda noite, certo?"@
+`"Sim.@ É de responsabilidade dela, como chefe da família Tohno, procurar pelo SHIKI.@ Eu mandei ela parar, mas aquela teimosa não escuta."@
+ld c,"tachi/koha_t08",crossfade,400
+`"Não acredito.@ A Akiha-sama não te contou!?"
+\
+`"…… Espera aí, Kohaku-san…… Contou o quê?"@
+`"………………"@
+` Ela não responde.@
+` …… Mas não está agindo normal.@ Até um cabeça-dura como eu pude perceber.@
+` Tum, dum.@
+` O meu pulso acelera.
+\
+`"A Akiha-sama está mentindo para você, Shiki-san.@
+` …… O SHIKI-sama não era exatamente um demônio sugador de sangue.@
+` É o calor do corpo dos outros.@
+` Não o sangue, mas o calor."@
+wave se_01
+` Tum, dum, tum, dum.@
+` A minha pulsação fica descontrolada.@
+` A combinação desses fatos e o seu olhar sério me faz imaginar algo ruim.@
+br
+` [line=3]Espera.@
+`   Por favor, espera um pouco.@
+br
+` Isso é.@
+` Incoscientemente, é algo que evitei pensar.
+\
+`"…… Espera aí.@ …… Está tudo bem, você não precisa dizer nada."@
+ld c,"tachi/koha_t08",crossfade,400
+`"[line=4]Shiki-san.@ Aquele que já foi conhecido como Tohno SHIKI não está mais neste mundo.@
+` De fato, ele era um demônio sugador de sangue que matava as pessoas por aí.@
+` Mas isso tudo já acabou.@
+` …… Há cinco dias, a Akiha-sama exterminou o SHIKI-sama."
+\
+waveloop se_02
+br
+` [line=3]Aquele sonho.@
+br
+`   O sonho do assassino sendo morto pela Akiha.@
+`   Não foi o que eu vi.@
+`   Foi o que o SHIKI presenciou em seus momentos finais.
+\
+`"O SHIKI que matava as pessoas e sugava o sangue delas não está mais vivo.@
+` Então…… Isso significa que todos os incidentes recentes, são todos[line=3]"
+\
+` [line=3]O SHIKI não está mais vivo.@
+br
+`   Ele se foi há muito tempo.@
+`   A única que restou.@
+`   Saindo toda noite para vagar pelas ruas,
+`   o demônio sugador de sangue chamado Tohno Akiha.
+\
+bg #000000,lshutter,400
+`"Shiki-san[line=4]!?"@
+` Ignorando a sua voz, saio correndo do quarto.
+\
+bg "bg/bg_46b",lshutter,400
+` [line=4]Correndo.@
+br
+` O meu corpo sente dor em todos os cantos, mas isso não importa.@
+` Não penso em nada.@
+` Não quero pensar em nada.@
+` Até escutar a verdade da boca da Akiha, eu não quero saber de mais nada.
+\
+bg #000000,lshutter,400
+bg "bg/bg_46b",rshutter,400
+` Corro.@
+` Corro até o quarto dela, do outro lado da mansão.@
+` Respirando sem controle, abro a pesada porta dupla sem bater.@
+br
+bg #000000,lshutter,400
+wavestop
+bg "bg/bg_36c",lshutter,400
+` *arf*[line=4]*arf*, *arf*[line=4]
+` Olho ao redor do quarto.@
+` A Akiha[line=4]levanta elegantemente da cadeira assim que me vê.
+\
+ld c,"tachi/aki_t04b",lshutter,800
+`"O que foi, Nii-san?@ Entrar sem bater é falta de educação, sabia?"@
+`"Ah[line=6]haa……"@
+` Respiro fundo e olho para ela.@
+` Não, estou encarando ela sem perceber.@
+ld c,"tachi/aki_t01b",crossfade,400
+` A Akiha sente a emoção no meu olhar.
+\
+`"Nii-san………?@ Aconteceu alguma coisa?"@
+`"[line=8]"@
+` Respiro fundo mais uma vez e acalmo a minha respiração.@
+` Contendo o sangue furioso no meu peito, encaro ela enquanto falo.@
+br
+`"[line=4]Akiha.@ Qual o significado disso?"@
+br
+ld c,"tachi/aki_t11b",crossfade,400
+` O seu rosto se contrai.@
+` …… Provavelmente entendeu o que eu quero dizer só com essas palavras.@
+` Depois de me encarar, emudecida, ela caminha casualmente até o peitoril da janela.
+\
+cl c,lshutter,400
+` O céu ao longe, profundo como o oceano.@
+` Os raios vermelhos de sol atravessam o céu e entram no quarto.@
+` Igual ao centário de três dias atrás, ela dá as costas para o céu escarlate.
+\
+play "*8"
+bg "event/aki_e07a",lshutter,400
+`"Não entendi, Nii-san.@ Poderia ser um pouco mais específico?"@
+`"[line=6]"@
+` A tontura me assola.@
+` É um truque da minha visão?@ Pensei ter visto algo nebuloso ao redor dela.@
+` [line=3]O perigo preenche o ar.@
+` Deve ser culpa do céu brilhante atrás dela.@
+` O cabelo da Akiha parece estar vermelho e todo o meu corpo range.
+\
+`"Nii-san?@ Não tenho como te ajudar se você não disser nada.@ Ou[line=3]você vai voltar para o seu quarto e fingir que nada aconteceu?"@
+` Ela ri.@
+` É assim que entendo que ela esteve me enganado o tempo todo.
+\
+`"Akiha, por que[line=3]"@
+`"Você já sabe que eu matei o SHIKI.@
+` Eu sou a chefe da família.@ É minha responsabilidade exterminar todos que foram controlados pelo sangue Tohno.@
+` Eu fiz com todo o consenso da família, até você queria que eu matasse ele."@
+` Todos os pelos do meu corpo se arrepiam.@
+br
+` [line=3]Como assim?@
+` Quem é essa pessoa na minha frente?@
+` Quem é esse ser que tira o meu fôlego por pura pressão?
+\
+`"Não[line=3]não era bem assim."@
+`"Ah?@ Pois bem, não tem problema.@ Não tem nada de errado em matar algo que não é humano, tem?@
+` É que nem matar um cachorro que ataca as pessoas.@ Está no mesmo nível."@
+`"Eu disse que não é bem assim……!@ Eu quero saber[line=3]por que você escondeu isso de mim……!"
+\
+`"Ah, quanto a isso.@ Que chato da sua parte me fazer uma pergunta tão óbvia.@
+` Sabe, Nii-san, perguntar algo que você já sabe a resposta não é realmente uma pergunta, é uma confirmação.@ Só posso assentir, se for o caso."@
+br
+` O ar à sua volta estremece.@
+` As cortinas oscilam, como uma miragem.@
+` Os seus cabelos longos estão tingidos de vermelho por causa do sol poente.@
+` Crack.@
+` O meu corpo grita comigo para matá-la.
+\
+`"[line=3]Você matou o SHIKI cinco dias atrás."@
+` "Sim," concorda a Akiha.@
+` Cinco dias atrás[line=3]foi a noite em que ela desmaiou.@
+` Ele me abraçava, chorando, tentando conter algo.
+\
+`"Então, os ataques recentes do vampiro não são trabalho dele…… São todos obra sua."@
+` "Sim," concorda a Akiha.@
+` A edícula na floresta,
+` onde a Akiha sugava o sangue da Kohaku-san.@
+` Naquela hora[line=3]o SHIKI já havia morrido, e ela ainda fazia isso.@
+` A Kohaku-san até perguntou por que a Akiha não estava satisfeita só com o seu sangue.
+\
+`"[line=3]Por quê?@
+` O SHIKI eu entendo, mas você[line=3]você não parece diferente."@
+`"Sim, não sou igual ao SHIKI.@ É óbvio que não fiquei que nem ele pois bebo o sangue da Kohaku."@
+`"…… Pois é!@ Por que você não está satisfeita só com o sangue dela!?@ Você mesma disse, então[line=3]"@
+` Por que está fazendo o mesmo que o SHIKI………………!!??
+\
+`"É a influência do SHIKI.@ E o meu erro, Nii-san.@
+` …… O meu poder não é algo que expulsa ou destrói, é o poder de roubar.@
+` Eu roubei a vida do SHIKI.@ Mas, ao mesmo tempo, parece que peguei algo ruim junto."@
+`"[line=5]?"@
+` Algo ruim?@
+` Algo que não estava nela antes e agora está.@
+br
+` Isso é, hum[line=3]
+\
+`"…… Como posso explicar…… Desde que matei o SHIKI, eu fiquei incapaz de suprimir as minhas emoções.@
+` Eu fico mais teimosa que o normal, e a minha libido acaba me dominando quando eu normalmente a teria mantido sob controle.@
+` Acho que só acabei sendo mais honesta para com os desejos que venho contendo há tanto tempo.@
+` Eu precisava do sangue da Kohaku para manter o meu corpo, mas eu fiquei entediada do gosto dele já que venho tomando-o há uns anos."
+\
+`"[line=3]Provavelmente você não vai entender, mas a primeira vez que tomei um sangue além do da Kohaku foi incrível.@ Foi tão delicioso que pensei que ficaria louca."@
+` Ela sorri do fundo do coração.@
+` A miragem oscilante.@
+` A única vez em que senti esse perigo foi quando eu…… Não, foi o SHIKI.@ Foi quando ele foi morto naquele sonho.
+\
+`"[line=4]Akiha, você[line=4]"@
+`"Não olhe para mim assim.@ Eu só roubei o sangue deles.@ O SHIKI matava eles, então não me venha com esse olhar, Nii-san."@
+`"…… Só[line=4]o sangue deles……?"@
+` Ela não parece estar arrependida e nem sentir qualquer coisa em relação ao que fez.@
+` Ela apenas sorri e me observa, fala como se fosse algo normal.
+\
+`"[line=8]"@
+` …… Mal consigo respirar.@
+` Ela está se divertindo com isso.@
+` Vim confrontá-la, mas parece que só estou servindo de entretenimento.@
+br
+` [line=3]O que está acontecendo?@
+` É como um assassino se divertindo pra valer com a sua insanidade[line=3]
+\
+`"Para com essa brincadeira……!@ Por que está[line=3]fazendo isso…… Por que, Akiha?@ Tem algo muito errado com você……!!"@
+` Desviando do olhar penetrante dela, eu me aproximo.@
+`"Ah………………"@
+` Deve ter funcionado, pois ela engole o que ia dizer.
+\
+`"Você também sabe.@ O que você está fazendo não é certo……!"@
+` Dou outro passo.@
+` Depois de desviar o olhar vagamente, ela morde o lábio e me encara.
+\
+`"…… Não tem nada de errado.@ Eu bebi o sangue de outras pessoas só pelo seu bem."@
+`"Hã[line=5]"@
+` As minhas pernas param.@
+` Depois de morder o lábio com força, ela relaxa.
+\
+`"…… Eu já disse.@ Você foi morto pelo SHIKI oito anos atrás.@ Você não tem o sangue mestiço dos Tohno, é só uma pessoa normal.@ Você nunca teve nenhum tipo de poder para viver depois que o SHIKI roubou a sua vida."
+\
+`"…… Mas eu não podia permitir aquilo.@ Você morreu me protegendo, era eu quem deveria ter morrido.@
+` Eu fui salva pelo seu corpo sangrento.@ Você já estava morto, mas ainda assim me protegeu.@ …… Eu não lembro direito de tudo o que aconteceu depois, mas lembro certinho de pensar que teria sido melhor se eu tivesse morrido no seu lugar."
+\
+`"[line=3]E esse desejo foi realizado.@
+` Foi como em um conto de fadas.@ Como se eu pudesse reviver cães e pássaros mortos dando o meu sangue para eles.@
+` O meu poder faz o oposto, por isso acho que coloquei uma maldição em você.@
+` Por um milagre, você se recuperou, e eu tenho carregado um fardo desde aquele dia…… Pensando bem, era inevitável.@ É porque dividi metade da minha vida com você, Nii-san."
+\
+`"[line=9]"@
+` Tudo fica preto.@
+` Então eu estou vivo por causa da Akiha, e, ao mesmo tempo[line=3]por causa disso, ela precisa viver com essa doença terminal?
+\
+`"…… A vez em que você teve aquela crise[line=3]foi por minha culpa?"@
+`"…… Sim.@ Enquanto precisar mantê-lo vivo, eu terei que usar os poderes do sangue Tohno.@ E quando faço isso, o meu lado humano enfraquece.@
+` Se ele ficar fraco demais, eu vou me tornar algo inumano, como o SHIKI.@
+` Para impedir que isso aconteça, eu só preciso usar o mínimo dos meus poderes.@ Mas, nesse caso, eu só posso manter a sua vida e não posso manter o meu corpo."
+\
+`"…… E o resultado disso tudo são essas crises.@ Sentindo o perigo, o meu corpo me manda parar de prover energia a você ou me obriga a aceitar o sangue Tohno.@
+` Foi graças à Kohaku que pude resistir até agora.@ Como Sincronizadora, ela pode reforçar a força de vontade de alguém.@ Eu bebo o sangue dela com frequência para reforçar a parte humana da Tohno Akiha."
+\
+` Antes que eu perceba, o meu corpo dá uma cambaleada.@
+` Akiha.@ A Akiha está sugando sangue.@
+` É tudo minha culpa.@
+` Enquanto eu viver, ela vai precisar viver com o sangue Tohno ativo[line=3]
+\
+`"Eu pensei que o problema estaria resolvido se eu matasse o SHIKI.@ Se estivesse morto, ele não poderia mais roubar a sua vida."@
+`"[line=5]Ah."@
+` …… É mesmo.@
+` Se ele não estiver mais vivo, eu poderia ter a minha vida de volta, não estaria mais anêmico.
+\
+`"Hehe.@ Mas é engraçado.@ Se alguém além de mim tivesse matado o SHIKI, você teria a sua vida de volta.@
+` É como te expliquei.@ Eu roubei tudo do SHIKI.@ E não tenho o poder de sincronizar como a Kohaku.@ Não posso dar a mais ninguém o que roubei."@
+br
+` Estranhamente, ela mostra um sorriso sincero em pura auto-depreciação.
+\
+`"Depois de matá-lo, eu senti um peso sendo levantado de mim.@ Eu não tinha mais aqueles espasmos toda noite, foi ótimo.@
+` …… Não preciso dizer o motivo, certo?@ Porque agora sou eu quem rouba a sua vida no lugar do SHIKI.@
+` Mas eu apenas peguei e não posso devolvê-la a você, Nii-san.@ Diferente do SHIKI, eu não tenho o poder de fundir."
+\
+`"…… Sim, você foi unido ao SHIKI.@ De fato, ele pegou a sua vida, mas ela voltava para você quando ele dormia.@
+` Porém, esse não é mais o caso.@ É por isso que você está tendo problemas pra se mexer agora.@ É por isso que preciso continuar suprindo-o com mais energia do que antes.@
+` …… Por esse motivo, preciso acumular energia do sangue de outras pessoas."@
+br
+` Ela diz isso e se afasta da janela que brilha em escarlate.
+\
+bg #000000,crossfade,400
+bg "bg/bg_36c",crossfade,400
+ld c,"tachi/aki_t11b",lshutter,400
+`"Nii-san.@ Eu posso ser um monstro que suga sangue, mas é tudo pelo seu bem.@
+` Mesmo sabendo disso, você deseja me impedir?@ Vai me matar, não como Tohno Shiki, mas como Nanaya Shiki?"@
+`"[line=12]"@
+` Não sei o que dizer.@
+` Não importa o que ela diga, eu sou o Tohno Shiki.@
+` Não vou me tornar um Nanaya, pois nem lembro como era ser o Nanaya Shiki.
+\
+` Mas o meu corpo é diferente.@
+` Só olhar para a Akiha faz toda a energia no meu corpo se atiçar.@
+` É como se[line=3]como se o meu corpo tentasse fazer algo contra a parte inumana da Tohno Akiha.
+\
+`"…… Não.@ Não é uma questão de ser Tohno ou Nanaya.@ Eu só não quero que você…… tenha que beber sangue.@ Não quero que você[line=3]fique igual ao SHIKI."@
+`"Nii-san.@ Estou fazendo isso pelo seu bem.@ Não entende?@
+` Naquele dia[line=3]eu te falei como eu me sentia, e você não disse nada em resposta.@
+` Eu te disse[line=4]disse que te amo, mesmo assim, por que você olha para outra mulher……!?"
+\
+`"Me[line=3]ama?@ Mas é amor de irmãos……!@ Mesmo que não sejamos irmãos de sangue, ainda somos irmãos!@ Não diga besteiras……!"@
+`"Não é besteira………!!@ Por sermos irmãos[line=3]eu não posso te amar!?"@
+cl c,lshutter,400
+` A voz dela ecoa pelo quarto.
+\
+` …… Acho que é a primeira vez que ela gritou assim.@
+` Os ombros da Akiha levantam e abaixam enquanto ela ofega muito, ela morde o lábio, arrependida.@
+`"[line=7]Aki[line=3]ha."@
+ld c,"tachi/aki_t23b",crossfade,400
+`"…… Nii-san.@ Não me importo se deixar de ser humana.@ Se isso significar que você pode viver, eu não ligo para as consequências.@
+` Por isso, por favor[line=3]olhe só para mim.@ Eu sempre fiquei esperando por você.@ Agora que você voltou…… Não me traia, por favor."
+\
+cl c,crossfade,400
+` [line=3]Suas mãos tremem enquanto ela diz isso.@
+` Ela fecha a boca e aguarda a minha resposta.@
+` Ela quer que eu olhe só para ela.@
+` …… Eu nunca imaginei que a Akiha, com todo o seu orgulho, diria isso.
+\
+` [line=4]Mas isso está errado, Akiha.@
+br
+` Ela é querida para mim, sem dúvida.@
+` …… Ela me salvou até agora.@ Então quero fazer as vontades dela o máximo que puder.@
+` Mas, mesmo assim[line=3]ela é a minha irmã.@
+` Não posso amá-la de outro jeito.@
+` Porque a pessoa em quem eu mais penso não é ela[line=3]
+\
+`"………… Akiha.@ Não posso retribuir os seus sentimentos.@ A minha pessoa especial[line=8]não é você."@
+ld c,"tachi/aki_t11b",crossfade,400
+` …… Ela está calma, como se soubesse desde o começo.@
+` Ela fecha os olhos silenciosamente e se distancia.
+\
+cl c,lshutter,800
+` Ouço apenas os seus passos.@
+` Ela vai até a janela.@
+` O vento sopra e faz os seus longos e belos cabelos esvoaçarem.
+\
+`"…… Hum!@ Mas você não tem escolha, Nii-san."@
+br
+` [line=3]Os seus olhos se tornam pedras de gelo.@
+` Nesse instante,
+quakey 1,500
+playstop
+` o meu corpo cai no chão com um baque.
+\
+waveloop se_02
+bg #9c0120,crossfade,400
+bg "bg/bg_36c",crossfade,400
+`"Ah[line=4]gah………………!?"@
+` Preciso de ar.@ Não consigo respirar.@
+` Isso é pior do que tudo que já aconteceu.@
+` Eu realmente[line=3]não consigo[line=3]respirar[line=3]os meus braços[line=3]e pernas[line=3]não se movem[line=4]
+\
+`"Como está se sentindo, Nii-san?@ Voltamos a oito anos atrás."@
+` Ouço a sua risada.@
+`"A…………… Aki[line=3]ha[line=4]?"@
+` Consigo olhar para cima de algum jeito.@
+` Os seus olhos estão cheios de prazer enquanto observa a minha situação frágil.
+\
+bg "event/aki_e07b",crossfade,800
+play "*4"
+`"Eu disse que você só está vivo graças a mim.@
+` Será que finalmente entendeu?@ Só preciso querer e você morre.@ Essa é a vida de Tohno SHIKI, Nii-san."@
+` A sua voz chega ao meus ouvidos como um sussurro.
+\
+`"[line=5]Sss[line=7]!"@
+` O calor do meu corpo está diminuindo.@
+` Sinto que estou me aproximando rapidamente da morte.@
+` Os meus sentidos começam a falhar e temo que, se eu abaixar a guarda por um segundo, vou desaparecer por completo.@
+br
+` …… Tudo que ela disse é verdade.@
+` A Akiha tem o meu coração na palma da mão agora[line=4]
+\
+`"Você é bem cabeça-dura.@ Eu te tomei energia o suficiente para te fazer desmaiar."@
+` …… Ela coloca a mão em mim.@
+` Ah.@
+` Os seus dedos percorrem as minhas costas.@
+br
+`"Ah[line=4]ai………………!"@
+br
+` As suas unhas se encontram com a cicatriz que ela mesma me deixou.@
+`"…… É lindo.@ O corte que fiz em você ainda está aqui."@
+` Aquela noite.@
+` São as marcas que ela me deixou enquanto me segurava forte e chorava.
+\
+`"[line=3]Eu vou te perguntar outra vez, Nii-san.@ Eu sou a pessoa mais importante para você, não sou?"@
+` A sua voz sussurra no meu ouvido.@
+` Os meus sentidos estão prestes a desaparecer por completo.@
+` Eu posso morrer[line=3]caso não responda.
+\
+`"Responda.@ Não vou ser gentil e paciente para sempre, sabia?"@
+br
+` ………… Só pode ser piada.@
+` Usar os seus poderes desse jeito em mim[line=10]eu não vou desistir……!@
+br
+`"[line=4]Poxa.@ Você é cabeça-dura mesmo, Nii-san."@
+` Ela tira as mãos de mim.@
+`"Muito bem.@ Vou deixar que pense sobre isso com calma até amanhã."
+\
+playstop
+bg "bg/bg_36c",tshutter,800
+` A Akiha se afasta de mim e pega algo que parece ser um telefone.@
+`"Kohaku, venha até o meu quarto.@ Preciso que carregue algo para mim."@
+` A sua voz parece feliz.@
+`"[line=10]"@
+` …… Não consigo pensar.@
+` Só posso entender que a Kohaku-san[line=3]estará[line=3]aqui[line=3]logo.
+\
+wavestop
+!w5000
+wave se_04
+ld c,"tachi/koha_t03b",lshutter,800
+` A porta se abre, e a Kohaku-san entra.
+\
+waveloop se_02
+ld c,"tachi/koha_t10",crossfade,400
+`"Shiki[line=4]san?"@
+` Acho que ela acaba de perceber que estou no chão.@
+` Ela corre até mim.
+\
+cl c,lshutter,400
+`"Shiki-san……!?@ Aguenta firme, Shiki-san……!"@
+` …… A minha mente deve estar uma bagunça só.@
+` Kohaku-san.@ Ela parece[line=3]muito tensa.@ Eu não acredito.
+\
+ld l,"tachi/koha_t13",lshutter,400
+`"Akiha-sama, o que você fez?"@
+ld r,"tachi/aki_t01b",lshutter,400
+`"Nada.@ Só mostrei ao Nii-san quem manda.@ Parece que ele não entenderia até que eu ensinasse ao corpo dele."@
+ld l,"tachi/koha_t17",crossfade,400
+ld r,"tachi/aki_t04b",crossfade,400
+`"Mas não posso deixá-lo aqui a noite toda.@ Pode levá-lo até o quarto dele?@ Ele vai ficar nesse estado ao menos até amanhã à noite."@
+cl a,lshutter,400
+` A Akiha se vira.@ …… A aura feroz ondula atrás dela como uma miragem.
+\
+ld c,"tachi/koha_t13",crossfade,400
+`"………… Shiki-san, você consegue se levantar?"@
+` ……… Consigo.@ É o que eu queria dizer, mas nem disso sou capaz.@
+cl c,crossfade,800
+` A Kohaku-san me apoia em seu ombro.
+\
+` …… Eu mal consigo me sentir vivo, muito menos caminhar.@
+` O cabo de energia que permitia ao ser humano Tohno Shiki se mover parece ter sido cortado.@
+` Olhando com a minha visão turva e partida, parece que[line=3]fui para o corredor[line=4]
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40c",crossfade,800
+` [line=4]A noite cai.@
+br
+` O Tohno Shiki está deitado na cama.
+\
+` A minha respiração ofegante abafa o tique-taque do relógio.@
+` Parece que cada junta do meu corpo está explodindo como fogos de artifício.@
+` A minha consciência está despedaçada.@ Eu provavelmente me alterno entre acordar e dormir entre os segundos.@
+br
+` [line=3]E por causa disso.@
+` Não sei quanto tempo se passou.@
+` Parece que faz uma semana desde que voltei para o meu quarto.@
+` …… O ponteiro apontando para o número oito me diz que é só uma ilusão.
+\
+`"[line=15]"@
+` A minha respiração[line=3]quase[line=3]para.@
+` Nem quando tive uma febre altíssima fiquei desse jeito.@
+` O meu corpo não se move.@
+` Mas o meu coração está acelerado.
+\
+` Tum, dum.@ Tum, dum.@ Tum, dum.@ Tum, dum.@
+br
+` …… A Akiha fez isso de propósito, não consigo nem mexer um dedo.@
+` Os meus braços e pernas parecem estar crucificados na cama com agulhas de ferro.@
+` Mesmo que fosse o caso, se eu quisesse, eu deveria conseguir movê-los um pouco.
+\
+` Tum, dum.@ Tum, dum.@ Tum, dum.@ Tum, dum.@
+br
+` O meu coração bate muito forte para tentar superar a maldição da Akiha.@
+` A sensação de que os meus membros estão presos à cama,
+` e agora a sensação de que o meu coração vai explodir e sair de dentro desse corpo preso à cama.
+\
+` Tum, dum.@ Tum, dum.@ Tum, dum.@ Tum, dum.@
+br
+` O que é tão excitante?@
+br
+` [line=3]Os cabelos vermelhos da Akiha.@
+br
+` Só de pensar neles faz os meus membros imóveis se contraírem de algum jeito.@
+` Provavelmente o meu corpo se moveria para cumprir um único propósito agora.
+\
+` Tum, dum.@ Tum, dum.@ Tum, dum.@ Tum, dum.@
+br
+` …… O que tenho em mente no momento?@
+` A lembrança do semblante da Akiha cheia de um prazer terrível?@
+` Aquilo foi muito estranho mesmo.@
+` É uma característica dela, de fato, mas não daquele jeito exagerado.@
+` É como se estivesse sendo controlada por algo que ela mesma não percebesse.
+\
+` Tum, dum.@ Tum, dum.@ Tum, dum.@ Tum, dum.@
+br
+` Será que ela absorveu a loucura do SHIKI?@
+` Precisa ter um motivo para a insanidade dele, quem sabe a Akiha não tenha consumido isso sem saber.@
+` Se for o caso…
+` É igual ao Tohno Makihisa, só que[line=4]
+\
+` Mate.@ Mate.@ Mate.@ Mate.@
+br
+`"Para[line=3]com isso[line=5]"@
+` Tento controlar o meu coração acelerado.@
+` Poxa, com o que estou ficando tão excitado?@
+` Se eu continuar nesse ciclo, não vou acabar me sentindo mesmo desse jeito?
+\
+` Mate.@ Mate.@ Mate.@ Mate.@
+br
+`"Ha[line=5]agh, ha, hagh[line=6]"@
+` A minha garganta dói.@
+` O meu corpo range.@
+` Você não entende?@
+` Não posso me opor a ela com esse corpo.@
+` Se quiser matar,
+` se quiser matar aquela criatura, cale-se por um instante.@
+` Se fizer isso, eu com certeza destruirei aquele demônio sem você precisar mandar[line=3]
+\
+`"Não…………!@ Até parece que eu…………!!!"@
+br
+` Tum, dum.@ Tum, dum.@ Tum, dum.@ Tum, dum.@
+br
+` A pulsação enlouquecida continua.@
+` Fraco, eu alterno entre o vazio do nada e a consciência, o sonho e a realidade.@
+br
+` [line=3]Não vou durar até amanhã.@
+` Se isso continuar, ficarei louco primeiro[line=3]
+\
+bg #000000,tshutter,800
+!w4000
+wavestop
+!w6000
+` O suor some do meu corpo ensopado.@
+br
+` A minha carne ardente começa a esfriar.@
+br
+` Sinto uma toalha molhada na minha testa.@
+br
+` O meu corpo é levantado, e um copo é colocado entre os meus lábios.@
+` Gulp.@
+` A sensação da água fria entra pela minha garganta.@
+br
+` [line=6].@
+br
+` Sinto alguém por perto.
+\

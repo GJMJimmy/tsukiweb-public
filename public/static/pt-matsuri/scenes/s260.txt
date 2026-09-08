@@ -1,0 +1,193 @@
+phase "bg/bg_29b",l,cel,07a,7
+bg #ffffff,crossfade,1500
+br
+` Estou vendo um sonho.@
+` Um sonho vago, sem nenhum significado especial.@
+br
+bg "event/ark_e01",crossfade,400
+bg #ffffff,crossfade,400
+` Eu gosto dela?@
+br
+bg "event/ark_e02",crossfade,400
+bg #ffffff,crossfade,400
+` Não sei quais são meus sentimentos verdadeiros, mas não posso negar a realidade de que sempre estou preocupado com ela.
+\
+bg "event/cel_e02a",crossfade,400
+bg #ffffff,crossfade,400
+br
+` Eu gosto dela?@
+br
+bg "event/cel_e03a",crossfade,400
+bg #ffffff,crossfade,400
+` …… Não sei.@ É que ela me ajudou quando eu estava completamente perdido.@
+br
+` Se ela não estivesse lá,
+` Eu poderia ter morrido debaixo daquela chuva.
+\
+bg "event/cel_e04",crossfade,400
+bg #ffffff,crossfade,400
+br
+` [line=4]Eu não sei.@
+` É por isso que tenho que perguntar.@
+` Por que ela está fazendo isso?@
+` Por que seus olhos estavam desprovidos de qualquer tipo de emoção[line=4]?
+\
+`"[line=3]Shiki-sama."@
+` …… Ouço a voz da Hisui se misturando com a claridade da manhã.@
+`"[line=3]Shiki-sama, está na hora.@ Acorde, por favor."@
+` Sua voz enfática me desperta.
+\
+bg "bg/bg_40e",crossfade,1500
+ld c,"tachi/his_t01",crossfade,800
+`"[line=6]"@
+br
+` Assim que acordo, coisas terríveis tomam minha visão.@
+` Sinto uma dor de cabeça absurdamente forte.@
+`"Ah[line=4]"@
+` Quase perdi minha recém despertada consciência.@
+` Antes de desmaiar, pego meus óculos rapidamente.
+\
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama……?@ Não está se sentindo bem?"@
+`"…… É só minha anemia."@
+` Balançando levemente a cabeça, limpo minha mente da visão anterior.@
+`"Bom dia, Hisui.@ Obrigado por vir me acordar como sempre."@
+` Sentando na cama, me esforço para sorrir naturalmente.
+\
+`"Esse é meu dever.@ Não há necessidade de me agradecer, Shiki-sama."@
+`"Eu sei, mas sou grato.@ Você é infinitamente melhor que um despertador."@
+br
+` Levanto da cama.@
+` Não são nem sete horas da manhã[line=3]acordei dez minutos mais cedo do que o normal.@
+br
+`"…… Humm, o café da manhã, né?@ Já vou, pode ir na frente."
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Shiki-sama, quanto a isso, hum[line=3]A Akiha-sama está te esperando na sala de estar.@ Parece que ela deseja lhe fazer algumas perguntas."@
+` A Hisui diz essas palavras com um pouco de dificuldade.@
+`"…… Fazer algumas perguntas?@ …… Ela está de mau humor……?"@
+`"…… Sim.@ Parece que ela percebeu que você saiu ontem à noite."@
+`"…… Ah."@
+` Que tristeza.@
+` Ontem à noite, eu saí para procurar a Arcueid e voltei de madrugada.
+\
+`"…… Humm-ahhh…… Pensei que ninguém tinha percebido."@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim, também pensei que tinha sido a única que havia percebido."@
+` A Hisui responde solenemente.@
+`"……?@ Hisui, você percebeu que eu saí……?"@
+ld c,"tachi/his_t05",crossfade,400
+`"Ah……"@
+` Ela está cabisbaixa.
+\
+`"Entendi, então você sabia.@ Por isso a porta da frente da mansão estava aberta."@
+`"……………… Sim."@
+` Ela responde, relutante.@
+`"Obrigado, foi de grande ajuda.@ E obrigado por ir contra suas ordens e fazer isso."@
+`"Mas a Nee-san descobriu por causa disso.@ Nós duas temos turnos de duas horas patrulhando a mansão.@
+` E ela descobriu que destranquei a porta de entrada[line=3]"
+\
+` …… Entendi tudo agora.@
+` A Kohaku-san é a criada da Akiha, ela deve ter contado sobre ontem à noite.@
+`"Hisui, não precisa se desculpar.@ A culpa é minha por sair de casa à noite e ficar fora até tarde, eu que devo assumir a responsabilidade.@
+` E ainda estou muito feliz por você ter deixado a porta destrancada."@
+ld c,"tachi/his_t04",crossfade,400
+`"[line=5]"@
+` Ela apenas me olha.
+\
+`"…… Hum?"@
+ld c,"tachi/his_t05",crossfade,400
+`"…… Não é nada.@ Assim que se trocar, por favor, vá para a sala de estar."@
+cl a,lshutter,400
+` Ainda parecendo que quer dizer alguma coisa, ela sai para o corredor.@
+`"…… Droga, vou ser repreendido pela Akiha novamente."@
+` Resmungo para mim mesmo enquanto me troco.@
+` Se tenho tempo para isso[line=3]tem algo mais importante que preciso fazer.
+\
+playstop
+bg #000000,crossfade,400
+bg "event/cel_e04",crossfade,800
+bg "bg/bg_40a",crossfade,400
+`"…… Isso mesmo, tenho que conversar com a Senpai[line=3]"@
+br
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+`"[line=5]"@
+` A dor de cabeça recomeça.@
+` Ela tinha parado quando estava conversando com a Hisui, mas assim que ela saiu, começou a doer de novo.@
+br
+`"Gh…… merda[line=2]não parece que[line=3]que vai parar[line=3]tão cedo……"@
+` Resisto a dor e caio na cama.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+` …… Ela não enfraquece.@
+` Tum, tum.@ A dor que estou sentindo[line=2]é como se minha cabeça estivesse sendo esfaqueada.@
+br
+` …… Ela me fez esquecer completamente o que estava pensando há pouco.@
+br
+` Pensando bem, nesses oito anos desde o acidente, sempre tive que lidar com esse meu corpo doente.@
+` Tonturas, dores de cabeça, e uma anemia acontecendo subitamente.@
+` Nem consigo contar a quantidade de coisas das quais tive que desistir por causa disso.
+\
+` O médico disse que foi um milagre eu ter sobrevivido.@
+` Se apenas ser capaz de viver já é um milagre, então talvez seja necessário ter que conviver com algumas dores.@
+` …… Esse olhos defeituosos.@ A Sensei, que foi capaz de suavizar o efeito deles, me disse para dar muita importância a esse milagre.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+` …… Aquelas palavras.@
+` Será que ela quis dizer que a vida humana não é muito preciosa, já que não é retornável, e por isso eu deveria tratá-la com cuidado?@
+br
+` Nestes últimos dias vi a morte de muitas pessoas.@
+` Com tanta facilidade.@ Vidas terminando com tanta facilidade, que chega a ser quase engraçado.@
+` Se é algo que acaba com tanta facilidade, não quer dizer que vale pouco desde o início?@
+` Se esse é o caso, não tem sentido ver a vida como algo precioso.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+br
+` ………… H[line=2]ã?@
+br
+` Por que é que,          desde quando,
+wave se_01
+!w1000
+wave se_01
+` estou pensando,         você começou a pensar,
+wave se_01
+!w1000
+wave se_01
+br
+`    dessa forma?
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_40a",crossfade,800
+` …… *suspiro*@
+` A dor de cabeça finalmente para.@
+`"…… Talvez eu tenha visto sangue de mais.@ Que pensamento horrível."@
+` Respiro fundo.@
+` Encho meus pulmões com ar fresco e limpo a mente dessas coisas desagradáveis.@
+`"[line=3]Preciso ir logo para a escola."@
+` Tenho que ver a Ciel-Senpai.@
+` Resistindo a dor leve que persiste em minha cabeça, saio do quarto.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_33a",lcartain,800
+` Desço as escadas e chego ao saguão.@
+` Ao meu lado está o corredor que leva até a sala de estar.@
+` Na minha frente está a porta principal que leva para fora da mansão.@
+`"………………"@
+` O que devo fazer?@
+` A Akiha está me esperando na sala de estar, mas quero ver a Senpai logo.
+\

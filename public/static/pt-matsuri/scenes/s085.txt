@@ -1,0 +1,73 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_19d",notrans,0
+` [line=3]Enquanto a Arcueid estiver incapaz de se mexer direito, ir lá fora será perigoso.@
+br
+`"…………"@
+` Seguro a faca com força e prendo a respiração.@
+` A Arcueid também fica em silêncio.@ Parece que está sendo cuidadosa com o que está ao seu redor.
+\
+` O andar de baixo está barulhento.@
+` Talvez o choque tenha acordado os hóspedes e eles estejam reclamando com o pessoal do hotel.@
+` Ainda são quatro horas da manhã, mas o barulho está tão alto quanto o de um festival.@
+br
+` [line=3]Mas tudo fica em silêncio alguns minutos depois.
+\
+wave se_01
+` O barulho acaba completamente.@
+` Um silêncio perturbador.@
+bg #000000,notrans,0
+playstop
+`"[line=6]!"@
+` As luzes se apagam.@
+` Na mesma hora,
+wave se_05
+wave se_05
+wave se_05
+wave se_05
+` inúmeras coisas batem na porta.
+\
+`"Está preparado, Shiki?"@
+` Ela sussurra no escuro.
+\
+`"…… Preparado para quê?"@
+` Nem precisava perguntar.
+\
+wave se_05
+!w1200
+!w1200
+wave se_05
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1000
+wave se_10
+br
+` [line=3]Se permanecer aqui dentro foi um erro…
+` Essa pergunta também foi um erro.@
+` Olho para a porta ao ouvi-la se quebrando.@
+`"[line=8]"@
+` Não sai nenhum som da minha boca.@
+` Quando percebo, dentes brancos e brilhantes preenchem minha visão.
+\
+bg #ffffff,crossfade,400
+` É uma boca gigante, capaz de me engolir inteiro.@
+` De alguma forma, consigo perceber que são as mandíbulas de um tubarão.
+\
+bg "bg/ima_12",lshutter,400
+` O sangue fresco espirra para todos os lados.@
+` Com um baque, o que resta do meu corpo cai no chão.@
+` O que cai é a minha cabeça.@
+` Tudo abaixo do meu rosto foi engolido em uma mordida.@
+br
+` Essa    foi a última cena     que vi.
+\
+bg #000000,crossfade,800
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

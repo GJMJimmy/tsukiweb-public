@@ -1,0 +1,59 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Ciertamente, si fuese a ver a Ciel-senpai con este dolor de cabeza, sólo sería una molestia.@
+br
+`"…… Es, cierto…… no he tenido oportunidad de descansar desde anoche.@ Supongo que me agoté un poco."@
+ld l,"tachi/koha_t03",crossfade,400
+`"Entonces por favor descanse.@ Shiki-san, ¿puede caminar por su cuenta?"@
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+`"Ah[line=3]no."@
+` Parece imposible en este momento.
+\
+ld l,"tachi/koha_t02",crossfade,400
+`"Es cierto, oh, ¡Hisui-chan!@ Lleva a Shiki-san a su habitación."@
+ld r,"tachi/his_t07",crossfade,400
+`"Eh[line=3]Nee-san, pero[line=3]"@
+ld l,"tachi/koha_t04",crossfade,400
+`"¡Hisui-chan!@ Shiki-san está enfermo, ¿vas a abandonarlo de esa manera?"@
+`"Ah[line=4]"@
+`"Lo permitiré por el día de hoy, así que llévalo a su habitación."
+\
+ld r,"tachi/his_t21",crossfade,400
+`"…… Sí.@ Perdón por decir cosas tan egoístas."@
+ld l,"tachi/koha_t01a",crossfade,400
+`"Siempre que comprendas, está bien.@ ¿Encontraste la medicina?"@
+ld r,"tachi/his_t23",crossfade,400
+`"…… Um, tienes demasiadas medicinas, ¿ésta es la medicina para la fiebre?"
+\
+ld l,"tachi/koha_t05",crossfade,400
+`"Ajaja, ésa es para otra cosa.@ Shiki-san aún está consciente, así que no necesitamos usar medicina para estabilizarlo."@
+ld l,"tachi/koha_t02",crossfade,400
+`"Parece que su fiebre se debe al cansancio, así que haré algo de medicina.@ Hisui-chan, por favor encárgate del resto."@
+cl l,lshutter,800
+` Kohaku-san desaparece velozmente hacia el ala oeste[line=3]donde está su habitación.
+\
+ld r,"tachi/his_t20",crossfade,400
+`"Shiki-sama, lo llevaré a su habitación."@
+` Con un "perdóneme", ella me ofrece su hombro.@
+cl r,crossfade,400
+br
+` Gracias a la ayuda de Hisui, logro subir las escaleras.@
+` En el camino, incluso más que mi terrible y palpitante dolor de cabeza, el rostro increíblemente avergonzado de Hisui se graba en mi memoria.
+\
+bg #000000,crossfade,800
+!w2000
+play "*1"
+bg "bg/bg_40c",crossfade,800
+br
+` [line=3]Al final,
+` me acuesto en la cama, bebo la medicina que hizo Kohaku-san y le confío a ella mi mensaje para Ciel-senpai que está esperando en el cine.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"………… Gah."@
+` Mi dolor de cabeza no se detiene.@
+` A cambio de eso, mi cuerpo sí parece enfriarse.
+\

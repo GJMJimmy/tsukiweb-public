@@ -1,0 +1,68 @@
+monocro off
+wavestop
+bg "bg/bg_02a",notrans,0
+play "*4"
+br
+` [line=3]I jump back instantly.@
+br
+bg #000000,lshutter,400
+` With just lightly jumping back,
+` I increase the distance between us to many meters.
+\
+`"Eh[line=5]?"@
+` The one who's surprised is me.@
+` Weapon still at the ready, Senpai pursues me emotionlessly.@ "[line=4]!"@
+` I run towards the school's front gate.@
+` My body is almost frighteningly light.@
+` I run as if slicing through the wind.@
+br
+` Even if Senpai's athletic abilities far exceed those of a human's, she can't chase me if I'm like this[line=4]
+\
+bg "bg/bg_03c",lshutter,800
+wave se_06
+monocro #0000ff
+bg "bg/bg_03c",crossfade,400
+monocro off
+bg "bg/bg_03c",crossfade,400
+` [line=4]And then.@
+br
+` My body stops suddenly.@
+` No matter how much I try to move forward, my legs won't budge.
+\
+`"[line=5]Wha[line=2]"@
+` When I turn around, there is a sword pierced right there.@
+` A thin, nail-like sword is pierced into the ground at my feet.@
+` The sword is piercing my shadow, which seems to be the reason why I can't raise my legs from the ground.
+\
+`"Why…… you……!"@
+` I gather up all the strength in my legs.@
+` But no matter how hard I try, they don't even move one millimeter.@
+br
+` [line=3]And there.@
+br
+ld c,"tachi/cel_t06c",lshutter,800
+`"How careless.@ Even if you were to run away, I bet there was a better way to do so."@
+` The member of the Burial Agency nicknamed "Bow" appears.
+\
+`"Sen[line=3]pai."@
+`"I can't allow you to leave as your body has transformed into a vampire already.@ Here[line=3]I will exorcise that soul."@
+cl c,crossfade,800
+br
+` The sound of her footsteps.@
+` Like the sound of a condemned criminal walking up the thirteen steps of the gallows.
+\
+bg #000000,crossfade,800
+`"[line=3]Farewell.@ At least, with this[line=3]"@
+` She speaks in a small voice, almost inaudible.@ She plants the point of the weapon against my heart and pulls the trigger.@
+br
+` A brief explosion.
+\
+`"G[line=3]hu."@
+` I cough up blood.@
+` After a flash of light that seems to blow apart my brain,
+` inside my disappearing self, I see my soul, being scattered away, like the pages, of an old book.
+\
+playstop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

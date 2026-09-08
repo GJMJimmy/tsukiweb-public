@@ -1,0 +1,84 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Me quedaré en el salón de clases.@
+br
+` Senpai no estará ahí sin importar adonde vaya.@ Sin importar lo que haga, ella no regresará[line=3]
+\
+bg #000000,lshutter,1500
+bg "bg/bg_06b",lshutter,1500
+` La tutoría de fin de clases ha terminado.@
+` Mis conversadores compañeros abandonan sus asientos.@
+` Después de observarlos inexpresivamente, dejo mi asiento para regresar a la mansión.
+\
+` [line=3]De vuelta a la mansión.@
+` Pero no es que habrá algo allá si regreso.@
+br
+bg #000000,crossfade,400
+monocro #ffff00
+bg "event/cel_e05a",crossfade,400
+monocro off
+bg "bg/bg_06b",crossfade,400
+`"…………"@
+` Sé que no puedo alcanzarla, pero no puedo darme por vencido.@
+`"Maldición[line=3]¿qué demonios debería hacer……!"@
+br
+` Expresando mis pensamientos vigorosamente, dejo el salón.
+\
+bg "bg/bg_11b",lcartain,800
+` …… Levanto la mirada y me encuentro frente a la habitación de la ceremonia del té.@
+` Sé que ella no va a estar aquí, pero mis piernas caminan por sí solas.
+\
+bg "bg/bg_09b",lcartain,800
+`"[line=7]Ha."@
+` Por supuesto, no hay nadie aquí.@
+` No estaba esperando nada, pero cuando soy golpeado con tanta fuerza, mi visión parece oscilar.@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_09b",crossfade,400
+` El mundo comienza a girar a mi alrededor.
+\
+play "*4"
+bg #ffffff,notrans,0
+br
+br
+br
+br
+br
+br
+br
+`     Instantáneamente, sucede.
+\
+bg "bg/bg_09b",notrans,0
+quakey 1,100
+` El suelo se sacude.@
+` Pienso que es un gran terremoto[line=3]pero me doy cuenta de que no sentí el movimiento del suelo, sino el impacto de mi cuerpo al golpear el piso.
+\
+`"¿Ah[line=4]eh?"@
+` No puedo hablar bien.@
+br
+` Jadeos.@
+` Las jadeantes respiraciones sólo pueden ser mías.@
+` Pero no me siento mal.@
+` Es más bien como si no sintiese nada, como si no pudiese sentir en absoluto.
+\
+` El sonido de unas respiraciones frenéticas.@
+br
+` Aunque no estoy agotado, mi garganta jadea por aire dolorosamente.@
+` No siento nada.@
+` Siento que el cuerpo aquí desplomado no es mío.
+\
+` El sonido de jadeos.@
+br
+` Algo es[line=3]raro.@
+` Mientras respiro salvajemente en el piso, sangre se esparce sobre las alfombrillas tatami[line=4]
+\
+monocro #ff0000
+quakey 1,100
+`"[line=4]Gah."@
+br
+` De repente,
+` un dolor punzante llena mi pecho.
+\
+monocro off

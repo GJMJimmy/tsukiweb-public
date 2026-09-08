@@ -1,0 +1,173 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32c",crossfade,800
+` Está tudo muito tranquilo perto do portão da mansão.@
+` São sete horas da noite.@
+` A Akiha já deve estar de volta e provavelmente está tomando chá na sala de estar.
+\
+bg #000000,lshutter,800
+bg "bg/bg_48c",lshutter,800
+` ……?@
+` Não tenho certeza do que está acontecendo, mas ouço vozes vindo da sala de estar.@ Já está quase na hora do jantar, por isso é estranho que elas estejam simplesmente conversando nesse horário.@
+` A Kohaku-san deve estar na cozinha e acredito que uma conversa entre a Hisui e a Akiha seria impossível.@
+br
+`"…… Talvez a Kohaku-san e a Akiha estejam tomando chá." Bem, acho que é o mais provável.@
+` Vamos conferir isso agora.@ Abro a porta da frente da mansão.
+\
+bg "bg/bg_33c",lcartain,800
+ld c,"tachi/his_t01",notrans,0
+` A Hisui está de pé no saguão.@
+`"Estou um pouco atrasado, mas estou de volta."@
+`"………………"@
+` Ela me cumprimenta silenciosamente, desprovida de qualquer expressão.@
+` Ela não responde "Bem-vindo de volta" como de costume, e parece estar de mau humor.
+\
+`"Aconteceu algo?@ Devo estar imaginando coisas, mas você parece um pouco irritada."@
+ld c,"tachi/his_t08",crossfade,400
+`"…… Há uma visita para você, Shiki-sama.@ Ela está esperando na sala de estar, por favor, dirija-se até lá."@
+`"Uma visita para mim?"@
+` Ela faz um gesto afirmativo com a cabeça.
+\
+`"Quem poderia ser?@ Não consigo pensar em ninguém que viria me visitar[line=4]"@
+br
+` Ah, espera.@
+` Estou com um pressentimento terrível!@
+br
+`"Hisui.@ Que tipo de pessoa é……?"@
+`"Uma mulher bonita de cabelos dourados."@
+` A resposta da Hisui é simples e direta.@
+` Vou correndo para a sala de estar.
+\
+bg #000000,lcartain,400
+bg "bg/bg_34b",lcartain,400
+play "*3"
+` [line=4]Tarde demais.@
+` Parece que o estado atual das coisas já chegou em um nível do qual não posso escapar.
+\
+bg "event/ark_e08",tshutter,800
+`"[line=4]Bem-vindo de volta, Nii-san."@
+`"Ah, finalmente você chegou."@
+` As duas me cumprimentam de maneiras completamente opostas.@
+`"………………"@
+` O que está acontecendo?@
+` A Arcueid e a Akiha parecem estar se confrontando.
+\
+` Ambas estão sentadas calmamente.@
+` Mas, enquanto a calma da Arcueid é natural, a da Akiha vem da sua hostilidade direcionada à Arcueid.@
+` A Akiha me lança um olhar.
+\
+`"Qual o problema, Nii-san?@ Não fique aí de pé.@ Por favor, sente-se aqui conosco."@
+br
+` Sinto que vou ser esfaqueado se for até lá.@
+br
+`"Estou bem de pé.@ Enfim, Akiha, essa pessoa aí é, bem[line=4]"@
+` Humm[line=4]como vou explicar isso?@
+` A Akiha não acreditaria se dissesse que ela é uma colega de classe, e se eu disser que a conheci na cidade, seria como jogar óleo no fogo.
+\
+`"Bem?@ E então?"@
+`"Hum, ela é, hum[line=4]"@
+br
+` Agora que estamos nessa situação, acho que já não importa o que eu diga, mas preciso dar uma boa desculpa para poder escapar daqui.@
+` É isso que tenho que fazer, mas[line=4]por que será que a Arcueid veio até aqui?@
+br
+`"Hum[line=4]ela disse o que veio fazer aqui?"@
+` Aponto para a Arcueid, desesperado, correndo risco de morte.
+\
+`"Hum?"@
+` Ela inclina a cabeça, confusa.@
+`"…… Ela não é uma das suas amigas, Nii-san?@ Foi o que ela me disse."@
+`"Bem[line=3]sim, pode-se dizer que ela é uma amiga."@
+`"Entendo.@ Eu apreciaria muito se ela tivesse sido apresentada a mim.@ Já que ela é sua amiga, Nii-san, não posso expulsá-la da nossa casa."@
+`"Ah[line=3]bem, Akiha-san."@
+` Começo a gaguejar novamente.@
+` E então, a Arcueid, incapaz de ficar quieta durante nossa conversa de irmãos, se junta a ela sem a minha permissão.
+\
+`"Fique tranquila.@ Só vim aqui para buscar o Shiki, nós já vamos indo.@ Não é verdade, Shiki?"@
+` …… Meu mundo começa a desmoronar.@
+br
+` [line=6]Isso é péssimo.@
+` Se ela continuar falando, vou ter uma morte prematura.
+\
+`"Huhu, ahahahaha!"@
+` Rindo desesperadamente, corro até a Arcueid e agarro seu braço.@
+bg "bg/bg_34b",lshutter,800
+ld l,"tachi/ark_t06",crossfade,400
+`"Ei, Shiki, o que você está fazendo?"@
+` Não tenho tempo para ouvir suas queixas.@
+cl l,lshutter,400
+` Puxo ela pelo braço e saio correndo da sala de estar, deixando uma Akiha chocada para trás.
+\
+bg #000000,lcartain,400
+bg "bg/bg_33c",lcartain,400
+ld c,"tachi/his_t01",notrans,0
+` A Hisui está no saguão.@
+` Ela me olha com olhos mais frios do que o normal enquanto saio com a Arcueid.@
+br
+`"Está de saída, Shiki-sama?"@
+`"[line=4]Sim, volto mais tarde.@ Sinto muito pedir isso, mas poderia deixar o portão destrancado?"@
+`"[line=4]Sim, como desejar."@
+` Passo rapidamente pela figura da Hisui se curvando cortesmente, e escapo da mansão.
+\
+bg #000000,lcartain,400
+bg "bg/bg_32c",lcartain,400
+ld c,"tachi/ark_t11",crossfade,400
+`"Ai.@ O que você está pensando, me trazendo aqui para fora com essa pressa?"@
+`"Essa frase é minha……!@ O que você estava pensando!?@ Vir à minha casa desse jeito é loucura!@
+` Você está tentando destruir a minha vida, sua idiota……!"@
+` Ranjo os dentes, encarando a Arcueid.@
+ld c,"tachi/ark_t13",crossfade,400
+`"I[line=3]idiota!?@ Você está me chamando de idiota!?"
+\
+`"Estou chamando uma idiota de idiota, qual o problema nisso, idiota!@ Se quiser discutir, estou escutando!"@
+`"Hã[line=4]ah, hein?"@
+` Estou completamente enfurecido.@
+` Já faz um bom tempo desde que fiquei nervoso desse jeito, e uma vez que fico nervoso, tenho que falar tudo que quero para a pessoa que é o motivo da minha raiva, não importa quem seja.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Ei, eu só vim te visitar.@ Não fiz nada para te deixar com raiva!"@
+`"…… Espera.@ Você está falando sério, Arcueid?@ Você só veio me visitar?"@
+ld c,"tachi/ark_t14",crossfade,400
+`"Eu nem disse nada de estranho.@ Não disse nada sobre os seus olhos para a sua irmã, nem disse nada sobre mim, nem sobre qualquer coisa do tipo."@
+`"É claro que não.@ Se tivesse dito, não estaríamos conversando desse jeito.@ Eu não teria hesitado em te expulsar se tivesse dito alguma coisa."
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"…… Não estou entendendo.@ Então por que é que você está tão nervoso?"@
+`"É porque você nunca pensa!@
+` Olha, você já se destaca apenas por estar aqui.@ Vou ser franco, você deveria perceber que só por estar aqui, me causa problemas……!"@
+` Por enquanto, disse tudo que queria.@
+` Tirar isso de dentro de mim me acalma, mas obviamente a Arcueid não está tão calma quanto eu.@
+` Parecendo um gato bravo, ela me olha irritadíssima.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"[line=4]Por que está dizendo essas coisas… O que quer dizer com 'eu me destaco'?@ Não pareço com qualquer outro ser humano?"@
+`"Não, mulheres bonitas sempre se destacam.@ Não tem nada a ver com ser humano ou vampiro."@
+` Respondo sem fazer rodeios.@
+cl c,crossfade,400
+br
+` Respondo tão claramente que ela entende perfeitamente o que eu quis dizer.
+\
+`"[line=3]Olha, eu falei demais.@ Foi a primeira vez que isso aconteceu comigo, por isso meio que entrei em pânico."@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Tudo bem.@ Parece que a culpa foi minha."@
+` A Arcueid se curva humildemente.@
+` Eu me sinto um pouco culpado, pois acho que tem mais alguma coisa acontecendo.@
+` …… Para começo de conversa, por que ela veio até a minha casa……?
+\
+`"Enfim, por que você veio aqui?@ …… Na verdade, eu também queria conversar com você, então acho que é uma boa oportunidade."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Sério?@ Eu só estava… imaginando como você estava, por isso vim te ver."@
+`"…… Entendo.@ Da próxima vez, faça isso em um lugar diferente.@ E o mais escondido possível também."@
+` …… Estou esgotado.
+\
+`"[line=4]Enfim, quero ter uma conversa muito séria com você.@ Mas quero conversar em outro lugar, fico desconfortável aqui, tudo bem para você?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Tudo[line=4]mas conversar sobre o quê?"@
+`"Você já vai descobrir.@ …… Vamos lá para o parque, não vai haver muita gente por perto."@
+` Dizendo a ela para me acompanhar, eu começo a andar.@
+cl c,lshutter,800
+` Inclinando a cabeça e morrendo de curiosidade, ela vem atrás de mim sem dizer mais nada.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

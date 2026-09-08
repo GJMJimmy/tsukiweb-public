@@ -1,0 +1,25 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25a",lcartain,800
+ld c,"tachi/ark_t03",crossfade,400
+`"…… Hmmm?"@
+` As we walk out of the back alley, she[line=2]Arcueid[line=2]knits her eyebrows and gives me a suspicious look.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Hey, Shiki.@ Are you a Christian, by any chance?"@
+br
+` …… I have no idea what she's talking about.@
+`"Chris-chan…?@ What's with that question, all of a sudden?@ I don't know any girl who's got a name like that."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"I see.@ Then I must have misunderstood."@
+` After seeming to have made a decision, she turns towards the office district.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Okay, let's go.@ We've got to find a safe place for now."@
+` Arcueid begins walking.@
+` "[line=4]Okay."@
+br
+` There's no way I can back out now.@
+` Sighing, I follow after her.
+\
+bg #000000,lcartain,800

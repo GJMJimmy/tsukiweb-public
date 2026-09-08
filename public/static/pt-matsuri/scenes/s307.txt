@@ -1,0 +1,649 @@
+phase "bg/ima_02",l,cel,12a,12
+bg "bg/bg_18a",crossfade,400
+` O quarto parece completamente vazio sem a Ciel aqui.@
+` Já passam das sete horas da manhã.@
+` Ainda estou cansado por causa de tudo que aconteceu ontem à noite.
+\
+` Segunda-feira.@
+` Normalmente, já seria hora de ir para a escola, mas a Ciel me proibiu de sair deste quarto.@
+` É melhor não sair até que ela volte.@
+` …… Vou ter que dizer para a Akiha que não vou voltar por um tempo.@
+` …… E tem a Kohaku-san também.@ Não posso ser perdoado, mas o fato é que tenho que pedir desculpas a ela.@
+` É doloroso ter que deixar essas duas coisas de lado mas, neste momento, acho que lidar com o Roa deve ser a minha prioridade.@
+br
+`"…………………"@
+` Puxo os lençóis e cubro a minha cabeça.@
+` Resistindo ao aperto que sinto no peito, caio no sono novamente.
+\
+bg #000000,crossfade,800
+!w3000
+bg "bg/cmo_15",crossfade,800
+play "*4"
+br
+br
+br
+br
+br
+br
+` [line=4]O seu objetivo mudou?@
+!w750
+\
+` Não, o objetivo em si não mudou.@
+` Eu busco a eternidade.@
+` Tentei buscar a eternidade sem motivo algum.@
+br
+` Foi[line=2]uma vontade[line=2]pura e imaculada.
+\
+` Eu.@
+` Eu mudei.@
+` Meu objetivo.@ O objetivo de alcançar a eternidade, de um fim, denegriu-se para um meio.
+\
+` Como isso é feio.@
+` Eu entendo bem a situação, mas mesmo assim não posso mudar o meu coração.@
+` Aquela mulher.@
+` Por causa daquela mulher.@
+br
+` Por causa daquela mulher[line=4]eu me tornei impuro.
+\
+` Mas o que devo fazer?@
+` A espécie humana não tem o poder para viver por mil anos.@
+` Seja mental ou fisicamente, um recipiente humano não pode resistir ao desgaste do tempo.@
+` Mesmo que ganhe o corpo imortal de um vampiro, você não pode parar o envelhecimento da mente.
+\
+` Você até pode parar o envelhecimento, mas é apenas uma pausa.@ Não há sentido em uma mente que tenha parado no tempo.@
+` Tenho que existir com a pureza da minha essência preservada.@
+br
+` A menos que eu possa ser assim[line=3]Não vou alcançar aquela mulher.
+\
+` Vou usar o método de reencarnação.@
+` Recomeçando desde o nascimento, sendo eu mesmo e morrendo mais uma vez.@
+` Neste ciclo, posso existir preservando a pureza da minha essência.@
+br
+` O que lamento é ter perdido minha pureza original.@
+` Eu, igual àqueles miseráveis patéticos, desejo continuar existindo como eu mesmo, como sou nesse exato momento.
+\
+` Foi a primeira vez que senti ódio.@
+` Porque tudo foi uma desgraça que nunca teria ocorrido se aquela mulher não existisse.
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_18a",crossfade,800
+`"…… Aquela…… Mulher……?"@
+` Eu me lembro de uma vontade muito forte e acordo.@
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18a",notrans,0
+`"Aquela[line=2]Mulher?"@
+br
+` [line=3]Tum.
+\
+br
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18a",notrans,0
+bg "bg/bg_18e",crossfade,1500
+`"A[line=4]i."@
+br
+` [line=8]Tum.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18a",notrans,0
+`"…… Eu conheço…… Essa[line=2]mulher……?"@
+br
+` [line=14]Tum!
+\
+br
+quakex 4,100
+`"Gah[line=3]!"@
+br
+` [line=3]Que[line=2]dor[line=2]de[line=2]cabeça[line=2]é[line=2]essa?@
+br
+`  Não é[line=4]não é[line=4]normal……!
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18a",notrans,0
+bg "bg/bg_18e",crossfade,1500
+`"Ah…… gh……!"@
+` Seguro minha cabeça com as duas mãos.@
+` Está doendo muito.@ Nunca senti uma dor tão forte antes.@
+` Minha cabeça.@ Parece que tem alguém batendo nela com um martelo.
+\
+quakey 2,100
+`"G[line=3]gah………!"@
+` Par[line=2]par[line=2]e
+` Se[line=4]continuar[line=4]assim[line=4]ela vai explodir.@
+br
+` Minha cabeça[line=4]vai[line=4]partir ao meio[line=6]
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18e",notrans,0
+!w2000
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18e",notrans,0
+quakey 2,100
+`"Gi[line=5]!"@
+` Meu corpo convulsiona.@
+` Está doendo muito.@ Não vai[line=4]parar[line=4]nunca?
+\
+!w2000
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18e",notrans,0
+quakey 3,100
+`"AAAA[line=4]"@
+` Dói tanto que bato a cabeça contra a mesa.@
+br
+` O som de algo quebrando.@
+` A mesa de vidro é despedaçada.@
+` O sangue escorre pela minha testa.@
+` Mas[line=4]não dói nem um pouquinho.@
+` Além disso, essa dor de cabeça que apareceu sem motivo[line=4]é muito mais[line=4]
+\
+!w1000
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18e",notrans,0
+quakey 3,100
+`"[line=7],t"@
+` Insuportável.@
+` Não consigo nem desmaiar.@
+` Por mais quantos segundos?@ Por mais quantos minutos?@ Por mais quantas horas[line=4]vai durar[line=4]essa dor?
+\
+!w1000
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18e",notrans,0
+quakey 2,100
+`"[line=3]Socor[line=4]ro."@
+` Está doendo muito.@
+` Enfio a faca na minha mão para ver se consigo me distrair da dor.@
+` Não fez diferença alguma.@ Nem doeu.
+\
+!w1000
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18e",notrans,0
+quakey 3,100
+`"[line=7]"@
+` Ciel…… A Ciel-senpai ainda não voltou.@ Olho para o relógio e vejo que ainda não é nem meio-dia.@
+` Não faz nem uma hora que acordei.
+\
+!w750
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_18e",notrans,0
+quakey 4,100
+` Ainda faltam mais vinte horas até que seja amanhã de manhã.@ Esse fato quase me faz enlouquecer.
+\
+bg #000000,crossfade,800
+waveloop se_02
+!w5000
+monocro #0000ff
+bg "bg/bg_18e",crossfade,1500
+`"[line=9]"@
+` Tum, tum, tum.@
+` Não sei nem quanto tempo tenho aguentado essa dor.@ Passei do meu limite há muito tempo.@
+` Com toda essa dor, vou morrer bem antes da Ciel voltar.@
+br
+`"[line=7]Gah."@
+` Se eu ficar nesse quarto a dor de cabeça vai continuar.@
+` Lá fora.@
+` Tenho que ir lá para fora ou vou enlouquecer.
+\
+`"Não[line=5]posso."@
+` A Ciel falou para eu não sair desse quarto.@
+` Mas[line=3]se eu continuar aqui, vou morrer antes do Roa tomar o controle.
+\
+`"Estou dizendo[line=4]que não posso."@
+` Minhas pernas vão em direção à porta.@
+br
+` Sem um motivo real.@
+br
+` Quero simplesmente observar o luar dourado.
+\
+bg #000000,lcartain,1500
+monocro off
+playstop
+bg "bg/bg_24d",lcartain,1500
+br
+` [line=3]As linhas não vão desaparecer.@
+` A distorção na minha visão piora.@
+` A noite na cidade está envolta por uma névoa branca, como se fosse uma cidade que morreu há milhares de anos.
+\
+br
+` Não há sinal de qualquer outra pessoa.@
+` Casulos parecendo feitos de teia de aranha estão por todos os lugares, em cada um dos prédios.@
+` Está terrivelmente quieto.@
+` Como se fosse uma cidade morta no fundo de um oceano vasto.
+\
+br
+` Continuo andando dentro desta ilusão.@
+` Lá no céu, a enorme lua dourada brilha radiante.@
+` É a misericordia da lua?@
+` A dor de cabeça desapareceu e minha mente fica um pouco atordoada.@
+br
+` Sob a lua.@
+` Continuo andando, como se estivesse enfeitiçado.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_27b",lcartain,1500
+` A noite paira sobre o parque.@
+` Em meio à minha visão turva há uma figura nítida.@
+br
+`"[line=6]"@
+` Por algum motivo, parece que o outro "eu" queria isso.
+\
+br
+br
+br
+br
+` O luar está bem intenso.@
+` Sob a luz tão brilhante quanto o sol.
+\
+br
+br
+br
+br
+br
+br
+br
+` Ali, vestida de branco, está a Arcueid.
+\
+play "*9"
+ld c,"tachi/ark_t01a",crossfade,400
+`"Há quanto tempo.@ Não está uma lua maravilhosa esta noite, Shiki?"@
+`"[line=2]Arcueid.@ Você não foi embora?"@
+ld c,"tachi/ark_t05b",crossfade,400
+`"Ainda não cumpri o meu objetivo.@ Não posso ir embora antes de cumpri-lo."@
+br
+` [line=3]Sem esforço.@
+` A Arcueid olha para mim com olhos carmesim.
+\
+`"Ts[line=6]"@
+` Minha respiração para na garganta.@
+` Uma pressão anormal, nada parecido com quando enfrentei a Senpai.@
+` Essa é[line=3]a pressão que sinto por ser confrontado como "inimigo" dela.@
+`"[line=6]"@
+` Não consigo respirar.@
+` Minha garganta está paralisada.@
+` Se eu fizer qualquer movimento estranho[line=3]ela vai rasgá-la no mesmo instante.
+\
+`"Shiki, você é um idiota.@ Isso não teria acontecido se você não tivesse se aliado àquela mulher."@
+` Ela mostra um breve momento de compaixão.@ Em seguida, seus olhos brilham em puro deleite, como uma criança entusiasmada.@
+ld c,"tachi/ark_t05d",crossfade,400
+`"Então, como é, Shiki?@ Como é a sensação de ter o Roa dentro de você?"@
+` A princesa vampira fala com uma hostilidade indescritível.
+\
+bg #000000,crossfade,800
+bg "bg/bg_27b",crossfade,800
+ld c,"tachi/ark_t05c",crossfade,400
+` Sentindo o perigo que causa arrepios nas minhas costas, claramente percebo a situação.@
+br
+` [line=3]Na minha frente está a Arcueid que quer me matar.@
+` A distância entre nós é de cerca de sete metros.@
+` Droga.@ Com uma oponente dessas, você não pode se sentir seguro nem com cem metros de distância, mas ela está a apenas sete metros.
+\
+`"[line=3]Que tipo de bobagem está dizendo?" Confirmo que a faca está no meu bolso e me faço de bobo.@
+`"É inútil tentar me enganar.@ Para começo de conversa, fui eu quem transformou o Roa em um Apóstolo da Morte.@ Para mim, é muito fácil dizer onde está a pessoa que roubou o meu poder."@
+br
+` [line=3]Entendo.@
+` Pensando bem, a Ciel tinha dito isso antes.@
+` Que o Roa se tornou um vampiro porque teve seu sangue sugado pela Arcueid.
+\
+`"Não sei o motivo.@ Houveram dezessete reencarnações antes dessa, mas é a primeira vez que isso acontece."@
+` Parece que ela não pretende se aproximar mais.@
+` Não há necessidade disso.@
+` Estou perfeitamente ao alcance dela.
+\
+` …… Olhos[line=3]carmesim.@
+` Ser encarado por esses olhos… Faz minha dor de cabeça recomeçar.@
+br
+` Tum, tum.@
+br
+` Dentro da minha cabeça.@
+` O vampiro chamado Roa[line=4]está querendo surgir.
+\
+`"Naquela hora, no momento que o corpo em que o Roa reencarnou morreu, ele se transmitiu para dentro de você.@ Não entendo como isso aconteceu."@
+`"[line=7]"@
+` …… Está doendo.@
+` Toda vez que a Arcueid fala o nome dele, as lembranças desse cara se agitam no meu cérebro.
+\
+br
+br
+br
+br
+` Tum.@
+br
+` Tum.@
+br
+` Tu[line=5]m.
+\
+bg #ffffff,crossfade,800
+bg "event/ark_e06a",crossfade,400
+br
+` [line=3]Onde… Foi isso?@
+` Um castelo antigo nas profundezas das montanhas.@
+` A imagem de uma garota solitária.@
+` Apenas isso está marcado a fogo na alma desse homem; que já se tornou apenas uma lembrança.
+\
+br
+` Eu… Não entendo.@
+` Mesmo ela sendo uma Ancestral Original, não lhe disseram o significado de sua própria existência, simplesmente a usaram como uma ferramenta para caçar Ancestrais Originais caídos.
+\
+br
+` Ela não se fere.@
+` A garota é pintada apenas pelo sangue carmesim dos seus inimigos.@
+br
+` Sem conhecer as palavras, a mulher apenas observava a lua, como se fosse uma idiota.@
+` No céu, paira a enorme lua dourada.@
+` Apenas a figura dela era distinta naquele pátio decadente.
+\
+br
+` Ele achou a garota linda.@
+br
+` Pela primeira vez desde que nasceu.@
+` Provavelmente, não, definitivamente, a única vez em sua vida.
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Michael Roa Valdamjong se apaixonou por aquela mulher de branco[line=5]
+\
+bg #000000,crossfade,800
+`"[line=8]"@
+` Essa é a primeira vez que isso acontece.@
+` Não é um impulso, mas sim o coração do Roa de verdade.@
+` A única emoção restante.@
+` A personalidade do Roa morreu faz muito tempo, mas essa emoção continua existindo sem nunca desaparecer, essa lembrança eterna.
+\
+`"…… Entendo."@
+` É por isso que[line=3]ele odeia tanto a Arcueid.
+\
+` A mulher que roubou sua pureza.@
+` Por apenas um instante.@ Ele a viu por apenas um instante, mas seu coração foi roubado.@
+br
+` Aquela maldita Ancestral Original que o fez perder sua pureza.@
+` Aquela existência.@ Ele odiava tudo sobre aquela princesa vampira.
+\
+`"…… Que grande erro."@
+` Foi um grande erro.@
+` O Roa a odiava tanto que reencarnou diversas vezes e sempre esperou a Arcueid vir persegui-lo em cada uma delas.
+\
+` Ele faria qualquer coisa por isso.@
+` Ele enganou a Arcueid; enganou-a quando ela nem sabia que era uma vampira, e deixou que ela sugasse seu sangue.@
+br
+` Tornando-se um Apóstolo da Morte nascido do poder da Arcueid, ele usou esse poder para destruir os Ancestrais Originais restantes e esperou por ela.
+\
+` Por que é que ele não entende?@
+` O ódio que o fez reencarnar e esperar pela Arcueid.@
+` Isso não é ódio.@
+` O homem chamado Roa era tão puro que nem sequer entendia suas próprias emoções.@
+` Pensar em alguém tanto assim, ao ponto de quase enlouquecer.@ Esse sentimento é muito parecido com ódio.
+\
+` Mas apenas uma única palavra.@
+` Se alguém tivesse dito ao Roa que esse sentimento era amor, ele não teria cometido esse erro[line=3]
+\
+bg "bg/bg_27b",crossfade,800
+`"………………"@
+` [line=4]Por apenas um instante.@ Não, por um longo tempo.@
+` Eu vi o sonho do instigador de tudo, o homem que reencarna para permanecer no "presente".
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Você está muito calmo.@ Está na minha frente e nem tenta fugir.@
+` Ou você já desistiu, Shiki?"@
+`"Desistir?@ Do que é que eu vou desistir?@ Não vou perder para o Roa.@
+` Tenho certeza que amanhã[line=3]"@
+` A Ciel vai voltar.@
+` Então até lá,
+` não posso me deixar ser morto pela Arcueid.
+\
+`"[line=3]Hum?@ Estou surpresa que ainda possa blefar.@ Pensei que mais da metade de você já tivesse sido tomada pelo Roa[line=3]entendo, então é assim."@
+br
+` Sua voz parece feliz.@
+` …… Não sei o que a está deixando tão feliz, mas parece que ainda resta alguma humanidade dentro dela.@
+` Então, se eu puder fazer alguma coisa.@
+` Talvez haja uma chance de fugir[line=3]
+\
+`"…… Não sei o que você acha que entendeu, mas eu mesmo vou resolver as coisas com o Roa.@
+` Não vou perder para o Roa.@ Se você diz que quer matar ele, então eu mesmo vou matá-lo por você.@
+` Por isso, você pode apenas[line=3]"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Não vou te dar ouvidos se me disser para ir embora.@ Você pretende receber a ajuda da Igreja, não é?@ Eu me recuso a deixá-los selarem o Roa.@
+` Shiki, eu quero eliminar o Roa para ter o meu poder de volta.@
+` Se eu mesma não fizer isso, não terá sentido."
+\
+`"[line=4]Então, não importa como[line=3]"@
+br
+` Você vai me matar, Arcueid?@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Shiki, o Roa dentro de você está muito fraco.@
+` É provável que ele não consiga tomar a vontade de uma pessoa a menos que tenha nascido no corpo dela.@ Ele deu um jeito de se transmitir para você, mas isso foi tudo que pôde fazer.@ Ele só é capaz de viver como o seu lado negro."@
+`"……… Hein?"@
+br
+` Quer dizer que a vontade do Roa dentro de mim é praticamente nada……?
+\
+`"Arcueid, isso significa[line=2]"@
+`"Sim.@ Não há necessidade de te matar se esse for o caso.@ Não vejo problema em apenas ter o poder que o Roa me roubou trabalhando a meu favor."@
+`"[line=4]?"@
+` Ela está dizendo que não há necessidade de eu ser morto.@
+` Então por que veio atrás de mim?@
+` Por que[line=3]me olha tão séria?
+\
+`"…… Não estou entendendo.@ O que está tentando dizer, Arcueid?"@
+`"Estou falando pra você virar meu servo."@
+`"O qu[line=5]"@
+br
+` [line=3]Ela não parece estar de brincadeira.@
+` Quando a Arcueid e a Senpai estavam brigando, ela disse que era só uma brincadeira.
+\
+`"…… O quê?@ Isso não foi uma piada?"@
+`"Não.@ Eu gosto de você.@ Não é normal querer você do meu lado ao invés de matá-lo?"@
+br
+` [line=4]Tlec.@
+br
+` Depois que ela diz isso, minha cabeça dói mais do que antes.
+\
+` Roa, o cara que está dentro da minha cabeça, se enfurece com suas palavras.@
+` …… Não sei se isso foi por felicidade ou por causa de um ressentimento profundo.
+\
+`"Se estiver disposto a se tornar meu servo, vou fazer o Roa parar de consumir você.@
+` Não acho nem que você tenha que pensar sobre isso, vendo como o Roa vai consumi-lo se continuar assim."@
+`"…… Você fala como se fosse algo tão simples.@ Como pretende parar o Roa dentro de mim?"@
+`"Hum?@ O único que pode parar o Roa é você, Shiki.@
+` Mas esse método significaria a sua morte.@
+` O meu método é simplesmente fortalecer você.@ Enquanto a sua vontade for mais forte que a do Roa, não vai importar o quanto ele se enfureça dentro de você, entendeu?"
+\
+` Alguma coisa explode dentro de mim novamente.@
+` O Roa continua enfurecendo.
+\
+` Não deixe ela te enganar, ele diz.@ Essa mulher quer fazer de você o seu fantoche.
+\
+wavestop
+` [line=5]*suspiro*@
+br
+` Suspiro profundamente.@
+` …… Não vou acreditar nas palavras do Roa.@
+` Mesmo assim, eu as entendo.@ Essa Arcueid de agora está um pouco diferente daquela que conheço.@
+` O que ela diz pode até funcionar.@
+br
+` Mas[line=3]um coração forte o bastante para aguentar essas dores de cabeça seria um coração tão forte, mas tão forte, que seria incapaz de sentir qualquer coisa.
+\
+` Tiro os óculos.@
+` Retiro a faca do bolso.@
+` Coloco a lâmina para fora e seguro a faca na altura dos olhos.
+\
+ld c,"tachi/ark_t05c",crossfade,400
+`"[line=4]Shiki."@
+`"Eu me recuso.@ Sinto muito, mas não vou ser o seu fantoche."@
+` E a Ciel vai voltar para mim.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sei.@ Então, acho que vai ter que ser à força."@
+br
+` Um passo pesado ecoa pelo ar.@
+br
+`"Você me matou uma vez e eu sempre pensei em te dar o troco."@
+cl c,notrans,0
+` Sua figura branca corre em minha direção junto a uma rajada de vento.@
+br
+` [line=4]Nesse instante,
+` a briga começa.
+\
+playstop
+bg #000000,lshutter,400
+bg "bg/ima_14",lshutter,400
+wave se_12
+` Clang!@
+` As garras dela se chocam contra a minha faca.@
+br
+` Mesmo sendo minha inimiga, sua figura continua bela sob o luar.
+\
+wave se_12
+` Clang!@
+` Repelimos um ao outro novamente.@
+` Para ser sincero, nem consigo ver seus movimentos.
+\
+wave se_12
+` Clang!@
+` Repelimo-nos mais uma vez.@
+` A Arcueid não está lutando a sério.@
+` Mesmo assim, deve ser fácil para ela arrancar meus braços e minhas pernas.
+\
+wave se_12
+` Clang.@
+` Repelimos um ao outro novamente.@
+` Meu corpo se mexe sozinho.@
+` Meus braços e pernas.@ Este corpo.@ Apenas com a intenção de não morrer, se defende sozinho das garras da Arcueid.
+\
+`"Tch[line=5]"@
+` Meus lábios se torcem com a ironia.@
+` Não quero admitir, mas parece que meu corpo se tornou algo sobre-humano.@
+` Na calada da noite, parece que o Tohno Shiki se tornou algo parecido com o SHIKI, provavelmente capaz de facilmente pular do terceiro andar de um prédio e ficar bem.
+\
+` Cl[line=3]ang.@
+` Mas é só isso.@
+` Desde o início[line=3]eu já sabia que não poderia vencer a Arcueid.@
+` Pra começo de conversa, não consigo ver nenhuma "linha" no corpo dela.@
+br
+` Não tenho meios de feri-la.@
+` A própria Arcueid já falou isso.@
+` Que durante à noite não havia nada que pudesse causar a sua morte.
+\
+` Clang.@
+` Ela acerta minha faca.@
+` Sou mandado pelos ares com apenas um balanço de seu braço.
+\
+bg #000000,lshutter,400
+`"K[line=5]!"@
+` Consigo aterrissar e preparo minha faca.@
+` Não importa o quanto olhe, não consigo ver nenhuma "linha" no corpo dela.@
+`"Droga.@ Você é um absurdo……!"@
+br
+` [line=4]Sim, não há dúvidas.@
+` Nas profundezas da noite, sem a misericórdia do sol,
+` enfrentar a princesa da lua é muita imprudência.
+\
+bg "bg/bg_29b",lshutter,800
+`"Ha[line=4]ah, ha."@
+` Minha garganta está queimando.@
+` Meu coração parece que vai explodir.@
+` Percebo que, desde o nosso encontro nesta noite, estou sob a pressão dos seus olhos vermelhos e incapaz de respirar normalmente.
+\
+ld c,"tachi/ark_t01a",lshutter,400
+`"Ainda não percebeu?"@
+` Ela nem está sem fôlego.@
+` Mesmo eu estando com falta de ar e com um coração que parece que vai parar de bater, ela está completamente relaxada.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Poxa, você realmente é teimoso.@ Já que tem tanta força assim, já deveria ter matado o Roa."@
+`"C[line=3]como assim?"@
+` Ofegante, consigo puxar o ar para os meus pulmões.@
+`"Matar[line=2]o Roa?@ Isso significa… Matar a mim mesmo, não é?"@
+` …… Bem, me sacrificar ao invés de fugir pode indicar um coração forte mas…
+\
+`"Parece que você não entende.@ Shiki, os seus olhos não matam o corpo, matam o significado… Da própria existência.@
+` Aqueles "pontos" não matam o corpo.@
+` Isso não significa que você está matando a vida das coisas.@ Esse tipo de poder é muito comum neste mundo.
+\
+`"Shiki, seus olhos são únicos, eles matam o significado das coisas.@ O que é destruído é a existência.@ A extinção da vida é apenas um efeito colateral que vem em seguida.@
+` Com o seu poder, é possível matar a alma sem prejudicar o corpo.@ Normalmente, um corpo sem alma vai deixar de viver, por isso é como se fosse suicídio.
+\
+`"Mas para você é tudo diferente agora, né?@ Porque você tem duas almas em um só corpo.@
+` Bem[line=2]é sempre aquele caso de que o mais fraco perde.@ Você parece estar empatado com o Roa neste momento.@ Acho que tem uma grande probabilidade de ambos desaparecerem."@
+`"Hã[line=5]ei, espera aí.@ O que você………"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Não, não vou esperar."@
+cl c,notrans,0
+\
+quakey 4,375
+bg #000000,crossfade,400
+wave se_05
+`"Gh[line=4]!"@
+` Ouço um som vindo da minha nuca.
+\
+` Seu corpo se pressiona contra meus ombros.@
+` Estou no chão.@
+` Em um instante, sem eu saber o que está acontecendo, a Arcueid me prendeu no chão.
+\
+play "*8"
+bg "event/ark_e04b",crossfade,400
+wave se_01
+`"[line=6]"@
+` Ela me encara sem dizer nada.@
+` O peso do seu corpo contra meus ombros.@
+` Ela para, como se hesitasse sobre o que pretende fazer comigo.@
+wave se_01
+`"[line=6]"@
+` Eu suspiro.@
+` Mas talvez tenha sido apenas o silêncio dela.
+\
+wave se_01
+`"[line=6]"@
+` Ela está tão perto.@
+` Agora que estamos tão próximos[line=3]talvez eu seja capaz de vê-las.
+\
+wave se_01
+` [line=6]Fico olhando para o seu corpo.@
+br
+` O núcleo do meu cérebro grita em protesto.@
+` É completamente diferente da dor de cabeça de antes[line=3]é como se minha cabeça realmente estivesse se partindo ao meio.
+\
+wave se_01
+`"[line=7]"@
+` Mas não adianta.@
+` Não sou capaz de ver a "morte" de uma existência como a da Arcueid.@
+` Durante o dia pode ser diferente, mas à noite ela está perto de ser um forma de vida perfeita, que nem sequer possui o conceito de morte.
+\
+wave se_01
+`"…… Arcueid, o que você pretende fazer com o Roa?@ Você disse que não me mataria, mas a vontade do Roa continuará viva enquanto eu viver."@
+`"Não me importo com os resquícios do Roa.@ …… É por isso que poderia te deixar ir, Shiki."
+\
+wave se_01
+`"[line=3]Ah, não precisa se segurar, vá em frente e me deixe ir embora.@ Não se preocupe comigo e vá para casa, pode ficar tranquila."@
+`"Mas sabe, não é normal eu querer meu poder de volta?@ E mais do que qualquer outra coisa, eu realmente gosto de você."@
+br
+` Sinto um aperto.@
+` O peso do corpo sobre os meus ombros fica ainda mais forte.
+\
+wave se_01
+`"Quero ter você mais do que desejo matá-lo ou destruir o Roa."@
+br
+` Por isso não vou matá-lo,
+` é o que os seus olhos vermelhos parecem dizer.
+\
+wave se_01
+`"Não posso acreditar nisso, mas parece que realmente gosto de você.@ É por isso que vou salvá-lo.@ Não vou sugar seu sangue nem fazer nada que você não queira."@
+` Então, por favor, escute o que eu digo, é o que os seus olhos vermelhos dizem.
+\
+br
+` [line=3]Esses são, sem dúvida alguma, os seus verdadeiros sentimentos.
+\

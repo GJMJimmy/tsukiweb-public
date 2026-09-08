@@ -1,0 +1,168 @@
+playstop
+wavestop
+bg "bg/bg_34a",notrans,0
+` …… Acho que se eu tentar ajudar a Hisui, vou acabar é atrapalhando.@
+` Como a Akiha está em casa, coisa rara de se acontecer, vou passar o tempo conversando com ela.
+\
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_46a",lcartain,800
+wave se_04
+`"Akiha, você está aí?"@
+`"Hã[line=3]N-Nii-san…!?"@
+` Ouço sons apressados lá dentro.@
+`"Eu só queria conversar um pouco, tem algum problema?"@
+`"Ah[line=3]não, entre, por favor."@
+` Coloco a mão na maçaneta.@
+` Pensando bem, é a primeira vez que vou entrar no quarto da Akiha.@
+`"……… Humm."@
+` Abro a porta um pouco ansioso.
+\
+bg "bg/bg_36a",lshutter,800
+`"Hum[line=3]"@
+` …… Este quarto é exatamente como pensei que fosse.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"O que houve, Nii-san?@ É um assunto tão importante assim para você ter vindo ao meu quarto?"@
+`"Não, não é nada demais; só fiquei com vontade de conversar com você um pouco.@ Mas eu posso voltar depois se estiver ocupada."@
+ld c,"tachi/aki_t08b",crossfade,400
+`"…… Bem, ocupada eu estou, mas… Posso deixar isso para depois, assim poderemos passar o tempo conversando."@
+` Ela fecha o caderno que está em cima da sua escrivaninha.
+\
+`"Você estava fazendo o dever de casa?@ Então vou embora; não quero interromper os seus estudos."@
+ld c,"tachi/aki_t04b",crossfade,800
+`"Eu ainda ia começar a fazer, posso deixar para mais tarde.@
+` Está tudo bem, sente-se.@ Vou preparar um chá."@
+`"Então tá, mas dispenso o chá.@ Não quero atrapalhar o meu apetite hoje."@
+ld c,"tachi/aki_t16b",crossfade,400
+`"Ah, é[line=2]é mesmo, né… Então eu também vou fazer a mesma coisa."
+\
+cl a,crossfade,400
+` Ela se senta na cadeira da sua escrivaninha.@
+` Eu me sento em outra cadeira e dou uma boa olhada no quarto da Akiha.@
+` É um quarto incrível, mas obviamente não faz muito o meu estilo.@
+` Eu não consegui me acostumar com o meu próprio quarto que tem apenas uma cama e uma escrivaninha; se tivessem me dado um quarto todo cheio de coisas como este, acho que teria fugido de casa na mesma hora.
+\
+`"Akiha."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Sim?@ O que foi?"@
+`"Estive querendo te perguntar uma coisa já tem um tempo.@ Por que você me chamou de volta para cá?@ O nosso pai morreu e, apesar de eu ser o filho mais velho, não acho que isso seja motivo suficiente."@
+ld c,"tachi/aki_t21b",crossfade,400
+`"O que quer dizer com 'não acha que isso seja motivo suficiente'?@ Esta é a  sua casa; é natural que volte a morar aqui.@
+` Não é preciso existir uma razão para isso."
+\
+`"É verdade, mas… Você não tem rancor de mim?@ Eu te abandonei aqui por oito anos."@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Sim, é claro que eu tenho.@ Foi culpa do nosso pai você ter sido enviado para morar com os Arimas, mas o que me deixou com raiva de verdade foi o fato de você nunca ter me enviado uma única carta durante todo esse tempo."@
+`"Hum[line=3]mas isso foi…"
+\
+ld c,"tachi/aki_t07b",crossfade,400
+`"Mas isso foi o quê?@ Diga, Nii-san, foi o quê!?@ Você vem aqui para me lembrar de coisas que praticamente já estava esquecendo!@ Será possível que você gosta tanto assim de me deixar brava?"@
+`"Não!@ É claro que não, não era minha intenção te deixar brava.@ Eu não lhe escrevia cartas porque o nosso pai me proibiu de fazer isso, então[line=3]"@
+ld c,"tachi/aki_t06b",crossfade,400
+`"Eu sei muito bem disso!@ Estou brava porque você tocou no assunto!"@
+`"[line=3]Ah.@ Então me desculpa.@ Eu não devia ter tocado no assunto."
+\
+ld c,"tachi/aki_t05b",crossfade,400
+`"Não devia mesmo.@ E por favor, não fale mais nesses assuntos banais."@
+` Aborrecida, ela desvia o olhar.@
+` …… O que eu estou fazendo?@
+` Depois de finalmente ter decidio vir aqui para conversar com a Akiha, por que fui tocar em um assunto tão idiota?
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Bem, acho que é do seu feitio mesmo ficar remoendo essas coisas insignificantes do passado.@
+` Lembra do que a Kohaku falou?@ Esta é a sua casa.@ Você deveria relaxar mais."@
+`"Pois é… Devo ir me acostumando aos poucos.@ Mas[line=3]"@
+`"Mas o quê?"@
+`"Bem, é que… Não sinto nostalgia alguma neste lugar.@ Eu me lembro da vida aqui, mas estou confuso, porque nada combinha com as minhas lembranças.@
+` Talvez seja porque fiquei longe por oito anos."
+\
+ld c,"tachi/aki_t23b",crossfade,400
+`"Hum?@ Para que fazer essa cara?@ Já disse que não tenho nada contra a mansão.@ Não se preocupe, não vou embora."@
+`"Ah[line=3]tá.@ Fico contente em ouvir isso, mas…"@
+cl a,crossfade,400
+` Por algum motivo, ela desvia o olhar novamente.
+\
+ld c,"tachi/aki_t17b",crossfade,400
+`"Nii-san, eu também queria te perguntar uma coisa.@ É sobre… Aquele seu ferimento de quando sofreu o acidente há oito anos…"@
+`"Hum?@ Ferimento do acidente… Está falando do ferimento que tenho no peito?"@
+`"Sim.@ A Kohaku disse que ele ainda não se curou completamente… Ele ainda te incomoda?"
+\
+`"Ah… Sei lá.@ O ferimento mesmo já sarou há séculos, mas alguns orgãos sofreram certos danos e ficaram instáveis.@ Os médicos disseram que eles iriam se curar com o passar do tempo, mas que alguns continuariam instáveis.@
+` …… Acho que a minha anemia constante é resultado disso, além de alguns danos psicólogicos também."@
+cl a,crossfade,400
+`"O ferimento… Humm, ele dói, Nii-san?"@
+` Ela murmura essa pergunta e desvia o olhar.
+\
+`"…… Nada, não dói mais.@ Eu sinto uma tonteira leve quando acordo, mas tirando isso, não acontece nada pior."@
+` Na verdade, às vezes dói no inverno.@
+`"A tonteira não tem sido mais constante e acredito que a anemia desapareça em alguns anos.@
+` Enfim, não é nada que precise me preocupar.@ Tem gente aí com ferimentos que não se curam mesmo depois de vinte anos, o meu ferimento não é nada perto desses."
+\
+` A Akiha continua olhando para o outro lado e não diz uma palavra.@
+`"…………………"@
+` Droga.@
+` O clima ficou meio pesado de novo.@
+`"…………………"@
+` Ela está completamente imóvel.@
+`"………………?"@
+` Não parece normal.
+\
+`"Akiha!?"@
+ld c,"tachi/aki_t19c",crossfade,400
+`"Ah[line=3]Nii-san?"@
+` Ela olha para cima.@
+` E parece estar muito fraca, como se tivesse acabado de acordar de um desmaio.
+\
+`"O que houve, está se sentindo mal?@ É melhor se deitar um pouco.@ Eu vou voltar para o meu quarto."@
+`"Nn[line=3]não, não é nada disso.@ É que…… Ficar ouvindo você falar[line=4]me fez lembrar do passado[line=3]"@
+cl a,crossfade,400
+` A Akiha treme.@
+` E quase cai da cadeira.
+\
+ld c,"tachi/aki_t20b",crossfade,400
+` Ela respira fundo.@
+`"Akiha, você está muito estranha.@ Acho melhor se deitar."@
+ld c,"tachi/aki_t12b",crossfade,800
+`"[line=3]Eu estou bem.@ Não é tão ruim quanto a sua, mas eu também sofro tonteiras facilmente.@
+` …… Estava lembrando do acidente há oito anos.@ O seu ferimento foi tão profundo e tinha tanto sangue saindo dele[line=4]foi por isso que me senti mal agora."
+\
+`"…… Hum, entendi.@ Se foi só isso tudo bem, mas não se esforce sem necessidade.@ Quero que me diga se estiver se sentindo mal."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"É óbvio, né!?@ Eu faria isso mesmo sem você ter que me pedir.@ Pode ficar tranquilo que, diferente da sua, a minha tonteira é mental."@
+` Ela responde claramente, completamente recuperada do que quer que tenha sentido.
+\
+bg #000000,tshutter,400
+bg "bg/bg_36a",bshutter,400
+ld c,"tachi/aki_t04b",crossfade,400
+`"Está quase na hora, não é mesmo?@ A Kohaku já deve estar para nos chamar, você deveria voltar para o seu quarto."@
+`"Ahh, nossa, já são cinco horas da tarde?@ …… Então vou indo, mas lembre-se de não se esforçar à toa.@ Não faz bem nenhum a ninguém esconder que está sofrendo."@
+ld c,"tachi/aki_t08b",crossfade,400
+`"Ah?@ Não é normal te ver preocupado comigo, Nii-san.@ Talvez eu fique tonta de vez em quando só por isso."@
+`"Boba.@ Não vai acontecer todo dia.@ Até mais tarde."
+\
+cl a,crossfade,400
+playstop
+` Abro a porta.@
+` O quarto da Akiha fica bem no final da ala leste, a uns cinquenta metros de distância do meu quarto, que fica no final da ala oeste.@
+ld c,"tachi/aki_t17b",crossfade,400
+`"Ah[line=3]Nii-san."@
+`"Hum?@ Sim?@ Esqueceu de falar alguma coisa?"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Não, não é isso, é que………"
+\
+` Ela fica em silêncio, incapaz de encontrar as palavras certas para dizer.@
+` Mas os olhos que me encaram[line=3]
+br
+`"…… Esquece.@ Não é nada."@
+br
+` [line=3]parecem estar me pedindo desculpas.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Até mais tarde, nos vemos na sala de jantar.@ Hoje eu não vou ficar brava com nada que você fizer, então fique tranquilo."@
+`"Ahh, que alívio.@ Como a Kohaku-san nos preparou um banquete, estava esperando que pudéssemos esquecer as boas maneiras na mesa."@
+cl a,crossfade,400
+` E assim, eu saio do quarto da Akiha.
+\
+bg #000000,lcartain,800
+!w2000

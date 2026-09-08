@@ -1,0 +1,19 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",notrans,0
+`"……"@
+` I'll wait here.@
+` I don't think Senpai will come… but maybe she'll come to school like she did yesterday.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_01a",lshutter,800
+` [line=3]It's about time.@
+br
+` At about ten minutes before homeroom, the main gates are closed.@
+`"……"@
+` Senpai is not coming.@
+` Sighing, I head towards the classroom with heavy steps.
+\
+bg #000000,lcartain,800

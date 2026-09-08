@@ -1,0 +1,192 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_50",notrans,0
+`"…… As coisas não podem ficar assim.@ Ei, Senpai!"@
+` Corro atrás dela.@
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*2"
+ld c,"tachi/cel_t12",lshutter,800
+`"Ah?@ Tohno-kun, o quinto período já vai começar.@ Você devia voltar para a sua sala."@
+`"Idiota, esse conselho serve para você também.@ O que está fazendo aqui no pátio[line=3]"@
+` …… Ah, é mesmo.@
+` Ela só está fingindo ser aluna daqui, por isso não precisa assistir às aulas.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Hehe, é verdade.@ Eu também vou me atrasar para o quinto período.@ Pensei em faltar ao resto das aulas, mas talvez seja melhor agir com mais seriedade."@
+` Ela sorri toda feliz.@
+`"…… Quer dizer que você tem assistido às aulas de verdade……?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Mas é claro que sim!@ Caso contrário eu nem estaria vestida assim!"@
+` …… Parece que ela ficou brava.
+\
+`"[line=4]Ahahahahahahaha."@
+`"O que é tão engraçado, Tohno-kun!?"@
+`"Não, é que[line=3]vendo você tão feliz em um minuto e tão brava no minuto seguinte, me fez ter certeza de que você é a Ciel-senpai de verdade."@
+` Estou muito feliz.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Hein?@ Sou eu de verdade?@ E por que isso te faria rir que nem bobo?"@
+`"Ah, por nada.@
+` Mas vamos deixar isso de lado.@ Agora, sobre, hum[line=4]a Arcueid[line=3]"@
+ld c,"tachi/cel_t07a",crossfade,400
+\
+`"[line=3]Ugh."@
+` De repente, ela me encara com olhos extremamente sérios.@
+` …… É difícil falar sobre esse assunto, mas foi por esse motivo que vim atrás dela.
+\
+`"…… Por favor, me ouça sem ficar brava.@ Você me disse para não continuar com isso, mas não posso simplesmente abandonar esse caso do vampiro."@
+ld c,"tachi/cel_t06a",crossfade,400
+` …… Opa.@ Os olhos sérios começam a demonstrar muita raiva.
+\
+`"…… Enfim, não posso ignorar esse vampiro.@ Mas eu meio que briguei com a Arcueid por causa de ontem e não posso fazer nada sem a ajuda de alguém.@
+` Portanto[line=3]se você também está procurando o tal vampiro, eu posso te ajudar?"@
+br
+` …… A Senpai fica em silêncio.@
+` Ela respira fundo.@
+ld c,"tachi/cel_t04",crossfade,800
+`"Não pode."@
+` E diz isso com um belo sorriso.
+\
+`"Não posso ajudar?@ Por quê!?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"É claro que não pode!@ Tohno-kun, você não se lembra de quase ter sido morto por ela!?@
+` Caçar vampiros significa estar em constante risco de morte.@ Eu não vou deixar você se envolver nesse meio!"@
+`"[line=3]Eu sei disso e estou preparado para as consequências!@ Pode não parecer, mas já estive em várias situações em que quase morri.@ Posso me proteger muito bem!"
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Como pode dizer isso?@
+` Até admito que você tem ótimas capacidades atléticas.@ Mesmo tendo a saúde fraca, o seu corpo é excelente."@
+` Relaxando os ombros, ela diz algo surpreendente.@
+`"…… S-sério?"@
+` A tensão desaparece e deixo escapar essa resposta.
+\
+`"Sim.@ Você ficou pelado quando passou a noite na minha casa.@ Foi quando eu vi o seu corpo.@ Sem nenhuma grodurinha, só músculos.@
+` Você estava um pouco longe, mas naquele momento eu tive certeza de que o seu corpo era perfeito."@
+`"…… Pelado[line=5]Mas eu[line=4]não fiquei pelado."@
+`"Já se esqueceu?@ Você tirou as roupas na hora de tomar banho."@
+` Ah, foi mesmo.@
+` Eu tirei as roupas e ela ainda as lavou para mim[line=3]
+\
+`"Senpai, eu não sabia que você era o tipo de pessoa que fica espiando os outros trocando de roupa."@
+ld c,"tachi/cel_t11",crossfade,400
+`"[line=3]Hã[line=2]não[line=2]aquilo foi[line=2]um acidente[line=4]apenas aconteceu de eu te ver[line=4]e como estava curiosa, juntei o útil ao agradável…"@
+` O rosto dela fica completamente vermelho enquanto murmura essa desculpa.@
+` …… Acho que ela está se lembrando da cena que viu naquela noite.
+\
+ld c,"tachi/cel_t08b",crossfade,400
+`"Céus, escuta bem!@ Não importa o quão perfeito, bonito e másculo seja o seu corpo, Tohno-kun, uma pessoa normal não é capaz de enfrentar um vampiro."@
+` Perfeito, bonito e másculo…!?@ Enfim, é por isso que ela não quer me envolver.@
+cl c,crossfade,400
+\
+`"Tudo bem.@ Então não tem problema algum."@
+` Tiro os óculos.@
+br
+bg "bg/bg_05b",crossfade,800
+br
+` E pego a faca.@
+bg #9c0120,crossfade,400
+bg "bg/bg_05b",crossfade,400
+br
+` A dor de cabeça começa a atacar.@
+` Resistindo-a, corto uma "linha" de uma árvore próxima.
+\
+bg "bg/bg_05a",crossfade,400
+ld c,"tachi/cel_t09",crossfade,400
+`"Tohno-kun, isso foi[line=3]"@
+`"…… Pois é.@ Meus olhos não são normais.@
+` A Arcueid me disse que sou capaz de ver a 'morte' das coisas, e que meus olhos são chamados de Olhos Místicos de Percepção da Morte."@
+` Ela fica de olhos arregalados, surpresa.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=2]En[line=2]tendi.@ Então essa faca não é especial, você que é, Tohno-kun."@
+`"…… Não sou especial.@ É só um efeito colateral de um acidente que sofri."@
+`"[line=3]Por isso ela estava tão interessada em você.@ Seus olhos têm um poder tremendo para um só indivíduo possuir."@
+` A Senpai parece ter perdido todas as energias.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Acho que com um poder desses, o mais perigoso seria deixar você sozinho.@
+` E mesmo que eu recuse a sua ajuda, é provável que você vá atrás do vampiro por conta própria, e ele[line=3]não pode te ignorar."@
+`"Senpai……?@ Quer dizer que[line=3]"
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Sim.@ Eu não queria te envolver, mas é tarde demais.@ Já não posso mais negar que você tenha uma conexão com tudo isso."@
+`"Então podemos ir atrás do vampiro juntos?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Sim.@ Estou preparada para isso."@
+` Ela estende a mão.@
+` Mas sinto que é diferente de quando apertamos as mãos no refeitório.
+\
+`"[line=5]"@
+` Eu pego em sua mão.@
+` Apertamos as mãos rapidamente.@
+br
+ld c,"tachi/cel_t03",crossfade,400
+`"E agora somos uma equipe.@ Estou contando com você, Tohno-kun, conte comigo também.@
+` De agora em diante, vamos caçar o vampiro que está nesta cidade."@
+` Ela fala com um sorriso muito amável.@
+` Enquanto concordo em silêncio, o sinal da escola toca, anunciando o fim do horário de almoço.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Depois que a aula acabar, vá para a sala de cerimônia de chá.@ Vamos continuar nossa conversa lá."@
+cl c,lshutter,400
+` Ela sai correndo em direção à entrada do prédio.@
+` Eu também estou atrasado, por isso saio correndo atrás dela.
+\
+bg #000000,lcartain,800
+playstop
+!w1000
+bg "bg/bg_06b",crossfade,1500
+` A última aula do dia termina.@
+` Meus colegas de turma barulhentos levantam-se das suas carteiras.@
+` Normalmente fico sentado até a bagunça acabar, mas hoje me levanto junto com eles.
+\
+bg #000000,lcartain,400
+bg "bg/bg_11b",lcartain,400
+` Rapidamente saio da sala de aula.@
+` E vou para a sala de cerimônia de chá.@
+` Muita coisa aconteceu entre a Senpai e eu, mas tudo acabou bem.@
+` Estou feliz por ser capaz de ajudá-la, e ao lado dela posso ficar mais seguro do que se estivesse lutando sozinho.@
+br
+` Mas o mais importante de tudo[line=3]é que estou muito animado por ter a oportunidade de ficar ao lado dela novamente.
+\
+br
+` Começo a respirar com dificuldade[line=4]
+br
+` Vou correndo para a sala de cerimônia de chá.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09b",lcartain,800
+` A sala está vazia.@
+` Parece que a Senpai ainda não veio para cá.@
+br
+` …… *arf*…… *arf*.@
+br
+` …… Acho que fiquei empolgado demais.@
+` Sento no chão de tatame para recuperar o fôlego.
+\
+br
+` …… *arf*…… *arf*…… *arf*.@
+br
+` Meu corpo está muito quente e não esfria tão fácil.@
+` Respiro com muita dificuldade.@
+` Meu corpo está encharcado de suor, e estou me sentindo péssimo.
+\
+br
+` Minha respiração ofegante preenche o ar.@
+br
+` Tem alguma coisa[line=3]errada.@
+` Já estou descansando faz um bom tempo, mas minha respiração está piorando ao invés de melhorar.@
+` Pensando bem, por que estou tão cansado depois de correr uma distância tão pequena……?
+\
+monocro #ff0000
+bg "bg/bg_09b",crossfade,400
+play "*4"
+quakey 2,100
+br
+`"[line=3]Gah!?"@
+br
+` De repente,
+` uma dor excruciante toma conta do meu peito..
+\

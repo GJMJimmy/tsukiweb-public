@@ -1,0 +1,19 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+`"[line=3]Desculpa, mas eu não sinto nada especial por você."@
+` Dou uma resposta direta enquanto encaro seus olhos.
+\
+ld c,"tachi/stk_t09",crossfade,400
+`"[line=4]Tá… bom."@
+` …… Tanto o corpo quanto a voz da Yumizuka estão tremendo.@
+`"…………"@
+` …… Não consigo pensar em mais nada para dizer.@
+` Talvez isso me torne uma pessoa horrível, mas esses são meus verdadeiros sentimentos.@
+` Eu nunca tive nenhum sentimento especial pela minha colega de classe, Yumizuka Satsuki.@
+` Só estou aqui porque o que aconteceu enquanto voltava para casa há dois dias deixou uma impressão muito forte em mim, eu não pude simplesmente esquecer[line=3]
+\
+ld c,"tachi/stk_t08",crossfade,400
+`"…… Eu sabia.@ Acho que foi por isso que as coisas aconteceram assim.@ …… Está tudo bem.@ Já que você disse isso, eu também vou ser sincera comigo mesma, Shiki-kun."
+\
+cl c,crossfade,400

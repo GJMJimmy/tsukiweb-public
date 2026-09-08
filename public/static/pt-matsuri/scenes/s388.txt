@@ -1,0 +1,44 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Vou ajudar a Kohaku-san.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+play "*3"
+` Vou para o pátio e vejo a Kohaku-san segurando uma vassoura.@
+` Acredito que ela tenha terminado com o jardim dos fundos, já que está cantarolando enquanto varre as folhas do pátio.
+\
+ld c,"tachi/koha_t06",lshutter,800
+`"Hã?@ O que aconteceu para você vir até o pátio a essa hora, Shiki-san?"@
+`"Ah…… Nada não.@ Só fiquei entediado, daí pensei em vir te ajudar.@ Já acabou?"@
+`"Sim, terminei o jardim dos fundos agorinha.@ Já que tem um tempo até eu precisar preparar o jantar, pensei em varrer o pátio também."@
+` Parece que a Kohaku-san é bem diligente, visto que já cuidou da maioria das folhas.
+\
+`"…… Acho que não vou ser de ajuda alguma.@ Kohaku-san, você já limpou quase todas as folhas do pátio."@
+`"Sim, cuidar dos jardins sempre foi minha responsabilidade.@ O bom trato dos jardins do pátio, o jardim dos fundos, a floresta e os bordos ao sul também é minha responsabilidade."@
+`"Uau, além de cuidar das flores dos jardins, você também cuida da floresta?"@
+` …… Espera um pouco.@
+` Isso quer dizer que…?@
+`"Hum.@ Tem uma árvore gigantesca no meio da floresta.@ Você cuida dela também?"
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"Não, e como eu faria isso, Shiki-san?@ Aquela árvore está no terreno da mansão faz muito tempo.@ Não posso cuidar de algo tão grande."@
+` Ela sorri, feliz, como se estivesse se divertindo muito.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Mas aquela árvore é muito importante.@ Você pode vê-la muito bem do corredor do segundo andar da mansão.@ Quando eu era pequena, usava ela como guia para encontrar muitas coisas."@
+`"Entendi[line=3]também tenho uma lembrança importante daquela árvore, mas só uma mesmo."@
+` …… Porém, parece que não há mais nenhum sentido para ela.@
+` A garota da lembrança[line=3]a Hisui não fez muito caso da promessa que fizemos.@ Foi há oito anos, então acho que não é culpa dela se deixou de considerar aquilo importante.
+\
+`"Ah, está quase na hora.@ Shiki-san, por favor, vá para a sala de jantar quando estiver na hora de comer."@
+cl c,crossfade,400
+` E assim, a Kohaku-san sai, seus passos ecoando no ar.@
+` Tenho certeza de que os ingredientes estão todos separados, tudo que falta é preparar a comida.@
+`"…… Acho que é melhor eu voltar para o meu quarto."@
+` Depois de olhar mais um pouco para a grande árvore no meio da floresta, saio do pátio.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

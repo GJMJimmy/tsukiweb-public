@@ -1,0 +1,25 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`　……是呢。@
+`　我已經決定了不會去後悔，更重要的是擔心著我的琥珀的心情。@
+`「當然是贊成了。@這可是我的歡迎會，沒有理由拒絕吧」
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`「那麼就決定了！@我這就去準備料理。@翡翠呢[line=3]今天我的工作就交給你可以吧？」@
+ld r,"tachi/his_t02",crossfade,400
+`「我明白了。@是大廳和東館的掃除吧」@
+ld r,"tachi/aki_t04b",crossfade,400
+`「那麼我呢……我該做些什麼，琥珀？」@
+ld l,"tachi/koha_t05b",crossfade,400
+`「秋葉小姐和志貴就請在自己的房間休息吧。@歡迎會比平常的晚餐提早一些開始，如果有什麼事情的話請在那之前做完」
+\
+cl a,lshutter,800
+`　琥珀走向了廚房，翡翠走向了中庭。@
+ld c,"tachi/aki_t08b",crossfade,400
+`「那麼我也回房間去了」@
+cl a,lshutter,800
+playstop
+br
+`　接下來，我該怎麼辦？
+\

@@ -1,0 +1,118 @@
+monocro off
+play "*3"
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+play "*3"
+` Por enquanto, o cinema é sempre uma aposta segura.@ Desde que o filme escolhido seja bom, não pode ficar entediante.@
+br
+ld c,"tachi/ark_t01a",lshutter,400
+`"Este lugar é sempre muito animado, embora eu não saiba o que tem aqui."@
+` A Arcueid caminha ao meu lado.@
+cl c,crossfade,400
+`"[line=6]"@
+` No caminho[line=4]na verdade, mesmo agora, todos à nossa volta continuam lançando olhares em nossa direção.@
+` …… Não há necessidade de dizer isso, mas provavelmente é porque a Arcueid se destaca muito.
+\
+` Estou ciente disso, mas as reações das pessoas à nossa volta me deixam muito mais ciente ainda, e é um pouco perturbador.@
+br
+` A Arcueid age normalmente, mas como estou sendo dominado por sua feminilidade, não consigo elaborar qualquer conversa significativa.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Ei, está me ouvindo Shiki?@ Estou perguntando aonde estamos indo."@
+`"Ah[line=4]hum, bem, a maioria dos casais daqui costumam ir ao cinema."@
+` Aponto para o cinema na nossa frente.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Cinema…… humm, vamos assistir a um filme então."@
+` …… A princesa não parece satisfeita.@
+` Mas depois de chegar tão longe, não tenho escolha.@
+` Eu não tenho a mínima ideia do que iria agradar uma vampira.@
+` Como já estamos aqui, só tenho que me preparar para ouvir ela dizer "isso é entediante."
+\
+`"Vamos entrar.@ Se você ficar insatisfeita, podemos sair a qualquer hora."@
+`"Não é que eu esteja… insatisfeita."@
+` Suspirando, ela me segue.@
+cl c,crossfade,400
+` Ela relaxa os ombros como se dissesse "Você é um cara bom para nada!".
+\
+`"Vou comprar os ingressos, o que você quer assistir?@ Vejamos, tem um romance e um romance, e um romance…… esse cinema me cheira mal."@
+` Para ser sincero, estou querendo desistir também.@
+ld c,"tachi/ark_t02",crossfade,400
+`"Qualquer um está bom.@ Parecem todos iguais mesmo."@
+`"Certo.@ Vou lá comprar o ingresso."@
+cl c,rcartain,800
+` Entro na fila mais curta e compro dois ingressos.
+\
+`"Aqui está.@ Basta mostrar este ingresso quando entrarmos.@ Eles vão pegar metade dele, mas é assim que deve ser, por isso não fique com raiva."@
+ld c,"tachi/ark_t02",crossfade,400
+`"Eu sei disso.@ Você acha que não sei de nada, né, Shiki!?"@
+`"Ah…… não, não é isso.@ Só pensei que talvez você não soubesse muito sobre a sociedade humana."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Tenho algum conhecimento sobre isso guardado.@ É claro que sei sobre um cinema."@
+cl c,lshutter,400
+` Resmungando um "hmph", ela vira o rosto e vai na direção do cinema.
+\
+` …… Foi um erro.@
+` Eu sabia que trazer uma vampira a um cinema seria burrice.
+\
+bg #000000,crossfade,400
+!w1000
+bg "bg/bg_25a",crossfade,400
+` [line=4]Saímos do cinema.@
+br
+` Assistimos a um romance… não foi chato, mas não foi extremamente interessante também.@
+` Foi um típico filme francês.@ Ele focou menos em cenas de tirar o fôlego e concentrou mais em criar uma atmosfera calma.@
+` Enquanto saímos do cinema, a Arcueid não diz nada.
+\
+`"…………"@
+` …… Um silêncio desconfortável.@
+` Talvez ela teria ficado mais feliz se fosse um filme de ação ou um de horror.@
+br
+`"Ei, Arcueid."@
+ld c,"tachi/ark_t08",lshutter,400
+`"É, foi muito divertido, Shiki!"@
+br
+` H-H-H-Hein……!?
+\
+`"Você achou divertido?"@
+`"Nossa, ouvir sobre isso é completamente diferente de realmente estar no lugar.@ Mesmo tendo alguma informação sobre o que era um cinema, minha imaginação ficou aquém da realidade."@
+` …… A Arcueid mostra um sorriso feliz e sincero.
+\
+`"A escuridão estava muito boa, e apesar dos som estar alto, não era barulhento.@ E ter você ao meu lado também foi divertido.@
+` Mas além disso, o tema foi muito bom!@ Fiquei surpresa que fossem tão longe para criar uma história.@ É tão detalhado, na minha imaginação não era nada disso.@ Fiquei emocionada."@
+`"…… Ah, é… é sério?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hã?@ Parece que você não concorda.@ Você achou chato?"@
+`"Não, não achei chato, apenas normal.@ Há filmes muito mais interessantes do que aquele."
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"Sem chance.@ Ele foi muito bom!"@
+`"Bem, acho que os peritos em filmes gostam desse tipo de filme, mas há uma tonelada de filmes melhores.@
+` Eles não estão em cartaz no momento, mas existem filmes épicos por aí, mil vezes melhores que esse.@
+` Para ser franco, o que acabamos de ver foi de uma qualidade muito baixa."@
+!w500
+`"…… Estou surpresa."@
+!w500
+`"…… É tão fácil ler suas expressões, Arcueid."
+\
+cl c,crossfade,400
+` Ela não está apenas surpresa, mas maravilhada.@
+` Essa Arcueid, ela parecia tão desanimada no início, até pensei que fosse reclamar… mas agora ela parece uma criança animada.@
+br
+`"…… Que pena.@ Se fosse mais cedo, poderíamos ter visto um filme melhor.@ Se soubesse que teria gostado, teria te levado."@
+br
+` Não é para que ela me agradeça, mas sim porque realmente quero fazê-la feliz.
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"Ah, que pena.@ Acho que não tivemos muita sorte então."@
+` Ela relaxa os ombros decepcionada.@
+`"Sim, simplesmente continuamos perdendo as oportunidades."@
+` Eu também relaxo os ombros decepcionado.@
+` …… É verdade.@
+` Realmente teria sido bom ver seu rosto sorridente e feliz por mais tempo.
+\
+cl c,crossfade,400
+bg #000000,lcartain,800
+playstop
+!w1000

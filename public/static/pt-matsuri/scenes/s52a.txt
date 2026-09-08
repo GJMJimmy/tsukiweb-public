@@ -1,0 +1,279 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06f",crossfade,800
+` A aula termina e a sala esvazia, mas não vou embora até o sol se pôr completamente.@
+br
+` A sala de aula vermelha.@
+` O pôr do sol ardente se espalha pelo lado de fora da janela.@
+` O sol vai avermelhando enquanto se afunda nas profundezas do céu.@
+`"[line=6]"@
+` Sempre estarei esperando aqui.@
+` Vou me lembrar da minha promessa inesquecível; Vou continuar esperando aqui para sempre.
+\
+bg "bg/ima_07",crossfade,400
+br
+` Ainda há uma promessa que não fui capaz de cumprir.@
+br
+`"Quando tudo isso acabar[line=4]quando tivermos derrotado esse vampiro… Antes de nos separarmos, não podemos fazer algo assim apenas mais uma vez?"@
+br
+` Naquela época, ela inclinou a cabeça para o lado, confusa.
+\
+`"Então[line=4]Eu estava imaginando, o que aconteceria se nos encontrássemos novamente sem qualquer responsabilidade… se nos encontrássemos sem ter nenhum motivo em particular."@
+br
+` …… Quando disse essas palavras,
+` eu estava pensando apenas nela.
+\
+`"[line=4]Se estiver muito ocupada, não tem problema.@ De qualquer forma, só pensei nisso agora mesmo."@
+br
+` …… Apenas…
+` Não como duas pessoas cooperando,
+` mas como dois amigos que se dão bem, sem estarem fazendo nada em particular.@
+` Se pudéssemos criar algumas lembranças normais assim,
+\
+br
+` sei que ela seria feliz.
+\
+br
+br
+br
+br
+` Tudo bem[line=4]!@ Quando tudo terminar, vamos voltar aqui, Shiki!@
+` Sem termos nenhum propósito, mas tenho certeza que será muito divertido!@[line=3]
+!w2000
+br
+` Depois que seus olhos arregalaram de surpresa, ela acenou com a cabeça, concordando.@
+` Na sala de aula banhada pelo pôr do sol,
+` a Arcueid sorriu e fez essa promessa comigo.
+\
+bg #ffffff,crossfade,400
+` [line=3]Eu me lembro da promessa.@
+` [line=3]Eu me lembro do sorriso dela.@
+br
+` [line=3]Eu me lembro de tudo.@
+br
+` Não consigo esquecer.@
+` Não quero esquecer.@
+` Sempre vou me lembrar da promessa que fizemos na sala inflamada pelo pôr do sol.@ A promessa de nos encontrarmos aqui novamente[line=4]
+\
+bg "bg/bg_06f",crossfade,800
+`"……………"@
+` O sol desce um pouco mais.@
+` Nesses momentos, até que o vermelho desaparece completamente do céu,
+` os momentos silenciosos até que o céu carmesim desapareça completamente.@
+br
+` Esse momento eterno e efêmero de um mundo paralisado.@
+br
+` Talvez eu já esteja louco.@
+` Mesmo que esteja esperando por alguém que nunca virá, meu coração está muito calmo.
+\
+!w5000
+br
+` [line=3]Um barulho.@
+br
+` O som de alguma coisa tocando em uma mesa.@
+` Eu olho.@
+` Uma janela está aberta.@
+` Percebo que,
+` pintada pela luz do sol vermelho, ela está ao lado da janela.
+\
+bg "event/ark_f01",crossfade,400
+play "*7"
+` Ela não se mexe, mas está ali.@
+` Está bem na minha frente;
+` não é uma ilusão.@
+` Mas sinto que existe uma distância entre nós que nunca poderia ser atravessada.@ "[line=6]"@
+` Não consigo falar.@
+` Mas estou muito calmo nesse momento.
+\
+`"…… Poxa.@ Eu realmente estava planejando desaparecer, Shiki, mas você simplesmente iria esperar para sempre.@ Não poderia deixá-lo sozinho assim, por isso vim aqui."@
+` Ela sorri timidamente.@
+`"…… Bem, sabe como é.@ Eu disse que nunca mais quebraria uma promessa com você."@
+`"É verdade.@ Obrigada por manter essa promessa."
+\
+`"Mas, me desculpe.@ Parece que dessa vez sou eu quem não vai ser capaz de mantê-la."@
+`"…… Por quê?"@
+` …… Surpreendo a mim mesmo.@
+` Pergunto isso com uma voz muito gentil, sem nenhuma raiva.
+\
+`"…… É mesmo, nunca te disse meu motivo para perseguir o Roa.@
+` Na verdade, há muito tempo atrás, eu tomei sangue humano uma única vez.@ Naquele momento, o humano roubou um pouco dos meus poderes e se tornou um Apóstolo da Morte incrivelmente forte.@
+` No final, ele acabou matando todos os outros Ancestrais Originais, exceto a mim."@
+br
+` [line=3]Então, isso significa…
+br
+`"…… Você está falando do Roa?"
+\
+`"Sim.@ Até aquele momento, eu nunca soube sobre o impulso vampírico.@ Os outros Ancestrais Originais também acreditavam que eu não o possuía.@
+` Mas já era tarde demais.@ Até então[line=4]Eu nem sabia que era uma vampira.@
+` Por isso[line=4]nem ao menos sabia que era algo que não deveria fazer."@
+` …… Entendo.@
+` Ela nunca foi ensinada a fazer mais nada, nem lhe disseram que ela era da mesma espécie daqueles que matava.
+\
+`"Por causa de apenas um erro, destruí todos eles.@ …… Por isso não vou tomar sangue humano novamente.@
+` Mas um Ancestral Original que tomou sangue uma vez, não consegue permanecer são sem fazer isso de novo."@
+`"[line=4]"@
+`"…… Eu só posso estar aqui porque você "matou" o Roa completamente.@
+` Mesmo que eu tenha aniquilado ele tantas vezes, foi apenas sua carne e não sua alma.@
+` Mas você matou sua existência completamente, Shiki.@ E então[line=4]o poder que ele roubou voltou para mim e, de alguma forma, consegui reviver."
+\
+`"[line=3]Isso[line=4]não……"@
+br
+`"Mas isso é tudo que posso fazer.@ Não posso mais resistir ao impulso vampírico dentro de mim.@ Por isso[line=4]"@
+br
+`"[line=3]Isso[line=3]não importa."@
+br
+`"…… Shiki, não posso vê-lo novamente.@ Desculpe-me por quebrar a nossa promessa."@
+br
+` …… Isso não importa para mim.@
+` Apenas[line=3]quero que você esteja ao meu lado, apenas isso.
+\
+`"…… Você pode manter sua promessa."@
+`"Shiki……?"@
+`"Beba meu sangue.@ Se fizer isso[line=2]poderá manter sua promessa."
+\
+!w3000
+` O tempo passa.@
+` Nenhum de nós diz qualquer coisa.@
+` E após um silêncio enlouquecedor…
+\
+`"[line=4]Eu sei.@ Mas não posso.@ Não preciso do seu sangue."@
+`"Por quê?@ Meu sangue não é bom?@ Você tem algum motivo para não tomá-lo?"@
+` Ela acena com a cabeça, afirmando.@
+bg "event/ark_f02",crossfade,400
+`"Eu gosto de você, por isso não vou tomar."@
+` Ela sorri como uma flor que desabrocha triunfante.
+\
+`"………………"@
+` Puxo uma grande quantidade de ar para os pulmões
+` e simplesmente tento reprimir esse sentimento.@
+br
+` Eu quero pará-la.@
+` Eu quero pará-la.@
+` Eu quero pará-la.@
+` Eu quero pará-la.@
+br
+` [line=4]Mesmo se tiver que matá-la, quero pará-la.@
+br
+` Mas seu sorriso está simplesmente tão maravilhoso.@
+` Não posso ser tão egoísta e arruiná-lo.
+\
+`"[line=2]Adeus.@ Realmente sou muito grata por tudo."@
+`"………………"@
+` Minha garganta treme e não sai som algum.@
+br
+` Mas ainda assim[line=4]tenho que dizer adeus.@
+br
+`"…… Sou um mentiroso."@
+`"Por quê?@ Você manteve sua promessa."@
+`"[line=4]Apenas um mentiroso inútil.@
+` Eu…… disse que faria você feliz."@
+` Sim, eu prometi isso.
+\
+bg "event/ark_f01",crossfade,400
+`"…… Não, você não é.@
+` Vou dormir a partir de agora, mas sempre estarei sonhando com você.@ Gostei tanto do tempo que passamos juntos, sempre vou estar sonhando com ele."@
+`"[line=6]"@
+`"Sem termos nenhum propósito, mas tenho certeza que será muito divertido.@
+` Shiki, eu estou feliz de verdade.@ Você realmente me fez feliz."
+\
+`"Droga…………"@
+` As palavras estão entaladas na minha garganta.@
+` Eu não[line=4]não quero isso…
+\
+`"…… Você é muito gentil.@ Eu sabia que vir aqui para dizer adeus era uma boa ideia.@
+` Eu te amo, Shiki.@ A sua honestidade, esse seu jeito de sempre estar no mundo da lua, o fato de eu ser a única com quem você grita, o jeito como você sempre olha para o futuro… Eu amo tudo em você.@
+` Então, por favor, continue vivendo assim, tá bem?"@
+` Por apenas um instante,
+` ela sorri com tristeza.@
+br
+` Ela acena com a mão e como se desvanecesse junto ao pôr do sol, desaparece diante dos meus olhos.
+\
+bg "bg/bg_06f",crossfade,1500
+`"………………"@
+br
+` Eu cerro os dentes tentando me segurar.@
+` Ela estava sorrindo até o fim, por isso não quero chorar.@
+br
+` [line=3]A sala está vazia.@
+br
+`"……… Entendo.@ Você realmente cumpriu sua promessa."@
+br
+` Nesta sala de aula.@
+` A promessa de nos encontrarmos na sala de aula durante o pôr do sol.@ Ela definitivamente a manteve.
+\
+` …… Existem algumas coisas que perdi, mas agora está tudo acabado.@
+` A cortina foi caindo claramente durante o tempo que eu a conhecia, o tempo que passava junto dela.@
+br
+` Pensando bem, uma despedida sempre acontece.@
+` No nosso caso, nossa despedida foi apenas mais cedo que o esperado.@
+` Pensando dessa forma, essa despedida foi muito satisfatória.@
+` Ela ainda estava viva e, me… disse… que… está… feliz…
+\
+`"…… Não……!@ Assim não, não era isso[line=4]o que eu queria……!"@
+br
+` [line=3]Não mesmo.@
+br
+` Mais[line=3]
+` Queria ficar mais tempo com ela.
+\
+` Queria conversar mais com ela.@
+` Queria sentir muito mais o calor do corpo dela.@
+` Mais[line=4]Queria ver mais vezes o sorriso dela.
+\
+` Sempre.@
+` Não desse jeito, mas sempre[line=4]queria fazê-la feliz.@
+` Mas, ela…
+` Sorrindo até o fim, me deixou para trás, me dizendo para viver.
+\
+bg #000000,crossfade,800
+`"…… Aquela idiota…… estúpida……"@
+br
+` Aquele foi seu último desejo.@
+` Com um sorriso, ela me disse que não importasse o quão difícil fosse[line=4]mesmo se eu tiver que me iludir agora, até que finalmente posssa ver tudo simplesmente como uma lembrança, para continuar olhando para o futuro e viver.@
+`"Tch…………!"@
+` Não tem como eu fazer isso.@
+` Eu[line=3]não tenho a menor confiança para viver assim.
+\
+`"[line=6]"@
+` Ainda assim, para que ela possa ter um sonho feliz,
+` tenho que conceder seu desejo.
+\
+!w3000
+bg "bg/bg_06g",crossfade,800
+br
+`"………… Ah."@
+br
+` O sol desapareceu há muito tempo.@
+` O céu carmesim está pintado de um azul escuro.@
+br
+` O céu escuro da noite.@
+` Os feixes de nuvens em espiral e uma lua branca brilhante.@
+br
+` [line=3]Isso é tudo o que restou.@
+` Junto de uma lembrança muito bonita.
+\
+`"[line=8]"@
+br
+` *suspiro*@
+` Eu expiro lentamente, como se estivesse rezando.@
+` Ela pode não estar mais aqui,
+` mas preciso dizer o que esqueci de falar mais cedo.@
+br
+`"Adeus.@ …… me diverti bastante também."@
+br
+` Essas palavras de despedida atrasadas, ecoam por toda a sala de aula.
+\
+bg "bg/ima_01",crossfade,800
+` Apenas a lua, parecendo feita de vidro, paira no céu noturno.@
+` A lua azul, distante, parecendo poder quebrar se tocada.@
+br
+` Por muito tempo[line=3]até o amanhecer, eu continuo olhando para ela.
+\
+bg #000000,crossfade,1500
+playstop
+wait 5000
+cl a,notrans,0
+bg "word/fin",crossfade,1500
+wait 3000
+gosub *ending

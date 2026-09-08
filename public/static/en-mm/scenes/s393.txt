@@ -1,0 +1,199 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` [line=3]No, I really shouldn't make Akiha and the others worry about any of this.@
+` This problem[line=3]that dream, I should take care of it myself.
+\
+`"[line=3]It's just that things at school are keeping me busy.@ In November, there's the school festival, and before that, the athletic festival."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Is that so?@ Since it's a school problem, then there isn't really anything I can do to help, I suppose."@
+cl c,crossfade,400
+` Akiha lowers her gaze, a little disappointed.@
+` …… Deceiving Akiha by telling her a lie is very painful.
+\
+ld c,"tachi/koha_t02",lshutter,800
+`"Here you go, Shiki-san.@ Thanks for waiting."@
+` Kohaku-san comes carrying a glass on a tray.@
+`"Thanks."@
+` Using a straw, I drink the Lemon Squash that Kohaku-san got for me.@
+` …… With that, the conversation ends.@
+` The only cheerful one in the sitting room is Kohaku-san, and I end up eating breakfast like always.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,400
+` Hisui walks with me to the gate to see me off.@
+` Just like before in the sitting room, Hisui continues her silence, which makes me uneasy.@
+ld c,"tachi/his_t01",lshutter,400
+`"Please take care on your way, Shiki-sama."@
+`"Yeah, I'll be on my way…… Hisui?"@
+`"Yes, what is it, Shiki-sama?"@
+` Hisui looks at me directly.@
+br
+` [line=3]Why is it?@
+br
+` Being stared at by those pure eyes, I get this uncomfortable feeling, like I was very dirty.
+\
+`"…… It's nothing.@ Just be careful at home."@
+cl c,crossfade,400
+` With a deep uneasiness in my chest, I leave the mansion.
+\
+bg #000000,lcartain,800
+playstop
+!w2000
+wave se_03
+bg "bg/bg_06a",lcartain,400
+` [line=3]It's lunch time.@
+` As usual, Arihiko is skipping school.@
+br
+`"…… I'll go eat at the cafeteria."@
+` If I eat by myself, I'll just end up being depressed.@
+` If I go eat in the cafeteria full of people, it should help me get my mind off of things.
+\
+bg "bg/bg_50",lcartain,800
+` As expected, the cafeteria is packed.@
+` After waiting in a long line, I buy the tried and true meal set A and walk to a table.@
+` The students' voices are pretty loud, so I am able to concentrate on just eating my meal.@
+` I use my fork and eat in silence.@
+br
+` [line=4]And then.@
+br
+` For a moment, I see a terrible image.
+\
+waveloop se_02
+`"…… The television screen……"@
+` I gape at the large television mounted on the wall at the end of the cafeteria.@
+` At my school, they record the morning news and replay it at lunch.@ My eyes fixate on what is playing.@
+wave se_01
+`"[line=4]No way…"@
+` I watch the news in amazed horror.@
+` Shown on the television is the alley that I saw last night in my dream.@
+` The newscaster is talking.@
+` On the screen, the words "Vampire Serial Killer's Ninth Victim" appear in bloody lettering.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_50",notrans,0
+` After that, the face of the victim appears.@
+` The woman with the long hair, she… definitely was the one I killed in my dream.@
+bg #9c0120,crossfade,400
+bg "bg/bg_50",crossfade,400
+`"[line=6]"@
+` I start to feel faint.@
+`"How…… come?"@
+` That was a dream.@ It had to be a dream.@
+` But in reality, the same person as in my dream, in the same place as my dream, was killed in the same way as my dream.
+\
+`"The vampire should be gone already."@
+` I killed Yumizuka with my own hands.@
+` Those killings, they shouldn't be happening anymore.@
+br
+`"I[line=4]killed?"@
+br
+` Yes, I killed.@
+` Just like the time I killed Yumizuka.@
+` While breathing hard, last night, that woman I've never met[line=3]
+\
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Didn't I tell you, Shiki-kun?@
+` It's useless to resist it.
+\
+bg "bg/bg_50",notrans,0
+`"Uu[line=3]"@
+` Quashing the urge to throw up my lunch, I stagger out of my seat.@
+bg #000000,lshutter,400
+br
+` I can't go back to class.@
+` I somehow find myself running into town.
+\
+wavestop
+!w2000
+bg "bg/bg_30a",lcartain,400
+` [line=3]I come to the place I saw in my dream.@
+br
+` There are several policemen around the area, and tape reading "Police Line Do Not Cross" is stretched across the alley.@
+`"[line=3]Exactly the same."@
+` Without a doubt, this is the place I went to in my dream.@
+` [line=3]No, that's not a dream.@
+` I can't delude myself into thinking it is a dream any longer.@
+`"…………"@
+` Even if I stay here longer, the cops will only stare at me.@
+` …… I can't go back to school now.@ I guess I'll go back to the mansion.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_33a",lcartain,800
+waveloop se_11
+` Since it's not even two o'clock yet, Hisui isn't waiting in the lobby.@
+`"……………"@
+` I can say I got lucky.@ I don't feel like seeing anyone right now.@
+br
+bg #000000,tshutter,800
+bg "bg/bg_40a",tshutter,800
+` *sigh*@
+` Letting out a deep breath, I collapse onto my bed.
+\
+bg #000000,crossfade,400
+` …… I just don't understand any of this at all.@
+` I have dreams where I kill people.@
+` In reality, the same killing has happened.@
+` I am living today like living a normal life.@
+` I was taking delight in killing people in my dreams.@
+br
+br
+` [line=6]Just which one…
+`      is the real Tohno Shiki?
+\
+textcolor #ff0000
+br
+br
+` Do you really have to ask?
+\
+textcolor #ffffff
+br
+br
+` …… That voice again.
+\
+textcolor #ff0000
+br
+br
+br
+br
+` C'mon, let's continue, Shiki.
+\
+textcolor #ffffff
+br
+br
+br
+br
+` …… That voice that echoes inside my head.@ My voice.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+` Night comes every day.@
+` For sure, we'll find the one we want someday, right……?
+\
+textcolor #ffffff
+ld c,"tachi/aki_t09",notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+wavestop
+`"Shut up[line=6]!"@
+` I leap out of bed.@
+` I start to pant heavily.@
+` My breathing is out of control.@
+` Just now…
+` I wanted Akiha.@
+`"Damn it[line=4]what in the world…"@
+` I don't understand what's happening to me.@
+` All I know for sure, is that if I see Akiha or Hisui right now, I don't know what I'll do to them.
+\

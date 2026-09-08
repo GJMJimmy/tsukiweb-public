@@ -1,0 +1,387 @@
+bg #000000,crossfade,800
+wait 750
+br
+br
+br
+br
+br
+br
+` Teatro Experimental da Obra-prima de Kinoko.
+wait 1000
+\
+bg #000000,crossfade,800
+wait 750
+br
+br
+` Esta história foi criada quando a edição Half Moon de Tsukihime (versão onde apenas as rotas de Ciel e Arcuied estavam completas) foi concluída.@
+` Alguns cenários podem ser totalmente diferentes da história principal, portanto, aproveite-a como uma história completamente diferente.@
+` E rejeitaremos qualquer pedido de reembolso do tempo e do esforço que você desperdiçou para apreciar essa história!@
+br
+` Agora, aproveite a história secundária com 0 minutos de planejamento e 60 minutos de produção!
+\
+ld c,"tachi/kemo_t01",bshutter,400
+br
+br
+br
+br
+br
+br
+`      Três.
+wait 800
+\
+cl c,bshutter,400
+ld c,"tachi/kemo_t04",bshutter,400
+br
+br
+br
+br
+br
+br
+`      Dois.
+wait 800
+\
+cl c,bshutter,400
+ld c,"tachi/kemo_t05",bshutter,400
+br
+br
+br
+br
+br
+br
+`      Um.
+wait 800
+\
+cl c,bshutter,400
+ld c,"bg/matu",bshutter,400
+br
+br
+br
+br
+br
+br
+br
+`      Começar!
+\
+bg #000000,crossfade,800
+wait 1000
+bg "bg/bg_40a",crossfade,800
+play "*02"
+br
+` A luz da manhã me acorda.@
+br
+` "Hm......"@
+` Esse meu despertar parece estar repleto de uma sensação de presságio.@
+` Sinto-me levemente febril e a tontura causada pela minha anemia pode surgir a qualquer momento.@
+` "... Mas as manhãs neste quarto realmente não mudam."@
+` Digo algo que nunca deveria dizer.@
+` Sinto-me mal por ser sempre a mesma coisa, mas há apenas uma imagem para o cenário da manhã, então, por favor, vamos ignorar.
+\
+` "... Não tem jeito.@
+` Já existem muitos gráficos de fundo, então não posso simplesmente pedir um feito exclusivamente para as manhãs.@
+` Há um limite para o quanto se pode explicar com palavras usando apenas um gráfico..."@
+` Resmungo. Akiha provavelmente me repreenderia para fazer algo a respeito, já que sou o protagonista desta visual novel.@
+` Então...@
+bg #000000,bcartain,800
+playstop
+` As persianas se fecham para bloquear as janelas.
+\
+` "[line=4]O que está acontecendo?!"@
+` A sala se enche instantaneamente de escuridão.@
+` Eu sinto a janela, mas ela nem se mexe.@
+` ... Esta sala parece uma prisão agora.@
+` "O que é isso?@
+` Não me diga que isso é algum tipo de sistema antirroubo!"@
+` ... Na verdade...@
+` Akiha faria algo assim.@
+` Não para impedir a entrada de ladrões, mas para impedir a entrada de Arcueid.@
+` E é claro, Kohaku-san teria proposto a ideia para Akiha.
+\
+` "... Mas por quê?@
+` Será que elas querem que eu faça isso já que fiquei sem vocabulário para descrever o cenário da manhã...?"@
+` Bem, eu não me importo, mas esse plot não tem furuto.@
+` "Não.@
+` Acho que isso é porque você não tem talento poético."@
+ld c,"tachi/his_t09",tscroll,800
+` "H-Hisui?!!!!"@
+ld c,"tachi/his_t01",crossfade,400
+` "Sim.@
+` Bom dia, Shiki-sama."@
+` "Ah... sim, bom dia, Hisui.@
+` Hum... você com certeza apareceu de forma violenta essa manhã."@
+ld c,"tachi/his_t08",crossfade,400
+` "......"
+\
+cl c,rscroll,800
+` Oh, ela fugiu.@
+` "Ei, Hisui!@
+` Onde está a minha muda de roupa?!"@
+` Eu grito, mas não recebo resposta.@
+` Hisui sai do quarto como se tivesse um motor a jato.@
+bg "bg/bg_40a",tcartain,800
+` Ah, voltou ao normal.
+\
+play "*03"
+` "... Isso é ruim.@
+` Akiha me repreendeu severamente quando saí para o corredor com meu pijama antes..."@
+` ... Sim.@
+` Vou dormir até que minha muda de roupa chegue.@
+` São férias de verão, então não há motivo para eu me levantar cedo...
+br
+quakey 16,200
+` "?!"@
+` O-O-O-O...!@
+br
+quakey 24,150
+` O que está acontecendo?
+\
+ld c,"tachi/koha_t06",rshutter,400
+` "Certo, por favor, levante-se e saia.@
+` Está na hora de limpar o seu quarto."@
+` Então...@
+` Kohaku-san entra no quarto balançando sua vassoura.@
+` ... Parece que o terremoto é um efeito colateral de sua limpeza.
+\
+ld c,"tachi/koha_t04",crossfade,400
+` "Poxa! Você não deve ser tão preguiçoso só porque está de férias, Shiki-san!@
+` O café da manhã está pronto, então, por favor, vá para a sala de jantar!"@
+` "... Eu não me importo, mas não tenho uma muda de roupa nova.@
+` Hisui tem agido de forma estranha esta manhã e fugiu depois de me acordar."@
+ld c,"tachi/koha_t05",crossfade,400
+` "Ah, é mesmo?@
+` Eu sabia que Hisui-chan acabaria perdendo a paciência e deixaria transparecer seu verdadeiro eu. Então ela finalmente explodiu, não foi?"@
+` "...Oh.@
+` Explodiu, hein?"
+\
+ld c,"tachi/koha_t02",crossfade,400
+` "Sim.@
+` Provavelmente foi porque ela provou sua comida ontem à noite.@
+` Estou sempre misturando novos medicamentos à sua comida, mas Hisui-chan a provou ontem à noite quando eu não estava olhando."@
+` "... Puxa vida.@
+` Então, seu hábito de misturar remédios na minha comida ainda não acabou, não é?"@
+` "Não. Sei que é um mau hábito, mas estou misturando antes mesmo de perceber.@
+` Mas é chato porque você está ficando resistente a eles, então os efeitos são pequenos."@
+` Kohaku-san está louca como sempre.
+\
+ld c,"tachi/koha_t06",crossfade,400
+` "Vou limpar seu quarto, então por favor, saia.@
+` Vou terminar em cerca de uma hora, então por favor, vá comer nesse meio tempo."@
+cl c,crossfade,400
+` A Kohaku-san me incentiva, cutucando meu rosto com a ponta da vassoura.@
+` "[line=6]"@
+` Mesmo que essa sensação ruim não desapareça, decido ir embora.
+\
+bg #000000,rcartain,800
+wait 1000
+bg "bg/bg_34a",rcartain,800
+` Akiha está na sala de estar, como sempre.@
+ld c,"tachi/aki_t04a",crossfade,400
+` "Bom dia, Nii-san.@
+` Sua comida está pronta."@
+` "Sim, eu sei.@
+` Vou comer um pouco de café da manhã."@
+ld c,"tachi/aki_t03a",crossfade,400
+` "Nossa! Quantas vezes tenho que lhe dizer?@
+` Você é o filho mais velho da família Tohno, então por favor, tome cuidado com sua linguag[line=4]"@
+cl c,crossfade,400
+` De repente...@
+` O sermão de Akiha é interrompido por um barulho alto.
+\
+` O som de passos vigorosos entram rapidamente na sala, preenchendo o ambiente.@
+ld l,"tachi/nero_t03",rshutter,400
+br
+` "Akiha-kun!!!!!"@
+br
+` "[line=3]O quê?"@
+` Um homem estranho vestindo um sobretudo preto entra.
+\
+ld r,"tachi/aki_t08a",crossfade,400
+` "Ah, então é você, tio.@
+` Por que esse rosto perturbado?"@
+br
+` O quê?@
+br
+` "Espere aí, Akiha!@
+` Quem diabos você chamou de 'tio'?!"@
+ld r,"tachi/aki_t04a",crossfade,400
+` "Ah, por favor, não diga uma coisa dessas, Nii-san! Ele não é o nosso tio?@
+` Sinto muito, tio Nrvnqsr.@
+` O Nii-san perde a memória de vez em quando."@
+ld l,"tachi/nero_t02c",crossfade,400
+` "Eu não me importo.@
+` Essas coisas insignificantes não são da minha conta."
+\
+ld l,"tachi/nero_t03",crossfade,400
+playstop
+` "A propósito, Akiha-kun...@
+` Você sabe onde foi parar o pudim que eu estava aguardando desde ontem à noite?@
+` É o pudim à moda que comprei na Fujiya por 700 ienes."@
+ld r,"tachi/aki_t09",crossfade,400
+` "Ah...@
+` O Nii-san comeu isso ontem à noite igual um panda come bambu."@
+` "[line=6]O quê?!"@
+` P-Pare de mentir, Akiha!@
+` Eu nunca comi isso e, antes de mais nada, eu gosto mais de lanches japoneses do que de lanches ocidentais...!@
+play "*04"
+ld l,"tachi/nero_t04",crossfade,400
+` "Nuuuuuuuu!!!!!@
+` Eu vou bater em você 666 vezes!"@
+` "Heeeeee, essa é uma acusação falsa!!!"
+\
+bg #000000,rcartain,400
+wait 2000
+bg "bg/bg_53",rcartain,800
+play "*03"
+` ............ Ufa.@
+` Consegui escapar.@
+` Consegui escapar, mas...
+ld c,"tachi/roa_t03a",rshutter,400
+br
+` "Você viu isso?!"@
+br
+` ... Um cara muito suspeito está invadindo nosso quintal.
+\
+` "... Ei!@
+` Você é um ladrão?"@
+` "Você viu?!@
+` Você viu, não viu?!"@
+` ... Cara...@
+` Por que estou trombando com toda essa gente louca hoje?
+\
+` "Do que você está falando?"@
+` "Por que você, por que você, por que você?!@
+` Como ousa espiar minha ginástica matinal no rádio?@
+` Você está sempre me atrapalhando!@
+` Não venha aqui antes de mim!@
+` Não termine a ginástica mais rápido do que eu!@
+` Não colete mais selos do que eu!@
+` Sério, pare de ler a minha mente!"@
+` "............"@
+` ... Eu odeio isso.@
+` Normalmente não consigo acompanhar esse tipo de coisa.
+\
+` "Eu não li.@
+` Eu não li a sua mente, então, por favor, vá em frente e se exercite o quanto quiser!@
+` Eu vou indo agora."@
+` Então por favor, não mexa mais comigo.@
+ld c,"tachi/roa_t04a",crossfade,400
+` "O quêêêêê?"@
+` O homem inclina a cabeça em sinal de desagrado.@
+` Então...@
+cl c,crossfade,400
+ld c,"tachi/ark_t08",rshutter,400
+` "Eii!@
+` Estou aqui para dar uma volta, Shiki!"@
+` Uma pessoa mais problemática ainda aparece.
+\
+` "... Arcueid,@
+` me desculpe, mas não estou com vontade hoje."@
+cl c,crossfade,400
+ld r,"tachi/ark_t11",rshutter,400
+` "O quêêêêê?"@
+` Eu quero ficar sozinho, mesmo que ela faça uma cara dessas.@
+` "... Brinque com aquele cara lá se você estiver entediada.@
+` Vocês dois podem se dar bem."@
+ld l,"tachi/roa_t04a",crossfade,400
+` "O quêêêêê?"@
+` "... Vocês dois parecem bem sincronizados."@
+` Fico tonto após dizer isso.@
+` Essa cabeça já está me deixando enjoado o suficiente... eu poderia morrer de náusea se me misturasse com eles.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+` Veja.@
+` É o de sempre.@
+` "Cara! Rádio taissô, dança folclórica, faça o que você quiser!@
+` Vou voltar para o meu quarto, então não me sigam!"@
+ld l,"tachi/roa_t03a",rshutter,400
+` "Huhahahaha, estou indo também!"@
+ld r,"tachi/ark_t08",rshutter,400
+` Então...@
+` Por que ninguém nunca me escuta?
+\
+bg #000000,rcartain,800
+playstop
+wait 2000
+bg "bg/bg_54a",lcartain,800
+` "... Aah... Aah... Aah... Aah..."@
+` Consegui despistá-los, mas estou sem energia.@
+` Quando dou um passo para trás e penso nisso com calma, estou ficando louco desde o início da manhã.
+\
+play "*10"
+ld c,"tachi/kemo_t05",crossfade,400
+` "Então você finalmente percebeu agora, não é, garoto?"@
+` "Au! Quem é você?!"@
+` "Este que vos fala? Eto, o cavalo falante.@
+` O objeto estranho que apareceu no início."@
+` "............ Perdão?"@
+` O objeto estranho diz algo estranho.@
+` "Hum... Você é um deus veado?@
+` "Não."@
+` Bem, você não se parece com mais nada.
+\
+` "Então, o que um deus veado está fazendo no meu quintal?@
+` Você veio me salvar dessa situação bizarra?"@
+` "Eu é que quero ser salvo, seu idiota!"@
+` Ele está com raiva de mim agora.@
+` Não estou entendendo nada.
+\
+` "Não me cause mais problemas quando já estou ocupado com os preparativos para o festival de verão!@
+` Se você acha que isso tudo é bizarro, deveria ter acordado naquele exato momento!"@
+` "......?@
+` Hum, então tudo isso é um sonho como eu pensei?"
+\
+` "Claro que é!@
+` O dicionário de terminologia também diz isso.@
+` Um sonho é uma coisa conveniente.@
+` Só se pode fazer histórias tão malucas assim se elas acabarem sendo sonhos."@
+` Bem, então é como eu pensava, não é?@
+` "Estou entendendo...@
+` mas eu quero saber porque isso é assim."@
+` "Você pode esperar ansiosamente pelo próximo verão.@
+` Hehehe, você poderá saborear um caleidoscópio de absurdos! Você é um cara muito sortudo."@
+` Ele ri.
+\
+bg #000000,tshutter,400
+` "[line=3]Ah."@
+` "Então você deve voltar à sua manhã normal agora.@
+` Certifique-se de trabalhar duro para chegar ao dia seguinte corretamente, ok?"@
+` O deus veado corre atrás de mim.@
+` "LABORATÓRIO DE TERÇA-FEIRA!"@
+` O veado diz algo incompreensível e empurra minhas costas.
+\
+playstop
+` "Nããããããããããããoooooooooo!!!!!!"@
+` Eu caio como um rolo de papel.@
+` Rola.@
+` Rola.@
+` Rola.@
+` ... Ugh, estou começando a desmaiar.@
+` Aposto que será a manhã de sempre quando eu acordar.@
+` Ceús, quando é que vou poder sair de casa para ir ao show de fogos de artifício com a (*insira sua heroína preferida aqui*) ?......
+\
+wait 1000
+bg #ffffff,crossfade,1500
+play "*02"
+bg "bg/bg_40a",crossfade,800
+br
+` A luz da manhã me acorda.@
+br
+` "Hm......"@
+` Esse meu despertar parece estar repleto de uma sensação de presságio.@
+` Sinto-me ligeiramente febril e a tontura causada pela minha anemia pode surgir a qualquer momento.@
+` "... Ah, já é de manhã."@
+` Bem, acho que as férias de verão são assim mesmo.@
+` Não há escola, então é um fato da vida que todos os dias são iguais.
+\
+br
+br
+br
+br
+br
+` Bem...@
+` O show de fogos de artifício é amanhã, então devo ir para a escola ou ficar na mansão hoje[line=3]?
+\
+bg #000000,crossfade,1500
+playstop
+wait 5000
+bg #000000,crossfade,1500

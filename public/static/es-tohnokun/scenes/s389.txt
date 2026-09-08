@@ -1,0 +1,75 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=4]Iré a la habitación de Akiha.@
+br
+` …… Escuché que Akiha aún no ha regresado.@
+` Lo que significa que si voy a su habitación, no habrá nadie ahí.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46b",lcartain,800
+play "*3"
+` …… Llego a su habitación.@
+` La de Akiha está en el centro del ala este.@ La mía está a unos cuarenta metros, así que ésta es una rara oportunidad.@
+`"[line=5]"@
+` Trago ansiosamente.@
+` …… Si lo pienso con calma, estoy haciendo algo extremadamente peligroso.@
+`"[line=2]¡No puedo retroceder ahora!"@
+` Decidiéndome, abro la puerta de la habitación de Akiha.
+\
+bg #000000,lshutter,400
+bg "bg/bg_36c",lshutter,400
+`"[line=5]"@
+` …… Esperaba esto… pero aun así, no tengo palabras.@
+` Estoy fascinado por la habitación que no parece la de una estudiante de secundaria, en absoluto.@
+`"…… No hay cama…… debe estar en un cuarto separado."@
+` Casi me distraigo viendo todo el lujo.@
+` Pensé que exploraría la habitación de Akiha mientras ella no estaba, pero no es un lugar al que se pueda entrar de esa manera.
+\
+`"…… Mejor me voy antes de que Akiha me descubra."@
+` Con un suspiro, me doy la vuelta para dejar la habitación.@
+br
+` [line=4]Y.@
+br
+ld c,"tachi/aki_t03a",notrans,0
+`"Oh no, por favor, tómate tu tiempo, Nii-san."@
+br
+` [line=3]Akiha está parada frente a la puerta con los brazos cruzados.
+\
+`"Ah, Akiha[line=4]¿¡Ya regresaste……!?"@
+`"Sí, acabo de regresar.@ Más importante aún, Nii-san, ¿hay algo sobre lo que quieras hablarme?@ Tiene que haberlo, de otro modo no habría razón para que estuvieses solo en mi habitación, ¿verdad?"@
+`"Ah[line=4]um."@
+` Retrocedo mientras Akiha me mira atentamente.
+\
+`"No, yo[line=3]no es muy importante… sólo pensé en hablar contigo por un momento[line=3]"@
+`"¿Oh en serio?@ Qué extraño.@ Si querías hablar conmigo, entrar a mi habitación cuando no estoy es bien inútil, ¿no?@ Tendría perfecto sentido que volvieses a tu habitación al ver que no estoy aquí, ¿cierto?"@
+`"Es verdad, pero…… pensé que tal vez debía esperar un rato en tu habitación, o tal vez no……"@
+ld c,"tachi/aki_t02",crossfade,400
+`"[line=7]"@
+` La mirada de Akiha se hace aun más aguda.@
+` …… Ugh, creo que será mejor disculparme ahora mismo.
+\
+`"…… Lo siento.@ Sólo me preguntaba cómo era tu habitación."@
+`"En otras palabras, ¿entraste a escondidas por curiosidad?"@
+`"Uh[line=3]no, no tenía malas intenciones[line=3]"@
+ld c,"tachi/aki_t07",crossfade,400
+`"¡Eso no importa!@ Meterte así a la habitación de una chica, ¿¡qué clase de educacion recibiste en la casa Arima!?"@
+`"[line=3]Lo siento.@ Supongo que puedes culpar a mi estupidez, o a mi mente traviesa."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"[line=7]"@
+` La mirada de Akiha es dolorosa.@
+` Ya que soy el único a quien culpar, sólo puedo disculparme.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"…… Bien, lo pasaré por alto esta vez.@ Por favor regresa a tu habitación antes de que venga Kohaku."@
+`"Lo…… lo siento, Akiha."@
+` Parece que su Onii-chan es sólo un mocoso travieso después de todo.@
+`"Pero no pienses que esto ha terminado.@ Espero ser compensada por esto, Nii-san."@
+cl c,lshutter,800
+` Por alguna razón, hay indicios de entretención y amenaza en la voz de Akiha mientras se aparta de la puerta.@
+`"…………"@
+` Dejo la habitación de Akiha, pensando que ella se ha aprovechado de mi terrible debilidad.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

@@ -1,0 +1,22 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+br
+` [line=4]é engolido.@
+br
+` Com um som de esguicho, sou tragado pela onda avassaladora.
+\
+` Uma invasão opressora.@
+` Ela me ataca, me viola e me dissolve.
+\
+`"[line=8]"@
+` Minha carne, meu espírito, minha alma… tudo desaparece.@
+` Eu não estou morto.@
+` É mais correto dizer que fui derretido e absorvido por esta onda negra.
+\
+` Eu observo a mim mesmo sendo absorvido e desaparecendo dentro da onda negra[line=4]
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

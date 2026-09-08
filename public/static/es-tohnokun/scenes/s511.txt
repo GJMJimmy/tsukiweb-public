@@ -1,0 +1,36 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ¡Bonjour!@
+` Este rincón es para el malo Tohno-kun, quien muy fácilmente terminó en un Final Muerto.@
+` Es la hora de "¡Enséñame, Ciel-sensei!"@
+` Nos estaremos viendo muy seguido a partir de ahora, así que por favor muéstrame tus mejores respetos.@
+br
+` Por cierto, mis estudiantes son los miles de Tohno-kuns allá afuera por todo el país, y…
+ld l,"tachi/ark_t30",lshutter,400
+br
+`"¿Qué-nya?@ ¿Por qué esta diferencia en la forma de tratarnos?"@
+br
+cl l,lshutter,400
+` La heroína principal de Tsukihime, Arcueid-san.@
+` ¡Ahora, comenzaremos la primera hora de clases!
+\
+` Santo cielo, esto no está para nada bien, Tohno-kun.@
+` Este final muerto es simplemente demasiado, ¿cierto?@
+` Sé exactamente cómo te sientes cuando no deseas hacer amistad con ese sospechoso vampiro, pero tendrás que soportarlo a estas alturas.@
+` Para poder vivir, uno debe tener resistencia, y dicen que, si no puedes vencerlos, úneteles.@ Por favor, sólo trata de demostrar la cualidad japonesa de no ser capaz de decir no.@
+br
+` Oh, y ya que terminaste siendo comida para perros sin ninguna otra opción, tendrás que reiniciar desde un punto anterior y hacer un arreglo.@
+` Por otro lado, tienes libertad de elegir qué responder en el callejón, pero creo que no es una buena idea escapar.
+\
+` Bien, eso es todo por la primera hora.@
+` La segunda hora será una lección sobre animales salvajes.@
+` Será llamada "Tierra Animal de Sacudidas y Escalofríos".@
+` Bien, entonces, adiós a todos.
+\
+bg #000000,crossfade,800

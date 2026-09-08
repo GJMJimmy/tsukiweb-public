@@ -1,0 +1,270 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+`「……还是去看看吧」@
+`　从床上爬起身，尽可能不发出声音地溜出房间。
+\
+playstop
+waveloop se_11
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_42c",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_54c",lcartain,800
+`[line=3]庭院里的树林，连月光都透不进来。@
+br
+`　我走向那片与其说是树林、不如说已近乎森林的庭院。@
+`　……虽然不太记得具体位置了，但一走进树林，双脚便不由自主地朝着别馆方向前进。@
+br
+`　这是不是意味着，即使大脑快要忘记了，身体却还记得呢？@
+`　总之，我毫不费力地就到达了别馆。
+\
+bg #000000,tcartain,800
+bg "bg/bg_44b",bcartain,800
+`「[line=6]」@
+`　是长年没有使用的缘故吧，别馆的各处都已显露出老朽的痕迹。@
+`　手搭上玄关，发现门并没有上锁。@
+br
+bg #000000,lcartain,800
+`　屋内自然也是一片黑暗。@
+`　虽然黑暗中什么都看不见，但榻榻米和纸门的气味却莫名让人安心。
+\
+bg "bg/bg_45c",lshutter,800
+`「[line=4]啊」@
+`　踏进那间和室的同时，后背猛地一颤。
+\
+`「[line=4]这里，有印象」@
+`　小时候，大概是觉得主宅里没有的和室很稀奇，才跑来这里玩过吧。@
+`「[line=6]」@
+`　但是，不对。@
+`　肌肤所感受到的，是与刚回宅邸，被带到自己房间时所体会到的违和感相似的感觉。
+\
+`「……是因为有间家也是和室的关系吗」@
+`　总觉得，自己好像一直生活在这里。@
+`　不，还是说[line=3]
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+`　说起来，以前[line=2]
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+`　一起在庭院游玩的，
+\
+bg "bg/cmo_05",notrans,0
+wait 100
+bg "bg/bg_45c",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+`　似乎，并不是只有，我、和秋叶两个人而已[line=2]
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_45c",notrans,0
+`「痛[line=4]」@
+`　脖子突然传来一阵刺痛。@
+`　是贫血的前兆吗，身体沉重得如同灌了铅一般。@
+`「……糟糕……不快点回到房间的话」@
+`　我轻轻摇了摇头，决定在真的昏倒之前回到房间。
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_40d",rcartain,800
+`「哈[line=4]啊」@
+`　总算是，回到了房间。@
+`　毕竟，要是在那座被禁止进入的别馆里昏倒的话，秋叶肯定会大发雷霆的吧。@
+`「[line=4]唔」@
+`　头晕得厉害。@
+`　连衣服都没换，就这样直接倒在了床上。
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+wavestop
+!w2000
+wave se_01
+!w600
+`[line=4]好热。
+\
+wave se_01
+!w600
+br
+br
+br
+`[line=4]好热。
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+`[line=4]好热。
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+`[line=4]喉咙，又干又渴的，好热。
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+`[line=6]这样下去根本没法入睡。@
+`　得起来喝点水才行。
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+`　我好像走进了，夜晚的街道。@
+`　瞪着一双布满血丝的眼睛，像是在等待着什么人经过。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=6]好热。
+\
+`　不经意间，瞥见了倒映在窗玻璃上的自己的脸。@
+`　双眼布满血丝，怎么看都不像是正常的样子。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=6]只是，好热啊。
+\
+`　似乎找到了猎物。@
+`　从背后勒住脖子，一切就结束了。@
+`　素未谋面的女性，就这样没了动静。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]我，只是，觉得好热啊。
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+`　是把尸体拖过来，咬破了她的喉咙吗。@
+`　听到了“咕嘟咕嘟”的声响。@
+`　像是要连肉带血地咬断喉管般饮着血，缓解着喉咙的干渴。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]不明白。
+\
+`　“哈啊[line=2]哈啊[line=2]”的喘息声。@
+`　难道。@
+`　难道是在因为那种行为而兴奋吗。@
+`　将手指插进了尸体的胸膛。@
+`　碾碎肉块的声音，折断骨头的声音。@
+`　用手剜出心脏的，声音。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]光是看着，大脑就一片空白。
+\
+`　那是，极致的掠夺。@
+`　位于顶点的，背德感。@
+`　甚至让看到的东西都变得炽热起来。@
+`　即便那是负面的快感，但因此而兴奋的事实也无法改变。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]我，不明白。
+\
+bg "bg/ima_18",crossfade,400
+`　温热的血液从嘴角滑落，我仰望着夜空，眼神恍惚迷离。@
+`　长发散乱。@
+`　头顶是螺旋状的天空。@
+`　多么美丽啊，这轮银月。
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+`[line=3]所以，我不明白啊。@
+`　明明我，只是觉得好热而已[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

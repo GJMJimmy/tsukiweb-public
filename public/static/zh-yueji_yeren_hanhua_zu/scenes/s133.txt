@@ -1,0 +1,23 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11a",notrans,0
+ld c,"tachi/cel_t03",crossfade,400
+`「远野君，昨晚睡得好吗？」@
+`「诶？」@
+`　学姐用认真的眼神望着我。@
+cl c,crossfade,400
+`　……你问我睡得好吗，这种事还用问吗。@昨天都没怎么睡，况且[line=3]
+\
+`「呜……」@
+`　昨晚的回忆又鲜活起来，自己都能感觉到脸红的发烫了。@
+`　学姐用看穿一切的目光仰望着我。@
+`「学姐，这是[line=3]」@
+ld c,"tachi/cel_t08",crossfade,400
+`「远野君真色啊」@
+`「哈？」@
+cl c,lshutter,800
+`　带着言犹未尽的眼神，学姐从我面前走掉了。
+\
+bg #000000,crossfade,800
+!w1000

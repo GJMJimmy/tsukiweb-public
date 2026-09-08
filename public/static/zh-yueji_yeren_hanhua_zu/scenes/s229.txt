@@ -1,0 +1,19 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01b",lcartain,800
+`　走出校门。@
+`　在这里分别，各自走向不同的路。@
+br
+ld c,"tachi/cel_t03",crossfade,800
+`「那么就在这里说再见了。@怎么，总感觉走得太快了」@
+`　……同感。@学校如果能再大点就好了，我老实地想着。
+\
+`「那么再见了学姐，明天见」@
+ld c,"tachi/cel_t04",crossfade,400
+`「嗯，明天在学校见吧」@
+cl c,lshutter,800
+`　笑着回答，学姐朝反方向走去。@
+`　目送她离开以后，我沿着街道走上回家的路。
+\
+bg #000000,lcartain,1500

@@ -1,0 +1,12 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"Você não acha que simplesmente fica brava com muita facilidade?@ Na verdade, você é uma pessoa bem egoísta."@
+` Eu deixo bem claro o que penso.@
+ld c,"tachi/ark_t08",crossfade,400
+`"É sério?@ Humm, agora que você tocou no assunto, talvez seja mesmo verdade.@ Parece que eu fiquei muito emotiva desde quando você me matou."@
+` Parecendo satisfeita, ela faz um gesto afirmativo com a cabeça.@
+cl c,crossfade,400
+` …… Bem, isso sendo verdade ou não, enquanto ela estiver convencida e satisfeita com essa resposta, o problema está resolvido.
+\

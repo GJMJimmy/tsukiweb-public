@@ -1,0 +1,78 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` Eu decido que é melhor falar sobre o assunto do que ficar quieto.@
+` Além do mais, vou continuar pensando no pior se guardar isso para mim.
+\
+`"…… Bom, então tenho uma perguntar pra fazer.@ Se alguém faz uma coisa que sabe que não deve fazer, não seria isso resultado de estresse?"@
+ld c,"tachi/aki_t01a",lshutter,400
+`"Fazer uma coisa que sabe que não deve?@ É um problema recorrente ou apenas um incidente isolado?"@
+`"…… Está mais para algo isolado.@ Parece que a pessoa não tem ciência do fato."
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"Então quer dizer que a pessoa faz isso enquanto está inconsciente e por isso não pode impedir a si mesma de fazê-lo?"@
+`"[line=3]Isso aí, a pessoa não pode parar.@ Não consegue nem parar de pensar em fazer."@
+ld c,"tachi/aki_t11a",crossfade,400
+`"Nesse caso, soa como uma inversão de personalidade."@
+`"…… Inversão de personalidade…… A personalidade da pessoa é totalmente alterada?"@
+`"Sim.@ Por qualquer que seja o motivo, algo serve de gatilho e inicia toda uma mudança no espectro moral, a atitude da pessoa muda por completo."
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Pode ser taxado de doença mental.@
+` Não se lembra, Nii-san?@ O nosso pai normalmente era uma pessoa gentil, mas às vezes ficava frio como gelo."@
+`"Aquele velho era[line=3]?"@
+cl c,lshutter,400
+br
+` …… Pensando bem…… O Tohno Makihisa era extremamente gentil em um dia e no outro era totalmente rígido.
+\
+`"…… Não me lembro muito bem.@ Você se lembra, Hisui?"@
+` Olho para ela, parada perto da parede.@
+br
+` [line=3]E.@
+ld l,"tachi/his_t17",lshutter,400
+` Parece que a Hisui está se segurando para não falar alguma coisa e parece não escutar a minha voz.
+\
+cl l,lshutter,400
+ld l,"tachi/koha_t02",lshutter,400
+`"Akiha-sama, por favor, não fale sobre esse assunto.@ O Makihisa-sama era somente um pouco maníaco-depressivo, apenas isso."@
+` A Kohaku-san diz essas palavras enquanto traz uma bandeja prateada com um copo em cima.
+\
+`"Não devemos falar coisas ruins dos que já não se encontram entre nós.@ E o Makihisa-sama era seu pai ainda por cima."@
+ld r,"tachi/aki_t06",lshutter,400
+`"E-Eu sei……!@ Não preciso que me diga isso……!"@
+cl r,lshutter,400
+` A Akiha fica em silêncio, igual à Hisui.
+\
+ld l,"tachi/koha_t03",crossfade,400
+`"Aqui está, Shiki-san.@ Obrigada por esperar."@
+` A Kohaku-san coloca um copo de refrigerante de limão na mesa.@
+`"Obrigado."@
+` Usando um canudinho, permito que a bebida gelada encha o meu corpo.@
+cl l,lshutter,800
+` …… A Akiha e a Hisui não abriram mais a boca.@
+` A única pessoa animada na sala de estar é a Kohaku-san.@
+` …… Não entendo por que elas ficaram deprimidas do nada, mas tenho certeza de que tem alguma coisa a ver com o meu pai.
+\
+bg #000000,crossfade,800
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t01",lshutter,800
+`"Por favor, tome cuidado no caminho, Shiki-sama."@
+`"Estou indo…… Ah, Hisui?"@
+`"…… Pois não, Shiki-sama?"@
+`"Quando estávamos falando do meu pai mais cedo.@ Os seus lábios eram um túmulo.@ E não só você, mas a Akiha também ficou estranha."@
+ld c,"tachi/his_t17",crossfade,400
+`"Aconteceu alguma coisa com ele nesses oito anos em que não estive presente?@ Você e a Akiha começaram a agir de forma estranha do nada."@
+`"……………………"@
+` A Hisui não responde.
+\
+`"…… Então tá.@ Não vou te forçar a responder.@ Se sentir vontade, podemos falar sobre isso depois."@
+ld c,"tachi/his_t08",crossfade,400
+`"[line=3]Não.@ Não é algo que lhe diz respeito, Shiki-sama.@
+ld c,"tachi/his_t09",crossfade,400
+`"Se pretende viver nesta mansão, por favor, jamais mencione o Makihisa-sama novamente."@
+cl c,lshutter,400
+` Depois de seus olhos brilharem por um breve momento, ela volta para a mansão.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

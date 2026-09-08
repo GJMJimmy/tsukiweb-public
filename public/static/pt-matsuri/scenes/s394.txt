@@ -1,0 +1,175 @@
+playstop
+wavestop
+bg "bg/bg_06a",lcartain,800
+wave se_03
+!w2000
+` [line=3]Está na hora do almoço.@
+` Como sempre, o Arihiko está matando aula.@
+br
+`"…… Eu vou almoçar no refeitório."@
+` Se eu comer sozinho, vou acabar ficando deprimido.@
+` Ficar no refeitório cheio de gente deve me ajudar a tirar essas coisas da cabeça.
+\
+bg "bg/bg_50",lcartain,800
+` O refeitório está lotado.@
+` Depois de ficar esperando em uma fila enorme, compro a 'refeição pronta A' e sento em uma mesa.@
+` Todos aqui estão conversando bem alto, por causa disso consigo me concentrar apenas em comer a minha refeição.@
+` Pego o garfo e como em silêncio.@
+br
+` [line=4]E então.@
+br
+` Por um momento, vejo uma imagem horrível.
+\
+`"……?@ Na tela da televisão……"@
+` Encaro a televisão montada na parede aos fundos do refeitório.@
+` Na minha escola, eles gravam o noticiário da manhã e repassam durante o almoço.@
+` Os meus olhos estão fixados no que está mostrando.
+\
+waveloop se_02
+`"[line=4]Não acredito…"@
+` Assisto ao noticiário, surpreso e horrorizado.@
+` A televisão mostra o beco que vi ontem ontem à noite no meu sonho.@
+` O apresentador está falando.@
+` As palavras "Nona Vítima do Vampiro Assassino em Série" aparecem em letras vermelhas na tela.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_50",notrans,0
+` Depois disso, o rosto da vítima aparece.@
+br
+` A mulher de cabelo longo… Definitivamente foi ela quem matei no meu sonho.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_50",crossfade,400
+`"[line=6]"@
+` Começo a me sentir fraco.
+\
+wavestop
+`"Como…… Assim?"@
+` Aquilo foi um sonho.@ Tem que ter sido um sonho.@
+` Mas é a mesma pessoa que apareceu no meu sonho, no mesmo lugar do meu sonho e foi morta da mesma forma que morreu no meu sonho.
+\
+`"O vampiro já deveria ter sumido."@
+` Eu matei a Yumizuka com as minhas próprias mãos.@
+` Esses assassinatos[line=4]não deveriam mais estar acontecendo.
+\
+`"Eu[line=4]matei ela?"@
+` Sim, eu matei.@
+` Como da vez em que matei a Yumizuka.@
+` Ontem à noite[line=4]eu estava ofegante e[line=4]aquela mulher que nunca conheci[line=4]eu[line=7]
+\
+wave se_01
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Eu não te disse, Shiki-kun?@
+` É inútil resistir.
+\
+bg "bg/bg_50",notrans,0
+`"Uu[line=3]"@
+` Contendo a ânsia de vomitar todo o almoço, levanto da cadeira e saio cambaleando.@
+br
+bg #000000,lshutter,400
+` Não posso voltar para a sala de aula.@
+` De alguma forma, estou correndo pela cidade.
+\
+!w2000
+bg "bg/bg_31a",crossfade,400
+` [line=3]Vim para o lugar do meu sonho.@
+br
+` Há vários policiais na área, uma fita escrito "Linha da Polícia Não Cruze" está espalhada pelo beco.@
+`"[line=3]É idêntico."@
+` Sem dúvida, este é o lugar onde estive no meu sonho.@
+br
+` [line=3]Não, não foi um sonho.@
+` Não posso me iludir mais do que isso e continuar pensando que foi um sonho.@
+`"………"@
+` Se eu ficar aqui mais tempo, os policiais vão ficar me encarando.@
+` …… Não posso voltar para a escola agora.@ Acho que vou voltar para a mansão.
+\
+bg #000000,crossfade,800
+bg "bg/bg_33a",crossfade,800
+waveloop se_11
+` Já que não são nem duas horas da tarde, a Hisui não está me esperando no saguão.@
+`"……………"@
+` Estou com sorte.@ Não estou com vontade de ver ninguém agora.
+\
+bg #000000,lshutter,800
+bg "bg/bg_40a",lshutter,800
+` *suspiro*@
+` Eu respiro fundo e caio na cama.
+\
+bg #000000,crossfade,800
+` …… Não entendo nada disso.@
+` Eu tenho sonhos em que mato pessoas.@
+` E no mundo real, os mesmos assassinatos acontecem.@
+` Hoje eu estou vivendo uma vida normal.@
+` Mas ontem eu sentia deleite em matar alguém nos meus sonhos.@
+br
+br
+` [line=7]Qual deles…
+`      É o verdadeiro Tohno Shiki?
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+` Você realmente precisa perguntar?
+\
+textcolor #ffffff
+` …… Essa voz de novo.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+` Anda logo, vamos continuar, Shiki.
+\
+textcolor #ffffff
+` …… A voz que ecoa dentro da minha cabeça.@ A minha voz.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+` A noite surge ao final de cada dia.@
+` Com certeza vamos encontrar quem procuramos em uma dessas noites, né…?
+\
+textcolor #ffffff
+ld c,"tachi/aki_t01c",notrans,0
+!w250
+bg "bg/bg_40a",notrans,0
+wavestop
+`"Cala a boca[line=4]!"@
+` Pulo da cama.@
+` *arf* *arf* *arf*
+` A minha respiração está fora de controle.@
+br
+` Agora mesmo…
+` Eu desejei que fosse a Akiha.
+\
+` *arf* *arf*
+` …… Sinto que vou vomitar.@
+` Eu nem penso sobre essas coisas normalmente, mas quando tento dormir, esses pensamentos estranhos aparecem na minha cabeça.@
+` É como se houvesse outra pessoa dentro da minha cabeça.
+\
+`"……… Ah."@
+` Pensando bem, a Akiha disse algo do tipo mais cedo.@
+` Era sobre[line=4]o meu pai mudar completamente de personalidade de uma hora pra outra…… Parece com o que estou tendo agora.@
+` …… Mas é claro, tal pai, tal filho.@ Pode até ser hereditário.@
+`"O quarto do meu pai… Hum[line=4]acho que ainda o mantém como antes…"
+\

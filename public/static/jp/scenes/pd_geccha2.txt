@@ -1,0 +1,879 @@
+bg #000000,crossfade,1500
+bg "bg/bg_59",bcartain,1000
+play "*03"
+wait 1000
+ld l,"tachi/stk_t01",rshutter,800
+textbox adv
+`　やったよー！@
+`　みんな、わたしも月茶に出ていいってー！
+\
+`　月箱も出たことだし、これでお蔵入りになってたわたしのお話もついに日の目にでる……って、あれ？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　なぜに誰もいないのかな？
+\
+cl l,crossfade,200
+`　ふふふふふ。@それはドイツもコイツもっとくに帰ったからだにゃー。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……あ。なんかすごくイヤな予感。
+\
+ld r,"tachi/neko_t01a",rshutter,400
+`　ふ、東に三下と嘆く声あらばトドメを刺し、
+`　西に準ヒロイン候補ありと聞けば直ちに降板！
+\
+`　報われないアナタに合の手（誤字にアラズ）を授けるため神が遣わしたイナセな正ヒロイン、ここに爆・参！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　で、呼んだかにゃさっちん？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　ううん、呼んでないよ。@
+`　お呼びじゃないからさっさと帰って♥
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　むむ？@　電波受信し間違えたかにゃ？@　ここでメルティにも出られない哀れなローズドッグがいると聞いたのだがゃ？
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　そ、そんなコトないもん！@　ちゃんと出てるし、ちゃんと出るんだから！@　ね、そうだよねフランスパンの偉い人！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　フランスパン？　知得留のことかにゃ？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　え……違うけど、わたしもよく分かんない。@今はそうだって聞いてるけど、いくらなんでもフランスパンは、
+`ほら。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　うむ、いくらなんでも美味しそうなのだ。@
+`　で、知得留に用かにゃ？　呼ぶぞ？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　ううん、お呼びじゃないよ。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……というか、アナタ誰なのかな。
+\
+ld r,"tachi/neko_t02",tshutter,200
+`　あちしか？@　あちしは猫アルク。@おぬしの暗黒面が具現化したモノ、すなわち弓塚さつきの本体じゃ、カカカカカー！
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　うそ！@　ぜぇっ[line=3]たいうそ！@
+`　もうっ、いいから出て行ってくださーい！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　む、さっちん怒ったか？@
+`　……しょうがない、そろそろ本題に入ってやるかにゃ。
+\
+`　ではそこに座りなさいさっちん。@コトとシダイによっては今からミスドリラーになってもらう故。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　え……？　あれ、アナタ何持ってるの……
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　って、それわたしのシナリオ[line=7]！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　その通り。@さっきぶっ壊れたハードディスクから摘出してきた二年前の発掘武装にゃ。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　永遠のサブヒロイン、弓塚さつき。@君は今から自分の
+`[ruby=シナ]過[/ruby][ruby=リオ]去[/ruby]と向き合うのだ。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　それが今回のテーマ！@
+`　題して、
+\
+bg #ffffff,rshutter,800
+bg "bg/yumizuka",crossfade,5000
+bg "bg/bg_59",bshutter,800
+wait 800
+ld r,"tachi/neko_t01a",crossfade,200
+`　気に入ったか？@　ちなみにさっちんの無双乱舞は殴って殴って殴りまくり？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……はあ。@あのさ、猫さん。@
+`　向き合うって言っても、そもそもその[ruby=シナ]過[/ruby][ruby=リオ]去[/ruby]が公開されてないんだけど、わたし。
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　にゃらっぷ！@
+`　では、とりあえず今日のプログラムを。
+\
+cl a,crossfade,400
+textbox nvl
+wait 800
+br
+br
+br
+`　１．オープニングムービー～猫アルクによる生ライヴ
+`　２．花束贈呈
+`　３．午前の部・メルティブラッド設定公開
+`　４．昼食
+`　５．昼休み
+`　６．ゲーム大会
+`　７．解散
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,400
+textbox adv
+`　わたしの出番ないじゃん！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　え、ほんとか？
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　ふ……ふふ、ふふふ！
+\
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #9c0120,crossfade,200
+bg "bg/bg_59",crossfade,200
+ld l,"tachi/stk_t03",crossfade,200
+`　ほおら、よぉーく見てみてねー。@さ・つ・きの一文字も入ってないでしょー、このプ・ロ・グ・ラ・ム。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　う……ぎぶ、ぎぶ。@
+`　すまぬにゃ、どうやらさっちん台頭を恐れたカレー好きにすり返られた模様。
+\
+`　んじゃ、短縮してこれでどーか？
+\
+cl a,crossfade,800
+wait 800
+textbox nvl
+br
+br
+br
+br
+br
+`　１．開幕・さっちんいじり
+`　２．さつき設定画紹介(１)
+`　３．さつき休憩
+`　４．さつき設定画紹介(２)
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,200
+textbox adv
+`　わたしの出番しかないじゃん！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　これでも不服だというのか……長年虐げられたモノの憤怒、思いしらされちっち。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　え[line=3]？@　あ、そっか、出番があるんだ！@
+`　それって喜んでいいんだよね！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　だからそうだと言っておろう。@
+`　喜べさっちん。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　うん！　アナタいい人だったんだね！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　あったりまえにゃ。@あちしは知得留以外には仏のような存在。@むしろ愛。@でもあちしより先にメルティに出たらマジで殺す。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　あ、ゴメンナサイ。@
+`　それに関しては今のうちに謝っておくね。
+\
+ld r,"tachi/ark_t31a",crossfade,400
+ld r,"tachi/ark_t31b",crossfade,400
+`　にゃによう！？@　なんだその哀れみの目は！@
+`　猫に、猫アルクに用はないと言うのか[line=4]！？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　んー、ないんじゃないかな。@
+`　あ、けどなんか技であるみたいだよ？@　アナタ、ロケットで空を飛ぶんでしょ？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　……むむ。@そういうコトならよし。@
+`　猫的にガード不能・永遠追尾・ヒット数死ぬまで加算、
+`なら中々に上機嫌にゃ。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　でしょ？@　それじゃあそろそろ本題に入りたいんだけど。@
+`　アナタの持ってるそれ、わたしの立ち絵だよね？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　そだぞ。@……んー、あんましいいもんじゃないけど見るか？@　わりとガッカリするぞ？@　自分の立ち位置を再認識しちゃって。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　い・い・か・ら・見・せ・る・の・っ。
+\
+cl a,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+`　いた、さっちん頭掴むのダメだぞ。@
+`　もうフツーの女の子じゃないんだから、甘えられても即死亡、みたいな。
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　ふふふふふ。@そうゆうコト言うとわたしもその気になっちゃうかなー。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　うにゃ、本気だにゃ？@
+`　……仕方ない、んじゃ一枚目。とりあえず見れ。
+\
+bg #ffffff,bcartain,1000
+bg "bg/s01",bcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+`　あ、これは比較的初めのラフだよね。@どんな時に使われる予定なのかな？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　んー、宿題忘れて立たされた時かにゃ。@
+`　あと志貴に告白して断られた時。
+\
+cl r,bshutter,200
+wave pd/s09
+ld l,"tachi/stk_t03",crossfade,200
+`　そこ、うそ言わないでくださーい。@
+`　これはぁ、不安なわたしを置いて遠野くんが帰っちゃう時に使われるものでーす。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　あー、飛んだ。@琥珀なみに壁画になったにゃ。@
+`　んじゃ次。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s02",lcartain,1000
+ld l,"tachi/stk_t13",crossfade,200
+`　えーと、これは？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　んー、クロスアームブロックかにゃ。@
+`　あと志貴に告白して断られた時。
+\
+cl r,bshutter,200
+wave pd/s14
+ld l,"tachi/stk_t01",bshutter,200
+`　引き続き行ってみたいと思います。@
+`　はい、次はシナリオも中盤、とりあえず一段落した後の日常で使われるもの……だそうです。
+\
+bg #ffffff,bcartain,1000
+bg "bg/s03",bcartain,1000
+ld l,"tachi/stk_t10",crossfade,200
+`　……えーと、怒ってます。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　ふふふ、相変わらずぷにぷにしたほっぺたよのう。@
+`　さっちんは頬のぷにぷにさがチャームポイントだと思うのだが、どうか。
+\
+ld l,"tachi/stk_t07",crossfade,200
+`　え、えーと次です、次。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s04",lcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`　下校！？　下校イベントなのか！？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　いえいえ、普通の追加立ち絵です。@
+`　はにかみながらも嬉しそうなところを見ると、わたしのシナリオもそう酷いコトばっかりじゃなさそうです。
+\
+ld r,"tachi/neko_t02",crossfade,200
+`　はたしてそうかにゃ？@　これを見てもそんな呑気なコト言っていられるかさっちん？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　え……な、なにか知ってるの猫さん？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,200
+`　ふふふ、では見るがいい！@
+`　これがさっちんシナリオにおけるメインステージ、
+`　本邦初公開、さっちんの部屋だ[line=5]！
+\
+playstop
+bg #ffffff,tshutter,800
+wait 1000
+bg "bg/bg_sp",bshutter,800
+wait 2000
+play "*03"
+ld l,"tachi/stk_t09",crossfade,200
+`　…………………………へ？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　んー、すいーと（るーむ）。
+\
+ld l,"tachi/stk_t12",notrans,0
+`　うそ[line=4]こんなのってないよ[line=6]！
+\
+ld l,"tachi/stk_t11",notrans,0
+`　そもそもこれ部屋じゃない！@
+`　ただの廃墟、廃ビルじゃないっ！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　むふふ。@つまりはそういうコトなのだ。@
+`　ここでさっちんはイタイケな少年の貯金十万円を全て浪費させるワケなのだよ。
+\
+`　ああ、恐るべしさっちん、お金のかかる女。@危うし志貴、預金残高ゼロまであと三日！
+\
+ld l,"tachi/stk_t04",crossfade,200
+`　あうう……ごめんなさい遠野くん……。
+\
+bg #ffffff,lcartain,3000
+bg "bg/s05",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+`　んでこれが、その後の話にゃ。@
+`　志貴の通帳を枯渇させてガッツポーズのさっちん。@
+`　魔性の女め。
+\
+ld l,"tachi/stk_t11",bshutter,200
+`　違うもん！@　これはもっとハートフルな場面で使われる筈だもん！
+\
+`　だってほら、すーぱーさっちんって書いてあるじゃない！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　む？@　どっかで聞いた台詞。@
+`　それはアレかにゃ、茸の野郎が一番好きな放課後サンドバックにオラオラオラなあの娘かにゃ？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　え……それはその、どうなんだろ？
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　ま、ヤツのちびっ子趣味なんてどうでもいいにゃ。@
+`　んじゃ次行くぞ。
+\
+bg #ffffff,rcartain,1000
+bg "bg/s06",rcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`「ほう。@これは立ち絵じゃなくてイベント画のラフにゃね。さっちん、ぱんつ見えてるぞ」
+\
+`「ばかっ、見えてないもん！」
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,200
+`「？？？@　ヤマビコかにゃ？@
+`　むー、考察したところ眠そうなさっちんなので、徹夜明けでなんかやってると見た。
+\
+`　本人が恥かしがって出てこないんで、これ以上の解説は無理にゃ。一応、今回はネタバレ禁止だし」
+\
+bg "bg/s07",bcartain,1000
+ld r,"tachi/neko_t01a",bcartain,200
+`「そして次がこれかにゃ。@ふむふむ、どうもシナリオも中盤というところらしいにゃ。
+\
+`　……本人がまだ帰ってこないんでなんとも言えにゃいが、やはり志貴にふられて泣いて[line=4]」
+\
+bg #9c0120,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,notrans,0
+`　いたい、いたい！@　さっちん梅干反則！@
+`　タップ！@　タップにゃレフリー、ぐわ、頭蓋骨にフランケン[line=4]！？
+\
+bg #ffffff,crossfade,200
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+playstop
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 3000
+bg "bg/bg_59",bshutter,800
+play "*03"
+ld l,"tachi/stk_t06",crossfade,200
+`　さて、初期設定画紹介(１)はこれでおしまい。@
+`　次はメルティブラッドのお話なんだけど、
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　あー、いたた。@さっちん、スイカ割りって知ってるか？@
+`　あんましよくにゃいぞ、そーゆーの。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　メルティブラッドと言えばゲストヒロインのシオンさん。@
+`　今度は彼女の初期設定を重点的に公開しよっか。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　無視かよ。
+\
+bg #ffffff,bcartain,1000
+bg "bg/t01",bcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`　うわ、誰にゃコイツ[line=4]！？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　シオンさんです。@初めはエジプトって事で褐色系だったんだよね。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　けど棒持ってるぞ。やっぱりニセモノにゃ。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　それはまだシオンさんがぷにぷに属性の頃の話です。@
+`　では、いかにしてシオンさんが今のシオンさんになったのか、スライドスタート！
+\
+bg #ffffff,lcartain,1000
+bg "bg/t02",lcartain,1000
+bg #ffffff,bcartain,800
+bg "bg/t03",bcartain,1000
+bg #ffffff,lcartain,800
+bg "bg/t04",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+`　ほうほう。なるほど、段々角張ってきてますな、色々。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　初めはなんとなく年下って設定だったからねー。
+\
+`　設定画２の、まっ白い服と褐色の肌、という組み合わせはシナリオの人もトキメイてたらしいんだけど、やっぱりイメージじゃないから没になったんだって。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　むむむ。@なんつーか、こうね格闘ゲームっぽいデザインしてるにゃ。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　そうだよ。@シオンさんのコンセプトはドット映えする造形だもん。@イメージカラーが鮮やかな紫なのも、パッと見で覚えてもらえるようになんだって。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　にゃるぺそ。@きゃっつもただのメイド好きではないという事か。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　え、えーとそれじゃ次にいこっか。@
+`　次は……あれ、これだれなのかな？
+\
+bg #ffffff,tcartain,1000
+bg "bg/t05",tcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+`　あ、コイツかー。@コイツはまあ、ネタバレになるんで説明はカットにゃ。@
+`　カットカット。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　？？？
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　ま、月姫で使う予定のキャラじゃなかったんだけどにゃー。
+\
+`　メルブラっていうゲームにおける、「全員と戦うのに矛盾が生じない」@条件を満たすにはコイツが最適だったのにゃ。
+\
+`　実はシオンより先にコイツがデザインされて、コイツが出るって決まった瞬間、予定されてたシエルのライバルキャラは没になって、シオンの出演になったワケ。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　ええ！？@
+`　シエル先輩のライバルキャラってなに！？@　聞いてないよわたし！？
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+`　んー？　あ、そっか、言ってなかったか。
+\
+`　ホントはね、メルティのシナリオはよくある格闘ゲームのタイプで、新キャラはヴァンパイヤハンターだったにゃ。
+\
+`　月姫、まっとうなヴァンパイヤハンターがいないからにゃ。
+\
+`　で、教会から正式外典っつー盾を持った異端狩りがやってくるワケ。この盾がにゃ、なんとバイルバンカー。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　え……じゃあ、もしかしてメルティブラッドって。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　そうにゃ。@初期の案では、シエルメインの吸血鬼ハンター同士の戦いだったんにゃ。
+\
+`　激突する黒衣の代行者と聖盾の騎士！@
+`　軋む撃鉄、鬩ぎ合うパイルバンカー！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　どうよ。
+\
+ld l,"tachi/stk_t10",crossfade,200
+`　うわあ……じゃあリーズバイフェさんって。
+\
+ld r,"tachi/ark_t31b",crossfade,200
+`　シオンに出番を奪われた三下にゃ。@デザインだってあるぞ。原画担当が激しく嫌がって出してくれにゃいけど。
+\
+ld l,"tachi/stk_t07",crossfade,200
+`　うーん……なんか、仲良くなれそう。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　そりゃ無理にゃ。@
+`　きゃっつの得意技はハイアングルギロチンフラッグ。
+\
+`　吸血鬼さっちんの首はパイルバンカーによって串刺しにされ、天空に掲げられた旗のようにブラブラした事からそう言われる、ばい民面書房館。
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　そっかー。それは仲良くなれないねー。
+\
+bg #ffffff,lcartain,1000
+bg "bg/t06",lcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+`　あ。これはシオンさんの表情集？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　うん、まだあるにゃ。
+\
+bg #ffffff,rcartain,1000
+bg "bg/t07",rcartain,1000
+ld l,"tachi/stk_t09",crossfade,200
+`　うわあ……こう見るとシオンさんって美人だよね……
+`あれ？　でも、目を瞑った顔、さっきの人と……
+\
+ld r,"tachi/neko_t02b",notrans,0
+`　うなる肉球！
+\
+cl r,notrans,0
+quakexy 10,10,400
+quakexy 10,10,1000
+wave pd/s09
+bg #ffffff,crossfade,400
+bg "bg/bg_59",crossfade,800
+ld r,"tachi/ark_t31b",crossfade,200
+`　うかつなコトは言うにゃ。@
+`　長生きできにゃいぞ。
+\
+ld l,"tachi/stk_t04",crossfade,200
+`　そんな……吸血鬼になったわたしに、こんな、ダメージを[line=4]
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　にゃにゃにゃ、吸血鬼を奢るのは百年早いにゃ。@
+`　さっちんなんてあちしに比べればヒヨコもヒヨコ。@
+`　下手すっと火星までスッ飛ばすぞ？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　ぁ……はい、わかりました……（ちょっと尊敬）。
+\
+ld r,"tachi/neko_t01b",crossfade,400
+ld r,"tachi/neko_t01a",crossfade,400
+`　素直でよろしい。@
+`　んじゃ続いて午後の部、各設定画紹介(２)に行こうかにゃ。
+\
+`　ちょうどさっちんも吸血鬼として自覚出てきたコトだし、次は吸血さっちんをメインに行ってみよう！
+\
+bg #ffffff,lcartain,1000
+bg "bg/s08",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s09",bcartain,1000
+wait 1500
+bg #ffffff,lcartain,400
+bg "bg/s10",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s11",bcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+`　そら、どうにゃのよ。@
+`　奥様おどろきの黒さ。@以上、吸血鬼化したさっちんでした。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　く、黒くなんてないもん！@　ちょ、ちょっと暴走してるだけじゃない！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,400
+`　ほうほう。@これで暴走だなんて言ったら後々びっくりにゃぞ？　まああちしには関係ないが。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　う……けど、最後のは普通だったよ？@　髪下ろしてたから吸血鬼の時みたいだったけど。@
+`　……アナタ、あれが何処で使われるか知ってる？
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　知らん。@シナリオ担当も今日始めて見たと言ってる。@
+`　茸おどろきの事実。ホントに仲いいのかあの二人。
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　そ、そうなんだ……けどいい顔してたよね？@　ちゃんとああゆうふうに笑える時があるんだ。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　ふふふふ。@安心するのはまだ早い。@
+`　これでも食らえ！
+\
+bg #ffffff,lcartain,800
+bg "bg/s14",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,800
+bg "bg/s15",tcartain,1000
+wait 2000
+ld l,"tachi/stk_t11",crossfade,200
+`　え、えええええええええええ！？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　…………これ、誰かにゃ？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　い、一枚目はわたし……だったけど、これは……？
+\
+cl r,crossfade,200
+ld c,"tachi/neko_t01a",crossfade,200
+`　とぼけるにゃ。@本性出したさっちんじゃん。@
+`　この、追い詰められていかにも三下っぽい顔つきなんてもう、どう見てもさっちん以外ありえな[line=4]
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　ふふ、うふふ、うふふふふふふ！
+\
+wave pd/s09
+bg #ffffff,notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg #9c0120,notrans,0
+quakexy 10,10,200
+bg "bg/bg_59",bshutter,800
+ld l,"tachi/stk_t06",crossfade,200
+`　さ、次はこの一枚。@吸血鬼とか関係ない、昔のわたしのラフ画かな。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s16",lcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+`　いや、これも吸血鬼さっちんにゃ。@
+`　心なしか美人に見えるのは、人間が吸血鬼になると美形になるからなのにゃ。
+\
+`　髪が伸びるのは……まあ、アンテナ広げるようなものかにゃ。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　え、そうなの？　吸血鬼になると美人になるの？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　然り。@んじゃ、決定的な証拠写真を見せよーか。@
+`　ほり。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s12",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,1000
+bg "bg/s13",tcartain,1000
+wait 1500
+ld l,"tachi/stk_t09",crossfade,200
+`　うわ。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　まあ別人にゃんだけどにゃ。@
+`　ぷにぷにしてないさっちんなんてノーモアさっちん。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　この、吸血鬼になったら美形になる、という設定はこのさい忘れてイベント画を描いてもらいますよ？
+\
+ld l,"tachi/stk_t11",bshutter,200
+`　は、反対っ！@　設定無視するの反対！@　い、いままで散々細かい設定を作ってきたんだから、ちゃんと守らないとダメなんだから！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　まあまあ。全て無視するワケではないのだぞ？
+\
+`　むふふ。@
+`　それでは今回最大の目玉、ファイナルさっちんを見せてくれるにゃ[line=4]！
+\
+playstop
+bg #ffffff,tshutter,800
+bg "bg/scroll19",tshutter,1000,bottom
+wait 2000
+`　ごごごごごごごごごごごご（擬音）。
+\
+bg "bg/scroll19",bscroll,4000,top
+wait 2000
+ld r,"tachi/ark_t30",crossfade,200
+`　ごごごごごご……って、アレ？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　[line=12]。（ぽかん）
+\
+ld r,"tachi/ark_t31a",crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+`　むむ、ニセモノはっけ[line=6]ん！@
+`　見知らぬさつきをやっけろ[line=5]！
+\
+ld r,"tachi/neko_t02",crossfade,200
+rocket layer=r my=-200 magnify=5.0 time=800 accel=4 opacity=64
+cl r,notrans,0
+ld l,"tachi/stk_t12",crossfade,200
+`　や、やっつけちゃだめ[line=8]！
+\
+bg #ffffff,lexpl,4000,center
+wait 4000
+play "*03"
+bg "bg/bg_59",crossfade,1000
+ld r,"tachi/ark_t30",bshutter,200
+`　は！？@　い、いまのはにゃんだ！？@
+`　まさかこれがさっちんの力なのか……！？
+\
+ld l,"tachi/stk_t02",crossfade,200
+`　そうよ。@今のが吸血鬼として完全に覚醒した弓塚さつき。
+\
+`　そのありあまる×××が×××で、×××がなった時に××××が[line=4]
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　って、伏字ばっかりでわかんないよぅ……！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　だから言ったじゃん、ネタバレはご法度だって。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　でも別にいいんじゃない？@
+`　さっきのさっちんが何者なのかは永遠に闇の中なんだから、知っても知らなくても。
+\
+cl l,rshutter,800
+`　うわーん！@
+`　永遠に闇の中なんかにしないんだから[line=4]！
+\
+bg #000000,rshutter,2000
+wait 1000
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01a",crossfade,200
+`　とまあ、こんなところかにゃ。@
+`　最後の花道、満足いったかさっちん？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……ふーんだ、これが最後だなんて有り得ないもの。@
+`　シナリオは出来てるんだし、イベント画だっていっぱい人が増えたんだから[line=4]
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　茸のヤツ、さっきシナリオ見直して頭抱えてたぞ？@
+`　なにぶん二年前だからにゃー、もうネタも風化してるんだろうにゃー。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　そ、それだったら書き直してくれるもん！@
+`　フェイトが終わったら次は月姫の直しだって、知らない人が言ってたんだから！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　その知らない人はホントに知らない人っぽいから信用するにゃ。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　んー、けどまあ順当にいけばフェイトの次はさっちんかも知れないぞ？@　茸もメイドの人も、本当に早くさっちんに花を持たせたいみたいだから。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　え、ほんと！？
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　うにゃ。@ただし、月姫じゃないよく分からない作品でにゃ。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　そ、そんなのだめ[line=4]！@
+`　違うお話じゃ遠野くんがいないじゃないっ！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　ぬ？@　なんださっちん、自分の話が欲しいんじゃなくて志貴とラブラブになりたかっただけなのか？
+\
+ld l,"tachi/stk_t07",crossfade,200
+`　え……うん、それは、そうだよ。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　わたし、最後に泣かせちゃったから。@
+`　もし違う終わり方があるのなら、せめてお別れには笑っててほしいなあって。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　そっか。@
+`　んじゃ、その望み叶えてやるにゃ。@
+`　倍率どん、さらに倍。
+\
+bg #ffffff,crossfade,1500
+bg "bg/s17",crossfade,1000
+ld l,"tachi/neko_t01a",crossfade,200
+`　どうにゃ？@
+`　志貴とらぶらぶ。満足か？
+\
+`「××××××××××××××××××」
+\
+ld l,"tachi/neko_t01b",crossfade,200
+`　さっちんには刺激強すぎたか。@
+`　んじゃ最後に茸から奪取した、さつきルート最後の山場がどうなるか見せてやるにゃ。
+\
+play "*04"
+bg #000000,bshutter,800
+bg "bg/bg_52",crossfade,800
+`　[line=3]一日、また一日と吸血鬼化していくさつき。@
+`　さつきの素質を認め、完全な支配下におこうと迫り来るミハイル・ロア・バルダムヨォン。
+\
+`　志貴はさつきを守る為、白い吸血姫と共にロアの根城たる学校に赴く。@
+`　そこに待ち受ける蛇の盟友、ネロ・カオス。
+\
+`　炎上する校舎、黒い獣に飲み込まれていく三咲町の大地！
+\
+`　ロアの棺を巡って三つ巴の戦いが始まる中、さつきはついに戦いを決意するのだが[line=4]
+\
+`　次回月姫、弓塚さつき最終章、夢現解体。@
+`　全ての鍵を握るのは[line=4]
+\
+playstop
+bg #ffffff,crossfade,800
+wait 2000
+bg "bg/bg_sp02",crossfade,2000
+ld r,"tachi/neko_t01b",crossfade,200
+`　これにゃ。
+\
+ld l,"tachi/stk_t12",crossfade,200
+`　きゃ[line=4]、燃えてる[line=4]！？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　イヤーン、さっちんたら燃え燃えー。
+\
+`　しかも大砲！@　なんで！？@　なんで大砲なんかが出てきちゃってるのー！？
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　侮るにゃい、ただの大砲じゃにゃいぞ。@
+`　これは遠野家屋上に取り付けられた吸血鬼殲滅砲なり。
+\
+`　これで丘の上からさっちん狙い打ち。
+\
+ld l,"tachi/stk_t04",crossfade,200
+`　うわあ、大ピンチだよぅ、助けて遠野くーん……！@
+`　……って、いったいどんなシナリオになってるんですかー！？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　それはやってのお楽しみという事で。@
+`　あんまりネタバレするとつまんなくにゃるからな。
+\
+bg #ffffff,crossfade,1000
+play "*03"
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01b",crossfade,200
+`　[line=3]さて、そろそろタイムリミットにゃで。@
+`　お別れの時間ださっちん。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　え……？@
+`　うん、ネタも尽きてきたろうから終わるのはいいんだけど……タイムリミットって、なんの？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　この喫茶店に仕掛けられた核爆弾の。@
+`　ちなみに、臨界まであと三秒。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　三秒って……あはは、それじゃ逃げられないよ？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　うむ、検討を祈る。@生きていたらさっちんシナリオで会おう。@
+`　ちなみに、そん時ゃあアンタ、あちしの敵だからな？
+\
+ld l,"tachi/stk_t10",crossfade,200
+`　それはいいけど……なんか、その核爆弾ってアナタの背中に付いているんだけど……ていうか爆弾じゃなくて核ミサイル？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　にゃにぃぃぃぃぃいいい！！！！？？？？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　あ、さっちん、とってとって。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　ごめんなさい、お断りします。
+\
+cl a,crossfade,200
+ld c,"tachi/ark_t30",bshutter,200
+`　ぎにゃー！@　ジェットランダーがいつのまにかスカッドミサイルに！？
+\
+rocket layer=c my=-600 magnify=0.2 time=1200 accel=5 mode=stNearest wait=false
+wave pd/fly
+bg #ffffff,lcircle,1200
+bg "bg/ima_06b",ccircle,400
+`　お、おのれ計ったにゃ知得留！@
+`　ワニ園でした劉備兄弟ばりの誓いはどうにゃのよぅ～～～！
+\
+bg "bg/title_01",crossfade,800
+wave pd/s21
+bg #ffffff,crossfade,2000
+wait 4000
+play "*03"
+bg "bg/bg_59",lcartain,1000
+ld c,"tachi/stk_t13",crossfade,200
+`　……一人になっちゃった。
+\
+`　進行役の猫さんもいなくなったし、残ってても仕方ないよね。@
+`　すみませーん、お会計お願いしまーす！
+\
+ld c,"tachi/stk_t01",crossfade,200
+`　じゃ、わたしも帰るけど最後に伝言ね。@
+`　さつきシナリオはどんな形にしろきちんと発表する、
+`というのがスタッフさんの総意だそうです。
+\
+`　長いお休みになるけど、それまでのんびり待っていてください。
+\
+ld c,"tachi/stk_t03",crossfade,200
+`　それじゃあばいばーい！@
+`　次は月姫本編、お迎えがある夕暮れの坂道で会いましょう！
+\
+playstop
+cl c,tshutter,800
+bg #000000,crossfade,3000
+textbox nvl

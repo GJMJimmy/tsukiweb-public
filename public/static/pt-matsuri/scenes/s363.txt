@@ -1,0 +1,384 @@
+playstop
+waveloop se_02
+bg "event/aki_e05a",notrans,0
+` *arf* *arf* *arf*
+br
+` Não consigo respirar direito.@
+` Os olhos da Senpai nem parecem interessados na minha morte.@
+` A sua adaga está pronta para perfurar o meu coração.@
+` Estou em uma situação em que posso ser morto em menos de um segundo.
+\
+`"Que estranho!@ Você matou tantas pessoas, mas está com medo da própria morte?"@
+`"[line=8]"@
+` A sua respiração atinge os meus olhos.@
+` As suas palavras me deixam tonto.
+\
+bg "event/aki_e05b",crossfade,400
+`"Adeus.@ Se não for agir, Tohno-kun, eu vou ter que agir no seu lugar."@
+` Dizendo isso,
+` ela coloca força nos braços.@
+`"[line=9]"@
+` É o fim.@
+` O Tohno Shiki vai morrer aqui.@
+` Se eu não quiser que isso aconteça.@
+` Preciso acertá-la antes[line=3]!
+\
+wavestop
+bg #ffffff,notrans,0
+`"Guh[line=4]!"@
+` Coloco força na mão.@
+` Mas é só isso.@
+` Os meus braços não se mexem.@
+` …… Eu não quero morrer.@ Não estou disposto a morrer só porque sou um assassino.@
+` Eu vou ser morto se não matar a Ciel-senpai.@
+` Por isso, mesmo não querendo, preciso matá-la de qualquer forma.@
+br
+` Então, por quê?@
+` Por que o meu braço não se mexe?[line=4]
+\
+play "*7"
+bg #000000,crossfade,400
+monocro #ffff00
+bg "event/stk_e01c",crossfade,400
+!w2000
+br
+` De repente.
+\
+br
+br
+br
+br
+br
+br
+` Eu[line=4]queria ter conversado mais com você, Tohno-kun.@
+` É por isso que eu não quero morrer agora.
+\
+br
+br
+br
+` Essas palavras.
+\
+br
+br
+br
+br
+br
+` Pode ter certeza de que essa foi a melhor maneira para acabar.@
+` [line=3]Então, não chore, Tohno-kun.@ Você fez a coisa certa.
+\
+br
+br
+br
+br
+br
+` Elas dominam a minha mente.
+\
+br
+br
+br
+br
+br
+br
+` Tchauzinho, Tohno-kun.@
+` Obrigada por tudo[line=3]e[line=4]me desculpe.
+\
+bg #000000,crossfade,400
+monocro off
+br
+br
+br
+br
+` [line=5]Eu sei.@
+br
+` Agora entendo.
+\
+bg "event/aki_e05b",crossfade,1500
+`"Por que não está resistindo?"@
+` Ouço a voz da Senpai.@
+` A adaga continua no meu peito; ela rasgou a minha blusa e penetrou na minha pele.
+\
+`"Você vai morrer desse jeito.@ Por quê?@ Por que não move a sua faca?"@
+br
+` É porque…@
+br
+`"…… Eu não posso fazer isso."
+\
+br
+`"Por que não?@ Você não já matou um monte de gente?"@
+br
+` Nunca mais.@
+br
+`"…… Eu não posso fazer isso, Senpai."
+\
+`"Você acabou de matar aquele cadáver.@ Depois de fazer isso uma vez, a segunda e a terceira não vão ser nada demais.@ Se você não me matar, eu vou te matar."@
+` …… Ela está falando sério.@
+` Logo o assassino conhecido como Tohno Shiki vai ser morto.@
+` Não significa que eu não esteja com medo.@
+br
+` Mas mesmo assim[line=3]
+\
+br
+br
+br
+br
+br
+br
+br
+`"Eu não posso… Matar uma pessoa[line=3]"
+\
+` Quando falo, as lágrimas descem pelo o meu rosto.@
+` Não é por causa de tristeza ou infelicidade.@
+` Mas as lágrimas que escorrem pelas minhas bochechas não param.
+\
+bg #ffffff,crossfade,800
+!w1000
+playstop
+bg "bg/bg_10f",crossfade,800
+play "*8"
+` Quanto tempo já se passou?@
+` A minha mente que está em transe…
+`"[line=3]Ufa.@ Finalmente entendeu, hein, Tohno-kun."@
+` …… Volta ao normal depois de ouvir as palavras da Senpai.
+\
+`"Hã[line=3]Sen[line=4]pai…?"@
+ld c,"tachi/cel_t14",crossfade,400
+`"Está satisfeito agora?@ Você não é um assassino.@ As suas palavras foram completamente verdadeiras.@
+` Portanto tudo não passou de um sonho.@ O Tohno-kun é o Tohno-kun.@ Um rapaz muito gentil, atencioso e tão sensível que foi capaz de chorar por algo assim.@ Apenas o rapaz normal de quem eu já estava com saudades."@
+br
+` Ela retira a adaga do meu peito.@
+` Seu tom de voz assustador desaparece e ela volta a ser a Senpai gentil que conheço.
+\
+`"Então por quê…?@ Você não veio aqui para me matar, Senpai…?"@
+ld c,"tachi/cel_t07d",crossfade,400
+`"Sim, mas na verdade, vim para matar a repulsa de si mesmo que estava alojada no seu coração.@ Você não é um assassino.@ Mas como você não queria acreditar em mim de jeito nenhum, tive que te persuadir de um modo mais físico."@
+`"O qu[line=3]persuadir de um modo mais físico?@ Quer dizer que[line=4]isso tudo foi só encenação…!?"
+\
+ld c,"tachi/cel_t14b",crossfade,400
+`"Não, eu estava falando sério.@ Eu não podia descartar totalmente a possibilidade de você ser um assassino, Tohno-kun.@ Portanto eu não pude me segurar.@ Além disso, é mais divertido lutar com força total.@
+` É divertido ficar provocando as pessoas que a gente gosta também!"@
+` Ela diz algo muito assustador com um sorriso.
+\
+`"Ha[line=3]"@
+br
+` [line=3]Eu caio no chão.@
+` Tudo que estive pensando até agora parece tolice.@
+`"Haha[line=2]ha[line=3]"@
+` Acho engraçado e começo a rir.@
+` Depois do que ela disse, o meu medo de ser um assassino desapareceu.
+\
+`"…… Você tem razão.@ Finalmente entendi.@ Mas que coisa horrível, Senpai.@ Você foi longe demais, hein!?"@
+ld c,"tachi/cel_t14",crossfade,400
+`"Sim.@ Estive pegando muito leve com você até hoje, por isso resolvi consertar esse meu erro."@
+` Sorrindo, ela me estende a mão.@
+` Eu a aceito.@
+` Ela me ajuda a levantar.
+\
+bg #000000,tcartain,800
+!w500
+bg "bg/bg_02a",bcartain,400
+` Saímos do prédio da escola.@
+` A Senpai tratou dos meus ferimentos que ela mesma infligiu.@ Ela fez algum truque e os ferimentos se fecharam logo depois de ela colocar um negócio parecido com remédio e cobrir com as mãos.
+\
+ld c,"tachi/cel_t14",crossfade,400
+`"Bem, eu prometi que ia te contar o que sei.@ O que você quer saber, Tohno-kun?"@
+`"É óbvio.@ Quero saber tudo relacionado aos meus sonhos.@ Por que tenho sonhos que mato as pessoas… Quem é você de verdade… Tem muita coisa que não entendo."@
+ld c,"tachi/cel_t07c",crossfade,400
+`"Humm, tudo bem.@ Vamos começar com os seus sonhos.
+\
+`"Simplificando, acredito que os sonhos que você tem não são seus.@
+` Você diz que sonha estar matando, mas esses sonhos não são mais como se você estivesse assistindo alguém matar as pessoas?"@
+`"…… Hum[line=4]sim.@ Você acha que eu ia matar alguém no meu sonho se pudesse me controlar?"
+\
+`"É disso que estou falando.@ Quando você dorme, você entra dentro da mente do assassino.@ Bem, não é exatamente entrar, é mais como se fosse pego por ele.@
+` Embora o seu ponto de vista seja o mesmo do assassino, você não fica com a sensação de que está vendo tudo de longe?"@
+`"…………"@
+` Sim[line=3]é exatamente isso que acontece.@
+` Já faz um tempo que estou tendo esses sonhos malucos, mas todos me deram a impressão de que eu estava assistindo a uma "cena".
+\
+`"Por que a minha mente e a do assassino estão se fundindo dessa forma?@ Deve haver um bom motivo, né?"@
+`"…… Sim, um motivo bem claro.@ Mas por enquanto vamos deixar isso de lado.@ Primeiro, vamos discutir sobre o que você está chamando de assassino."
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"Com certeza existe um assassino.@ Mas as suas características são mais parecidas com as de um vampiro."@
+`"…… Bem justo pensar assim.@ Certamente podemos chamar alguém assim de vampiro."@
+` Eu me lembro das cenas nos meus sonhos.@
+` Aquele cara ficava muito feliz ao matar e até comia a carne e bebia o sangue das vítimas.
+\
+`"Eu fui enviada a esta cidade parar lidar com esse vampiro.@
+` …… Eu não posso entrar em detalhes, mas o mundo possui diversos mecanismos de defesa.@ Assim como existe a polícia para cuidar daqueles que desrespeitam as leis, também existem várias organizações que cuidam desses seres que não são humanos.@
+` …… Pense em mim como membro de uma dessas organizações."
+\
+`"…… Você lida com vampiros então?"@
+ld c,"tachi/cel_t07c",crossfade,400
+`"Sim.@ Aqueles que sugam o sangue dos seres vivos para manter a sua própria vida.@ Uma vida parada que depende de sangue para se tornar eterna.@
+` É meu dever destruir esses hereges.@
+` Por esse motivo eu estava lutando contra o vampiro dos seus sonhos todas as noites."@
+`"[line=6]"@
+` Não tenho nada a dizer.@
+` Para ser sincero, eu não consigo entender esse mundo do qual ela está falando.
+\
+`"…… Hum?@ Quer dizer que você enfrentou o tal vampiro um monte de vezes?"@
+`"Duas vezes, na verdade.@ Na primeira ele escapou e a segunda foi um encontro meio doloroso."@
+`"Hã?@ Então você já viu o rosto dele, né?@ Como ainda pôde desconfiar de mim?"@
+`"Não é simples assim.@ Infelizmente não tinha como ter certeza.@ É que alguns vampiros podem mudar a própria aparência livremente, por isso não podemos confiar apenas na aparência para identificá-los."@
+`"…… Nossa!@ Isso deve ser um grande problema."
+\
+`"Mas agora tudo foi esclarecido.@ Acabamos tendo que brigar, mas agora sabemos que esse tal vampiro é o assassino em série, né?"@
+ld c,"tachi/cel_t06c",crossfade,400
+`"Sim.@ Os cadáveres encontrados e relatados como vítimas do assassino em série foram apenas restos de suas refeições.@
+` Normalmente, a carne é toda consumida ou o sangue é sugado e eles também se tornam vampiros, assim não fica nenhum corpo ou restos para trás."@
+`"…… Calma aí.@ Se as pessoas que têm o sangue sugado se tornam vampiros, eles já não estariam se multiplicando?"
+\
+`"Não, há um limite para aqueles que são mortos ao terem o seu sangue sugado e 'permanecem sem morrer'.@ A maioria dos humanos não são capazes de separar a alma do corpo, portanto a alma morre com a morte do corpo.@
+` Cerca de apenas uma entre cem pessoas consegue 'permanecer sem morrer'.@
+` …… Igual aconteceu com a Yumizuka Satsuki."@
+`"O qu[line=3]Senpai, você sabia sobre ela?"@
+ld c,"tachi/cel_t07c",crossfade,400
+`"Não.@ Quando cheguei lá, você já tinha destruído ela.@
+` …… Eu sinto muito.@ Embora eu soubesse que você estava sofrendo, não pude te ajudar."
+\
+`"[line=4]Está tudo bem.@ Eu quero pensar que o que aconteceu com a Yumizuka foi a melhor solução possível.@
+` …… Mas agora entendo tudo.@ A Yumizuka não nasceu uma vampira.@ Ela foi atacada pelo vampiro e o resultado foi o que aconteceu[line=3]"@
+`"Sim.@
+` Mas eu duvido que haja outras pessoas como a Yumizuka-san.@ Demora muitos anos para que um vampiro possa agir realmente como um vampiro.@
+` Para ela ter se tornado uma vampira por completo imediatamente, significa que a Yumizuka Satsuki devia ter uma concepção espiritual incrível."
+\
+`"Hã…?@ Concepção espiritual?@ O que é isso?"@
+`"Uma extensão funcional do cérebro que é determinada quando a pessoa ainda é uma embrião[line=4]pelo menos, é o que dizem.@ É como a sua habilidade, ela está usando uma seção do cérebro que a maioria das pessoas não usam.@
+` Foi o que aconteceu com a Yumizuka Satsuki.@ Ela era naturalmente 'adequada'.@ Por isso, em vez de ficar sob o controle do seu vampiro mestre, ela se tornou uma vampira capaz de agir de forma independente."@
+br
+` Eu não entendo a explicação da Senpai.@
+` Mas algo me vem à mente.
+\
+`"Senpai.@ Você mencionou a minha habilidade… Por acaso sabe sobre os meus olhos…?"@
+ld c,"tachi/cel_t14",crossfade,400
+`"Olhos?@ Não, não sei nada sobre os seus olhos, Tohno-kun, mas sei que você possui uma habilidade única.@
+` O sangue do Tohno-kun é especial.@ Você não possui uma habilidade treinada, como a minha, você já nasceu com essa habilidade.@
+` Isso é chamado de 'poderes sobrenaturais'.@ A maioria das pessoas possui apenas um canal aberto na mente, mas você possui um outro canal aberto e que não podemos ver, certo?"
+\
+`"…… Sangue especial… Está falando sobre o sangue da família Tohno…?"@
+`"Sim, a linhagem dos Tohno é muito antiga.@
+` Olhando para a história da família Tohno, podemos ver que as habilidades dos seus membros são variadas.@ Alguns podem receber inspiração divina, alguns não conseguem se manter humanos e se tornam assassinos e tem aqueles que nuncam despertam seus poderes.@
+` …… Com o passar do tempo, o sangue já não é mais tão forte e provavelmente a maioria dessas habilidades não surgem mais."
+\
+`"[line=4]"@
+` Estou horrorizado.@
+` Se o que a Senpai fala é verdade, então quer dizer que não sou apenas eu, a Akiha também possui algo "defeituoso" como os meus olhos…?
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"Vamos continuar?@
+` Tohno-kun, sabe aquilo que me perguntou!?@ Sobre os seus sentidos estarem fundindo com os do vampiro?"@
+`"Ah… Sim, o que tem…"@
+`"Acho que tem a ver com as suas habilidades também.@
+` O seu cérebro possui um canal bem maior do que o das outras pessoas.@ Por isso, quando você dorme e o controle da sua mente enfraquece, ela é atraída para o vampiro que tem uma certa facilidade de se conectar com o seu cérebro."
+\
+`"Hum…?@ Senpai, o que quer dizer com 'uma certa facilidade de conectar com o meu cérebro'?@ Você não está sugerindo que nossos cérebros são similares, né?"@
+`"É exatamente isso que estou dizendo.@
+` Já ouviu falar de gêmeos que dividem experiências?"@
+`"Gêmeos que dividem experiências…?"@
+`"Por exemplo, se o irmão mais velho se machuca, o irmão mais novo que está a quilômetros de distância sente a mesma dor.@ Eu acredito que os seus sonhos são parecidos com esse exemplo.
+\
+`"Fundamentalmente, gêmeos idênticos são dois seres humanos nascidos dos mesmos genes.@
+` Eles são membros humanos criados a partir das mesmas instruções, portanto não é impossível que a dor sofrida por um cérebro também seja recebida pelo outro."
+\
+`"O cérebro é um órgão que gerencia a recepção e a transmissão.@ Como o cérebro de cada pessoa é criado de uma forma diferente, temos que comunicar nossos sentimentos usando a linguagem.@ Mas se dois cérebros são iguais, o pensamento é transmitido sem a necessidade da linguagem.@
+` O canal do cérebro está na mesma frequência e por isso o sinal elétrico é recebido.@
+` Como o seu cérebro é superior aos outros, você se conecta aos corpos próximos a você."
+\
+`"…… Não tem como.@ Eu não tenho um irmão gêmeo."@
+`"Eu sei.@ Só que no seu caso não precisa ser um irmão gêmeo.@
+` Você não está se fundindo com ele, você apenas possui um cérebro muito parecido.@ Como o seu cérebro possui vários canais, não há necessidade de vocês dois serem irmãos gêmeos.@
+` Basta terem as mesmas raízes e um corpo similar… Provavelmente isso é tudo que precisa para você ser atraído.@
+` O mais provável é que seja um irmão que possua os mesmos pais… Acho que podemos abrir uma exceção no caso de órgãos transplantados; nesse caso, a 'carne' pode atrair a sua mente."
+\
+cl a,crossfade,400
+` [line=3]Poderia acontecer com qualquer um que esteja conectado pelo mesmo sangue…?@
+` Não[line=3]não pode ser.@
+` A Akiha é a única parente de sangue que eu tenho agora.@
+` É só ela.@
+` Será que… Só tem a Akiha mesmo?
+\
+`"[line=4]Não pode ser.@ Isso… Isso está errado."@
+` …… A Senpai não responde.@
+` Na minha mente,
+` vejo a Akiha bebendo o sangue da Kohaku-san.@
+`"Não pode ser.@ Eu sabia que não era um sonho.@ Era eu quem matava as pessoas e bebia o sangue delas.@
+` Porque[line=4]se não[line=4]"@
+` Juntando todas as informações[line=4]faz sentido.
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"…… Primeiro, eu suspeitei de você.@ Só que depois que te conheci, vi que não era você.@
+` Mas eu poderia estar apenas enganando a mim mesma.@ Por isso esta noite foi uma aposta para mim.@
+` Caso você tivesse me matado sem hesitar, eu saberia na mesma hora que você era um vampiro… Mas, no final das contas, você não era."
+\
+`"[line=3]Não.@ Eu apenas[line=3]"@
+`"Tohno-kun.@ Todos os membros da família Tohno possuem algo 'inumano' misturado ao seu sangue.@ Embora alguns fossem completamente inofensivos, normalmente há apenas um desse jeito em cada geração da família.@
+` No passado, houve muitos membros da família Tohno que bebiam sangue.@
+` Mas você não precisa beber o sangue das pessoas e nem ao menos sente essa vontade.@ Então[line=4]"@
+`"Como[line=3]como você pode saber disso, Senpai?"@
+`"…… Tohno-kun, A família Tohno tem a possibilidade de dar à luz a um vampiro.@ Se ele não é você, então…"
+\
+`"[line=7]"@
+` Não, eu balanço a cabeça desesperado.@
+br
+` [line=3]Não vou aceitar as palavras da Senpai.@
+`  Não posso aceitá-las.@
+br
+` …… Mas eu me lembro.@
+` A Tohno Akiha bebendo o sangue da Kohaku-san na edícula.
+\
+`"…… Não é a Akiha.@ Quem tem o poder estranho… Sou eu."@
+`"[line=2]Talvez você esteja certo.@ A Akiha-san não parece ter despertado o seu poder.@ Certamente ela está contaminada por ele, mas está em um nível que ainda pode ter volta."@
+`"…… Não.@ Não é a Akiha…!@ Eu sou o único que tem esses problemas.@
+` A Akiha me esperou por todos esses anos e, hoje mesmo, ela finalmente se despediu de mim quando estava saindo da forma mais normal do mundo…!"
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"Eu apenas caço vampiros.@ Independente de quem seja, eu não posso ignorá-los de forma alguma."@
+cl a,crossfade,400
+`"[line=5]"@
+` Incapaz de falar, apenas mordo o lábio.@
+` …… Não entendo.@
+` Se… Se a Akiha for mesmo essa coisa, o que eu vou fazer?@
+` Devo fingir ignorância ou devo lutar contra a Senpai para defender a Akiha?@
+!w3000
+` …… É inútil.@
+` Não importa o quanto eu pense, não vou encontrar resposta alguma.
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=3]Eu te entendo.@ A Akiha-san é uma pessoa muito importante para você.@ Provavelmente deve ser mais importante para você do que você mesmo."@
+`"…… Mas é claro.@ Uma irmã mais nova é sempre muito importante para o seu irmão mais velho."@
+`"Podemos acabar tendo que nos enfrentar."@
+`"……"@
+` Não há nada para dizer.@
+` …… Fui vencido.@
+` A Senpai deixa bem claro coisas que eu não queria falar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01c",lcartain,800
+` …… Chegamos aos portões da escola.@
+` A Senpai parece ter chegado a uma conclusão, já que não fala mais nada.
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=3]Não vou perguntar o que você vai fazer agora.@ Vamos nos despedir aqui."@
+` Com os olhos frios, ela estende a mão.@
+`"………………"@
+` Não digo nada, apenas aperto a sua mão.@
+br
+` Por um breve momento.@
+` Nós trocamos um aperto de mãos vazio.@
+cl a,lshutter,800
+` Despedindo-se, ela parte.
+\
+playstop
+bg #000000,lcartain,800
+` …… Retorno à mansão onde a Akiha me espera.@
+` Já sei que aquilo que vejo são apenas sonhos.@
+` Mas o problema fundamental ainda não foi resolvido.@
+br
+` O vampiro[line=4]a verdade[line=4]aquela coisa que mata as pessoas todas as noites.@
+` Se realmente for a Akiha, o que eu posso fazer?@ O que eu devo fazer?@
+`"Droga…!"@
+` Eu não sei.@
+` Infelizmente, tudo o que posso fazer é morder o meu lábio.
+\
+!w4000

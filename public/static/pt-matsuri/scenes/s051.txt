@@ -1,0 +1,136 @@
+phase "bg/bg_22b",r,ark,02a,2
+bg #ffffff,crossfade,800
+` A Sensei me disse.@
+` Meus olhos podem enxergar os pontos onde as coisas podem ser facilmente destruídas.@
+` E se essas 'coisas' fossem pessoas, então o que eu veria seriam os seus pontos vitais.
+\
+` Linhas que, se cortadas, podem destruir as coisas sem qualquer esforço.@
+` Acertando essas linhas, mesmo coisas tão duras quanto o aço podem ser facilmente cortadas.@
+br
+`"Em outras palavras, tudo que existe já possui seu destino de 'quebrar' internalizado.@ Isso é algo inevitável para tudo que possui uma forma física, Shiki."
+\
+` Foi isso que a Sensei falou.@
+` Eu ainda era criança naquela época.@
+` Lembro-me de finalmente entender o que ela quis dizer e de ter ficado assustado.@
+` Resumindo, ela disse que o mundo é cheio de rachaduras e que poderia ser destruído a qualquer momento.@
+` Se houver rabiscos por todo o chão, existe a possibilidade de eu destruí-lo simplesmente por caminhar sobre ele.@
+` [line=3]Quando percebi o que ela quis dizer, agradeci a Sensei do fundo do meu coração pelos óculos que me deu.
+\
+br
+` Eu não poderia continuar vivendo enxergando aquelas linhas o tempo todo.@
+` Os pontos onde as coisas podem ser facilmente destruídas.@
+` Não há qualquer vantagem em poder vê-las[line=3]
+\
+bg #000000,crossfade,1500
+!w1000
+bg "bg/ima_03",crossfade,800
+`"[line=3]Bom dia."@
+br
+` …… Ouço uma voz desconhecida.
+\
+`"Já amanheceu.@ Está na hora de acordar, Shiki-sama."@
+` …… Pare de me chamar de Shiki-sama.@
+` Eu te falei que isso me dá arrepios nas costas[line=4]
+\
+bg "bg/bg_40e",crossfade,1500
+ld c,"tachi/his_t01",crossfade,400
+play "*2"
+br
+` [line=3]Eu acordo.@
+` A Hisui está longe da cama, parada como uma estátua.@
+`"……"@
+br
+` Onde eu estou?@
+br
+`"Bom dia, Shiki-sama."@
+` A garota com uniforme de empregada faz uma mesura.
+\
+`"Ah… é mesmo, eu voltei para casa, né…"@
+` Vou me levantando e observando o quarto.@
+cl c,crossfade,400
+` Na mesma hora[line=3]
+br
+` [line=3]Sinto uma dor aguda em minhas têmporas.
+\
+`"Hã[line=3]?"@
+`"Está procurando pelos óculos?"@
+` A Hisui me entrega eles.@
+bg "bg/bg_40a",lshutter,400
+`"[line=3]Ufa."@
+br
+` …… Deixo escapar um suspiro.@
+` Ontem à noite[line=3]Antes de ir dormir, tive a impressão de estar vendo as linhas mesmo usando os óculos.@ Parece que foi apenas a minha imaginação.
+\
+`"Tsc……"@
+` Meus pensamentos estão embaralhados, talvez seja por eu ter dormido em um quarto estranho.@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama…?"@
+` A Hisui me chama.@
+` Balançando a cabeça, mando a sonolência embora.
+\
+`"Bom dia, Hisui.@ Obrigado por vir me acordar."@
+`"Não há necessidade de me agradecer.@ É meu dever te acordar, Shiki-sama."@
+` Ela dá uma resposta padrão e sem sentimentos.
+\
+` …… Mesmo com a luminosidade não a favorecendo, acho os traços dessa garota muito bonitos.@
+` Deveria ser maravilhoso ter uma garota como essa me acordando todas as manhãs, mas como ela nunca sorri, não fico tão feliz assim.@
+br
+` …… Que pena!@
+` Se a Hisui tivesse ao menos a metade do brilho que a Kohaku tem, ela seria uma gracinha.
+\
+`"[line=3]Você precisa de alguma coisa?"@
+` Percebendo que estou olhando para ela, a Hisui olha diretamente nos meus olhos.@
+`"Não, de nada.@ Acordar com você aí me faz sentir que realmente estou na mansão Tohno."@
+` Muito bem.@ Levanto da cama e estico os braços.@
+br
+` De repente, percebo que estou vestindo meu pijama.
+\
+` [line=3]Hum, tenho certeza que ontem eu…
+\
+`"Hã?@ Achei que tivesse dormido de uniforme ontem."@
+`"Sim.@ Mas como não seria bom para a sua saúde, a Nee-san trocou suas roupas e te colocou na cama."@
+` Ela explica como se fosse algo perfeitamente normal.@
+` Entendo.@ Ela trocou minhas roupas.@ É verdade que eu poderia ter pegado um resfriado dormindo daquele jeito.@
+` Exatamente o tipo de serviço atencioso que você esperaria de uma empregada[line=3]Ei!@ Espera um pouco…!
+\
+`"O qu[line=6]!?"@
+` Rapidamente verifico minha calça e minha cueca.@
+` Minha calça é de um pijama novinho.@ Até minha cueca é nova.
+\
+`"O qu-o qu-o qu!?"@
+` Eu quero gritar: 'O que diabos vocês fizeram!?', mas as palavras ficam presas na minha garganta.@
+` Tenho que me acalmar e repensar tudo do início.@
+` …… Vejamos.@ Em primeiro lugar, metade da culpa é minha por ter dormido de uniforme.@
+` E quem trocou minhas roupas não foi a Hisui, foi a irmã dela, a Kohaku-san.@
+` Seria errado reclamar com a Hisui.
+\
+`"[line=3]Hisui."@
+`"Sim, o que deseja?"@
+`"Você não precisa fazer coisas desnecessárias assim de agora em diante.@ Se acontecer de você precisar fazer, por favor, me acorde.@ Eu posso trocar de roupas sozinho, estamos entendidos?"@
+` Meu rosto fica extremamente corado ao dizer isso.@ A Hisui acena com a cabeça, concordando comigo.@
+`"Seu uniforme está ali, passado e pronto para usar.@ Por favor, dirija-se à sala de estar depois de se trocar."
+\
+cl c,lshutter,800
+`"………"@
+` Droga!@ Não posso ser tão descuidado assim.@
+` Fui descuidado ao dormir usando uniforme, mas não ter acordado enquanto minhas roupas estavam sendo trocadas foi o cúmulo do absurdo.@
+`"Normalmente eu teria sentido, mas… talvez eu estivesse muito cansado mesmo."@
+` Ficar me criticando não vai mudar nada.@ Não posso continuar aqui falando sozinho como um idiota.@ É melhor trocar de roupas e ir tomar o café da manhã.
+\
+` Meu uniforme foi cuidadosamente dobrado e minha camisa foi muito bem passada.@
+` Passar os pulsos por entre as mangas me dá uma sensação boa.@ Aquela sensação de estar vestindo algo novinho em folha.
+\
+`"…… Não, não tem problema ter sido visto pelado, tem?@ Claro que não!"@
+` Não foi nada demais, mas não posso evitar de ficar envergonhado pelo fato de que tive minhas roupas trocadas pela sorridente Kohaku-san.@
+` Para piorar, meu rosto no espelho não para de sorrir, mesmo estando vermelho de vergonha.@
+` …… Qual é o seu problema, Tohno Shiki?@
+` Pensei que estivesse receoso por estar morando aqui, seu amador.
+\
+bg #000000,lcartain,800
+!w500
+bg "bg/bg_34a",lcartain,800
+` A Akiha e a Kohaku-san estão relaxando na sala de estar.@
+` A Akiha está usando o uniforme da Academia Asagami, uma renomada escola para garotas.@
+` Elas estão tomando chá juntas, graciosamente, como se o café da manhã já tivesse terminado há muito tempo.@
+` Eu vou[line=4]
+\

@@ -1,0 +1,211 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",crossfade,800
+` …… A aula já começou.@
+` Que aula era mesmo?@ Não consigo me lembrar qual é a aula do quinto período de hoje.@
+br
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+` Embora eu esteja olhando para o quadro-negro e vendo as marcas deixadas pelo giz do professor, continuo sem saber que aula é essa.@
+br
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+br
+` Não consigo ler aquilo.@
+` As letras tremulam como se estivessem na água e depois se misturam, parece uma alucinação.@
+br
+wave se_01
+\
+`"Ugh…………"@
+` Estou com vontade de vomitar.@
+` Estou tonto.@ Minha consciência começa a desaparecer.
+\
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+` Estalando, estalando.@
+`    Tremendo, tremendo.@
+`     Rangendo, rangendo.@
+`      Balançando,  balançando.@
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+\
+` De onde está vindo esses barulhos?
+\
+` São incompatíveis com o ambiente.@
+` De onde está vindo essa inconsistência?@
+wave se_01
+` Eu não consigo sossegar essa sensação de que tem algo errado com o meu corpo.@
+` Ela me domina por completo.@
+` Parece até que meus ossos estão se deslocando de suas articulações.@
+wave se_01
+` É mesmo, se minhas articulações estão fora do lugar, é claro que vou ficar com essa sensação estranha.@ Meu corpo está queimando com uma fumaça invisível e desmoronando.
+\
+br
+br
+br
+br
+br
+br
+br
+` Estalando, estalando.@ Tremendo, tremendo.@ Rangendo, rangendo.@ Balançando,  balançando.
+\
+bg #9c0120,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+bg #000000,crossfade,800
+` Eu caio da cadeira.@
+` Uma garota grita de susto.@
+` Ouço os passos do professor correndo na minha direção.@
+` Eu…
+` Embora eu tenha desmaiado, fico observando meu corpo de longe.
+\
+!w3000
+` …… E o que segue é o mesmo de sempre.@
+` Depois de desmaiar por causa da anemia, fui carregado até a enfermaria e dormi até me recuperar.@
+` Como eu tive uma febre de trinta e oito graus Celsius depois das sete horas, que é a hora que a escola fecha, a enfermeira ligou para a minha casa e pediu que alguém viesse me buscar, logo em seguida ela foi embora.@
+br
+` E isso resultou em…
+\
+play "*1"
+bg "bg/bg_10c",crossfade,400
+ld c,"tachi/koha_t01b",crossfade,400
+`"Como está se sentindo, Shiki-san?@ Você ainda está com febre, então por favor, não hesite em se apoiar no meu ombro."@
+br
+` [line=4]Sim, foi isso que aconteceu.
+\
+`"…… Eu estou bem.@ Eu consigo andar, não se preocupe."@
+` Afastando-me da Kohaku-san, tento blefar dizendo que estou bem.@
+` …… Poxa.@ Já é muito constrangedor o fato de a Kohaku-san ter vindo e buscar.@ Se eu tiver que me apoiar nos ombros dela, vou morrer de constrangimento.
+\
+`"Ei, isso não é uma boa ideia, forçar seu corpo desse jeito.@ Não é sua culpa seu corpo ser fraco, Shiki-san.@ Por isso você pode aceitar a minha ajuda.@
+` Eu não vou contar para a Akiha-sama nem para a Hisui-chan, pode depender de mim à vontade."@
+` Com um sorriso muito gentil, ela pega a minha mão.
+\
+`"Ah…… certo, me desculpe."@
+` Ficando tão vermelho quanto um tomate, timidamente faço o que ela diz.@
+` …… Eu vou acabar desmaiando se continuar sendo teimoso.
+\
+`"Tem um carro nos esperando lá fora, aguente firme até chegarmos lá."@
+cl c,lshutter,800
+` Puxando minha mão, ela começa a andar.@
+bg #000000,crossfade,400
+bg "bg/bg_10c",crossfade,400
+`"Ah[line=4]"@
+` …… Isso não é bom.@ Estou ficando muito tonto só de andar.@
+` Eu dependo da Kohaku-san para me levar até as escadas enquanto tento manter a consciência.
+\
+bg #000000,lcartain,1500
+!w1000
+playstop
+bg "bg/bg_07b",notrans,0
+bg "bg/bg_11c",crossfade,800
+` Hu[line=4]m?@
+` Por que[line=4]estou indo… para… o segundo… andar?
+\
+`"Hum…… Kohaku-san… este… não é… o caminho certo."@
+` Eu digo para ela.@
+` Mas ela não responde.@ Espera, algo não está certo[line=4]eu não sinto mais a mão dela nem vejo mais ela.
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+play "*6"
+`"Kohaku…… san?"@
+` Eu uso tudo que resta da minha consciência embaçada para olhar ao meu redor.@
+` Não tem ninguém no corredor.@
+` Apenas o luar atravessando a janela está vívido.
+\
+wave se_01
+`"[line=8]"@
+` Acontece de repente.@
+wave se_01
+`"Ah[line=6]"@
+` O som das batidas do meu coração.@
+` E um calafrio que sobe pela minha espinha.
+\
+waveloop se_02
+wave se_08
+` Tu, dum.@ Tap.
+\
+br
+wave se_08
+` Tu, dum.@ Tap.@
+br
+wave se_08
+` Tu, dum.@ Tap.@
+br
+` Tu, dum.@ Tap.@ Tu, dum.@ Tap.@ Tu, dum.@ Tap.@ Tap.@ Tap.@ Tap.@ Tap.
+\
+` Na escuridão, os passos se aproximam.@
+br
+` [line=3]Isso está.@
+br
+` Isso está parecido com o medo que eu senti naquela vez.
+\
+`"Kohaku, san……!"@
+` Chamo por ela.@ Chamo o nome dela freneticamente, mas não é para pedir ajuda, é para dizer que ela tem que fugir.
+\
+`"Kohaku-san, Kohaku-san, Kohaku-san……!"@
+` Cadê ela?@ Não a vejo em lugar algum.@
+` Os passos estão bem perto de mim agora.@
+br
+` Pelo menos ela…
+` Pelo menos a Kohaku-san eu quero que fuja ilesa.
+\
+`"É inútil, Shiki.@ Já acabei com ela."@
+` …… Ouço uma voz.@
+` Na escuridão à minha frente está
+ld c,"tachi/roa_t04a",crossfade,800
+` o homem enfaixado que tentou me matar naquela noite.
+\
+`"[line=6]Ah."@
+` …… Por que será…?@
+` Eu sinto que conheço o rosto deste homem.
+\
+`"Você é muito azarado.@ Se eu soubesse que seria assim, não teria te esperado na frente da mansão."@
+br
+` …… Os passos se aproximam mais.@
+br
+`"Ka…… aah."@
+` Eu tento me mover.@
+` Mas só consigo cambalear de um lado para o outro.@
+` Acho que forcei meu corpo demais no dia a dia.@ Parece que agora em seus últimos momentos, ele parou de funcionar completamente.
+\
+`"Esse é o seu fim, por isso vou lhe contar.@ Aqui é o meu covil agora."@
+bg #9c0120,crossfade,800
+` Ouço o som de carne sendo perfurada.@
+` Nas mãos dele, vejo uma faca.@ A lâmina de prata perfura meu coração.
+\
+wavestop
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/ima_18",notrans,0
+playstop
+` [line=4]Eu caio no chão.@
+` Sinto a morte tomando cada centímetro do meu corpo.@
+` Minha consciência vai desaparecendo aos poucos.
+\
+` E em meio a isso.@
+` Eu olho para o céu.@
+` Não tem mais nenhum outro lugar para olhar, por isso fico olhando para o céu.@
+br
+` Vejo a lua azul no céu noturno.@
+` …… Que estupidez!@
+` Estou prestes a morrer, mas…
+` Estou encantado por uma coisa tão normal.
+\
+monocro off
+bg #000000,crossfade,1500
+` De quando é essa lembrança?@
+` Em uma floresta parecendo um véu negro.@
+` Naquela noite horrível.@
+` Assim como agora, eu estava olhando apenas para a lua[line=4]
+!w2000
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

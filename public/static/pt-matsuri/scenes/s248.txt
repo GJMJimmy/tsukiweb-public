@@ -1,0 +1,149 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11a",notrans,0
+`"Eu tenho pão de curry."@
+br
+` Pego minha arma secreta.
+\
+`"Tohno-kun, você acha que posso ser comprada com comida!?"@
+` A Senpai grita do outro lado da porta.@
+` …… Talvez esse pão que custou menos de cem ienes não tenha funcionado.@
+`"……………"@
+` Nossa.@ Acho que tentar entrar deixaria ela com mais raiva ainda, melhor eu ir embora.@
+br
+` [line=3]E então,
+\
+ld c,"tachi/cel_t12",lcartain,400
+`"Bem, acho que vou querer um pouco."@
+` Ela abre a porta e fica na minha frente.@
+`"S[line=2]Senpai[line=2]?"@
+ld c,"tachi/cel_t08b",crossfade,400
+`"Pensando bem, eu não deveria descontar isso em você, Tohno-kun.@ Dar as costas a uma visita seria um pouco rude."@
+` Com o rosto vermelho, ela murmura algo que parece ser uma desculpa.
+\
+`"Senpai, isso significa que podemos almoçar juntos?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"…… Hummm, não me importo se você entender dessa forma.@ Se gosta tanto desta sala pode entrar."@
+cl a,crossfade,400
+` Ela volta para dentro da sala do clube.@
+` Eu também entro.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09a",lcartain,800
+play "*3"
+` Começamos a comer.@
+` Embora tenha tido a impressão de que ela estava de mau humor por causa da minha conversa com o Arihiko e também por causa da sua reação quando me atendeu, não é o que está parecendo.
+\
+`"…… Senpai.@ Você está com raiva de mim?@ O que eu fiz?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Hã[line=2]não, não estou com raiva de verdade.@ É mais uma coisa indireta…… Talvez[line=4]seja por causa da sua insensibilidade?"@
+`"…… Espera um pouco.@ Normalmente você é uma pessoa difícil de entender, mas hoje está mais difícil ainda.@ Se está com raiva de mim por causa da minha insensibilidade, tudo bem, mas o que quer dizer com 'talvez'?@
+` Você não entende como se sente?"
+\
+ld c,"tachi/cel_t09",crossfade,400
+` Ela suspira.@
+` "Estou um pouco insegura.@ Normalmente não me preocupo comigo mesma."@
+` Ela diz isso quase como se pedisse desculpas.@
+`"[line=3]Provavelmente não gosto de mim mesma."@
+`"…… Hein?"@
+` Ela se senta em silêncio, sem olhar para mim.@
+` Depois de um breve momento de silêncio, ela me olha subitamente.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Tem algo mais importante antes de tudo, Tohno-kun."@
+`"…… Sim?"@
+` Eu me endireito e olho para ela.@
+` …… Porque parece que ela está prestes a começar uma conversa muito séria.@
+br
+`"Hum…… o que é, Senpai?"
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Pode me dar aquele pão de curry?"@
+br
+`"C-como assim!?@ Você não acabou de falar que não podia ser comprada com comida!?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Isso é uma coisa completamente diferente.@ Você está tentando retirar o que disse mais cedo!?"@
+br
+` …… Ela está irritada.@
+` Foi apenas uma brincadeira, mas acho que ela levou muito a sério.
+\
+`"…… Sim, claro, já entendi.@ Por favor, aceite isso, Vossa Majestade."@
+` Entrego a ela o pão de curry.@
+` Dando este para ela, só me resta um pão com salsicha.@
+ld c,"tachi/cel_t04",crossfade,400
+br
+` "Oba!" Ela pega o pão toda feliz.@
+` …… Ela é uma criança?
+\
+ld c,"tachi/cel_t05",crossfade,400
+`"Vou te dar metade deste hambúrguer em troca.@
+` Aqui está," ela diz, enquanto me dá a metade do seu hambúrguer.@
+`"………"@
+` Acho que a diferença na taxa de câmbio da troca foi um pouco alta…
+\
+bg #000000,lshutter,800
+bg "event/cel_e02a",lshutter,800
+` Depois que terminamos de almoçar, tomamos chá.@
+` Uma forma perfeitamente tranquila de passar o tempo.@
+br
+` Parece que ela não está consciente da minha presença, e eu também não estou consciente da presença dela.@
+br
+` Apenas[line=4]uma serenidade.@
+` Como se fôssemos dois amigos do mesmo sexo, passamos o restante do tempo do intervalo assim.
+\
+`"Tohno-kun."@
+`"Sim?@ O que foi, Senpai?"@
+`"Estive pensando sobre isso por um tempo, seus óculos não servem para corrigir a sua visão, não é mesmo?"@
+`"…… Uau, você é incrível Senpai.@ Eles são apenas um adorno."@
+br
+`"Eu sabia," ela afirma com a cabeça.
+\
+`"Posso te pedir um favor?"@
+` Ela olha com expectativa para os meus olhos.@ …… Não é bem para os meus olhos, mas sim para os meus óculos.@
+`"Você poderia tirar estes óculos só uma vez?"@
+`"[line=9]"@
+` Isso seria um problema.@
+` Tirar esses óculos significaria ter que ver aquelas 'linhas', e além disso[line=3]não quero ver a 'morte' dessa pessoa que está na minha frente.
+\
+`"Não posso fazer isso.@ Infelizmente, nunca tiro eles na frente dos outros.@ É uma promessa que fiz, por isso vou recusar seu pedido."@
+` Respondo claramente.@
+` Ela fica decepcionada.@
+`"Hum, já que você diz né, então acho que não é possível."@
+`"Sim, porque nesses últimos oito anos, eu nunca[line=3]"@
+br
+` …… nunca os tirei na frente de outras pessoas, mas[line=4]@
+playstop
+`"[line=4]"@
+` Isso mesmo.@ Aquilo já acabou.@
+` Com estes olhos.@
+` Vi a morte de muitas[line=2]muitas coisas mesmo.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_09a",crossfade,400
+bg "bg/cmo_13",crossfade,1500
+!w4000
+br
+br
+br
+br
+br
+br
+br
+`"[line=7]Tohno-kun?"
+\
+bg "bg/bg_09a",crossfade,1500
+ld c,"tachi/cel_t07a",crossfade,1500
+`"Ah[line=3]sim, o que foi?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"O que quer dizer com 'o que foi?' Por que está devaneando assim de repente, o intervalo do almoço está quase no fim sabia!?"@
+`"…… Hum, sério?@ Pensei que ainda tinha uns dez minutos sobrando."@
+cl a,crossfade,400
+ld c,"tachi/cel_t12",crossfade,400
+`"Sim, nós tínhamos dez minutos sobrando.@ Mas você ficou no mundo da lua por todo esse tempo."@
+cl a,crossfade,400
+` Ela reúne as xícaras.@
+`"Hã…… Passaram-se realmente dez minutos……?"@
+` Ainda curioso com isso, ajudo a Senpai a arrumar a sala do clube e em seguida vou embora.
+\
+bg #000000,crossfade,1500

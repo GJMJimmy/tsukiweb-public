@@ -1,0 +1,400 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+ld c,"tachi/his_t01",crossfade,400
+`"Graças à boa vontade do Makihisa-sama, a Nee-san fez cursos de farmácia.@
+` Até o dia em que ele morreu, ela sempre era consultada em relação à sua saúde."@
+` O rosto da Hisui volta a ficar sem qualquer expressão enquanto ela me diz algo que nem perguntei.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Gh…………!"@
+` Uma dor forte ataca a minha cabeça.@
+br
+` Mesmo eu sentindo tanta dor, a Hisui cuida de mim sem nem piscar os olhos.@
+br
+` …… Bem, era o esperado.@
+` Sou eu quem está sentindo dor, não ela.@
+` Seria bem estranho se ela ficasse cabisbaixa ou demonstrando muita preocupação comigo.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Gh[line=4]!"@
+`"Shiki-sama, você ainda está sentindo dor?"@
+`"[line=3]Olha, me desculpe por dizer isso, Hisui."@
+`"Dizer o quê?"@
+`"Sua presença está me incomodando, você poderia me deixar sozinho, por favor?@ Não consigo dormir com você aqui."@
+ld c,"tachi/his_t05",crossfade,400
+`"[line=4]Entendido, com licença.@ Se precisar de qualquer coisa, não hesite em me chamar."@
+cl c,lshutter,800
+` Ela sai do quarto.@
+br
+` E assim, finalmente consigo relaxar.@
+` A dor de cabeça também diminuiu, devo conseguir dormir agora.
+\
+bg #000000,crossfade,1500
+!w1000
+playstop
+bg "bg/bg_40c",crossfade,800
+waveloop se_11
+` ……@
+` …………
+\
+` ………………@
+` ……………………@
+` …………………………@
+` ………………………………@
+` ……………………………………
+\
+` Toc toc.@ A porta é aberta.@
+br
+ld c,"tachi/aki_t12b",lshutter,800
+`"[line=3]Com licença, Nii-san.@ Você está acordado?"@
+`"…… Estou.@ Está precisando de mim, Akiha?"@
+`"Não, me disseram que você estava descansando por causa da anemia, eu vim ver como você está."@
+` Ela me observa deitado na cama.@
+` Seu olhar gentil me diz que ela está preocupada.@
+br
+` …… Para ser sincero, acho isso muito irritante.
+\
+`"Eu estou bem.@ Não é nada sério, por isso deitei um poquinho para descansar.@ Pode ir embora, Akiha."@
+ld c,"tachi/aki_t21b",crossfade,400
+`"[line=3]Um pouquinho, Nii-san?@
+` Já está na hora do jantar."
+\
+` …… Hora do jantar……?@
+` Já passou tanto tempo assim?@
+` Mas não estou com fome.@
+br
+`"Não estou com fome, não vou jantar.@ Eu estou bem, pode ir.@ Só não estou bem disposto."
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"…… Compreendo.@ Então descanse.@ Nii-san, quando estiver acordado deixe as luzes do quarto acesas.@ Você vai acabar tendo sérios problemas de visão se forçar os olhos no escuro."@
+`"[line=3]Eu consigo relaxar desse jeito."@
+`"………………"@
+cl c,lshutter,800
+` Embora seus olhos deixem claro que ela quer dizer mais alguma coisa, ela sai do quarto.
+\
+`"………………"@
+` Estou muito irritado.@
+` As reações da Hisui e esse olhar preocupado da Akiha; elas estão me tratando como uma porcelana frágil.@
+br
+` Será que não se acostumam comigo?@
+` Não é tão sério como se eu estivesse tossindo ou sugando sangue, então por que não me deixam em paz?
+\
+br
+` [line=4]Rangido.@
+br
+` Em meio à escuridão, me pego rangendo os dentes.@
+`"…………"@
+` Meus nervos estão à flor da pele.@
+` Se eu continuar acordado a coisa vai ficar feia.@
+` Não estou cansado, mas preciso dormir.
+\
+wavestop
+bg #000000,crossfade,1500
+!w1000
+play "*6"
+bg "bg/bg_40c",notrans,0
+monocro #0000ff
+wait 100
+bg "bg/bg_46a",notrans,0
+wait 100
+bg "bg/bg_33d",notrans,0
+wait 100
+bg "bg/bg_48d",notrans,0
+wait 100
+bg "bg/bg_32d",notrans,0
+wait 100
+bg "bg/bg_47",notrans,0
+wait 100
+bg "bg/bg_22c",notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+bg "bg/bg_25b",crossfade,400
+wave se_01
+br
+br
+br
+br
+br
+br
+` Saio de casa e vou para a rua principal.@
+` Faz uns dois minutos que o dia acabou.@
+!w1000
+\
+br
+br
+br
+br
+br
+br
+` Na calada da noite de um domingo.@
+` Não tem ninguém nas ruas.@
+!w1000
+\
+br
+br
+br
+br
+br
+` Eu errei a hora?@
+` Se tivesse saído uma hora mais cedo, não teria que me esforçar nem um pouco.@
+!w1000
+\
+br
+br
+br
+br
+br
+br
+` Barulhos de algo sendo arrastado.@
+` Não sou eu quem está fazendo esses barulhos,
+` é
+` outra coisa.
+\
+br
+br
+br
+br
+br
+br
+` A hora está certa.@
+` Se tivesse saído uma hora mais cedo, nunca seria capaz de andar assim.
+\
+br
+br
+br
+br
+br
+br
+` Arrastando.@
+` Segurando o cabelo da mulher com uma mão, eu continuo andando.@
+` Estes cabelos longos.@ Eu a escolhi porque ela se parece com a Akiha.@ Não o rosto, mas sim os cabelos.
+\
+bg #000000,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` Solto seus cabelos.@
+` Ela cai no chão, inconsciente.@
+` Eu não a matei.@
+` Como não jantei, quero deixá-la o mais apetitosa possível.@
+` Eu sei que ouvi de alguém que o sangue de uma pessoa morta é muito frio e tem um gosto horrível.
+\
+` Não tenho o que reclamar deste pescoço imaculado.@
+` Com a faca em uma das mãos, eu aproximo a minha boca[line=3]
+playstop
+bg #000000,notrans,0
+monocro off
+` Depois de ter esse sonho, eu acordo.@
+`"[line=5]!"@
+` Acordo e minha cabeça começa a clarear.@
+` Minha garganta está muito seca e meu corpo está muito excitado.
+\
+`"Mas que sonho……"@
+` foi esse?@
+` Não acredito nisso.@
+` Eu saí de madrugada, desmaiei uma desconhecida e a arrastei para um beco.
+\
+` Que medonho!@
+` Ainda bem que foi só um sonho, seria loucura se eu fizesse isso de verdade.
+\
+` Minha respiração está audível.@
+` Preciso recuperar o fôlego.@
+` Esfrego os olhos e respiro profundamemte.@
+` …… Agora eu nem vou conseguir mais dormir.@
+` Acendo as luzes e resolvo ler um livro até amanhecer.
+\
+monocro #ff00ff
+bg "bg/ima_10b",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Meus olhos gradualmente,
+\
+monocro #0000ff
+bg "bg/bg_31b",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` se acostumam com a escuridão.
+\
+monocro off
+bg "bg/bg_31b",crossfade,400
+`"[line=11]O qu……"@
+` Eu engulo em seco.@
+` Aqui não é o meu quarto.@
+` Estou em um beco.@
+` A faca está na minha mão.@
+` E na minha frente,
+` está a mulher desconhecida.
+\
+wave se_01
+`"Ha[line=11]"@
+` O que
+` estou fazendo?@
+br
+` Isso aqui não era um sonho?
+\
+` Isso aqui não era um sonho que eu estava tendo?
+\
+wave se_01
+`"[line=10]"@
+` Tem que ser um sonho.@
+` Eu nunca quis fazer algo desse tipo.@
+` Atacar alguém que nem conheço,
+` correr minha faca pelas "linhas" deste corpo flexível,
+` e querer ver brotar o sangue das partes cortadas… Não pode ser[line=4]não pode ser?
+\
+wave se_01
+` É claro que eu nunca iria querer algo assim.@
+` Mas por algum motivo[line=3]acho que preciso fazer isso.
+\
+wave se_01
+br
+` Corte-a em pedaços.@
+wave se_01
+` Corte-a em pedaços.@
+wave se_01
+` Corte-a em pedaços.@
+wave se_01
+` Corte-a em pedaços.@
+wave se_01
+br
+` Se eu cortá-la em pedaços,
+` serei libertado e vou me tornar algo incapaz de ser limitado por qualquer um.@
+br
+` Pensando bem,
+` lembro que alguém já tinha dito isso antes.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Nós somos iguais.@ Assim como eu, você também vai se tornar um assassino, Tohno Shiki.
+\
+wave se_01
+`"………… cala!"@
+br
+` [line=3]Admita, assassino.@
+`   O seu impulso de inversão não passa de algo que você deseja de verdade[line=3]
+br
+`"Cala a…… boca!"
+\
+wave se_01
+` O que é isso?@
+` Que merda é essa?@
+` Por que estou fazendo isso?
+\
+` E mesmo agora que percebi o que está acontecendo, por que continuo tentando pressionar minha faca contra o pescoço dela?
+\
+wave se_01
+` Se isso aqui é a realidade e não um sonho,
+` quer dizer que estou louco?
+\
+wave se_01
+`"[line=4]Mm."@
+br
+` Ela mexe as pálpebras.@
+` E começa a abrir os olhos.@
+` Antes que isso aconteça,
+` tenho que cortá-la em pedaços, senão[line=3]
+\
+`"Ah."@
+br
+` Minha faca se aproxima mais.@
+` Mas…
+br
+`"…… Quem é você?"@
+` Ouço sua voz.@
+` De repente, ela percebe que tem uma faca na sua garganta.
+\
+br
+`"Kya[line=3]"@
+`"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!"
+\
+bg #000000,lcartain,400
+bg "bg/bg_25b",lcartain,400
+waveloop se_02
+` O grito dela desaparece em meio à minha gritaria.@
+` Gritando.@ Como uma sirene quebrada, eu continuo gritando enquanto corro.
+\
+bg #000000,lcartain,400
+bg "bg/bg_22c",lcartain,400
+` Estou ofegante.@
+` Minhas mãos tremem.@
+` Minha mente está em branco.@
+` Mas me controlei e puxei a faca antes de machucá-la.@
+br
+` Mas se o meu grito não tivesse vencido…
+br
+` Eu teria[line=4]
+\
+`"Aha[line=2]ha[line=2]haha[line=2]hahahahaha………!"@
+br
+` É assustador.@
+` Muito assustador.
+\
+` Mais assustador do que qualquer coisa que me aconteceu até hoje.
+\
+bg #000000,lcartain,400
+bg "bg/bg_32d",lcartain,400
+` Entre risos e arfadas, eu corro.@
+` Ele está me seguindo.@
+` Ele pula nas minhas costas.@
+` Não importa o quanto eu corra[line=3]não posso escapar do meu próprio medo.
+\
+bg #000000,lcartain,400
+bg "bg/bg_33d",lcartain,800
+bg "bg/bg_40d",lcartain,800
+` *arf* *arf* *arf*
+` Entro voando no meu quarto e tento trancar a porta.@
+` Só tento, pois não consigo.
+\
+` Meus dedos.@
+` Meus dedos estão tremendo demais.@ Não consigo nem virar uma chave.
+\
+` *arf* *arf* *arf*
+` Estou com medo.@
+` Se eu não trancar esta porta logo, ele vai entrar.
+\
+` Uma coisa desconhecida vai entrar.
+\
+`"Gh…………!"@
+` Preciso[line=4]trancar a porta.@
+` Ele não pode entrar neste quarto.
+\
+` Ele não pode sair deste quarto.
+\
+` Mas por quê?@
+` Não sei.@
+` Mas continuo tentando trancar a porta como um louco.
+\
+wavestop
+` Fico a noite toda tentando trancar a porta.@
+` Mas não importa o que eu faça, não consigo trancá-la de jeito nenhum.
+\
+br
+br
+br
+br
+br
+br
+` Foi nesse momento que entendi tudo.@
+` Eu sempre fui louco.
+\
+bg #000000,crossfade,800
+!w3000

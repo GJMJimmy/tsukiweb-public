@@ -1,0 +1,59 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Certainly, if I went to see Ciel-senpai with this headache, I'd just be a bother.@
+br
+`"…… That's, right…… I haven't even had a chance to rest from last night.@ I guess I pushed myself a little."@
+ld l,"tachi/koha_t03",crossfade,400
+`"Then please rest.@ Shiki-san, can you walk by yourself?"@
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+`"Ah[line=3]no."@
+` It seems impossible right now.
+\
+ld l,"tachi/koha_t02",crossfade,400
+`"That's right, oh, Hisui-chan!@ Carry Shiki-san to his room."@
+ld r,"tachi/his_t07",crossfade,400
+`"Eh[line=3]Nee-san, but[line=3]"@
+ld l,"tachi/koha_t04",crossfade,400
+`"Hisui-chan!@ Shiki-san is sick, are you just going to abandon him like that?"@
+`"Ah[line=4]"@
+`"I will allow it for today, so take him to his room."
+\
+ld r,"tachi/his_t21",crossfade,400
+`"…… Yes.@ Sorry for saying such selfish words."@
+ld l,"tachi/koha_t01a",crossfade,400
+`"As long as you understand, it's fine.@ Did you find the medicine?"@
+ld r,"tachi/his_t23",crossfade,400
+`"…… Um, you had too many medicines, is this the fever medicine?"
+\
+ld l,"tachi/koha_t05",crossfade,400
+`"Ahaha, that's used for something else.@ Shiki-san is still conscious, so we don't need to use medicine that would stabilize him."@
+ld l,"tachi/koha_t02",crossfade,400
+`"It seems his fever is from being too tired, so I'll make some medicine.@ Hisui-chan, please take care of the rest."@
+cl l,lshutter,800
+` Kohaku-san swiftly disappears towards the west hall[line=3]where her room is.
+\
+ld r,"tachi/his_t20",crossfade,400
+`"Shiki-sama, I will take you to your room."@
+` With an "excuse me", she lends me her shoulder.@
+cl r,crossfade,400
+br
+` Thanks to Hisui's help, I manage to get up the stairs.@
+` On the way, even more than my terribly throbbing headache, Hisui's incredibly embarrassed face burns into my memory.
+\
+bg #000000,crossfade,800
+!w2000
+play "*1"
+bg "bg/bg_40c",crossfade,800
+br
+` [line=3]In the end,
+` I lie down in bed, drink the medicine Kohaku-san made, and entrust her to pass on my message to Ciel-senpai who is waiting at the movie theater.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"………… Gah."@
+` My headache doesn't stop.@
+` As if in exchange, my body did seem to cool down.
+\

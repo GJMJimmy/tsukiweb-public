@@ -1,0 +1,26 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",notrans,0
+`"………"@
+` No, I have a feeling that I won't see Senpai if I wait here.@
+` If Senpai doesn't feel like seeing me, she'll leave as soon as she sees me.@
+` …… If that's the case, she won't come to school through the front gate.@
+br
+`"…… If she even comes, it'll be through the back gate."@
+` I rush to the back of the school with this thought in mind.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+` [line=4]*sigh*@
+` No one is here.@
+` Not even students coming to school through the back gate.@
+` …… But, I still wait for Senpai who for sure isn't coming.
+\
+bg #000000,lshutter,800
+bg "bg/bg_05a",lshutter,800
+` The chime sounds once, telling me that the gate is closing.@
+` …… Senpai didn't come.@
+` I should go back before homeroom starts.
+\
+bg #000000,lcartain,800

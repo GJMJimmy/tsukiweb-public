@@ -1,0 +1,73 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",lcartain,800
+` A aula está prestes a começar, mas a sala ainda está uma bagunça.@
+` Sento na minha carteira perto da janela e coloco minha pasta sobre a mesa.
+\
+ld c,"tachi/ari_t01",lshutter,400
+`"Aê, bom dia.@ Você parece estar péssimo hoje."@
+`"…… Poxa.@ Todo mundo que olha para mim diz a mesma coisa.@ Pareço tão mal assim?"@
+`"Hã[line=3]?@ …… Bom, pensando bem, você parece normal.@ Sei não, estou te achando meio deprimido, Tohno."@
+`"………… Meio deprimido?@ …"@
+` Meu ânimo está lá embaixo mesmo.@
+` Desde aquele adeus da Senpai, sinto meu corpo pesado e tanto meu corpo quanto minha mente estão nocauteados.
+\
+`"[line=3]Arihiko.@ Você viu a Senpai hoje?"@
+ld c,"tachi/ari_t03",crossfade,400
+`"Hã?@ Senpai?@ Qual Senpai?"@
+`"Qual Senpai?@ …… A única Senpai que ambos conhecemos é a Ciel-senpai."@
+`"Shiel-Senpai?@ …… Quem é essa?@ Tem algum estudante estrangeiro na nossa escola?"@
+br
+` [line=4]Fico boquiaberto.@
+br
+`"…… Arihiko, você……"@
+` Gaguejo algumas palavras, confuso.@
+` Mas não sai mais nenhuma.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Você está bem, Tohno?@ Fala aí.@ Eu te ajudo se não for nada envolvendo dinheiro."@
+br
+` O Arihiko está agindo como de costume.@
+` Mas esqueceu completamente da Senpai.@
+br
+`"…… Não, não é nada.@ Senta logo, a aula vai começar."@
+`"Ah, já está na hora!@ Bem, até mais."@
+cl c,lshutter,800
+` Ele volta para sua carteira e o professor entra na sala.
+\
+` A aula começa e logo em seguida temos física.@
+br
+` [line=3]Eu assisto a tudo como se estivesse vendo um filme.
+\
+bg #000000,lshutter,400
+bg "bg/ima_03",lshutter,400
+` A Senpai… realmente desapareceu.@
+` Não apenas da minha vista, mas a pessoa conhecida como Ciel-senpai, desapareceu sem deixar nenhum rastro.@
+` O Arihiko não lembra dela.@ …… E tenho certeza de que mais ninguém se lembra.@
+` Aquele adeus[line=4]então é disso que ele se tratava.
+\
+`"[line=8]"@
+` O filme continua passando, mostrando a cena de um professor escrevendo no quadro negro com um giz branco.@
+` Nada parece real.@
+` Quando as aulas terminarem e começar o intervalo, sei que aquela pessoa nunca mais virá, nunca mais.@
+` Durante o almoço, nunca mais nos encontraremos no clube de cerimônia de chá para passar o tempo.
+\
+` …… Em algum lugar.@ Tive um fio de esperança, mas já se acabou.@
+br
+` Perdi a Ciel completamente.@
+` Eu ainda não[line=3]não fiz nada.@ Não contei nada a ela.@
+` Passamos o tempo almoçando juntos, em um dia igual a hoje.@
+br
+` Agora aquilo é apenas[line=4]um sonho[line=4]precioso e distante[line=4]
+\
+bg #000000,crossfade,1500
+!w1000
+bg "bg/bg_06a",crossfade,400
+` Percebo que o número de alunos da minha turma está diminuindo.@
+br
+` [line=3]Parece que está na hora do almoço.@
+`"………………"@
+` Não estou com vontade de fazer nada.@
+` Estou com preguiça, por isso vou[line=3]
+\

@@ -1,0 +1,226 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+ld c,"tachi/aki_t13a",crossfade,400
+`"……………"@
+` A Akiha me encara.@
+` [line=3]E.@
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… Estamos no intervalo do almoço, não é mesmo, Nii-san?"@
+` Ela diz algo muito normal.@
+`"Estamos sim.@ E seria ruim não comer nada no horário de almoço."@
+` Tiro o pão que comprei de dentro de uma sacola de plástico.@
+`"É o mesmo pão de ontem, tudo bem?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Sim, obrigada."
+\
+cl a,crossfade,400
+` Entrego a ela um sanduíche e começo a comer o meu.@
+`"…………"@
+` Que droga, cada movimento que a Akiha faz chama a minha atenção e o meu corpo não está se movendo como deveria.
+\
+ld l,"tachi/ari_t05",crossfade,400
+`"Opa, tá no luxo hoje, hein, Senpai!@ Tá celebrando o quê?"@
+ld r,"tachi/cel_t12",crossfade,400
+`"Não estou celebrando nada.@ Como estamos no auge do outono, tenho que comer bastante e acumular muita energia."@
+`"Ahhhh, agora entendi, tá comendo a reserva pro inverno, né?@ Acho que no seu caso, a comida vai direto pros seus peitos, né!?"@
+cl a,crossfade,400
+br
+` …… Em contraste com o clima desagradável entre a Akiha e eu, o Arihiko e a Senpai parecem estar aproveitando sua conversa.
+\
+`"…………"@
+` Munch.@
+` Munch munch.@
+` Munch munch munch munch munch.
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"Hum… Nii-san?"@
+`"Hum?@ O que foi, Akiha?"@
+`"Bem, é que… Não tem nada para beber hoje?@ Estou com um pouco de sede…"@
+`"[line=5]Ah."@
+cl a,crossfade,400
+br
+` Acabei me esquecendo.@
+` O iogurte de morango que comprei ficou na sacola.
+\
+`"Desculpe, me esqueci.@ Toma aqui…"@
+` Entrego a ela o iogurte.@
+` Ela aceita.@
+ld c,"tachi/aki_t19",crossfade,400
+`"Ah[line=4]"@
+` Como a caixa do iogurte é pequenininha, nossos dedos se tocam.
+\
+` [line=3]Tu, dum.@
+br
+` Apenas isso.@
+` Foi só isso, mas as pontas dos meus dedos ficam quentes.@
+` Embora eu tenha que tirar a minha mão de perto da dela imediatamente, eu não faço isso.@
+` Olho para a Akiha e vejo que ela também parece paralisada.
+\
+cl a,crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+ld r,"tachi/cel_t01a",crossfade,400
+`"Hum?@ Tohno-kun, o que está fazendo?"@
+`"[line=5]!"@
+` Rapidamente tiro a minha mão de perto da mão da Akiha.@
+`"Ah, nada, só estava entregando a ela o iogurte."@
+ld r,"tachi/cel_t12",crossfade,400
+`"Sério?@ Como vocês dois ficaram congelados, achei que estivessem brigando para ver quem ficava como o iogurte."@
+`"Você também achou isso, Senpai?@ Pra mim pareceu que o Tohno estava em uma batalha de vida ou morte pra ver quem ficava com o iogurte.@
+` E como a Akiha-chan estava com sede, achei que ele estava sendo um idiota por não deixar ela beber o troço."@
+` …… É[line=4]parece que quem estava de fora viu dessa forma.
+\
+cl a,crossfade,400
+`"Não, que besteira, não teve nada disso.@ Eu só me distraí por um momento e esqueci de soltar, não foi isso, Akiha?"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"…………"@
+` A Akiha parece estar muito distante daqui.@
+` A expressão é tão diferente da Akiha que conheço[line=4]acabo ficando deslumbrado por um instante.
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"Huuuuumm… Ô Tohno, tava pensando aqui com os meus botões, será que você e a Akiha-chan…"@
+`"[line=3]O que foi?@ Vou ficar nervoso se começar a falar besteira, hein!"@
+`"Não, é que vocês não se parecem muito."@
+`"…… Isso é normal, ué!@ Podemos ser irmãos, mas somos de sexo diferente, claro que não vamos ser muito parecidos."@
+`"Não foi assim que eu quis dizer.@ Como devo explicar… Você parecem tipos diferentes de pessoas."
+\
+cl a,crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+ld r,"tachi/cel_t01a",crossfade,400
+`"Eu concordo.@ A Akiha-san é uma pessoa bem difícil de se aproximar, já o Tohno-kun é o oposto.@ É como se o Tohno-kun fosse água e a Akiha-san fosse óleo, né?"@
+`"…… Realmente, a Akiha é difícil de se lidar.@ Eu não reclamaria se ela fosse mais legal."@
+ld l,"tachi/ari_t03",crossfade,400
+`"O quê?@ A Akiha-chan é boa o bastante para mim!"@
+`"Ah, por fora é outra coisa, na superfície ela é legal.@ Mas lá dentro tem outra pessoa escondida, a mais fria das mais frias.@ Você precisa ver como ela me xinga quando eu cometo algum erro durante o jantar[line=3]"
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t03a",crossfade,400
+!w1000
+`"[line=3]Bem, já chega desse assunto.@ Vamos conversar sobre algo mais interessante, Arihiko."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Você vai parar no meio do que ia dizer?@ Eu gostaria de saber exatamente o que pensa de mim, Nii-san."@
+`"Ugh……………"@
+` O olhar da Akiha está soltando farpas.@
+` …… Aquela Akiha de agora há pouco deve ter sido algum tipo de ilusão.
+\
+cl a,crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+`"Conversar sobre algo mais interessante[line=4]huuuummm.@ Ô Tohno, você viu passando no noticiário lá perto da sua casa?"@
+`"Hã[line=3]?@ O noticiário da manhã?"@
+ld r,"tachi/cel_t12",crossfade,400
+`"Sim, a mais recente vítima do assassino em série foi encontrada perto da casa do Tohno-kun, né?@ Aquele muro alto é da mansão da Akiha-san, não é mesmo?"@
+playstop
+cl l,crossfade,400
+waveloop se_02
+ld l,"tachi/aki_t01a",crossfade,400
+`"[line=2]Eu não estou sabendo de nada.@ Não vi as notícias hoje cedo, por isso não estou bem informada."@
+` A Akiha encerra o assunto como se não tivesse nada a ver com ela.@
+` Mas eu não consigo fazer isso.
+\
+cl a,crossfade,400
+` Porque não deveria haver mais mortes.@
+` A Yumizuka não está mais bebendo o sangue das pessoas para sobreviver.@
+` Então, não deveria aparecer mais nenhuma vítima.@
+` O meu…@
+` Se aquele sonho que tive foi apenas um sonho mesmo…
+\
+wavestop
+play "*1"
+`"[line=3]Senpai.@ É verdade mesmo?@ É a mesma história daqueles assassinatos do tal vampiro?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"É sim.@ Disseram que a vítima de ontem foi a décima.@ Obviamente todo o sangue foi drenado do corpo, mas desta vez estavam faltando algumas partes do corpo também."@
+` Ela explica em seu tom de voz normal.@
+` Mas eu…@
+` Sou atacado por uma tontura absurda, é como se o mundo tivesse virado de cabeça para baixo.
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"O cadáver estava sem as mãos e sem os pés; disseram que os membros foram arrancados por uma mordida humana.@ Mas não acham estranho?@ Poxa, a boca de um ser humano fazer isso?"@
+cl a,crossfade,400
+ld l,"tachi/cel_t12",crossfade,400
+ld r,"tachi/aki_t01a",crossfade,400
+`"É impossível arrancar com mordidas partes do corpo humano.@ A mandíbula humana não é forte o bastante para arrancar a mão ou o pé de alguém, além disso, os dentes não suportariam a pressão.@
+` …… Você até poderia triturar a cartilagem com os dentes, mas nada além disso."
+\
+ld l,"tachi/cel_t04",crossfade,400
+`"Precisamente.@ Mas as marcas no corpo só podem ser de um ser humano, então, talvez seja uma criatura que tenha a forma de um ser humano, mas que não é um ser humano propriamente dito.@ Muito parecido com um vampiro, não acham?"@
+br
+` [line=4]Estou enjoado.@
+` Como a Senpai não sabe de nada, ela pode falar essas coisas com um sorriso no rosto[line=3]
+\
+ld r,"tachi/aki_t04a",crossfade,400
+`"Ahahahaha."@
+ld l,"tachi/cel_t12",crossfade,400
+`"Akiha-san.@ Eu falei alguma coisa engraçada?"@
+ld r,"tachi/aki_t08a",crossfade,400
+`"Sim.@ Achei tão engraçado que não pude me segurar."@
+ld l,"tachi/cel_t10a",crossfade,400
+`"Céus, não é motivo pra dar risada!@ A vítima dessa noite foi encontrada perto da sua casa!"@
+ld r,"tachi/aki_t04a",crossfade,400
+`"Eu peço que me desculpe se fui indelicada, Senpai.@ Mas não imaginava que você fosse o tipo de pessoa que acreditasse nessas besteiras.@
+` Por que não nos diz o que acha do vampiro, Senpai?"
+\
+ld l,"tachi/cel_t08",crossfade,400
+`"Hum[line=4]fala dos vampiros das lendas?"@
+ld r,"tachi/aki_t08a",crossfade,400
+`"Não, falo da sua imagem do vampiro assassino em série."@
+cl a,crossfade,400
+br
+` A Ciel-senpai está perdida em pensamentos.@
+` Apesar de não querer ouvir a resposta dela de jeito nenhum[line=4]estou muito interessado em saber o que ela pensa.
+\
+ld l,"tachi/cel_t01a",crossfade,400
+`"Olha, eu acho que o culpado é só uma pessoa mesmo.@ Mas acredito que seja alguém com qualidades e valores diferentes dos nossos.@
+` Nós simplesmente pegamos essas características que não podem ser distinguidas pelo senso comum e tentamos entendê-las rotulando-as como 'um vampiro'."@
+ld r,"tachi/aki_t11a",crossfade,400
+`"…… Então a Senpai acha que um 'vampiro' é alguém com deficiência mental, com uma pscicose que os impede de diferenciar o certo do errado?"
+\
+ld l,"tachi/cel_t07a",crossfade,400
+`"Isso mesmo.@ Não precisamos usar o termo 'vampiro', mas qualquer um que não siga os costumes da nossa sociedade é destituído por aqueles que vivem nela, já que a sociedade não é capaz de entender o caráter da pessoa.@
+` Esse é o mecanismo de defesa do senso comum agindo, não é mesmo, Akiha-san?"@
+ld r,"tachi/aki_t04a",crossfade,400
+`"Você pensou muito sobre o assunto, Senpai!@ Mas é complicado, não acha?@ De acordo com o seu raciocínio, não podemos dizer que o 'vampiro' cometeu um crime.@
+` Afinal de contas, o 'vampiro' não tem dúvidas em relação à sua própria conduta, ele não acredita estar errado, certo?@ Se não há crime, como ele pode ser punido?"
+\
+ld l,"tachi/cel_t04",crossfade,400
+`"De fato.@ Portanto não deve caber à sociedade exigir uma punição.@
+` Para punir um crime que não é reconhecido como crime, a punição precisa ser baseada não na moral de um indivíduo, mas sim nos princípios de toda a espécie."@
+ld r,"tachi/aki_t01a",crossfade,400
+`"…… Nos princípios de toda a espécie…?"
+\
+ld l,"tachi/cel_t03",crossfade,400
+`"Sim.@ O primeiro princípio é seguir aquilo que é bom para toda a espécie sobreviver e não para um indivíduo apenas.@ Para uma espécie, aquilo que obstrui esse princípio já é um crime por si só.@
+` Mesmo que o Vampiro-san não veja o assassinato como um crime, para a espécie humana, não é o crime por si só, mas a existência do vampiro que é considerada o maior crime."
+\
+cl a,crossfade,400
+br
+br
+br
+br
+br
+br
+` [line=6]É a existência que é considerada um crime.
+\
+` …… O que está havendo aqui?@
+` A Akiha fica fazendo essas perguntas estranhas e a Senpai fica dando essas respostas.@
+` E,
+` por algum motivo, parece que elas estão falando de mim.
+\
+playstop
+wave se_03
+` Toca o sinal marcando o final do intervalo do almoço.@
+ld l,"tachi/aki_t01a",crossfade,400
+`"[line=2]Desculpem por falar sobre essas coisas desagradáveis."@
+ld r,"tachi/ari_t01",crossfade,400
+`"Ah, tudo bem.@ Fico feliz só por ouvir a voz da Akiha."@
+cl l,crossfade,400
+ld l,"tachi/cel_t01a",crossfade,400
+`"Bem, vamos indo?@ Vocês vão se atrasar se não se apressarem."@
+cl a,crossfade,400
+` A Senpai vai na direção do refeitório.@
+` Para ela, é mais rápido fazer esse caminho até a sua classe.
+\
+` [line=4]Ela está indo.@
+br
+` Será que é porque ela sabia tanto assim sobre o assassino em série ou será que é porque eu fui atraído por essa conversa de agora há pouco?
+\

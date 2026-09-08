@@ -1,0 +1,32 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+`"[line=3]Yo paso.@ Voy a comprar algo de pan y comeré por mi cuenta."@
+`"¿En serio?@ Entonces me iré."@
+cl a,lshutter,400
+` Arihiko se va a la cafetería.@
+`"…… Bien, entonces."@
+` Salgo de mi silla y me dirijo hacia la habitación del club de té, donde Senpai podría estar.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_11a",lcartain,1500
+` …… Me detengo frente a la habitación de la ceremonia del té.
+\
+` Por supuesto, compré algo de comida para mí antes de venir.@
+br
+` Noc-noc.@
+br
+` Llamo a la puerta.@
+` Escucho un arrastrar de pies y siento a una persona en el otro lado.
+\
+`"Sí, ¿quién es?"@
+` Puedo escuchar la voz de Senpai a través de la puerta.@
+`"Soy yo.@ Senpai, ¿te gustaría almorzar conmigo?"@
+` …… No hay respuesta.@
+`"Senpai, dije almorzar."@
+`"…… No voy a comer contigo, Tohno-kun."@
+` Esa voz no suena nada feliz.@
+` No estoy seguro de qué hacer,
+\

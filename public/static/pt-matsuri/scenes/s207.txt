@@ -1,0 +1,23 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",notrans,0
+br
+` [line=5]Eu sei o que eu vi, a Yumizuka estava sorrindo ontem.@
+br
+` Eu não consigo acreditar que ela sorriria daquele jeito, diria "tchauzinho", e em seguida fugiria de casa.
+\
+`"[line=3]Sensei."@
+`"O que foi, Tohno?@ Alguma pergunta?"@
+`"Sim.@ É verdade que alguém da nossa classe fugiu de casa?"@
+`"Hum[line=6]"@
+` O ar dentro da sala fica denso na mesma hora.@
+` Ele franze as sobrancelhas e, em seguida, com uma expressão severa, faz um gesto afirmativo com a cabeça.
+\
+`"Sim, foi o que nos informaram os pais da Yumizuka Satsuki.@ Ela não voltou para a casa ontem à noite, mas eles estão procurando por ela e tenho certeza de que já a encontraram."@
+` Depois de dizer isso, ele sai da sala.@
+br
+` A classe fica agitada novamente.@
+` Eu tenho um mau pressentimento em relação a isso.@
+` …… É uma sensação horrível.@ Como se meu corpo fosse feito de chumbo e estivesse preso a esta cadeira.
+\
+bg #000000,lcartain,800

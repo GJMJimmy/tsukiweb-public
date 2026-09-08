@@ -1,0 +1,36 @@
+playstop
+wavestop
+bg "bg/bg_40a",notrans,0
+`"…………"@
+` I don't know what to say.@
+` Even though I'm only a little better than yesterday, at least now I feel alive.@
+` But, after making Hisui do that[line=3]making her drink that completely, maybe it was just better if I stayed like that.
+\
+ld c,"tachi/his_t21",crossfade,400
+`"[line=6]"@
+` Hisui straightens out her clothes and moves away from the bed.@
+`"…… Hisui…… I"@
+`"Shiki-sama.@ Please do not tell anyone of this.@ …… I do not want you to say it even to myself."@
+`"[line=3]"@
+` …… Of course, Hisui must hate what she just did enough to not even want to be reminded of it.@
+`"Shiki-sama.@ This was something that I did on my own.@ Please think that nothing happened.@ Otherwise, I will be unable to serve you any longer."
+\
+`"[line=7]"@
+` I don't know how to respond.@
+` I don't have words to apologize to her, and I don't have the words to thank her either.@
+`"Well then, please excuse me."@
+cl c,lshutter,800
+`"A………"@
+` Hisui leaves.@
+` All I can do is watch as she does so.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40a",crossfade,800
+` …… It's two o'clock.@
+` Even though it's time for my checkup, Hisui probably won't come.@
+` ………… *sigh*@
+` All I can do is sigh.@
+` Just how did all of this happen?@
+` Even though it was Hisui that started all this, what was I doing holding her head and coming in her mouth like that?
+\

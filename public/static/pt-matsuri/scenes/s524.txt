@@ -1,0 +1,44 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@ Hora do quarto período.@
+` …… Ah, é uma pena.@
+` Mostrando as costas desse jeito em uma luta, você ainda não é bom nisso, Tohno-kun.@
+` Existe uma diferença enorme entre uma lutadora profissional como a Ciel-san e o Tohno-kun.@
+` Você devia ter agido de uma forma que a Ciel-san não estivesse esperando.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Hmph, atacar alguém por trás daquele jeito, isso mostra o seu caráter, Ciel.@ Finalmente está revelando sua verdadeira identidade, nyaa?"@
+br
+` …………@
+bg "bg/ima_14",lshutter,400
+wave se_12
+br
+`"Unyaa!@ Você me apunhalou, você me apunhalou quando a câmera não podia nos ver, nyaaa!"@
+br
+` ……………………@
+bg "bg/ima_13",notrans,0
+br
+`"Unyaaaaaaaaaaaaaaaaa!"
+\
+bg "bg/bg_06a",lshutter,800
+ld r,"tachi/cel_t20",lshutter,400
+` O extermínio da gata barulhenta foi concluído.@
+` Céus, uma vampira como você, que rouba a pessoa amada de alguém, não tem o direito de dizer nada.@
+` E agora, pessoal, continuem desfrutando do resto da história principal!
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lscroll,800
+`"Nyaa, como assim?@ Eu ainda não fiz isso aí."@
+br
+` "Ainda" significa que você fará no futuro?@
+br
+`"Ehehe.@ Vou deixar a resposta dessa pergunta para mais tarde."
+\
+cl c,lscroll,800
+playstop

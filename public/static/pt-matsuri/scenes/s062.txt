@@ -1,0 +1,15 @@
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` Eu resolvo comprar pão e comer tranquilamente na sala de aula.@
+br
+` …… Ainda tem alguns caras e um grupo de garotas na sala.
+\
+`"…… Hã?"@
+` Acabei de perceber.@
+` Yumizuka Satsuki, a mais atraente de todas as garotas, não está em lugar algum.@
+`"…… Ela deve ter faltado à aula."@
+` Eu sou muito lerdo para ter percebido isso só agora, na hora do almoço.
+\
+bg #000000,crossfade,800
+!w1000

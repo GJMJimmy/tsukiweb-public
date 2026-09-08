@@ -1,0 +1,74 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11b",notrans,0
+br
+` Não vou me importar com isso, vou simplesmente comer.@
+` Acho que a bondade sempre deve ser aceita.
+\
+`"[line=3]Eu vou querer.@ Se você não se importar, vou comer tudo."@
+` Mesmo que tivesse passado um pouco da data de validade, não me importaria.@
+ld c,"tachi/cel_t04",crossfade,400
+`"Então vamos para a sala do clube de cerimônia de chá.@ Lá eu posso te servir um pouco de chá."@
+cl c,crossfade,800
+` Ela sai apressada pelo corredor.
+\
+playstop
+bg #000000,lcartain,800
+!w500
+bg "event/cel_e02b",lcartain,800
+play "*2"
+`"Obrigado pela refeição."@
+` Junto minhas mãos brevemente e começo a comer o almoço da Senpai.@
+` Munch, munch.@ Como sem moderação enquanto a Senpai me observa.
+\
+` Munch munch.
+\
+` Munch.@ Munch.@ Munch.@
+` Munch.@ Munch.@ Munch.@ Munch.
+\
+`"[line=4]Humm."@
+` Tomo um pouco de chá.@
+` Ela continua me observando.
+\
+`"Está gostoso?"@
+`"Hum, não está muito bom e ainda por cima está frio."@
+` …… Acho que esse comentário foi um pouco sincero demais, mas é o meu jeito.@
+` A Senpai dá uma risadinha e me olha bem nos olhos.@
+`"Tohno-kun, você tem um ponto de vista bem filosófico."@
+` Ela diz gentilmente.
+\
+`"…… Hã?@ Não estou te entendendo, Senpai.@ Que coisa para se dizer."@
+`"Mas é verdade.@ Normalmente as pessoas não comeriam o resto de uma refeição de outra pessoa assim.@ Mas você não parece se importar com o que os outros pensam de você, não é?"@
+`"[line=3]?@ Sério?@ Eu não sou tão autoconsciente assim."@
+br
+` Apenas vivo honestamente.
+\
+` Mas, se viver sem se importar com o que os outros pensam é filosófico, então ela é bem mais filosófica do que eu.@
+` No meu caso[line=3]nunca consertaria sozinho o cercado do pátio que todos ignoram.
+\
+`"Na minha opinião, você é mais filosófica do que eu.@
+` Você está sempre vivendo em seu próprio ritmo.@ Dá uma sensação boa só de olhar."@
+` Falo abertamente.@
+` Claro que isso foi um elogio, mas ela diz "ah, entendo," e parece ficar decepcionada.
+\
+`"Hum…… Senpai?@ Eu disse algo ruim?"@
+`"[line=2]Sim.@
+` É que geralmente é assim que chamam uma velha solteirona.@ Sou uma garota, ouvir isso me deixa em choque."@
+` …… Hummm.@ Para a Senpai, isso deve significar que ela aparenta agir mais como uma velha, ao invés de alguém que vive filosoficamente.
+\
+`"Ah, sério?@ Então quer dizer que estou agindo como um velho agora?@ Bem, me desculpe, sou apenas um estudante do ensino médio enfrentando corajosamente os perigos da vida."@
+`"Mas você não pode negar.@ Pois uma almofada e uma xícara de chá combinam muito bem com você.@ Sempre tão calmo[line=4]você parece um aposentado."@
+` Ela dá uma risadinha.@
+` …… Eu queria ouvir que era uma pessoa que fica bem em roupas japonesas, mas se a Senpai diz que pareço um aposentado, que seja.
+\
+`"Muito bem, velha amiga, o que acha de termos uma boa conversa enquanto saboreamos uma xícara de chá?"@
+`"Eu adoraria a sua companhia, Shiki-san."@
+` Com um sorriso radiante, a Senpai despeja um pouco de chá em minha xícara.
+\
+bg #000000,lshutter,800
+` Uma hora se passa.@
+` Conversamos até cinco e meia, em seguida saímos pelo portão antes de fecharem e seguimos por caminhos diferentes na interseção.
+\
+!w1000
+playstop

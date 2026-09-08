@@ -1,0 +1,549 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+ld c,"tachi/stk_t04",crossfade,400
+`"Ah[line=3]"@
+` Yumizuka's body trembles.@
+` Breathing painfully, she falls to her knees.
+\
+cl c,lshutter,400
+play "*6"
+` A choking sound.@
+` Squatting on the ground, Yumizuka coughs heavily, and she spits out a lump of blood.@
+`"[line=3]Yumizuka!?"
+\
+` This time, I do rush near her.@
+`"Yumizuka, are you okay?@ Yumizuka…!"@
+` I put my hand on her heaving shoulder.@
+`"Ah[line=3]"@
+` I feel a chill.@
+` Even through her clothes, I can feel the coldness of her body.
+\
+`"Stupid, you're freezing!@ What are you doing out in the open on a night like this!"@
+`"[line=3]Shiki, kun…"@
+` Her voice is hollow as she says my name.@
+` Yumizuka collapses against me.@
+br
+` As she pants, her warm breath brushes my skin.
+\
+`"Yumi… zuka?"@
+`"It's okay if you don't like me, Shiki-kun.@ Because, I really didn't understand you at all until now, either."@
+br
+` Yumizuka speaks as she coughs.
+\
+`"It's alright, don't talk…!@ I'll take you to a hospital…!"@
+`"But, I understand now.@ Who you are, and what you want to do.@ I really understand now.@
+` Because[line=3]"@
+`"Eh[line=3]?"@
+` Yumizuka's arm tenses.@
+` With amazing strength, she digs into my shoulder.@
+`"Because, I became like you, Shiki-kun[line=3]!"@
+br
+` Saying that, Yumizuka sinks her teeth into my neck.
+\
+bg #9c0120,crossfade,1500
+`"Ah[line=4]"@
+` Fading.@ My consciousness is fading.@
+` Yumizuka's fangs dig into my neck.
+\
+`"[line=3]"@
+` I'm being drained.@
+` As if all the life in my body is liquified and sucked out.@
+` Without strength, there are no thoughts.@
+` So, my consciousness is not fading.@
+` It is simply being destroyed.@
+br
+`"[line=7]Ah."@
+` There are no thoughts.@
+` I know I'll die if I stay like this, but I can't even[line=4]
+\
+wave se_01
+bg #000000,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+textcolor #ff0000
+`      Kill  this woman.
+\
+textcolor #ffffff
+wave se_01
+` All the same.@
+` From somewhere beyond my mind, my blood begins to boil.@
+br
+`"Yumizuka[line=4]!"@
+` Both my arms push her back out of pure reflex.
+\
+bg "event/stk_e02",lshutter,400
+` She falls right on her behind.@
+`"What are…[line=4]"@
+` I stand up.@
+` But, I can't.@
+` I'm so exhausted I can barely even lift an arm.@
+br
+` Yumizuka sits, as if in a drunken stupor.
+\
+`"Ah[line=6]"@
+` I can't see her face clearly.@
+` Everything dims as my consciousness fades.@
+` I can't control my body either.@
+` All that exists is the pain in my neck.@
+br
+` Blood gurgles forth.@
+` Yumizuka's teeth marks remain in my neck.@
+` And through those two deep holes, something black is being poured into my body[line=3]
+\
+wave se_01
+`"Ah[line=3]guhhhh!"@
+` A pain, a pain as if my spine is about to be ripped out.@
+wave se_01
+`"Haa[line=3]arghhh!"@
+` In pain, I claw at the ground.@
+` But there is no relief.@
+` I cannot move since Yumizuka has drained everything out of me, and the pain pours into me like a black snake.@
+` I cannot move, so the black thing crawls and twists as it pleases inside me.
+\
+br
+`"Haa[line=3]ah, ah[line=3]"@
+br
+` I clutch at the ground.@
+` With glazed eyes, Yumizuka… looks at… me.
+\
+`"Yumi… zuka… what have you…!"@
+`"It's okay, it only hurts at first.@ First it hurts, but when the blood mixes, it should die down."
+\
+`"Don't worry, I won't kill you.@ I poured my blood in properly, so you won't collapse and crumble away like those failures last night.@ You will only look at me from now on."@
+` Yumizuka whispers joyfully.
+\
+`"What are[line=3]you talking about… Yumizu… ka[line=3]"@
+`"I'm saying that I'm making both of us the same, Shiki-kun.@ Sucking people's blood instead of eating normal food, nocturnal, unable to walk under the sun.@ You're going to be a different creature."@
+br
+` …… What is, that.@
+` Ridiculous, that's just like[line=2]
+\
+`"Yeah, like a vampire.@ I didn't really understand how I became this way either.@
+` Two nights ago, I went out to check the rumor that you were walking around in the shopping district every night, and then when I came to I was lying down in that back alley.@
+` Back then, I thought it was just cold, dark, and painful."
+\
+`"But it's strange, after a while, after my body has changed completely, I understood a lot of things.@
+` My body hurts because it's being destroyed very fast, and the sunlight acts like a catalyst for that.@ And if I want to stop the destruction, I need the genetic information of the same type of living organism as myself."
+\
+`"Yeah, I didn't understand the logic that well, but it was plain enough what I had to do.@
+` I was cold, and it was lonely by myself.@ I didn't want to disappear, so I just grabbed a random person and sucked his blood.@
+` And you know what?@ It was really delicious!@ The pain went away and I thought I could do anything.
+\
+`"But, it was so nice that before I realized it, it was all gone.@
+` The man was all shriveled up, like a mummy, and I felt really bad.@ I thought to myself that I was turning into a monster, both in mind and body.@
+` [line=3]But, I had to do it in order to live.@
+` Like I said, I didn't kill them because I hated them.@ I suck blood the same way you people eat animals.@ So I decided not to think about it too deeply."
+\
+`"Wha[line=3]"@
+` What… is this?@
+` Is it okay to kill other people in order to live?@
+` That… I…
+\
+`"But, it seems I've become a proper vampire.@
+` Tonight's meal was quite fun.@ Until now, I've been sucking blood since I was cold and in pain, but now that I'm getting the hang of sucking blood, it's becoming more interesting.@
+` You understand, don't you Shiki-kun?@ You are a much better killer than I am."@
+`"Wha[line=3]"@
+` What…
+` What are you talking about, Yumizuka.
+\
+`"Didn't I say it before?@ I was always watching you, so I know your gentle side and your scary side.@
+` I never talked to you because I didn't understand your scary side."
+\
+`"But I understand now.@ You're the same as me.@
+` Hey Shiki-kun.@ Even you were thinking you wanted to kill someone, without love or hate having anything to do with it."@
+`"Don't[line=3]be ridiculous."@
+` I've never even once thought that.
+\
+`"I'm not being ridiculous!@ I never understood the fragile air about you, but now my body has changed, and I can understand……!@
+` Shiki-kun, just you being there is flirting with death.@ That's the kind of person you are.@ Like me, someone who has to kill people.@
+` Your need to kill others is the same as the need to breathe, right?"
+\
+`"You know, I was really happy yesterday.@ It was the first time I was happy after becoming this way.@ Because I finally understood you, Shiki-kun.@ I never really knew you before.@
+` Shiki-kun, you're the same, right?@ You see someone, and for no reason, your heart throbs, and your throat goes dry.@
+` Seeing red blood, you enter a stupor like you were drunk from alcohol, right?@
+` Stealing the life of others, extinguishing the life of others, isn't it so exciting?@ So fun!"@
+`"That's[line=2]a lie, that feeling[line=4]I've never."
+\
+bg #9c0120,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+`"[line=4]Ah."@
+` That was, something only in a dream though.@
+` But I can't say… I never had it.@
+br
+`"See?@ A pure homicidal impulse, without the influence of emotion.@ Your fragile side, which I always wanted to understand."
+\
+bg #9c0120,crossfade,400
+monocro off
+bg "bg/bg_29b",notrans,0
+ld c,"tachi/stk_t10",crossfade,400
+`"I forgot to say one more thing.@ A vampire is someone whose blood has been sucked by a vampire, right?@
+` That's true, you know.@
+ld c,"tachi/stk_t03",crossfade,400
+` To be precise, the person whose blood has just been sucked dies.@
+` Vampires pour their own blood into their victim as they drink to turn them into their own.@ So what's in you right now is my blood."@
+` Standing up, Yumizuka speaks with satisfaction.
+\
+cl c,lshutter,800
+`"…… I see.@ This is, Yumizuka-san's[line=2]blood, then."@
+` …… The black thing that still defiles my body.@
+` It's not even a mouthful, but it still causes unbelievable pain, enough to drive me to madness.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_29b",notrans,0
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`         If that's the case,
+\
+textcolor #ffffff
+` This blood.@
+` This foreign pollutant swimming in my body.@
+` I can't see it.@
+` But, with my "eyes", that would[line=2]
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_29b",notrans,0
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`          First,
+\
+textcolor #ffffff
+` Because of my crawling on the ground, my glasses have fallen off.@
+` The lines.@ I can see the point of that… foreign substance.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_29c",notrans,0
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`       Then  kill,
+\
+textcolor #ffffff
+playstop
+` I stab the point with my knife.@
+` I thrust the knife into my body.@ But it doesn't cut any of my flesh.@
+` What is killed is not me but this foreign object.
+\
+ld c,"tachi/stk_t10",crossfade,400
+`"Now, it's been long enough.@ Stand up, Shiki-kun."@
+` …… I hear Yumizuka's command.@
+` The pain fades.@
+` I can control my arms and legs again, and I can finally stand up.
+\
+ld c,"tachi/stk_t07",crossfade,400
+`"[line=3]Good.@ From now on, we'll always be together, Shiki-kun."@
+`"………………"@
+ld c,"tachi/stk_t10",crossfade,400
+`"Now, come here.@ Come by my side, hold my hand, and make me feel better."@
+` She holds out her hand.@
+br
+` [line=4]Thump.@
+br
+` My heart pounds, and my legs begin to move.@
+` But they don't move forward.@ They move backward.
+\
+ld c,"tachi/stk_t09",crossfade,400
+`"Shiki…… kun?"@
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_29c",notrans,0
+play "*4"
+textcolor #ff0000
+br
+br
+`         Kill.
+\
+textcolor #ffffff
+br
+br
+` Yumizuka's bewildered voice.@
+br
+` [line=4]Thump.@
+br
+` My heart begins to scream.@
+` My throat becomes dry.@
+` Every nerve in my body recognizes the person in front of me as an enemy.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_29c",notrans,0
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`         Kill.
+\
+textcolor #ffffff
+` *pant*…… *pant*…… *pant*
+` This feeling.@
+` It's as if my thoughts belong to a completely different person.@
+` I can't resist the impulse flowing out within me.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_29c",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=6]My mind/is growing/hazy.
+\
+`"Why……?@ Hey, why aren't you doing what I tell you to……?"@
+br
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_29c",notrans,0
+textcolor #ff0000
+`         Kill.@
+textcolor #ffffff
+br
+` Thump, Thump.@ My heart beats loudly,
+` as if repeatedly ordering me to kill… to kill.
+\
+`"Shiki-kun, you[line=2]"@
+`"…… No, Yumizuka[line=4]"@
+` She looks at me as I breathe painfully.@
+ld c,"tachi/stk_t11",crossfade,400
+`"Why[line=2]!?@ Why didn't my blood work……!?"@
+`"…… I killed your blood.@ So, I will not become[line=2]your partner."@
+ld c,"tachi/stk_t09",crossfade,400
+`"Wha[line=2]"@
+` The eyes staring at me are filled with surprise.
+\
+wave se_01
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`         Kill.
+\
+textcolor #ffffff
+`"…… Please disappear, Yumizuka…… I don't understand why, but…… if you remain here, I[line=2]"@
+br
+wave se_01
+textcolor #ff0000
+`         Kill.@
+textcolor #ffffff
+br
+`"I[line=4]"
+\
+br
+wave se_01
+textcolor #ff0000
+`         Kill.@
+textcolor #ffffff
+br
+`"I don't[line=2]want to kill anyone[line=4]"
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_29c",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=8]My mind/is/inverting.
+\
+playstop
+bg "bg/bg_29c",crossfade,400
+ld c,"tachi/stk_t02",crossfade,400
+` Yumizuka's eyes burn black.@
+` Like a needle, the sharp intent to kill.@
+` Tohno Shiki's body[line=2]separates itself from the mind and will of Tohno Shiki.@ I lick my lips as I pick up my knife.
+\
+`"Oh, you're serious now, Shiki-kun."@
+`"[line=11]"@
+` I can't speak.@
+` Nothing.@ The thought of responding doesn't even occur.@
+` My field of vision shrinks to nothing.
+\
+bg #ffffff,crossfade,400
+`"Liar.@ You said… you'd help me."@
+wave se_01
+textcolor #ff0000
+br
+`     I don't know   anything about that.@
+textcolor #ffffff
+br
+`"…… Fine.@ If you won't cooperate, I'll kill you first.@ There'll be plenty of time to give you my blood after that……!"@
+wave se_01
+textcolor #ff0000
+br
+`     Well said,   for a miserable failure.
+\
+textcolor #ffffff
+` …… I can only hear the voice.@
+` There are no thoughts.@
+` My body kills the body of Yumizuka in return, who is trying to kill my body.
+\
+!w3000
+wave se_06
+bg "bg/ima_14",crossfade,400
+!w1000
+bg #000000,notrans,0
+` A sensation of spurting.@
+` My right arm holding my knife is heavy and my left arm is burning.@
+` The burning on my left arm is from the flowing blood.@
+` Yumizuka's nails tore through my clothes and made the blood flow.@
+` Maybe thanks to the bleeding, my burning blood cools down.@
+` My ferociously pounding heart starts to calm.@
+` But, I start to realize,
+` I pierced Yumizuka's heart with my knife, and am now holding her as if I am embracing her.
+\
+bg "bg/bg_29c",crossfade,400
+play "*8"
+`"Wha[line=6]"@
+` This is, a continuation of my nightmare.@
+` Without knowing it,
+` I killed Yumizuka Satsuki.@
+br
+`"Wh…… y"@
+` Yumizuka's body up against mine is frigid.@
+` There was never, never any warmth to begin with.@
+` Her body is like pure ice, and isn't doing anything but embracing mine.
+\
+`"……… Yumi… zuka."@
+` My fingers holding the knife shake uncontrollably.@
+` Shallow breathing fills the air.@
+` Mine, and hers.@
+br
+`"What[line=6]have I done?"@
+` I didn't want to kill her.@
+` I didn't even have a single thought of hurting her, so why[line=4]!?
+\
+`"Shiki…… kun."@
+` I hear Yumizuka's voice right next to my ear.@
+` She's probably going to voice her grudge.@
+` She asked me to help her.@ But all I did in response was to kill her without even thinking.@
+br
+`"………… I'm… so happy."@
+br
+` But,
+` Yumizuka, with a gentleness like she were having a dream, said those words.
+\
+`"Wh, y?"@
+`"…… Because… this was the first time you ever seriously looked at me.@ That's why I'm so happy.@ That makes me… your first time, Shiki-kun."@
+br
+` [line=7]Thump.@
+br
+`"…… I'm so sorry.@ They say only death can cure a fool; but in my case, it seems even death couldn't cure me[line=3]"@
+br
+` [line=6]Thump.@
+br
+`"…… Yumi…… zuka?"
+\
+` [line=7]Thump.@
+br
+` There's no reply.@
+` With a dry sound,
+` her body crumbles to ashes as if it was never there to begin with.
+\
+bg "bg/bg_29b",crossfade,400
+playstop
+br
+` [line=5]What happened?@
+br
+textcolor #ff0000
+`        That's right.@
+textcolor #ffffff
+br
+` [line=5]I could not, understand.@
+br
+textcolor #ff0000
+`       That's fine.
+\
+textcolor #ffffff
+`"Ha[line=6]ah."@
+` …… I breathe harder.@
+` Knife still in hand, the contents of my stomach rise to my throat.@
+`"Ah[line=4]ghaa[line=2]aah[line=2]"@
+` …… How come?@
+` There is regret over killing her.@ There's also guilt.@
+` But, above all else[line=3]I can't rid myself of this feeling.
+\
+`"Aah[line=2]ghaa[line=2]gah[line=2]"@
+` What a shock.@
+` If you call this pain pleasure, then this has to be the greatest pleasure in the world.@
+` That's what I think as I feel this blood pulsing throughout my body.
+\
+br
+` …… That's the kind of person you are.@ Like me, someone who has to kill people to live.@
+br
+` [line=5]She…
+br
+` …… Your need to kill others is the same as your need to breathe.@
+br
+` [line=5]She said killing others was fun, she proudly said that to me.
+\
+`"[line=3]No."@
+` No, that's wrong.@
+` I cannot accept that.@
+` If I accept that, I could never live as myself again.@
+`"[line=4]I'm different.@ I'm different from you, Yumizuka."@
+` There's no power in my denial.@
+bg #9c0120,crossfade,400
+bg "bg/bg_29b",crossfade,400
+br
+` My whole vision wavers.@
+` Here[line=3]if I stay here any longer, I'll go crazy.@
+br
+` …… I have to go back.@
+` Back to my world.@ I need to hurry back to the normal life of Tohno Shiki, or else I'll be engulfed by this poison.
+\
+br
+br
+br
+br
+br
+br
+`"[line=6]Gaaah."@
+` Trying to stifle the sharp pain in my head, I start to walk away.
+\
+bg #000000,crossfade,800
+!w3000

@@ -1,0 +1,269 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+`"…… ¿Voy a echar un vistazo?"@
+` Saliendo de la cama, dejo mi habitación silenciosamente.
+\
+playstop
+waveloop se_11
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_42c",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_54c",lcartain,800
+` [line=4]Ni siquiera la luz de la luna puede penetrar el bosque del jardín.@
+br
+` Camino a través del bosque que más bien parece una selva.@
+` …… No recuerdo muy bien dónde estaba, pero al entrar en el bosque, mis pies se dirigen automáticamente hacia el edificio separado.@
+br
+` Aunque olvidé dónde estaba, supongo que mi cuerpo recuerda cómo llegar.@
+` Por lo menos, soy capaz de llegar al edificio separado sin perderme.
+\
+bg #000000,tcartain,800
+bg "bg/bg_44b",bcartain,800
+`"[line=7]"@
+` Deben haber pasado muchos años desde que este edificio fue abandonado, porque muchas partes están deterioradas.@
+` Al colocar mi mano sobre la puerta, noto que no está bajo llave.@
+br
+bg #000000,lcartain,800
+` Adentro está oscuro, como esperaba.@
+` Huelo las alfombrillas tatami y el shoji, y por alguna razón me siento cómodo a pesar de que no puedo ver nada.
+\
+bg "bg/bg_45c",lshutter,800
+`"[line=5]Ah."@
+` Al entrar a la habitación de estilo japonés, un escalofrío recorre mi columna.
+\
+`"[line=10]Conozco este lugar."@
+` Supongo que vine aquí de niño porque esta habitación de estilo japonés era interesante.@
+`"[line=12]"@
+` Pero es extraño.@
+` Tengo la misma sensación de incompatibilidad que tuve cuando vi mi habitación por primera vez después de regresar a esta mansión.
+\
+`"…… Tal vez porque la casa de los Arima era de estilo japonés."@
+` Siento que he vivido aquí toda mi vida.@
+` O tal vez[line=5]
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+` Si recuerdo bien, en el pasado…
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+` Cuando estábamos jugando en el patio,
+\
+bg "bg/cmo_05",notrans,0
+wait 100
+bg "bg/bg_45c",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+` quizás no éramos sólo Akiha y yo…
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_45c",notrans,0
+`"Auch[line=6]"@
+` Siento un dolor en mi cuello.@
+` Podría ser mi anemia, pero mi cuerpo se siente como plomo.@
+`"…… Esto es malo…… tengo que volver a mi habitación."@
+` Sacudo mi cabeza ligeramente, y decido regresar a mi habitación antes de desmayarme.@
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_40d",rcartain,800
+` Respiro profundamente.@
+` De alguna manera, logré volver a mi habitación.@
+` Sin importar qué, si me desmayaba en el edificio prohibido, la ira de Akiha habría caído sobre mí.@
+`"[line=6]Mn."@
+` Me siento un poco mareado.@
+` Caigo sobre mi cama sin siquiera cambiarme.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+wavestop
+!w2000
+wave se_01
+!w600
+` [line=4]Caliente.
+\
+wave se_01
+!w600
+br
+br
+br
+` [line=4]Caliente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+` [line=4]Caliente.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Mi garganta, seca de sed, caliente.
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=6]No puedo dormir así.@
+`      Iré a buscar un vaso de agua.
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` Parece que fui a la ciudad de noche.@
+` Parece que estoy esperando, con ojos inyectados de sangre, que alguien pase cerca.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Hace calor.
+\
+` De pronto, veo un rostro reflejado en la ventana.@
+` Los ojos están inyectados de sangre, y el rostro parece demencial.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Hace tanto calor.
+\
+` Parece que encontré mi presa.@
+` Al estrangularla desde atrás, todo termina.@
+` Parece que la mujer desconocida ha muerto sólo con eso.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Estoy, muy acalorado.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+` Tomando el cadáver, quizás muerdo su garganta.@
+` Hay un gorgoteo.@
+` Al beber la sangre que sale de su cuello desgarrado, calmo mi sed.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]No entiendo.
+\
+` El sonido de pesadas respiraciones.@
+` Este acto…
+` ¿Este acto en verdad me excita tanto?@
+` Meto mi dedo en el pecho del cadáver.@
+` El sonido de la carne siendo aplastada y de los huesos siendo rotos.@
+` El sonido de un corazón siendo arrancado por mi mano desnuda.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Mientras observo, mi cabeza se llena de blanco puro.
+\
+` Esto, el máximo despojo.@
+` La cima de la inmoralidad.@
+` Sólo al observar, me siento acalorado.@
+` Podría decirse que es un placer negativo, pero a la hora de excitar a alguien, sigue siendo lo mismo.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]No entiendo.
+\
+bg "bg/ima_18",crossfade,400
+` Con sangre caliente goteando de mi boca, miro hacia el cielo nocturno, fascinado.@
+` Mi largo cabello ondula a mi alrededor.@
+` Arriba está el espiral del cielo.@
+` Una luna plateada tan hermosa.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Igualmente, no entiendo.@
+`   Estoy, simplemente, caliente[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

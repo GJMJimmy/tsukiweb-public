@@ -1,0 +1,24 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Ésta es la última lección del día, pero mantegamos alto el espíritu.@
+` Sí, ya que es una larga historia, podría darte sueño, o hambre, o tus dedos podrían cansarse, pero por favor planifica adecuadamente para que tu horario y niveles de energía te permitan seguir jugando.@
+br
+` Ahora, ya salimos de la escuela.@
+` La razón es obvia, ¿no?@
+` Me irrita defenderla, pero si has llegado tan lejos, ¡tienes que continuar hasta el final!
+\
+` …… Digo eso, pero, tal vez semejante final signifique felicidad para Tohno-kun.@
+` Tal vez el título "Crema" lo define todo.@
+` Eso en verdad tira de las cuerdas del corazón.@
+br
+` Esto concluye las lecciones del día de hoy.@
+` ¡Veámonos de nuevo en el segundo día de lecciones!
+\
+bg #000000,crossfade,800
+playstop

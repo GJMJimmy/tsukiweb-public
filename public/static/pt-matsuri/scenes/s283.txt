@@ -1,0 +1,1432 @@
+play "*4"
+wavestop
+monocro off
+bg "bg/ima_13",crossfade,400
+`"Tsss, ah…………!"@
+` Eu caio no chão.@
+`"Ah, ah, ah…………!"@
+` Estou sofrendo convulsões pelo corpo inteiro.@
+` Que dor!@
+` Meu peito[line=4]meu peito[line=4]está queimando………………!
+\
+`"[line=4],aaaah………!"@
+` Estou perdendo a consciência.@
+` Agarro o tatame com todas as forças tentando resistir à dor que invande o meu corpo.@
+` Eu puxo e rasgo os tatames.@
+` Mas nada faz a dor parar.
+\
+`"Hagh, ghah, ghaaaaa……!"@
+` Que dor!@
+` Que dor!@
+` Que dor!@
+br
+` Sentir tanta dor assim é muito assustador.
+\
+`"U-ugah, kuaaaa………!"@
+` Não consigo suportar.@
+` Eu prefiro morrer,
+` do que ter que suportar isso por mais um segundo[line=4]!
+\
+br
+br
+br
+br
+br
+br
+br
+` "Tudo bem.@ Então vou realizar o seu desejo, Shiki."
+\
+`"[line=4]Hein!!??"@
+` Levanto a cabeça.@
+` Mas na mesma hora.
+\
+bg #000000,notrans,0
+playstop
+!w3000
+bg "bg/bg_09c",crossfade,400
+bg #000000,notrans,0
+bg "bg/bg_09c",crossfade,800
+bg #ffffff,notrans,0
+bg "bg/bg_09c",crossfade,1500
+waveloop se_02
+` Na mesma hora,
+` a dor desaparece.@
+` Não sinto mais a dor em lugar algum.
+\
+` Não sinto mais meu corpo pesado.@
+br
+` Não sinto mais… que estou vivo.
+\
+`"[line=4]"@
+` Tento dizer alguma coisa, mas minha garganta não se mexe.@
+` Não há mais nada.@
+` Nenhuma dor,
+` nenhuma sensação,
+` muito menos liberdade.
+\
+`"[line=5]!"@
+` Sem saber o que está acontecendo, tento me levantar.@
+` Mas meu corpo não se mexe.@
+` Eu não estou amarrado e meu corpo não está dormente.@
+br
+` Descrevendo de uma forma simples de se entender,
+` é como se meu corpo já estivesse morto, mas minha mente não sabe disso e continua presa dentro dele.
+\
+`"[line=6]"@
+` A visão é o único dos meus cinco sentidos que ainda funciona.@
+` …… A sala está escura.@
+` Já é noite.@
+`"[line=3]"@
+` Não consigo mexer o rosto, por isso mexo os olhos.
+\
+br
+` [line=4], [line=5], [line=6],
+br
+` Um som.@
+` Ouço um som próximo.@
+` Mas na verdade, não posso ouvir nada.@
+` Parece que tem algo muito errado com os meus ouvidos, pois não consigo ouvir nem minha própria respiração.@
+br
+` Mas,
+` é como se eu estivesse ouvindo uma voz aflita chamando pelo meu nome.
+\
+`"[line=3]Hum?@ Achei que tivesse desaparecido completamente, Shiki, como você é persistente, hein!"
+\
+` Estou ouvindo uma voz que não deveria ser capaz de ouvir.@
+`"[line=4]!"@
+` Tento ao máximo distinguir algo em meio à escuridão.@
+` Ali,
+` estou vendo algo que não reconheço.
+\
+wavestop
+ld c,"tachi/roa_t01a",crossfade,400
+`"[line=4]"@
+` Quem é ele?@
+` É a primeira vez que o vejo.@ É a primeira que o vejo[line=3]mas sinto como se o conhecesse há muito tempo.
+\
+`"Como assim?@ Que maldade sua, Shiki.@
+` Você esteve me procurando por todo esse tempo e quando finalmente apareço, você nem ao menos se lembra de mim?"@
+` Com uma risada divertida, ele me encara com seus olhos vermelhos.
+\
+`"[line=5]"@
+` Minha mente, a única coisa que ainda funciona neste corpo, fica congelada.@
+br
+` Ele não disse,
+` mas[line=3]tenho certeza de que é um vampiro.@
+` Tenho certeza de que ele é a "Serpente" que a Arcueid e a Senpai estão procurando.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+` "…… Não, você está errado.@ Realmente sou o vampiro conhecido como A Serpente de Akasha.@
+` Mas para você, eu não sou a Serpente, sou o SHIKI, lembra?@
+ld c,"tachi/roa_t04a",crossfade,400
+` [line=3]Mas cara, quanta frieza da sua parte, hein!@ Você está me fazendo parecer um idiota por ter ficado pensando em você durante esses oito anos.@
+` Você também não acha, Ciel?"@
+` Ele diz isso tudo enquanto me encara.
+\
+`"[line=4]!"@
+` Senpai.@ Ela está aqui?@
+` Cadê ela?@ Não a vejo e nem sinto a sua presença.@
+` Se ela está aqui, por que não está atacando ele?@
+` Ele está na minha frente.@ Neste exato momento, o nosso inimigo está bem na minha frente………!
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Você não devia pedir o impossível da Ciel.@ Ela não está em condições de aparecer na frente de outras pessoas no momento.@
+` Para começo de conversa[line=3]não acho que você seja capaz de ver alguma coisa também."@
+br
+` Ouço outro som.@
+` Alguma coisa.@
+` Alguma coisa está agarrando os tatames desesperadamente.
+\
+ld c,"tachi/roa_t04a",crossfade,400
+`"…… Ei, já não disse para não prestar atenção nessa coisa……!?@
+` Escuta, Shiki, a única coisa que você deve ver sou eu.@
+` A única coisa que você deve ouvir é a minha voz.@
+` A única existência que você deve reconhecer é a minha.@
+` O único que lhe permite viver sou eu………!@
+` Finalmente nos encontramos, por isso você não pode pensar em mais nada além de mim[line=3]!"
+\
+` [line=4]Um som agudo.@
+` Ouço um som repugnante vindo da mão deste homem que está na minha frente[line=4]este vampiro chamado de A Serpente.@
+` E então, ouço uma respiração sofrida e fraca.@
+br
+` [line=4]no[line=2]ku[line=2]n
+` Não consigo entender.
+\
+`"[line=3]Você realmente esqueceu, Shiki?@
+` …… A hipnose daquele velho era tão boa assim ou[line=3]você perdeu a memória depois de morrer uma vez?@
+` Merda, que perda de tempo!
+\
+` Você está entendendo!?@ Eu esperei durante oito anos!@ Eu esperei pelo momento em que poderia roubar tudo você, a pessoa que me assassinou!@ Mas de que importa agora que você não se lembra mais de nada!?"
+\
+`"[line=5]"@
+` Do que esse cara está falando?@
+` Eu[line=3]matei ele?
+\
+`"Isso mesmo!@ Nós sempre estávamos juntos, não se lembra?@
+` Na mansão Tohno.@ A Akiha, você e eu, nós sempre brincávamos no jardim.@ Isso foi antes de eu ficar assim!"
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/cmo_06",notrans,0
+br
+` [line=3]Eu não me lembro.@
+` Realmente[line=3]tenho a sensação de que havia mais uma garoto conosco naquela época.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_09c",notrans,0
+ld c,"tachi/roa_t04a",crossfade,400
+`"…… Como não se lembra?@ Nós éramos os melhores amigos."@
+` Ele range os dentes.@
+` Seu corpo estremece de emoção, como se estivesse muito aflito.
+\
+`"[line=3]Poxa.@ Eu fui o único que sofreu?@
+` Que coisa terrível, Shiki.@ O meu pai me prendeu mas eu sempre pude sentir a sua presença.@
+` Ahahahaha.@ É porque eu estava usando a sua 'vida'.@ Mesmo que não estejamos conectados pelo sangue, estamos conectados pelas nossas almas."
+\
+`"Por isso eu sempre quis[line=3]que você tivesse uma morte horrível."@
+` Que infortúnio, ele diz.
+\
+br
+br
+br
+br
+br
+br
+` Aquele som de novo.@
+` O som de alguma coisa agarrando os tatames.
+\
+ld c,"tachi/roa_t03a",crossfade,400
+`"…… Que mulher irritante.@ Eu roubei essa vida.@ Ela me pertence já faz oito anos!@ Você acha que vou simplesmente devolvê-la para o Shiki?@
+` Para começo de conversa, eu morreria sem esta vida.@ Ciel, você está me dizendo para morrer?@ Como você é cruel, mulher.@ Será que dá para ficar caladinha e morta nesse canto aí?"@
+br
+` Outro som de algo sendo perfurado.@
+` Não ouço mais o som de algo arragando os tatames.
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"[line=4]Humm, onde paramos?@
+` Ah, é mesmo.@ Estávamos falando sobre como era profundo os nossos laços.@
+` Era isso que eu queria te dizer, Shiki.@ Eu sou o seu irmão.@ Mas tanto você quanto a Akiha se esqueceram de mim."@
+` "[line=5]"@
+` Meu…… irmão………?@
+ld c,"tachi/roa_t05a",crossfade,400
+`"…… Bem, vou deixar as coisas assim.@
+` Você ouviu sobre mim pela Ciel, não é?@ Uma alma que reencarna.@ Um vampiro que volta à vida depois de morrer."
+\
+` Ele aperta os olhos.@
+` Seu humor muda de uma hora pra outra.@
+` Sua personalidade emotiva, quase humana, começa a desaparecer.
+\
+`"Essa é a minha décima oitava reencarnação.@ Você sabe dos meus requisitos para uma nova reencarnação, não é mesmo?@
+` Uma família que tenha poder em seu sangue e influência na sociedade.@
+` Não preciso dizer quem preenche esses requisitos.@
+` Na décima sétima vez[line=2]meu eu anterior escolheu a linhagem dos Tohno.@
+` Escolher o extremo oriente foi só um capricho.@ Talvez eu apenas quisesse uma mudança de cenário das minhas reencarnações anteriores."
+\
+`"Eu fui morto pela princesa e meu décimo oitavo eu renasceu como Tohno SHIKI.@
+` Eu não tinha nada a reclamar quanto ao corpo dele.@ Sua inteligência e desenvolvimento foram rápidos e o clima deste país era ameno."
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"[line=3]Mas as coisas boas pararam por aí.@
+` 'A Serpente'[line=3]Roa cometeu um erro ao superestimar o poder da linhagem dos Tohno.@
+` No final da contas, tanto a Akiha quanto eu, éramos apenas meio humanos.@ A outra metade é um monstro da mesma estirpe que o Roa, um monstro que os membros da família Tohno precisam resistir por todas as suas vidas.@
+` Mas alguns são fracos e não conseguem resistir por muito tempo.@
+` E é o dever do chefe da família Tohno matar aqueles que sucubem a essa inversão e perdem sua humanidade, mas[line=3]"
+\
+ld c,"tachi/roa_t02a",crossfade,400
+`"Resumindo: eu perdi.@
+` Normalmente, o Roa não despertaria até que eu me tornasse adulto.@
+` Mas[line=3]como você e eu estamos conectados, você entende, não é, Shiki?"
+\
+`"Duas vontades não podem existir no mesmo corpo.@
+` É possível se a outra personalidade nascer do ego da própria pessoa, mas um ego completamente diferente não pode entrar.@ E sabe o que aoontece quando ele não consegue entrar?@
+` É simples.@ O receptáculo, o cérebro, grita e chora.@
+` As dores de cabeça surgem.@ Subitamente, sem qualquer motivo ou significado."@
+`"[line=5]"@
+` Dores…… de cabeça…… não me diga que[line=3]
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"É isso mesmo.@ Suas dores de cabeça vêm de mim.@
+` Eu já não disse?@ Eu estou usando a sua vida.@ Somos duas pessoas que dividem a mesma vida.@
+` Por isso[line=3]se eu puder me mexer desse jeito, você acabará imóvel como um cadáver.@
+` O que mata um ego é outro ego.@ Meu ego é bem mais forte que o seu.@ Minha vontade de viver é bem mais forte do que a sua."@
+ld c,"tachi/roa_t04a",crossfade,400
+`"…… Mas você é incrível.@ Estou usando a sua força para tentar te matar…… É estranho você ainda estar vivo."@
+` Ele inclina a cabeça, perplexo de verdade.
+\
+` …… Mas não mais perplexo que eu.@
+` Por que ele está usando a minha vida, e o que diabos é esse cara?@ Minha mente está transbordando de perguntas.
+\
+`"…… Parece que ainda não entendeu, Shiki.@
+` Eu já te disse, a única coisa que pode matar um ego é outro ego.@ Ou seja, matar o ego não mata o corpo.@
+` O Roa dentro de mim é outro ego além do meu próprio.@
+` Oito anos atrás, naquele dia de verão.@ O Roa matou o ego do Tohno SHIKI."@
+br
+`"[line=4]"@
+` Mas eu que sou o Tohno Shiki!
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"É, você é um Tohno Shiki.@ Um verdadeiro impostor que se tornou o filho mais velho da família Tohno no meu lugar, que tinha sucumbido à inversão."@
+`"[line=5]"
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Ouça bem.@
+` …… Eu até gostava de você, Shiki.@
+` Eu também não me dava bem com o meu pai, e você era um cara muito legal.@ Éramos amigos de verdade.@
+` E é claro que eu também amava a Akiha.@ Mas não posso permitir que ela fique mais afeiçoada a você."@
+br
+` …… Q-quê?@
+` D-do que ele está falando[line=4]
+\
+`"…… Eu me lembro da sensação naquele dia.@
+` Tudo ficou vermelho e eu comecei a odiar tudo.@ O canto dos pássaros, as folhas das árvores, tudo me incomodava, então resolvi destruir tudo que aparecia na minha frente.
+\
+`"Há oito anos, Shiki.@
+` Naquele lugar, o Roa matou o meu ego.@
+` Normalmente, tudo estaria acabado assim que o Roa despertasse.@ Mas a família Tohno é especial.@
+` Assim que perdi a razão, meu corpo sucumbiu à inversão.@
+` Acho que é chamado de ímpeto de inversão, você acaba fazendo tudo que acreditava ser um tabu.@
+` Parece que bem lá no fundo, eu tinha inveja de você.@ E no final das contas, eu te matei simplesmente porque você estava na minha frente."
+\
+ld c,"tachi/roa_t02a",crossfade,400
+`"Nossa, nunca senti um prazer maior do que aquele!@
+` Eu perfurei o seu peito com a mão e senti o seu coração pulsar enquanto você tossia sangue.@ Foi como se tivesse nascido novamente!@
+` Foi uma sensação tão maravilhosa que eu continuei ali, querendo brincar um pouco mais com o seu corpo moribundo, mas acabei abusando da sorte.@
+` Enquanto eu brincava de tentar arrancar o seu coração, alguém avisou o nosso pai.@
+` Aquele desgraçado apareceu do nada e me matou!@ Eu, o seu filho verdadeiro!@ Aquele merda.@ Pais cruéis realmente existem.@ Um pai assim não pode reclamar quando é morto pelo próprio filho, não concorda, Shiki!?@
+` Bem, no fim[line=2]eu me senti muito bem."
+\
+br
+br
+br
+br
+br
+` [line=6]Sangue.@
+` Naquele lugar.@
+` O cadáver ensanguentado de uma criança.
+\
+ld c,"tachi/roa_t03a",crossfade,400
+`"[line=2]Sim, finalmente se lembrou, Shiki……!@
+` É isso mesmo, fui eu quem te matou!@ Mas você sobreviveu e roubou o meu lugar como Tohno Shiki……!@
+` Aquele desgraçado do meu pai[line=3]depois de me matar ele me trancou em uma cela no subsolo, como se eu fosse um saco de lixo.@
+` Como ninguém poderia ficar sabendo que o filho mais velho da família Tohno estava morto, ele usou você, o filho adotivo, para me substituir!"
+\
+br
+` Eu[line=9]fui adotado?@
+br
+\
+ld c,"tachi/roa_t01a",crossfade,800
+`"Sim.@ Aquele velho te usou depois que você se recuperou milagrosamente.@ A sorte dele é que ainda éramos crianças.@
+` Nós tínhamos certeza de que éramos irmãos de sangue[line=3]e você ficou bem estragado depois daquele incidente.@
+` Meu pai enganou você e a Akiha com uma mentira boba e fez vocês se esquecerem de mim, o verdadeiro Tohno SHIKI!"
+\
+br
+br
+br
+br
+br
+` [line=6]Não havia[line=4]ninguém lá.@
+br
+` Depois daquele acidente.@
+` Por que eu fiquei tão sozinho?@
+` Quer dizer que isso significa que[line=3]
+\
+`"É isso mesmo, foi porque ninguém precisava de você.@
+` Para proteger a imagem da família, você era tratado como Tohno Shiki.@
+` [line=3]Mas eu precisava de você.@
+` Porque graças ao fato de eu roubar a sua vida, consegui sobreviver quando meu pai me matou.@
+` Por causa disso e somente isso, eu te agradeço, Shiki."
+\
+br
+` …… Eu não entendo.@
+` Então, por quê?@
+` Por que ainda estou vivo?
+\
+`"Sei lá.@ Eu também gostaria de saber[line=3]mas isso não importa.@ Porque você vai morrer aqui."@
+` Dizendo isso,
+` ele[line=3]o Roa se levanta lentamente.
+\
+bg #000000,crossfade,400
+`"[line=3]O objetivo deste corpo é te dar uma morte extremamente dolorosa…… Esse é o objetivo do Tohno SHIKI.@ Estive elaborando isso por anos, mas é chegada a hora de baixar as cortinas.@
+` Ter dois corpos compartilhando a mesma vida não é muito eficiente[line=3]até mesmo para mim."
+\
+` A voz se aproxima.@
+` Desse jeito eu vou ser morto.@
+` …… Não, para falar a verdade, talvez eu já esteja morto.@
+` Não consigo mexer meus braços nem minhas pernas.@
+` Nada mais funciona, nem meus olhos, ou meus ouvidos, nem meu nariz.@
+br
+` [line=3]Não me resta mais nada.
+\
+` Não quero simplesmente aceitar o que ele diz.@
+br
+` …… Mas agora já não me importo com mais nada.@
+br
+` Meus olhos podem ver a "morte" porque meu corpo já está quase morto.@
+` Eu não passava de um impostor.@
+` E já estava morto há oito anos, desde aquele dia de verão[line=4]
+\
+br
+`"[line=4]Tohno-kun[line=4]!"@
+br
+` …… Ouço uma voz.
+\
+` Parece que está soluçando.@
+` Uma voz triste que tenta gritar.
+\
+bg "event/cel_e09",crossfade,1500
+play "*7"
+br
+` [line=3]Será que meus olhos se acostumaram com a escuridão?@
+` Ou foi a minha própria vontade que fez eles se abrirem?
+\
+` Finalmente vejo em cima do que esse desgraçado estava sentando enquanto dava seu longo discurso.
+\
+`"[line=3]Que merda, já se regenerou novamente?"@
+` O Roa para.@
+` Ele se vira para a Senpai.@
+`"Já não falei para você continuar quieta e morta?@ Você é um aborrecimento enorme."@
+` Com um som de perfuração,
+` o Roa enfia uma das espadas da Senpai no corpo dela.@
+br
+`"Aug…………!"@
+` Ouço sua voz de dor.@
+` Ela crava as unhas no tatame.
+\
+br
+` Agarrando e arranhando.@
+` Suas unhas estão quase sendo arrancadas pelo esforço e sua respiração lembra o som de um motor pegando no tranco.@
+br
+` Mas ela não desiste.@
+`"…… Tohno[line=4]kun………!"@
+br
+` Arranhando e se contorcendo.@
+` Ela continua chamando pelo meu nome freneticamente, mas eu apenas continuo deitado no chão, como se fosse uma marionete que teve seus barbantes cortados.
+\
+`"…… Que mulher irritante!@ Não importa quantas vezes você chame o nome dele, o Shiki não vai te ouvir.@
+` Agora ele não passa de um vegetal.@ Ele só ouve a minha voz.@
+` …… Não, nem a minha voz ele escuta.@ Ele só sabe o que eu quero por causa da conexão que existe entre nós.@ Será que você não consegue entender esse fato?"
+\
+br
+br
+br
+br
+br
+br
+` Mais sons de carne sendo perfurada.@
+` As espadas perfuram o corpo da Senpai.
+\
+`"Ts[line=4]!"@
+` Seu corpo se contorce no mesmo instante.@
+` E mesmo assim[line=3]a Senpai continua chamando o meu nome, como se fosse um disco arranhado.
+\
+br
+` Tohno-kun.@
+` Tohno-kun.@
+` Tohno-kun.@
+` Soluçando, imersa em dor.
+\
+br
+`"[line=8]"@
+br
+` Eu tinha ouvido.@
+` …… Eu sei que tinha ouvido isso antes.@
+` Mas provavelmente não escutei nem metade do que ela disse.
+\
+` Mesmo cuspindo sangue.@
+` Ela continuava chamando por mim, essa criatura que agora não passa de uma marionete quebrada.
+\
+`"[line=3]Um corpo imortal?@
+` Que ingênua.@ Se tinha tanto poder assim poderia ter me derrotado."@
+br
+` Mais uma vez ouço o som de perfuração.@
+br
+`"Mas você baixou suas espadas por causa de um cara desses.@ Estou desapontado, Elesia.@ Imaginar que um lixo como você é minha filha me deixa enojado……!"@
+br
+` Perfura.@ Perfura.@ Perfura.
+\
+` Como se tivesse enlouquecido, ele continua perfurando a Senpai repetidamente.@
+` Suas costas indefesas.@ Seus ombros.@ Suas pernas.@ Sua garganta.@
+` Seus braços ensanguentados, esticados na minha direção.@
+br
+` Ele continua perfurando tudo sem piedade.@
+br
+` Apesar disso.@
+` Seus lábios continuam chamando meu nome.
+\
+` …… Eu não estou ouvindo.@
+` Já não posso mais ouvi-la.@
+` O problema não é com os meus ouvidos, é a garganta dela que já foi destruída.
+\
+` E mesmo assim ela continua chamando o meu nome.@
+` É como se estivesse desejando que eu consiga me mexer se ela continuar me chamando.
+\
+`"[line=5]"@
+br
+` Para ser sincero,
+` não consigo entender o motivo de ela ir tão longe assim.
+\
+`"[line=5]Pa[line=2]"@
+br
+` Estou quase ficando louco.@
+` Assistir ela sendo perfurada por minha causa está me enlouquecendo.
+\
+`"[line=6]re."@
+br
+` Mas eu não consigo me mexer.@
+` Não importa o quanto eu esteja frustrado, não consigo me mexer.@
+` Não importa o que eu faça[line=3]este corpo não se mexe……!
+\
+bg #000000,crossfade,400
+playstop
+bg "bg/bg_09c",crossfade,400
+ld c,"tachi/roa_t01a",crossfade,400
+`"[line=2]Que maravilha.@ Um ódio puro que é quase letal.@ Foi apenas por um instante, mas senti a sua vontade contra mim.@
+` Você pode ficar com vontade de me matar[line=3]mas isso aqui não é algo pelo qual você deva ficar furioso."@
+br
+` Ele puxa a espada.@
+` O corpo da Senpai começa a cair no chão.@
+` Mas antes que isso aconteça, ele a puxa pelos cabelos.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"Garoto, me permita te ensinar uma coisa.@
+` Não importa quão ilimitada seja a capacidade regenerativa dos vampiros, ela só dura enquanto eles estão vivos.@
+` A imortalidade deles só existe enquanto eles ainda estão vivos.@ Quando morrem, seus poderes regenerativos desaparecem completamente.@
+` Os vampiros são difíceis de se matar, mas não são imortais[line=3]"
+\
+` Splat.@
+` Uma espada negra surge do peito da Senpai.@
+` Ele é dilacerado.@
+` O Roa empala seu coração por trás.
+\
+`"Tsaaah………!"@
+` A garganta que morreu se mexe.@
+` Vomitando sangue, ela se contorce agoniada.
+\
+`"Mas[line=3]tem uma coisa incrível em relação a essa mulher.@
+` Mesmo que ela morra por completo, ela não se regenera, é o tempo que volta e regenera o seu corpo.@
+` Entendeu?@
+` Depois que ela morre, sem a ajuda de ninguém, nem dela mesma, o mundo faz o corpo dela voltar ao normal para corrigir uma contradição.@
+` Por exemplo[line=3]desse jeito!"
+\
+` A voz animada do Roa fica mais alta, como se ele estivesse delirando.@
+` E em seguida, com um som doentio,
+` uma espada negra surge pela testa da Senpai[line=7]
+\
+bg "bg/ima_13b",crossfade,800
+br
+` A cabeça dela.@
+` Foi atingida por trás.@
+` Com aquela espada fina e afiada.@
+` Ainda viva, seu cérebro foi perfurado cruelmente[line=4]
+\
+`"HYAHAHAHAHAHAHA AHAHAHAHAHAHAHAHA, não é normal que um cérebro perfurado te leve à morte!?@ Olha isso, Shiki, ela está se debatendo que nem um peixe no anzol!"@
+br
+` Divertindo-se muito,
+` o Roa quase chora de tanto rir.
+\
+`"Mas olha aqui.@ Embora a luz dos seus olhos tenha desaparecido, o coração dela está começando a bater de novo.@ …… Olha que merda, que vida mais fodida, mulher.@
+` Isso faz com que nós, os que vivem apenas uma vida, pareçamos tolos."@
+br
+` Ele balança o braço.@
+` Como se fosse um saco de lixo, o corpo da Senpai é arremessado contra a parede.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+` Essa foi a gota d'água.
+\
+wave se_01
+` Já chega.@
+` Não importa o que vai acontecer.@
+` Não me importo de ficar completamente louco.@
+wave se_01
+` Não me importo se me chamarem de assassino.@
+` Eu vou
+\
+wave se_01
+`"Está vendo, eu sou até normal se comparado a ela.@ Isso é um monstro que volta à vida do nada, mesmo se você destruir cada célula do seu corpo essa coisa vai voltar à vida.@ Ponderemos, será que matar uma coisa que não morre de verdade é pecado……!?"@
+wave se_01
+` Heeheeehee hihihihihihihi uhuhuhuhuhu!@ Uma risada doentia.@
+` O Roa arremessa a espada da sua mão na direção da Senpai como se estivesse jogando dardos.
+\
+br
+wave se_01
+` Splud!@
+` Esse é o sinal.@
+` Depois disso, qualquer pensamento racional desaparece da minha existência.
+\
+bg "bg/bg_09c",crossfade,400
+wave se_01
+`"[line=9]"@
+` Eu me levanto.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"Seu desgraçado, como conseguiu se mexer[line=3]!?"@
+`"[line=5]"
+\
+wave se_01
+` Nem preciso responder.@
+` Aquele que tem a vontade mais forte é o que usa essa vida, não é isso mesmo?@
+` Até esse exato momento,
+` eu nunca tive uma vontade tão forte assim.
+\
+ld c,"tachi/roa_t04a",crossfade,400
+wave se_01
+`"Isso é impossível!@ Eu[line=3]eu sou mais fraco que você……!?"
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+`     Roa.@ Eu vou te matar.@
+!w1000
+\
+bg #000000,lcartain,400
+waveloop se_02
+bg "bg/bg_11d",lcartain,400
+wave se_12
+` Na escuridão,
+` minha faca ataca suas garras.@
+` Seus movimentos são insanamente rápidos.@
+` Mas meu corpo consegue acompanhar.
+\
+waveloop se_02
+` Meus braços se mexem como se pertencessem a uma outra pessoa.@
+` Meus olhos persistem em perseguir apenas suas "linhas".@
+` Meu corpo parece uma fornalha.@
+` Parece que meu cérebro está ardendo em chamas.@
+` É igual[line=3]na primeira vez que vi aquela princesa de cabelos dourados, meu corpo parece uma coisa completamente diferente.
+\
+`"Keh[line=4]!"@
+br
+` O Roa se afasta de mim.@
+` Em uma das suas pernas.@ No seu braço direito.@ Perto da sua clavícula esquerda.@
+` Eu já cortei as "linhas" desses lugares.@
+` E o preço que tive que pagar por isso foi o meu braço direito.@
+` Ele acertou em cheio meu braço que empunhava a faca.@
+` Se ele acertar meu braço esquerdo vou perder essa luta.@
+br
+` E minha derrota só vai significar a minha morte.
+\
+ld c,"tachi/roa_t04a",lshutter,400
+`"[line=3]Não estou acreditando.@ Você está sendo um desafio para mim, um vampiro.@
+` …… Estes seus olhos, talvez eles sejam mais apropriados para mim do que este corpo."@
+`"[line=4]"@
+`"Se não consegue perceber isso, não tem problema.@ Essa história é bem entediante e nem vale a pena ficar contando."@
+` Saltando,
+` o Roa aumenta a distância entre nós.
+\
+`"…… É uma história muito antiga.@ A última história de um tolo obcecado com a ideia de viver para sempre."
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"[line=3]Viver para sempre.@
+` Era o milagre com o qual o Roa sonhava.@
+` Eu decidi que a eternidade seria um ciclo de renascimento interminável.@
+` Mas isso não é diferente de uma continuação de uma única linhagem.@
+` Se existe um poder que o Roa, que aceitou a morte, pode adquirir no fim da sua reencarnação[line=3]diferente do poder que rouba as vidas dos outros como o dos vampiros.@
+` …… Imagino que seja o poder que você possui, o poder de ver a morte, ele seria um fim apropriado para mim."
+\
+br
+` Ele abaixa um pouco o seu corpo.
+\
+`"Acabei de ter essa ideia ridícula!"@
+cl c,lshutter,400
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+wave se_12
+` Seu braço me ataca.@
+` Eu o corto no mesmo instante.@
+br
+ld c,"tachi/roa_t03a",crossfade,400
+waveloop se_02
+`"Gah[line=3]!"@
+` O Roa foge de mim.@
+cl c,lshutter,400
+` Eu vou atrás dele.@
+` Seus movimentos são muito mais rápidos que os meus.@
+` Mas isso não importa.
+\
+` Só quero matá-lo.@
+` Não quero saber de mais nada.@
+` Na realidade,
+` eu já matei uma de suas pernas e por isso sua velocidade foi reduzida.@
+` Enquanto corre de mim,
+` ele apoia a mão na parede e me encara.
+\
+ld c,"tachi/roa_t03a",crossfade,400
+`"Merda!@[line=3]Você pretende lutar contra si mesmo, Shiki?"@
+`"[line=6]"@
+`"Não fique em silêncio……!@ Você sou eu.@ Eu sou o SHIKI e você é o Shiki.@
+` Nós dois somos o mesmo ser.@ Não importa se aquele desgraçado do Roa existiu ou não.@
+` …… Originalmente eu era uma criatura que comeria carne humana.@ Quando criança, eu tinha um desejo imenso de comer carne humana.@ Embora isso tenho mudado para o desejo de tomar sangue, se o Roa não tivesse invadido o meu corpo, com certeza eu teria me tornado um monstro comedor de gente."
+\
+`"[line=3]E isso vale para você também.@
+` Da mesma forma que eu gosto de carne humana, você gosta de matar gente!@ Lembre-se do desejo que sentiu quando viu aquela mulher pela primeira vez, o êxtase de matar com aquela faca!"@
+`"[line=6]"
+\
+br
+br
+br
+br
+br
+br
+` O desejo que tive quando a vi pela primeira vez[line=4]
+` Isso foi[line=3]quando eu matei a Arcueid.
+\
+ld c,"tachi/roa_t02a",crossfade,400
+`"É isso mesmo.@ Não importa o quanto você finja ser uma pessoa boa, não tem desculpa para esse seu desejo irracional.@ Você desejou aquela mulher e fez com ela aquilo que te deixou mais satisfeito.@
+` Do que podemos te chamar além de um assassino de sangue frio?@
+` Nós somos iguais[line=3]ambos somos anormais que vivem em um mundo normal."@
+`"[line=6]"@
+br
+` …… Cala a boca.@
+` Se eu continuar ouvindo a voz dele, vou enlouquecer.
+\
+ld c,"tachi/roa_t03a",crossfade,400
+`"Nós somos iguais.@
+` Então, por que está tentando me matar?@ Só aconteceu do Roa invadir o meu corpo!@
+` Se ele tivesse invadido o seu, nossas posições estariam invertidas……!@
+` Mesmo assim você vai me matar!?@ Você só está machucando a si mesmo……!"
+\
+` O Roa grita.@
+` Durante esses últimos oito anos.@
+` O monstro que fez desta cidade o seu covil, alimentando-se do sangue de inúmeras pessoas, agora grita.
+\
+`"[line=3]Eu não sou você.@ Você é apenas um assassino."@
+`"Idiota, você não entende mesmo, não é?@ Eu também estava otimista no início.@ Pensando que estava são.@ Que mesmo com o ego do Roa dentro de mim, eu ficaria bem.@
+` Mas não foi assim que aconteceu.@ Você é igual a mim.@ Você vai acabar como eu, Tohno Shiki, vai se tornar apenas mais um assssino!"@
+` Ele ri.
+\
+`"Eu não estou certo?@ Eu sei o que está dentro de você.@
+` Saiba que esse desejo de matar não é algo que está vindo de mim.@
+` Admita, assassino.@
+` O seu impulso de inversão não passa de algo que você deseja de verdade……!"
+\
+`"[line=5]"@
+br
+` Eu preparo minha faca.@
+` Não quero mais ouvir a voz dele.@
+` Concentro meu olhar nele.@
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+ld c,"tachi/roa_t03c",crossfade,400
+br
+` Só me resta destruí-lo.
+\
+`"…… Então vai ser assim.@ Você vai tentar me matar, Shiki."@
+br
+` Ele salta para trás.@
+` Esse é o seu último movimento[line=3]
+br
+`"Mas será que você não se pergunta qual de nós realmente foi morto?"@
+`"[line=4]"@
+` De repente,
+` eu paro meu ataque.
+\
+`"No final das contas, nós dois morremos naquele dia.@
+` Então[line=3]eu poderia ser aquele que foi morto pelo Roa e você poderia ser o Tohno SHIKI controlado pela Serpente, não é mesmo?"
+\
+`"Você nunca pensou nisso dessa forma?@
+` Que talvez você já tenha enlouquecido muito tempo atrás!"
+\
+br
+br
+` [line=8]Isso,
+` não tem como isso ser verdade[line=3]tem?
+\
+`"Ha[line=4]!"@
+cl c,lshutter,400
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+wave se_06
+quakey 4,100
+br
+` Sou chutado por trás e vou contra a parede.
+\
+waveloop se_02
+`"Gah……!"@
+` Como assim?@ Fui distraído por essas besteiras que ele está falando?@
+` O que resta do meu braço esquerdo está quase deformado e pintado de sangue.@
+` Não consigo mais mexê-lo e minha faca cai no chão.@
+` E[line=3]bem na minha frente, está o Roa com os olhos vermelhos furiosos.
+\
+ld c,"tachi/roa_t03c",crossfade,400
+`"[line=3]Retardado, não era bem assim a história.@ Eu sou o Roa.@ Você só teve aquele impulso de inversão porque estava conectado a mim inconscientemente."@
+br
+` Ele sorri.@
+` E dá um passo para frente.@
+br
+`"Adeus, Shiki.@ Foi muito divertido!"@
+` E assim, ele balança suas garras que parecem facas na minha direção.
+\
+wave se_06
+bg "bg/ima_12b",lshutter,400
+`"[line=6]"@
+` Não sinto dor alguma.@
+` Só ouço o sangue espirrando.@
+`"Sua cadela, puta[line=4]!"@
+` O Roa grita.@
+br
+` Na minha frente, está o corpo da Senpai que levou todo o dano do ataque do Roa.
+\
+wave se_01
+`"[line=8]"@
+` Não consigo pensar racionalmente.@
+` Mas eu não preciso pensar em nada.@
+br
+` Pego minha faca do chão com a boca.@
+` Meus dentes apertam com muita força no punho.
+\
+bg #ffffff,notrans,0
+br
+br
+br
+br
+br
+br
+` Voo na direção do Roa, quase como se estivesse caindo em cima dele.@
+` Eu corto a "linha" diagonal do seu ombro.
+\
+wavestop
+bg "bg/bg_11d",lshutter,400
+monocro #ff00ff
+br
+`"Kuaaaaaaaaaaaaaaaaa!"@
+br
+` Ele guincha como um porco demoníaco.@
+` Correndo de mim e da Senpai, ele pula pela janela.@
+br
+` O vidro se quebra e ele cai lá fora.
+\
+`"Não vou deixar você fugir[line=3]!"@
+` Corro até a janela.@
+`"Que droga………!"@
+` Obviamente eu não posso pular do terceiro andar.
+\
+` Sob o luar.@
+` Como se não tivesse recebido um ferimento fatal ao ter suas "linhas" de morte cortadas, o Roa foge como um animal desesperado.@
+br
+`"[line=3]"@
+` …… Não dá para persegui-lo.@
+` Não vai dar tempo de descer as escadas.@
+` Mas talvez não haja necessidade de fazer isso.
+\
+play "*9"
+bg "bg/ima_18",crossfade,400
+monocro off
+` Sob o belo luar, ele para de correr.@
+` Não há apenas uma pessoa lá fora, há duas.
+\
+` A figura bestial do Roa.@
+` E a figura sublime da princesa dos vampiros.@
+br
+` [line=3]A luta dura apenas um instante.@
+br
+` O Roa grita ao morrer e torna-se apenas cinzas.
+\
+`"[line=5]Ar…… cueid."@
+` Ela me observa por alguns segundos, então desaparece diante dos meus olhos.
+\
+bg "bg/bg_11d",lshutter,800
+monocro #ff00ff
+`"Hha[line=4]Ahh."@
+` …… Estou exausto.@
+` Meu corpo desmorona no chão.@
+` Encosto na parede e me sento.
+\
+`"Ga[line=3]"@
+` A faca cai da minha boca.@
+br
+` Do cotovelo para baixo, meu braço direito está quebrado, torcido e partido.@
+br
+` As marcas feitas pelas garras do Roa pemanecem no meu ombro esquerdo e meu braço esquerdo está imóvel.@
+br
+` Estou me sentindo como se fosse uma lula ou um polvo com os braços simplesmente pendurados no corpo.
+\
+`"…… Sen…… pai."@
+` Olho para o corredor.@
+` Olho para o lugar onde a Senpai caiu naquela hora que me protegeu.@
+br
+` E então,
+ld c,"tachi/cel_t07b",crossfade,400
+`"Sen[line=3]pai, seus ferimentos estão curados?"@
+`"Sim.@ Um ferimento assim cura muito rápido."@
+` Não vejo o rosto dela por causa da escuridão.@
+` Mas tive a impressão de que estava mais pálida que o normal.@
+cl c,crossfade,400
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+waveloop se_02
+br
+`"Gah[line=4]!"@
+br
+` [line=4]Tum.
+\
+br
+br
+br
+` Minha cabeça dói.@
+br
+` [line=4]Tum.
+\
+br
+br
+br
+br
+br
+` Essa dor de cabeça,
+br
+` [line=4]Tum.
+\
+br
+br
+br
+br
+br
+br
+br
+` é porque eu ainda estou vendo estas "linhas",
+br
+` [line=4]Tum.
+\
+br
+br
+br
+br
+br
+br
+br
+` é por causa disso que a minha cabeça está doendo.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… Tohno-kun?@ Qual o problema?"@
+`"Nenhum[line=2]é só[line=3]a minha cabeça[line=3]que está doendo."@
+` Suportando a dor dou essa resposta.@
+br
+` As minhas mãos.@ Se eu conseguisse mexê-las, poderia segurar minha cabeça e talvez me acalmar.@ Mas elas não se mexem nem um centímetro.
+\
+`"[line=3]Provavelmente é porque você viu morte de mais.@
+` …… Tohno-kun, você se esforçou muito.@ Tentar vencer o Roa sozinho foi muita imprudência."@
+`"…… Eu não fui imprudente.@ Você que foi.@ Por que[line=3]deixou ele fazer aquilo com você?"
+\
+`"Ele só…… me pegou desprevenida……"@
+`"[line=3]Idiota[line=2]eu[line=2]ouvi[line=2]tudo."@
+br
+` …… Eu ouvi que a Senpai só foi imprudente para me proteger.@
+br
+`"…… Passar por tudo aquilo apenas para me proteger[line=4]foi muita estupidez."@
+` Ela passou por todo aquele sofrimento e nunca deixou de chamar pelo meu nome.
+\
+`"…… Talvez tenha sido mesmo.@ Independente do que eu tenha feito, você revivou sozinho.@
+` Acho que tudo que fiz… não serviu para nada."@
+`"[line=6]"@
+` Não[line=3]não diga uma coisa dessas.
+\
+`"…… Eu te ouvi."@
+`"Tohno-kun……?"@
+`"A sua voz, tenho certexa que a ouvi.@ Você continuou chamando o meu nome[line=3]foi isso que me fez perceber que eu ainda estava vivo."@
+br
+` Então,
+` o que me salvou não foi o meu desejo de matar o Roa.@
+` Foi apenas… a voz da Senpai.
+\
+playstop
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+ld c,"tachi/cel_t06b",crossfade,400
+`"Ghh[line=4]!"@
+`"Tohno-kun[line=3]!?@ Seus ferimentos estão doendo muito?@ Eu vou curá-los imediatamente……!"@
+`"…… Não[line=2]não é só por causa dos meus braços……"@
+br
+` Essa dor de cabeça é que está me matando.@
+` A dor não vem de fora, sinto ela brotando de dentro de mim.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… É uma reação por ter visto em excesso a 'morte'.@ Sobrecarregar o cérebro dessa forma deve ter causado um fluxo de sangue absurdo."@
+`"…… Eu[line=2]sei[line=2]disso[line=2]mas."
+\
+`"Esse poder é muito perigoso para a sua saúde, Tohno-kun.@ Ver aquilo que não deve ser visto coloca uma pressão enorme no seu corpo, e seus vasos sanguineos não vão aguentar o fluxo do seu sangue.@
+` Ver a 'morte' de algo próximo à sua existência…… como a do ser humano, não deve ser problema, mas a ver a 'morte' das coisas que não possuem uma 'morte' por natureza é extremamente perigoso."@
+`"…… Eu entendo, mas agora vai ficar tudo bem, Senpai.@
+` O Roa…… está morto.@ Já não preciso mais ver 'morte' alguma[line=4]"
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+`"Por ora já chega.@
+` …… Senpai, você sabe onde estão os meus óculos?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"[line=6]Hã?"@
+`"Os meus óculos…… sem eles eu vejo essas linhas o tempo todo.@
+` Se eu não tivesse eles ficaria louco…… provavelmente devem estar na sala de cerimônia de chá, você poderia pegá-los para mim, por favor?"@
+`"Tohno-kun, não estou entendendo.@ Os seus óculos estão[line=4]"
+\
+ld c,"tachi/cel_t06b",crossfade,800
+`"…… Tudo bem.@ Eu vou lá pegar para você, enquanto isso fique de olhos fechados.@ Se continuar a usá-los por mais tempo, isso poderá causar um dano irreversível à sua saúde."@
+`"[line=3]Tá bom, vou fazer isso.@ Obrigado."@
+` Eu fecho os olhos.@
+bg #000000,crossfade,1500
+\
+monocro off
+wavestop
+!w3000
+` Depois de alguns minutos,
+` eu sinto os dedos da Senpai no meu rosto.@
+`"Pronto, tudo certinho agora.@ Pode abrir os olhos, Tohno-kun."@
+bg "bg/bg_11c",crossfade,800
+`"Ah……"@
+` As linhas de morte sumiram.@
+` A dor de cabeça desapareceu quando eu fechei os olhos[line=3]e agora posso ver o rosto da Senpai claramente.
+\
+`"Obrigado, Senpai.@ Agora voltou tudo ao normal."@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Do que está falando?@ Muito trabalho precisa ser feito para você voltar ao normal, fique quietinho."@
+` Depois de dizer isso ela senta ao meu lado.@
+cl c,tcartain,800
+\
+`"[line=3]Humm, estes ferimentos não são tão sérios assim.@ Vou conseguir curá-los agora mesmo, por favor, aguente um pouco mais."@
+` A Senpai segura meu braço torcido com muito cuidado.
+\
+`"Nn[line=4]"@
+` É uma sensação quente e que quase faz cócegas.@
+` Meu braço gelado começa a esquentar e a dor volta.
+\
+`"Aaaaaiiii."@
+`"Se está doendo já é prova o suficiente de que você está vivo.@ Agora vamos cuidar do braço esquerdo."@
+` Rapidamente ela vai para o lado esquerdo do meu corpo e põe a mão no meu ombro.
+\
+`"…… Que coisa incrível, meu braço esquerdo já está curado!"@
+`"Não tem nada de incrível nisso, essa é a minha profissão original, por isso não é nenhuma surpresa eu fazer algo assim."@
+` …… Sua profissão original?@ Por acaso ela é uma enfermeira?@
+` Humm, duvido que uma enfermeira conseguiria curar um braço despedaçado em questão de minutos.
+\
+`"…… Senpai."@
+`"[line=2]O quê?"@
+`"Quem é você?@ A verdade é que eu não sei absolutamente nada sobre você, Ciel-senpai."@
+` Os dedos tratando dos meus ferimentos param subitamente.@
+` Mas foi só uma reação momentânea.
+\
+`"Eu sou como você, Tohno-kun.@ Não nasci com este corpo.@
+` Eu também estive muito perto da morte…… não, eu morri e voltei à vida.@ E isso acabou se tornando um costume meu, esse negócio de morrer e voltar à vida."@
+` Ela está brincando comigo?@ Ela está com um sorriso bem triste no rosto.
+\
+`"…… Como assim?@ Se você morrer, não é normal que volte à vida, né?"@
+`"Mas eu não era normal."@
+`"Hummmm…… tipo a Arcueid?"@
+`"……………………"@
+br
+` Ela não responde.@
+` Será que já acabou?@ A Senpai se levanta.
+\
+ld c,"tachi/cel_t01b",crossfade,400
+`"Pronto, terminei.@ Como ficou, você consegue mexer?"@
+`"………………"@
+` Levanto as mãos e as mexo livremente.@
+` Meus dedos obedecem a minha vontade e só está doendo um pouquinho.@
+`"Sim, ficou ótimo.@ …… Obrigado, Senpai.@ Sempre estou sendo salvo por você."@
+` Ela não responde, apenas sorri.
+\
+`"Então vamos voltar.@ Não tem necessidade alguma de permanecermos aqui."@
+cl c,lshutter,800
+` Ela começa a se afastar de mim.@
+` …… Eu pego minha faca do chão e sigo-a para fora da escola.
+\
+bg #000000,lcartain,800
+play "*8"
+bg "bg/bg_01c",lcartain,800
+` …… Sob o luar, vamos na direção do portão.@
+` Ela não fala nada.@
+` Observando-a por trás, fico relutante sobre coisas que nem quero começar a pensar.@
+br
+` O Roa se foi.@
+` A Arcueid também foi embora.@
+` O objetivo delas era eliminar o Roa, por isso a Senpai já não tem mais motivos para permanecer aqui.
+\
+`"………………"@
+` …… Isso é sério.
+\
+` Eu sabia que isso iria acontecer[line=3]mas não achei que seria tão rápido.@
+br
+` Eu quero que a Senpai fique aqui.@
+` Eu quero que ela fique[line=3]mas não sou eu quem decide.
+\
+`"…………"@
+` Dou uma olhada no rosto dela.@
+` O que
+` será que ela planeja fazer……?@
+br
+` E, de repente,
+` ela para de andar.
+\
+ld c,"tachi/cel_t07b",lshutter,400
+`"Tohno-kun."@
+` Ela me olha no fundo dos olhos, sem demonstrar qualquer emoção.
+\
+`"…… O que foi, Senpai?"@
+`"Sobre aquilo que estávamos conversando."@
+`"Humm[line=3]sobre você ser igual à Arcueid?"@
+` Ela concorda com a cabeça.@
+` Ainda me encarando, ela começa a falar.@
+br
+`"Tohno-kun.@ Se eu fosse uma vampira, o que você faria?"
+\
+`"O qu[line=4]"@
+` Minha mente fica em branco.@
+` Não faço ideia o que ela está querendo ouvir de mim.@
+br
+` Mas mesmo assim[line=3]
+br
+`"…… A Senpai é a Senpai.@ Mesmo se você for uma vampira, isso não ia mudar."@
+` Sua expressão continua igual.@
+` Mas por um instante apenas,
+` acho que ela deu um sorriso triste.
+\
+`"Eu sou igual a ela.@ Assim como ela é uma vampira sem experiência, eu devo ser uma vampira que não sabe nada sobre si mesma."@
+` Ela fala como se estivesse em um monólogo.
+\
+`"………………"@
+` Estou sem palavras.@
+` …… Não sei o que dizer.@
+` Só posso dizer o que sinto de verdade.
+\
+`"…… Está tudo bem."@
+`"Hã?"@
+`"Eu disse que está tudo bem.@ Mesmo que você seja uma vampira, eu ainda gosto de você, Senpai."@
+`"O qu[line=4]"@
+cl c,crossfade,400
+br
+` Ela está espantada.@
+` Percebendo o que eu acabei de dizer, coro furiosamente e desvio o olhar.
+\
+`"Enfim!@ Isso é tudo que tenho para dizer.@ Vamos embora, Senpai!"@
+` Tento esconder minha vergonha e volto o pensamento para a realidade.@
+br
+` Ir embora.@
+` Para onde a Senpai vai embora?
+\
+`"[line=6]"@
+` De repente, me sinto horrível.@
+` Estou com medo de olhar para o rosto dela e por isso não me viro.@
+`"[line=3]Tohno-kun."@
+` Por trás de mim, sua voz me chama.@
+` Uma voz sem emoções.
+\
+`"…… O que foi?"@
+` Respondo sem me virar.@
+`"Você sabe o motivo de eu ter vindo para esta cidade, né?"@
+`"[line=4]Infelizmente eu sei.@ Você veio para matar o Roa."
+\
+`"…… Sim.@ Mas eu ainda não te disse o motivo de eu estar atrás dele.@ Eu ia te contar na sala de cerimônia de chá, mas tudo aconteceu tão rápido."@
+`"…… É verdade.@ Foi meio decepcionante.@
+` Mas o motivo de você estar atrás do Roa não é por causa do seu serviço na Igreja?"
+\
+`"…… Não.@ O lugar onde trabalho não tem muito serviço.@ E mesmo quando tem, sou chamada apenas algumas poucas vezes por ano.@
+` Dessa vez eu agi por conta própria.@ Não teve nada a ver com alguma ordem da Igreja."@
+`"…… Você estava agindo por conta própria?"
+\
+`"Sim.@ Eu só vim até aqui por causa das minhas próprias circustâncias.@ Eu quero morrer como humana, por isso estava perseguindo o Roa.@ O meu corpo só é assim por culpa dele."@
+br
+` …… Quer morrer.@ Quer morrer?[line=3]
+\
+`"…… Por esse único motivo, continuei a viver assim.@
+` Mas agora é o fim.@
+` …… Estes últimos cinco anos.@ Será que foram longos?@ Ou será que foram curtos?@ Não sei dizer."@
+` Sua voz sem emoção desaparece.
+\
+ld c,"tachi/cel_t01b",lcartain,400
+` Ela aparece na minha frente.@
+`"Preciso te agradecer, Tohno-kun.@
+` O meu trabalho aqui acabou.@ O que me resta é assumir a responsabilidade por todos os meus atos."@
+`"…… Senpai, quer dizer que você vai[line=3]"@
+` Ela vai embora?
+\
+`"Obrigada por tudo até agora.@ Fazia muito tempo que não me sentia tão feliz assim.@
+` Vamos terminar tudo com um aperto de mãos."@
+` Ela estende sua mão.@
+` E eu a aceito sem dizer nada.@
+br
+` Apenas apertamos nossas mãos com força.@
+br
+`"Então, é aqui que nos separamos.@ Hum, mesmo eu não estando aqui, continue sendo amigo do Inui-kun.@
+` Eu queria ser uma estudante como vocês dois."
+\
+`"E p-por favor, não tire muito os seus óculos.@ Poderes estranhos têm a tendência de atrair coisas estranhas.@ Dessa vez não aconteceu nada com você, mas não sabemos o que pode acontecer na próxima."@
+`"…… Pois é.@ Eu sei, alguém já me ensinou isso há muito tempo.@
+` Para ser sincero, só comecei a tirá-los com frequência recentemente por causa de tudo que aconteceu."@
+`"Entendo.@ Fico aliviada."@
+br
+` Seus dedos abandonam os meus.@
+` Com o fim do aperto de mãos, ela se afasta devagarzinho.
+\
+`"Adeus.@ Seria legal te encontrar de novo algum dia."@
+`"[line=4]"@
+cl c,lshutter,800
+br
+` Eu não consigo responder.
+\
+` Eu nem consigo parar ela.
+\
+bg #000000,crossfade,1500
+!w1000
+bg "bg/bg_33c",lcartain,800
+` Eu volto para a mansão.@
+` São mais de nove horas da noite.@ …… Uma hora depois do toque de recolher.@
+br
+ld c,"tachi/koha_t03",lshutter,800
+`"Ah, Shiki-san.@ Chegou tarde hoje."@
+` A Kohaku-san vem me receber, parece que ela estava na sala de estar até agora.
+\
+`"Cheguei.@ Desculpa pelo atraso."@
+`"Está tudo bem, o importante é que está de volta e a salvo.@ Vou preparar o jantar, pode esperar na sala de estar."@
+`"Ah[line=3]a Akiha está lá?"@
+br
+` …… Não é porque eu cheguei depois do toque de recolher[line=3]é porque depois do que o Roa disse, não estou com vontade de conversar com a Akiha.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Não, ela está no quarto, pode ficar tranquilo."@
+`"…… Não é isso que você está pensando, mas me diga uma coisa…… Kohaku-san.@ Você já ouviu alguma história sobre eu e a Akiha termos um terceiro irmão?"@
+`"Acho que não.@ Por que essa pergunta, Shiki-san?@ Aconteceu alguma coisa?"
+\
+`"[line=3]Nada de mais.@ É que ouvi algo sobre eu ter outro irmão e acabei ficando confuso."@
+ld c,"tachi/koha_t05",crossfade,400
+`"Você e a Akiha-sama são os únicos irmãos aqui.@ Eu trabalho nesta mansão desde que era criança, sei do que estou falando."@
+` Ela sorri toda feliz.@
+br
+`"[line=3]Hã?@ Kohaku-san, você está aqui desde que era criança……!?"
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Sim.@ Éramos só aprendizes, mas a Hisui-chan e eu sempre ajudávamos com as tarefas da mansão.@ Foi há muito tempo, não é surpresa você não se lembrar."@
+cl c,lshutter,800
+` Será que ela sentiu alguma nostalgia?@ Ela continua sorrindo enquanto volta para a sala de estar.
+\
+`"…………"@
+` Então, do que ele estava falando?@
+`"[line=3]Acho que não importa mais."@
+` Resmungando para mim mesmo, vou para a sala de estar.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40c",crossfade,1500
+` …… Deito na cama.@
+` Puxo os lençóis para me cobrir e fico encarando o teto.@
+br
+` [line=4]Acabou.@
+br
+` Ainda tenho meus ferimentos e minhas lembranças, mas está tudo acabado.@
+` Agora posso voltar à minha vida pacífica de estudante.@
+` Não preciso mais me preocupar em matar ou ser morto.
+\
+` Preciso só esquecer.@
+` Esquecer de tudo e a partir de amanhã[line=4]
+br
+bg #000000,crossfade,400
+bg "event/cel_e01",crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=6]"@
+` …… Não consigo.
+\
+` É impossível esquecer.
+\
+`"Que[line=4]droga."@
+` Mas não posso fazer nada em relação a isso.@
+` Desde o princípio, a Senpai e eu vivíamos em mundos diferentes.@
+`"………………"@
+` …… Preciso é dormir.@
+` Amanhã vou conseguir aceitar os fatos.@
+` Se eu dormir agora vou me acalmar[line=3]
+\
+bg #000000,crossfade,1500
+playstop
+!w1000
+bg "bg/bg_40d",crossfade,1500
+` …… Não consigo dormir.@
+` Meu peito ainda está me incomodando.@
+br
+`"……… Que saco."@
+` Pego um livro escrito em inglês para me distrair e me dar sono.
+\
+bg #ffffff,crossfade,800
+monocro #ffff00
+waveloop se_11
+bg "bg/cmo_11",crossfade,400
+` 1976.@
+` Eu nasci em uma vila do interior da França, filha de um comerciante.
+\
+` Eu era mais parecida com a minha mãe, que era oriental, por isso cresci me sentindo deslocada aonde quer que fosse.@
+br
+` Mas todos os moradores da cidade eram ótimas pessoas e sempre me cumprimentavam com um belo sorriso.
+\
+` Para corresponder àqueles sorrisos, eu vivia minha vida de forma honesta e positiva.
+\
+bg "bg/cmo_12",crossfade,800
+` Ajudando meu pai, indo para a escola, me apaixonando como qualquer outra garota.@
+` Minha vida era assim e nunca duvidei da minha felicidade.@
+br
+` Cheguei muito rapidamente aos meus dezesseis anos.
+\
+bg "bg/cmo_13",crossfade,800
+` Foi quando aquilo aconteceu com o meu corpo.@
+br
+` Quando eu estava brincando com as crianças.@ Sem motivo algum, eu sentia vontade de torcer os pescoços delas.@
+br
+` Quando eu vi um pobre mendigo pedindo esmola na rua.@ Parecia que seria tão divertido enfiar uma faca nas costas dele.
+\
+` …… Não havia motivo algum para eu sentir essas vontades.@
+` Eu não podia falar para ninguém sobre aqueles desejos, então comecei a me trancar no meu quarto.
+\
+` Meus desejos sombrios cresciam dentro de mim.@
+` Eu não tinha duas personalidades e nem tinha outra pessoa me controlando por dentro.@
+` Para começo de conversa, não acredito nessas crendices.
+\
+` Meus sentimentos eram como as paixões destrutivas que as pessoas normalmente possuem.@
+br
+` Como gritar com o seu pai depois que ele vem te acordar cedo e você tinha ido deitar tarde.@
+br
+` Como a raiva que se sente quando você está andando na rua em um dia chuvoso e um carro passa em uma poça de água e te molha toda.@
+br
+` Esses sentimentos que me assolavam por instantes solidificavam-se dentro da minha mente e assumiam o controle.
+\
+br
+br
+br
+br
+br
+` E foi por isso.@
+` Que eu soube que faria algo terrível se continuasse daquele jeito.
+\
+bg #000000,crossfade,400
+` A única coisa que eu podia fazer era me trancar no meu quarto.@
+` A única coisa que eu podia fazer era não ver ninguém e não fazer absolutamente nada.@
+` …… Assim eu não odiaria ninguém e não teria aquelas vontades.@
+br
+` [line=3]Mas foi um erro.@
+` Presa em meu quarto, minha mente ficou sobrecarregada e finalmente atingi o meu limite.
+\
+` Naquele dia.@
+` Depois que fui substituída por completo, a única coisa em que conseguia pensar era na minha sede.@
+` Saí do meu quarto com o corpo enfraquecido.
+\
+` Como fazia meses que eu não saía do quarto, meus pais correram até mim.@
+` Depois de cumprimentar meus pais preocupados com um sorriso, eu os matei.
+\
+` Foi bem rápido.@
+` Mesmo com o corpo enfraquecido, mordi nos seus pescoços e suguei seu sangue.@
+` Depois de sugar o sangue e a vida deles, finalmente eu estava de volta.@
+br
+`"[line=3]Já passou cem anos?@ Este corpo é fascinante."@
+br
+` Essa foi a minha voz que eu nunca tinha escutado antes.@
+` Meus lábios formaram um sorriso.
+\
+monocro #ff0000
+bg "bg/cmo_09",crossfade,800
+` [line=3]Que tipo de coincidência é essa?@
+br
+` Normalmente, eu nasço em uma família que escolhi de antemão.@
+` Mas meu corpo anterior foi destruído pela "princesa" antes que eu pudesse escolher uma família.
+\
+` A única condição que consegui cumprir foi a de que o corpo em que vou nascer tenha um potencial físico enorme, e isso resultou em uma reencarnação imperfeita.@
+` Acabei nascendo em um corpo com enorme potencial, mas em uma família normal sem qualquer posição social.@
+` Vai ser difícil dominar esta cidade sem que ninguém perceba.
+\
+` Mas eu não estava decepcionada.@
+` Na verdade. eu estava extremamente feliz.
+\
+` É claro que levaria um tempo enorme para uma família normal ganhar algum poder.@
+` Ganhar poder na sociedade seria difícil com este meu eu.@
+br
+` Mas em troca desse inconveniente.@ Encontrei um corpo excelente.
+\
+` Até hoje,
+` sempre tentei balancear o corpo e a posição social da família.@ Consequentemente, nunca fui capaz de encontrar um corpo excelente como este.@
+br
+` Entretanto[line=4]este corpo possui uma quantidade de Circuitos Mágicos muito superior à de qualquer outro corpo anterior[line=4]e este corpo possui o mesmo potencial que o meu corpo original.
+\
+` Amaldiçoei o meu eu calculista.@
+` Posicão social pode ser adquirida depois.@
+` Mas a qualidade do corpo é algo natural e que não pode ser adquirido depois.@
+br
+` Depois da minha décima sétima reencarnação, finalmente entendi essa verdade.
+\
+bg #000000,crossfade,800
+bg "bg/cmo_13",crossfade,800
+` Meu eu finalmente desperto começou a controlar as pessoas ao meu redor como se fosse água infiltrando no solo.@
+` Não da maneira violenta que tinha feito até então, mas de uma forma que não derramou muito sangue.@
+` O motivo era muito cruel.
+\
+` A minha vontade reencarnada não podia existir por si mesma.@
+` Tudo que eu podia fazer era dizer à vontade "Eu quero fazer isso."@
+br
+` Sou eu quem move este corpo, mas o método, o processo foi determinado pela minha mente que cresceu junto com este corpo.
+\
+` Resumindo[line=3]a minha vontade é a vontade deste corpo em que reencarnei, mas a minha consciência ainda é a mesma do meu eu original.@
+` Eu tenho minha consciência e minhas lembranças do passado.@
+` Quando dormia, tinha apenas pesadelos que eu mesma tornaria reais.
+\
+` Ainda me lembro.@
+` Da sensação de morder o pescoço dos meus pais.@
+br
+` Eu acabei com os moradores gentis da cidade, um por um.@ Era como se estivesse derretendo-os, começando pelos pés e subindo aos poucos.@ Eu continuei a humilhá-los e a a mutilar suas almas.@
+br
+` Dentro de um mês.@
+` Eu tive suas vidas em minhas mãos e brinquei com elas da forma que queria.
+\
+monocro #00ffff
+bg "bg/ima_01",crossfade,400
+` Eu queria enlouquecer.@
+` Queria me entregar completamente à insanidade.@
+` Mas se fizesse isso, cometeria muito mais pecados do que antes.@
+br
+` Por isso continuei lúcida.@
+` Tentando preservar minha sanidade e tentando minimizar o dano que causava.
+\
+br
+br
+br
+br
+br
+br
+br
+` O único alívio que tive…
+\
+br
+br
+br
+br
+br
+br
+br
+` foi o fato deste pesadelo ter acabado rápido.
+\
+monocro #ff0000
+bg "bg/ima_01",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+`   A mulher de branco chegou em uma noite de lua carmesim.
+\
+` Eu sabia o que iria acontecer.@
+` Eu sabia quem era aquela mulher.@
+br
+` Após nossa luta, a princesa dos vampiros me matou.@
+` Como já havia me preparado para a próxima reencarnação, mais uma vez eu reencarnei, deixando meu cadáver para trás.@
+br
+` A princesa de branco foi embora e meu corpo foi levado para o Vaticano.
+\
+bg #000000,crossfade,1500
+monocro off
+wavestop
+!w3000

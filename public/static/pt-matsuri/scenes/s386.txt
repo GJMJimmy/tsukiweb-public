@@ -1,0 +1,52 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w1000
+bg "bg/bg_06a",lcartain,800
+` Chego na sala, e a aula começa sem nada demais acontecer, como sempre.@
+br
+` …… Não tem ninguém na carteira da Yumizuka.@
+` Embora uma colega tenha passado desta para melhor, a vida na sala de aula segue sem mudanças.@
+br
+`"………"@
+` Fico um pouco inquieto.@
+` Por causa da Hisui, me esqueci disso tudo.@
+` Talvez seja por causa daquele incidente.@
+` Com essa inquietação, meus pensamentos vagueiam em direção ao céu.
+\
+bg #000000,crossfade,800
+bg "bg/bg_06b",crossfade,800
+` Antes que eu percebesse, as aulas do dia acabaram.@
+` Solto um suspiro.@
+` Não estou com vontade de ver o Arihiko nem a Senpai.@
+` Neste momento, parece que me sinto mais tranquilo na mansão Tohno do que na escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,800
+bg "bg/bg_33b",lshutter,800
+play "*1"
+` Entro no saguão e dou de cara com a Hisui.@
+ld c,"tachi/his_t16",lshutter,800
+`"Bem-vindo de volta, Shiki-sama."@
+`"Cheguei, Hisui.@ A Kohaku-san e a Akiha estão em casa?"@
+ld c,"tachi/his_t01",crossfade,800
+`"A Akiha-sama ainda não voltou.@ A Nee-san provavelmente deve estar varrendo o pátio."@
+`"O de sempre.@ Bom, vou ficar no meu quarto; pode continuar com os seus afazeres."@
+`"Certo.@ Com licença."
+\
+cl c,lshutter,800
+` Vou para as escadas que levam ao segundo andar.@
+`"Ah, Shiki-sama?"@
+`"Hum?"@
+ld c,"tachi/his_t23",lshutter,400
+`"Vou estar no quarto do Makihisa-sama organizando as coisas.@ Se precisar de alguma coisa, por favor, me chame."@
+cl c,lshutter,800
+` A Hisui desaparece na direção da ala leste da mansão.
+\
+bg #000000,lshutter,400
+bg "bg/bg_40b",lshutter,400
+playstop
+` Guardo a pasta e tiro a minha jaqueta.@
+`"…… Muito bem."@
+` Ainda há tempo até a noite, o que eu deveria fazer?
+\

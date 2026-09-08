@@ -1,0 +1,12 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"Aren't you just easily angered?@ You're a pretty selfish person at heart, after all."@
+` I clearly voice my thoughts on the matter.@
+ld c,"tachi/ark_t08",crossfade,400
+`"Really?@ Now that you mention it, you could be right.@ It seems like I've become really emotional since you killed me."@
+` Arcueid nods in a satisfied manner.@
+cl c,crossfade,400
+` …… Well, whether that was the truth or not, the problem is resolved as long as Arcueid is convinced.
+\

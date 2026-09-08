@@ -1,0 +1,106 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_53b",notrans,0
+`"[line=12]"@
+` Eu não vou cair nesse truque.@
+` O meu corpo vai parar de funcionar se eu perder tempo dando ouvidos a ele.@
+` Se realmente há uma forma de fazer a Akiha voltar ao normal, vou encontrá-la sozinho.@
+` O SHIKI nunca me contaria uma coisa dessas, afinal, foi ele quem a deixou daquele jeito.
+\
+`"[line=4]Humm!@ Acho que você não vai cair nessa, né!?@ Então tá.@ De agora em diante, o negócio vai ser só a nossa briga até a morte.@
+` Vamos ver qual dos dois é o melhor assassino."@
+` Ele ri, ainda agachado.@
+`"[line=12]"@
+` Eu não digo nada, apenas vou em sua direção.@
+` Falta cerca de dez metros para alcançá-lo.@
+` Vou pular na sua garganta daqui a pouco.
+\
+`"…… Ah, hahahaha.@ Você tá pensando que vale alguma coisa só porque arrancou o meu braço?"@
+`"[line=8]"@
+br
+` Um metro.
+\
+`"Vou te contar uma última coisa.@
+` Você sabe que todos os membros da família Tohno possuem poderes diferentes, né?@ A Akiha é boa em roubar o calor de tudo que está ao seu redor.@ Ela influencia o mundo exterior; é uma habilidade de interferência."@
+`"[line=8]"@
+br
+` Dois metros.
+\
+`"A habilidade de interferir com o mundo é escassa até mesmo dentro da família Tohno.@ Pode-se dizer que a habilidade dela é rara.@ E uma habilidade com um potencial desses não desperta com facilidade.@ Todas as vezes que eu tentava fazê-la despertar era como se estivesse jogando uma pedrinha no meio do oceano.@
+` A melhor forma de usar a sua habilidade por completo é fazer com que alguém domine a sua mente e tome o controle do seu corpo."@
+`"[line=8]"@
+br
+` Três metros.
+\
+`"Bem, vamos deixar a Akiha de lado agora.@ No momento é mais importante falarmos sobre mim."@
+`"[line=8]"@
+br
+` Quatro metros.
+\
+`"Shiki, eu sou como o meu pai; não tenho nenhum método que me permita interferir com o mundo.@ A habilidade de vampiro não é a minha habilidade original.@ Isso foi só um bônus que adquiri depois.@ A minha habilidade real é a 'imortalidade'."@
+`"[line=8]"@
+br
+` Cinco metros.
+\
+`"Há limites para a minha imortalidade já que não posso curar os meus próprios ferimentos.@ Não acha que é estranho essa habilidade ser chamada de imortalidade?@
+` Mas a verdade é que é muito difícil eu morrer.@ O meu corpo muda o seu contexto, assim ele pode sobreviver independente do estado em que estiver.@
+` Os seres humanos morrem se perderem boa parte dos seus corpos, certo?@ Isso acontece porque o humano precisa de uma 'Forma Humana' com todas as partes necessárias para viver como um ser humano.@ Se não puderem encontrar uma substituta para as partes perdidas, eles morrem.@ Na verdade, seria mais correto dizer que eles não podem continuar vivendo."@
+`"[line=8]"@
+br
+` Seis metros.
+\
+`"Mas no meu caso é o contrário.@
+` Eu não complemento as minhas partes perdidas.@ Eu continuo vivendo mesmo se perder um braço ou todo o sangue do corpo.@ O meu corpo transforma os orgãos internos de forma que eu possa viver sem as partes que perdi.@
+` De certa forma essa habilidade pode ser chamada de 'imortalidade' sim.@ É muito provável que eu continuasse vivendo mesmo se a única coisa que restasse do meu corpo fosse a cabeça.@ …… Mas eu não quero que isso aconteça de jeito nenhum."
+\
+`"[line=8]"@
+` Sete metros.@
+` …… Mais um passo.@
+` E vou estar perto o bastante[line=4]
+\
+`"…… Você está se preparando para me matar, né?@
+` Enfim, o que estou tentando dizer é isso.@ A minha habilidade não pode influenciar o mundo externo, apenas o interior do meu corpo.@
+` Entendeu?@ Mesmo que, para você pareça uma parte inútil do seu corpo, para mim[line=6]"@
+`"[line=8]"@
+br
+` Pronto.@
+` Agora eu vou[line=5]
+\
+quakey 1,200
+monocro #ff0000
+bg "bg/bg_53b",notrans,0
+br
+br
+br
+br
+br
+` Apunhalado.@
+` De repente, dos meus tornozelos até a minha cabeça…
+` Sou apunhalado por inúmeras espadas que surgem do chão.
+\
+bg "bg/ima_13",tshutter,400
+`"[line=5]Eu posso transformar o meu sangue em uma arma desse jeito.@
+` Você precisa prestar mais atenção nas coisas.@ Eu não derramaria essa quantidade absurda de sangue sem um motivo."@
+` …… Eu… Entendi.@
+` Como fui estúpido.@
+` Segui o seu rastro de sangue…
+` E vim direto para uma montanha de agulhas.
+\
+`"Eu não tenho uma habilidade para machucar os outros diretamente igual você e a Akiha, por isso tenho que recorrer a pequenos truques como esse.@
+` Mas se essa 'pessoa' que está dentro da minha cabeça deixar as coisas mais claras para mim, talvez eu seja capaz de usar as suas habilidades de vampiro."
+\
+monocro off
+bg #000000,crossfade,800
+`"[line=5]Parece que finalmente acabou para você.@
+` Então é isso.@ Deixa o resto comigo e pode voltar para o seu túmulo, Shiki[line=5]"
+\
+br
+` Ouço sua risada.@
+` Ela ecoa na minha cabeça conforme a minha consciência vai desaparecendo[line=5]
+\
+playstop
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

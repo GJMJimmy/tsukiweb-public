@@ -1,0 +1,289 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_47",lcartain,800
+` …… I go up the residential hill and arrive at the outskirts of the mansion.@
+` It's around two in the morning.@
+` As expected, I'm totally assailed by sleepiness.@
+br
+`"…… I wonder if she's going to be okay."@
+` I'm concerned about how she seemed when we parted.@
+` It seemed like it wasn't pain from her wound, but[line=3]
+\
+`"Hm?"@
+br
+` What is that?@
+` It feels like there's someone lurking in the shadows not illuminated by the streetlights.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_47",notrans,0
+br
+wave se_01
+` [line=3]Thu,mp.@
+br
+` My heart stops my breath.@
+` My blood rushes through my body, this sensation[line=4]
+\
+br
+` Certainly, there's someone standing there.@
+` The figure gets closer and closer.@
+br
+` Footsteps.@
+` The sound of dry footsteps reaches my ears.
+\
+br
+wave se_01
+` [line=4]Thu, mp.@
+br
+` I have a bad feeling about this.@
+` Chills race up my spine.
+\
+`"[line=4]"@
+` The figure draws near.@
+` Suddenly[line=4]the streetlights shatter loudly.@
+bg #000000,notrans,0
+` The moon is hidden by the clouds.@
+` The whole world instantly turns to darkness.@
+br
+`"!"@
+`      Thu, mp………!@
+br
+` My heartbeat skips, as if warning me of death.@
+` I jump back for no apparent reason.
+\
+bg "bg/ima_14",crossfade,400
+` A blade runs through the darkness.@
+` Not being able to get away fully, my glasses are grazed by it.@
+` They fall to the ground with a clatter.
+\
+`"Who[line=3]"@
+` The instant I start to say "are you?",
+` The clouds part for a brief moment and the dark figure is illuminated.
+\
+bg #000000,crossfade,400
+ld c,"tachi/roa_t07a",crossfade,400
+`"Wha[line=4]"@
+` A man wrapped entirely in bandages is gripping a knife.
+\
+cl c,lshutter,400
+` The bandaged man goes to attack me again.@
+` I quickly ready my knife and stop it.@
+bg "bg/ima_14",lshutter,400
+waveloop se_02
+br
+` Two slivers of light shoot towards each other.@
+`"[line=4]!"@
+` I can't, think calmly.@
+` The fact that I'm being attacked causes my mind to panic.
+\
+` Clang!@ Clang!@ Sparks fly from our clashing knives and scatter into the darkness.@
+`"Kk[line=3]"@
+` I still can't calm down.@
+` It's not because I'm being attacked.@
+br
+` Clang[line=3].@
+` I swing my knife to cancel out the one attacking me from every angle.
+\
+`"Why[line=4]"@
+` What's surprising is that,
+` my body is completely stopping all the attacks in this darkness without a pause.
+\
+`"My body is moving by itself[line=3]?"@
+` No, that's not it.@
+` All my arms are doing,
+` is seeking out the lines and points that I can see in the darkness with my glasses off.@
+br
+` That's all I can see, so I swing my knife through the dark air after those lines.@
+` As a result, the bandaged man's knife is simply stopping mine.@
+` In other words,
+` It's not that I'm defending myself, but he's defending himself from me.
+\
+br
+` [line=4]I can win……!@
+br
+` I don't know who he is, but there's no doubt.@
+` I'm overwhelming him.@
+` My blood rages forth from my advantage.@
+` I'll win.@ I'm, stronger than him.@
+` Because I'm stronger.@ Because he's trying to kill me, aren't I just returning the favor[line=4]!?
+\
+wave se_12
+` Clang.@ Clang.@
+` The sound of ringing metal echoes in the air and I force him back towards the mansion wall.
+\
+waveloop se_02
+`"[line=4]!"@
+` There.@
+` My eyes fixate on the "line" on his chest and I thrust my knife forward.@
+monocro #ff0000
+bg "bg/cmo_06",crossfade,400
+br
+` [line=4]Momentarily.@
+` For some reason I see a boy painted in blood and Akiha's crying face[line=4]
+\
+monocro off
+bg #000000,crossfade,400
+`"Gh!"@
+` I pull my knife back before completion.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]What, am I[line=2]I'm, trying to kill someone, why[line=3]
+\
+bg #9c0120,crossfade,400
+bg #000000,crossfade,400
+` My head.@
+` My head hurts.@
+` My legs wobble and I stagger backwards.@
+` As I do so,
+` I empty the contents of my stomach.@
+br
+` My chest starts to itch.@
+br
+` My head hurts, the old wound on my chest burns.@
+` My eyes, feel like they're going to burst out of their sockets[line=4]
+\
+`"Haa[line=4]ah, agh[line=3]!"@
+` I can't stop throwing up.@
+` The vomit splatters all over the asphalt.@
+` And there,
+` the bandaged man comes after me with his knife.
+\
+bg "bg/ima_14",lshutter,400
+br
+`"[line=5]!"@
+br
+wave se_12
+` Clang!@ Another collision.@
+` My knife shoots towards his.@
+` This time, I really defend myself.@
+` I know where he's aiming.@ Since I know, I block him once again with another clang.
+\
+wave se_12
+br
+` Clang!@ Clang!@ Clang!@
+br
+wave se_12
+` Despite not being able to see his knife due to its speed, I somehow manage to block it over and over.@
+` The reason I can defend myself is simple.@
+waveloop se_02
+` Because, where he's aiming are the "lines" on my body.@
+br
+` So I know where he is aiming at and I understand more than anyone that having them cut would mean instant death, so I have to defend it.
+\
+` No, wait.@
+br
+` …… Aiming[line=3]for my lines?
+\
+`"[line=6]Ah."@
+` It's the exact opposite of before.@
+` That means,
+` don't tell me, he.@
+br
+` [line=4]Ku.@
+br
+` The bandaged man smiles in the darkness.
+\
+` [line=3]Th, um, p.@
+br
+` My heart rate goes out of control.@
+` Feeling some unnameable fear, I stumble backwards.@
+` He doesn't pursue me.@ He just smiles.@
+` His blood-shot eyes seem to be saying "So you've finally realized it?" as he sneers at me.@
+br
+`"You can[line=4]see them?"@
+` Yes.@
+` He also, can see the "lines"[line=4]
+\
+br
+br
+br
+br
+br
+br
+` Then,
+` He can, also kill with one blow[line=3]
+\
+br
+` [line=4]Ku.@
+br
+` The man laughs.@
+` He draws near while laughing.@
+` I[line=3]even down to my fingers gripping my knife, tremble uncontrollably.@
+br
+bg #9c0120,crossfade,400
+` Slice.@ Slice.@ Slice.@ The sound of flesh being pierced by a blade resounds three times.@
+` And then, a thud, a sound of a body hitting the wall.
+\
+bg #000000,lshutter,400
+wavestop
+`"Eh[line=3]?"@
+br
+` [line=3]I can't grasp the situation.@
+br
+` The bandaged man was suddenly pierced by three spear-like pipes.@
+` Not just pierced, but stuck onto the wall.@
+` Like an insect pinned in a bug collection.
+\
+br
+`"[line=3]YOU'RE IN MY WAY."@
+br
+` His voice grates awfully.@
+` At the same time[line=3]the three spears alight like candles and engulf him in flames.@
+br
+`"AAAAAaAAAaaaaAaAAAh!"@
+br
+` An anguished voice in the whirlpool of flames.@
+` In the darkness, that scene seems less cruel, and almost beautiful.
+\
+br
+`"AAAAAAAAAAH!"@
+br
+` The bandaged man[line=3]no, the bandages are burned already, his skin is showing.@
+` Wrapped in the flames, the man stares at me.@
+` His blood-shot eyes filled only with murder.@
+` His black eyes like a weapon bent on cursing Tohno Shiki.
+\
+`"[line=5]Wha…"@
+` Stunned, I can only watch.@
+` He runs off into the distance, still engulfed in flames.
+\
+bg "bg/ima_18",crossfade,800
+` [line=3]The moon re-emerges.@
+` After those flames, and that cursing voice, everything returns to silence like it was before.@
+`"[line=4]"@
+` I fall to my knees and lean against the wall.
+\
+` I look up at the sky.@
+` In the direction where those spears flew from, someone is standing high and far off.@
+bg "event/cel_e04",crossfade,400
+`"[line=5]"@
+` Far away.@
+` Standing composed on top of the streetlight, I see a familiar figure.
+\
+`"…… Eh?"@
+` Robes like a priest from another country.@
+` Clenched in her hand, large, nail-like swords.@
+` Emotionless, pale eyes.@ Blue, sky-blue eyes.@
+`"…… Sen…… pai?"@
+` Under the moonlight, I can only make out the silhouette.@
+` But, she seems to resemble Senpai.
+\
+`"[line=6]"@
+` Our eyes meet.@
+` The standing figure on top of the streetlight suddenly disappears like a ghost.@
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,800
+`"Ah[line=5]"@
+` I sit down roughly.@
+` Is it relief from my headache fading or just the lifting of all this tension?@
+br
+` Leaning my back against the wall, I start to drift off to sleep[line=5].
+\
+bg #000000,crossfade,1500
+!w3000

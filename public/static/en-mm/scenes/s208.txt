@@ -1,0 +1,13 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]I was about to ask, but I didn't think the teacher would tell me.@
+br
+` If she did run away from home like Arihiko said, it's her business.@
+` Besides, there isn't a teacher on the planet who'd answer a classmate who just casually asked "Has Yumizuka-san run away from home?"
+\
+`"…… Yeah, it's not like it's been confirmed yet or anything."@
+` Maybe Yumizuka was just late.@
+` It would be a better idea to see how things go for a little while longer before asking the teacher.
+\
+bg #000000,crossfade,800

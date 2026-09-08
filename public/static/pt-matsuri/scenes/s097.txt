@@ -1,0 +1,157 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_15c",crossfade,800
+ld c,"tachi/ark_t01a",crossfade,400
+waveloop se_11
+`"Então está decidido.@ Vai ficar tudo bem, Shiki.@ Com as suas habilidades, você não vai ter dificuldades para matá-lo."@
+` A Arcueid resume essa situação ultrajante com uma expressão sincera.@
+` …… Bem, não sou tão otimista quanto ela, mas não tenho escolha.
+\
+`"A questão é como vou agir.@ Eu congelei assim que vi seus olhos lá no hotel, acho que a única coisa que posso fazer é me aproximar por trás fazendo com que ele não perceba minha presença e então pegá-lo de alguma forma."@
+`"Ah, sobre aquilo.@ Aquilo só aconteceu porque sua força de vontade é fraca, Shiki.@ Os Olhos Místicos do Nrvnqsr não têm nada de especial, se você deixar sua hesitação de lado, vai conseguir desviar de seu olhar mesmo que olhe diretamente para os olhos dele."@
+`"…………"@
+` Ela diz isso, mas eu continuo nervoso.
+\
+`"…… Não, acho melhor não planejar fazer algo que nunca fiz.@ Vou me aproximar por trás dele e cortar as 'linhas' dos seus membros.@ Isso deve acabar com a sua liberdade de se mexer e[line=2]"@
+`"[line=2]Se fizer isso, você vai morrer."@
+ld c,"tachi/ark_t05b",crossfade,400
+`"Hã[line=2]?"@
+`"Você disse que a questão é o modo como vai agir.@ Mas está errado.@ A verdadeira questão é como vai matá-lo."@
+`"[line=2]Isso é verdade, mas…"
+\
+`"Shiki, você está prestes a lutar contra um vampiro, livre-se dos seus conceitos morais ao menos por essa noite.@ Nos momentos mais cruciais eles só vão te atrapalhar."@
+`"[line=2]Estou ciente disso.@ Ele é um monstro, é por isso que quero te ajudar a detê-lo."
+\
+`"Não, você não está ciente de nada.@ Cortar seus membros?@ Isso é suicídio.@ Quando você chegar ao ponto de cortar os seus membros, é nessa hora que deve acabar com a vida dele.@
+` Ninguém além de você pode fazer isso.@ Escute o que eu digo e não dê ao Nrvnqsr a chance de revidar.@ A diferença entre suas habilidades ofensivas é muito grande; se você errar o primeiro golpe, não vai ter chance alguma de vencer."
+\
+` Os olhos da Arcueid não permitem qualquer réplica.@
+` [line=3]Mas é verdade.@
+` É exatamente como ela disse.@ Se eu perder tempo cortando os membros dele, posso ter minha cabeça engolida por um crocodilo na mesma hora[line=2]
+\
+`"Shiki.@ O Nrvnqsr vai vir à meia-noite.@ Vai ser nesse momento que nós[line=3]que você e eu vamos matá-lo até que não sobre mais nada dele.@
+` Não é como agir.@
+` Mas sim como matar, temos que pensar apenas nisso."@
+br
+` Os olhos selvagens da Arcueid me encaram.@
+` Ela está[line=3]muito irritada.@
+` Está irritada porque eu ainda tenho ideias tão ingênuas.
+\
+`"[line=3]Eu já entendi.@ Não vou hesitar.@
+` Vou acertar o 'ponto de morte' dele em um único golpe.@ É isso que devo fazer, né?"
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"…………"@
+` Ela não responde.@
+` Suponho que seu silêncio signifique que concorde.@
+`"[line=3]Mas onde devemos esperar?@ Pessoas serão mortas, assim como no hotel, se ficarmos esperando aqui neste prédio.@ Não devíamos ir para outro lugar?"@
+`"[line=3]Sim.@ Acho que o parque pode servir.@ Ninguém vai lá à noite[line=2]e se acontecer de alguém aparecer, vai ser puro azar da pessoa."@
+ld c,"tachi/ark_t22",crossfade,400
+` Dito isso, ela vira de costas para mim.
+\
+`"Qual é o problema?@ Se você tem algo a dizer, diga.@ Eu resolvi te ajudar, estou disposto a correr os riscos."@
+`"…… Não adianta.@ Você não usou a palavra 'matar' nem uma vez.@ Nesse ritmo, você vai acabar hesitando no último segundo e morrendo."@
+`"[line=3]Isso não vai acontecer.@ Ele é um monstro que comeu mais de cem pessoas.@ Eu nunca hesitaria em matá-lo."@
+`"[line=8]"@
+` Ela suspira.
+\
+`"[line=3]Se eu te controlasse, tenho certeza de que mataria o Nrvnqsr.@
+` Pela primeira vez eu senti que queria fazer isso, mas também foi a primeira vez que senti que não queria fazer isso.@ É uma grande contradição."@
+` …… A Arcueid se vira para mim, balbuciando algo que não entendi direito.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Eu confio em você, Shiki.@ Vamos acabar com o Nrvnqsr juntos."@
+` Um sorriso se forma em seu rosto.@
+br
+` Mas é um sorriso apreensivo.@
+wavestop
+bg #000000,crossfade,1500
+` O plano em si é muito simples.@
+` Um pouco antes da meia-noite, a Arcueid sai do prédio e vai para o parque sozinha.@
+br
+` Segundo a Arcueid[line=3]o familiar do Nrvnqsr, aquele corvo azul[line=3]deve segui-la.@ Então pouco depois que ela sair, eu também saio e vou para o parque.
+\
+` Eu me escondo nos arbustos, em um lugar que possa vê-la, e fico esperando o Nrvnqsr chegar.@ Enquanto a Arcueid mantém ele distraído, eu me aproximo por trás dele e corto sua 'linha de morte'[line=4]
+\
+!w3000
+bg "bg/bg_29b",crossfade,800
+` [line=3]A Arcueid está distraída no meio do parque.@
+br
+` Eu estou escondido nos arbustos a aproximadamente vinte metros de distância.
+\
+`"…………"@
+` O parque está vazio.@
+` Faltam dez minutos para a meia-noite.@
+` A Arcueid está olhando para o céu, contemplando a lua azul.
+\
+`"…………"@
+` Seguro a faca com força.@
+` A Arcueid disse que o Nrvnqsr viria com toda a certeza.@
+` Tudo que tenho que fazer é chegar por trás dele, aproximando-me sem fazer muito barulho, e então cortar sua 'linha' no mesmo instante.
+\
+`"Haa[line=6]ahh."@
+` Eu tento respirar fundo.@
+` Meu corpo está se movendo sem problemas.@
+` Exceto os dedos que estão segurando a faca.@ Eles estão imóveis, como se não fizessem parte do meu corpo.
+\
+`"[line=6]"@
+` Talvez eu esteja nervoso.@
+` Porque vou me encontrar novamente com o vampiro chamado Nrvnqsr.@
+` Porque vou ter que enfrentar aquele monstro mais uma vez.
+\
+`"[line=6]"@
+` Ou,
+` porque vou ter que matá-lo daqui a pouco.
+\
+` *arf*@
+` Minha respiração acelera.@
+` Meu coração fica pesado, como se não fizesse parte do meu corpo.@
+`"Acalme-se[line=2]ele ainda nem chegou aqui."@
+` É mesmo.@ O meu alvo ainda não chegou.@
+` Nesse ritmo, começo a me preocupar com a possibilidade de não conseguir nem mexer meus pés na hora que o Nrvnqsr chegar.
+\
+`"Arcueid… você não está com medo?"@
+` Encaro a garota de branco que fita a lua serenamente.@
+` Ela não parece nem um pouco preocupada.@
+` Seu rosto volta a atenção para a terra.@
+` E nesse exato momento[line=2]
+br
+`"[line=3]Parece que te deixei esperando, Princesa dos Ancestrais Originais."@
+br
+` Uma voz pesada, como ferro enferrujado.
+\
+`"[line=6]!"@
+` Foi por isso que ela parou de fitar o céu.@
+` A mais de cinco metros de distância dela e a mais de dez metros de distância de mim, surge um homem vestindo um sobretudo preto, ele surge como se fosse um fantasma[line=3]
+\
+bg #000000,crossfade,1500
+bg "bg/bg_29b",crossfade,800
+ld c,"tachi/ark_t05c",crossfade,400
+`"Sim.@ Estive te esperando por um bom tempo, Nrvnqsr Chaos.@
+` Ou você prefere ser chamado de Fabro Rowan?@ Parece mais elegante."@
+br
+` A voz da Arcueid chega até mim pelo vento.
+\
+cl c,crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+`"[line=3]Impressionante.@ Nunca nem sonhei que um dia alguém me chamaria pelo nome que eu tinha quando era humano.@
+` Mas era isso mesmo que eu poderia esperar da nossa executora.@ Aposto que faz tempos que você já descobriu tudo que tinha para descobrir sobre os vinte e sete Ancestrais dos Apóstolos da Morte."@
+br
+` Posso ouvir a resposta do Nrvnqsr claramente também.@
+cl c,crossfade,400
+\
+waveloop se_02
+`"[line=5]Hahh."@
+` Minha respiração fica mais forte.@
+` A Arcueid está distraindo ele.@
+` Essa é a minha única chance.@
+` Tiro os meus óculos por pura força de vontade.
+\
+bg "bg/bg_29c",crossfade,1500
+`"[line=7]!"@
+` Seguro a faca com a mão direita, pressionando-a contra o peito.@
+` …… Uma arma branca.@
+` E agora, com essa arma,
+` vou destruir aquele monstro comedor de gente[line=2]
+\

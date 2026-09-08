@@ -1,0 +1,548 @@
+monocro off
+playstop
+wavestop
+bg "bg/cmo_18",crossfade,400
+play "*6"
+`"Ah[line=6]"@
+` Un techo sobre mi cabeza como una sombrilla negra.@
+` Y a todo mi alrededor, los brillantes ojos de las bestias.
+\
+` Desgarra.@ Mi piel está siendo desgarrada.@
+` [line=4]Muere.@
+` Desgarra.@ Mi carne está siendo devorada.@
+` [line=4]Muere.@
+` Rechina.@ Mis huesos están siendo despedazados.@
+` [line=4]Muere.@
+br
+` Mi mente ya no puede pensar en nada.@
+` Sólo en usar mis brazos frenéticamente para proteger mi rostro.@
+` Mi mano derecha se endurece, manteniendo un firme agarre sobre mi cuchillo.
+\
+` [line=4]Muere.@
+` Estoy siendo devorado.@
+` Qué extraño[line=4]siendo tantas las bestias que me atacan, deberían ser capaces de devorarme por completo en un minuto, pero se toman su tiempo.
+\
+` [line=4]Muere.@
+` Estoy sangrando demasiado.@
+` Mi sangre y su saliva cubren mi cuerpo.@
+` Se siente[line=4]terrible.
+\
+` [line=4]Muere.@
+` No puedo ver nada fuera de esto.@
+` Sólo total oscuridad.
+\
+` [line=4]Muere.@
+` Esos incontables pares de ojos lo dicen.@
+` Lo dicen mientras me devoran poco a poco.@
+` No pueden hablar, así que se expresan con sus ardientes ojos.
+\
+` [line=4]Muere.@
+` Apresúrate y muere.@
+` La cúpula negra de bestias canta al unísono.
+\
+bg "bg/cmo_19",crossfade,400
+`"¡[line=6]!"@
+` Un grito se escapa.@
+` Pero nadie va a ayudarme.@
+` [line=3]Seré asesinado.@
+` Como esa persona de antes, seré devorado vivo.@
+`"Ah[line=3]a, ah…"
+\
+` [line=4]No.@
+` No quiero eso.@
+` No quiero morir de esta manera.@
+` No quiero ser devorado estando consciente.@
+` No quiero ser asesinado así.@
+` Espantoso.@ Es espantoso.@ Muy espantoso.@
+` Espantoso, espantoso, aterrador, aterrrador, aterradorespantosoespantosoespantosoespantosoespantoso[line=4]
+\
+`"Seré[line=2]asesinado."@
+br
+` Sí, seré asesinado.@
+` No hay hacia dónde correr.
+\
+`"Seré asesinado… de esta… manera."@
+br
+` Seré destrozado y me convertiré en comida para todos ellos.@
+br
+` No hay nada que pueda hacer.@
+` Con mis ojos pintados de bermellón, me observo con vaciedad.
+\
+`"Ja.@ Jajaja, ja."@
+br
+` Comienzo a reír.@
+` Porque, ni siquiera sé por qué estoy siendo asesinado.@
+br
+` Pero[line=4]aun así, Tohno Shiki será asesinado de esta manera.
+\
+`"Eres obstinado.@ Si te rindes, será más fácil para ti."@
+br
+` Ja, jaja, ja.@
+br
+` Él ríe en la distancia.@
+` Devorándome lentamente y riendo.@
+br
+` Ah[line=4]es como si todo mi cuerpo… se disolviese.
+\
+`"[line=8]"@
+br
+` …… Horrible.@ Demasiado horrible.@ Esto es demasiado horrible.@
+` Mis heridas duelen.@ Duelen.@ Duelen mucho.@
+` La muerte es aterradora.@ Es aterradora.@ Muy aterradora.@
+` Él está riendo en la distancia.@
+` Viéndome morir y riendo.@
+` Si agudizo mis oídos,
+` todavía puedo escuchar el masticar y la ruptura de huesos viniendo de su interior.@
+br
+` No sólo devoró a todas esas personas ayer.@
+` Y no sólo se comió a esa persona desconocida.@
+` Incluso está tratando de comerme y matarme[line=4]
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/cmo_19",notrans,0
+`"Gah[line=4]"@
+` Algo como garras cava dentro de mi pecho.@
+` Es donde está la cicatriz de mi vieja herida.@
+` Un lugar muy doloroso, aterrador y lleno de odio.@
+br
+` [line=4]Ocho años atrás[line=4]aquel día de verano.@
+br
+` Sí, en verdad era puro odio.@
+` No había espacio para el dolor o el miedo.
+\
+playstop
+bg #000000,crossfade,400
+waveloop se_02
+` Sí.@ Yo simplemente… odié.@
+` Entonces lo que debe hacerse ya está decidido.@
+br
+` [line=4]Si vas a matarme, entonces…
+br
+` Todo mi cuerpo ya está entumecido.@
+` Todo lo que queda es la sensación del cuchillo que me negué a soltar en mi mano derecha.
+\
+br
+` Ser asesinado[line=4]¿ser asesinado?@
+br
+` ¿Quién?@
+` ¿Por quién?
+\
+`"Jaja, ja[line=10]"@
+br
+` Río escandalosamente.@
+br
+` Correcto, así son las cosas exactamente.@
+` Correr es absolutamente imposible.@
+` Escapar es absolutamente imposible.@
+` Sólo hay una cosa por hacer.
+\
+` Ser asesinado.@
+` Ser asesinado.@
+` Definitivamente, sin duda alguna, ser asesinado.@
+br
+` Por nada más,
+!w500
+` y por nadie más.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Él será asesinado por mí.
+\
+wavestop
+monocro #ff0000
+bg "bg/bg_29c",lshutter,400
+`"¡Ajajajajajajajajaja!"@
+` En vez de gritar, comienzo a reír como un idiota.@
+` Qué extraño.@
+` Extrañamente, no puedo parar de reír.
+\
+br
+` Corte.@ Corte.@ Corte.@ Corte.@ Corte.@ Con cada sonido, otra bestia muere.@
+` Mi cerebro está en agonía.@
+` A lo largo de todo mi cuerpo: mis nervios, mis vasos sanguíneos, mis células, mi sangre; todo se ha vuelto anormal.
+\
+br
+` [line=4]La cúpula negra desaparece.@
+` Acabo de matar cerca de setenta bestias que estaban comiéndose mi cuerpo.@
+br
+`"¿Qu[line=4]é?"@
+` Puedo escuchar la voz de Nrvnqsr.@
+` Muy bien[line=4]tengo que levantarme, o no podré matar más.
+\
+monocro off
+bg "bg/bg_29c",crossfade,400
+` Me levanto.@
+`"[line=4]"@
+` No hay problema.@
+` No hay un solo lugar en que no esté herido, pero podré moverme por un rato.@
+ld c,"tachi/nero_t02d",crossfade,400
+`"¿Qué[line=4]has[line=2]"@
+`"[line=4]Sí, entiendo cómo te sientes, vampiro."
+\
+` Mi cerebro está ardiendo.@
+` Es similar[line=4]Al igual que cuando maté a Arcueid, no puedo respirar correctamente.@
+` Junto con el dolor de cabeza y el calor que casi me vuelve loco,
+!w500
+` casi como para hacerme vomitar,
+!w500
+` el mundo está saturado de muerte[line=4]
+\
+`"¿Así que quieres matarme, monstruo?"
+\
+br
+br
+br
+br
+br
+br
+br
+` Entonces, tenemos algo en común.
+\
+`"Bien.@ [line=4]¡Peleemos hasta la muerte, Nrvnqsr Chaos……!"@
+bg #000000,notrans,0
+` Con eso, mi rígida mano se mueve libremente.@
+` Cambiando a un agarre inverso de mi cuchillo, corro hacia Nrvnqsr.
+\
+ld c,"tachi/kemo_t03",crossfade,400
+` Una bestia más grande surge de su cuerpo.@
+` Finalmente, está sacando las armas grandes que usó contra Arcueid.
+\
+bg "bg/ima_14",crossfade,400
+`"[line=6]"@
+` Pero, no duran mucho.
+\
+` Sin importar cuán grandes, rápidas o brutales sean, básicamente no pueden matarme a menos que me toquen.@
+` Si tratan de tocarme,
+` corto cualquier parte que lo intente.@
+` Al final, que sea un perro negro, un león o un tigre, no hace ninguna diferencia.
+\
+bg "bg/bg_29c",crossfade,400
+` Dos de los más grandes se desploman y se convierten en agua negra.@
+` Para llegar a Nrvnqsr[line=2]todavía tengo recorrer cierta distancia.@
+ld c,"tachi/nero_t02e",crossfade,400
+br
+`"[line=4]¿Cómo puede pasar esto?@ Aquellos de nosotros que ni siquiera la princesa pudo eliminar[line=4]están volviendo a la nada."@
+br
+` Él está… diciendo algo.@
+br
+`"[line=4]No entiendo.@ ¿Qué hiciste?"@
+br
+` Fijo mi mirada sobre el cuerpo de Nrvnqsr.
+\
+ld c,"tachi/nero_t02f",crossfade,400
+` Innumerables puntos.@
+` [line=4]Si quiero vivir.@
+` Si quiero matarlo, tengo que matar a todos y cada uno de ellos.
+\
+`"……………"@
+` Probablemente no es posible.@
+` Pero[line=4]no puedo terminar de esta manera.@
+` Arcueid, quien fue tragada por el fluido negro.@
+` El centenar de personas que fueron asesinadas.@
+br
+` [line=4]Y, este cuerpo que casi fue asesinado.@
+br
+`"¡………………!"@
+` Aprieto mis dientes.@
+` No hay tiempo para decir palabras de odio.
+\
+` Desafortunadamente, moverme consume todo mi poder.@ No tengo energía de sobra como para responderle a Nrvnqsr.
+\
+` [line=4]No.@
+` Si en verdad tengo esa clase de energía, lo más rápidamente posible[line=4]
+br
+`"[line=4]Muy bien.@ Ahora te reconozco como un obstáculo para mí."
+\
+br
+br
+br
+br
+br
+br
+` [line=4]matar a este monstruo con olor a bestia sería mucho mejor.
+\
+bg #000000,notrans,0
+` Su abrigo negro se abre completamente.@
+` El repugnante hedor de las bestias.@
+` La sensación de peligro de antes no es nada comparada con la de ahora.@
+br
+` Del interior de su abrigo, salen cosas que he visto al menos una vez cuando era niño.@
+` Como ese caballo con un cuerno sobre su frente, o aquel enorme lagarto alado.@
+` Ésos son problemáticos.@
+` No es fácil matarlos,
+` porque tienen muy pocas "partes vulnerables a la muerte".@
+br
+` Entonces[line=3]me pongo más serio.
+\
+` ¿Será porque dije "matar"?@
+` La pulsación de mi sangre es dolorosa.@
+` Mis nervios están rechinando al unísono.@
+` Todo en mi cuerpo se confabula para hacer a un lado aquello que obstruye mi camino.
+\
+` Corto al caballo en dos pedazos junto con su cuerno.@
+` Corto al lagarto desde su lomo hasta su abdomen inferior derecho.@
+br
+`"[line=4]Imposible."@
+` Escucho la voz del obstáculo.@
+` Desafortunadamente, ni siquiera puedo ver correctamente ahora.@
+` Todo lo que puedo ver son esos puntos y líneas negros.@
+`"Escoria[line=4]¿¡por qué debo atacar a un simple humano con toda mi fuerza[line=4]!?"
+\
+` Con un estrujante sonido carnal,
+` el medio cuerpo de Nrvnqsr regresa a su forma humana previa.@
+` [line=4]Parece que finalmente repuso la mitad de su cuerpo que retenía a Arcueid.@
+bg "bg/bg_29c",crossfade,400
+br
+ld c,"tachi/nero_t03",crossfade,400
+`"[line=4]Voy a matarte.@ Descubrirás que una existencia muy superior a la tuya existe dentro de mí[line=4]"
+\
+` Sus brazos penetran dentro de su propio pecho.@
+` Como si desgarrase la oscuridad,
+` hurga dentro de su propio pecho.@
+` Del agujero dentro de Nrvnqsr,
+` emerge algo bizarro[line=4]
+\
+bg #9c0120,crossfade,400
+` Para describirlo simplemente, es una araña que parece un cangrejo.@
+` Un poco más grande que el elefante gigante que Arcueid mató.@
+br
+`"[line=6]"@
+` Mi visión se ha vuelto roja; no puedo ver muy bien.@ Todo lo que veo son sus bizarras siluetas y sus "muertes".
+\
+` Mis dedos están fríos.@
+` Tal vez he perdido demasiada sangre.@ Todo mi cuerpo está helado.@
+` Pero aun así[line=4]mi cuerpo no se está quejando.@
+` Me ordena que avance, diciéndome que si tengo suficiente fuerza para gritar, use esa energía para matar a Nrvnqsr aun más rápido.@
+br
+` [line=4]Me duele la columna.@
+`   Mi cuerpo está frío.@
+`   Mis dedos están congelados.@
+`   Pero, mi cerebro está ardiendo.
+\
+` Esas bestias cangrejo-arañas siguen arrastrándose fuera de Nrvnqsr.@
+` Nrvnqsr está sólo un poco más lejos.@
+` Estas cosas obstruyen el camino para atraparlo.
+\
+bg "bg/bg_29c",notrans,0
+` Por ahora, estas tres.@
+` Aniquilo por completo a los obstáculos emergidos.
+\
+ld c,"tachi/nero_t02a",crossfade,400
+`"[line=4]Imposible."@
+` Como mareado, Nrvnqsr retrocede.@
+`"[line=4]No hay manera de que alguien pueda destruir a todas mis bestias asesinas.@ ¡Semejante realidad es imposible……!@
+` Somos inmortales.@
+` Mientras yo viva, las bestias inmortales volverán al caos y renacerán[line=4]entonces, ¿¡por qué vuelven a la nada original al ser simplemente apuñaladas por ti[line=4]!?"@
+br
+` Camino hacia mi gritón enemigo.@
+cl c,crossfade,400
+ld c,"tachi/nero_t04",crossfade,400
+` Nrvnqsr intenta retroceder en retirada, pero se detiene a sí mismo.
+\
+`"[line=4]Repulsivo."@
+` Sus ojos, anteriormente como de máquinas, finalmente empiezan a arder con odio carmesí.@
+br
+` Entiendo cómo se siente.@
+` [line=4]Probablemente,
+` el asesino dentro de Nrvnqsr se está ordenando retirarse.@
+` Pero el vampiro en él no se permite ser derrotado por un simple humano.@
+` Él no entiende.@
+` Ni siquiera se permite a sí mismo retirarse.@
+` Por lo tanto, no se permite dar siquiera un paso atrás.@
+` Su obstinada mente no le permite percatarse de su impotencia.
+\
+` Otro paso hacia adelante.@
+` Desde aquí, puedo saltar y rebanar su cuerpo con mi cuchillo.@
+br
+`"[line=4]¡No, nunca[line=4]!@
+` ¡Mi nombre es Nrvnqsr, el inmortal llamado Chaos en la perpetua raza de los vampiros!@ ¡No es posible que me vea así de repulsivo……!"@
+cl c,crossfade,800
+br
+` [line=4]Su cuerpo comienza a tomar una forma.@
+` El cuerpo que era sólo oscuridad comienza a transformarse.
+\
+`"Este cuerpo es inmortal.@
+` ¡He superado la muerte desde hace mucho[line=4]!"@
+` Su cuerpo salta hacia adelante.@
+` No sus bestias.@
+` Condensando todas las bestias restantes hasta el límite, se transforma a sí mismo en la mejor Bestia y se acerca para matarme.
+\
+bg #000000,lshutter,400
+` Su velocidad es tan alta como la de Arcueid.@
+` Extiende unos brazos que pulverizarían mi cuello si hiciesen contacto conmigo.@
+bg #000000,lshutter,400
+bg "bg/ima_14",lshutter,400
+wave se_12
+` Evadiendo eso, corto la 'línea' sobre su brazo.
+\
+bg "bg/bg_29c",crossfade,400
+` Como si no pudiese controlar su velocidad, pasa de largo sin detenerse.@
+br
+` [line=3]La distancia entre nosotros crece de nuevo.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_29c",notrans,0
+br
+br
+br
+br
+br
+br
+` [line=3]Me siento mareado.@
+`   No puedo dejar de temblar.
+\
+ld c,"tachi/nero_t04b",crossfade,400
+`"[line=6]¿Qué es esto?"@
+` Nrvnqsr observa con asombro su brazo cortado.@
+`"¿¡Qué es esto[line=4]!?@ ¿¡Por qué[line=2]por qué la parte cortada no se regenera!?@ ¿¡Cómo puede estar ocurriendo una cosa tan ridícula……!?@ No es un hechicero o un Enterrador, ¿cómo puede destruirme sólo con cortarme[line=6]!?"@
+`"[line=4]Qué estúpido.@ Si te preocupas demasiado por las apariencias, serás asesinado, Nrvnqsr Chaos."@
+` Escucho una voz familiar cerca de Nrvnqsr.
+\
+cl c,crossfade,400
+`"¡Tú[line=4]!"@
+` Con ojos inyectados de sangre, Nrvnqsr mira a Arcueid, parada elegantemente a un costado.@
+br
+` [line=4]Oh, ya veo.@
+` Cuando él dejó de ser sólo medio cuerpo, ella fue liberada.
+\
+ld c,"tachi/ark_t05d",crossfade,400
+`"Oh, no te preocupes por mí.@ Shiki se encargará de ti.@ En este momento, él podría incluso matarme si me interpongo en su camino."@
+` Una voz burlona.@
+`"Es tu culpa por pensar que debías matarlo dolorosamente.@
+` Debes matar a tu enemigo rápidamente y sin darle oportunidad de contratacar, ¿cierto?@ Ése fue tu error."
+\
+cl c,notrans,0
+ld c,"tachi/nero_t04b",notrans,0
+`"[line=4]Silencio.@ Yo no cometo errores.@ Todavía me quedan 560 vidas.@
+` …… Sólo espera.@ Una vez que lo mate, iré por ti una vez más."@
+cl c,notrans,0
+ld c,"tachi/ark_t01a",notrans,0
+`"¿En serio?@ No sucederá, pero estaré esperando."
+\
+cl c,crossfade,400
+` Arcueid no se acerca a él.@
+` Nrvnqsr sólo está mirando hacia mí.@
+br
+` [line=4]Aquí viene.@
+br
+` Sostengo mi mano derecha con la izquierda mientras sujeto el cuchillo.@
+br
+` Nrvnqsr se agacha.@
+` Es la acción de un depredador preparándose para saltar sobre su presa.
+\
+`"Oh, olvidé decirte otra cosa, Nrvnqsr."@
+` Su voz fluye como el viento antes de eso.@
+`"Puede que sea tarde para decirlo pero, él ya me ha matado una vez."@
+`"¿Qu[line=4]é?"@
+` Esta vez, va en serio.@
+` En su asombro, Nrvnqsr pierde noción de su identidad.
+\
+` Por un momento,
+` sus confusos pensamientos fluyen hacia mí mente como una maldición.
+\
+bg #ffffff,crossfade,400
+` [line=4]¿Esto es una pesadilla?@
+` ¿Matar a Arcueid Brunestud?@
+` Ni siquiera la palabra inmortalidad es suficiente para describir a ese monstruo, ¿y fue asesinada por ese humano?@
+br
+` No, eso no puede ser verdad.@
+` Pero, espera.@ Hipotéticamente, si eso es verdad…
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+` [line=4]Entonces,
+` ¿cuál de nosotros era el pretencioso a fin de cuentas?
+\
+bg "bg/bg_29c",notrans,0
+`"Exactamente.@ Parece que el pretencioso eres tú, Nrvnqsr Chaos."@
+br
+`"¡Ku[line=4]juju, jajajajajajaja!"@
+br
+` Al final del odio y el caos.@
+` Nrvnqsr ríe con placer desde el fondo su corazón.
+\
+` [line=4]No puedo esperar más.@
+`  Comienzo a correr hacia mi inmóvil objetivo.@
+br
+`"Ya veo.@ ¡Tú vas a matarme, humano[line=4]!"@
+br
+` [line=4]La Bestia ruge.@
+`   Con un brazo,
+`   corre hacia adelante para perforar mi corazón.
+\
+bg "event/nero_e04",crossfade,400
+br
+br
+br
+br
+br
+` Su velocidad es tan alta, que no se podría pedir más.@
+!w750
+` Un simple,
+!w750
+` y eficiente,
+!w750
+` movimiento para matarme.@
+!w750
+` Un movimiento demasiado hermoso.@
+!w750
+\
+`"[line=6]"@
+` Corto su brazo extendido.@
+` Hay cientos de "puntos de muerte" sobre su cuerpo.@
+` Pero, más allá de eso,
+` profundamente dentro de él, en su verdadero centro, puedo ver su "Punto Definitivo".
+\
+` [line=4]No importa cuántas vidas tenga.@
+` Yo sólo voy a matar la "existencia" de Nrvnqsr Chaos.@
+` Por lo tanto, no se trata de matar a Nrvnqsr,
+` sino al caos que es él.@
+` Voy a matar a un mundo entero[line=7]
+\
+` Lo ataco frontalmente.@
+wave se_12
+` Un ligero sonido de impacto.@
+br
+` [line=4]El cuchillo perfora su centro.@
+br
+` Retorciendo sus labios en una sonrisa, el vampiro ríe afónicamente.
+\
+br
+br
+br
+br
+br
+br
+br
+`        "Esto no puede ser."
+\
+` Entumecida,
+` La Bestia Negra comienza a desmoronarse desde las yemas de sus dedos.
+\
+br
+br
+br
+br
+br
+br
+br
+`    "[line=6]¿Tú… eres mi muerte?"
+\
+` Su temperatura corporal disminuye rápidamente.@
+` El final es instantáneo, como la caída de un telón.@
+` Con este único ataque,
+` junto a las 560 bestias restantes, Nrvnqsr Chaos es aniquilado.
+\
+bg #000000,crossfade,800

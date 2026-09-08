@@ -1,0 +1,61 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　메르시－！@
+`　네，드디어　４교시입니다．@
+`　불합리한　데드　엔드를　맞이해　버린　복도　없는　토오노군을　위한　이　코너，
+`“가르쳐줘요！@　시에루선생님！@”시간이　돌아왔습니다．
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`「좋겠네―，시엘은　이것저것　차례가　있어서．@난　정히로인인데　이　취급이야　그림도　대충　그리고」@
+br
+`　자　거기，이상한　어미를　붙이지　마요．@
+`　뭐　어때요，저처럼　무엇이든　물어보세요가　되는　것보다야　관록이　있고요．@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「싫어―，불만이야―！@　나도　시엘같은　차림　하고，머리　좋다는　말　듣고　싶어―！」
+\
+`　…………．@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「내　차례！@　내　차례！@　내　차례！@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+`「내　차례！@　내　차례！@　내　차례！@　내　차　례！@　내　차례！@　시엘　안경！@　내　차례！@　시엘　비켜！@　내　차례！@　시엘　안경！@　내　차　례！@　시엘　촌스러！@　시엘　강판！@　안경시엘！@사이비　프랑스인！@　총포　페치！@　시엘　인도사람！」@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+br
+`　…………（빠직）
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+`「끄으으으으으으응………………」@
+br
+ld r,"tachi/cel_t20",lshutter,400
+`[line=4]자，그럼　강의　들어갑니다．@
+br
+`　이번　사인은　뚜렷하네요．@
+`　나　혼자　힘으로　해결하자！@　라는　기세는　훌륭합니다만，이　사건은　토오노군　혼자　해결할　수　있는　게　아닙니다．@
+`　뭔가를　얻기　위해서는　뭔가를　잃는　것이　세상　일．@
+`　선생님도　슬프지만요，여기는　한　번만　시엘씨와　결별해야　하겠지요．
+\
+bg #000000,crossfade,800
+playstop

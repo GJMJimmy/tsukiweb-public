@@ -1,0 +1,94 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Si voy a la sala de estar, debería haber alguien ahí.@
+br
+` Tener compañía de seguro es más placentero que estar solo.
+\
+bg #000000,lcartain,400
+play "*3"
+bg "bg/bg_34c",lcartain,400
+` Entro a la sala de estar y veo a Kohaku-san.@
+ld c,"tachi/koha_t02",crossfade,400
+`"Ah, Shiki-san.@ ¿Qué puedo hacer por usted?@ La cena estará lista en una hora."@
+`"No, vine para relajarme, no para comer.@ ¿Estoy molestando?"@
+`"Oh, no, por favor entre.@ Veamos…"
+\
+cl a,crossfade,400
+ld c,"tachi/his_t23",tshutter,800
+`"Nee-san, respecto al edificio separado…"@
+`"Hola.@ Perdón por interrumpir, Hisui."@
+ld c,"tachi/his_t01",crossfade,400
+`"…… Bienvenido a casa, Shiki-sama.@ Lamento no haber podido recibirlo anteriormente."@
+`"Está bien, no te preocupes por eso.@ Siento no haberte saludado cuando regresé."@
+ld c,"tachi/his_t02",crossfade,400
+`"[line=7]"@
+` Las mejillas de Hisui se tornan un poco rojas.@
+` Poco a poco, le estoy sonsacando expresiones.@ Estoy complacido.
+\
+cl a,crossfade,400
+ld l,"tachi/koha_t01a",crossfade,400
+`"Qué oportuna.@ Hisui-chan, ¿podrías preparar una bebida para Shiki-san?"@
+ld r,"tachi/his_t01",crossfade,400
+`"Sí.@ Shiki-sama, ¿qué le gustaría beber?"@
+`"Hm.@ Ya que es antes de la cena, creo que un té sería perfecto.@ Sólo vine para charlar, no quiero ser una molestia."@
+`"Entonces, por favor espere un momento."
+\
+cl a,crossfade,400
+bg #000000,tshutter,800
+bg "bg/bg_34c",bshutter,800
+` Hisui regresa con tres tazas de té, y el tiempo pasa lenta y silenciosamente.@
+br
+`"Ah, por cierto, Hisui, ¿estabas hablando sobre el edificio separado anteriormente?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sí.@ ¿Tiene alguna pregunta al respecto?"@
+`"Mm, no particularmente, pero Akiha dijo que ya nadie puede ir a ese lugar.@ ¿Sucedió algo ahí durante mi ausencia, por casualidad?"
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t02b",crossfade,400
+`"No, nada parecido.@ Sólo sirve de alojamiento para sirvientes, así que no hay razón para que vaya allá, Shiki-san."@
+`"¿Alojamiento para sirvientes……?"@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Sí.@ Aunque ahora sólo somos Hisui-chan y yo, hace poco habían más de diez sirvientes trabajando en la mansión.@ Ya que no hay espacio para tantas personas en la mansión, fue construido el edificio separado."
+\
+cl a,crossfade,400
+ld r,"tachi/his_t09",crossfade,400
+`"Nee-san[line=3]no debes hablar sobre eso."@
+ld l,"tachi/koha_t11",crossfade,400
+`"Ah."@
+cl a,crossfade,400
+` Hisui dice eso, y Kohaku-san mira alrededor con cara de culpa.@
+` …… No hay señal de Akiha.@ Kohaku-san deja salir un suspiro de alivio.
+\
+ld c,"tachi/koha_t04b",crossfade,400
+`"¡Shiki-san!"@
+`"Ah… Sí, ¿qué sucede…?"@
+`"…… ¡La plática que tuvimos es un secreto!"@
+` Kohaku-san sujeta fuertemente mi mano.@
+`"Ah, sí[line=3]no se lo diré a Akiha."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Sí, gracias."@
+` Kohaku-san suspira aliviada una vez más.@
+` Parece que Akiha prohíbe hablar sobre el edificio separado.
+\
+cl a,crossfade,400
+` [line=4]Pero, ¿por qué?@
+` El edificio separado que solía ser el alojamiento de los sirvientes.@
+` Akiha no quiere que nadie vaya a ese lugar.
+\
+`"Oye, Kohaku-san.@ ¿Por cuánto tiempo ha estado en desuso el edificio separado?"@
+ld l,"tachi/koha_t11",crossfade,400
+`"Uhhh… ¿Hisui-chan?"@
+ld r,"tachi/his_t01b",crossfade,400
+`"…………"@
+` Hisui niega con la cabeza silenciosamente.@
+` Parece que ni siquiera se puede hablar de eso.@
+`"¿Qué?@ ¿Es un secreto?"
+\
+ld r,"tachi/his_t01",crossfade,400
+`"[line=3]Sí.@ Hablar sobre el edificio separado sería malo para su salud, Shiki-sama."@
+` Y con esa respuesta final, concluye la charla sobre el edificio separado.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

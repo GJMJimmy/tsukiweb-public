@@ -1,0 +1,61 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Merci ！@
+`　hi，终于到了第四次了。@
+`　为了再次光顾不讲理的Dead End 的远野君所准备的、
+`“教教我吧！@知得留老师！@”的时间又到了。
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`「真好啊ー，希耶尔的出镜率这么高我虽然是女主角可还是被那帮家伙们画得跟涂鸦似的」@
+br
+`　喂喂，不要说这么奇怪的话嘛。@
+`　这有什么不好的，不像我这样需要收拾各种各样的烂摊子。@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不嘛ー、不满ー！@　我也想穿成希耶尔这样子、让别人夸我聪明嘛ー！」
+\
+`　…………。@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不能出场！@　不能出场！@　不能出场！@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+`「不能出场！@　不能出场！@　不能出场！@　不能出场！@　不能出场！@　希耶尔眼镜！@　希耶尔低级！@　希耶尔下台！@　眼镜希耶尔！@　假法国人！@　手枪控！@　希耶尔印度！」@
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+br
+`　…………（呣嘎）
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+`「呜啊啊啊啊啊啊啊啊………………」@
+br
+ld r,"tachi/cel_t20",lshutter,400
+`[line=4]接下来，开始授课。@
+br
+`　这次的死因非常明确。@
+`　自己一个人全部解决吧！@　虽说这种气势很了不起，这次的事件不是远野君一个人所能解决的。@
+`　为了获得些什么总要失去一些东西，这是世间常识。@
+`　虽然老师我也很伤心，这一次你应该和希耶尔小姐告别了。
+\
+bg #000000,crossfade,800
+playstop

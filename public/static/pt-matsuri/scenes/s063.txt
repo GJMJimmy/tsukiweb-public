@@ -1,0 +1,20 @@
+playstop
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Eu decido comer no refeitório caótico e lotado de estudantes.@
+br
+` O udon e o sobá são as melhores refeições que se tem para comer nessa escola, por isso decido comer udon.
+\
+` Vou para uma mesa e começo a comer meu tanuki udon.@
+` Está passando o noticiário na televisão do refeitório.@
+` A televisão foi ligada para que os estudantes possam assistir, durante o almoço, o noticiário que gravaram de manhã.
+\
+` O notíciário está dando uma cobertura especial aos assassinatos em série.@
+` Já faz um mês desde que os assassinatos começaram, mas ninguém tem ideia de quem é o assassino.@
+` Ele é um demônio que não deixa vestígios de sua presença e age sem nenhum motivo.@
+` Sua identidade permanece um mistério, embora já tenham acontecido oito assassinatos em nossa pequena cidade.@
+` Segundo o noticiário, é um caso muito assustador.
+\
+bg #000000,crossfade,800
+!w2000

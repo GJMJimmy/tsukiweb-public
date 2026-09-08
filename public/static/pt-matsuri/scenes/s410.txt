@@ -1,0 +1,35 @@
+bg #000000,notrans,0
+playstop
+waveloop se_11
+!w4000
+bg "bg/bg_40a",crossfade,800
+` ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… Eu não ouço mais o som irritante do relógio.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` Toc toc, To[line=4]c.@
+br
+` O ritmo da minha respiração está totalmente irregular e não consigo fazê-la voltar ao normal.@
+` …… Está extremamente frio.@
+` Já que está tão frio assim, quero parar de me preocupar com tudo[line=4]quero apenas dormir.
+\
+bg #000000,crossfade,800
+` Toc to, Toc.@
+` To, To, Toc.@
+` Toc To Toc, To Toc.@
+` Toc, To, Toc[line=3]To.@
+` Toc, To Toc, To[line=5]Toc toc.@
+` To[line=5],,,,,,Toc toc.@
+` ,,,,[line=3]Toc To, Toc toc.@
+br
+`"[line=8]"@
+br
+` Acho que ouvi alguém batendo na porta.@
+` Talvez seja a Hisui.@
+` Mas o meu corpo já não se mexe mais.@
+` Tohno Shiki[line=4]vai viver eternamente nesta jaula e ninguém vai matar o Tohno Shiki…
+\
+bg #ffffff,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

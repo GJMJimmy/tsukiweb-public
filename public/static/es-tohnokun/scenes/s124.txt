@@ -1,0 +1,20 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Buenos días a ambas."@
+ld r,"tachi/koha_t01a",lshutter,400
+`"Buenos días, Shiki-san."@
+` Vistiedo un delantal blanco que le queda bien, Kohaku-san responde con una sonrisa que no podría ser más grande de ninguna manera.@
+cl r,crossfade,400
+` Al contrario, Akiha sólo me echa un vistazo.@
+ld l,"tachi/aki_t01a",lshutter,400
+`"Buenos días.@ Ciertamente te has tomado tu tiempo esta mañana, Nii-san."@
+` Ella ciertamente sabe cómo desanimar las cosas.
+\
+`"¿Me tomé mi tiempo?@ ¡Apenas son poco más de las siete!@ Sólo toma treinta minutos llegar a la escuela desde aquí, así que en realidad me he levantado temprano."@
+ld l,"tachi/aki_t18a",crossfade,400
+`"¿Entonces estás diciendo que vas a terminar el desayuno en sólo diez minutos?@ No eres algún perro hambriento, y si vas a desayunar, quisiera que te tomaras tu tiempo."@
+cl l,crossfade,400
+`"[line=6]"@
+` Las palabras de Akiha en verdad tienen espinas.
+\

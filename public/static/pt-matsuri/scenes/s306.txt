@@ -1,0 +1,291 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",lcartain,800
+` Chegando na sala de estar vejo a Akiha sentada no sofá, a Kohaku-san está fazendo companhia a ela e a Hisui está de pé perto da parede.@
+ld c,"tachi/koha_t03",lshutter,400
+`"Bom dia, Shiki-san."@
+`"Bom dia, Kohaku-san.@ Desculpa te incomodar, mas será que você poderia preparar algo para eu comer?@ Estou morrendo de fome de tanto dormir."@
+ld c,"tachi/koha_t02",crossfade,400
+`"Claro, agora mesmo.@ Não vou demorar muito."@
+cl c,lshutter,400
+` Ela vai rapidamente na direção da sala de jantar.
+\
+` E assim ficamos só nós três aqui, e a Hisui paralisada como uma estátua.@
+`"…… Oi, Akiha.@ Bom dia."@
+ld c,"tachi/aki_t02b",lshutter,400
+`"……………………"@
+` Ela apenas me observa com um olhar de insatisfação e não me cumprimenta de volta.@
+`"…………… Hum."@
+` Eu sabia que ela ia estar chateada por causa de ontem.@
+` Ela me disse que era proibido sair de noite e mesmo assim eu saí.@ É claro que vai estar brava comigo.
+\
+`"Akiha.@ Com relação à noite passada[line=3]"@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Nii-san.@ Como pôde continuar dormindo até agora… No que estava pensando?"@
+`"Hein[line=3]hum, bem, eu… Desculpa."@
+ld c,"tachi/aki_t21b",crossfade,400
+`"…… Francamente, não é com isso que estou brava.@ É seu dia de folga e você escolheu dormir até a essa hora.@ É essa sua preguiça que me deixa brava!"@
+cl c,lshutter,400
+` Resmungando um "hmph", ela desvia o olhar parecendo meio brava.@
+` …… Talvez seja só a minha imaginação, mas está mais para "rabugenta" do que "brava".
+\
+`"Não foi minha culpa.@ Eu deitei tarde e estava muito cansado."@
+ld c,"tachi/aki_t06b",lshutter,400
+`"Foi culpa sua sim.@ Você ficou na rua até depois da meia-noite… Que tipo de vida você levava quando morava com os Arimas, Nii-san!?"@
+`"Hum…… Lá eu também tinha um toque de recolher rigoroso.@ Também não me era permitido sair de noite e……"
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Ah, então é assim!?@ Na casa dos Arimas você seguia as regras direitinho mas foi só chegar aqui e esquecer que as regras existiam?@
+` …… Ou seja, você não consegue seguir nem o meu pedido mais simples, não é mesmo?@ Neste caso, talvez eu tenha que recorrer a um castigo físico."@
+` A fúria da sua intenção transborda pelos seus olhos.@
+` …… Como devo dizer?@ Ela só pode estar brincando, mas não está parecendo uma brincadeira de jeito nenhum e isso é bem assustador.
+\
+`"…… Castigo físico?@ Você está começando a me assustar, Akiha."@
+ld c,"tachi/aki_t21b",crossfade,400
+`"Foi apenas um exemplo.@ Você ficou acordado até muito tarde e só levantou quando deu vontade!@ É claro que eu preciso ser muito rigorosa com você."@
+` Ela suspira.@
+` …… Odeio ter que admitir, mas ela está certa.
+\
+ld c,"tachi/aki_t02b",crossfade,400
+`"Além disso, Nii-san.@ Você não deveria ter deixado a Hisui te acordar de manhã?@
+` Ainda bem que hoje é domingo, mas independente disso você sempre dorme demais."@
+`"…… Olha, Akiha.@ Eu sei que não deveria tentar me defender, mas eu não durmo demais de propósito."@
+ld c,"tachi/aki_t03b",crossfade,400
+`"O quê?@ Então como é que você sempre dorme até o último segundo todas as manhãs?@ Você não sabe como me sinto enquanto fico te esperando acordar até o último minuto e[line=4]"
+\
+cl c,lshutter,400
+ld l,"tachi/his_t01",lshutter,400
+`"Akiha-sama."@
+ld r,"tachi/aki_t16b",lshutter,400
+`"Ah[line=4]"@
+`"………?"@
+` Para onde foi aquele clima tenso e ameaçador?@ A Akiha fica em silêncio subitamente.
+\
+`"Olha, Akiha.@ Eu já te falei que não faço isso por querer, eu simplesmente acordo depois das sete horas da manhã.@
+` Bem que eu queria acordar mais cedo, mas o meu corpo não me obedece.@
+` Se quiser me ajudar a acordar mais cedo, é só me dar de presente um despertador bem barulhento.@ Tenho certeza que assim eu acordaria."@
+ld r,"tachi/aki_t12b",crossfade,400
+`"…… Nii-san?@ Acho que vou fazer uma pergunta meio idiota, por acaso você já falou para a Hisui o horário que ela deve te acordar?"@
+`"[line=4]Ah."@
+` É mesmo, eu esqueci algo tão bobo.
+\
+`"Ah, é mesmo.@ A Hisui vai lá me acordar toda manhã, então não tem problema marcar um horário.@
+` Hisui, por favor, você poderia me acordar todos os dias às seis e meia da manhã?@ Vai ser de grande ajuda……"@
+` Eu me viro para encarar a Hisui.@
+` Ela me encara de volta.
+\
+ld l,"tachi/his_t01b",crossfade,400
+`"Eu me recuso."@
+`"Mas[line=4]hein?"@
+ld r,"tachi/aki_t15b",crossfade,400
+ld l,"tachi/his_t01",crossfade,400
+`"Perdoe-me, mas eu me recuso, Shiki-sama."@
+`"Ah, bem, hummmm[line=2]"@
+` Não sei o que responder.@ O choque pausou o meu cérebro momentaneamente.@
+` A Akiha também está boquiaberta de surpresa.
+\
+ld r,"tachi/aki_t01b",crossfade,400
+`"Hisui, por que você não pode acordar o Nii-san?"@
+ld l,"tachi/his_t17",crossfade,400
+`"É uma tarefa que sou incapaz de realizar.@
+` Acredito que sou incapaz de acordar o Shiki-sama sozinha."@
+`"[line=4]Incapaz?@ Como assim?"@
+` Entro no meio da conversa delas.@
+` A Hisui continua me encarando.
+\
+ld l,"tachi/his_t08",crossfade,400
+`"Neste últimos três dias todos os meus esforços foram em vão.@
+` Shiki-sama, você se lembra de quantas vezes eu chamei o seu nome hoje de manhã?"
+\
+`"Não, não me lembro[line=4]eu acordei foi com você me chamando?@ Pensei que tinha acordado sozinho……"@
+ld l,"tachi/his_t01",crossfade,400
+`"Isso significa que você nem possui qualquer lembrança de eu estar te chamando.@[line=4]Akiha-sama, essa é a situação."@
+ld r,"tachi/aki_t18b",crossfade,400
+`"Ah, já entendi tudo" é o que Akiha diz enquanto me observa em tom de provocação.@
+` …… Hummm, como deve dizer… Parece que a minha posição nesta casa acabou de cair e muito.
+\
+`"Resumindo, você tentou acordar o Nii-san inúmeras vezes, mas ele nem reagiu[line=3]foi isso que aconteceu, Hisui?"@
+` A Hisui apenas afirma com um gesto de cabeça.@
+`"………………"@
+` Eu faço a mesma coisa.@
+` …… Já entendi tudo.@ A verdade é que a Hisui tem tentado me acordar cedo há muito tempo.@
+` É difícil ter que admitir, mas eu realmente durmo como uma pedra.
+\
+ld r,"tachi/aki_t02b",crossfade,400
+`"……… Nii-san.@ Por que parece que você está tão orgulhoso de si mesmo?"@
+`"Ah, por nada.@ Só estou surpreso pelo quão difícil que é me acordar."@
+`"…… Humm.@ Sei.@ Hisui, assim como já tem feito, por favor, continue tentando acordar o Nii-san."@
+` A Hisui apenas concorda com um gesto de cabeça.@
+br
+` Parece que a conversa acabou.@
+` No final das contas, acho que vou acabar acordando na hora que bem entender.
+\
+ld r,"tachi/aki_t01b",crossfade,400
+`"A propósito, Hisui?"@
+`"Sim?"@
+ld r,"tachi/aki_t12b",crossfade,400
+`"O Nii-san não acorda de jeito nenhum?@ Mesmo quando você chama o chama pelo nome, ele não responde?"@
+ld l,"tachi/his_t02",crossfade,400
+`"[line=3]Não.@ O sono do Shiki-sama é muito silencioso, é como se fosse uma estátua quando está dormindo."@
+`"……………?"@
+` …… Como se eu fosse uma estátua?@ Sério?
+\
+ld r,"tachi/aki_t08b",crossfade,400
+`"Ah, o Nii-san dorme em uma postura muito boa então?"@
+ld l,"tachi/his_t21",crossfade,400
+`"Não, não foi o que eu quis dizer[line=4]como devo explicar… Hum, é como se o Shiki-sama fosse uma pessoa completamente diferente quando está dormindo.@
+` Eu nunca tinha visto um rosto tão tranquilo durante o sono, por isso quando o vi pela pela primeira vez, pensei que ele tivesse morrido[line=3]"
+\
+ld l,"tachi/his_t20",crossfade,400
+`"Portanto, não é que seja tão difícil assim de acordá-lo, é que me parece algo extremamente rude de se fazer, por isso não consigo fazer nada além de ser muito gentil com  ele.@
+` Quando o Shiki-sama está prestes a acordar sozinho, o calor retorna ao seu rosto esbranquiçado e assim eu sei que ele já está para acordar, mas[line=3]"@
+` Com a cabeça baixa, a Hisui explica como eu fico quando estou dormindo.
+\
+`"……………"@
+` …… Nossa, estou com muita vergonha agora.@
+` Pensando bem, quando uma pessoa está dormindo ela está completamente indefesa e depois de ouvir ela falar isso tudo de mim, acabo ficando vermelho como um tomate, é como se ela tivesse me visto pelado.@
+` A Hisui fica em silêncio e a Akiha obviamente está tentando não olhar na minha direção.@
+ld r,"tachi/aki_t16b",crossfade,400
+`"…………"@
+` O ambiente ficou meio pesado.
+\
+cl a,lshutter,400
+ld c,"tachi/koha_t02",lshutter,400
+`"Desculpe a demora!@ Shiki-san, o café da manhã está prontoooo!"@
+` Uma voz animada salva a situação.@
+`"O-obrigado.@ Bem, vou lá comer!"@
+`"Coma bastante."@
+` Dando as costas ao sorriso da Kohaku-san, vou para a sala de jantar.
+\
+bg #000000,crossfade,400
+!w2000
+bg "bg/bg_34a",lcartain,400
+` Depois do almoço, a Akiha e a Hisui continuam na sala de estar.@
+` Seria falta de educação ignorá-las e voltar para o meu quarto, por isso me sento no sofá em frente à Akiha.
+\
+ld l,"tachi/koha_t02b",lshutter,400
+`"Aqui está, Shiki-san.@ Você prefere chá verde, não é?"@
+` A Kohaku-san coloca uma xícara de chá pós-refeição na mesinha ao meu lado.@
+`"Isso mesmo, obrigado.@ Bem, se não se importar, já vou tomá-lo."@
+`"Mas é claro não.@ Esta é a sua casa, você precisa é relaxar mais aqui dentro."@
+` Ela deve estar tentando fazer com que eu me sinta mais à vontade já que cuida tão bem de mim.
+\
+`"…… Poxa.@ Acho que já me acostumei com este lugar.@ Por acaso ainda pareço meio deslocado?"@
+`"Sim, um pouquinho.@ Seus ombros estão meio tensos.@ Eu não diria que você precisa agir como no passado, mas certamente poderia relaxar um pouco mais."
+\
+ld r,"tachi/aki_t03b",lshutter,400
+`"Kohaku, não quero que você mime o Nii-san.@
+` Ele esteve vivendo como um bicho-preguiça na casa dos Arimas por muito tempo, é bom que fique um pouco tenso agora no início."
+\
+ld l,"tachi/koha_t05b",crossfade,400
+`"Hehehehe.@ Akiha-sama, você é muito rigorosa com o Shiki-san?"@
+ld r,"tachi/aki_t05b",crossfade,400
+`"Não é minha intenção ser rigorosa.@ É que como ele sempre vive no mundo da lua, eu preciso cuidar dele."
+\
+cl a,lshutter,400
+` "……… Hã?"@
+` Estou surpreso.@
+` Quando a Akiha está conversando com a Kohaku-san, não percebo qualquer indício da sua frieza habitual.@
+` Talvez seja por terem quase a mesma idade[line=4]elas parecem ser boas amigas.
+\
+`"………"@
+ld c,"tachi/his_t01",lshutter,400
+` Olho para a Hisui.@
+cl c,lshutter,400
+` Como a Akiha despediu todos os outros empregados com exceção da Hisui e da Kohaku-san, acho que a Hisui também deve ser alguém de muita confiança para a Akiha.@
+` Só que como a Kohaku-san é o seu completo oposto em personalidade, acredito que não deve haver muitas conversas entre a Hisui e a Akiha.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Posso ajudar, Shiki-sama?"@
+` A Hisui percebe que estou a encarando e me pergunta se quero alguma coisa.@
+`"Não, não é nada.@ Estava só pensando em como você é uma pessoa tranquila."@
+`"[line=3]Sim.@ O Makihisa-sama me ensinou a ser assim."@
+cl c,lshutter,400
+` Ela responde de forma inesperada.@
+` …… A resposta foi tão estranha que não consigo continuar o assunto.@
+`"………………"@
+` Fico desconfortável e paro de falar.
+\
+` Como se sentisse o clima entre nós, a Kohaku-san dá início a um novo assunto.
+\
+ld l,"tachi/koha_t02b",lshutter,400
+`"Shiki-san.@ Posso fazer uma pergunta?"@
+`"Hein[line=3]ah, claro.@ O que foi?"@
+`"Você saiu da mansão na noite passada novamente, portanto gostaria de saber se você tem algum compromisso de rotina todas as noites."@
+`"Ah[line=3]não, não tenho compromissos marcados todas as noites.@ Esses últimos dois dias foram uma exceção."@
+` Olha para a Hisui.@
+ld r,"tachi/his_t01",lshutter,400
+` Ela apenas nos observa sem dizer nada.
+\
+cl r,lshutter,400
+`"Pode ficar tranquila, Kohaku-san.@ Não vou sair de noite mais.@ Além disso, eu não sou mais criança, não é perigoso assim sair de noite."@
+ld l,"tachi/koha_t04b",crossfade,400
+`"Ah!@ Como tem coragem de dizer uma coisa dessas, Shiki-san!?@ Hisui-chan, você não pensa como eu?"@
+ld r,"tachi/his_t01",lshutter,400
+`"É como a Nee-san diz.@ Shiki-sama, você é o filho mais velho da família Tohno.@ Por favor, abstenha-se de qualquer comportamento descuidado."
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`"Viu, até a Hisui-chan está brava.@ Além disso, você tem anemia, por isso não deve se esforçar.@
+` Foi o seu médico pessoal que me disse isso, Shiki-san."@
+`"…… Eu sei, mas isso não tem nada a ver com eu sair de noite.@ Se eu não puder sair de casa sozinho, então não posso ir para escola também, estou errado?"@
+ld l,"tachi/koha_t02b",crossfade,400
+`"Está sim.@ Durante o dia o céu está claro e as pessoas podem te ajudar caso precise.@ Durante a noite é bem diferente.@ Está acontecendo esse monte de assassinatos que dizem ser um vampiro, por isso o que acha que vai acontecer se você sair sozinho e desmaiar na rua à noite?"@
+`"Ah…………"
+\
+cl a,lshutter,400
+` Meu corpo estremece.@
+` A vampira assassina.@ A pessoa que matava indiscriminadamente durante a noite.
+\
+`"…… Não se preocupe, Kohaku-san.@ Já não existe mais nenhum vampiro lá fora.@ …… Aquelas mortes… Não vão mais acontecer."@
+` Porque a Yumizuka Satsuki… Não está mais neste mundo.@
+ld l,"tachi/koha_t09b",lshutter,400
+`"Ah?@ É verdade, Akiha-sama?"@
+ld r,"tachi/aki_t01b",lshutter,400
+`"Eu não ouvi nada sobre isso.@ Pergunte ao Nii-san, já que ele parece saber alguma coisa sobre o assunto.@
+` Ah, é mesmo, parece que uma das vítimas era da sua escola, Nii-san.@ Da classe três do segundo ano, é a sua classe, certo?"@
+`"Hã……?@ Não houve nenhuma vítima da minha classe."
+\
+ld l,"tachi/koha_t03b",crossfade,400
+` "É porque você não assistiu o noticiário dessa manhã, Shiki-san.@ Ontem à noite, encontraram uma grande quantidade de sangue de uma pessoa chamada Yumizuka Satsuki em um beco.@
+` Parece que o sangue estava lá fazia um bom tempo, mas por causa da quantidade encontrada, disseram que não tinham dúvidas de sua morte."
+\
+wave se_01
+`"[line=7]"@
+` …… Meu coração começa a bater violentamente.@
+` Sei melhor do que qualquer um que ela está morta.@
+` Mas quando outra pessoa diz que ela está morta, soa como se dissessem para mim: "Você matou ela, não foi?"[line=4]
+\
+ld r,"tachi/aki_t12b",crossfade,400
+`"[line=3]Nii-san?@ Qual o problema?@ Você está pálido."@
+`"[line=3]Não[line=4]eu[line=3]não é nada[line=3]"@
+` Meu bom humor começa a desaparecer.@
+` Graças a Hisui, meu coração estava bem calmo, mas agora com esse assunto quase que desmaio.@ Será que o meu coração é assim tão fraco?
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`"Gente, por que não fazemos uma festa de boas-vindas!?"@
+` De repente,
+` a Kohaku-san anuncia isso em voz alta.@
+br
+ld r,"tachi/aki_t01b",crossfade,400
+` [line=4]Hã?@
+` A Akiha e eu dizemos a mesma coisa e até a Hisui parece ter ficado surpresa, pois inclinou a cabeça.
+\
+ld l,"tachi/koha_t15",crossfade,400
+` "Vamos fazer uma festa de boas-vindas para o Shiki-san!@ Estamos todos presentes e ainda não celebramos a chegada dele.@
+` Então, essa noite vai ser a festa de boas-vindas do Shiki-san."@
+` "Certo?" A Kohaku-san olha para mim e sorri.@
+`"………………"@
+` …… Merda.@
+` Por que tanto a Hisui quanto a Kohaku-san são capazes de ler meus sentimentos desse jeito?
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`"Akiha-sama, isso é aceitável?@ Caso você permita, podemos começar os preparativos imediatamente."@
+ld r,"tachi/aki_t09b",crossfade,400
+`"Sim, o Nii-san finalmente voltou para casa e realmente não fizemos nada para celebrar.@ Acho que é uma boa ideia, você tem algo contra Hisui?"@
+cl l,lshutter,400
+ld l,"tachi/his_t23",lshutter,400
+`"De forma alguma, se o Shiki-sama concordar, não acho que seja uma má ideia."@
+cl a,lshutter,400
+` As três garotas se viram e me encaram.@
+` Eu[line=3]
+\

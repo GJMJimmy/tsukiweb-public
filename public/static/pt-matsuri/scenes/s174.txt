@@ -1,0 +1,68 @@
+monocro off
+wavestop
+bg "bg/bg_56",notrans,0
+play "*1"
+` …… É mesmo.@
+` Estive ajudando a Arcueid a procurar por esse "inimigo", mas ainda nem sei que tipo de pessoa ele é.@
+br
+`"Então me diga.@ Arcueid, esse 'inimigo', que tipo de vampiro ele é?@ Você está procurando ele faz muito tempo, quer dizer que sabe como ele é, né?"@
+ld c,"tachi/ark_t10",crossfade,400
+`"Bem[line=4]eu[line=4]"@
+` Ela desvia o olhar.
+\
+`"O que foi?@ Você não disse que ia responder qualquer coisa que eu perguntasse?"@
+ld c,"tachi/ark_t14",crossfade,400
+`"Sim, mas ouça sem ficar bravo.@
+` Eu só descobri sobre o vampiro nesta cidade recentemente.@ Eu vim o mais rápido que pude quando descobri que o 'inimigo' estava neste país e nesta cidade, mas nunca me encontrei com ele.@
+` Então, para ser sincera, eu não sei de nada sobre o 'inimigo' desta vez."@
+`"Não sabe de nada?[line=4]Você não reconheceu o Nrvnqsr logo de cara?"
+\
+`"O Nrvnqsr era famoso, e ele nunca mudou de aparência.@
+` O "inimigo" que estou perseguindo não é um vampiro muito forte, ele possui inúmeras habilidades e aparências diferentes, por isso desta vez eu não faço ideia de quais são suas características ou especialidades.@
+` Eu sinto muito, Shiki[line=3]mas é só isso que tenho para dizer sobre ele."@
+br
+` …… Eu sei que ela não está mentindo.@ Eu sei disso, mas mesmo assim, sinto que está escondendo alguma coisa.@
+` Só não sei o quê[line=4]
+\
+`"Tudo bem.@ Não é sua culpa, você simplesmente não sabe.@
+` Mas[line=4]ao menos o nome desse 'inimigo' você sabe, né?"@
+cl c,crossfade,400
+`"N[line=4]nome?"@
+`"É, o nome dele."@
+` Ela fica cabisbaixa e em silêncio.@
+` Ela não quer me falar o nome dele por algum motivo, e parece perturbada com o assunto.@
+br
+` Bem, não estou surpreso.
+\
+ld c,"tachi/ark_t05c",crossfade,400
+`"[line=4]O nome dele."@
+` Uma frieza paira no ar.@
+` Eu sinto um frio tão grande que parece que vai congelar o lugar todo.@
+br
+`"Shiki, o nome dele é……"@
+` Ela está com dificuldades para dizer.@
+br
+`"…… O nome dele é Michael.@ Michael Roa Valdamjong.@
+` Ele é chamado de Uroboros, um Apóstolo da Morte que costumava ser humano."@
+` Ela fala enquanto permanece olhando para baixo.@
+` Emanando pura hostilidade, como se estivesse cuspindo sangue.@
+cl c,crossfade,400
+\
+`"Arcueid, você[line=4]"@
+`"[line=6]"@
+` Seus ombros estão tremendo.@
+` Parece que ela está se controlando para não entrar em fúria.@
+`"…… Desculpe-me.@ Eu não devia ter perguntado.@ Está tudo bem, pode esquecer esse assunto."@
+` Ela balança a cabeça.@
+` Como se tentasse dizer que nunca poderia esquecer.@
+br
+` Segue um período de silêncio entre nós.
+\
+`"[line=6]Desculpa."@
+` A Arcueid diz isso, ainda olhando para baixo.@
+`"[line=4]Hum."@
+` Eu dou uma resposta evasiva.@ Nós dois levantamos automaticamente dos nossos assentos e saímos do restaurante.
+\
+bg #000000,lcartain,800
+playstop
+!w2000

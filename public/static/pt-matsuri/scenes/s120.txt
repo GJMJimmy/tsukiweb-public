@@ -1,0 +1,822 @@
+monocro off
+playstop
+wavestop
+bg #000000,notrans,0
+` …… Se tem alguém vindo ao meu quarto, só pode ser a Kohaku-san, a Hisui ou a Akiha.@
+` A Hisui e a Kohaku-san provavelmente bateriam na porta, de forma que sobra apenas a Akiha……@
+`"…………… Akiha?"@
+` Sento na cama e chamo seu nome.@
+` O luar ilumina vagamente o quarto, por isso mal consigo enxergar.@
+` Olho em volta, mas não vejo a silhueta de ninguém.
+\
+`"…… Deve ser minha imaginação……"@
+` Minha mente deve estar entorpecida de tanto sono.@
+` Deixo escapar um suspiro e rolo para o lado.@
+bg "bg/bg_40c",notrans,0
+` A luz na minha mesa de cabeceira está acesa.@
+wave se_01
+`"[line=6]Hã?"@
+` Meu coração acelera.@
+`"…… Que estranho.@ Não me lembro de tê-la acendido……"@
+bg "bg/bg_40d",crossfade,400
+` Apago a luz.@
+` Tenho escola amanhã, preciso dormir um pouco.
+\
+`"Assim não vai dar, Nii-san.@ Precisaremos das luzes acesas para fazer isso."@
+` De repente,
+` por trás de mim, uma voz calma fala.@
+`"[line=5]!"@
+` Eu me viro.@
+` Aí vejo[line=4]
+ld c,"tachi/aki_t04b",lshutter,400
+` A Akiha,
+cl c,crossfade,400
+ld c,"tachi/koha_t03b",lshutter,400
+` e a Kohaku-san.
+\
+cl c,crossfade,400
+play "*1"
+`"Akiha……?@ O que você está fazendo aqui a essa hora?@ E por que a Kohaku-san está com você?@ Aconteceu alguma coisa?"@
+` Sento na cama enquanto falo.@
+` Depois de trocarem olhares, elas riem.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Nossa, Shiki-san, você está muito fora do clima.@ A Akiha-sama e eu estamos aqui por causa de uma coisa."@
+` A Kohaku-san dá uma risadinha.@
+cl c,crossfade,400
+`"……?"@
+` Não entendo o que é tão engraçado.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Kohaku, rir assim é muito rude.@ Entendo como se sente, mas você não deve surpreendê-lo demais.@ Temos que guardar a diversão para mais tarde, não acha?"@
+ld c,"tachi/koha_t12",crossfade,400
+`"Ah, perdoe-me, Akiha-sama.@ É que ele fica tão bonitinho quando não entende coisas simples assim, não pude me segurar."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"…… É verdade.@ O Nii-san realmente é um pouco lerdo.@ Quero dizer, ele nem consegue perceber por que nós duas viríamos aqui tão tarde da noite, nem mesmo consegue entender sua própria posição.@
+` Sim, ele é como um cachorrinho inocente.@ Fofinho, mas sem noção."@
+cl c,crossfade,400
+` Com um sorriso frio, a Akiha olha na minha direção.
+\
+`"Aki[line=2]ha…………?"@
+` Olhando em seus olhos, finalmente consigo entender que há algo de errado com a maneira como elas estão agindo.@
+` …… Como devo dizer isso.@ Não sinto qualquer hostilidade, mas parece que estão planejando alguma coisa.
+\
+`"Akiha, se você quer me dizer alguma coisa, por que não diz logo?@ Temos escola amanhã, já devíamos estar dormindo."@
+` Digo isso tão frio quanto possível.@
+ld c,"tachi/aki_t18b",crossfade,400
+`"………………"@
+` Ela me observa sem dizer uma palavra; parece não estar feliz com alguma coisa.@
+` Não, é mais do que isso…
+` A Akiha suspira.@
+`"…… Pensei que o Nii-san estaria mais excitado, mas estou chocada que ele não esteja entrando no clima."@
+` Ela está falando como se eu nem estivesse aqui.
+\
+`"[line=4]?@ Hum, Akiha.@ Ainda não sei o que você está tentando dizer, mas……"@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Francamente, Nii-san.@ Que tipo de educação você teve na casa dos Arimas?@
+` Veja bem, alguém do sexo oposto está no seu quarto à noite.@ Um cavalheiro da sua idade deveria estar excitado só por isso, mas você está agindo normalmente.@ É mais do que normal uma mulher como eu ficar chocada com isso."@
+` Ela me olha fixamente.
+\
+`"…… Espera um pouco, Akiha.@ Eu perceberia se garotas estivessem no meu quarto, mas vocês são diferentes.@ Nós somos irmãos, então isso não é grande coisa, e a Kohaku-san vem aqui para verificar se está tudo bem todas as noites."@
+` Sim, é por isso que nada disso é surpreendente.@
+` A Akiha é minha irmãzinha e a Kohaku-san é uma empregada.@
+` Não é nada de mais elas virem aqui de dia ou de noite, por isso eu realmente não[line=4]
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Em outras palavras, Nii-san, você nos vê mais como família do que como mulheres?@
+` ………… Entendo.@ Seria bom para você se isso fosse realmente verdade."@
+` Ela me olha novamente, com aquele sorriso estranho.@
+` Aquele olhar calmo que parece ler minha mente.@
+`"[line=8]"@
+` Tu, dum.@ Meu coração começa a acelerar.@
+` …… Tem algo estranho aqui.@
+` Por estar sendo olhado assim pela Akiha, começo a me sentir mais e mais inquieto.
+\
+` …… Por vários motivos,
+br
+` Como meus verdadeiros sentimentos, de ainda não ser capaz de aceitar a Akiha como minha irmã, já que ela mudou tanto desde a última vez que a vi.@
+br
+` Como meus verdadeiros sentimentos, de começar a sentir mais afeto pela Hisui e pela Kohaku-san, mais do que deveria sentir por simples empregadas.@
+br
+` É como se ela estivesse vendo meus sentimentos escondidos e me sinto culpado por isso.
+\
+`"Hum?@ Qual o problema, Nii-san?@ Desviando o olhar assim de repente… parece até que você está escondendo alguma coisa."@
+`"O qu[line=4]"@
+` Percebo que minhas bochechas estão ficando vermelhas.@
+`"C-claro que não estou……!@ Apenas me diga o que quer.@ Se não dormirmos logo, amanhã será difícil."@
+` Para não ser derrotado, correspondo o olhar dela.@
+br
+` E então,
+` por alguma razão, a Akiha suspira entediada.
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Que decepcionante.@ Estava ansiosa para ver seu rosto confuso, Nii-san.@ Mas isso é chato.@
+` Bem, como vamos vê-lo ficar muito mais envergonhado agora, acho que tudo bem."@
+`"Hã[line=6]?"@
+` Saio da cama.@
+` Espera um pouco.@
+` Acho que ela acabou de dizer uma coisa terrível[line=5]
+\
+`"Akiha, o que você[line=3]"@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Hum?@ Está conseguindo ficar de pé com o corpo assim?@
+` Você tem anemia, portanto deveria ficar mais calmo durante a noite.@
+` Parece que você ainda está com sono e também está cansado por causa dos últimos dias, certo?@ Por favor, preste mais atenção à sua saúde, Nii-san.@ Seu corpo é muito fraco.@
+` Você não vai desmaiar se continuar se esforçando desse jeito?"@
+`"O qu[line=6]"@
+br
+wave se_01
+` [line=5]Tu, dum.@
+`  Suas palavras parecem me afetar.
+\
+`"[line=3]O que está dizendo?@ Estou bem[line=3]"@
+`"Ah?@ Engraçado, você parece um pouco tenso.@
+` Como se…… sim, sua respiração vai ficar mais ofegante, o sangue vai correr mais devagar em suas veias e, veja, suas mãos e pés vão começar a ficar frios."@
+br
+wave se_01
+` [line=5]Tu, dum.@
+br
+`"Ei[line=4]Pare.@ Se você disser isso[line=5]"@
+` Realmente… vou ficar… tonto[line=3]
+\
+playstop
+waveloop se_02
+ld c,"tachi/aki_t18b",crossfade,400
+`"Não, não é apenas a sua imaginação.@ Seu corpo estava estranho desde que chegamos, mas você não havia percebido, Nii-san.@
+` Entendeu agora?@ A Kohaku estava rindo naquela hora porque você nem mesmo havia percebido isso.@
+` Você está tão fraco que pode desmaiar a qualquer momento, mas você nunca pensa na sua condição, Nii-san."
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Você é como um espantalho e é o único que não percebe isso.@
+` Vestindo roupas velhas, braços e pernas de bambu.@ De longe ele parece humano… mas quando visto de perto, é apenas algo feito para assumir a forma humana."@
+br
+`"O qu[line=5]"@
+` Por que ela começou a falar essas bobagens?[line=5]
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Sério, ainda não entendeu?@
+` Seu rosto está pálido e sua mente está dormente.@
+` Você realmente é só um espantalho.@ Não concorda, Kohaku?@ Que o Nii-san é como um enfeite que pode quebrar a qualquer momento?"@
+`"Estúpi…… Isso, não pode[line=4]"@
+br
+` ser verdade.@ Não pode, mas…
+` Por que[line=4]por que estou me sentindo tonto de verdade[line=4]
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"Veja, você já está no seu limite.@
+` Pare de se esforçar e deite-se.@
+` Mas vai ficar acordado.@
+` Você não será capaz de mover seus braços e pernas, mas ainda vai estar consciente."@
+`"Estúp[line=3]par……… e[line=4]"@
+br
+` Meu corpo desmorona.@
+` Estou caindo em direção à cama, exatamente como a Akiha disse[line=3]
+`"[line=4]"@
+` Não.@ Meu corpo não está estranho.@
+` Porque não tive nenhum sintoma de anemia[line=3]
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Já disse, isso não importa.@ Seu corpo está sempre sob pressão.@
+` Você está sem o controle dele essa noite também.@
+` [line=4]Porque.@
+br
+` Você sempre foi o meu fantoche, Nii-san."@
+br
+`"O qu[line=5]"@
+bg #000000,crossfade,400
+` Caio na cama.@
+` ……  A Akiha estava certa.@
+` Da mesma forma de quando tenho uma crise anêmica, eu perco a consciência[line=3]
+\
+wavestop
+bg #ffffff,crossfade,800
+bg "bg/bg_40c",crossfade,800
+play "*5"
+`"H[line=4]ã?"@
+` …… Não, dessa vez está diferente.@
+` Meu corpo inteiro está dormente, mas ainda estou consciente.@
+` Não posso me concentrar, mas estou acordado.@
+`"Está diferente, da, anemia, de, sempre……"@
+` Olho para o teto, sem qualquer expressão no rosto.
+\
+`"Akiha-sama?@ Hum, será que exageramos……?@ Parece que ele realmente está sofrendo uma crise anêmica……"@
+` …… A voz, da Kohaku-san.@
+`"Do que está falando, Kohaku?@ Foi você quem colocou as drogas no jantar dele, é claro que ele vai ficar um pouco tonto.@
+` Eu só queria que ele dormisse um pouco.@ Poderia ter feito isso sozinha."@
+` …… A Akiha parece insatisfeita.@
+`"…… Ei, vocês duas."@
+` Chamo elas, ainda deitado.@
+` Meus braços e pernas não se mexem, mas consigo virar o pescoço e olhar para elas.
+\
+`"O Shiki-san é muito puro, por isso acho que 'sugestão' parece funcionar facilmente nele.@ Acho que isso é uma boa característica que ele tem também."@
+br
+` …… Parece que estão me ignorando.@
+br
+`"Sim, mas Kohaku, quando são tão puros… eles não te fazem querer dominá-los?"@
+br
+` …… Ela olha para mim.
+\
+bg "event/aki_h14",lshutter,400
+`"[line=5]"@
+` Assim que nossos olhos se encontram, sinto um arrepio correr minha coluna.@
+` A frieza afunda na minha pele, cavando sob minha carne e dentro do meu âmago.@
+` Sinto como se meu cérebro estivesse ficando dormente.@
+` Meu corpo parece preso quando ela me olha com aqueles olhos, como se o tempo tivesse parado e toda a área tivesse congelado.
+\
+wave se_01
+`"A[line=4]Aki[line=2]ha?"@
+`"………………"@
+` Ela não diz uma palavra.@
+` …… Tu, dum.@ Meu coração bate alto.@
+` Seu rosto está totalmente desprovido de expressão, mas seus olhos[line=3]seus olhos brilham como um predador espreitando sua presa[line=5]
+\
+`"Dominação, né?@ Bem, eu gosto de ver seu rosto preocupado tanto quanto seu rosto feliz, então entendo o que quer dizer, Akiha-sama."@
+` …… Perto da Akiha, a Kohaku-san inclina a cabeça.@
+` A Akiha não olha para a Kohaku-san, apenas faz um pequeno gesto afirmativo com a cabeça.
+\
+`"Vejamos, é como uma pintura.@
+` Ei, Kohaku, digamos que você tenha uma pintura que foi muito bem feita, mas que não é magnífica.@ Por ela ser bem feita, você não tem reclamações, mas não pode gostar dela, porque é apenas bem feita e não tem nada de interessante.@
+` Nesse caso, você sabe como torná-la especial para você, Kohaku?"@
+`"Humm, vejamos…… Não sei, Akiha-sama."
+\
+`"É simples.@ Você tem apenas que pintar sobre a pintura original e torná-la inútil.@
+` Como resultado, aquela boa pintura vai se transformar em lixo.@ Mas o processo de destruir o que é "bom" para você, não é maravilhoso?
+\
+`"[line=3]Não é maravilhoso só de pensar nisso?@
+` Eu sinto amor e arrependimento por aquela pintura.@
+` A dor conforme ela é arruinada, raiva de mim mesma por arruiná-la, frustração porque já não tem mais conserto e, mais do que qualquer outra coisa, o fato de que sou a única que pode destruí-la é absoluto.@
+` Acho que é a felicidade de possuí-la.@ Porque ela é única e porque suas feridas foram colocadas por mim, você se sente mais ligada a ela.@
+` Porque quanto mais marcas você coloca, mais ela se torna sua."@
+br
+` [line=4]Sem qualquer movimento.@
+` A Akiha ri, como se fosse uma máquina.
+\
+`"Ei, Kohaku.@ Você não quer quebrá-lo?@
+` Acho que será… prazeroso."@
+br
+bg "bg/bg_40c",lshutter,800
+`"O qu[line=4]Ei, Akiha…………!"@
+` Eu grito.@
+` Mas ela não responde.@ A Kohaku-san continua sorrindo,
+br
+`"Sim.@ Entendido, Akiha-sama,"@
+br
+` e responde dessa forma.
+\
+`"Erggh!"@
+` Reuno toda a força do meu corpo.@
+` Esforço o máximo que consigo e ordeno meus membros sem vida a se levantarem.@
+`"Tss,n~~~~~~~………!!!!!"@
+` Esforço-me.@
+` Aos poucos, sinto a capacidade de mover os braços e pernas começando a voltar[line=3]
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Já é o bastante, não faça isso, Shiki-san.@ Você é anêmico, não deve esforçar demais seu corpo."@
+` Com seu sorriso habitual, a Kohaku-san se agacha ao lado da cama.@
+cl c,crossfade,400
+`"Kohaku-san, o que você[line=4]"@
+`"O que parece?@ Estou te amarrando para não se debater.@ Fique tranquilo, vou amarrar apenas os seus pulsos e tornozelos, não vai machucar muito."@
+`"Amarrar?@ O que você está pensando[line=4]aiai……!" Aperto meu maxilar com a dor súbita.@
+` Como se já tivesse muita prática, a Kohaku-san habilmente prende minhas mãos e meus pés na cama.
+\
+wave se_01
+`"Tss………………!"@
+` Sinto um toque na parte de trás da minha cabeça.@
+` Não sei o que essas duas estão pensando.@
+` Mas ser amarrado pelas mãos e pelos pés na minha cama, só de imaginar o que estou parecendo me faz enlouquecer.@
+` E com elas me olhando desse jeito, estou tão envergonhado que quero morrer[line=4]
+\
+`"Kohaku-san……!@ Por favor, pare de brincar desse jeito……!"@
+ld c,"tachi/koha_t15",crossfade,400
+`"Ah, Shiki-san, você está corando.@ Já que está reclamando tanto assim, deve ser sua primeira vez sendo amarrado."@
+`"…………!@ C-Claro que é!@ Olha, apenas me desamarre!"@
+ld c,"tachi/koha_t02b",crossfade,400
+`"Akiha-sama, o Shiki-san está dizendo absurdos.@ Ele parece não compreender sua posição, posso ser mais rude com ele?"
+\
+cl c,crossfade,400
+`"Hã[line=5]Kohaku[line=2]san?"@
+` Ainda sorrindo, ela olha para mim.@
+` Seu olhar é muito mais assustador do que o olhar penetrante da Akiha.@
+` É quase como se fosse a crueldade de uma criança!@ Ela parece estar gostando disso muito mais do que a Akiha.
+\
+`"Não pode Kohaku.@ Se o Nii-san te quisesse de verdade, deixaria você fazer o que quisesse, mas dessa vez é diferente, entendeu?@
+` Essa noite ele pertence somente a mim.@ Seu dever é apenas servi-lo."@
+`"Entendido.@ Então, com licença, Shiki-san."@
+` Assim dizendo,
+` ela começa a tirar minhas roupas.
+\
+eroskip 77
+` Ela monta em cima de mim e começa seu trabalho.@
+` Nessa posição, lentamente desfaz os botões da minha camisa, um por um.@
+` Com essa tarefa concluída, seus dedos se movem para minha calça.
+\
+`"o qu-o qu-o qu…………!"@
+` Tento me mexer, balançar para os lados, mas não adianta.@
+` Ouço um som, seco e metálico.@
+` A Kohaku-san lentamente começa a deslizar meu zíper para baixo.
+\
+`"[line=6]O qu-o que, você está, fazen…………!"@
+` Mal consigo falar.@
+` Não consigo entender como ou por que isso está acontecendo.
+\
+` Não consigo compreender como acabei amarrado à minha cama, ou por que a Kohaku-san está tirando minhas roupas.
+\
+`"Shiki-san?@ Não fiz nada ainda… você já está se sentindo tão bem assim……?"@
+` Com essas palavras ultrajantes, ela coloca a mão na frente da minha cueca.@
+`"Nã… não é isso, mas, Kohaku-san[line=3]!"@
+`"Humm, sério?@ Então você não vai se importar se eu te ver por completo."@
+`"Tssss!"@
+` Ela puxa minha cueca para baixo.@
+`"[line=10]"@
+` Minha mente fica completamente em branco.@
+` Ela expôs a parte de baixo do meu corpo.@
+` Meu membro flácido é revelado para elas verem.
+\
+`"Aha!@ Shiki-san, está tão pequeno e tão bonitinho!"@
+` Ela diz isso toda feliz em algum lugar perto da minha pélvis.@
+` Estar amarrado e ser observado pelo olhar frio da Akiha, me faz encolher ainda mais.@
+`"[line=8]!"@
+` A corda range quando faço força contra ela.@
+` Estou tão envergonhado, queria me cobrir com as mãos.@
+` Mas amarrado desse jeito, não posso fazer nem isso.@
+`"………………"@
+` A Akiha continua me observando sem falar nada.@
+` O sangue sobe para a minha cabeça.
+\
+`"Ah[line=5]ck."@
+` Cerro os dentes.@
+`"Está tudo bem, Shiki-san.@ Vou ajudá-lo a se animar, não se preocupe…"@
+` Sem se importar com o que quero, os dedos da Kohaku-san chegam até mim.@
+`"N[line=7]!"@
+` Minhas costas arqueiam em resposta.@
+` Seus dedos caminham pela minha coxa como uma aranha, sem pressa alguma, e seu destino final é óbvio demais.
+\
+` Um por um, eles continuam avançando com uma lentidão insidiosa.@
+` Tão lentamente.@ A sensação de ser tocado por outra pessoa.@ …… E a sensação que está se aproximando do meu espaço mais pessoal, atira o meu cérebro no caos.
+\
+`"Mm[line=4]Shiki-san, você já está tão excitado… que menino travesso você é."@
+` Tap.@
+` Como se estivesse tocando um teclado, ela passa pela parte interna da minha coxa.@
+`"[line=5], h…………!"@
+` Tento segurar a respiração.@
+` Fecho os olhos para evitar ver seu rosto, mas ainda posso sentir um olhar penetrante me perfurando.@
+` …… É óbvio de quem.@
+` É o olhar da Akiha.@
+` Enquanto ele estiver em mim[line=3]não posso deixar sair nada da minha boca.
+\
+` …… A Kohaku-san continua.@
+` Os dedos delicados avançando pela minha coxa[line=3]finalmente chegam ao seu destino.@
+`"[line=4], [line=5]!"@
+` Um choque corre pelo meu corpo.@
+` Com apenas seus dedos, tão suavemente que mal fazem contato, a Kohaku-san brinca… com o meu… pinto.
+\
+`"Ha[line=4], gh[line=4]"@
+` [line=3]Não… entendo.@
+` É tão bom assim ser tocado por outra pessoa, ou os dedos dela são especiais?@
+` Meu sangue começa a pulsar e sua mão me toma em um leve abraço.@
+` Tum.@ Tum.@
+` Apesar da minha consciência tentar segurar, meu pinto começa a ficar duro.
+\
+`"Mm…… Shiki-san, você tem que falar[line=4]"@
+wave se_01
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_40c",notrans,0
+`"[line=5],m[line=4]!?"@
+` A cama range.@
+` Nesse momento[line=3]sinto algo escorregadio deslizar suavemente pelo meu saco.@
+`"Ei[line=4]Kohaku… san[line=3]!"@
+` Ergo a cabeça e olho para ela.@
+bg #000000,lshutter,400
+`"O quê[line=5]"@
+` Mesmo que já esperasse por isso,
+` olhar para essa cena, encanta o meu cérebro já confuso.
+\
+bg "event/koha_h10",lshutter,800
+`"Kohaku[line=2]san[line=3]o que, você está[line=3]"@
+`"O que estou fazendo?@ Estou servindo a você."@
+` Ela responde como se o que está fazendo fosse perfeitamente normal.@
+` Mas, fazer isso[line=3]me lamber aí[line=3]
+`"V-você não pode……!@ Você não acha que há algo errado em fazer algo tão obsceno……!?"@
+`"Não, não acho.@ Porque são ordens da Akiha-sama, não há qualquer motivo para eu pensar isso."@
+` Ordens da Akiha?@ Isso é ridículo.
+\
+`"A, Ah, Akiha………………!!!!"@
+`"Sim?@ Por que está gritando assim, Nii-san?"@
+`"Por que estou…!?@ …… O que está pensando……!?@ Você sabe o que vou fazer com você depois por causa disso……!?"@
+`"…… Francamente.@ Parece que ainda não entendeu sua posição, Nii-san.@ Se continuar a nos resistir assim, não poderemos ser boazinhas com você."@
+` Apertando os olhos desapontada, ela me encara.@
+` …… Será que é porque ela foi deixada sozinha na mansão Tohno nestes últimos oito anos?@ Seu olhar é tão afiado quanto uma lâmina e indizivelmente dominante.
+\
+`"A[line=4]Aki[line=2]ha…… O que, você está pensando[line=4]"@
+` Minha voz de questionamento começa a desaparecer.@
+` Ela suspira brevemente e volta o olhar para mim, amarrado à cama.
+\
+`"O que estou pensando?@ Isso precisa ser dito?@ Estou apenas te fazendo pagar, Nii-san."@
+`"?@ Está me fazendo pagar……?"@
+` Sem entender, repito suas palavras estupidamente.@
+br
+` [line=4]E então,
+` ela ri como se fosse muito engraçado.
+\
+`"Sim, vingança.@ Você me deixou sozinha e fugiu da casa dos Tohnos, tenho que me vingar por muitas coisas.@
+` Estes últimos oito anos[line=4]quero que saiba o quanto sofri."@
+`"A[line=6]"@
+` …… Quando ela fala dessa forma, não há nada que eu possa dizer.@
+` É verdade que deixei a Akiha sozinha para ir viver com os Arimas.@ Também é verdade que me tornei uma criança dos Arimas e tentei esquecer sobre a família Tohno.
+\
+`"…… Entendo isso.@ É normal você me odiar.@ Mas como esse ódio se relaciona com isso que está fazendo……!?"@
+`"Ah, não entende?@ Você não tem a educação de um membro da família Tohno.@
+` Então pensei em te ensinar desta forma.@ Na época que nosso pai tinha sua idade, parece que ele sabia sobre muitas coisas, e seria um problema você não conhecer um pouco sobre as mulheres.@
+`"O qu[line=5]educação?@ Que tipo de educação é essa, sua idiota!?@ Você está dizendo que, já que esteve tanto tempo com aquele velho, começou a pensar como ele!?"@
+` Isso me irrita muito e tento ficar de pé.@
+` Mas minhas mãos amarradas não se movem e as cordas só se aprofundam na minha pele.
+\
+`"Então você não vai me levar a sério.@ …… É uma pena.@ Eu ia pegar leve com você, mas mudei de ideia."@
+` Ela aperta os olhos.@
+` …… Provavelmente foi um reflexo, mas por apenas um instante, parecia que eles continham satisfação.
+\
+`"Nii-san, estúpido.@ Você não é diferente de um peixe no meu prato.@ Como te trago até a minha boca, é escolha minha, mas você não percebeu isso até agora."@
+` Depois de dizer isso,
+` ela lambe os lábios, como se realmente tivesse acabado de comer.
+\
+`"[line=4]Muito bem, Kohaku.@ Mostre ao Nii-san a fera que ele tem guardada dentro de si."@
+`"Sim, entendido.@ …… Mas, Akiha-sama, está tudo bem eu fazer isso?"@
+` Não há emoção na voz da Kohaku-san.@
+` Depois de um breve silêncio,
+`"[line=4]Mas é claro.@ Nós somos irmãos.@
+` Não há afeto entre nós mesmo que finjamos, e além disso, certamente não posso tocá-lo.@ …… Eu não gosto do Nii-san mesmo."@
+` Ela desvia o olhar de mim.
+\
+`"[line=8]"@
+` …… Meu peito dói.@
+` Eu deveria estar furioso com a Akiha, por estar fazendo isso comigo, então por que[line=4]suas palavras pesam tanto?@
+`"…… Vamos parar, Akiha.@ Não sei como posso compensar pelo que fiz, mas me desculparei pelo que aconteceu até agora.@ Então pare com isso.@
+` Se pensar bem, isso não é normal.@ Não sei o que pensa sobre mim, mas você é minha irmã.@ Por isso[line=4]"@
+`"Irmã?"@
+` Seu sussuro soa irritado.
+\
+`"Não quero ouvir essa palavra vindo de você.@
+` E Nii-san, não importa o que diga, seu corpo está apreciando a minha disciplina.@ Ele esteve pedindo por mais, todo esse tempo."@
+`"Hã[line=6]"@
+` Dito isto, todo o meu corpo fica quente.@
+` Assim como ela disse, meu pinto endureceu por causa da provocação da Kohaku-san.@
+` Mesmo que negue com minhas palavras, meu corpo parece ter uma mente própria.
+\
+`"Agora entende?@ Isso é o que você queria desde o início, Nii-san.@ Não há escapatória."@
+`"Is-……"@
+` Isto, não é, verdade.@
+br
+`"[line=4]Kohaku, continue, por favor."@
+br
+` No instante que tento negar, a Kohaku-san toca meu pinto com os dedos.
+\
+` Esse pedaço de carne inchado, totalmente ereto.@
+` A Kohaku-sa… n… leva seus dedos delicados e envolve-os em torno dele.
+\
+`"[line=6]A, gg…………!"@
+` Mais do que apenas seu toque, o simples fato de que são os dedos da Kohaku-san, faz com que minha mente dê um branco.@
+bg #ffffff,crossfade,400
+` Os dedos da Kohaku-san.@
+` O toque suave deles me deixam mais excitado.
+\
+bg "event/koha_h10",crossfade,400
+`"Hum… Shiki-san, você está cada vez mais parecido como um homem de verdade.@ Está tão vigoroso.@ Incrível!"@
+` Sua voz está esquentando.@
+`"Mas ainda há um longo caminho a percorrer.@ Veja[line=2]a Akiha-sama está assistindo, por isso você deve fazê-lo ficar um pouco maior."@
+` De repente,
+` seus dedos começam a se mover.@
+` Deslizando sensualmente para cima e para baixo por todo o meu pinto.
+\
+`"Ts[line=4], ah………!"@
+` Deixo escapar um suspiro fraco.@
+` Despreparada para esse súbito ataque, minhas costas arqueiam de surpresa.@
+`"Hum…… Você realmente está excitado.@ Não posso acreditar que está ficando maior ainda."@
+` Ela fala como se estivesse impressionada, usando três dedos para me acariciar, como se estivesse se divertindo com um brinquedo novo.@
+`"Ah[line=4], Kohaku, p… ar[line=3]"@
+` É quase como se ela estivesse me apertando em vez de acariciando.@
+` Ela sorri, mostrando como está gostando disso.
+\
+`"Ora, ora, Shiki-san.@ A Akiha-sama está te observando, por isso você tem que ter certeza que ela pode te ouvir."@
+` Ela move seus dedos.@
+` Meu orgão inchado já está duro como uma rocha[line=4]mas os dedos da Kohaku-san manipulam ele como se estivesse mole como argila.
+\
+`"Ah[line=6], gg[line=7]"@
+` Realmente parece como argila.@
+` Os dedos delicados da Kohaku-san giram em torno da superfície, como uma mestra artesã trabalhando em uma velha e familiar roda de oleiro.@
+` Torcendo.@ Pressionando.@ Apertando.@ Alongando.@
+` Seus dedos me picam divertidamente aqui e ali, como um cardume de peixes-gelo.@
+` Totalmente desconectado da minha mente, meu pinto é moldado de acordo com a vontade da Kohaku-san.@
+bg #ffffff,crossfade,400
+`"[line=6], Ah…………!!!!"@
+` Que técnica!@
+` Todos os seus dez dedos se transformaram em uma máquina, obscena e aperfeiçoada, e tomaram o controle do meu pinto[line=4]
+\
+bg "event/koha_h10b",notrans,0
+`"…… Mm, Shiki-san, você está rangendo muito os dentes.@ Ora ora, se fizer essa cara, vai me dar vontade de servi-lo ainda mais."@
+`"[line=5]Kohaku… san[line=4]"@
+`"Assim não dá.@ Você não deveria estar chamando pelo meu nome, Shiki-san.@ Você pertence à Akiha-sama, por isso chame o nome dela.@ Não é isso mesmo, Akiha-sama?"@
+` …… Ela fala na direção onde a Akiha está encostada na parede.@
+!w1000
+`"………………………… Sim.@ …… o Nii-san… é meu… afinal de contas[line=6]"@
+br
+` Sua voz está muito suave, quase inaudível.
+\
+`"Hehe, é assim mesmo.@ Você entendeu, Shiki-san?@ Não importa o que aconteça, você só deve pensar na Akiha-sama, tá bom?"@
+` Dizendo isso,
+` o movimento suave dos seus dedos mudam.@
+` Por apenas um instante,
+` ela pega o meu pinto com uma mão e empurra a ponta com o polegar[line=4]
+\
+`"Ha, ah[line=4],……………!"@
+` Um gemido fraco escapa pelos meus lábios, apesar de minhas tentativas de segurá-lo.@
+` Os dedos da Kohaku-san retornam às suas carícias suaves.
+\
+`"Ah.@ Você não consegue se segurar, não é mesmo, Shiki-san?@ Está tão gostoso assim?@ Mesmo que eu esteja fazendo isso contra sua vontade e que a Akiha-sama esteja assistindo, está tão gostoso que você não consegue se segurar?"@
+`"Ts[line=6]"@
+` A voz provocante da Kohaku-san.@
+`"Você está errada[line=4]"@
+`"Não estou.@ Mesmo que a Akiha-sama esteja te observando, você deixa seus gemidos sairem porque está achando gostoso.@ Shiki-san, você é o Onii-san dela, mas não consegue se segurar na frente da sua irmãzinha."
+\
+` "[line=11]"@
+` No meio do meu confuso constrangimento e ressentimento, essas sensações forçam seu caminho por mim e começo a inchar ainda mais contra seus dedos delicados.@
+`"Kya[line=3]!"@
+` Ela dá um gritinho.@
+` Momentaneamente livre, meu pinto completamente inchado, balança para trás e para frente.
+\
+`"Uau…… Shiki-san, que incrível……"@
+` Ela parece impressionada.@
+br
+`"…………, a…………"@
+` Ouço o som meio escondido de respiração vindo de perto da parede.@
+br
+`"Indo para trás e para frente assim e se contorcendo tanto… que safadinho."@
+`"O qu[line=6]"@
+` As palavras da Kohaku-san são tão constrangedoras que desvio o olhar.
+\
+br
+br
+br
+br
+br
+br
+br
+` nn……… ah…………, ha……………
+\
+` [line=6]O que é isso?@
+` De pouco além da borda da minha visão,
+` vem o som de expiração suprimida[line=4]
+\
+`"Hehe[line=4]mesmo que esteja tão obsceno, ainda está bonitinho.@
+` Sua pele está esticada e não tem manchas estranhas.@ A maioria dos homens são muito feios aqui embaixo, mas o seu é muito diferente."@
+` Ela diz isso alegremente, em seguida junta os lábios e sopra.@
+` Seu hálito suave e quente gira em torno da minha ferramenta latejante.
+\
+`"Tss[line=6]"@
+` Não aguento mais e fecho os olhos.@
+` Não posso negar as palavras da Kohaku-san.@ Não importa o que diga, ainda estou com as mãos e os pés amarrados, e com o pinto duro na frente da Akiha.@
+` Isso[line=4]é muito constrangedor.@ Não consigo olhá-las nos olhos.
+\
+`"Você também não acha, Akiha-sama?@ Olha aqui, o Shiki-san está muito duro[line=2]como o chifre de um veado."@
+`"Hã……… ah, s…… sim…… Eu não posso acreditar…… que esse é o do Nii-san."@
+` Sua voz trêmula está misturada com o que soa como uma respiração pesada.
+\
+`"Akiha-sama?@ Esta é a primeira vez que vê um homem"?@
+`"É…… é claro que sim……!@
+` Eu… Eu nunca…… tinha visto, algo assim[line=4]"@
+`"Mesmo?@ Ah, então por favor não se deixe enganar.@ O Shiki-san é muito bonito aqui embaixo.@ Outros homens são muito feios em comparação."@
+`"Hã……?@ S-Sério?@ …… Hum, o do Nii-san… é especial……?"@
+`"Sim, é bem definido e maior que o da maioria dos homens.@ Mas isso não importa.@ Você entende, Akiha-sama?@ A coisa mais importante é que ele é o Shiki-san."
+\
+`"Sim…… É o…… Nii… san[line=4]"@
+`"Minha nossa, ele ainda está se segurando.@ Então, como me ordenou, irei transformá-lo em uma fera selvagem."@
+br
+`"Desculpe, Shiki-san."@
+br
+` Falando sem uma pitada de arrependimento na voz, ela leva seu rosto entre as minhas pernas.@
+` Nesse instante[line=4]um choque incandescente de um raio corre pelas minhas costas.
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_40c",notrans,0
+` Sinto algo… molhado.@
+` Minha masculinidade ardente entra em contato com algo muito molhado[line=5]
+`"Hã[line=4]hã[line=4]!?"@
+` Jogo minha cabeça para trás e nesse instante, perco toda a razão que havia sobrado.@
+` A língua da Kohaku-san está lambendo meu pinto.
+\
+br
+br
+br
+br
+br
+br
+br
+` Ah………………
+\
+`………………
+\
+`"Mm…… Shiki-san, tão… gostoso."@
+`"Tss………, tss………"@
+` A doce respiração da Kohaku-san… girando em volta de mim… está me deixando louco.@
+` Sinto todo o meu ser focando naquele ponto.
+\
+br
+br
+br
+br
+br
+br
+br
+` ……………
+\
+`……… ha…………………
+\
+`"…… mm…… n, mhm, ah…… n……"@
+` Seus dedos me seguram… e quando ele incha, ela me lambe com sua delicada língua rosa.@
+`"Ah[line=4]mm…… Shiki… san[line=3]"@
+` …… Seus movimentos… são muito cuidadosos e entusiasmados.
+\
+br
+br
+br
+br
+br
+br
+br
+` …… Hwa……… nn……… Nii-san, que…… delícia……
+\
+` As costas da sua língua.@
+` A ponta dela enquanto desliza em torno de mim.@
+` Os lábios que envolvem a cabeça do meu pinto.@
+` Ela me lambe como se estivesse tentando provar tudo.@
+` Sua língua pequena lambe a cabeça do meu pinto.@
+br
+` Essa sensação.@
+` É muito melhor que apenas seus dedos.@
+` Por que[line=4]só com a língua, ela consegue fazer meu coração bater assim?
+\
+br
+br
+br
+br
+br
+br
+br
+` ………… Ah………… N, nn…………
+\
+`……
+\
+`"Shiki-san…… ei, Shiki-san, isso… está… gostoso……?"@
+` Ela olha para mim com olhos virados e cintilantes.@
+` Mas não para de me acariciar.
+\
+br
+br
+br
+br
+br
+br
+` …………… ah,………… nn.@ aah[line=4]!
+\
+`"É uma sensação muito boa, não é mesmo……?@ Como você está gostando, eu também… estou[line=4]"@
+`"A[line=4], ha, gh[line=4]…………!"@
+` Resistindo ao calor subindo dentro de mim, agarro os lençóis da cama.
+\
+br
+br
+br
+br
+` ………… mm………… nn, haah, ah[line=6]
+\
+` Seus dedos graciosos e delicados continuam a me envolver.@
+` Barulhos indecentes de chupadas.@
+` Dos meus testículos até a cabeça do meu pinto, seus dedos me atacam com barulhos molhados de líquido entornando.@
+br
+`"Veja, Shiki-san, se eu fizer isso, você irá[line=4]!"@
+br
+` Ela desliza os dedos com mais força.@
+`"[line=5], ah[line=5]!"@
+br
+` ………… mm, ah…………!
+\
+br
+` Não sou o único experimentando esse prazer.
+\
+`"Hã[line=4]Aki… ha…………?"@
+` Substituo meu olhar vazio.@
+` Ouço o som de respiração pesada.@
+` Mas ele não me pertence[line=4]
+\
+bg #000000,crossfade,400
+` Ah…… nn, Nii[line=4]san………!@
+br
+bg "event/aki_h15",crossfade,400
+` [line=4]A Akiha também está ofegando silenciosamente.
+\
+`"O qu………"@
+` …… Minha mente está em branco e não consigo entender o que está acontecendo.@
+` Tudo que consigo ver é o estado indecente da Akiha.@
+` Suas pernas estão posicionadas descaradamente na cadeira, abertas, como se estivessem prontas para receber um homem.@
+br
+`"Haa…… ah…… Nii-san, que[line=4]"@
+br
+` Ouço o som de tecido em carne úmida.@
+` Sua calcinha branca está molhada e ficou grudada completamente na pele.
+\
+`"Aah, mm…… delícia…… Nii-san…… fazendo esse tipo de expressão[line=4]!"@
+` Seus dedos esfregam a calcinha sobre suas dobras inchadas.@
+` Seu longo dedo do meio, como uma obra de arte bem trabalhada, desliza para cima e para baixo ao longo da fenda formada na sua calcinha.@
+br
+`"Ah[line=4]haa, ah[line=6]ah…………!!"@
+br
+` Com a respiração ofegante e parecendo que não pode ver nada, a Akiha continua movendo seus dedos.@
+` Enquanto sua essência pinga sobre a cadeira, ela passa de um dedo para dois.
+\
+`"Ah……, nn………!@ Ha, não[line=4]Nii-san, mais, for… te[line=6]!"@
+` Seu corpo começa a tremer levemente.@
+` Sua calcinha, a cadeira, seus dedos, tudo coberto com fluidos escorrendo, enquanto ela continua se dando prazer.
+\
+`"Ah, ha…… a, Nii, san[line=4]Shiki-Niisan, você[line=2]só não… sabe[line=4]!"@
+` Ela respira com dificuldade, como se tentasse expulsar algo quente de dentro de si.@
+` Percebo que sua respiração ardente está estranhamente[line=4]combinando-se com o ritmo da minha própria.
+\
+`"A[line=4]Aki[line=2]ha[line=4]"@
+`"Hwaa, haa…… ha, eu te amo tanto[line=4]então por que…………!"@
+` Seu rosto se contorce de prazer.@
+` …… Ela morde seu dedo mindinho, como se tentasse trazer a si mesma para fora de seu transe[line=4]
+br
+`"Ora, ora, você não deveria fazer isso, Shiki-san.@ Tenho que castigá-lo por desviar o olhar."@
+br
+` [line=4]A voz da Kohaku-san.@
+` Enquanto ela fala, sinto algo como uma lâmina fluindo ao longo do meu pinto.
+\
+`"[line=4], Ah, ha………!"@
+` Nem sei mais o que ela está fazendo.@
+` Meu corpo preso pela Kohaku, minha mente presa pela Akiha… nem mesmo sei onde estou.
+\
+`"Ts[line=3]ha, kk…………!"@
+` Tum.@ Uma sensação sobe dos meus quadris.@
+` …… Estou chegando ao clímax sem perceber?@
+` O que segurei por tanto tempo já está liberado.@
+` Mas ainda estou com o pinto duro e a Kohaku-san continua brincando com ele.@
+br
+` [line=4]Não, estou enganado?@
+br
+`"Mm[line=4]Nii-san, mais alto[line=4]para que eu possa ouvir, Shi… ki[line=4]!"@
+` Ela geme tão ferozmente que parece que vai se quebrar.@
+` A visão da Akiha se contorcendo embriaga meu cérebro.
+\
+`"Ah[line=4]Hwaa, ah, ah[line=4]Nii-san…… Nii-san, Nii-san Nii-san Nii-san……!!@ Mesmo eu te amando tanto, Nii-san,[line=4]!"@
+br
+` Ela chama meu nome freneticamente.@
+` Envergonhada, mas incapaz de se conter, ela chama por mim com seus dedos.@
+` Uma respiração profunda.@
+` Seus suspiros são tão quentes que podem queimar se tocarem minha pele.
+\
+`"…… A…… Aki… ha…… isso[line=4]"@
+`"…… Ha, haaa[line=4]ah…… kk, mm……!!"@
+` Suas costas arqueiam.@
+` …… Ela não me vê ou sequer ouve minha voz.@
+` Bem,
+` sua voz e imagem também não chegam até mim.
+\
+`"Akiha[line=4]Eu… você[line=5]"@
+`"Nii… san[line=4]mais, mais[line=4]"@
+` Minha mente está derretendo.@
+` Já não sei quem está me acariciando nesse momento.@
+` É a boca da Kohaku.@ Mas na realidade, só a voz da Akiha importa.
+\
+`"Akiha[line=4]eu também[line=4]"@
+`"Naah……!@ Ah, n, Nii, san[line=4]!"@
+` …… Posso ouvir sua voz.@
+` Ela parece ter atingido seu limite.@
+` O som da nossa respiração selvagem sincroniza em perfeita harmonia.@
+` A partir daí, sinto como se a Akiha e eu estivéssemos fazendo sexo e enlouqueço.@
+` Qualquer tabu ou senso comum, ou o 'eu' que estava envergonhado… nada disso importa agora.
+\
+`"Ah[line=5]A, Aki[line=2]ha[line=4]"@
+`"Sim[line=5]goza, por favor, goza, Nii-san…………!!"@
+` Uma pulsação interrompida.@
+` Um grito final surge do meu pinto transbordante, seu limite foi alcançado muito antes.@
+bg #ffffff,crossfade,400
+br
+`"Nn[line=5]Shiki, meu… Shiki………!!"@
+` Com o meu impulso vem aquela voz.
+\
+`"A[line=6]kiha."@
+` Meu corpo está sem energia.@
+` Spurt.@ Spurt.@
+` Minhas emoções reprimidas borrifam por toda a cama, sujando os lençóis.@
+br
+` ……………………@
+br
+` Não consigo mais ouvir sua voz.
+\
+`"Ha[line=4]ah, ah[line=6]"@
+` Meu coração furioso começa a se acalmar.@
+` Acalmando.@
+` E assim, tudo que eu tinha tentado tanto a resistir e a pessoa que era o irmão da Akiha… desmorona[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w5000

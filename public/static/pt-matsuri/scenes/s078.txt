@@ -1,0 +1,149 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_31a",notrans,0
+`"…… Kahh!"@
+` É impossível.@
+` Quase fui morto por aquele cachorro.@ Se eu aceitar isso, não faço ideia do que pode me acontecer.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Ei, responde logo.@ Acho que estou sendo razoável aqui."@
+`"……"@
+` Ela não entende.@ É evidente que não consegue perceber que ela é a imprudência encarnada.@
+` …… Se continuar me envolvendo com essa pessoa, vou entrar em um caminho sem volta.
+\
+` Tenho que encontrar uma oportunidade para fugir.
+\
+playstop
+`"…… Tudo bem.@ Vou ouvir o que você tem para dizer."@
+` Apoiando-me na parede, consigo ficar de pé sozinho.@
+` …… Tenho que passar por aquela ruela se quiser chegar até a rua principal.@
+` Felizmente, é mais longe para ela do que para mim.@
+` Se eu começar a andar devagarzinho fingindo que quero apenas conversar, provavelmente vou oonseguir chegar até a rua principal.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ah, é mesmo.@ Ainda nem sabemos o nome um do outro.@ Acho que estou apressando demais as coisas, né!?"@
+` Ela balança a cabeça, concordando consigo mesma.
+\
+`"Pois é, né?@ Se me disser mais detalhes, talvez eu concorde em ajudar."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Sério?@ Então, por onde devo começar?@ [line=3]Será que devo começar com o caso do vampiro que deixou esta cidade uma bagunça?@ Ou talvez eu deva explicar o que vamos fazer de agora em diante?"@
+cl c,crossfade,400
+` Ela faz uma cara séria enquanto pensa.@
+br
+` [line=4]Essa é a minha única chance.
+\
+bg #000000,lshutter,400
+` [line=3]Eu corro o mais rápido que consigo.@
+` Em um piscar de olhos, corro para a ruela que leva à rua principal.@
+br
+`"[line=3]Hã?"@
+br
+` Ouço a voz dela atrás de mim.@
+` Mas já é tarde demais.@
+` Vou conseguir fugir[line=3]!
+\
+bg "bg/bg_31a",notrans,0
+wave se_05
+quakey 2,100
+`"[line=3]Hã?"@
+` Que estranho!@
+` Dou alguns passos para frente e caio no chão.
+\
+play "*3"
+ld c,"tachi/ark_t11",lshutter,800
+`"Ei.@ O que está fazendo?"@
+` Ela se aproxima e me olha com mais surpresa que preocupação.@
+`"…… Nada.@ Só queria correr um pouquinho."@
+` …… Parece que ela não percebeu que eu estava tentando fugir.
+\
+` Levanto-me do chão.@
+` Mas.@
+wave se_05
+quakey 2,100
+`"……!"@
+` Ai…!@ Sinto uma dor absurda no tornozelo, não consigo me levantar[line=3]!
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Ah, acho que peguei pesado com você naquela hora, me desculpe.@ Se eu não tivesse te empurrado com tanta força, talvez você não teria torcido o pé desse jeito."@
+`"Talvez não teria[line=3]!?@ Escuta aqui sua[line=4]"@
+` Quero reclamar por ela ter me empurrado, mas se ela não tivesse feito isso, o cachorro preto ainda estaria mastigando meu pescoço.
+\
+`"…… Está tudo bem.@ Obrigado por ter me ajudado."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Não há de quê.@ Mas por que você começou a correr?@ Não estávamos conversando?"@
+`"Bem, hum, é que[line=3]"@
+` Não posso dizer que foi uma questão de conveniência.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"………… Hummm?"@
+` Ela fica me olhando.@
+` …… Isso é ruim.@ Você teria que ser idiota demais para não entender o que eu estava fazendo.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Ei, aquilo foi um indício de que vai cooperar comigo, certo?"@
+`"………"@
+` Não posso responder.@
+` Eu disse que iria ouvi-la, mas não disse que ia cooperar.@
+br
+` [line=3]Não quero mentir.@
+br
+` Tenho que dar um "não" definitivo para essa pergunta.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Só para constar, sei que tipo de pessoa você é.@ Não me dê uma resposta hesitante.@
+` Se você fugir agora, simplesmente vou até a sua casa."@
+`"O qu[line=3]!?"@
+` Isso significa que ela vai até a mansão mesmo se eu fugir daqui!?
+\
+`"……"@
+` Ela me pegou.@
+` Se isso acontecesse, não seria mais um problema só meu.@ A Akiha, a Hisui e a Kohaku-san poderiam ser atacadas por essa maluca.@
+br
+`"Merd…!"@
+` Que bagunça.@
+` É como se eu nunca tivesse uma escolha desde o princípio[line=4]
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Bem, de qualquer forma não me importo.@ Você já foi visto pelo familiar do vampiro, certamente será atacado.@ Se ficar andando por aí sozinho, pode agir como isca também."@
+`"O qu… ei, não me diga que…"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sim, aquele familiar reconheceu você como meu aliado."@
+`"[line=8]"@
+` Então quer dizer que vou ser atacado por aquelas criaturas mesmo se não ajudá-la.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Então, o que vai ser?@ Vai ficar de vigia enquanto eu durmo, ou vai servir de isca e afugentar aqueles familiares sozinho?"@
+` …… Se os resultados serão os mesmos, não posso fazer nada além de concordar.@
+br
+`"[line=4]Sua trapaceira."@
+` Suspirando, faço um gesto afirmativo com a cabeça para indicar que vou ajudá-la.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Que bom!@ Nosso contrato está oficializado."@
+` Para onde foi todo aquele ódio de minutos atrás?@
+` Animada, ela estende a mão para mim.
+\
+`"Acho que finalmente posso me apresentar.@
+` Meu nome é Arcueid[line=3]humm…… meu sobrenome é muito longo, por isso só Arcueid está bom.@ Sou uma vampira do tipo Ancestral Original.@ E quanto a você?"@
+br
+` Dou um longo suspiro com sua introdução repentina.@
+` …… É um suspiro de resignação, prova de que decidi aceitar essa situação absurda.
+\
+`"Meu nome é Tohno Shiki.@ Infelizmente, sou apenas um estudante normal.@ …… Já havia dito antes, mas realmente não vou ser de muita utilidade."@
+` Segurando a mão dessa[line=3]a mão da Arcueid, me levanto.@
+` Ela me observa durante um bom tempo e em seguida estende sua mão para mim outra vez.@
+ld c,"tachi/ark_t09",crossfade,400
+br
+`"Prazer em conhecê-lo, Shiki.@
+` Vou fazer você assumir a responsabilidade por ter me matado."@
+` A Arcueid sorri enquanto estende sua mão esquerda.@
+` …… Existem vários tipos de responsabilidades neste mundo, mas provavelmente essa é a primeira e a última vez que alguém assume a responsabilidade de ajudar alguém que matou.
+\
+`"…… Droga!@ Faça como quiser."@
+` Mas não há mais nada que eu possa fazer.@
+` A contragosto, estendo minha mão e aperto a mão dessa garota que afirma ser uma vampira.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

@@ -1,0 +1,101 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+br
+` [line=3]Não, tenho que conversar com a Senpai.@
+` Não tenho tempo para tomar o café da manhã.@
+br
+ld c,"tachi/his_t01",lshutter,400
+`"[line=3]Shiki-sama?"@
+` A Hisui surge da sala de estar.@
+` Ela deve ter vindo para ver o que aconteceu, já que não apareci até agora.
+\
+`"…… Desculpa.@ Já estou indo para a escola, por favor, diga à Akiha que sinto muito."@
+ld c,"tachi/his_t07",crossfade,400
+`"…… Espere, por favor.@ Você não parece bem.@ Tem certeza que não vai passar mal se sair de casa assim……?"@
+`"[line=3]Eu estou bem, é só uma dor de cabeça leve.@ Bem, estou indo…… Desculpa, estou sendo egoísta de novo."@
+cl a,lshutter,400
+` …… Digo algo muito egoísta e abro a porta antes que ela responda.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_01a",crossfade,1500
+` Chego no portão da escola.@
+` Como vim correndo, não são nem sete e meia ainda.@
+br
+`"…………"@
+` Fico parado ao lado do portão, esperando pela Senpai.@
+` Provavelmente deve parecer estranho para os estudantes que estão passando, mas não me importo.
+\
+!w5000
+`"……………"@
+` A Senpai não aparece.@
+` São sete e meia agora.
+\
+!w5000
+` Mais dez minutos se passam.@
+` O portão fica lotado de estudantes.
+\
+!w5000
+` Faltam cinco minutos para o portão ser fechado.@
+` Mas ela ainda não chegou.
+\
+`"………"@
+` Talvez[line=3]ela não venha hoje.@
+` Ontem, vi tudo aquilo acontecer, por isso talvez ela não venha hoje, ou amanhã, ou depois de amanhã[line=3]
+br
+` [line=3]Tum.@
+br
+`"……… Ah."@
+` Pensar nisso me deixa meio fraco.@
+` Balanço a cabeça para limpá-la desses pensamentos terríveis.
+\
+` …… E então,
+` vindo de trás, alguém me dá um tapinha no ombro.@
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Tohno-kun, o que você está fazendo aqui?"@
+`"S-Senpai……!?"@
+`"Eu mesma."@
+` Ela afirma com a cabeça.
+\
+`"S-sério……!?@ Mas ontem você estava[line=3]"@
+` Mph.@
+` Ela tapa minha boca com a mão antes que eu possa continuar.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+` "Tohno-kun, aqui não.@ Vamos lá atrás do ginásio."@
+` Ela sorri como de costume enquanto mantém a mão sobre minha boca e puxa meu braço.@
+cl a,lshutter,400
+`"…, …!"@
+` Tento pedir para ela parar, mas não consigo falar.@
+` Ela me puxa com bastante força.
+\
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*3"
+wave se_03
+` [line=4]O sinal da escola toca.@
+!w5000
+` …… A aula começou.@
+` E não tem mais ninguém aqui por perto.@
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Pronto, ninguém pode nos ouvir aqui."@
+` Ela finalmente me solta.@
+` Dou um pulo para trás e encaro-a diretamente.
+\
+`"Você quer conversar sobre ontem à noite, não é?@ Se tem algo que queira dizer, não se acanhe, Tohno-kun."@
+` Ela fala calmamente.@
+` Como se o que aconteceu ontem não fosse grande coisa.@
+`"……………!"@
+` Mas foi grande coisa para mim.@
+` A atitude dela nesse momento me deixa nervoso.
+\
+`"Então, era você mesmo, né……!?"@
+`"Sim.@ Acabei falando seu nome naquela hora, já é impossível esconder isso por mais tempo."@
+cl c,crossfade,400
+`" …………!"@
+` Ranjo os dentes.@
+` …… Eu não esperava um pedido de desculpas nem nada do tipo, mas mesmo assim[line=3]
+\

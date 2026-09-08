@@ -1,0 +1,84 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_33a",notrans,0
+` Bem, só preciso enganá-la de alguma maneira.@
+` Acho que a Akiha não vai entender se eu falar sobre criaturas sobrenaturais como a Arcueid e o Nrvnqsr, vou ter que esconder a verdade mentindo o mínimo possível.@
+br
+`"[line=2]Certo, vamos ver no que dá."@
+` Respirando fundo, abro a porta da sala de estar.
+\
+bg "bg/bg_34a",lcartain,800
+` A Akiha está no sofá e a Hisui está em pé perto da parede.@
+ld c,"tachi/aki_t03a",lshutter,800
+`"[line=2]Bom dia, Nii-san."@
+` Seu olhar está me dizendo: "Eu estou muito brava."@
+`"Ah, hum…… Bom dia, Akiha."@
+`"Vamos dispensar os cumprimentos.@ Por favor, sente-se.@ Quero conversar com você."@
+`"[line=6]"@
+` Suas palavras são tão persuasivas que não consigo recusar.@
+` Calmamente, me sento no sofá de frente para ela.
+\
+`"Nii-san.@ Isso pode ser meio abrupto, mas posso saber o que tem você feito nos últimos dois dias?"@
+`"[line=4]Ugh."@
+` Apesar de sua linguagem polida, suas palavras são uma ameaça muito clara.@
+` Mas o seu Onii-chan não pode lhe contar uma história daquelas.
+\
+`"Akiha, sobre esse assunto."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Sim, estou ouvindo."@
+`"A verdade é que encontrei com uma pessoa conhecida e acabei mostrando a cidade para ela."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Ah!?@ Uma pessoa conhecida!?"@
+`"Isso, conheci essa pessoa recentemente e acabamos nos encontrando na saída da escola.@ Ela me pediu para continuar acompanhando-a até no domingo, então[line=2]"
+\
+`"Então você faltou à escola e esteve fora de casa sem nem me avisar ou sequer pedir minha permissão."@
+br
+` …… O olhar da Akiha está extremamente frio.@
+` Ela parece mais chocada do que com raiva.
+\
+`"…………………"@
+`"…………………"@
+` Permaneço em silêncio enquanto ela me encara sem dizer nada.@
+ld c,"tachi/aki_t03a",crossfade,400
+`"E quem é essa pessoa?"@
+`"Hã?"@
+ld c,"tachi/aki_t02",crossfade,400
+`"Perguntei quem é essa pessoa."@
+` Ela olha bem no fundo dos meus olhos.@
+` Consigo sentir seu pensamento: "Eu não vou ser enganada".
+\
+`"[line=2]Bem, eu[line=2]"@
+`"Se não pode me dizer, significa que está se sentindo culpado, Nii-san."@
+` Seu olhar me atravessa como uma flecha.@
+` Tenho a sensação de que ela vai continuar me atacando se eu desviar o olhar, então olho de volta.
+\
+` …… Bom, isso não tem nada a ver com o assunto, mas…
+` Ela não me lembra da Akiha do passado.@
+` Suas costas esticadas, sua postura perfeita, seu olhar decidido.@
+` Talvez eu esteja sendo imprudente ao pensar isso, mas sinceramente, acho que ela se tornou uma mulher muito bonita.
+\
+`"Sabe, Akiha."@
+ld c,"tachi/aki_t03a",crossfade,400
+`"O quê?"@
+`"Suas sobrancelhas são bem grossas."@
+ld c,"tachi/aki_t15a",crossfade,400
+`"[line=6]!?"@
+` Bam!@ A perna da Akiha bate na mesa com o susto que ela leva.@
+`"………… Ah."@
+` Como devo dizer[line=2]ela está surpreendentemente surpresa?@
+`"…… Realmente não te entendo.@ Você não deveria ficar surpresa com isso."@
+`"[line=9]"@
+` Respirando profundamente, ela relaxa os ombros.
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Nii-san, parece que você não quer me levar a sério."@
+`"…… Não é isso.@ Olha, não vou mentir para você.@ Só que tem muitas coisas que não posso te contar."@
+ld c,"tachi/aki_t21",crossfade,400
+`"Francamente.@ Sério mesmo, desde que éramos crianças nunca pude dizer se você era uma pessoa honesta ou desonesta, Nii-san."
+\
+`"…… Verdade?@ Não me lembro muito bem de como eu era quando criança."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Você não precisa se lembrar.@ Mas eu também não mudei.@ Estou te pressionando dessa forma, mesmo sabendo como vai acabar… talvez eu não tenha amadurecido o suficiente."
+\
+cl c,crossfade,400

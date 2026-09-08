@@ -1,0 +1,24 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+`"[line=3]Para ser sincero, no lo sé.@ Pero no puedo simplemente dejarte sola."@
+` …… Sí.@
+` Desde que hablé con Yumizuka hace dos días, ella no ha salido de mi mente.@
+` Entonces, eso debe significar…
+`"…… A diferencia de ti, no siento que te he conocido por años, pero[line=3]"@
+` Aunque sabía que era peligroso, decidí venir aquí.@
+`"Yo… creo que sí… me gustas."
+\
+ld c,"tachi/stk_t09",crossfade,400
+`"[line=4]"@
+` Yumizuka me mira, horrorizada.@
+` Le devuelvo la mirada.@
+`"[line=3]No…"@
+` Ella niega con su cabeza.@
+` Parece a punto de romper a llorar.@
+`"[line=3]Yo no quiero eso…"@
+`"…… ¿Yumizuka… san?"@
+`"…… Porque eso, eso sólo me hace parecer[line=3]estúpida…"@
+cl c,crossfade,400
+` Aún horrorizada, Yumizuka mira hacia abajo mientras murmura.
+\

@@ -1,0 +1,179 @@
+playstop
+wavestop
+bg "bg/bg_40c",lcartain,800
+play "*1"
+` [line=3]Después de la cena, regreso a mi habitación.@
+br
+` Son las diez de la noche.@
+` Como bebí té con Akiha y las otras después de cenar, ya es hora de dormir.
+\
+`"Nnn……"@
+` No estoy muy cansado, pero mi cuerpo se siente lento.@
+` Parece que finalmente me he acostumbrado a la vida en esta mansión.@
+` La inexpresiva Hisui, la alegre Kohaku, y Akiha, que se preocupa por mí constantemente.@
+` …… Ciertamente, acostumbrarme a este estilo de vida… es divertido.@ Parece que he vuelto a ser el mismo de hace ocho años.
+\
+` Nunca tuve oportunidad de relajarme tanto cuando vivía con los Arima.@
+` Los Arima también tenían una hija en la escuela media, pero siempre fuimos distantes, y nunca tuvimos oportunidad de hablar.@
+`"Nnn…… tengo mucho sueño."@
+` Me pongo mi pijama y me acuesto en la cama.@
+bg "bg/bg_40d",notrans,0
+` Me acostaré temprano, despertaré temprano, y le daré a Akiha una gran sorpresa[line=3]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+waveloop se_11
+bg "bg/bg_25b",notrans,0
+`"[line=4]¿Huh?"@
+` Repentinamente, me encuentro en la ciudad.
+\
+br
+br
+` Medianoche.@
+` Camino por la ciudad desierta.
+\
+bg "bg/bg_26a",crossfade,800
+` Jadeo fuertemente.@
+br
+` Por alguna razón, me falta el aliento.@
+` Yo.@
+` Con ojos inyectados de sangre, estoy mirando a las personas que caminan por la calle.
+\
+br
+` Estúpidas personas.@
+` Caminando por la calles tan descuidadamente aunque el asesino no ha sido capturado.@
+br
+` [line=4]¿Acaso piensan que son especiales y no serán asesinadas?@ ¿O tal vez quieren morir, pero son incapaces de suicidarse y quieren que alguien les mate?@
+br
+` Bueno, probablemente sea lo segundo.
+\
+br
+` [line=3]Un grupo de personas que no conozco continúa caminando.
+\
+` Ésa no es la persona.@
+` Ésa no es la persona.@
+` Ésa no es la persona.@
+br
+` Las observo atentamente una por una, pero niego con mi cabeza.
+\
+br
+br
+br
+br
+br
+br
+` Ésa no es la persona.@
+` Ésa no es la persona.@
+` Ésa no es la persona.@
+br
+` Aún no puedo encontrar a esa persona.
+\
+` Definitivamente he oído cómo luce esa persona, pero parece que no puedo encontrarla.
+\
+textcolor #ff0000
+`   Me   estoy  enojando   un poco.@
+textcolor #ffffff
+br
+`                      Aquí no.
+\
+`     Aquí no.@
+`                 Aquí no.@
+` Aquí no.@
+`         Por qué.@
+`    Aquí no.@
+`            Aquí no.@
+`                       Aquí no.@
+`   Aquí no.
+\
+` Comienzo a jadear aun más.@
+br
+` En verdad me está haciendo enojar.@
+` ¿¡Por qué esa persona no está aquí,
+!w500
+` por qué esa persona no está aquí,
+!w500
+` por qué esa persona no está aquí,
+!w500
+` por qué esa persona no está aquí,
+!w500
+` por qué esa persona no está aquí,
+!w500
+` por qué esa persona no está aquí[line=5]!?
+\
+`"Ku[line=5]jaja, ja."@
+br
+` Lo he decidido.@
+` Esta noche, cambiaré mi plan.@
+` Cualquiera servirá.@
+` Si puedo matar, cualquiera servirá.@
+` Una vez más.@
+` Una vez más, quiero probar esa maravillosa sensación[line=4]
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_26a",crossfade,400
+br
+` [line=3]Allí.@
+br
+` Una chica con cabello largo pasa caminando.
+\
+`"¡Aki, ha!"@
+` Sí, es Akiha.@
+` Akiha.@ Akiha.@ Mi hermana.@ Mi bella hermana, sólo mía.@
+br
+textcolor #ff0000
+`       Eso es lo que quiero.@
+textcolor #ffffff
+br
+` Mi hermana, sólo mía.@
+` Definitivamente es mía, y sólo mía.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+` La mato por la espalda, teniendo cuidado de no dañar el cuerpo.@
+` Sosteniendo su largo cabello, arrastro su cuerpo.
+\
+bg "bg/bg_31b",crossfade,400
+` Fuerte respiración.@
+br
+` Mordiendo su cuello, chupo su sangre.@
+br
+` [line=5]Mi respiración se hace salvaje.@
+br
+` Este asesinato es diferente a los otros.@
+` Akiha.@ Sólo pensar que ésta es Akiha lo hace sentir tan maravilloso.@
+` Mi cerebro se entumece.@
+` Me excito totalmente.
+\
+br
+br
+br
+br
+br
+` Mientras chupo su sangre,
+` succionando hasta la última gota de sangre, eyaculo una y otra vez.
+\
+`"¿H[line=6]huh?"@
+` Cuando todo termina, me doy cuenta.@
+`"…… ¿Quién es esta persona?@ ¡No es Akiha, en absoluto……!"@
+` Estoy furioso.
+\
+` Aunque rebané el cuerpo en pedazos, aún estoy furioso.@
+` Impostora.@
+` Esta impostora me está enfureciendo.
+\
+` *jadeo*[line=4]*jadeo*[line=4]*jadeo*[line=4]
+` He utilizado energía extra.@
+` La noche no es tan larga.@
+` Una vez que amanezca, Shiki despertará.@
+br
+`"Estoy cansado esta noche.@ Comenzaré de nuevo, mañana."@
+` Sí, eso haré.@ Eso es lo que haré.@
+br
+` Ahora.@
+` Antes de que amanezca, antes de que alguien se percate, debo volver a mi propia cama[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

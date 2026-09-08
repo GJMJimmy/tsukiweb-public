@@ -1,0 +1,55 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Bonjour ！@
+`　为误入歧途闯入Dead End 的远野君特意准备的这个Corner，
+`「教教我吧！@知得留先生！」@的时间终于到了。@
+br
+`　那么，开始好评如潮的动物乐园系列，第三弹。
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`「骗人ー！@　哪有什么动物出来啊ー！」@
+br
+`　退下。@
+`　人间失格（宠物名）、Ｇｏ！@
+ld c,"tachi/kemo_t04",lshutter,400
+br
+`「垃圾，扎死你ー」@
+cl l,lshutter,400
+br
+`「呀啊啊啊ーーーーーーーーー……………喵呜」@
+cl c,lshutter,400
+br
+`　那么，动物系列第三弹。@
+`　为什么远野君会来到Dead End 呢。@
+`　这次我们请来了一位特别讲师，他刚刚完成了工作，此时正在悠闲地散步。@
+`　有请，尼禄教授。
+\
+play "*4"
+ld l,"tachi/nero_t03",lshutter,400
+`「没啥可说的」@
+br
+`　……我说。@
+br
+`「没啥可说的。@我只有在胜利的时候才发言」@
+br
+`　……我说，这个啊，既然我们在这里，就说明是尼禄教授取得了胜利啊。@
+ld l,"tachi/nero_t02c",crossfade,400
+br
+`「[line=3]原来如此，很正确的推理。@
+`　但还是没啥可说的。@千载难逢的好机会都能错过的人我可不认识。@
+`　回到之前去做出正确的选择就好了」
+\
+cl l,lshutter,800
+play "*3"
+`　呃……是，非常感谢您。@
+`　那么第四课就到此为止。@
+`　请继续欣赏游戏本篇的剧情。
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,551 @@
+playstop
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=4]I'll go to my old man's room.@
+` I can't say for sure that I expect to find anything, but I might be able to investigate something about the Tohno lineage.
+\
+bg #000000,lcartain,800
+bg "bg/bg_41",lcartain,800
+play "*3"
+ld c,"tachi/his_t01",lshutter,800
+`"[line=3], ……… Welcome back, Shiki-sama."@
+` ……… And.@
+` There is already someone in the old man's room.@
+` Hisui puts down the mountain of books she is carrying and bows.@
+`"[line=5]Hisui."@
+` …… She looks like she always does.@
+` I was uneasy about seeing her because of this morning, but it seems she is over it already.
+\
+`"I deeply apologize for not being able to welcome you earlier.@ [line=3]May I help you with anything?"@
+`"No, I just thought that I'd look around my old man's room.@
+` As long as I'm not in the way, could I stay here a bit?"@
+`"…… Yes, but Akiha-sama has the keys to the locked shelves and drawers, so I cannot open them.@ Is that acceptable?"@
+`"Locked?@ …… That's fine.@ I'm not really looking for anything in particular."@
+`"[line=7]?"@
+` Hisui tilts her head questioningly.
+\
+`"I'll just look around myself, so please continue.@ I don't want to get in your way."@
+ld c,"tachi/his_t16",crossfade,400
+`"As you wish.@ Well then, if you need anything, please call me."@
+cl c,crossfade,400
+` Hisui resumes cleaning the room.@
+` [line=5]Well then.@
+` I should start too.
+\
+bg #000000,tshutter,800
+bg "bg/bg_41",bshutter,800
+` …… I spend a little time searching the bookshelves, but realize it's useless.@
+` The shelves are all full of books, but nothing about the Tohno family.@
+` What I want to see is something like my family tree or my old man's journal.@
+`"…… I guess things like that are in here……"@
+` I pull the drawers to my old man's desk.@
+` I feel it catch.@
+`"…… But they are locked……"@
+` If I want the key, I have to talk to Akiha.@ …… But from what Hisui says, I don't think she'll open them for me.
+\
+`"[line=5]"@
+` Hisui isn't looking this way.@
+` There is a letter opener on the desk.@
+` This is convenient.@
+` …… Well, might as well use what's given to me.@
+`"………………"@
+` Lowering my glasses a bit, I look at the desk.@
+`"[line=5]There."@
+` Without a sound, I cut the lock.
+\
+`"Hmm[line=3]there's only some papers."@
+` Inside the drawer is only a bundle of old papers.@
+` I pick up a sheet.@
+br
+`"[line=3]What is this?"@
+br
+` The flowing script is difficult to read.@
+` My eyes come to the names Tohno MAKIHISA followed by Tohno SHIKI and Tohno AKIHA.@
+` And after that,
+` I see an unfamiliar name: Nanaya.
+\
+playstop
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_41",crossfade,400
+` [line=7]Suddenly.@
+` For no reason, I see a vision of a dark forest.@
+br
+bg #000000,crossfade,800
+bg "bg/bg_41",crossfade,800
+play "*6"
+`"Ah[line=4]"@
+` My vision thins.@
+` I feel the blood welling in the back of my head.@
+` Strength drains from my limbs, and I feel like I can't breathe.
+\
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_41",crossfade,400
+` [line=4]Why?@
+` Why is it hard to breathe all of a sudden?@
+` It's not like anything happened.@
+` I didn't see anything.@
+` So why am I[line=3]shaking like a small kid?
+\
+ld c,"tachi/his_t12",lshutter,800
+`"Shiki-sama……!"@
+` Hisui…… Hisui rushes over to me.@
+` [line=3]Placing a hand on a bookcase, I somehow manage to stay standing.
+\
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama!@ Please, hold on, Shiki-sama……!"@
+` Hisui's voice is full of worry.@
+` But her hand does not touch me.@
+`"I'm fine[line=3]I just got a little nauseous."@
+ld c,"tachi/his_t08",crossfade,400
+`"Shiki-sama, please do not strain yourself.@ Please have a seat and rest."@
+`"…… Yeah…… I'm fine, so[line=3]"@
+` I manage to hold onto consciousness.@
+` But I'm still dizzy.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+` In my flickering red and black vision.@
+` White.@
+` I see her terribly warm neck.
+\
+wave se_01
+`"[line=5]Ah."@
+` I'm captivated.@
+` If my body could move properly, I would seize Hisui's body and[line=4]
+\
+bg #9c0120,crossfade,400
+` The black vision from my anemia all of a sudden turns deep red.@
+` Hisui's, white neck.@
+` Last night's crimson dream.@
+br
+` [line=4]The nighttime killing.@
+` Painful pleasure, as if my heart would rip itself out.
+\
+bg "bg/bg_41",notrans,0
+`"K[line=6]!"@
+` Unable to bear it, I get away from Hisui.@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama……?"@
+`"No[line=3]I'm fine[line=3]I'm fine, so leave me alone."@
+ld c,"tachi/his_t17",crossfade,400
+`"I cannot do that when you look that ill.@ Please do not strain yourself."@
+` Hisui draws close.@ She comes to support my collapsing body.
+\
+cl c,crossfade,400
+` [line=3]This isn't good.@
+`  This is, bad.@
+` If she comes within reach of my hands, I'm afraid I don't know what I'll do.
+\
+`"Sto[line=3]I'm, fine…… leave, me[line=3]"@
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+` Dizziness assails me.@
+` I feel very faint.@
+` …… But that's fine.@
+` If I collapse, then[line=3]I won't feel the urge to suck Hisui's blood[line=5]
+\
+playstop
+wave se_04
+!w1500
+ld c,"tachi/aki_t04b",lshutter,800
+`"Hisui?@ About yesterday, Kohaku and Nii-san[line=4]"@
+` Eh…… Aki, ha……?@
+ld c,"tachi/aki_t15b",crossfade,400
+`"Nii-san?@ Why are you here[line=4]"@
+cl c,lshutter,400
+` Akiha comes straight to me and snatches the Tohno family lineage away from me.@
+ld c,"tachi/aki_t11b",crossfade,400
+`"Nii-san.@ You broke the lock?"@
+`"[line=8]"@
+` Akiha stares at me angrily.@
+` I[line=3]fighting my dizziness, can't look at her right.
+\
+`"…… I see.@ It can't be helped if you saw it already.@ I will let it go this time, but be prepared for a deserving punishment next time."@
+` Akiha then stares at Hisui.@
+` …… She looks like she almost hates Hisui.@
+`"Ah[line=9]"@
+` She looks like the Akiha in that dream.@
+` A gaze that looks close to malice and hatred.@
+` I almost feel burning heat emanating from her hair.@
+ld c,"tachi/aki_t11c",crossfade,400
+cl c,crossfade,400
+`"Eh[line=9]?"@
+` My heart skips a beat.@
+` Was I hallucinating?@ For an instant, around Akiha[line=3]I thought that I saw something terrible.
+\
+ld l,"tachi/aki_t11b",crossfade,400
+`"[line=4]Hisui, what were you doing?@ Nii-san's body is weak, so you have to at least take away his mental burden.@
+` But letting Nii-san enter Father's room, were you not thinking?"@
+ld r,"tachi/his_t21b",crossfade,400
+`"[line=4]I am, deeply sorry."@
+ld l,"tachi/aki_t01b",crossfade,400
+`"…… Be more careful from now on.@ I have to speak with Kohaku, so tell her to come to my room immediately."@
+cl l,lshutter,800
+` Akiha walks away.
+\
+`"…… Shiki-sama, please return to your room.@ Your condition is not good, so please rest until dinner."@
+` Hisui says this, still looking down.@
+`"…… You're right, I'll go to my room.@ Sorry, Hisui.@ Because of me, Akiha was mad at you."@
+ld r,"tachi/his_t01",crossfade,400
+`"No, it was my fault.@ …… As Akiha-sama says, you are still not used to this mansion.@ Until you are settled in, you should not enter this room."@
+`"…………………………"@
+` I don't know what to say.@
+` Still dizzy, I exit my old man's room.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+play "*1"
+` I eat dinner alone and go back to my room.@
+` I guess Akiha was still feeling poorly because she wasn't there.
+\
+`"[line=8]"@
+` Lying down on my bed, I let out a big sigh.@
+` …… I must be tired.@
+` Recently, as soon as night falls, I fall into bed.@
+` Even though there are a lot of things I should think about, I feel like nothing concerns me and try to sleep.
+\
+`"…… That's odd.@ I can't concentrate[line=4]"@
+` I stare at the ceiling.@
+br
+` My eyes start to close.@
+` Again, I don't think about anything and fall into a deep sleep[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w4000
+bg "bg/bg_24c",crossfade,400
+bg #000000,crossfade,800
+waveloop se_02
+br
+br
+!w1000
+` [line=4]Burning.
+\
+br
+br
+br
+!w1000
+` [line=4]Burning.
+\
+br
+br
+br
+br
+!w750
+` [line=4]Burning.
+\
+br
+br
+br
+br
+br
+!w500
+` [line=4]My skin is burning.
+\
+br
+br
+br
+br
+br
+br
+!w500
+` [line=4]I can't sleep like this.@
+`    I have to get up and drink some water.
+\
+wavestop
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` The nighttime city.@
+` Breathing out in warm gasps, I look at the people passing by.@
+` There are only two or three of them tonight.@
+` If possible, I want to find a lone girl who is about my age.
+\
+br
+br
+br
+` [line=3]Hot.
+\
+` I see my reflection in the mirror.@
+` Breathing wildly, it looks like I'm running a high fever.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Hot[line=2]I can't stand this burning.
+\
+` …… There.@
+` I don't need to get near her.@
+` I grab her from behind and make her pass out.@
+br
+bg #000000,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` I pick her up and take her with me.@
+` [line=3]I start to smile.@
+` I endured it for so long, and now everything is over.
+\
+bg #000000,crossfade,400
+bg "bg/bg_01c",crossfade,400
+` …… I decide to do it here in the end.@
+` The reason is simple.@
+` Because, this was the killer's lair.
+\
+bg #000000,crossfade,400
+bg "bg/bg_10c",crossfade,400
+br
+br
+br
+` [line=3]Burning.
+\
+` My breathing fills the air.@
+` Soon.@
+` Soon I can taste her.
+\
+bg #000000,crossfade,400
+bg "bg/bg_06c",crossfade,400
+` Then I start my meal.@
+` Biting into her neck, I suck the blood.
+\
+br
+br
+br
+br
+br
+` [line=3]It is unbelievably sweet.
+\
+` The sensation is really terrifying.@
+` If it is so sweet and feels so good,
+` I may just become a captive to this sensation, in place of that killer.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]The night is deep.@ Above my head is the silver eye bearing witness to my sin.
+\
+` With blood-smeared lips, I look up at the night sky with eyes full of amusement.@
+` Fluttering hair.@
+` Above is the spiraling sky.@
+` What a beautiful, silver moon.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Like a snake.@ Watching the blood-sucking demon.
+\
+wavestop
+bg #000000,crossfade,800
+playstop
+!w4000
+phase "bg/ima_09",l,koha,07a,7
+bg #ffffff,notrans,0
+!w2000
+bg "bg/bg_40a",crossfade,800
+waveloop se_11
+`"[line=6]!"@
+` I leap out of bed unable to take it.@
+`"Ah[line=3]haa, ha[line=4]ah."@
+` Holding back the urge to vomit, I breathe like a beast.
+\
+`"Wha[line=6]"@
+` What was that just now?@
+` A dream.@ It was a dream.@ But, what was that?@
+` It's different than what I saw two days ago.@
+` The feeling of walking the streets at night.@
+` The smell of blood lingering in my nose.@
+` The sound of pulling that girl who was close to my age.@
+br
+` [line=3]All of it is fresh in my memory.
+\
+`"Ha, ah[line=7]"@
+` Was that something you could call pleasure?@
+` It was pure excitement condensed like a bullet, fired straight into my head.
+\
+`"G[line=3]"@
+` My breathing stops just thinking about it.@
+` Then… perhaps that impact could be something called "pleasure".
+\
+`"Why did I… that kind of dream…"@
+` I look down at my hands.@
+` Of course, they are pure white, without a trace of red blood on them.@
+wavestop
+` But, for an instant,
+` I saw both of my hands covered in red.
+\
+waveloop se_02
+` [line=3]What, you too?@
+br
+` …… Huh?@
+br
+` [line=3]This is the first time I've seen another killer besides myself.@
+br
+` …… That's right.@ I did have that conversation.@
+br
+` [line=3]The same city doesn't need two killers.@
+`   I'll give you this place.@
+br
+` …… But, when was that?
+\
+wavestop
+`"…… Why, can't I remember[line=4]?"@
+` Certainly, I feel like I had that conversation with someone.@
+` But I just can't remember.@
+` Was it real, or was it just an empty dream?@
+` I just remember that the killer said I was the same as him.
+\
+`"[line=3]That's strange.@ …… Why is it…… all mixed up in my head[line=4]"@
+` I earnestly try hard to remember about last night's dream.@
+wave se_05
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+`"Ga[line=4]!?"@
+` My head pounds.@
+`"Agh[line=3]ah, agh………!"@
+` I can't, remember.@
+` When I try to remember about yesterday, I feel the urge to vomit.
+\
+` I'm scared.@
+` I'm scared of the fact that I can't remember.@
+` It feels like…
+` A Tohno Shiki I don't know is killing people, and in order to hide it, is deceiving the Tohno Shiki that is me.@
+br
+` [line=4]And.@
+` I sense someone in the hallway.@
+br
+`"Who's there[line=4]!?"@
+` I call out.
+\
+wave se_04
+` Knock.@ Knock.@
+ld c,"tachi/his_t16",lshutter,800
+play "*2"
+` "Please excuse me," Hisui says as she enters the room.@
+` It's just a normal morning scene.@
+`"Ah[line=9]"@
+` Is it because she is acting so naturally?@
+` My pounding heart calms down immediately.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Good morning, Shiki-sama."@
+`"……… Hisu, i?"@
+ld c,"tachi/his_t04",crossfade,400
+`"Yes, it is time, so I have prepared your change of clothes already.@ …… Um, Shiki-sama?@ Are you not feeling well?"@
+`"No, that's not it.@ I feel fine.@ There's nothing wrong."@
+` I get up from bed, as if to prove my words.
+\
+`"Morning, Hisui.@ I'll go to the sitting room after I change, so please go ahead of me."@
+ld c,"tachi/his_t16",crossfade,400
+`"Yes.@ Well then, please excuse me."@
+cl c,lshutter,400
+` Hisui quietly closes the door and leaves.@
+` After she leaves, I take a deep breath.
+\
+`"Why am I feeling down like that?"@
+` Probably because I found out about my old man's illness yesterday.@
+` Just because my symptoms are similar to his, maybe I'm being too paranoid.@
+`"…… Yeah.@ Ever since I came back, I've been so tired.@ I shouldn't think about that dream."@
+br
+` [line=3]Well then.@
+` It's almost seven.@
+` Like yesterday, I should be able to enjoy the morning.
+\
+bg #000000,crossfade,400
+bg "bg/bg_34a",lcartain,400
+` [line=4]And then.@
+` Unthinkingly, I step into the sitting room and it hits me that I forgot something very important.@
+`"Oh cra[line=5]"@
+` I swallow my words.
+\
+` Akiha, Hisui and Kohaku-san are in the sitting room.@
+` Everything seems just like normal, but after the thing yesterday, I'm sure it'll be really uneasy.@
+` Akiha and Kohaku-san seemed to have reached an understanding, but I haven't spoken with Akiha yet.@
+` Thinking how Akiha acted yesterday, I'm pretty sure Akiha's still mad at me.
+\
+ld c,"tachi/aki_t09",lshutter,400
+`"Good morning, Nii-san.@ Did you sleep well?"@
+`"[line=8]Huh?"@
+` And.@
+` Akiha greets me with a big smile.
+\
+cl c,lshutter,400
+`"Uh……………?"@
+` My mind freezes at such an unexpected event.@
+` Akiha still has a big smile as I just stand there.@
+` Akiha is way too cheerful and it makes me think she is planning on something.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama, would you care to sit down?"@
+`"Ah…… yeah, if you want me to sit, I will."@
+` I fearfully look at Akiha as I sit down across from her.@
+cl c,lshutter,400
+`"Morning, Akiha.@ You seem to be in a good mood today."@
+ld c,"tachi/aki_t08a",lshutter,400
+`"Is that so?@ Certainly I feel much better, so I probably look less pale than before."@
+` …… No, it is far beyond not looking pale.
+\
+ld c,"tachi/aki_t09",crossfade,400
+`"Anyway, first I have to thank you.@ I really wanted to thank you yesterday, but I was feeling rather ill and did not have a chance to."@
+` Akiha looks directly at me.@
+` There isn't even a trace of yesterday's coldness.@
+` …… It also seems that the air of danger has disappeared.
+\
+`"Thank me?@ I didn't really do anything to deserve that."@
+`"That's not true.@ You took care of me when I was sick, right?@
+` Because you embraced me, I was determined.@ I was extremely happy that night."@
+`"[line=7]!"@
+` She says something that catches me totally off guard.@
+cl c,lshutter,400
+br
+` [line=4]And then.@
+` I feel some heavy pressure against my back.
+\
+` I glance back.@
+ld r,"tachi/koha_t03",lshutter,400
+ld l,"tachi/his_t01",lshutter,400
+` …… There, Hisui and Kohaku-san stare at me in a manner far different than usual.
+\
+cl a,lshutter,400
+`"[line=3]Akiha.@ Don't say things that might give people the wrong impression.@ You were in so much pain, I just supported you, that's all."@
+ld c,"tachi/aki_t08a",lshutter,400
+`"Oh?@ I suppose wrapping your arms around me is just supporting me?"@
+` Akiha giggles softly.@
+` Staring.@ They're staring at me.@
+` The stares of the two behind me get even heavier.
+\
+`"[line=3]Now look.@ You're acting odd.@ Are you enjoying making fun of me?"@
+`"Yes, a lot.@ Looking at your troubled face is fun."@
+`"……………"@
+` This is just too weird.@ Is this really Akiha's personality?
+\
+`"You have some strange hobbies.@ Bothering me in the morning and lecturing me last night.@
+` …… Well, I thought so at first, but you really must have something against me."@
+` I end with a sigh.@
+cl c,lshutter,400
+` All of a sudden, Akiha averts her gaze.
+\
+ld c,"tachi/aki_t13a",lshutter,400
+`"…… I'm very sorry.@ What I did yesterday was stupid.@ There was something wrong with me, and I've already apologized to Hisui[line=3]"@
+`"You apologized to Hisui!?"@
+` I blurt this out in surprise.@ Not only did she apologize, but she apologized to Hisui.@
+ld c,"tachi/aki_t21",crossfade,400
+`"[line=3]Hey.@ Nii-san, just what kind of person do you think I am?@ I was at fault, so it is only natural that I apologized to Hisui, right?"@
+` …… When she says that, I get a vague mental image of her acting as a strict mistress.
+\
+ld c,"tachi/aki_t02",crossfade,400
+`"Nii-san.@ You're thinking of something bad, aren't you?"@
+` …… She's sharp.@ As happy as she was, it didn't do anything to dull her sense of perception.
+\
+cl c,lshutter,400

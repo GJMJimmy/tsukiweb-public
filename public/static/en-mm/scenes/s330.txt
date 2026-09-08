@@ -1,0 +1,96 @@
+play "*3"
+wavestop
+bg "bg/bg_06b",notrans,0
+` …… The events which happened during lunch break still weigh on my mind.@
+` I'm sure she can walk home alone, but I feel I ought to go and check on Akiha.
+\
+bg "bg/bg_11b",lshutter,800
+` I walk along the corridor lit by the fading sun.@
+` I think Akiha's class is first grade, class one.@
+br
+bg #000000,lshutter,400
+bg "bg/bg_06b",lshutter,400
+` The classroom is silent.@
+` A girl stands alone in the empty, red classroom.
+\
+playstop
+monocro #ff0000
+ld c,"tachi/aki_t01a",crossfade,400
+`"……"@
+` …… I feel… a little dizzy.@
+` The classroom dyed by the evening glow.@
+` Alone, a girl with long, faintly red hair is preparing to leave.@
+br
+` No matter how I look at her, she's Akiha.@
+` So why?@ Why do I feel as if I am seeing a stranger for the first time?
+\
+bg "bg/bg_06b",crossfade,800
+monocro off
+play "*3"
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san?"@
+`"[line=6]"@
+` As she calls out to me, the dizziness subsides.@
+`"You're[line=3]Akiha, right?"@
+ld c,"tachi/aki_t04a",crossfade,400
+`"…?@ Nii-san, are you feeling poorly again?"@
+` Akiha addresses me in her usual tone.@
+` …… Looking at Akiha's black hair, I feel that without a doubt, this is my own little sister, Tohno Akiha.
+\
+`"…… Nah, it's nothing.@ Come on, Akiha, it's time to go back.@ If you're not doing anything, do you want to walk home together?"@
+ld c,"tachi/aki_t09",crossfade,400
+`"Yes… if you don't mind, let's walk home together."@
+` For some reason, Akiha smiles tenderly.@
+` …… My heart thumps.@
+` Perhaps it's the dizziness from earlier, or perhaps the strangeness of seeing Akiha in my own school.@
+` For some reason, my heart beats far harder than it needs to.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01b",lcartain,800
+` I leave the school building with Akiha.@
+` As we reach the school gates, I catch sight of Senpai waving at me.@
+ld c,"tachi/cel_t03",lshutter,800
+`"Ah, you came at last, Tohno-kun."@
+`"Huh, Senpai?@ What are you doing, standing here like this?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Geez, I wasn't just standing here, I was waiting for you, Tohno-kun, but[line=3]"@
+cl a,crossfade,400
+` Senpai glances at Akiha next to me.@
+` Somehow, at a glance she realizes that Akiha and I are walking home together.
+\
+ld l,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, is this your little sister?"@
+` Senpai throws a sidelong glance at Akiha.@
+ld r,"tachi/aki_t01a",crossfade,400
+`"………………………"@
+` Akiha says nothing.@
+` Nothing is said, but both Senpai and Akiha tell me with their eyes to "Introduce me to this person".@
+br
+` [line=4]Ahh.@
+` It seems like this is going be a really tiresome job.
+\
+`"Senpai, this is my younger sister, Akiha.@ She transferred to our school just today."@
+` Akiha bows to Senpai.@
+ld l,"tachi/cel_t01a",crossfade,400
+`"I see.@ Hello.@ My name is Ciel and I'm a friend of Tohno-kun."@
+ld l,"tachi/cel_t07a",crossfade,400
+ld r,"tachi/aki_t11a",crossfade,400
+` …… What is it?@
+` Senpai and Akiha just stare at each other, saying nothing.
+\
+cl a,crossfade,400
+`"Senpai, you sounded like you were waiting for me… What's going on?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Well, it just happened that I wanted to spend a little time with you, but[line=3]
+ld c,"tachi/cel_t01a",crossfade,400
+` [line=3]Since it's already late today, I'll leave it for another time.@ Bye, Tohno-kun.@ See you tomorrow as well, Akiha-san."@
+`"Bye" says Senpai, and she walks away from us.
+\
+cl a,lshutter,400
+`"[line=4]Ah."@
+` Senpai leaves without giving me a chance to stop her.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Let's go home, Nii-san.@ It will get dark soon."@
+` Akiha says this as if nothing happened.
+\
+bg #000000,lcartain,800

@@ -1,0 +1,93 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` [line=3]Não consigo encontrar uma resposta.@
+` Mas sei muito bem que não posso abandonar a Akiha.@
+`"[line=7]!!"@
+` Eu interrompo o fluxo de emoções.@
+` Sem pensar direito, vou atrás dela.
+\
+!w1000
+bg "bg/bg_54a",lcartain,800
+play "*8"
+` [line=2]Para a minha surpresa, ela não saiu da área da mansão.@
+br
+` Sob o luar.@
+` Sob a árvore com flores de outuno que conversamos naquela noite.@
+` Ela está lá.
+\
+bg #000000,lshutter,800
+bg "event/aki_e06",lshutter,800
+` Ela está quietinha.@
+` Não se mexe.@
+` Ela observa as flores que caem como uma criança inocente.
+\
+`"[line=8]"@
+` O que[line=3]eu vou fazer?@
+` Sem motivação, sem inteligência, apenas uma garota imóvel.@
+` Não há crime algum.@
+` A culpa não é dela…
+br
+` [line=5]Por favor, me mate.@
+br
+` Eu me lembro dessas palavras.
+\
+` [line=3]Por favor, me mate com as suas próprias mãos.@
+br
+` Foi um pedido cruel.@
+` Era só o que ela podia me pedir[line=4]ela não poderia me pedir ajuda.@
+` Se tivesse me pedido[line=4]eu teria ficado ao seu lado até o último momento, mesmo que o mundo inteiro estivesse contra mim.@
+br
+` [line=3]Por favor, mantenha a sua promessa.@
+br
+` …… Que tratamento severo.@
+` Sei que a abandonei por oito anos, mas não esperava ter que pagar um preço tão caro por isso.
+\
+`"[line=9]"@
+` A Akiha disse que…
+` Não saber quem você é e sair por aí matando as pessoas por puro instinto é muito mais assustador do que a morte.
+\
+` A Senpai disse que…
+` Se você se torna algo que sai por aí matando as pessoas por puro instinto, às vezes a morte é a sua única salvação.
+\
+`"[line=8]"@
+` Eu seguro firme na faca.@
+` Surpreendentemente, não sinto tristeza alguma.@
+` É como se a minha mente estivesse totalmente vazia; eu não quero sentir nenhuma emoção.@
+`"Akiha[line=3]"@
+` Piso nas folhas de outono enquanto caminho até ela.@
+` Ela percebe a minha presença e me cumprimenta com um belo sorriso.
+\
+`"[line=5]Está na hora."@
+` Seguro a faca com muita força.@
+` Ela sorri.@
+` Ela ri com muita felicidade ao cumprimentar a pessoa que vai matá-la.@
+`"[line=7]!!"@
+` A minha mente enfraquece.@
+` Mas já comecei a andar.
+\
+` [line=3]A morte pode ser a salvação.@
+br
+` Eu continuo andando.@
+` Ela não foge, apenas me espera com um lindo sorriso.@
+br
+` [line=4]Por favor, me mate.@
+br
+` As folhas de outono caem.@
+br
+` [line=3]Esse foi o seu último pedido.
+\
+` A Akiha está rindo.@
+` Não há mais distância para atravessar.@
+` Agora, tudo que preciso fazer é esticar o braço.@
+br
+` [line=4]Não importa o quanto seja doloroso para mim…
+br
+`"Eu tenho que te matar."@
+playstop
+br
+` Ao dizer isso…
+` Os meus olhos enchem de lágrimas.
+\
+bg #000000,crossfade,400

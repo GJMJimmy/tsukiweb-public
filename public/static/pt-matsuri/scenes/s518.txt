@@ -1,0 +1,24 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Esta é a última lição de hoje, mas vamos manter o alto astral.@
+` Pois é, já que é uma história enorme, você pode ficar com sono, ou com fome, ou seus dedos podem estar cansados, mas por favor, planeje adequadamente seu tempo, de modo que sua agenda e seus níveis de energia permitam que você continue jogando.@
+br
+` Então, ao assunto principal.@ É logo depois da escola né?@
+` A razão é óbvia, não concorda?@
+` Fico irritada de ter que defendê-la, mas se você já chegou até aqui, tem que continuar até o final!
+\
+` …… Sendo assim, acho que talvez este seja um final feliz para o Tohno-kun.@
+` Talvez o título "Creme" defina tudo.@
+` Isso realmente dá um aperto no coração.@
+br
+` Isso conclui as lições do dia.@
+` Vamos nos encontrar novamente no segundo dia de lições! Até lá!
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,946 @@
+phase "bg/ima_02",l,aki,12a,12
+bg #000000,crossfade,800
+play "*7"
+` [line=3]Eu tive um sonho.@
+br
+` Não, eu sonhei, mas o sonho não era meu.@
+` Foi naquele dia.@
+` A garotinha se agarrava a mim chorando e compartilhou a sua própria vida comigo.@ Eu estava vendo o sonho dela.
+\
+bg #ffffff,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Nós vivemos sozinhos e morremos sozinhos, Akiha.
+\
+` Essas foram as primeiras palavras que o meu pai me ensinou.@
+` Eu não sabia o que elas significavam.@
+` Mas me lembro de sentir um desconforto ao ver os seus olhos inorgânicos enquanto me dizia essas palavras.@
+` Ele era uma pessoa muito solitária.@
+` E eu sabia que, um dia, ficaria igual a ele[line=4]
+\
+!w2000
+monocro #ffff00
+bg "bg/bg_36a",crossfade,800
+` [line=3]Eu nasci na família Tohno e tinha um irmão mais velho.@
+` Mas não conseguia me dar bem com ele.@
+` Os meus pais disseram que ele era meu irmão, mas não era o que parecia para mim.
+\
+bg "bg/bg_41",crossfade,800
+` Possuir o sangue Tohno é possuir sangue não-humano.@
+` Talvez fosse por isso que eu o via de forma tão diferente.@
+br
+` Eu não podia aceitar o meu irmão.
+\
+bg "bg/bg_34a",crossfade,800
+` Quando fiz seis anos…
+` Um garoto estranho entrou na nossa vida[line=4]ele foi apresentado como nosso novo irmão.@
+` No início, eu não gostei do nome dele, porque soava exatamente como o nome do meu irmão.@
+` Ele era alguns anos mais novo que o meu irmão, porém era maduro e gentil com todos.
+\
+bg "bg/bg_42a",crossfade,800
+` Embora eu fosse restringida pelas regras da minha família, o garoto me tirava de casa para brincarmos e fazia isso como se fosse a coisa mais normal do mundo.@
+` Eu o seguia em silêncio e começava a me interessar pelo meu novo irmão.@
+` Ele era espalhafatoso, não ficava quieto nem por um minuto e às vezes era meio rude, mas…
+` De alguma forma, eu sabia que aquele garoto me protegeria independente do que acontecesse.
+\
+bg "bg/bg_36a",crossfade,800
+` Por ser uma filha da família Tohno, eu vivia separada do meu irmão e do garoto.@
+` O meu pai dizia que eu não seria capaz de levar uma vida normal por causa do sangue especial da família Tohno.@
+br
+` Eu conseguia suportar os estudos rigorosos e havia aceitado o meu destino.@
+` …… O meu pai não fez isso porque não gostava de mim.@
+` Eu digo a mim mesma que ele ralhava comigo com tanta grosseria somente porque me amava.
+\
+br
+br
+br
+` A minha mente estava desgastada.@
+` A minha cabeça só ficava mais cheia com o passar dos dias.@
+bg #000000,crossfade,800
+br
+` Mas eu sentia que conseguiria suportar aquela situação.@
+` Porque, enquanto eu tivesse um pouco de tempo livre, poderia sair para brincar depois que terminasse as minhas lições.
+\
+bg "bg/bg_42a",crossfade,800
+` Nós três começamos a brincar juntos.@
+` Os dois garotos se davam muito bem.@
+` Normalmente, eu apenas os seguia em silêncio.
+\
+` O meu irmão parecia saber que o garoto era diferente de nós.@
+` E o tempo voava quando eu brincava com pessoas normais igual aos dois.@
+` Eu queria valorizar ao máximo aquele tempo juntos.@
+` Desejando que, quando eu amadurecesse e ficasse sozinha na mansão, que era uma prisão para mim…
+` Eu não me sentiria solitária ou ficaria me segurando para não chorar, porque teria essas lembranças felizes.
+\
+` [line=3]Foram muitas lembranças.@
+br
+` Houve momentos especiais nesses dias especiais que tive.@
+` Houve uma noite em que fui para bem longe com o garoto.@
+br
+` Era uma noite muito escura e estávamos em um campo cercado por árvores.
+\
+bg #000000,lshutter,800
+` [line=2]Essa experiência foi como um sonho sendo realizado.@
+br
+` Todos os dias eram animados, como se eu estivesse em um festival de verão.@
+` Mas…
+` Tudo terminou abruptamente.
+\
+monocro off
+bg "bg/cmo_05",crossfade,800
+` Um dia quente de verão.@
+` Eu vi o meu irmão no jardim e fui em sua direção.@
+` Ele estava agachado no chão e muito ofegante.@
+br
+` Eu estava com um mau pressentimento.@
+br
+` Eu ouvia o canto das cigarras e o chão começou a balançar.@
+` Como estava sentindo essa estranha tontura, chamei pelo meu irmão.
+\
+` A pessoa que virou o rosto para me encarar não era o meu irmão.@
+br
+` Eu não podia fazer nada.@ Apenas fiquei observando enquanto ele se transformava em um monstro.@
+` A ideia de que, no futuro, eu poderia me tornar um monstro como ele, paralisou o meu corpo.@
+br
+` O monstro sedento por sangue me atacou.@
+` Eu não pude correr.@
+` E naquele momento, alguém puxou a minha mão.
+\
+monocro #ffff00
+bg "bg/bg_53",lshutter,800
+` Quando me virei, vi o garoto.@
+` Ele me puxou pela mão e ficou na minha frente.@
+` …… Será que não estava assustado?@
+` Ele permaneceu na frente daquele monstro horrível para me proteger.@
+br
+` Mas o monstro só tinha olhos para mim.@
+` O monstro que me atacou, e o garoto que ficou entre nós dois.
+\
+` Splash.@
+` Eu me lembro do momento em que o sangue quente espirrou nas minhas bochechas.
+\
+` …… O garoto me abraçou e protegeu a sua irmã do monstro.@
+br
+` Embora o seu corpo estivesse com um buraco enorme e ele estivesse sangrando muito, ainda assim, ele me abraçou.@ Ele protegeu o meu pequeno corpo e não me soltou.
+\
+` Quando olhei para cima, vi que ele estava chorando.@
+` As lágrimas pareciam ser de arrependimento, não de dor.@
+br
+` [line=3]"Me desculpa", disse o garoto.@
+br
+` Ele me abraçou antes de morrer, com a esperança de que o seu cadáver continuaria me protegendo depois que ele se fosse.
+\
+` O garoto continuou pedindo desculpas.@
+br
+` Se eu fosse parte da sua família de verdade, provavelmente poderia ter te protegido direito.@
+` É tão frustrante[line=3]eu não pude ser o seu irmão de verdade.@
+` Eu juro que[line=3]você teria sido mais importante para mim do que qualquer outra pessoa no mundo.
+\
+` …… Ele morreu sussurando essa confissão.@
+` O garoto desejou pela minha segurança mesmo depois de morrer e tentou ser meu irmão muito mais do que o meu irmão de verdade.@
+br
+` …… Aquelas palavras foram o bastante.@
+` Eu não precisava de mais nada.@
+` Eu entendi tudo e[line=4]chorei ao entender que esse garoto nunca iria me trair.@
+` Embora tenha sido imprudente da minha parte, eu o abracei de volta e chorei de felicidade.@
+` Eu estava feliz porque havia entendido que esse garoto era a única pessoa que importava para mim.
+\
+bg #ffffff,crossfade,800
+` Não sei o que houve depois disso.@
+` Quando dei por mim, a única lembrança que tinha era do monstro sendo arrastado para algum lugar e do corpo do garoto sendo carregado para a mansão.
+\
+bg "bg/bg_41",crossfade,800
+` E o meu pai deixou algo bem claro.@
+` Ele disse que o filho que adotou morreu no acidente e que o meu irmão de verdade foi quem sobreviveu.@
+` …… Eu sabia que aquilo era para manter as aparências para as pessoas, mas não me importei.@
+br
+` Ele estava vivo.@ E isso era tudo o que eu desejava.@
+` …… Mesmo que o garoto se torne o meu irmão de verdade em nome e mesmo que ele pense que é verdade…
+` Eu disse para mim mesma que não tinha problemas, contanto que eu permanecesse ao lado dele como a sua irmã, não havia problema algum.
+\
+bg "bg/bg_36a",crossfade,800
+` …… Oito anos se passaram e o nosso pai morreu.@
+` Eu subi ao posto mais alto da Casa Tohno e decidi trazê-lo de volta para a mansão, ignorando a oposição de todos.@
+br
+` Como sucessora, não tenho liberdade alguma, mas posso agir de forma egoísta pelo menos uma vez na vida.@
+` Sendo assim[line=4]resolvi usar essa oportunidade a favor do meu amor que nunca poderá ser mencionado.
+\
+` Para mim, isso era o suficiente.@
+` Eu tomei tudo dele.@
+` Portanto não posso querer mais do que isso.@
+br
+` [line=3]Naquela época.@
+` A felicidade que tive ao observar as estrelas com ele nunca mais ocorreria, mas…
+br
+` Contanto que ele esteja aqui, não me importo com mais nada.@
+` A única coisa que importa é o Nii-san voltar.@
+br
+` [line=3]Era uma noite muito escura e estávamos em um campo cercado por árvores.
+\
+br
+br
+br
+br
+br
+br
+` Que…
+` Sonho feliz e egoísta[line=3]
+\
+monocro off
+bg #000000,crossfade,1500
+playstop
+!w3000
+bg #ffffff,crossfade,800
+bg "bg/bg_18b",tshutter,800
+play "*1"
+` [line=4]Dor.@
+` Acordo por causa da dor no peito.
+\
+`"……………… Ha."@
+` Um quarto desconhecido.@
+` Estou deitado em uma cama e a parte de cima do meu corpo está nua.@
+` Mas vejo ataduras brancas cobrindo todo o meu peito.@
+`"[line=6]"@
+` A minha memória está confusa.@
+` O que está acontecendo[line=4]o que está acontecendo nesse exato momento é… Está tudo muito confuso dentro da minha cabeça e não consigo entender nada.
+\
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18b",notrans,0
+`"…………!!"@
+` A única certeza que tenho é que o meu peito dói muito.@
+` …… Esse ferimento no meu peito.@
+` Eu fui apunhalado por trás.@
+` Mas por quem?@ Eu nem preciso ficar tentando adivinhar.@
+` Eu fui apunhalado pelo SHIKI[line=4]e a Akiha[line=3]
+\
+`"Akiha……!"@
+` Eu me levanto da cama.@
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18b",notrans,0
+`"Aaaaiiii[line=4]!?"@
+` Eu paro subitamente.@
+` O ferimento no meu peito dói muito e o meu corpo enrijece.@
+`"A[line=5]aaaaiiiii[line=5]"@
+` Dói até para respirar.@
+` Não consigo me levantar desse jeito[line=4]
+\
+ld c,"tachi/cel_t12",lshutter,800
+`"Ah, já acordou, Tohno-kun?@ Estou surpresa.@ Não era para você acordar tão rápido com um ferimento desses."@
+`"O qu[line=3]Sen[line=2]pai……?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Sim.@ Sou eu.@ E pode relaxar que você está no meu apartamento.@ Embora aquele vampiro esteja atrás de você, ele não viria aqui."
+\
+`"É você mesmo…… Senpai, achei que nunca mais ia aparecer na minha frente……!"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Era o meu plano, mas eu tinha que ajudá-lo naquela situação."@
+cl a,lshutter,800
+` Ela diz isso e se aproxima da cama.
+\
+`"Olha só, o ferimento se abriu porque você tentou se mover.@ Vou trocar as ataduras."@
+` Com muita habilidade, a Senpai remove as ataduras do meu corpo e as substitui por novas.@
+` Elas estão apertadas.@
+`"…… Hum…… Senpai, eu me sinto mal por tocar no assunto, já que você está cuidando tão bem de mim, mas é que as ataduras estão muito apertadas."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Eu sei, estou fazendo isso de propósito, assim você vai poder se mover sem acontecer o pior.@ Será que poderia ficar quieto por um instante?"@
+cl a,crossfade,400
+`"Ah, tá…… Desculpa."
+\
+` Peço desculpas e dou uma olhada ao meu redor.@
+` Este deve ser o quarto da Ciel-senpai.@
+` Acho que fui apunhalado pelo SHIKI e resgatado pela Senpai logo em seguida.@
+` Mas então[line=4]o que houve com a Akiha?
+\
+`"Senpai e a Akiha!?@ Onde ela está!?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"…………………"@
+` Ela fica paralisada.@
+`"Senpai[line=4]!"@
+`"…… As circunstâncias determinaram que eu poderia salvar apenas uma pessoa.@
+` Eu não conseguiria fugir daquele vampiro carregando duas pessoas.@
+` Portanto[line=3]dei prioridade a você, porque tinha uma chance maior de recuperação."
+\
+`"O qu[line=4]você abandonou a Akiha……!?"@
+`"…… Sim.@ De toda forma, a vida dela não pode ser salva.@ Eu não colocaria a sua vida em perigo para salvar a dela."@
+`"O qu[line=4]"@
+br
+` Que[line=3]merda é essa que ela está dizendo?
+\
+`"Por quê……!?@ Por que me salvou……!?@ O seu trabalho não é matar vampiros!?@ Você deveria ter esquecido que eu existo e aniquilado o SHIKI que estava bem na sua frente……!"@
+`"…… Eu poderia ter feito essa escolha sim, mas provavelmente você teria morrido.@
+` O seu ferimento estava muito profundo e você teria morrido se eu não o tivesse tratado logo.@ Eu não tinha certeza de que conseguiria matar aquele vampiro rapidamente, por isso tomei a decisão mais segura e fugi com você."
+\
+`"[line=3]E por causa disso abandonou a Akiha!?@ A sua ajuda[line=4]a sua ajuda foi desnecessária!@ Tenho certeza de que a Akiha teria sido salva se você tivesse matado o SHIKI……!"@
+`"…… Não vou negar isso.@ Mas, Tohno-kun, a Akiha-san não está morta.@ O objetivo daquele vampiro é transformá-la em alguém como ele.@
+` Ela não vai ser morta.@ Você era a única pessoa ali que iria morrer.@ Será que não consegue entender esse fato, Tohno-kun?"@
+`"[line=6]"@
+` …… Não posso refutar.@
+` Ela está certa.@
+` O que deu em mim para[line=3]descontar a minha impotência nela?
+\
+`"…… Olha, me desculpa, mas eu[line=4]eu não posso acreditar que aquele cara não mataria a Akiha.@ Ele é um assassino.@ Sei disso melhor que qualquer um……!"@
+`"…… Tohno-kun.@ A Akiha-san não vai ser morta.@ Mas, por favor, desista dela.@
+` Ela[line=4]não vai ser capaz de voltar ao normal."@
+`"Eu sei disso……!@ Mas é só a cor do cabelo.@ Ela não é como o SHIKI."
+\
+`"Não, Tohno-kun.@ Entenda que o propósito daquele vampiro é 'obter' a Akiha-san.@
+` Tohno SHIKI[line=3]o irmão de sangue dela já não é mais humano.@ Portanto ele deseja alguém que seja como ele.@
+` [line=3]Será que não consegue entender?@
+` Ele não a quer como humana.@ Foi por isso que a atacou ontem, mas não a matou.@
+` Eu não sei como, mas ele deve ter encontrado uma forma de despertar o sangue não-humano dos Tohnos."
+\
+`"[line=5]"@
+` Agora que ela tocou no assunto, eu me lembrei de algo.@
+` Desde o momento que ele nocauteou a Akiha e ela ficou todo aquele tempo inconsciente…
+` O cabelo dela continuou vermelho e não voltou mais ao normal.
+\
+`"Senpai[line=4]como é que você sabe tanto assim da situação[line=3]?"@
+`"Eu te obriguei a falar enquanto dormia.@
+` …… Peço desculpas por fazer isso sem o seu consentimento, mas considere como uma compensação pelo seu resgate."@
+`"[line=7]"@
+` Eu não ligo.@
+` Não há motivos para ela se desculpar.@
+br
+` Nada disso importa.@
+` O que importa é que preciso ir atrás da Akiha[line=3]
+\
+`"Kuh………!"@
+` Eu me levanto da cama.@
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_18b",notrans,0
+` Que dor!@
+` É como se alguém estivesse arremessando facas em todas as partes sensíveis do meu corpo.@
+`"Ah[line=4]Guh…………!"@
+` Mas consigo me mover.@
+` Se posso me mover[line=4]não vou ficar aqui sem fazer nada.
+\
+`"[line=4]Senpai, você está com a minha faca, né?@ Pode me devolvê-la?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Vai voltar para a mansão, Tohno-kun?"@
+` Nem preciso responder.@
+` Ela está com a faca na mão e fica na minha frente.
+\
+`"Tanto o vampiro quanto a Akiha-san estão lá."@
+`"[line=5]"@
+`"Mas já faz seis horas desde que você desmaiou.@ …… Provavelmente é tarde demais."@
+`"Eu já disse……!@ Nada disso importa.@ Eu não me importo com a aparência da Akiha.@
+` Já me decidi que quero ficar com ela.@
+` …… Há muito tempo, eu prometi que seria o seu irmão de verdade, como em uma família de verdade."
+\
+` Digo isso e sinto vontade de chorar.@
+` …… Essa promessa é muito antiga.@
+` Eu mesmo havia me esquecido dela.@
+` A família que não agia como uma família.@
+` Mesmo assim[line=3]eu trabalhei duro para me tornar um membro dessa família.@ Ela se importou comigo mais do que com qualquer outro membro da sua família de verdadeSomente ela.@ Somente ela.@
+br
+` Eu sabia que era mentira desde o início.@
+` Mas tentamos proteger aquela mentira.@ …… Nossa[line=4]eu gostaria de nunca ter sabido.@
+` Que sonho frágil e distante!
+\
+`"…… Tohno-kun, pode até ser verdade que você aceite-a independente do que ela se torne.@
+` Mas isso é só a sua interpretação egoísta.@
+` A própria Akiha-san não vai querer uma existência dessas."@
+`"…… A Akiha não vai querer uma existência dessas……?"@
+br
+` …… Alguém já disse isso antes.
+\
+`"Ouça-me bem.@ A Akiha-san vai enlouquecer caso se transforme em uma dos 'Tohnos'.@
+` A razão dela vai perder a luta contra o seu instinto, e ela simplesmente vai continuar repetindo vários assassinatos sem sentido algum, assim como faz o Tohno SHIKI."
+\
+`"Vão ser assassinatos que ela jamais gostaria de cometer.@ E ela mesma não vai nem saber que está fazendo isso tudo.@
+` Já não existe mais a garota conhecida como 'Akiha-san' dentro dela.@ Tudo o que sobrou foi uma ação[line=4]a ação conhecida como 'assassinar'."@
+`"[line=6]"
+\
+`"Entendeu, Tohno-kun?@ Não serão as pessoas mortas por ela que mais vão odiá-la.@ Ela se odiará mais do que qualquer ser vivo no mundo.@
+` Porém ela não tem emoções para sentir isso.@
+` [line=3]A não ser que morra.@
+` Para acalmar o sangue desperto, você precisa resetar tudo.@ Para fazer isso, precisará matá-la.@
+` Se ela tiver mudado, a antiga Akiha-san não vai mais estar naquele corpo.@ Ao morrer, ela poderá voltar ao seu 'eu' original."
+\
+` …… Agora eu me lembro.@
+` Foi a Akiha quem disse aquilo.@
+br
+` [line=3]Por favor, me mate.@
+br
+` Ela disse isso enquanto chorava.
+\
+`"[line=6]"@
+` Não consigo responder nada.@
+` Achei que o meu sangue estaria fervendo nesse minuto.
+\
+`"O qu[line=5]"@
+`"Eu sei que é doloroso, mas, por favor, desista[line=3]"@
+`"Quanto[line=4]egoísmo[line=4]!"@
+cl c,lshutter,400
+`"Kya!?"@
+wave se_10
+quakex 2,200
+` Eu pego a Senpai pelo colarinho e a empurro na parede.@
+` Essa raiva não é direcionada a ela.@
+` Mas ela não deveria falar dessa forma sobre a Akiha.
+\
+`"Você[line=3]está me dizendo para matar a minha irmã……!?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=6]Sim.@ Se é o que ela desejar, vou deixar essa responsabilidade com você."@
+`"P-para de ficar brincando com coisa séria………!@ Eu não posso matá-la.@ Você mesma me disse para não matar independente da situação………!"@
+ld c,"tachi/cel_t09",crossfade,400
+`"Tohno-kun[line=6]"@
+` O seu rosto sem expressão começa a se desfazer.@
+` …… Eu sei.@
+` Sei que ela não está dizendo essas coisas por maldade.
+\
+`"…… Existem coisas muito mais dolorosas que a morte e a Akiha-san sabe disso."@
+`"[line=4]"@
+`"…… E se ela já mudou, não será mais humana.@ Embora possa chamá-la de uma 'criatura viva', você não pode chamar de humano algo que não consegue pensar por si mesmo."@
+br
+` Ao dizer isso…
+` Ela me entrega a faca.
+\
+`"[line=3]Caçar vampiros é o meu trabalho.@ Eu vou cuidar do vampiro, portanto[line=4]"@
+`"…… Não.@ Eu sinto muito, mas você vai ficar aqui, Senpai."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Hein…… Tohno-kun?"@
+`"…… Eu tenho contas a acertar com aquele monstro.@ É problema nosso…… Sinceramente, não quero que se envolva mais nisso tudo."@
+`"[line=6]"
+\
+`"Mas se algo me acontecer, deixo o resto por sua conta.@ …… Eu sei que é muito egoísmo da minha parte, mas será que você poderia concordar com isso?"@
+`"[line=6]"@
+` Ela aperta bem os olhos.@
+` É como se não estivesse acreditando no que está vendo ou ouvindo.
+\
+`"…… Tudo bem.@ Realmente é muito egoísmo, mas vou deixar você cuidar da situação.@
+` Só que não consigo entender[line=4]por que está disposto a fazer isso tudo?@ Você nem faz parte da família Tohno, então, por quê?"@
+br
+` [line=4]Por quê?@
+` Eu sei bem o porquê.
+\
+`"Você mesma já respondeu essa pergunta.@ É porque a Akiha é mais importante para mim do que eu mesmo.@
+` …… Mas não posso amá-la da forma como deseja, por isso tenho que ir."@
+br
+` [line=3]Todo esse tempo…
+` A Akiha esteve sofrendo sozinha.@
+` Comparado a isso, essa dor que sinto não é nada.
+\
+`"Eu vou para lá agora.@ Obrigado por tudo e tchau, Senpai."@
+` Eu suporto a dor e começo a andar.@
+br
+bg #000000,tcartain,800
+`"[line=3]De nada[line=4]tchau, Tohno-kun."@
+` Enquanto vou saindo…
+` Ouço ela me respondendo.
+\
+playstop
+!w3000
+bg "bg/bg_32d",lcartain,800
+` Eu chego na mansão.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_54c",lcartain,800
+` A minha cabeça está doendo.@
+` A minha visão está embaçada, é como se todo o ambiente estivesse envolto por uma névoa.
+\
+bg #000000,crossfade,800
+bg "bg/bg_54c",crossfade,800
+`"Ga……… ah."@
+` A minha visão está distorcida.@
+` Não consigo respirar direito.@ O simples ato de respirar me deixa tonto.@
+` A cada passo que dou fico com a sensação de que andei cerca de cem metros.@
+` O meu corpo.@
+` Está tão exausto[line=4]parece estar completamente dormente.
+\
+`"Ah………… h."@
+` Arrasto as pernas.@
+` O meu corpo alcançou o seu limite e não se move como eu quero.@
+` A minha mente só mantém pensamentos negativos e me diz que não vou conseguir fazer nada com o corpo assim.
+\
+`"[line=9]"@
+` Mas o meu sangue está fervendo e nega todos esses pensamentos.@
+` O meu coração bate audivelmente.@
+` A minha pulsação está forte.@
+` Sob o luar, a minha concentração está mais aguçada do que nunca.
+\
+bg #000000,crossfade,800
+bg "bg/bg_44b",crossfade,800
+` [line=3]Eu cheguei.@
+br
+` Não há erro.@
+` O meu coração bate audivelmente.@
+` A minha garganta queima.@
+` O meu corpo exausto usa todas as suas energias para se manter vivo.@
+` É suicídio lutar nesse estado.@
+` Mas não estou com medo.@
+` Os meus dedos estão paralisados pelo peso da faca.@
+` Os meus nervos estão à flor da pele.
+\
+` [line=3]Que sensação familiar!@
+br
+` Eu me lembro dessa sensação.@
+` Já senti ela várias vezes.@
+` É a sensação que "ele" tinha quando matava nos sonhos[line=4]e muito tempo atrás também tive essa sensação[line=4]
+br
+wave se_01
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_44b",notrans,0
+`"Gu[line=4]"@
+` Eu não vou durar muito.@
+` Vou para a edícula.
+\
+bg #000000,lcartain,800
+bg "bg/bg_45e",lcartain,800
+play "*9"
+br
+br
+br
+br
+br
+br
+` [line=3]Por mais estranho que pareça…
+` Eu não sinto nada quando vejo a situação.
+\
+`"[line=5]SHIKI."@
+`"É[line=3]você."@
+` O SHIKI se levanta lentamente.@
+br
+` Só tem duas pessoas aqui.@
+` Uma é o vampiro chamado SHIKI.@
+` E a outra é uma garota de cabelos vermelhos.
+\
+ld c,"tachi/hal_t01",crossfade,800
+`"[line=4]Seja bem-vindo, Shiki.@ Achei que não conseguiria chegar aqui."@
+cl a,crossfade,400
+`"[line=6]"@
+` A minha mente não sente nada.@
+` A Akiha está atrás dele.@
+` Ela está encostada na parede e os seus olhos parecem mortos.@
+` Ela está usando um quimono, talvez tenha sido ele quem colocou nela.@
+br
+` Aquela coisa.@
+` A Akiha está parecendo uma boneca de porcelana.
+\
+` Eu suspiro.@
+br
+` Eu não sinto nada.
+\
+` É como se eu também tivesse me transformado em um boneco sem sentimentos, assim como a Akiha.
+\
+ld c,"tachi/hal_t01",crossfade,800
+`"[line=3]Você chegou muito tarde.@ Eu já tenho a Akiha de volta para mim."@
+` Ele caminha na minha direção.@
+`"O que pretende?"@
+` Pergunto a ele e empunho a minha faca.@
+` Ele tenta segurar a sua risada e começa a falar.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Sei lá, cara!@ Eu mesmo não sei.@ O meu propósito como SHIKI é ter a Akiha.@ Eu não tenho intenção alguma de sugar o sangue de seres inferiores."@
+`"…… Sei.@ Mas você sugou muito sangue de pessoas aleatórias."@
+`"Pois é.@ Mas eu não pude fazer nada quanto a isso, não era a minha intenção de verdade.@
+ld c,"tachi/hal_t01",crossfade,800
+` …… Foi 'ele' quem mandou.@
+` 'Ele' me mandou matar e destruir tudo.@ Estou apenas seguindo ordens.@ Eu não sei o porquê."@
+`"…… Isso é terrível.@ Eu não me lembro de muita coisa, mas você não era assim, SHIKI."
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Pois é, eu fiquei louco naquele dia há oito anos.@ Tem um cara muito esquisito dentro da minha cabeça e ele me manda matar e destruir as coisas."@
+` Ele diz isso e começa a rir.@
+` Ele continua rindo sem intenção alguma de parar.@
+br
+` [line=3]Pronto…
+` Não posso encontrar sequer um traço de humanidade nele.
+\
+`"…… Agora vamos para a minha última pergunta.@ Você não está sentindo dor?"@
+`"Dor……?@ Claro que não.@ Eu sou perfeito.@ Eu amo a mim mesmo por tudo que faço.@
+` Bem, eu até poderia dizer que estava meio entediado, mas já dei um jeito nessa parte.@
+` Até agora, a minha única diversão era comer aqueles seres inferiores, mas isso acabou agora que a Akiha é minha novamente.@ Agora já não tenho mais tempo para me divertir com aqueles brinquedos."
+\
+` Ele ri, satisfeito.@
+br
+` [line=3]Foi besteira tentar conversar com essa criatura.@
+br
+` Mesmo assim, eu queria perguntar.@
+` Eu queria saber se ele sofria da mesma dor que a Yumizuka[line=4]a dor de um "ser humano" que é obrigado a sugar sangue contra a sua vontade…
+\
+`"Você já não é mais humano."@
+` Falo em tom ameaçador.@
+` Ele fica quieto.@
+ld c,"tachi/hal_t01",crossfade,400
+`"Eu não entendo.@ Não entendo o que te fez vir aqui para ser morto e não entendo essa pergunta que fez também.@
+` Shiki, para que você veio aqui?"@
+`"Para te matar e salvar a Akiha."@
+` Enquanto digo essas palavras…
+br
+` O fluxo de sangue em todo o meu corpo acelera.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Hum!@ Você é louco!?@ Acha mesmo que uma pessoa normal pode me matar!?"@
+`"…………………"@
+` Não tenho motivo algum para responder.@
+` Eu aperto um pouco os olhos.@
+` E vejo as suas "linhas"[line=3]
+\
+bg "bg/bg_45d",crossfade,400
+ld c,"tachi/hal_t02",crossfade,400
+`"Não fique cheio de si……!@ Ela é minha.@ Não vou dá-la para você……!"@
+` Talvez ele tenha sentido algo.@
+` Porque se afasta como se estivesse com medo.@
+`"A Akiha é minha irmã……!@ Somente eu tenho o mesmo sangue que ela.@ Não tem lugar pra você aqui……!"@
+` Ele me observa com os olhos vermelhos e esbugalhados.@
+br
+` [line=3]Não tenho mais nada para falar.@
+` Levanto a faca e dou um passo.
+\
+`"Tem razão, SHIKI.@ A Akiha não é minha irmã."@
+`"O quê……?"@
+`"A Akiha é minha mulher."@
+`"Ora seu[line=4]!!"@
+cl a,lcartain,400
+` Dou outro passo.@
+` Perdendo a compostura por causa do que eu disse, ele me ataca de frente.@
+br
+` E isso se torna o sinal para o começo da nossa luta até a morte.
+\
+playstop
+bg #000000,lshutter,400
+` [line=3]Não posso demorar muito.@
+br
+` O meu corpo já está no limite e quero tirar a Akiha daqui o mais rápido possível.@
+` Só tenho que fazer uma coisa.@
+` Preciso esquivar do braço dele e cortar a sua "linha" que está no peito.@
+` Eu vou conseguir me esquivar pelo menos uma vez.@ O meu corpo ainda consegue fazer isso.@
+` Ele ataca.@
+` A nossa distância não é muita.@
+` Vamos tentar nos matar de uma distância justa[line=4]
+\
+bg "bg/ima_14",lshutter,400
+` [line=5]Não.@
+` Foi ilusão minha pensar isso.
+\
+`"Ha……!"@
+` O SHIKI grita e ri ao mesmo tempo e balança "algo" no ar.@
+`"[line=7]!?"@
+wave se_12
+` Eu paro esse "algo" com a minha faca.@
+` [line=3]Não tenho tempo para pensar em mais nada.@
+` A minha faca e seja lá o que ele estiver empunhando se chocam com um barulho estridente.
+\
+bg #000000,lshutter,400
+play "*4"
+`"Merda, pensei que ia te cortar no meio junto com essa sua faca vagabunda[line=3]mas essa coisa aí é bem forte pra uma antiguidade, hein, Shiki!"@
+` Ele balança "algo" sobre a sua cabeça.@
+`"[line=7]"@
+` Todo o meu corpo treme.@
+` O que ele está usando para me atacar é "algo parecido com uma espada" e que deve ter dez vezes mais o tamanho da minha faca.@
+`"[line=5]"@
+` Não entendo.@
+` Tenho certeza de que ele estava de mãos vazias até agora há pouco.@ Quando foi que ele pegou aquil[line=5]
+\
+`"Não vai haver uma segunda vez……!"@
+` Ele desce a espada vermelha na minha direção.@
+` Se ele a balançar demais, ela vai acabar ficando presa no teto ou nas paredes por causa desse tamanho absurdo[line=5]
+br
+bg "bg/ima_14",tshutter,400
+`"[line=8]!?"@
+` Eu evito o ataque.@
+` A espada vermelha me atacou sem ter ficado presa em lugar algum.
+\
+` Enquanto a descia na minha direção…
+` Ela estava no teto e veio para baixo como se fosse uma faca cortando manteiga quente.
+\
+bg #000000,tshutter,400
+br
+br
+br
+br
+br
+br
+` De algum lugar, ouço algo.@
+` É o som de um líquido pingando.
+\
+bg "bg/bg_45d",lshutter,400
+`"Que persistência[line=7]!"@
+` Ele levanta a espada outra vez.@
+`"[line=10]"@
+` A minha mente paralisa.@
+` No meu campo de visão está o SHIKI e a Akiha sentada no fundo.@
+` Ela simplesmente nos observa com um olhar vago e sem demonstar qualquer tipo de emoção.@
+` Ela está sentada como se fosse uma boneca.@
+` Akiha.@ Eu não posso abandoná-la aqui.@
+` Mas no momento[line=4]
+`"Kuh[line=4]!"@
+` Eu mordo a língua e fujo.
+\
+bg #000000,lshutter,400
+` Eu passo pela porta de shouji que leva ao jardim.@
+` Se aquela espada não vai ficar presa nas paredes, eu fico em desvantagem do lado de dentro.@
+` Aqui fora[line=4]na floresta.@
+` Nesta noite tão escura, no meio dessas árvores, talvez eu tenha alguma vantagem[line=4]
+\
+bg "bg/bg_54c",rshutter,400
+wave se_01
+`"Ar[line=5]gh."@
+` De repente, fico muito tonto.@
+` Eu tropeço e quase caio no chão.@
+` O ferimento nas minhas costas abriu e está sangrando.@ Não tenho tempo para cuidar disso agora.@
+`"Aaaiiii[line=5]"@
+` Eu suspiro.@
+` Tropeçando, me encosto em uma árvore.
+\
+`"Tu…………"@
+` Não posso desmaiar…
+` Ouço o som de alguém andando pelo mato alto.@
+` Ele está atrás de mim.@
+` Preciso me esforçar só mais um pouco.@
+` Preciso ir para um lugar onde possa me esconder e atacá-lo por trás[line=5]
+\
+wave se_15
+quakex 2,50
+`"[line=8]"@
+` E então…
+` Algo parecido com uma espada é cravado na árvore em que estou encostado.@
+`"[line=7]!"@
+` Dou um salto para o lado.@
+wave se_15
+quakex 2,50
+` Foram duas vezes.@
+` A espada vem voando e penetra na árvore com facilidade.
+\
+`"[line=8]!"@
+` O meu corpo se moveu sozinho.@
+` Vou me escondendo de árvore em árvore.@
+` As espadas estão acompanhando o meu caminho.@
+` Não há fim para isso?@ As suas espadas estão sendo arremessadas uma atrás da outra como se fossem balas de um revólver.
+\
+`"O quê[line=6]"@
+` Elas não param de me perseguir.@
+` Enquanto vou fugindo, o número de espadas arremessadas na minha direção só aumenta.@
+` Quando paro pra respirar…
+` Vejo que muitas árvores da floresta estão com espadas fincadas em algum lugar[line=4]está parecendo um campo de execução estrangeiro.
+\
+`"[line=4]Hã?@ Já cansou de correr com o rabo entre as pernas, Shiki?@ Não me diga que achou mesmo que poderia me matar só porque veio aqui para fora……!"@
+br
+` Ouço ele falando.@
+` Mas agora não arremessou nenhuma espada.@
+` Como não o vejo, talvez ele também não esteja me vendo… Não, duvido muito disso.@
+`"Ha………… a."@
+` Endireito o corpo e me encosto em uma árvore muito grossa.@ Aquela espada não vai conseguir perfurar uma árvore dessas.
+\
+`"E aí, cara, cadê toda aquela conversa fiada de antes!?@
+` Se quer me matar, não vai ter graça se nem ao menos tentar fazer isso……!"@
+` A voz ecoa, mas ainda não sei dizer onde ele está.@
+` Fecho os olhos e tento concentrar mais a minha audição.
+\
+playstop
+bg #000000,crossfade,400
+` ………
+\
+` …………………@
+` ………………………………@
+` ………………………………………………
+\
+` …… Não posso ouvir a sua respiração e nem sentir a sua presença.@
+` Isso é óbvio.@
+` Eu não tenho sentidos tão aguçados iguais aos desse monstro.
+\
+`"[line=7]?"@
+` Ouço algo pingando.@
+` …… O que será?@
+` Não há fonte de água aqui perto.
+\
+bg "bg/bg_54d",crossfade,400
+`"Poxa, você é um bundão mesmo, hein!?@ Tudo bem.@ Já que vai ser assim, vou deixar as coisas mais interessantes.@
+` Pode esconder se aí o quanto quiser."@
+br
+` …… Ouço a sua voz.@
+` Mas ainda não consegui descobrir onde ele está.@
+br
+`"…… Vejamos.@ Já que é assim, vamos deixar tudo mais interessante.@ Não teria graça só te matar e pronto.@ Seria muito fácil te espetar aqui e agora, mas a Akiha não vai ficar feliz com isso."
+\
+` …… Esse som de algo pingando.@
+` Está mais perto.@
+` O som está vindo da árvore que está bem na minha frente.@
+` Quando olho…
+` Vejo que o som é de um líquido que está pingando da espada que perfurou a árvore.
+\
+`"Acho que vou esmagar as suas mãos e os seus pés e te transformar num brinquedo para a Akiha……!@ Ela gosta de brincar de bonecas, vai dar certinho."
+\
+` …… Isso não é seiva da árvore.@
+` É um liquido estranho que está escorrendo da própria espada.@
+` Fixo o olhar e essa espada começa a parecer mais como se fosse gelo derretendo aos poucos e virando água.
+\
+`"Ah, é mesmo, ainda não te falei, mas é que a Akiha está meio fora de controle.@ Acho que fiquei tão feliz que exagerei um pouco.@ É bom que ela esteja de volta ao meu lado, mas vai ser um problemão se ela ficar mordendo todo mundo que vê pela frente, não acha?"
+\
+` …… O líquido pinga.@
+` Essa espada vermelha parece mais uma lâmina solta.@
+` É uma arma simples[line=4]apenas uma lâmina.@
+` Era isso aí que ele estava arremessando.@
+` Uma lâmina vermelha, grande e fina.@
+` Mas por que tem um líquido vermelho pingando dessa coisa?@
+` Vermelho.@
+` Vermelho.@
+` Verme…… lho?
+\
+wave se_01
+`"Então tá, cara.@ Não vou te transformar no brinquedinho dela.@ Tenho certeza de que ela ficaria muito feliz se eu enfiasse um monte de espadas em você e te desse de presente a ela, mas talvez ela te morda no mesmo instante e assim nem vai ter tempo de brincar um pouquinho.@ E, sinceramente?@ Não gosto muito da ideia de deixá-la comer essa sua carne podre[line=5]"
+\
+`"[line=7]"@
+` Cala a boca.@
+wave se_01
+` Vermelho.@
+` Esse cara.@
+wave se_01
+` Vermelho.@
+` Tem algo importante que estou deixando passar.@
+wave se_01
+` Vermelho.@
+` Preciso entender o que é.
+\
+`"…… Espera um pouco.@ Hum[line=4]é isso mesmo, que grande ideia eu tive!@ Vou deixar a Akiha virar uma canibal igualzinho a mim……!"
+\
+`"[line=7]Sangue."@
+` Eu[line=4]entendi.@
+wave se_01
+` É sangue.@
+` Aquilo é sangue.@
+` É por isso que tem tantas espadas.@
+wave se_01
+` Deve ter mais de cem espadas cravadas nas árvores.@
+` Estou com as mãos desarticuladas e os pés machucados.@
+` Nesta noite muito escura.@
+wave se_01
+` Com a lua de vidro pairando no céu.@
+` Sobre a floresta ensanguentada[line=4]
+\
+monocro #ff0000
+bg "bg/ima_02",crossfade,400
+wave se_01
+!w500
+bg "bg/bg_54d",crossfade,400
+waveloop se_02
+`"Sim, simsimsimsimsim!@ Isso é ótimo!@ Seria excelente se você fosse a primeira refeição dela……!@
+` [line=4]Já me decidi.@ Agora eu preciso transformá-la na mesma criatura que eu o mais rápido possível."
+\
+br
+br
+br
+br
+br
+br
+` O som do líquido pingando.@
+` O som de sangue fresco pingando.
+\
+`"Adeus, Shiki, devo dizer que fomos bem próximos, mas já cansei de brincar[line=6]!"@
+br
+` Esse som me ajuda a descobrir onde ele está.
+\
+wavestop
+bg #000000,crossfade,400
+` Eu me afasto da árvore em que estava encostado.@
+` Eu me viro e corto as "linhas" dela.@
+` Escorregando…
+` A enorme árvore desmorona.
+\
+`"O qu[line=11]!?"@
+` Ouço a voz que vem de cima.@
+` Resumindo, ele estava falando essa baboseira toda bem em cima de mim.
+\
+`"Ora seu[line=5]!!"@
+` Ele começa a cair.@
+` Na sua mão está a espada vermelha feita de sangue.@
+` Mas antes que ele possa usá-la[line=3]
+br
+br
+bg "bg/ima_14",crossfade,400
+` Eu corto o seu braço com a minha faca.
+\
+bg "bg/ima_12b",lshutter,400
+` O sangue espirra.@
+` …… O braço dele cai.@
+` O sangue que jorra do braço amputado faz uma mancha negra no chão.@
+` Acontece o mesmo comigo porque estou embaixo dele.@
+` Esse sangue, que não parece diferente do sangue de um ser humano, espirra em todo o meu peito.
+\
+bg "bg/bg_54d",crossfade,400
+`"Ha.@ Agh[line=5]!"@
+` Ele cai e[line=5]salta para trás como um macaco.
+\
+ld c,"tachi/hal_t04",crossfade,400
+waveloop se_02
+`"Ha[line=3]haha, ha."@
+` Ele me observa.@
+`"Ah, acho que você consegue se tentar, né……!?@
+` Estou aliviado, Shiki.@ Não é do seu feitio morrer tão facilmente……!"
+\
+`"[line=11]"@
+` Tento falar algo, mas paro.@
+` Não tenho tempo para isso.@
+` Matar.@
+` Matar.@
+` Matar.@
+` Matar.@
+` Se você tem energia o suficiente para mexer a boca, use-a para eliminar essa criatura.@
+` O meu corpo toma o controle da minha mente.
+\
+ld c,"tachi/hal_t02",crossfade,400
+`"Ei, por que não está falando nada……!?@ Mas que merda, não aja como se fosse o mocinho da história.@ Você se parece com um monstro muito mais do que eu……!"@
+`"[line=9]"@
+` Agarro a faca com muita força e caminho na direção dele.
+\
+`"Hum, então nem quer conversar comigo, né?@ Eu me sinto da mesma forma.@ Também não quero conversar com você, já me cansei.@ Posso até ser um canibal, mas não sou uma máquina como você……!"@
+`"[line=9]"@
+` Caminho pela grama.
+\
+`"Deu pra entender?@ Eu ainda tenho uma mente que me deixa escolher as coisas.@ Eu sei que, para vocês, o que estou fazendo é considerado algo maligno, mas mesmo assim nós sabemos exatamente o que estamos fazendo……!@
+` E quanto a você, sendo controlado pelo seu sangue desse jeito?@
+` O que você está tentando matar sem um pingo de vontade própria, Nanaya Shiki……!!!???"@
+`"[line=9]"@
+` Eu caminho.@ Para[line=2]matar[line=2]ele[line=4]
+\
+`"Mas que merda……!@ Você tem ideia do que está parecendo nesse exato minuto?@ Você nem parece uma criatura viva.@ Parece só uma máquina, um boneco assassino que mata tudo que não é humano!@
+` Agora entendo, o meu pai estava mais do que certo em exterminar os Nanaya.@ Porque todos vocês são assassinos sem emoções……!"@
+`"[line=9]"@
+` O último passo.@
+` Agora…
+` Vou conseguir matar esse monstro[line=4]
+\
+`"[line=3]Está vendo?@ Você é esse tipo de criatura, Shiki.@ Se você enfrenta algo que não seja humano, a única coisa que passa pela sua cabeça é matar o pobre coitado independente do quão humano ele pareça.@
+` Então, me responda, você vai matar a Akiha depois que acabar comigo?"@
+wavestop
+`"[line=6]"@
+` Que merda é essa que ele está dizendo?@
+` Eu nunca[line=7]
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Consegue dizer que não vai, hein?@ Deixa eu te contar uma coisa, a Akiha é um monstro mil vezes pior do que eu.@ E quando ela estiver na sua frente, você nunca vai conseguir segurar esse seu impulso assassino.@
+` …… Se ainda tiver algum resquício de Tohno Shiki aí dentro, Nanaya Shiki, provavelmente você irá entender.@
+` Você vai ser morto por mim ou[line=4]melhor ainda[line=4]você deveria se matar[line=4]!!"
+\
+cl a,lcartain,400
+`"[line=12]!"@
+` Ele desaparece.@
+` Não, ele fugiu.@
+` Ouço o barulho da grama enquanto ele corre por ela.@
+` Ele foge floresta adentro.
+\
+`"[line=12]Ah."@
+` …… Eu o deixo escapar.@
+` Eu poderia tê-lo matado, mas deixei ele escapar.@
+` Por quê?@
+` Parte de mim está com muita raiva[line=4]mas a outra parte acha que foi bom ter feito isso.
+\
+`"…… Não posso deixá-lo escapar."@
+` …… Há um rastro de sangue na grama.@
+` Eu arranquei um dos seus braços.@
+` Esse traço de sangue vai me levar direto a ele.@
+` Mas vou perdê-lo se não me apressar.
+\
+monocro off

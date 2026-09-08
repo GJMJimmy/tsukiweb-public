@@ -1,0 +1,110 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32d",lcartain,800
+play "*6"
+` …… Subo pela colina residencial e chego aos arredores da mansão.@
+` Já são quase duas horas da manhã.@
+` Estou morto de sono.
+\
+`"…… Será que ela vai ficar bem?"@
+` O jeito estranho que ela estava quando nos separamos está me deixando preocupado.@
+` Não parecia que era o seu ferimento que estava doendo, mas[line=3]
+\
+`"Hum…… droga, o portão principal está trancado."@
+` O que eu devo fazer?@
+br
+` …… Se eu pular o muro igual fiz ontem, provavelmente vou ativar os alarmes.@
+`"…… Que droga…… será que esta mansão tem uma entrada nos fundos?"
+\
+bg #000000,lcartain,800
+bg "bg/bg_47",lcartain,800
+` …… Dou uma volta ao redor da mansão.@
+` Realmente tem uma entrada nos fundos, mas ela também está trancada.@
+` Provavelmente não tem jeito de forçar minha entrada pelo jardim.
+\
+`"…… Droga.@ Se continuar assim vou ter que passar a noite aqui fora……"@
+` Eu gostaria de evitar isso.@
+` As pessoas não costumam passar por aqui, por isso depois que o sol se põe só resta a escuridão nessa área.@
+` Ficar andando por aqui a essa hora da madrugada me dá calafrios.
+\
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,400
+`"Hum?"@
+br
+` O que é aquilo?@
+` Parece que tem alguém à espreita nas sombras da rua.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_47",notrans,0
+br
+` [line=3]Tu, dum.@
+br
+` Meu coração para a minha respiração.@
+` Estou sentindo meu sangue pulsar pelo meu corpo, essa sensação[line=3]
+\
+br
+br
+br
+br
+br
+br
+br
+` Tenho certeza de que tem alguém ali.@
+` A figura se aproxima mais e mais.
+\
+br
+` Passos.@
+br
+` O som de passos secos chega aos meus ouvidos.
+\
+br
+` [line=4]Tu, dum.@
+br
+` Tenho um mau pressentimento sobre isso.@
+` Um calafrio corre pelas minhas costas.
+\
+`"[line=4]"@
+` A figura se aproxima.@
+` De repente[line=4]as luzes dos postes se quebram fazendo um barulho muito alto.@
+bg #000000,notrans,0
+` A lua está escondida nas nuvens.@
+` O mundo inteiro fica escuro.@
+br
+`"!"@
+br
+` [line=4]Tu, dum………!@
+` Meu coração acelera, como se me avisasse da morte.@
+` Talvez eu tenha ficado muito cansado de ficar andando em volta da mansão.@
+` Meu corpo reagiu de uma forma muito lenta quando tentei dar um pulo para trás.
+\
+bg #9c0120,notrans,0
+wave se_06
+wait 100
+bg #000000,notrans,0
+` Uma lâmina atravessa a escuridão.@
+` Ouço o som da carne sobre o meu coração sendo cortada.@
+br
+bg "bg/ima_13",lshutter,400
+`"Ah[line=3]hum?"@
+br
+` [line=3]Não entendo.@
+br
+` Parece… que… tem uma faca, enfiada no meu peito.
+\
+bg "bg/bg_47",crossfade,400
+ld c,"tachi/roa_t07b",crossfade,400
+bg "bg/bg_47",crossfade,400
+` As nuvens se separam por um breve momento e a figura negra é iluminada.
+\
+br
+`"Ah[line=4]"@
+` Uma pessoa estranha completamente envolta por bandagens.@
+` Isso é… a última coisa que vejo.
+\
+playstop
+bg #000000,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

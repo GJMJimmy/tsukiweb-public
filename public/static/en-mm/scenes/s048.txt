@@ -1,0 +1,74 @@
+playstop
+waveloop se_11
+bg "bg/bg_40d",notrans,0
+` The howling continues.@
+` There's no way I can sleep like this.@
+` …… I can't sleep, but that's just normal.@
+`"…… I'm sleepy, so I'll pass."@
+` Pulling the sheets over me, I stretch out on the bed.@
+` I can just think of the howling as the sound of something mundane as cars driving by on the street.
+\
+` *sigh*@
+` Today's been a very long day.@
+` I'm mentally tired from eating dinner in this unfamiliar mansion and my conversations with Akiha and everyone else.@ After all that, the howling is just background noise.@
+` I close my eyes and gently fall asleep.
+\
+bg #000000,crossfade,800
+!w3000
+wave se_09
+bg "bg/bg_40d",crossfade,400
+`"[line=3]Nng."@
+` I think I just heard something.@
+` Half-awake, I look at the clock.@ It's just past two.@
+` …… It's been about two hours since I heard the dogs howling.@
+` The dogs' howling has already stopped.@
+` The mansion is so quiet, I can hear the clock ticking in the silence.
+\
+wave se_08
+`"[line=6]?"@
+` I hear it again.@
+` …… Inside the mansion… from the lobby?@
+`"[line=5]Could it be a burglar?"@
+` It's not impossible.@
+` The mansion's contents are outrageously valuable.@ On top of that, with no one here now except Kohaku-san, Hisui, Akiha and myself, it's very insecure.@
+`"……"@
+` Getting out of bed, I slip out of the room quietly.
+\
+bg #000000,lcartain,800
+play "*6"
+bg "bg/bg_46c",lcartain,800
+` If it's a burglar, Akiha and everyone will be in danger, so I can't let this one go.@
+` I'll just look down from the second floor into the lobby; that should be safe enough.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+` There's nothing wrong there.@
+wave se_08
+`"…… !"@
+` No, someone's there.@
+` The figure that enters from the entrance and crosses the lobby with wobbling, uncertain steps, is[line=3]
+br
+ld c,"tachi/aki_t19b",crossfade,800
+cl a,crossfade,800
+`"Aki… ha?"@
+` She's not going to her own room on the second floor, but to the first floor of the west wing.@
+` The only things there are Kohaku-san's room and my old man's room.
+\
+`"…… What's she doing at this time of night?"@
+` I can murmur all I want, but I won't be getting any answers.@
+` After gazing at the lobby for a while, I decide to return to my room.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_40d",lcartain,800
+` …… Well, she probably had something to do, or went to see Kohaku-san.@
+` I feel bad about sneaking around and watching her, and I don't want to just ask her about everything she does.@
+`"…… Sleep, sleep.@ There's school tomorrow."@
+` I bury myself in bed and close my eyes.@
+br
+bg #000000,crossfade,800
+` [line=3]As I fall asleep,
+br
+` my thoughts keep returning over and over to Akiha's hollow-eyed figure in the lobby… and how something seemed wrong.
+\
+!w3000

@@ -1,0 +1,23 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11a",notrans,0
+ld c,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, did you sleep well last night?"@
+`"Eh?"@
+` She looks directly into my eyes as she asks.@
+cl c,crossfade,400
+` …… Sleep well?@ That goes without saying.@ I couldn't get to sleep easily last night, and also[line=2]
+\
+`"Uh……"@
+` I blush as the memories resurface.@
+` With a piercing gaze, Senpai looks up at me.@
+`"Senpai, um[line=2]"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Tohno-kun, you pervert."@
+`"Huh?"@
+cl c,lshutter,800
+` With a look indicating she wants to say more, Senpai quickly walks away.
+\
+bg #000000,crossfade,800
+!w1000

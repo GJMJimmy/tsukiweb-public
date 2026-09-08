@@ -1,0 +1,21 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"Es un amigo mío de la escuela media[line=2]¿Akiha?"@
+`"¿Sí?@ ¿Qué sucede, Nii-san?"@
+`"Pareces haberte calmado mucho.@ Como si toda tu confusión en la cafetería nunca hubiese ocurrido."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=4]¿Qué intentas decir, Nii-san?"@
+`"No, sólo estaba pensando… tal vez ¿estabas fingiendo ingenuidad anteriormente?"@
+` Hay una gran posibilidad de que ése sea el caso.@
+` Ahora que lo pienso, no había razón para que Akiha estuviese parada estúpidamente en medio de la multitud.
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"¿Oh?@ Nii-san, ¿eso es lo que piensas de mí?"@
+` Akiha me mira de la cabeza a los pies.@
+` …… Lo sabía.@ Ella sólo estaba actuando para engañarme.@
+ld c,"tachi/aki_t21",crossfade,400
+`"Sí, por favor imagina lo que quieras.@ No es que tuviese la intención de hacerte preocupar."@
+` Ella infla su pecho y pone mala cara.
+\
+cl c,crossfade,400

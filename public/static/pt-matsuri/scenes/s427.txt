@@ -1,0 +1,203 @@
+playstop
+wavestop
+bg "bg/bg_11d",notrans,0
+` [line=3]Ainda é muito cedo.@
+br
+` Para ter certeza de que vou matá-la, ela precisa estar indefesa.
+\
+play "*6"
+ld c,"tachi/aki_t28",crossfade,400
+`"Você cometeu um erro, Nii-san.@ Essa foi a última chance que teve de me matar."@
+` Ela para.@
+` O seu olhar e a sua respiração estão cheios de confiança.@
+`"[line=8]"@
+` Isso quer dizer que, a distância atual é seu alcance máximo neste corredor escuro.
+\
+`"Você foi tão rápido agora há pouco.@ Com a sua velocidade, pensei que ia perdê-lo de vista mesmo neste corredor estreito.@
+` Porém, isso não vai acontecer a essa distância.@ Estou perto o suficiente para ver a cor dos seus olhos, posso segui-lo facilmente."@
+`"[line=9]"@
+` Não importa o quanto eu seja rápido, ela diz que vai me matar antes que eu me aproxime.@
+` Mas[line=3]isso é só se eu for correndo na direção dela.
+\
+ld c,"tachi/aki_t27",crossfade,400
+`"……………"@
+` Ela semicerra os olhos.@
+` Será que está chateada pelo fato de ter a minha vida na palma da mão, ou está chateada porque eu estou tão calmo?@ …… Ou isso a faz hesitar?@
+` Seja qual for[line=3]é como o SHIKI pensava, ela não entende o significado de uma luta até a morte.
+\
+`"[line=3]Você parece estar planejando alguma coisa, Nii-san."@
+` Ela diz o óbvio.@
+` Não há necessidade de respondê-la.@
+`"[line=8]Ela é idiota?"@
+` Murmuro isso e passo a faca para a outra mão.@
+` Passo ela da mão dominante para a mão esquerda.@
+` Já descobri o seu alcance.@
+` Tudo o que resta[line=3]
+\
+`"[line=3]Que ridículo.@ Agora você está ficando com medo."@
+ld c,"tachi/aki_t29",crossfade,400
+`"Eu[line=5]eu não estou com medo……!@ É você quem está assustado e incapaz de se mover!"@
+`"…… Beleza.@ Você pode me matar, né?@ Então devia fazer isso logo.@ Porque, se não fizer nada, vou matá-la na próxima vez que você piscar.@
+` [line=3]Já enjoei de olhar para a sua cara."@
+`"[line=9]!"
+\
+` O vento começa a girar em torno dela.@
+` O seu desejo de matar começa a tomar forma em seus cabelos vermelhos.@
+ld c,"tachi/aki_t31",lshutter,400
+` O seu olhar e o ar à sua volta tornam-se vermelhos e tentam agarrar os meus dois braços ao mesmo tempo.
+\
+cl c,lshutter,400
+`"[line=6]"@
+` Dou um pulo para trás.@
+` Corto o cabelo vermelho que tenta agarrar a minha mão direita.@
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+ld c,"tachi/aki_t29",lshutter,400
+`"Ah[line=7]!"@
+` A voz cortada da Akiha.@
+` Passo a faca para a mão dominante, que está livre.@
+` E corto o ar em volta do meu braço esquerdo…… Demorou um pouco para libertá-lo.
+\
+cl c,lshutter,400
+`"Fiu[line=5]"@
+` Não estou sentindo o meu braço esquerdo.@
+` Não vejo nenhum machucado, mas também não sinto nada.@
+`"Agora entendo[line=4]é isso que os seus cabelos fazem."
+\
+monocro #ff0000
+bg "bg/bg_11d",lshutter,400
+` Pulo mais ainda para trás.@
+` [line=3]O cabelo vermelho me persegue.@
+` Não está tão rápido quanto antes, mas ainda envolve os meus membros.
+\
+` …… Não, perseguir não é a palavra certa.@
+` Não tem como escapar desses cabelos.@
+` Quando ela me vê, eles já estão em volta de mim.@ É errado imaginar que posso me esquivar ou evitá-los.@
+` Se estão aqui, estão aqui.@ Se não estão, não estão.@
+` Como o ar que toca a minha pele, os cabelos vermelhos já estão me envolvendo.
+\
+` Portanto, não havia como escapar desse ataque.@
+` Só existe uma coisa que posso fazer[line=3]antes que a Akiha roube alguma coisa de mim, tenho que cortar essa canalização…… Esses seus cabelos vermelhos.@
+` O intervalo entre ela ver uma coisa e roubá-la é de apenas um instante.@
+` Mas, se o alvo não estiver claro na sua visão, há um breve intervalo antes que ela possa realmente roubar de mim.@ Antes que ela roube muito, eu corto o cabelo para evitar um ferimento fatal.
+\
+` Isso é tudo o que estou fazendo.@
+` Embora eu possa ver o seu "cabelo vermelho", não muda em nada o fato de que a sua habilidade é avassaladora.
+\
+monocro off
+bg "bg/bg_11d",lshutter,400
+` [line=3]Talvez ela esteja pegando leve comigo, ela me segue sem nem correr.@
+br
+`"[line=8]"@
+` Eu corto os cabelos que vêm para prender os meus braços, pernas e corpo continuamente.@
+` O braço esquerdo que sacrifiquei para confirmar o seu poder não se mexe de forma alguma.@
+` Não sinto dor.@ Não tem sangue.@ Mas, apesar das minhas roupas, posso dizer que uma boa parte da carne foi tomada por queimaduras.
+\
+`"[line=8]Tch."@
+` O que me deixa desconfortável é o fato da carne aberta estar enviando um vento frio e repugnante para dentro do meu corpo.@
+` Graças a isso, não consigo me concentrar completamente para escapar.@
+` Os meus esforços para escapar do olhar da Akiha vão ficando gradualmente mais lentos e, pouco depois, eu paro totalmente.
+\
+` [line=3]E fico ao seu alcance.@
+br
+ld c,"tachi/aki_t11c",lshutter,800
+`"[line=4]Ahhhh, o que foi?@ A única coisa que consegue fazer é fugir?@ Eu avisei, a minha presa sempre acaba se queimando."@
+` Ela deve estar confiante que fui encurralado em um canto.@
+` Já que para e me encara.
+\
+ld c,"tachi/aki_t28",crossfade,400
+`"Acabou, Nii-san.@ Não vai ser divertido?@ Você vai ser morto por mim sem deixar nenhum rastro[line=3]!"@
+br
+` [line=4]Eu te disse.@
+` Falar assim é um excesso inútil, Akiha.
+\
+bg "bg/bg_07b",lshutter,400
+` [line=6]Crash.@
+` Pulo para trás, na direção das escadas, e pulo as escadas sem usar os degraus.@
+br
+`"O quê[line=3]!?"@
+br
+` …… Ouço a sua voz vindo de cima.@
+` Eu só estive pulando para trás em uma linha reta até agora, assim ela não pôde reagir quando eu me movi para os lados.@
+` …… Bem, eu planejava chegar nas escadas enquanto me movia para trás, então não é coincidência.
+\
+`"Ora seu…………!@ Fique parado………!"@
+` Ela olha para baixo, para tentar me ver.@
+`"[line=5]Agora."@
+` Antes que ela consiga me ver, pulo para baixo mais uma vez.
+\
+playstop
+bg #000000,tshutter,400
+bg "bg/bg_07b",bshutter,400
+`"Gg………"@
+` Voar pelas escadas uma segunda vez, faz os meus joelhos protestarem em agonia.@
+` Ignoro isso e corro para o corredor.@
+` Ouço o som seco dos passos da Akiha correndo pelas escadas.@
+`"[line=6]Janela."@
+` Este é o segundo andar.@ Posso pular para o pátio e ainda ficar bem.
+\
+`"[line=6]"@
+` Mas aí vou acabar igual ao SHIKI.@
+` Tenho repetido demais o que aconteceu naquele sonho, mas não devo copiar cada detalhe do que ele fez.
+\
+bg #000000,lshutter,400
+bg "bg/bg_10f",lshutter,400
+` Entro no corredor.@
+` Mesmo no segundo andar, os cabelos vermelhos preenchem o ar…… Eles são como vasos sanguineos.@
+quakey 2,50
+`"[line=5]!?"@
+` A sensação da minha perna desaparece e eu caio no chão.@
+`"Merd[line=5]"@
+` A minha perna esquerda está toda envolvida pelos cabelos.@
+` [line=3]Será que ela viu a minha perna quando pulei para as escadas?@
+` Estou fora do seu campo de visão, então isso não vai ser fatal, mas[line=4]
+\
+`"Merda…… Ela é mais perversa do que eu pensava."@
+` Corto os cabelos.@
+` A minha perna esquerda[line=3]está exatamente como o meu braço esquerdo.@
+`"[line=6]"@
+` O som de passos se aproximando.@
+` Antes que ela entre no corredor, eu corro para dentro de uma sala de aula.
+\
+bg #000000,lshutter,400
+bg "bg/bg_06g",lshutter,400
+`"[line=6],[line=7],[line=4]"@
+` Prendendo o fôlego, encosto na parede que está entre nós.@
+` …… Não acredito.@
+` Metade do meu corpo pode muito bem estar morto.@
+` Eu estava ciente disso, mas não pensei que acabaria copiando aquele sonho tanto assim.@
+br
+wave se_09
+` …… Tap, tap, tap.@
+br
+` Os passos ficam cada vez mais próximos.
+\
+`"[line=8]"@
+` No meu sonho, o SHIKI foi morto logo após isso.@
+` …… Ele não escolheu errado.@ Apenas não compreendia completamente a habilidade da Akiha.@
+` O cheiro de queimado no ar.@
+` A temperatura escaldante, semelhante a de um verão absurdo.@
+` E as partes do corpo que se desintegram com uma queimadura.@
+` Todos esses fatos fizeram o SHIKI pensar que o poder da Akiha era "queimar" o inimigo.
+\
+` Mas a verdade é exatamente o oposto.@
+` A Akiha envolve o seu alvo com os seus cabelos e rouba todo o seu "calor".@ Isso causa um congelamento instantâneo seguido por vaporização, fazendo parecer que ele se desintegrou.@
+` Se ela realmente queimasse, então nada poderia ser feito uma vez que as chamas fossem acesas.@ Nâo importa quantas vezes os seus cabelos são cortados, não é possível cortar seu próprio corpo fora.
+\
+` Mas[line=3]o seu poder é apenas roubar e absorver.@
+` Portanto, mesmo que eu seja completamente envolvido pelos seus cabelos vermelhos, enquanto eu puder cortá-los antes que me drenem completamente e conseguir matar a Akiha, não haverá problemas.@
+` Enquanto estiver viva, ela poderá transformar o seu alvo em um inferno de chamas.@ Mas essa ilusão de fogo vai desaparecer quando ela morrer.
+\
+wave se_09
+` …… Tap, tap, tap, tap.
+\
+`"[line=6]"@
+` Eu já estava preparado para ter o meu braço esquerdo queimado naquela hora.@ Estava preparado para cortá-lo fora do meu ombro assim que as chamas fossem acesas, mas não houve necessidade disso.@
+` A habilidade da Akiha não vai me matar se eu puder parar a própria Akiha.@
+` Como ela não é uma verdadeira usuária de chamas, um ataque surpresa não vai acabar em morte mútua se ela morrer primeiro.
+\
+`"[line=8]"@
+` Ouço um som.@
+` Ouço os seus passos bem atrás de mim.@
+` Sem dúvida alguma[line=3]a Akiha está prestes a passar por essa sala sem nem perceber que estou aqui.
+\

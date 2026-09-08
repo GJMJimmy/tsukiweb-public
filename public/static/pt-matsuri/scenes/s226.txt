@@ -1,0 +1,118 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=2]Mesmo assim, preciso me nutrir um pouco.@
+br
+` Eu já estou propenso a desmaiar; se não me forçar a comer um pouco, é certo que vou desmaiar a qualquer momento.
+\
+`"Pode ir comendo.@ Eu vou comprar alguma coisa."@
+`"Sério?@ Então vou começar sem você."@
+cl c,crossfade,400
+` Eu saio da sala enquanto o Arihiko começa a abrir o pacote de plástico do seu sanduíche.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06a",lcartain,800
+` Eu compro leite e pão, depois volto para a sala.@
+` O Arihiko e a Ciel-senpai já estão na minha carteira perto da janela.@
+ld l,"tachi/cel_t03",lshutter,800
+`"Ah, Tohno-kun.@ Vim me juntar a vocês."@
+ld r,"tachi/ari_t02",lshutter,800
+`"Ah, não se preocupe com ele.@ Estamos muito felizes que você tenha vindo.@ Não é mesmo, Tohno?"@
+` Ele fica tão feliz assim só de ficar perto da Senpai?@
+` Bem, para variar eu concordo com ele.
+\
+`"Sim.@ Você me ajudou muito vindo até aqui, Senpai.@ Não sei o que eu teria feito se tivesse que almoçar olhando para a cara desse sujeito aí."@
+` Respondo sorrindo e me sento.@
+cl a,crossfade,800
+` A Senpai está comendo de um bentô enorme e o Arihiko terminou seu sanduíche há muito tempo.
+\
+`"……… Vamos lá."@
+` Dou uma mordida no pão.@
+` Continuo sem apetite, por isso faço o pão descer à força com um pouco de leite.@
+br
+` O Arihiko e a Senpai conversam bem animados já que terminaram de almoçar.@
+` Eles conversam sobre os assassinatos em série e sei lá mais o que, e isso não ajuda em nada o meu apetite.
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Sério?@ Ainda não encontraram todas aquelas pessoas desaparecidas?"@
+ld l,"tachi/cel_t12",crossfade,400
+`"É o que parece.@ Inclusive parece que houve outro relato hoje de manhã.@ Inui-kun, você não assistiu o noticiário de manhã?"@
+`"Nada, não tenho tempo para fazer nada de manhã, por isso não assisti."@
+`"Não é bom ficar acordado até tarde.@ E você não deveria sair de noite, tem muita gente assustadora na rua."
+\
+ld r,"tachi/ari_t02",crossfade,400
+`"Relaxa.@ Eu sou uma das pessoas assustadoras."@
+ld l,"tachi/cel_t04",crossfade,400
+`"É, talvez você tenha razão.@ Inui-kun, você realmente parece um personagem sombrio."@
+` "Ahahaha." Os dois riem.@
+br
+` …… Hum, a Ciel-senpai deve estar falando sério, mas o Arihiko provavelmente disse isso como uma brincadeira.@
+` "Ahahaha." Os olhos do Arihiko contorcem enquanto ele sorri.
+\
+` Enfim, não posso ignorar a conversa deles.
+\
+`"[line=3]Senpai.@ Você mencionou um novo relato……?"@
+ld l,"tachi/cel_t01a",crossfade,400
+`"Sim, foi no noticiário da manhã, uma garota com mais ou menos a nossa idade foi fazer compras ontem à noite e desapareceu.@ Parece que a casa dela é perto do parque."@
+`"…… Ah, perto do parque."@
+br
+` Assim que digo isso fico com vontade de vomitar.
+\
+` [line=2]Ontem à noite.@
+br
+` Aquela garota desconhecida que passou pelo parque, e foi destruída por aquela violência irracional.@
+` É melhor falarem que ela está desaparecida do que dizer que foi completamente devorada sem deixar nem um fio cabelo para trás.
+\
+ld r,"tachi/ari_t03",crossfade,400
+`"Isso faz dela a nona vítima[line=4]não, é a décima, né?@ Nossa, que ritmo absurdo, todas em um único mês."@
+ld l,"tachi/cel_t12",crossfade,400
+`"Pois é, mas parece que o desaparecimento dessa noite foi um pouco diferente.@
+` As famílias das outras garotas que desapareceram demoraram mais tempo para notarem."
+\
+ld l,"tachi/cel_t01a",crossfade,400
+`"A propósito, você também não assistiu o noticiário, Tohno-kun?@ Não me diga que tem dificuldades para acordar cedo!"@
+`"…… Humm.@ Eu não diria que sou fácil de acordar.@ Mas deixando isso de lado, eu não estou vendo o noticiário porque na minha casa não tem televisão."@
+cl a,notrans,0
+` A Senpai e o Arihiko me encaram.
+\
+ld l,"tachi/cel_t08",crossfade,400
+`"Não tem televisão[line=4]Sua casa é… aquela mansão gigantesca, não é?"@
+ld r,"tachi/ari_t03",crossfade,400
+`"É impossível não ter uma televisão naquela mansão.@ Não vou aceitar você dizer que não tem uma bem no seu quarto."
+\
+`"É sério, não tem mesmo.@ Meu pai sempre dizia que não havia necessidade de termos essas máquinas que fazem lavagem cerebral nas pessoas.@
+` Na verdade, tem uma no quarto da Kohaku-san, mas eu não posso ir entrando no quarto de uma garota assim, ainda mais de manhã."@
+` Se eu quiser saber as notícias, tenho que me conformar com o jornal.
+\
+ld l,"tachi/cel_t07a",crossfade,400
+`"Tohno-kun, o que quis dizer com 'uma garota'?"@
+ld r,"tachi/ari_t04",crossfade,400
+`"Tá achando que vai se safar dessa, Tohno?"@
+` Eles me encaram com mais vontade ainda.@
+` Eu tapo a boca com as mãos, mas é tarde demais.
+\
+`"Ah, hum[line=2]é uma empregada da casa, o nome dela é Kohaku-san."@
+ld l,"tachi/cel_t12",crossfade,400
+`"Hum, uma empregada?@ Você é muito sortudo de ter uma garota pra cuidar de todas as suas necessidades o dia inteiro."@
+`"Não é bem assim!@ É que não tem ninguém pra tomar conta da mansão, por isso precisamos das empregadas para ajudar com tudo.@
+` E tanto faz se são 'empregadas' ou 'empregados'."
+\
+`"Ah, sééééééééééério!?@ Inui-kun, o Tohno-kun não pareceu bem íntimo dessa tal de Kohaku-san?@
+`"Verdade, ele pareceu bem feliz quando falou o nome dela.@ Eu queria ter perguntado antes, mas que tipo de vida será que o Tohno está levando agora?"@
+cl a,crossfade,400
+` Eles trocam olhares.
+\
+`"……… Ugh."@
+` Eu engasgo com o pão que estou comendo.@
+` O Arihiko, e até mesmo a Ciel-senpai com seu olhar frio, me interrogam com uma intensidade bizarra.@
+ld l,"tachi/cel_t04",crossfade,400
+`"Tohno-kun, temos tempo de sobra.@ Por favor, nos conte sobre sua vida na mansão."@
+` Ela se aproxima de mim com um sorriso que deixa claro que não vou poder fugir do assunto.@
+`"……………"@
+br
+` Só de pensar em como fazer para sobreviver nesses vinte minutos que resta do almoço faz minha cabeça girar.
+\
+bg #000000,lcartain,1500
+!w1000

@@ -1,0 +1,188 @@
+bg "bg/bg_40d",notrans,0
+playstop
+waveloop se_11
+` A Akiha e as outras garotas também não devem estar conseguindo dormir com essa barulheira toda.@
+` Como sou o único homem nessa casa, vou lá fora ver o que está acontecendo.
+\
+`"…… Parece que está vindo do lado direito da mansão."@
+` Abro as cortinas para ver o que está acontecendo lá fora.@
+br
+` [line=3]E,
+br
+` do lado de fora do meu quarto tem uma árvore enorme.@
+` Em um dos galhos tem um corvo azul empoleirado.
+\
+wavestop
+bg #000000,lshutter,400
+bg "bg/cmo_16",rshutter,400
+` No escuro da noite,
+` não consigo ver nada, mas ainda assim consigo ver que esse corvo é azul.@
+`"…………"@
+` Nunca vi ou mesmo ouvi falar da existência de um corvo azul.@
+br
+` Ele me encara.@
+br
+` Sinto como se os seus olhos fossem lentes mecânicas e sem alma.
+\
+!w1000
+br
+` Kwaaw!@
+br
+` Depois de grasnar, o corvo sai voando silenciosamente.@
+bg #000000,lshutter,400
+bg "bg/bg_40d",rshutter,400
+`"…… Mas o que foi isso que acabou de acontecer?"@
+` …… Sinto um arrepio nas costas.@
+` Os uivos ficam mais alto.
+\
+` Aúúúúúúúúú.@
+`            Aúúúúúúúúú.@
+`                       Aúúúúúúúúú.@
+br
+`"…………"@
+` Isso está começando a me dar nos nervos.@
+` Não é só pelo fato de ser barulhento, mas só de escutar, faz meu coração acelerar.@ Estou quase que com uma repulsa natural pelos uivos.@
+br
+`"Cala[line=3]a[line=3]boca!"@
+` Eu tiro o pijama, coloco o uniforme da escola e saio do quarto.
+\
+bg #000000,lcartain,800
+play "*6"
+!w500
+bg "bg/bg_32d",lcartain,800
+br
+` Aúúúúúúúúú.@
+br
+` O uivo ecoa pela noite.@
+` Agora tenho certeza que está vindo do lado direito da mansão.
+\
+`"…………"@
+` Por algum motivo, minha garganta fica seca.@
+` Os muros altos cercam toda a mansão.@
+` Limpo a garganta e vou para onde esses malditos cachorros devem estar reunidos.
+\
+bg #000000,lcartain,800
+bg "bg/bg_47",lcartain,800
+` Chego à origem dos uivos.@
+`"…… Hã?"@
+br
+` Aúúúúúúúúú.@
+br
+` Os uivos não param.@
+` Mas não vejo nenhum cachorro.@
+` Mas tem[line=3]uma pessoa.@
+` Sob a luz do poste de rua, vejo um homem vestido com um sobretudo preto.@
+br
+` O uivo está vindo do lado dele.@
+` [line=6]Mas não tem nenhum cachorro aqui.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_47",crossfade,400
+` O homem de sobretudo é muito alto.@
+` Ele tem um corpo forte e está de costas para mim.@
+`"[line=9]"@
+br
+` Minha garganta… está tão seca.@
+` Aúúúúúúúúú.@ O uivo ressoa nos meus ouvidos.@
+` O ar noturno se mescla à minha pele.@
+br
+` Sem qualquer razão aparente, estou com dificuldade para respirar e para me mexer, como se eu estivesse submerso no fundo do mar[line=3]
+\
+` Kwaah!@
+br
+` Um grasno vindo de cima.@
+` Fazendo barulho ao bater as asas, o corvo azul pousa no ombro do homem.@
+br
+` [line=3]E então,
+br
+` de repente, o corvo desaparece.
+\
+`"…… Hein?"@
+` Será que estou vendo coisas?@
+` Foi como se o corvo tivesse desaparecido em meio a seu sobretudo.@
+br
+`"[line=6]"@
+br
+` O homem se vira.@
+ld c,"tachi/nero_t03",crossfade,400
+` Ele parece uma sombra sob a luz do poste.
+\
+` Tem um caroço preto no seu corpo.@
+` No meio desse caroço, olhos brilham, como se fossem armas, queimando com uma inteligência voraz.@
+br
+`"…… Ah."@
+br
+` Não consigo respirar.@
+` Mas felizmente, aqueles olhos nem parecem ter me notado.
+\
+br
+br
+br
+br
+br
+br
+br
+`"Não está aqui."
+\
+br
+cl c,crossfade,800
+` O homem de sobretudo preto vai embora.
+\
+` Quando já não estou mais vendo ele, volto a respirar normalmente.@
+`"Hhahh[line=3]haah, ah."@
+` Respiro fundo várias vezes.@
+br
+` Os uivos pararam.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40c",lcartain,1500
+` Volto para o meu quarto.@
+` Não há sinal de que a Akiha e as outras garotas tenham acordado.@ Acho que fui o único que não conseguiu suportar aqueles uivos.
+\
+br
+`"[line=6]Ai!"@
+br
+` O que está acontecendo?@
+` Minha cabeça continua doendo.
+\
+`"Hã… ?@ Por que estou tremendo?"@
+` Meus dedos estão tremendo.@
+` Meu corpo inteiro está tremendo e as minhas costas estão quase congeladas.@
+br
+` É quase como se… sim.@
+br
+` É como se alguém tivesse arrancado minha coluna vertebral e colocado gelo no lugar.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=6]"@
+` Estou tonto.@
+` …… Será apenas a anemia de sempre atacando de novo?@
+` Estou quase caindo no chão.@
+br
+` Enquanto vou caindo, vejo algo desagradável.
+\
+bg "bg/bg_40f",lshutter,800
+`"O qu[line=3]!?"@
+` Mesmo usando os óculos, posso ver as "linhas".@
+`"Glup……!"@
+` Fazia muito tempo que eu não via elas, então minha reação de terror é ampliada.@
+` Estou me sentindo péssimo.@
+` Estou prestes a vomitar.
+\
+`"…… O que está acontecendo?"@
+` Não estou entendendo.@
+` Só entendo que, enquanto meus olhos estiverem abertos, os rabiscos vão tomar conta da minha visão.
+\
+br
+` [line=3]É só um… pesadelo.@
+br
+` De alguma forma, consigo cair em cima da cama.@
+` …… Sim.@ Eu tenho que dormir.@ É a forma mais fácil de negar o que estou vendo.
+\
+` Meu corpo não me obedece.@
+` Só preciso ficar deitado aqui como se fosse um cadáver e adormecer logo[line=3]
+\
+playstop
+bg #000000,crossfade,1500
+!w3000

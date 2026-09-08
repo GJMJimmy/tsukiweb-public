@@ -1,0 +1,94 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]If I go to the sitting room, there should be someone there.@
+br
+` Being with company is surely more pleasant than being alone.
+\
+bg #000000,lcartain,400
+play "*3"
+bg "bg/bg_34c",lcartain,400
+` I enter the sitting room and see Kohaku-san.@
+ld c,"tachi/koha_t02",crossfade,400
+`"Ah, Shiki-san.@ What can I do for you?@ Supper isn't for another hour."@
+`"No, I came here to relax, not for a meal.@ I hope I'm not intruding?"@
+`"Oh, no, please come in.@ Let's see…"
+\
+cl a,crossfade,400
+ld c,"tachi/his_t23",tshutter,800
+`"Nee-san, about the detached building…"@
+`"Hi.@ Sorry to intrude, Hisui."@
+ld c,"tachi/his_t01",crossfade,400
+`"…… Welcome home, Shiki-sama.@ I am sorry I was not able to welcome you home."@
+`"It's okay, don't worry about it.@ I'm sorry for not saying hi as soon as I got back."@
+ld c,"tachi/his_t02",crossfade,400
+`"[line=7]"@
+` Hisui's cheeks become faintly red.@
+` Little by little, I'm coaxing expressions out of her.@ I'm pleased.
+\
+cl a,crossfade,400
+ld l,"tachi/koha_t01a",crossfade,400
+`"Excellent timing.@ Hisui-chan, would you prepare a drink for Shiki-san?"@
+ld r,"tachi/his_t01",crossfade,400
+`"Yes.@ Shiki-sama, what would you like to drink?"@
+`"Hm.@ Since it's before dinner, I guess just tea would be great.@ I only came down to chat, so I don't want to be any trouble."@
+`"Please wait a moment, then."
+\
+cl a,crossfade,400
+bg #000000,tshutter,800
+bg "bg/bg_34c",bshutter,800
+` Hisui returns with three teacups, and time passes by slowly and silently.@
+br
+`"Ah, by the way, Hisui, you were talking about the detached house earlier?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Yes.@ Did you have a question about it?"@
+`"Mm, not particularly, but Akiha was saying no one can go there anymore.@ Did something happen there while I was gone, by any chance?"
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t02b",crossfade,400
+`"No, nothing like that.@ It merely houses servants' quarters, so there's no reason for you to go there, Shiki-san."@
+`"Servant's quarters……?"@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Yes.@ Although it's only me and Hisui-chan now, a little while ago there were more than ten servants working in the mansion.@ Since there isn't room for so many people in the mansion, the detached building was built."
+\
+cl a,crossfade,400
+ld r,"tachi/his_t09",crossfade,400
+`"Nee-san[line=3]you must not speak about this."@
+ld l,"tachi/koha_t11",crossfade,400
+`"Ah."@
+cl a,crossfade,400
+` Hisui says this, and Kohaku-san looks around guiltily.@
+` …… There is no sign of Akiha.@ Kohaku-san lets out a sigh of relief.
+\
+ld c,"tachi/koha_t04b",crossfade,400
+`"Shiki-san!"@
+`"Ah… Yes, what is it…?"@
+`"…… Our talk just now is a secret!"@
+` Kohaku-san grips my hand hard.@
+`"Ah, yeah[line=3]I won't tell Akiha about it."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Yes, thank you."@
+` Kohaku-san sighs with relief once more.@
+` It seems like Akiha forbids talking about the detached building.
+\
+cl a,crossfade,400
+` [line=4]But, why?@
+` The detached building that used to be the servants' quarters.@
+` Akiha doesn't want people to go there.
+\
+`"Hey, Kohaku-san.@ How long has the detached building been unused?"@
+ld l,"tachi/koha_t11",crossfade,400
+`"Uhhh… Hisui-chan?"@
+ld r,"tachi/his_t01b",crossfade,400
+`"…………"@
+` Hisui silently shakes her head.@
+` It seems that even this cannot be spoken of.@
+`"What?@ Is it a secret?"
+\
+ld r,"tachi/his_t01",crossfade,400
+`"[line=3]Yes.@ Talking about the detached building would be bad for your health, Shiki-sama."@
+` And with that final response, talk of the detached building ceases.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

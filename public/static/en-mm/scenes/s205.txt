@@ -1,0 +1,102 @@
+phase "bg/bg_22b",r,ark,02a,2
+bg #ffffff,crossfade,400
+!w2000
+`"[line=3]Good morning."@
+br
+` …… I hear an unfamiliar voice.
+\
+` The dream quickly fades away as a voice calls me back to reality.
+\
+`"It is morning.@ Time to wake up, Shiki-sama."@
+br
+` An unfamiliar voice greets me.@
+` …… Stop calling me Shiki-sama already.@
+` I told you yesterday, it sends chills down my back[line=4]
+\
+bg "bg/bg_40a",crossfade,800
+ld c,"tachi/his_t01",lshutter,400
+play "*2"
+` [line=3]I wake up.@
+` Hisui stands far from the bed, like a statue.@
+`"Mm……"@
+` I sleepily look around.@
+ld c,"tachi/his_t16",crossfade,400
+`"Good morning, Shiki-sama."@
+` A girl in a maid uniform bows.@
+` For a moment, I doubt my eyes.@ Finally, I recall my current condition.
+\
+`"Yeah, I came home, right…"@
+` I push myself up, and look around the room.@
+cl c,crossfade,400
+` Outside the window, the weather is great.@
+` A blue sky like the one I saw in my dream.@
+`"Good morning, Hisui.@ Thanks for coming to wake me."@
+ld c,"tachi/his_t01",lshutter,400
+`"There is no need to thank me.@ It is my duty to come and wake you, Shiki-sama."@
+` Hisui answers indifferently, completely expressionless.
+\
+` *sigh*@
+`"…… Why do you have to be so formal, Hisui?"@
+` It's really a shame.@
+` If Hisui only had half of Kohaku's brightness, she would be really cute.@
+`"[line=3]Do you need something?"@
+` Realizing I am looking at her, Hisui stares straight back at me.
+\
+`"Ah, no, nothing at all.@ Waking up and seeing your face, I just felt like I'm really at the Tohno mansion…"@
+` Hisui's eyes are like cold ice.@
+` Seeing that all of a sudden, something reminiscent of a dream flashes through my mind[line=3]
+`"[line=5]I, see."@
+` I remember it completely.@
+` That day, that girl who gave me the ribbon right before I left was the one who always watched us from that window.@
+` That is, in other words[line=3]
+`"It was…… Hisui."
+\
+`"Yes?@ Did you say something, Shiki-sama?"@
+`"Ah…… Hisui, do you remember?@ About when I left here eight years ago?"@
+`"Yes, I remember it.@ But, was there anything special that happened?"@
+`"Eh[line=3]anything special?@ Hisui?"@
+`"Please forgive me.@ Eight years has passed since you departed this mansion.@ So even if you speak of those times, I cannot answer with any specific details."@
+`"Wha[line=5]"@
+` Does she not remember the promise we made back then?
+\
+`"Hisui[line=3]you don't remember about the ribbon?"@
+ld c,"tachi/his_t23",crossfade,400
+`"…… Ribbon……?"@
+` She looks downcast as she admits with difficulty that she does not remember.@
+`"…… I see.@ That's right, it was eight years ago…… Sorry, it's nothing.@ Just forget about what I said."@
+ld c,"tachi/his_t04",crossfade,400
+`"……………………"
+\
+` …… She doesn't remember the promise.@
+` But, it isn't anything I can hold against her.@
+` Even though it was maybe just a childish promise, it really did help me to face forward into the future back then.
+\
+`"Well, time to get up.@ Hisui, do you know what time it is?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Yes, it is now past seven o'clock in the morning."@
+`"Okay, that leaves me just a little time then."@
+` Stretching my back, I get up out of bed.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"You say that, but you do not have much time.@ It takes about thirty minutes to go from the mansion to your school.@ You only have twenty minutes to eat breakfast and get ready."@
+`"Eh[line=4]that's right, this isn't Arimas' house!"@
+` I'm filled with horror.@
+` I was so used to the Arima house being only twenty minutes away from school, but from here, I don't even know a shortcut.
+\
+ld c,"tachi/his_t16",crossfade,400
+`"Your uniform is folded and awaits you over there.@ Please come to the sitting room after you have changed."@
+cl c,lshutter,800
+`"Damn it, if you're going to wake me, wake me up earlier…"@
+` Muttering selfishly to myself, I reach for the uniform.@
+` It's folded neatly, and the shirt has even been ironed.@
+` Passing my wrists through the sleeves feels good.@ It's that fresh, brand-new feeling.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lcartain,400
+ld l,"tachi/aki_t01a",crossfade,400
+ld r,"tachi/koha_t01a",crossfade,400
+` Akiha and Kohaku-san are relaxing in the sitting room.@
+` Akiha is wearing the uniform of the Asagami Ladies' Academy, a famous school for young girls.@
+` They are drinking tea together gracefully, as if breakfast ended a long time ago.
+\
+cl a,crossfade,800

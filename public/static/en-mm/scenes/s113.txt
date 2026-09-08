@@ -1,0 +1,23 @@
+monocro off
+playstop
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+` I go out in town aimlessly.@
+` Why the heck am I walking around here for no reason?@
+br
+bg "bg/bg_25a",crossfade,400
+ld c,"tachi/ark_t22",crossfade,400
+bg "bg/bg_25a",crossfade,400
+`"[line=4]Ah."@
+` It's just a mistake.@
+` There's no way she'll still be around, and it's not like I have any reason to talk to her.
+\
+` So why did I think it was her?@
+` Why[line=4]am I walking around town pointlessly like this?@
+br
+`"…… I have to go back to the mansion."@
+` I shake my head as if trying to clear my head of drunkenness and turn away from the nonexistent illusion of Arcueid.
+\
+bg #000000,crossfade,800
+!w1000

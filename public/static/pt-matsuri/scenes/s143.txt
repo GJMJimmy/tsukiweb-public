@@ -1,0 +1,104 @@
+phase "bg/bg_47",l,ark,07a,7
+bg "bg/cmo_05",crossfade,800
+` Naquela época, a mansão inteira era como um enorme parque de diversões.@
+br
+` O jardim era uma floresta imensa.@
+` A casa era um castelo enorme.@
+br
+` Brincávamos em nosso próprio mundinho, que levaria muitos dias para explorar.
+\
+` Todos os dias eram divertidos.@
+` Ninguém nem pensava que um dia iríamos crescer,
+` e acreditávamos que os dias e as noites seriam sempre iguais.@
+br
+` Passamos a infância brincando como se fôssemos filhotinhos.@
+` Nós nos davamos muito bem e éramos melhores amigos.
+\
+` Sempre que eu me virava, a Akiha estava lá, acenando para mim e se escondendo de vergonha.@
+` Era sempre assim.
+\
+` Naquela época, a mansão inteira era como um enorme parque de diversões.@
+br
+` O jardim era uma floresta imensa.@
+` A casa era um castelo enorme.@
+br
+` Brincávamos em nosso próprio mundinho, que levaria muitos dias para explorar.
+\
+bg #ffffff,crossfade,800
+` Eu acordo lentamente e abro os olhos.@
+` A luz do dia me envolve e minha sonolência começa a desaparecer.@
+br
+` Quando finalmente acordo de verdade,
+` sinto que tive um sonho nostálgico.@
+bg "bg/bg_40e",crossfade,800
+`"[line=7]"@
+` Assim que abro os olhos, aquelas coisas horríveis tomam minha visão.@
+` Minha cabeça começa a doer.@
+`"Gg[line=4]"@
+` Procuro meus óculos perto do travesseiro e os coloco.
+\
+bg "bg/bg_40a",lshutter,800
+play "*2"
+` Eu respiro fundo.@
+` Depois de respirar fundo várias vezes, eu me acalmo.@
+`"Por que será que eu[line=4]tão cedo…"@
+` Por que vi essas linhas claramente tão cedo assim?@
+` É difícil ver as linhas da morte em construções.@
+` Normalmente é difícil vê-las, e vê-las tão claramente como agora há pouco é muito raro.@
+`"…………"@
+` E o pior de tudo, é que eu também vi aqueles "pontos".@
+` Acho que minha dor de cabeça também está piorando.
+\
+` A Sensei falou que estes olhos atrairiam coisas que não eram boas.@
+` Acho que a Arcueid e esses vampiros com toda certeza não são coisas boas.@
+` Será que esses acontecimentos estão afetando meus olhos e deixando eles mais fortes?@
+br
+`"[line=4]Não pode ser."@
+` Provavelmente só estou cansado.
+\
+`"Hum[line=4]?"@
+` A Hisui não está aqui.@
+` Já passa das sete horas.@
+` Normalmente ela já teria me acordado.@
+br
+`"…… Talvez ela tenha perdido a hora."@
+` Mas estou vendo meu uniforme limpinho em cima da mesa.@
+`"O que será que houve?@ Será que ela tinha algo mais importante para fazer?"@
+` Estou curioso, mas acho que não é da minha conta.@
+` Eu não estou com tempo sobrando, preciso me apressar, trocar de roupa e descer para a sala de estar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+playstop
+`"[line=6]Ah."@
+` Quando passo pelo saguão indo em direção à sala de estar, percebo que esqueci algo muito importante.@
+` Abro a porta e permaneço ali, sem dar um único passo para dentro.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+` A Akiha já está na sala de estar.@
+` A Kohaku-san está perto dela e as duas estão tomando chá em silêncio.@
+cl c,crossfade,400
+br
+` Normalmente ela diria,
+`"Bom dia, Nii-san,"@
+` independente do quão brava ela estivesse, mas hoje ela nem olha para a minha cara.@
+`"Ah……… hum."@
+` O motivo disso tudo é muito óbvio.@
+` A Arcueid ter vindo aqui ontem à noite teve algumas repercussões bem duradouras.
+\
+` A raiva da Akiha está dominando todo o ambiente.@ É possível cortar a tensão no ar com uma faca.@
+br
+play "*2"
+ld c,"tachi/koha_t01a",lshutter,400
+`"Bom dia, Shiki-san."@
+` …… Bem, parece que, pelo menos, a Kohaku-san não foi afetada.@
+`"Bom dia, Kohaku-san."@
+` Aceno para ela e entro na sala de estar.@
+cl c,crossfade,400
+\
+ld c,"tachi/aki_t03a",crossfade,400
+` A Akiha me encara quando entro.@
+br
+` [line=3]Ugh, eu não vou sucumbir a essa pressão silenciosa!@
+br
+cl c,crossfade,400

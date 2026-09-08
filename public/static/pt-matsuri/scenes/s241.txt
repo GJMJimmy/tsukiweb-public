@@ -1,0 +1,229 @@
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+br
+` [line=4]Eu… Não posso abandoná-la.@
+br
+` Eu sei que sair por aí procurando a Yumizuka é algo perigoso de se fazer.@
+` Porque, independente dos seus motivos, ela matou aquele monte de gente.@
+` Mas não posso deixar esse assunto de lado.@
+` Jamais vou esquecer das suas últimas palavras.@
+` Naquele dia[line=4]enquanto voltávamos para casa banhados pelo pôr do sol.
+\
+`"…… Eu vou atrás dela.@ Ficar obcecado com isso não me fará bem algum."@
+` Eu troco de roupa e coloco a faca no bolso.@
+` Vou sair da mansão na ponta dos pés para não acordar a Akiha e as empregadas.@
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+br
+` …… As luzes do saguão estão apagadas.@
+` É um lugar escuro e sombrio; perfeito para uma saída secreta.
+\
+` Creak, creak.@
+` Eu desço as escadas que só rangem quando não devem e caminho sorrateiramente até a porta.@
+br
+` [line=2]E então…
+br
+ld c,"tachi/aki_t01b",crossfade,400
+`"Nii-san?@ Você está indo para a rua a esta hora?"@
+` A Akiha que já estava no saguão fala calmamente.
+\
+`"Akiha[line=2]ah, você já voltou?"@
+`"Sim, agora há pouco.@
+ld c,"tachi/aki_t12b",crossfade,400
+` Mas isso não é importante[line=2]eu quero é saber o que você está fazendo, Nii-san!@ Já que trocou de roupas, está parecendo que está pronto para sair de casa."@
+` Ela me observa atentamente.
+\
+` Não é um olhar de censura.@
+` Ela simplesmente me observa inquieta.
+\
+`"Você vai sair novamente e se machucar outra vez, igualzinho ao que aconteceu na noite passada.@ Não é isso mesmo, Nii-san?"@
+`"…… Eu[line=4]me desculpe.@ A minha amiga está com problemas.@ Eu não posso abandoná-la agora."@
+ld c,"tachi/aki_t23b",crossfade,400
+`"…… Entendo.@ Tenho certeza de que você vai sair mesmo se eu tentar impedi-lo."@
+`"Pois é, mas não vou fazer nada de perigoso.@ Eu so vou ver como estão as coisas.@ …… Olha, me desculpe por causar tantos problemas assim, sendo que acabei de voltar para casa."@
+` Depois de dizer isso, começo a sair da casa.
+\
+cl a,crossfade,400
+`"Ah[line=2]"@
+` Uma voz muito suave fala por trás de mim.@
+`"Nii… san."@
+` Uma voz fraquinha, muito diferente do tom de voz normal da Akiha.@
+` …… Está parecendo a voz dela de oito anos atrás[line=2]completamente inquieta.
+\
+`"Akiha…?"@
+ld c,"tachi/aki_t17b",crossfade,800
+`"Você vai… Voltar para casa, né?"@
+`"[line=4]"@
+` Seu rosto belo e tão frágil.@
+` Nem parece a mesma pessoa fria que ela tem demonstrado ser, ela está quase igual quando éramos crianças, prestes a cair em prantos.
+\
+`"…… Mas do que está falando?@ Eu vou sair rapidinho.@ Não precisa fazer essa cara, não precisa ficar desse jeito."@
+`"Eu sei, mas…"@
+`"Está tudo bem.@ Eu não vou demorar nada.@ Eu sinto muito, Akiha; estou sempre te causando problemas."@
+`"Ah[line=2]Nii-san!"@
+bg #000000,lcartain,400
+` Ignorando sua voz, eu saio da mansão.
+\
+` …… Do lado de fora sou cumprimentado por um belo luar.@
+` Talvez seja por eu ter visto a expressão de insegurança no olhar da Akiha.@
+` Mas por alguma razão, fico com a sensação de que nunca mais vou voltar aqui.
+\
+playstop
+!w1000
+bg "bg/bg_26a",rcartain,800
+` Eu chego no distrito comercial.@
+` Acho que a Yumizuka talvez possa estar por aqui.@
+` Porque as vítimas do assassino foram encontradas aqui perto.@
+br
+`"…… Mas que droga, no que é que estou pensando…!"@
+` Eu amaldiçoo o meu próprio raciocínio.@
+` …… Mas o mais provável é que eu a encontre aqui mesmo.@
+` Colocando todos os pensamentos em segundo plano, começo a procurar pela Yumizuka.
+\
+bg #000000,lshutter,800
+!w2000
+play "*6"
+!w1000
+bg "bg/bg_26a",rcartain,800
+` …… Já estou nisso há quanto tempo?@
+` Não vejo sinal algum dessa garota; nem nos becos escuros e muito menos no meio das pessoas.@
+br
+` *arf*[line=3]*arf*[line=4]*arf*
+br
+` Eu descanso o meu corpo que está queimando por causa da minha correria.@
+` Já é quase meia-noite.@
+` …… Acho que estou é perdendo tempo aqui.
+\
+`"Onde é que está essa garota…?"@
+` Volto a caminhar.@
+` Tem só mais um lugar que não procurei.@
+` Só vou desistir quando o meu corpo não aguentar mais[line=2]
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,400
+` …… Deixando a rua principal muito bem iluminada, eu chego no parque.@
+` As pessoas nem passam mais nessa região por causa dos assassinatos recentes.@
+`"…………"@
+` Embora eu não consiga imaginar a Yumizuka num lugar desses, foi o único lugar que faltou procurar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_28b",lcartain,800
+`"[line=5]"@
+` O parque está vazio.@
+` Não ouço sequer um som de alguma coisa.@
+` Não sei o motivo, mas um calafrio percorre todo o meu corpo.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_28b",crossfade,400
+br
+`"[line=2]Sst."@
+` Minha nuca fica dormente.@
+` Sinto um calafrio terrível, é como se meu corpo todo tivesse congelado.@
+wave se_01
+` Tento recuperar o fôlego.@
+` Em contraste com o meu corpo frio, a minha garganta está queimando.@
+` Está muito seca.@
+` Eu coloco a mão no bolso.@
+` Eu só[line=3]queria sentir a faca na minha mão.
+\
+`"Por quê…?"@
+` Apenas…@
+` Uma leve dor de cabeça.@
+` Uma queda na temperatura.@
+` A minha mente está fria como gelo.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_28b",crossfade,400
+` Tem algo estranho aqui.@
+` Este parque[line=4]sinto que tem alguma coisa ruim aqui.@
+`"…… Só mais um pouquinho e chego no meio do parque."@
+` Balanço a cabeça várias vezes e entro mais ao fundo do parque.
+\
+bg #000000,lcartain,800
+bg "bg/bg_29b",lcartain,800
+` Não tem ninguém aqui.@
+` Um lugar muito desolado e escuro para se encontrar com alguém.@
+` Ali[line=4]tem uma pessoa agachada ali.@
+` Ela está respirando com dificuldade.@
+` Seu rosto está muito pálido e ela coça a garganta como se estivesse sentindo dor.@
+br
+` Sem dúvida alguma, é a Yumizuka Satsuki.
+\
+bg #000000,lshutter,400
+bg "bg/bg_29b",lshutter,400
+play "*9"
+`"Yumizuka[line=2]!?"@
+` Fico feliz por finalmente tê-la encontrado.@
+` Sem nem parar para pensar no que aconteceu ontem, eu corro na sua direção.@
+ld c,"tachi/stk_t04",tshutter,400
+`"Espera…!"@
+` A Yumizuka me para com apenas uma palavra.
+\
+`"…… Espere, Shiki-kun.@ Estou muito feliz que tenha vindo, mas não quero que se aproxime mais.@ Por favor, fique onde está."@
+` Sua respiração parece dolorosa.@
+` Seu corpo está sofrendo convulsões enquanto fala, parece até que pode desmaiar a qualquer momento.
+\
+`"Não diga besteiras!@ Eu não deixaria uma pessoa sofrendo desse jeito sozinha…!"@
+ld c,"tachi/stk_t03",crossfade,800
+`"Não, eu estou bem… Você veio, por isso estou bem agora."@
+` Forçando a si mesma a levantar, a Yumizuka sorri para mim.@
+` Foi um grande exemplo de força de vontade.@
+` …… Só que não posso me aproximar dela.@
+` Eu já entendo que ela me quer muito perto.
+\
+`"…… O que está acontecendo, Yumizuka?@ Por que você não voltou mais para a casa?@ O que foi aquilo[line=4]ontem?@ Por que[line=4]é[line=4]que"@
+`"Hum?@ O quê?"@
+`"…… Mas que droga, como eu vou saber!?@ Eu não estou entendendo nada de nada, Yumizuka…!"@
+ld c,"tachi/stk_t10",crossfade,400
+`"Sério?@ Você viu muito bem o que foi que aconteceu.@ Eu ainda te falei, eu matei aquelas pessoas."@
+` Ela responde com franqueza.@
+` …… É quase como se estivesse rindo dos meus sentimentos de negação.
+\
+`"Então… Esses assassinatos que aconteceram foram todos sua culpa, Yumizuka…!"@
+`"Eu não gosto de falar sobre isso, mas… Sim, fui eu."@
+`"Mas que merda, como assim …!?"@
+`"É como você ouviu.@ Eu matei aquelas pessoas e vou continuar matando mais gente.@ Eu não posso ficar mentindo para você, não é mesmo?"
+\
+`"Yumi… zuka[line=4]você é[line=2]"@
+`"Por favor.@ Pare de me chamar assim.@ Eu estou te chamando de Shiki-kun, então nada mais justo do que você também me chamar pelo meu primeiro nome."@
+`"O qu…"@
+` Eu tomo um grande fôlego.@
+` A Yumizuka continua do mesmo jeito.@
+` Embora ela aja como costumava agir[line=4]agora está dizendo umas coisas bem assustadoras.
+\
+`"Quando paro pra pensar, eu pareço patética.@ Eu nunca pude conversar com você dessa forma, por todos estes anos estive te observando de longe."@
+`"Hein[line=2]Yumi… zuka……?"@
+`"Eu estive te observando, Shiki-kun.@ Mesmo antes de ter sido salva por você daquela vez, eu sempre estive te observando.@
+` Eu… Realmente sou uma medrosa.@ Sempre concordei com as pessoas à minha volta, e sempre sorria quando parecia o certo a se fazer.@ E antes que eu percebesse, todo mundo estava me tratando como se eu fosse uma ídolo."
+\
+`"Eu não via a escola como um lugar divertido ou que eu gostasse de frequentar.@ Mas isso mudou depois que você conversou comigo quando fazíamos o oitavo ano."@
+`"Hã[line=2]?"@
+`"Não.@ Não é algo que você iria se lembrar.@ Como devo dizer… Você sempre agia naturalmente, nunca tentava se exibir.@ O mais provável é que você nem se lembre do que falou naquele dia."
+\
+`"[line=6]"@
+` Bem.@
+` É como ela disse, não me lembro de nada disso.@
+` Eu não me lembro do que disse a ela, na verdade, nem me lembro de ter conversado com ela.
+\
+ld c,"tachi/stk_t03",crossfade,400
+`"Está tudo bem.@ Não precisa fazer essa cara.@ Você conversava mais era com o Inui-kun, portanto era normal que não prestasse muita atenção aos outros colegas."@
+ld c,"tachi/stk_t10",crossfade,400
+`"Mas eu não ligava.@ Estava feliz só de estar na mesma classe que você, Shiki-kun.@
+` O meu objetivo era conversar com você e queria que você me chamasse de Yumizuka-san.@ Agora que paro pra pensar, era um desejo muito pequenino."@
+br
+` Ela se lembra com nostalgia.@
+` Dos dias passados.@
+` …… Como se lembrasse de algo que aconteceu há séculos.
+\
+`"Eu… Sempre estive te observando.@
+` Eu sabia que você nunca iria me notar, mas te observava mesmo assim."@
+`"[line=4]"@
+br
+` Para falar a verdade[line=4]estou feliz, mas…
+br
+`"Você gosta de mim, Shiki-kun?"@
+cl a,crossfade,400
+` Como responder a uma pergunta dessas nessa situação[line=3]?
+\
+playstop

@@ -1,0 +1,171 @@
+play "*4"
+wavestop
+monocro #ff0000
+bg "bg/bg_09b",notrans,0
+`"Tsss, ah…………!"@
+` Eu caio no chão.@
+`"Ah, ah, ah…………!"@
+` Estou sofrendo convulsões pelo corpo inteiro.@
+` Que dor!@
+` Meu peito[line=4]meu peito[line=4]está queimando………………!
+\
+bg #9c0120,crossfade,800
+monocro off
+`"[line=4],[line=3],aaaah………!"@
+` Estou perdendo a consciência.@
+` Agarro o tatame com todas as forças tentando resistir à dor que invande o meu corpo.@
+` Eu puxo e rasgo os tatames.@
+` Mas nada faz a dor parar.
+\
+`"Hagh, gah, ghaaaaa……!"@
+` Que dor!@
+br
+` Que dor!@
+br
+` Que dor!@
+` Sentir tanta dor assim é muito assustador.
+\
+`"U-ugah, kuaaaa………!"@
+` Não consigo suportar.@
+` Eu prefiro morrer,
+` do que ter que suportar isso por mais um segundo[line=4]!
+\
+br
+br
+br
+br
+br
+br
+` "Tudo bem.@ Então vou realizar o seu desejo, Shiki."
+\
+`"[line=4]Hein?"@
+` Levanto a cabeça.@
+` Mas na mesma hora.@
+bg #000000,notrans,0
+playstop
+!w6000
+\
+bg "bg/bg_09c",crossfade,1500
+` Na mesma hora.@
+` A dor desaparece.@
+` Não sinto mais a dor em lugar algum.
+\
+` Não sinto mais meu corpo pesado.@
+` Não sinto mais… que estou vivo.
+\
+`"[line=4]"@
+` Tento dizer alguma coisa, mas minha garganta não se mexe.@
+!w750
+` Não há mais nada.@
+!w750
+` Nenhuma dor,
+!w750
+` nenhuma sensação,
+!w750
+` muito menos liberdade.
+\
+`"[line=5]!"@
+` Sem saber o que está acontecendo, tento me levantar.@
+br
+` Mas meu corpo não se mexe.@
+` Eu não estou amarrado e meu corpo não está dormente.@
+br
+` Descrevendo de uma forma simples de se entender,
+` é como se meu corpo já estivesse morto, mas minha mente não sabe disso e continua presa dentro dele.
+\
+`"[line=6]"@
+` A visão é o único dos meus cinco sentidos que ainda funciona.@
+` …… a sala está escura.@
+` Já é noite.@
+`"[line=3]"@
+` Não consigo mexer o rosto, por isso mexo os olhos.
+\
+`"[line=3]Hum?@ Achei que tivesse desaparecido completamente, Shiki, como você é persistente, hein!"
+\
+` Estou ouvindo uma voz que não deveria ser capaz de ouvir.@
+`"[line=4]!"@
+` Tento ao máximo distinguir algo em meio à escuridão.@
+` Ali,
+` estou vendo algo que não reconheço.
+\
+ld c,"tachi/roa_t04a",crossfade,400
+`"[line=4]"@
+` Quem é ele?@
+` É a primeira vez que o vejo.@ É a primeira que o vejo[line=3]mas sinto como se o conhecesse há muito tempo.
+\
+waveloop se_02
+`"Como assim?@ Que maldade sua, Shiki.@
+` Você esteve me procurando por todo esse tempo e quando finalmente apareço, você nem ao menos se lembra de mim?"@
+` Com uma risada divertida, ele me encara com seus olhos vermelhos.
+\
+`"[line=5]"@
+` Minha mente, a única coisa que ainda funciona neste corpo, fica congelada.@
+` Ele não disse,
+` mas[line=3]tenho certeza de que é um vampiro.@
+` Tenho certeza de que ele é a "Serpente" que a Arcueid e a Senpai estão procurando.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"…… Não, você está errado.@ Realmente sou o vampiro conhecido como A Serpente de Akasha.@
+` Mas para você, eu não sou a Serpente, sou o SHIKI, lembra?@
+ld c,"tachi/roa_t04a",crossfade,400
+` [line=3]Mas cara, quanta frieza da sua parte, hein!@ Você está me fazendo parecer um idiota por ter ficado pensando em você durante esses oito anos."
+\
+` [line=5]?@
+` SHIKI?@
+` Oito anos?@
+` Como assim[line=4]?
+\
+`"[line=3]Você realmente esqueceu, Shiki?@
+` …… A hipnose daquele velho era tão boa assim ou[line=3]você perdeu a memória depois de morrer uma vez?@
+` Merda, que perda de tempo!@
+` Você está entendendo!?@ Eu esperei durante oito anos!@ Eu esperei pelo momento em que poderia roubar tudo você, a pessoa que me assassinou!@ Mas de que importa agora que você não se lembra mais de nada!?"
+\
+`"[line=5]"@
+` Do que esse cara está falando?@
+` Eu[line=3]matei ele?
+\
+`"Isso mesmo!@ Nós sempre estávamos juntos, não se lembra?@
+` Na mansão Tohno.@ A Akiha, você e eu, nós sempre brincávamos no jardim.@ Isso foi antes de eu ficar assim!"
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",notrans,0
+wait 100
+bg "bg/bg_09c",notrans,0
+` [line=3]Eu não me lembro.@
+` Realmente[line=3]tenho a sensação de que havia mais uma garoto conosco naquela época.
+\
+ld c,"tachi/roa_t04a",crossfade,400
+`"…… Como não se lembra?@ Nós éramos os melhores amigos."@
+` Ele range os dentes.@
+` Seu corpo estremece de emoção, como se estivesse muito aflito.
+\
+`"[line=3]Poxa.@ Eu fui o único que sofreu?@
+` Que coisa terrível, Shiki.@ O meu pai me prendeu mas eu sempre pude sentir a sua presença.@
+` Ahahahaha.@ É porque eu estava usando a sua 'vida'.@ Mesmo que não estejamos conectados pelo sangue, estamos conectados pelas nossas almas."
+\
+`"Por isso eu sempre quis[line=3]que você tivesse uma morte horrível."@
+` Que infortúnio, ele diz.
+\
+`"Era isso que eu queria te dizer, Shiki.@ Eu sou o seu irmão.@ Mas tanto você quanto a Akiha se esqueceram de mim."@
+`"[line=5]"@
+` Meu…… irmão………?
+\
+bg #000000,crossfade,1500
+`"[line=3]Já que você se esqueceu, não há mais nada para conversarmos.@
+` O objetivo deste corpo é te dar uma morte extremamente dolorosa…… Esse é o objetivo do Tohno SHIKI.@
+` Estive elaborando isso por anos, mas é chegada a hora de baixar as cortinas.@
+` Ter dois corpos compartilhando a mesma vida não é muito eficiente[line=3]até mesmo para mim."
+\
+` A voz se aproxima.@
+` Desse jeito, eu vou ser morto.@
+` …… Não, para falar a verdade, talvez eu já esteja morto.@
+` Não consigo mexer meus braços nem minhas pernas.@
+` Nada mais funciona, nem meus olhos, ou meus ouvidos, nem meu nariz.@
+br
+` E é por isso que nem sinto qualquer dor.@
+` Sou morto de uma forma tão vaga que nem consigo perceber quando acontece.
+\
+wavestop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

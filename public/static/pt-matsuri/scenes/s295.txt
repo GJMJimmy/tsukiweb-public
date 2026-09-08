@@ -1,0 +1,80 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_47",lcartain,800
+` Eu saio da mansão.@
+` …… O que diabos está acontecendo?@
+` Embora não tenha ninguém por perto, estou sentindo a presença de pessoas.@ Dentro dos prédios.@ Dentro das casas ao meu redor[line=4]sinto a presença de pessoas por todos os lados.
+\
+` *arf*[line=4]*arf*[line=6]
+br
+` Não vou conseguir me segurar com tanta gente por perto.@
+` Preciso ir para um lugar deserto senão nunca vou conseguir me acalmar.@
+` Um lugar onde não tenha ninguém.
+\
+` Um lugar sem nenhuma casa por perto.@
+br
+` …… Um lugar onde eu não cause problemas a ninguém, mesmo se enlouquecer outra vez.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_27b",crossfade,1500
+` …… *arf*…… *arf*………
+` Não tem ninguém no parque.@
+` E não tem casas aqui perto.@
+` …… Não deve ter ninguém por aqui e mesmo assim não consigo me acalmar.@
+` Elas estão bem longe daqui, mas ainda há casas para todo lado que olho.@ Também consigo ver as luzes da cidade à distância.
+\
+`"Isso não existe."@
+` É claro que não existe.@
+` Não existe um só lugar dentro de uma cidade onde você não sinta a presença de seres humanos.@
+` Não existe um lugar onde eu possa me sentir solitário no meio da civilização.
+\
+`"Que[line=5]droga."@
+` Tantas pessoas.@
+` Tantas pessoas tão perto de mim.@ Se eu caminhar por alguns minutos, posso capturar quantas vítimas quiser.@
+br
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_27b",notrans,0
+`"Cala[line=2]a[line=2]boca."@
+` Minha cabeça está doendo.@
+` Finalmente parei de ver as "linhas", se continuar assim vou voltar a vê-las logo.
+\
+`"[line=4]Hã?"@
+` Espera um pouco, Shiki.@
+` Não acha isso estranho?@
+` Eu não estava vendo as "linhas" porque estava excitado.@
+` Eu sempre vou ver aquelas "linhas" se não estiver usando meus óculos.@
+` Mesmo se eu me acalmar vou continuar a vê-las caso não coloque os óculos.@
+` Mas deixei eles cairem em algum lugar[line=3]
+\
+`"[line=4]Espera, eles estão… aqui."@
+` Coloco a mão no rosto e percebo que os óculos estiveram nele o tempo todo.@
+` Então quer dizer que…
+` Embora eu esteja usando os óculos que a Sensei meu deu, não consigo mais controlar os meus olhos.
+\
+`"Ha[line=3]haha."@
+` Sou esbofeteado pela realidade.@
+` É como o Roa disse, eu só não havia percebido que tinha enlouquecido.@
+` Naquela noite.@
+` Desde aquele momento que quis do fundo do meu coração matar aquele desgraçado que estava abusando da Ciel.
+\
+`"…… Ah…… então a dor de cabeça daquela vez foi……"@
+` A dor de cabeça de quando enfrentei o Roa.@
+` Eu vi as "linhas" de morte e não me lembro de ter tirado os óculos em momento algum, e depois ainda pedi a Ciel-senpai para procurar eles.@
+br
+` Desde aquela noite eu[line=3]mesmo usando os óculos, independente de quais fossem minhas intenções, fui capaz de ver as "linhas".
+\
+`"…… A Senpai…… sabia."@
+` Provavelmente ela não quis me contar.@
+` Para que eu não ficasse preocupado, ela mentiu para proteger minha percepção equivocada.@
+`"…… Entendo…… Sen…… pai."@
+` Ela me disse para conversar com ela caso acontecesse alguma coisa.@
+` Até memorizei o seu telefone.
+\
+`"Telefone[line=3]"@
+` Tem um telefone público aqui perto.@
+` Mas[line=3]por que eu iria ligar para ela?@
+` Ninguém pode consertar o meu corpo.@
+` Nem mesmo a Ciel-senpai pode curar o que está dentro de mim.
+\

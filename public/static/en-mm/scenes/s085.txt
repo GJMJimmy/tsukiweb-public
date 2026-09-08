@@ -1,0 +1,73 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_19d",notrans,0
+` [line=3]As long as Arcueid is unable to move, blindly going outside would be dangerous.@
+br
+`"…………"@
+` Gripping the knife with one hand, I hold my breath.@
+` Arcueid is silent too.@ She looks like she's being careful of what's around her.
+\
+` The floor below is being noisy.@
+` Perhaps the shock woke up the guests and maybe they're complaining to the hotel people.@
+` It's still four in the morning, but even so, the noise is as loud as that of a festival.@
+br
+` [line=3]Even that falls silent a few minutes later.
+\
+wave se_01
+` The noise disappears.@
+` A sickening silence.@
+bg #000000,notrans,0
+playstop
+`"[line=6]!"@
+` The lights go out.@
+` At the same time,
+wave se_05
+wave se_05
+wave se_05
+wave se_05
+` the sound of countless things hitting the door.
+\
+`"Are you prepared, Shiki?"@
+` Arcueid whispers in the dark.
+\
+`"…… Prepared, for what?"@
+` I don't even have to ask her.
+\
+wave se_05
+!w1200
+!w1200
+wave se_05
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1000
+wave se_10
+br
+` [line=3]If remaining in here was a mistake…
+` Then that question was also a mistake.@
+` I turn towards the door at the sound of it breaking.@
+`"[line=8]"@
+` No sound escapes from my mouth.@
+` As I turn around, bright white teeth fill my vision.
+\
+bg #ffffff,crossfade,400
+` Like a giant maw, capable of consuming me whole.@
+` Somehow, I'm able to calmly tell it's the jaws of a shark.
+\
+bg "bg/ima_12",lshutter,400
+` Fresh blood spills everywhere.@
+` With a thump, what remains of my body falls to the floor.@
+` What falls is my head.@
+` Everything below my face has been consumed in one bite.@
+br
+` That    is the last scene     I ever see.
+\
+bg #000000,crossfade,800
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

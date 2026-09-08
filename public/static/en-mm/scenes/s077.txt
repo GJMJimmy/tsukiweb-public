@@ -1,0 +1,134 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_31a",notrans,0
+`"I[line=3]"@
+br
+` There's no way I can help her.@
+` I was almost killed by just that black dog.@ If I go with her, I'll die for sure.@
+br
+`"[line=3]I can't do something like that.@ It'd be suicide."@
+` I manage to glare at her and reply, trembling.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` She looks at me with displeasure.@
+`"Suicide?@ Why?@ With your killing abilities, I would think you have nothing to fear."@
+`"That was different.@
+` I'm sorry, but I'm just a normal student, not some kind of monster like a vampire.@ A normal student can't cooperate with a person like you."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Oh?@ Do normal students usually cut up girls they don't even know?"@
+`"[line=4]Ah."@
+` I feel weakened by her comment.
+\
+`"…… But that was special.@ I've never felt that way before, and I've lived a normal life[line=3]"@
+playstop
+`"Aahh enough, shut up!"@
+ld c,"tachi/ark_t23",lshutter,400
+wave se_01
+`"Eh[line=3]"@
+` The pupils in those red eyes open up.@
+` Immediately, the feeling she exudes changes.@
+br
+` The chilling feeling is unbelievable.@
+` I think my heart might stop beating just from her glare alone.
+\
+monocro #ff0000
+`"Don't get me wrong.@ You killed me.@ I'm saving you and not pulling off your head right now just because you might be useful."
+\
+br
+wave se_01
+` My neck feels numb, like someone is slowly sinking a blade into it.@
+`"[line=5]"@
+wave se_01
+` My throat, which had been so hot a moment ago, is rapidly growing colder.
+\
+` The air I breathe feels heavy.@
+` As if the very air around here is freezing… I feel a cramped sensation that almost makes me collapse.@
+wave se_01
+` An oppressive feeling full of despair, like the world itself were glaring at me.@
+br
+wave se_01
+` All that feeling of weight condenses and hammers into my brain like a bullet.
+\
+bg #ffffff,crossfade,400
+wave se_01
+`"Ah[line=5]eh?"@
+br
+` Everything goes white.@
+` A disgusting feeling.@ Pain, like someone opened a hole in my skull and is pouring in alcohol.@
+` That is the only way to describe this sensation.
+\
+wave se_01
+`"Gah[line=7]"@
+br
+` I can't even cry out.@
+` The sounds leaking from my mouth are no longer human speech.
+\
+wave se_01
+`"A[line=3]guhh."@
+br
+` My heart is breaking apart.@
+` My memories are crumbling.@
+` She's only glaring at me, but I feel like she's reaching into my skull and kneading my brain with her bare hands.@
+wave se_01
+` If this continues, I'm going to be empty[line=4]
+\
+wave se_01
+`"Stop[line=4]it."@
+br
+` That's all I can say before I lose my sanity.@
+` Suddenly[line=3]the invasive feeling inside my head disappears.@
+monocro off
+play "*1"
+bg "bg/bg_31a",crossfade,400
+`"Hha[line=3]aghh."@
+` Released from the oppressive aura, I hug myself.@
+br
+` [line=3]I'm still alive.@
+br
+` I'm not dead.@
+` I'm still alive and breathing.@
+br
+` [line=3]I feel like I'm about to cry.@
+` To feel such deep emotion at such a simple thing is something I hadn't experienced up until now[line=3]
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"How about it?@ Maybe now you understand your position a little better."@
+`"[line=7]"@
+` …… You think I can understand that?@
+` All I can do is look up, tremble, and grit my teeth.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"There's only two choices.@ You cooperate with me, or you don't.@
+` Simple, isn't it?@ All I'm asking you is whether you want to live or die."@
+`"H[line=6]"@
+` My voice doesn't work properly.@
+` Only my basic survival instincts help me to avoid death by nodding in reply.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Alright.@ Then our contract is established."@
+` Where did all that anger from just a moment ago disappear to?@
+` Speaking in a cheerful tone, she extends her hand to me.
+\
+`"I guess I can finally introduce myself now.@
+br
+` I'm Arcueid[line=3]hmm…… my last name is really long, so just Arcueid is fine for now.@ I'm a True Ancestor type vampire.@ How about you?"@
+` I heave a heavy sigh at her unprecedented introduction.@
+` …… It's a sigh of resignation, evidence I've decided to accept this nonsensical situation.
+\
+`"I'm Tohno Shiki.@ Sadly, I'm just your everyday student.@ …… I've said it before, but I'm really not going to be much use."@
+` Grasping her[line=3]Arcueid's hand, I stand up.@
+` She takes a long hard look at me, and then offers me her hand again.@
+ld c,"tachi/ark_t09",crossfade,400
+br
+`"Nice to meet you, Shiki.@
+` I'll have you take responsibility for killing me."@
+` Arcueid grins as she extends her left hand.@
+` …… There are all sorts of responsibilities in this world, but this is probably the first and last time someone takes responsibility by helping someone they've killed.
+\
+`"…… Damn it!@ Do whatever you want."@
+` But there's nothing else I can do.@
+` I grudgingly extend my left hand and shake hands with the woman in white claiming to be a vampire.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

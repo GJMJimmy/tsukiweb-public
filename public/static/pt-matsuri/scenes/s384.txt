@@ -1,0 +1,216 @@
+monocro off
+play "*7"
+wavestop
+bg "bg/bg_54a",notrans,0
+`"………… Errado."@
+` Sim, provavelmente é errado.@
+` Está tudo bem se a minha morte puder salvar a Akiha.@
+` Mas não tenho como provar que isso vai acontecer, além disso…
+br
+` [line=3]Não acredito que a morte seja uma maneira de salvar alguém.@
+br
+` Mesmo se ela for salva pela minha morte, como vai se sentir depois?@
+` Não tem problema se apenas ficar triste, mas seria um erro enorme se isso a fizer se sentir culpada pelo resto da sua vida.@
+` Escolher a morte não é algo honrado ou corajoso de se fazer.@
+` Eu acho que[line=4]é só uma forma de fugir da realidade.
+\
+`"Aki[line=2]ha……"@
+` Ela não é a mesma pessoa.@
+` Ela se tornou uma criatura que só sabe matar.@
+` …… Mas mesmo assim, eu quero que ela viva.@
+` Se eu suportar tudo para a Akiha, que não pode entender o que é um crime ou uma punição[line=4]quero acreditar que ela possa viver.@
+`"………… Um dia."@
+` Não acredito que ela vá voltar ao normal algum dia.@
+` Mas manter a minha fé é a última coisa que possa fazer, já que não pude manter a promessa que fiz.
+\
+`"………… Akiha, mesmo que você fique assim para sempre…"@
+br
+` Eu me ajoelho e acaricio os seus cabelos vermelhos.@
+br
+`"…… Só de ser capaz de ficar ao seu lado…"@
+br
+` Vai ser a maior felicidade para mim.
+\
+`"[line=8]"@
+` As folhas de outono caem.@
+` O outono está terminando.@
+` Eu beijo a Akiha com muito carinho neste jardim tão cheio de lembranças.@
+br
+` [line=3]Um ritual sem significado.@
+br
+` Posso prever o futuro.@
+` Essa vai ser a última vez que vou tocar nela como Tohno Shiki.
+\
+bg #000000,crossfade,800
+playstop
+!w4000
+phase #000000,l,aki,13b,epi
+bg #ffffff,crossfade,1500
+monocro off
+bg "bg/ima_03",crossfade,800
+play "*2"
+` Abro os olhos.@
+` O azul infinito inunda a minha mente sonolenta.@
+` Um sol ligeiramente quente e uma brisa fresca.@
+` Um mundo que possui apenas o cheiro de grama e o farfalhar das folhas das árvores.@
+` Talvez essa mansão no meio da floresta esteja em uma estação diferente.@ Já é quase inverno, mas aqui ainda parece ser outono.
+\
+`"[line=10]"@
+` Observo o céu azul enquanto permaneço deitado no chão.@ O sol já está bem alto no céu.@
+` …… Parece que caí no sono.@
+` Foi minha culpa mesmo por terminar o café da manhã e vir deitar aqui.@
+` Também não tinha nada para fazer.@
+` Fazer isso.@
+` Cair em um sono profundo e esquecer até o meu nome não pode ser tão ruim assim.
+\
+` [line=4]Um azul infinito.@
+br
+` Observo o céu limpo.@
+` Parecendo criança, continuo apenas olhando para o céu.@
+` Um céu distante, como em um sonho.@
+` É uma visão maravilhosa, mas eu nem consigo suspirar de admiração.
+\
+`"Shiki-sama……?@ Você está por aqui, Shiki-sama?"@
+` Ouço a voz da Hisui vindo do pátio.@
+`"…………"@
+` Já está na hora.@
+` Acho que acabei caindo no sono de novo.@
+` Se acabo me esquecendo do fluxo do tempo enquanto observo esse belo céu azul, não faz a menor diferença se eu estava dormindo ou não.
+\
+bg #000000,lshutter,400
+bg "bg/bg_54a",lshutter,400
+` A Hisui chega.@
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama, a Akiha-sama está te chamando."@
+`"Certo.@ Acabei cochilando.@ Desculpe-me por te causar problemas, Hisui."@
+ld c,"tachi/his_t17",crossfade,400
+`"Você não me causou problema algum, Shiki-sama ……"@
+` Ela abaixa a cabeça e parece querer dizer mais alguma coisa.@
+` …… Eu sei o que é, mas mesmo que diga, não vou ser capaz de dar a ela uma resposta.
+\
+`"Estou indo.@ Pode falar para a Kohaku-san daqui a mais ou menos uma hora?"@
+`"Ah[line=5]"@
+` Dou as costas a Hisui e vou para a edícula, onde a Akiha está.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_45b",crossfade,800
+play "*7"
+` No quarto, vive uma garota.@
+` Não, o termo "vive" não está certo.@
+` A garota não pode se mover por vontade própria.@ Ela só se move como um ser vivo quando está comendo e apenas fica sentada como uma estátua quando não está comendo.@
+br
+` Portanto, em vez de usar o termo "vive"…
+` Acho que o termo "existe" é mais correto, já que ela parece mais uma boneca.
+\
+`"Desculpa, Akiha.@ Eu caí no sono e não cheguei a tempo."@
+` Entro no quarto e fecho a porta de shouji.@
+` Ela permanece sentada e não se move.@
+`"Opa, o seu cabelo está uma bagunça.@ Parece que não se trocou ainda.@ A Kohaku-san não veio essa manhã?"@
+` Ela não diz nada.@
+` Apenas olha na minha direção com um olhar vazio.@
+` …… Não…
+` Só parece que ela está olhando.
+\
+`"Muito bem, vamos ajeitar esse cabelo para ficar bonito.@
+` Toco nos seus cabelos.@
+` Ela não reage.@
+` Devagarzinho, com o maior cuidado passo as mãos pelos seus cabelos.@
+` Os seus cabelos longos atravessam os meus dedos.@
+` Ela não diz nada.@
+` Depois de um tempo assim…
+br
+` Subitamente ela mexe o braço.
+\
+`"Akiha[line=4]?"@
+` Não há resposta.@
+` Ela pega o meu braço e o leva até a boca.@
+` Sinto um pouco de dor…
+` A Akiha morde o meu braço e, sem expressão alguma no rosto, começa a sugar o meu sangue.
+\
+` Eu vejo quando a sua garganta engole o sangue.
+\
+` O sangue que derrama da sua boca escorre pela garganta e mancha o seu quimono de vermelho.
+\
+`"Ghu[line=4]u"@
+` Eu cerro os dentes e aguento firme até que ela esteja satisfeita.@
+` …… Não há uma quantidade certa para ela beber.@
+` Ela só para quando fica cheia e não posso prever quando isso vai acontecer.@
+` Portanto, tudo que posso fazer é esperar até que fique satisfeita.@
+`"………… Ah."@
+` Estou tonto.@
+` Mas não puxo o braço de volta.
+\
+` …… A Hisui foi contra isso até o último minuto.@
+` Como ela só pode tomar sangue humano, eu resolvi dar a ela o meu sangue.@
+` Não por um senso de responsabilidade.@
+` Se ela só pode sobreviver ingerindo sangue, eu queria limitar a quantidade de vítimas que poderiam aparecer, além disso[line=3]
+` [line=2]Eu não queria que ela tomasse o sangue de mais ninguém, só o meu.@
+br
+` Parece que ela gosta muito do meu sangue.@ Desde que começou a tomá-lo, nunca mais saiu daqui.@
+` Porém isso é muito perigoso para o meu corpo.
+\
+` Para começo de conversa, eu não tenho muito sangue e também não sou saudável o bastante para continuar alimentando-a dessa forma.@
+` Eu venho aqui uma vez por dia para alimentá-la e, na maioria das vezes, eu desmaio logo depois.@
+` Embora eu esteja recebendo sangue por transfusão, leva um certo tempo para o meu corpo se acostumar com o sangue de outra pessoa.
+\
+` …… O meu corpo enfraquece a cada dia que passa.@
+` Acho que o motivo que faz a Hisui querer dizer algo toda vez que me vê é para me dizer para cuidar melhor de mim mesmo.@
+br
+` Mas isso…
+` É mil vezes mais fácil para mim, porque posso sentir a dor, diferente da Akiha.
+\
+bg #000000,tshutter,800
+bg "bg/bg_45b",bshutter,800
+` [line=4]A Akiha abaixa o braço.@
+` Ela solta o meu braço; acho que deve estar feliz agora.
+\
+` E então, ela volta a ser apenas uma boneca sem expressão.@
+` Eu limpo o sangue que escorre da sua boca e troco o seu quimono.@
+` Ela não resiste a nada.@ Simplesmente aceita tudo o que eu faço.@
+` [line=3]Pronto…
+` Não existe traço algum daquele olhar orgulhoso da Akiha.
+\
+`"[line=9]"@
+` Eu estaria mentindo se dissesse que isso não é difícil para mim.@
+` Mas mesmo assim[line=4]os meus sentimentos de felicidade são maiores que a tristeza.@
+` A Akiha está viva.@
+` Ela está viva e aqui comigo.@
+` Então[line=4]um dia[line=4]talvez ela volte a ser a mesma Akiha do passado.
+\
+bg #000000,lshutter,800
+bg "bg/ima_03",lshutter,800
+`"Certo.@ Tchau, Akiha.@ Amanhã eu volto, obedeça a Kohaku-san de noite, tá bom?"@
+` Digo a mesma frase de ontem, não… Digo a mesma frase de sempre enquanto seguro as suas mãos.
+\
+` Os seus dedos finos e a suas mãos pequenas.@
+` Eu as cubro com as minhas.@
+` Sinto o seu calor.@
+` O fato de ela estar viva.@
+` Isso tudo quase me faz chorar.
+\
+`"…………………!!"@
+` Eu suprimo esse sentimento e sorrio.@
+` Eu quero rir, assim não vou ter espaço para a tristeza.@
+` É muito fácil ficar triste na minha atual situação.@
+` Mesmo que a Akiha não entenda nada, eu tenho que sorrir quando estiver na frente dela.
+\
+` Se a Akiha voltar ao normal um dia, não quero que ela se lembre de como eu fiquei triste.@
+` Eu quero que ela pense que isso não foi nada[line=4]que tudo isso fez parte dos nossos tempos felizes.@
+` Portanto eu preciso continuar sorrindo.@
+` Porque mesmo que ela não consiga entender agora, quando ela voltar ao normal, não vai sentir remorso do passado quando se lembrar desses dias.
+\
+` [line=3]Eu continuarei esperando, segurando as suas mãos pequenas.@
+br
+` Mesmo que os seus olhos não estejam focados em nada, eu sempre vou manter esse sorriso no meu rosto.@
+br
+` Porque assim, quando chegar o dia, quando ela acordar…
+` Eu vou ser capaz de cumprimentá-la como se fosse um dia normal igual a todos os outros e simplesmente dizer "Olá".
+\
+bg #ffffff,crossfade,1500
+playstop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000
+gosub *ending

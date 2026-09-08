@@ -1,0 +1,183 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+` [line=3]But, hold on.@
+br
+` Hisui's words bother me, but I went to the detached house earlier.@
+` I know there's nothing there.@
+` I'll keep quiet tonight and sleep.
+\
+bg #000000,crossfade,1500
+playstop
+monocro #ff0000
+!w2000
+wave se_01
+!w600
+` [line=4]Hot.
+\
+wave se_01
+!w600
+br
+br
+br
+` [line=4]Hot.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+` [line=4]Hot.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+` [line=4]My throat, dry with thirst, hot.
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=6]I can't sleep like this.@
+`      I'll go and get a drink of water.
+\
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` It seems I went into town at night.@
+` It seems like I'm waiting with bloodshot eyes for someone to pass by.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]It is hot.
+\
+` Suddenly, I see a face reflected in the window.@
+` The eyes are bloodshot, and the face looks quite insane.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]It is just so hot.
+\
+` It seems I found my prey.@
+` Strangling her from behind, it's all over.@
+` It seems that the unknown woman has died just from that.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]I am just, so hot.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_30b",notrans,0
+wait 100
+bg #ffffff,notrans,0
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+` Taking the dead body, perhaps I bit into its throat.@
+` There's a gurgling sound.@
+` Drinking the blood flowing out of the rended neck, my thirst is quenched.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]I don't understand.
+\
+` The sound of heavy breathing.@
+` Does this act…
+` Does this act really excite me so much?@
+` I stick my finger in the chest of the dead body.@
+` The sound of crushing meat, the sound of breaking bones.@
+` The sound of a heart being ripped out with my bare hand.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]As I watch, my head fills with pure white.
+\
+` This, the ultimate pillage.@
+` The height of immorality.@
+` Just gazing at it, I feel hot.@
+` You might say it's negative pleasure, but for making one hot, it's still the same.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]I don't understand.
+\
+bg "bg/ima_18",crossfade,400
+` Hot blood dripping from my mouth, I gaze up at the night sky entranced.@
+` My long hair waves around.@
+` Above is the spiraling sky.@
+` Such a beautiful, silver moon.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]And so, I don't understand.@
+`   I am just, only, hot[line=4]
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

@@ -1,0 +1,1035 @@
+playstop
+bg "bg/bg_11c",notrans,0
+waveloop se_02
+`"Heee[line=4]!"@
+` O SHIKI ataca com um grito.@
+` A sua figura negra explode para frente como fogos de artifício.
+\
+br
+`"Ko[line=9]"@
+` Não vou conseguir fazer nada a tempo daqui.@
+` A única pessoa que pode fazer alguma coisa é a[line=4]
+br
+`"Ts[line=3]"@
+` A Akiha se vira para o SHIKI.@
+` Ela se prepara para o seu ataque instantaneamente.@ A figura negra não está indo atrás da Akiha.@
+` O SHIKI não está investindo contra a Akiha, mas contra a Kohaku-san que está ao lado dela.
+\
+`"Koha[line=9]"@
+br
+` [line=3]Ele sabe.@
+` Assim como agora eu sou capaz de me mover por causa do poder da Hisui…
+` Ele sabe que o poder esmagador da Akiha só é possível graças à ajuda da Kohaku-san.@
+br
+`"Kohaku-san, abaixe-se[line=9]!"@
+br
+` Eu grito pra ela.@ Uso toda a capacidade dos meus pulmões, como se já soubesse que o SHIKI atacaria ela o tempo todo.
+\
+`"Kohaku………!"@
+` A Akiha se joga na frente da Kohaku.@
+br
+` [line=5]Não acredito.@
+` Ela pretende se sacrificar para proteger a Kohaku-san?@
+br
+`"Hee[line=3]eeeeeee!"@
+` O SHIKI grita e, com o braço que parece uma lança, mira no rosto da Kohaku.@
+` A Akiha se joga no meio dos dois.
+\
+` [line=4]E fez isso no momento exato.@
+br
+` Não quero olhar.@
+` Não quero ver a Akiha morrer enquanto protege a Kohaku-san.@
+br
+wavestop
+bg #9c0120,notrans,0
+`"N[line=5]ão……!!!!"@
+` Quase antes de acontecer,
+` Escuto algo pela primeira vez na vida: um grito da Kohaku-san.
+\
+bg "bg/bg_11c",lshutter,400
+play "*8"
+` O som de carne sendo perfurada.@
+br
+` Gotas de sangue caem no corredor.@
+`"Hã[line=9]"@
+` A voz da Kohaku-san parece distraída.@
+` Ela empurrou a Akiha rapidamente.@
+` Ela empurrou a Akiha para protegê-la[line=3]e se jogou na frente das garras do SHIKI.
+\
+`"M[line=5]maldita!"@
+` A voz dele tremula de raiva.@
+` …… O sangue continua jorrando.@
+ld c,"tachi/hal_t05",crossfade,400
+`"Ah[line=6]não[line=2]não, Akiha.@ Eu[line=2]não[line=2]pretendia[line=2]te[line=2]machucar[line=4]"@
+` Ele balança a cabeça.@
+` Na frente do SHIKI está a Akiha, no chão, com o braço coberto de sangue.@
+` …… Como a Kohaku-san a empurrou, parece que só o seu braço foi perfurado pelas garras do SHIKI.
+\
+`"…… G…… argh!"@
+br
+` Ela geme de dor e agonia, apertando o próprio braço com muita força.@
+` O SHIKI se levanta, perplexo, tremendo enquanto olha para baixo.@
+` A Kohaku-san permanece paralisada em choque, imóvel como uma boneca.@
+ld c,"tachi/hal_t04",crossfade,400
+`"Sua[line=5]sua vadia, está tentando me atrapalhar, né……!?"@
+` Ele levanta a cabeça.@
+` A Kohaku-san está bem na sua frente.@
+` …… Por que será?@
+` Ela continua parada, sem mover um músculo sequer, como se a sua alma tivesse deixado o seu corpo.
+\
+cl c,crossfade,400
+`"Você[line=4]você[line=3]também quer me atrapalhar………!?"@
+` Ele urra.@
+`"Shiki-sama………!"@
+` Essa foi a voz suplicante da Hisui ao meu lado.@
+` Ela não precisa falar mais nada.@
+` Assim como a Kohaku-san protegeu a Akiha, desta vez, sou eu quem vai pará-lo de uma vez por todas……!
+\
+`"SHIKI…………!"@
+` Já tirei os óculos e corro na direção dele.@
+` As linhas que vejo percorrem o seu pescoço, passam pelo lado esquerdo do peito e vão para o seu abdômen.@
+` …… Qualquer uma vai servir.@ Se eu passar a faca por qualquer uma delas, com certeza vou matá-lo.@
+` Segurando a faca com força, disparo pelo corredor com uma velocidade que surpreende até a mim mesmo.
+\
+ld c,"tachi/hal_t02",lshutter,400
+`"[line=10]!"@
+` O SHIKI se vira para mim.@
+wave se_06
+bg "bg/ima_14",lshutter,400
+` Porém, sou mais rápido.
+\
+bg "bg/ima_12b",notrans,0
+bg "bg/bg_11c",lshutter,400
+`"Kuaaaaaaaaaaaaaaa!?"@
+` O seu grito angustiado ecoa pelo corredor.@
+`"Hii[line=6]ha hahahahahahaha!"@
+` Uma risada insana.@
+br
+` [line=4]Não foi fundo o bastante.@
+br
+` Que ingenuidade a minha.@ Só porque a Akiha está aqui[line=4]hesitei em cortar o pescoço do seu irmão verdadeiro.@
+` Só cortei metade da linha que percorre o seu corpo.
+\
+`"Hiha hahahahahahahahahaha!"@
+` Rindo como um maníaco, ele recua.@
+` Dessa forma, ele foge na direção das escadarias.@
+br
+` …… Segui-lo seria fácil.@
+` Mas preciso fazer algo mais importante.
+\
+`"[line=4]Akiha!@ Aguente firme, Akiha……!"@
+` Eu me ajoelho e observo a situação.@
+` …… Isso é horrível.@
+` O seu braço direito quase foi partido ao meio e está pintado por um vermelho horroroso.@
+br
+`"…… Ah…… Nii-san…… Por que…… Você está aqui[line=4]?"@
+br
+` Os seus olhos estão opacos.@
+` A sua respiração está fraca e o seu rosto pálido.@
+` …… A imagem da morte envolve todo o seu corpo.
+\
+`"…… Por que[line=3]você não…… Está[line=3]no seu quarto[line=3]descansando………?"@
+`"N[line=4]não tente falar……!@ Depois conversamos sobre isso, mas fique quietinha agora……!"@
+`"…… Não ……… Não vou me calar…… Nii-san, faz[line=2]quanto tempo[line=3]que está[line=3]aqui[line=4]?"@
+` Elas estão se espalhando.
+\
+` Por causa do sangramento, as linhas da morte se espalham por todo o seu corpo.
+\
+`"Está tudo bem, só fique quieta……!@
+` Por favor[line=3]eu imploro, apenas fique calma agora, por favor…………!"@
+`"………………………… Tudo bem.@ Já que está me pedindo[line=3]então eu[line=3]vou ser obediente, Nii-san[line=4]"@
+` Com um sorriso forçado, ela fecha a boca.@
+` …… Não, não é bem isso…@
+` Ela está tão fraca que não consegue mais falar.
+\
+`"N[line=3]não………!!!!@ Calma, eu vou parar o sangramento……!"@
+` Eu tiro a camisa e a enrolo no braço dela.@
+`"Que droga[line=3]essa porcaria de camisa não está valendo de nada……!@ Que merda……!@ Ela vai morrer se não pararmos o sangramento, então por que………!"@
+` Enrolo a camisa sem parar em volta do braço dela.@
+` …… Eu sei que não vai ajudá-la, mas não consigo pensar em mais nada.@
+` Eu…
+` Eu sei que já estou começando a enlouquecer, mas não consigo me acalmar.
+\
+ld c,"tachi/his_t12",crossfade,400
+`"Shiki-sama, por favor, se acalme……!@ Se apertar com muita força, só vai piorar a situação."@
+`"Hisui[line=7]mas eu[line=4]mas[line=4]mas ela vai!"@
+`"…… Acalme-se!@ Ela não vai morrer.@ Como a Nee-san está aqui, a Akiha-sama vai se recuperar.@ …… Não é mesmo, Nee-san?"@
+cl c,crossfade,400
+ld c,"tachi/koha_t01c",crossfade,800
+` A Hisui começa a puxar a Kohaku-san, que continua parecendo uma boneca imóvel, e a coloca sentada perto da Akiha.
+\
+`"…… Nee-san.@ Por favor, sincronize com a Akiha-sama.@ Você destruiu tudo porque queria salvá-la, não foi?"@
+`"[line=13]"@
+` Ela envolve a mão branca da Kohaku-san com as suas.@
+` Mas o olhar da Kohaku-san continua vazio.@
+` Porém[line=3]talvez o que a Hisui disse tenha alcançado ela.@ O sangue da Akiha para de jorrar.
+\
+cl c,crossfade,800
+`"Ha[line=8]ah."@
+` …… Eu me acalmo.@
+` Agora[line=4]posso ficar tranquilo.@
+` A inquietação que me dominava.@ A inquietação de que a Akiha não sobreviveria começa a desaparecer aos poucos.@
+`"[line=8]"@
+` A Akiha vai receber ajuda da Hisui e da Kohaku-san.@
+` Portanto.@
+` Preciso dar um fim a isso, como Tohno Shiki.
+\
+`"[line=6]Hisui.@ Deixo a Akiha e a Kohaku-san com você."@
+`"…… Shiki-sama, você ainda planeja ir atrás dele?"@
+`"[line=5]Ele e eu somos farinha do mesmo saco.@ O mínimo que posso fazer é colocá-lo para dormir pra sempre."@
+`"…………………"@
+` Ela me encara, sem saber o que falar.@
+` …… Os seus olhos imploram para que eu não vá, mas não posso fazer a sua vontade.
+\
+`"…… Obrigado por tudo até agora, Hisui.@ Estou muito feliz que tenha vindo comigo."@
+` Eu vou me afastando.@
+` Sinto o seu olhar nas minhas costas, mas continuo caminhando para perseguir o SHIKI.
+\
+bg #000000,lshutter,800
+playstop
+bg "bg/bg_11c",lshutter,800
+waveloop se_02
+` [line=3]A trilha de sangue continua.@
+br
+` Talvez ele não tenha tentado fugir de verdade, pode ser que não exista sanidade o bastante nele para compreender o que "fugir" significa.@
+` O SHIKI está parado no corredor, como se me aguardasse.@
+`"[line=5]SHIKI!"@
+` Grito o seu nome.@
+` Ele olha para mim com olhos sem foco.
+\
+`"Ha[line=6]você[line=3]de novo?"@
+` Ele não se move.@
+` …… Provavelmente por causa das feridas que eu e a Akiha causamos.@
+` Ele não tem um corpo que pode se mover do jeito certo.@
+`"Merda[line=4]eu falhei de novo.@ Nunca dá certo.@ Por que nunca dá certo……!?@
+` Não dá certo, nunca dá certo, eu sempre faço alguma merda………!!!!@
+` Mas não faz sentido, por que ela me atrapalhou!?@ E-ele veio exatamente como me foi dito que viria, então por que ele sempre sempre sempre sempre sempre sempre sempre sempre sempre sempre sempre sempre me atrapalha!?"
+\
+` …… Os olhos do SHIKI são apenas órbitas vazias.@
+` Talvez ele estivesse cego desde o princípio.@
+` Ele só vê a minha figura na sua frente, segurando a minha faca, como mais um obstáculo.
+\
+`"SHIKI.@ Você está[line=3]sentindo dor?"@
+`"Dor?@ Eu?@ Por quê?"@
+` O SHIKI ri como se fosse divertido e se levanta lentamente.@
+`"Não estou sentindo dor alguma.@ Esta vida é maravilhosa.@ Ninguém pode me punir, não importa o que eu faça."@
+` Os olhos dele queimam com desejo de matar.@
+` …… Parece que ele está pronto.@
+` Sob o luar.@
+` Embora eu o conheça há tanto tempo, dou o primeiro passo em direção ao inimigo que acabei de conhecer esta noite.
+\
+`"Ótimo, vamos lutar até a morte!@ Todos que entram no meu caminho são meus inimigos.@ Vou matar todos vocês.@ Você, você, a Akiha e a Kohaku!@ Aquele velho queria me manter preso até que eu morresse.@ Agora vou matar todos vocês……!"@
+` Ele grita como um louco em frenesi.@
+br
+` [line=3]Ele está em um estado lamentável.@
+br
+` Embora seja uma luta até a morte, continuo calmo e composto, como gelo.
+\
+`"HA HAHA HAHAHAHAHAHAHAHA!"@
+` O SHIKI parte para cima de mim.@
+`"[line=14]"@
+` Foi fácil.@
+` Corto o corpo do Tohno SHIKI como se cortasse carne de vitela no prato do jantar.
+\
+bg #000000,tshutter,800
+bg "bg/bg_11c",tshutter,800
+wavestop
+` Bam.@
+` A cabeça dele cai no chão.@
+` O seu corpo inerte cai contra o meu.@
+br
+`"[line=9]"@
+br
+` Não sinto nada.@
+` Não sinto arrependimento, dor, ódio ou desgosto.@
+` Estou igual à Kohaku-san lá embaixo, congelado sem expressão, como um boneco.
+\
+`"Ku[line=6]kuku ku."@
+` …… Ouço uma risada inacreditável.@
+` A cabeça risonha do SHIKI rola pelo chão.@
+`"Você é incrível[line=3]é a primeira vez que sinto esta dor absurda!@ Mas que[line=3]mas que obstáculo magnífico você se provou ser!"@
+` Ainda rindo, o seu rosto se dissolve em cinzas.@
+` Gradualmente, elas se dispersam junto ao vento.
+\
+` O SHIKI está desaparecendo.@
+` Antes de morrer, ele olha para mim com curiosidade e diz.@
+`"[line=3]E quem é você, afinal de contas?"@
+`"…… Hã?"@
+`"Quem é você?"@
+`"…… Do que está falando?@ Sou o Tohno Shiki que você sempre teve como alvo."@
+`"Ah, entendo.@ Você é o Shiki."@
+br
+` Seu rosto continua desaparecendo.@
+br
+`"Como assim?@ [line=4]Não é nada parecido… Com o que me contaram."@
+` Após dizer isso, ele desaparece por completo.
+\
+bg "bg/ima_01",crossfade,400
+play "*9"
+br
+br
+br
+br
+br
+br
+br
+` [line=7]Acabou.@
+` Agora, acabou.@
+` Mas eu não sinto nada.@
+` Não vou mais sentir aquelas dores de cabeça absurdas, posso voltar a ter uma vida normal[line=4]mas não estou feliz.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Mas o que é que acabou de fato?@
+`"[line=4]Por quê?"@
+` Estou tonto.@
+` As últimas palavras do SHIKI não desaparecem da minha cabeça.@
+` Alguma coisa realmente acabou.@
+` Mas eu não sei o que foi que acabou, o que eu estava tentando fazer acabar.
+\
+`"[line=8]"@
+` Olho para a lua.@
+` Em meio à escuridão, o meu coração está perplexo.@
+` Até o momento em que a Hisui chegou aqui, eu fiquei apenas admirando a lua, como um idiota.
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+phase "bg/ima_05",l,his,14b,epi
+bg #ffffff,crossfade,1500
+bg "bg/ima_03",crossfade,800
+play "*2"
+br
+` A semana seguinte passou num piscar de olhos.@
+br
+` O corpo do SHIKI desapareceu sem deixar vestígio e a ferida no braço da Akiha foi tratada.@
+` Embora a minha posição como Tohno Shiki tenha se tornado vaga, não posso voltar a ser Nanaya Shiki.@
+` Não sei se ela compreende os meus sentimentos em relação a isso, mas a Akiha não disse nada sobre aquela noite.@
+` Se ela, a líder da família, vai fingir que nada aconteceu, acho que posso continuar a minha vida como Tohno Shiki.
+\
+br
+` [line=4]Os dias pacíficos voltaram.@
+br
+` Como o SHIKI desapareceu, toda a minha força voltou para o meu corpo, e a Akiha está se recuperando bem também.@
+` A Kohaku-san e a Hisui voltaram às suas tarefas normais na mansão e não há qualquer sinal de problemas.@
+br
+` …… Quero acreditar que não há.
+\
+playstop
+bg #ffffff,crossfade,800
+!w2000
+`"Nii-san?@ Já é meio-dia, Nii-san."@
+br
+` …… Ouço uma voz.@
+br
+`"Francamente, embora esteja um dia lindo lá fora, aqui não é lugar para dormir.@ Se quiser tirar uma soneca, tire no seu quarto."@
+br
+` …… Dedos tocam o meu ombro.@
+br
+`"Nnn[line=4]"@
+` E assim, acordo do meu sonho.
+\
+bg "bg/bg_34a",crossfade,800
+play "*3"
+ld c,"tachi/aki_t03b",lshutter,800
+`"……… Nnn, bom dia, Akiha."@
+`"Não me venha com 'bom dia'! Você veio para a sala de estar somente para dormir… O que tem na sua cabeça, Nii-san?"@
+`"……………… Ah, tem um monte de coisas na minha cabeça, Akiha."@
+` Suspirando profundamente, levanto do sofá.@
+ld c,"tachi/aki_t02b",crossfade,400
+`"Espere um pouco, Nii-san.@ Você realmente está indo para o seu quarto dormir?@
+ld c,"tachi/aki_t13b",crossfade,400
+` …… Poxa, por que não faz algo de útil em um dia que não tem aula?@ Vou te dar um exemplo: você poderia sair com algum membro da sua família para aprofundar os seus laços, ou simplesmente convidar um membro da sua família para fazerem algo divertido juntos como forma de agradecimento.@ C-claro que não estou dizendo isso com algum interesse pessoal."
+\
+`"…………………"@
+` Acho que as coisas que ela considera como úteis são bastante limitadas.@
+`"…… Olha, eu concordo com você.@ É só que a sua forma de passar um dia de folga de maneira útil é diferente da minha.@ Dormir de novo seria desperdiçar um dia desses.@
+` O motivo para eu voltar pro quarto agora é bem simples.@ Akiha, é preciso um esforço tremendo para lidar com você logo após acordar, por isso pensei em relaxar um pouco no meu quarto antes disso."@
+ld c,"tachi/aki_t07b",crossfade,400
+`"O-o que quer dizer com isso, Nii-san!?"
+\
+`"Nada demais, só não consigo dar conta de todos os seus sermões enquanto a minha mente ainda está sonolenta.@ Portanto, vou recuar para um terreno seguro e me preparar.@ Podemos conversar mais durante o almoço."@
+` Eu me despeço acenando com a mão e me viro.@
+ld c,"tachi/aki_t21b",crossfade,400
+` Ela me observa em silêncio, mas a sua expressão deixa claro que quer reclamar.@
+` …… Acho que preciso me preparar para um almoço daqueles.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40a",lcartain,800
+` Chego ao meu quarto.@
+` Enquanto eu cochilava na sala de estar, parece que a Hisui limpou o quarto.@
+`"…… Mas é um belo de um quarto simplista."@
+` Além de uma cama e uma escrivaninha, não tem mais nada aqui.@
+` O inverno está chegando, preciso arrumar um aquecedor.@
+` A Akiha não para de falar sobre isso, mas não sinto vontade de usar a lareira.@
+`"……?@ O que é isso em cima da escrivaninha[line=4]?"
+\
+` Tem uma carta aqui.@
+` Curioso, decido pegá-la.@
+`"[line=17]"
+\
+playstop
+` …………………………………………… A carta somente diz "estou esperando debaixo daquela árvore."@
+br
+`"[line=8]Por quê?"@
+br
+` Dito isso, amasso o papel.@
+` Abro a gaveta da escrivaninha, pego a faca com "Nanatsu no Yoru" encravada e a coloco dentro do bolso.@
+`"[line=8]"@
+` …… Não posso fingir que não vi a mensagem.@
+` Respirando fundo para me acalmar, saio do quarto.
+\
+bg #000000,lcartain,800
+bg "bg/bg_42a",lcartain,800
+` [line=4]Não sei quando percebi.@
+` Tudo começou quando comecei a achar que as coisas acabaram de uma forma muito conveniente.
+\
+` Os acontecimentos e circunstâncias cercando a minha conexão com o SHIKI eram convenientes demais.@
+` O esconderijo dele era na minha escola[line=4]mas ele jamais me atacou, mesmo eu sendo o seu inimigo mais odiado.
+\
+` Se o SHIKI quisesse, eu teria morrido faz um bom tempo.@
+` Só posso pensar que as coisas acabaram assim porque alguém preparou um plano bem conveniente.
+\
+bg #000000,lcartain,800
+bg "bg/cmo_20",crossfade,800
+play "*8"
+` Quando chego, ela está esperando por mim com o seu sorriso de sempre.
+\
+ld c,"tachi/koha_t03b",crossfade,800
+`"Você está atrasado, Shiki-san.@ Estive esperando desde manhã, mas já passa do meio-dia."@
+`"Pois é, me desculpe.@ Eu peguei no sono lá na sala de estar e só agora voltei para o meu quarto."@
+`"Ah, entendi.@ …… Foi um erro meu.@ Sabia que devia ter falado com você cara a cara."@
+`"Deveria mesmo," concordo.@
+` Ela sorri para mim.
+\
+ld c,"tachi/koha_t05b",crossfade,400
+`"Mas que bom que você veio.@ Agora podemos conversar sem sermos interrompidos."@
+`"[line=5]"@
+` Ela sorri, feliz.@
+` Com um grande sorriso no rosto, ela começa a falar como se não fosse nada demais.@
+br
+ld c,"tachi/koha_t03b",crossfade,400
+`"Você percebeu, não é mesmo, Shiki-san?"@
+br
+`"…………………"@
+` Eu não afirmo e nem nego.@
+` "Eu sabia," ela ri.
+\
+ld c,"tachi/koha_t02b",crossfade,400
+`"Shiki-san, fui eu quem deixou o SHIKI-sama naquele estado."@
+`"…………"@
+` …… Isso…
+`"Eu dei o meu sangue para a Akiha-sama, para que ela se transformasse mais ainda em alguém com sangue Tohno."@
+`"…………………"@
+` …… Mas isso……
+`"Eu que dei informações erradas para o SHIKI-sama e fiz ele atacar pessoas inocentes."@
+`"……………………"@
+` Não quero ouvir ela falar essas coisas.
+\
+`"Quando éramos pequenos, quem observava vocês à distância não era a Hisui, e sim eu."@
+`"……………… Kohaku-san."@
+`"Naquela noite, eu distraí a Akiha-sama de propósito para que o SHIKI-sama tivesse uma oportunidade."@
+`"……………… Kohaku."@
+`"Mas eu fiz tudo errado.@ Os dois deveriam ter morrido naquela hora[line=3]"@
+cl c,crossfade,400
+br
+`"[line=8]Kohakuuuuuuuu!"@
+br
+` Com a cabeça baixa,
+` só consigo gritar o nome dela.
+\
+`"…………………… Está tudo bem."@
+ld c,"tachi/koha_t09b",crossfade,400
+`"Shiki-san?"@
+`"…………… Está tudo bem.@ Já passou, portanto[line=4]eu[line=5]não quero escutar mais nada dessa história."@
+cl c,crossfade,400
+` Essas palavras representam exatamente o que sinto.@
+` Uma realidade assim[line=4]é melhor continuar ignorante a ela.@
+` A Kohaku-san pode continuar sendo a Kohaku-san.@
+` Quero que a Kohaku-san continue assim, sempre sorridente, pensando com carinho na Hisui, sendo a boa amiga da Akiha e rindo quando falamos de coisas idiotas.
+\
+`"[line=3]E-Eu não me importo com nada disso.@ Você pode continuar aqui e vai ficar tudo bem."@
+`"[line=10]"@
+` …… Ela não responde.@
+` Um longo e
+` doloroso silêncio.
+\
+`"Não, não tem como, Shiki-san.@ O que fiz não pode ser ignorado tão facilmente.@
+` Eu falhei.@ Perdi o motivo que me fez continuar vivendo pelos últimos anos, portanto, essa Kohaku vai desaparecer."@
+`"O qu[line=4]"@
+` Levanto a cabeça.@
+` Lá[line=4]
+ld c,"tachi/koha_t03b",crossfade,400
+` Ela está do mesmo jeitinho de sempre.
+\
+`"Mas imaginei que você teria o direito de me culpar.@
+` Porque é o único sem conexão com a casa Tohno.@
+` Eu te usei no meu plano contra a Akiha-sama e o SHIKI-sama.@ Por isso, se quiser me culpar, pode fazer o que bem entender."@
+`"Ninguém tem o direito de te culpar, Kohaku-san."@
+` …… É isso mesmo.@
+` Desde pequena, quando veio para esta mansão, ela se tornou uma vítima do Tohno Makihisa.@
+` Ela não podia pedir por socorro, ninguém apareceu para ajudá-la e como foi obrigada a viver dessa forma por tantos anos[line=4]então é claro que…
+\
+`"…… Você tinha todo o direito de se vingar.@ …… Só posso imaginar tudo o que você passou, é óbvio que guardaria rancor dessa família."@
+` Sei que só pareço esperto falando essas mentiras insatisfatórias da boca pra fora.
+\
+`"[line=4]Não, eu não guardo qualquer rancor contra o Makihisa-sama ou a Akiha-sama.@
+` O que fiz não foi vingança.@
+` Apenas considerei que seria o que um ser humano normal teria feito.@
+` Pelo meu próprio bem, montei uma armadilha para o Makihisa-sama e o SHIKI-sama, também tentei matar a Akiha-sama.@
+` [line=4]Era tudo que eu podia fazer.@
+` Não havia quaisquer sentimentos por trás disso."
+\
+` O sorriso dela não some.@
+` Mas é apenas uma mentira.@
+` Se fosse verdade, então eu[line=4]eu a odiaria do fundo do meu coração.
+\
+`"…… Não é verdade.@ Você só quer acreditar nisso, Kohaku-san.@
+` Se fosse verdade[line=3]então por que você protegeria a Akiha?@
+` Kohaku-san, você tem emoções.@ …… Você gosta da Akiha, por isso destruiu o seu plano com as próprias mãos……!"@
+ld c,"tachi/koha_t17",crossfade,400
+`"[line=6]"@
+` Por um breve momento.@
+` Ela abaixa o olhar por um instante e sorri novamente.
+\
+ld c,"tachi/koha_t12",crossfade,400
+`"…… É verdade.@ Eu mesma destruí o meu plano.@ De fato, o SHIKI-sama deveria ter me matado naquele momento.@ …… Eu planejei para que somente uma de nós saísse viva de lá.@ Mas por que ambas acabamos sobrevivendo?@
+` Ela parece incomodada enquanto diz isso e seu sorriso retorna.
+\
+`"…… É muito simples.@ É porque você não queria que a Akiha morresse e, claro, você também não queria morrer.@
+` Portanto[line=3]está tudo bem.@ Embora você tenha planejado isso tudo, eu estou feliz.@ A Akiha está viva, você está viva, isso me deixa muito feliz.@
+` Isso não é[line=4]o bastante para você, Kohaku-san?"@
+br
+` As minhas lágrimas pingam enquanto digo isso.@
+` …… Não consigo controlar os meus sentimentos, que são mais de arrependimento do que pena.
+\
+` [line=4]Eu já entendi tudo.@
+br
+` Sei que essa pessoa não vai mais voltar.@
+` Desde aquele momento, desde o momento em que protegeu a Akiha, ela se quebrou por completo e não vai conseguir voltar ao normal.@ Entendo isso muito bem[line=5]
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"Shiki-san, você está chorando?@ É bobagem chorar por uma boneca que quebrou.@
+` …… Sim, é bobagem mesmo.@
+cl c,crossfade,400
+!w2000
+ld c,"tachi/koha_t19",crossfade,400
+` Escuta, Shiki-san.@ Eu disse que não odeio ninguém, mas tem uma exceção.@
+` Sabe quem é, né?@ Acho que odeio você.@ Porque, se você não estivesse lá, eu poderia ter ficado olhando para a janela sem pensar em nada."@
+cl c,lshutter,400
+` Sorrindo, ela se vira.
+\
+` As suas mangas flutuam como as asas de uma borboleta.@
+` As minhas pernas querem correr até ela.@
+` Mas não consigo me mover.@
+` Não consigo dar um passo sequer.@
+` Sinto que se eu der um passo na sua direção[line=4]algo irremediável vai acontecer.
+\
+playstop
+`"Você é o único que eu odiei.@ Eu não tinha nenhum tipo de sentimento em relação às outras pessoas.@
+` Eu perdi todas essas emoções.@ Portanto[line=4]salvar a Akiha-sama naquela noite não passou de um acidente."@
+` A sua imagem começa a ficar embaçada.@
+`"Kohaku[line=3]san[line=3]"@
+` Tenho um mau pressentimento.@
+` Não sei explicar, mas sinto que algo horrível vai acontecer.@
+br
+` [line=3]Então.@
+br
+`"Nee-san[line=5]!"@
+` Uma voz, chamando-a, ecoa.
+\
+ld c,"tachi/his_t12",lshutter,400
+`"Hisui[line=6]?"@
+`"Hisui[line=3]chan……?"@
+` Nossas vozes se sobrepoem.@
+` Arfando por ar, a Hisui olha diretamente para ela.
+\
+`"…… Hisui-chan, por quê?"@
+` A sua voz está trêmula.@
+` Respirando fundo, ela a encara.@
+`"…… Mentiras."@
+` Com uma voz firme, a Hisui diz isso brevemente.@
+`"Você só disse mentiras, Nee-san.@
+` Você salvou a Akiha-sama porque gosta dela[line=3]e sei que não consegue odiar o Shiki-sama."
+\
+`"[line=8]"@
+` Escuto um arfar rápido.@
+` Ainda de costas[line=3]ela parece muito assustada.
+\
+ld c,"tachi/his_t17",crossfade,400
+`"Eu estou errada?@ Você fingiu ser eu, sendo assim, não tem como odiar o Shiki-sama.@
+` Você tem cumprido o papel de Hisui desde aquela época.@ Então você amou o Shiki-sama e protegeu a Akiha-sama……!@ Você não é o ser humano vazio que pensa ser……!"@
+` As palavras da Hisui pairam no ar.@
+` A Kohaku não se vira, só responde "não".
+\
+cl c,crossfade,400
+`"…… Poxa.@ Se você não tivesse dormido na sala de estar, a Hisui-chan nunca teria nos visto aqui.@
+` Shiki-san, você realmente adora destruir todos os meus planos."@
+` Ainda olhando para o outro lado, ela ri.@
+` Ela leva um dedo à boca.@
+br
+` Gulp.@
+` Ouço o barulho de algo sendo engolido.
+\
+`"[line=12]"@
+` Eu corro até ela.@
+` Mas não chego há tempo.@
+` Antes que possa alcançá-la, ela desmorona no chão, tossindo sangue.
+\
+bg #000000,crossfade,800
+` Tum.@
+` Um barulho terrível.@
+` Ainda sorrindo, um pouco de sangue escorre da sua boca.@
+br
+`"Nee-san[line=12]!"@
+br
+` A Hisui a segura.@
+` Mas[line=3]só que[line=4].@
+` Não há mais nada o que fazer, já é tarde demais.
+\
+bg "event/his_f02",crossfade,400
+play "*7"
+`"Não[line=4]Nee-san, Nee-san, Nee-san[line=5]!!!!"@
+` Abraçando a cabeça da garota imóvel, a Hisui grita, desesperada.@
+` Parece que as suas emoções estão transbordando assim como o sangue da boca da Kohaku-san.@
+` A sua boca abre e se fecha várias vezes.@
+wave se_01
+bg #ffffff,crossfade,400
+bg "event/his_f02",crossfade,400
+`"Nee-san……?@ Nee-san, aguente firme……!!"@
+` Um grito desesperado.@
+` Vendo isso, a garota sorri como uma criança.
+\
+`"…… Hã?@ …… Não faça isso, Hisui-chan.@ Chorar assim, igual…… Àquela época."@
+`"O que[line=3]Nee-san, por que[line=4]"@
+`"…… É[line=3]porque[line=3]se[line=3]eu[line=3]não[line=3]for[line=3]você[line=3]não vai[line=3]poder voltar[line=3]a ser[line=3]como era."@
+` A suas palavras saem pausadas,
+` e, com olhos vidrados, ela conversa com a Hisui.
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "event/his_f02",crossfade,400
+`"[line=9]Nee[line=3]san."@
+` O rosto da Hisui se contorce de aflição.@
+` As suas lágrimas escorrem pelo rosto.@
+`"…… Mas por quê?@ Está tudo bem.@ Eu estava bem do jeito que era, Nee-san.@ Se você estivesse feliz, então eu estava feliz.@
+` Eu[line=3]eu sempre fui protegida por você, então[line=3]"@
+` Eu sempre fui feliz.@
+` Ela engole as últimas palavras.
+\
+`"Por que……?@ Você deveria ter continuado como Hisui, Nee-san.@ Como a Hisui, aquela quem você admirava, então por que[line=3]por que está devolvendo essa personalidade para mim agora[line=4]?"@
+wave se_01
+bg #ffffff,crossfade,400
+bg "event/his_f02",crossfade,400
+` Uma lágrima escorre pelo rosto da Kohaku.@
+` Talvez as lágrimas da Hisui tenham provocado isso.@
+` Ela concorda em silêncio.
+\
+`"…… É verdade.@
+` Eu[line=3]me diverti[line=3]muito.@ Era tudo encenação, mas foi muito divertido, Hisui-chan.@
+` Por isso eu queria que você também se divertisse[line=4]"@
+` O sangue escorre.@
+` Enquanto fala, o sangue escorre da sua boca.
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "event/his_f02",crossfade,400
+`"N-Nee-san, aguente firme, Nee-san……!@ I-isso não pode estar acontecendo……!@ Por que[line=4]por que você precisa morrer, Nee-san……!?@
+` Não tem[line=4]não tem por que você morrer……!"@
+br
+` A voz da Hisui já não pode mais alcançá-la.@
+` O seu peito sobe e desce com a sua respiração, ela observa o profundo céu azul.
+\
+`"…… É bonito.@ Eu nunca podia sair da mansão, mas sempre me lembrava da cor do céu."@
+`"Nee-san[line=3]Nee-san……?"@
+`"…… Essas pequenas coisas faziam os meus dias.@
+` A Hisui-chan, o Shiki-san, e a Akiha-sama estavam lá.@
+` E sobre as suas cabeças havia um céu tão belo."
+\
+`"Eu…… Não consigo me lembrar muito bem.@ Essas coisas divertidas…… Estão começando a desaparecer."@
+` …… A sua energia vai acabando.@
+` O brilho em seus olhos está desaparecendo.@
+wave se_01
+bg #ffffff,crossfade,400
+bg "event/his_f02",crossfade,400
+` Isso.@
+` Eu não posso permitir isso.
+\
+playstop
+bg #000000,crossfade,400
+waveloop se_02
+` Pego a minha faca.@
+` Já tirei os óculos.@
+` Tudo o que resta[line=3]
+br
+`"Shiki-sama, o que[line=4]!"@
+` A Hisui me segura.@
+`"[line=4]Eu vou salvar a Kohaku-san.@ Por favor, fique quieta e confie em mim."@
+` Eu me solto da Hisui e observo o corpo da Kohaku-san.@
+` …… Igual àquela vez com a Yumizuka.@
+` Daquela vez, encontrei o sangue poluído da Yumizuka e "matei" ele.@
+` Então devo conseguir matar o veneno que ela bebeu.
+\
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+`"[line=11]Gah."@
+` A dor de cabeça é muito forte.@
+` Parece que alguém está esfaqueando a minha cabeça.@
+` A dor é tão forte que quero fechar os olhos.@
+`"[line=11]"@
+` …… Acho que procurar por algo de errado no corpo de outra pessoa é difícil demais.@
+` Essa dor está me avisando que isso vai além dos limites da minha habilidade.
+\
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+`"AH[line=6]ha ah."@
+` A minha respiração se transforma em uma constante busca de fôlegos rápidos.@
+` A minha boca está borbulhando.@
+` O meu mundo ficou todo vermelho.@
+` O meu corpo queima por dentro, como se todos os meus fluídos corporais se transformassem em veneno.@
+`"Ahh[line=4]g[line=3]gaah!!"@
+br
+` É.@ Mas ainda assim[line=6]
+br
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+`"Ku[line=7]ah ahh[line=7]!"@
+br
+` Olho para ela, sem ligar para caso fique cego.
+\
+bg #ffffff,crossfade,800
+br
+br
+br
+br
+br
+` [line=6]os meus sentidos se desassociam.@
+br
+` O meu mundo se torna uma página em branco.@
+` Enquanto o som dos meus vasos sanguíneos queimando ecoa nos meus ouvidos, rapidamente, antes de ficar incapacitado, encontro o veneno em seu corpo e mato ele.
+\
+bg #000000,crossfade,800
+wavestop
+!w4000
+bg #ffffff,crossfade,800
+!w4000
+bg "bg/bg_55",crossfade,400
+play "*3"
+` O primeiro cenário que vi em poucos dias é esta sala de exames branca.@
+br
+`"…… Tudo em ordem.@ Parece que você está bem, Shiki-kun.@ Não vejo qualquer perturbação e a sua condição anterior não deve voltar.@ Pode retornar para a sua vida diária agora."@
+` O médico continua rabiscando alguma coisa no papel, como tem feito pelos últimos dias.@
+` O seu rosto, que vejo pela primeira vez, parece bastante gentil.
+\
+`"Pois bem, cuide-se.@ E não force o seu corpo por um tempo.@ Você parece estar sempre se esforçando demais."@
+`"[line=3]Entendi.@ Muito obrigado pela sua ajuda."@
+` Faço uma mesura com agradecimentos sinceros.@
+` E levanto da cadeira.
+\
+bg #000000,lshutter,800
+` Vou para o corredor.@
+` A Hisui está na sala de espera.@
+` Aceno animado para ela, faz dias que não a vejo.@
+` Ela vem correndo para o meu lado, para que eu me apoie nela.
+\
+`"Então, podemos ir?@ Podemos ver a Kohaku-san a partir de hoje, né?"@
+` Ela faz um gesto afirmativo com a cabeça.@
+`"…… Hum, Shiki-sama.@ O seu corpo está realmente bem?"@
+` Ela olha para mim, toda preocupada.
+\
+`"Claro, né!@ Um médico não ia deixar doentes saírem assim, sem mais nem menos.@ Se me deram alta, quer dizer que estou bem.@ Estou acostumado com hospitais, pode confiar."@
+`"[line=5]Eu entendo.@ Mas é por isso mesmo que me preocupo.@ Nunca houve uma única vez em que você voltou totalmente recuperado de um hospital."@
+`"………… Hmph."@
+` …… A Hisui anda falando bastante agora.@
+` Bem, ela tem razão, então não posso discordar.
+\
+`"[line=3]Enfim, finalmente tiraram aqueles curativos dos meus olhos.@ Agora posso ver o seu rosto e o meu corpo está curado, então está tudo bem.@
+` Vamos ver a Kohaku-san logo."@
+` Puxando a Hisui, que ainda quer falar mais alguma coisa, caminho na direção do quarto da Kohaku-san.
+\
+bg #000000,crossfade,400
+playstop
+bg "bg/cmo_20",crossfade,400
+` [line=5]Depois daquilo.@
+br
+` Depois de me ver enfiar a faca na Kohaku-san, a Hisui entrou em pânico.@
+` Porém, após ver que o corpo da Kohaku-san não foi ferido, além de sua respiração ter voltado depois, e que eu desmaiei, ela correu para nos salvar, mesmo estando em pânico.
+\
+` Como resultado, a Kohaku-san foi salva.@
+` Acabei em um estado em que os meus olhos não funcionavam mais e, junto a isso, a minha força física diminuiu.@
+br
+` …… Eu meio que entendi que tinha ficado cego.@ Quando enfiei a faca nela, só consegui ver aquelas "linhas".@
+` Portanto, quando me disseram que eu fiquei cego, não foi um choque grande, mas aí minha visão voltou pouco depois.
+\
+` O exame revelou que não havia nada de errado com os meus olhos, mas só problemas com os nervos.@ Em vez de os nervos cortados terem se conectado novamente, parece que os nervos dormentes que se curaram.@
+` …… Parece que não vou ficar cego tão facilmente.@
+` Ou pode ser que, mesmo que eu fique cego, ainda vou enxergar essas "linhas".
+\
+` …… Bem, nada disso importa.@
+` O importante é que nós dois fomos salvos.@
+` …… Mas a Kohaku-san não foi salva por completo.@
+br
+` Ela conseguiu se recuperar.@
+` Mas, em troca, perdeu algo.
+\
+bg #000000,crossfade,400
+`"Shiki-sama."@
+`"Hã[line=4]é, vai na frente.@ Acho que vai ser melhor se você entrar primeiro."@
+` Depois de responder sim, ela abre a porta.@
+` Uma voz nos diz que podemos entrar, e fazemos isso.
+\
+bg "bg/bg_51",lshutter,1500
+play "*9"
+` [line=4]A Kohaku-san é a única pessoa dentro do quarto.@
+br
+` Ela senta na cama e olha para nós.@
+`"……………………"@
+` …… A Kohaku-san não está sorrindo.@
+` Com olhos inquietos, ela observa os seus convidados.@
+br
+`"Hum…… Posso perguntar quem seriam vocês?"@
+br
+` Quando ela diz isso, os ombros da Hisui tremem um pouco.
+\
+`"Viemos ver como você está.@ Com licença, Nee-san."@
+` A Kohaku-san olha para a Hiui com olhos surpresos após escutar o "Nee-san".@
+` A Hisui senta perto dela.@
+` Não quero atrapalhar, por isso sento em uma cadeira perto da parede.@
+` A Kohaku-san olha inquieta do rosto da Hisui para o meu.
+\
+`"Hum…… Desculpa.@ É meio estranho.@ Sinto que conheço os dois, mas não consigo me lembrar de vocês."@
+` A sua voz parece sentir muita tristeza por isso.@
+` Não é nenhuma piada ou pegadinha, ela fala sério.
+\
+bg "bg/ima_10b",crossfade,400
+` [line=5]Tem um problema com a memória dela.@
+br
+` Acho que foi a Hisui quem me contou isso.
+\
+` A Kohaku-san não era mais a Kohaku-san que conhecíamos.@
+` …… Não é exatamente isso.@
+` Os sistemas do cérebro podem ser divididos em quatro funções: gravar, preservar, reproduzir e reconhecer.@ Parece que há algo errado com a função de preservar da Kohaku-san.
+\
+` O médico disse que ela poderia voltar para a sua vida cotidiana, mas…… Ela não consegue lembrar de boa parte do passado.@
+` …… Não é um caso de que ela não possa se lembrar, na verdade, está mais para ela ter perdido isso.@
+` A preservação das suas memórias até agora[line=3]toda essa informação foi perdida, então não há nada para se lembrar.@
+` Por isso a Kohaku-san não se lembra da gente.@
+` …… Fazê-la voltar a ser como era é apenas um sonho esperançoso.
+\
+` Não sei se foi o choque quase fatal do veneno ou se a própria Kohaku-san se fechou.@
+` Mas tenho certeza de que ela tem o mesmo corpo e coração de antes, só que se esqueceu de mim, da Hisui e da Akiha.
+\
+bg "bg/bg_51",crossfade,400
+`"Hum………"@
+` Ela olha para a Hisui.@
+` "Pois não?" A Hisui responde e a Kohaku-san começa a falar, hesitante.@
+`"O seu rosto é igual ao meu, posso perguntar quem é você?"@
+`"[line=9]"@
+` A Hisui congela por completo.@
+` Mas é só por um segundo.@
+` Com um sorriso fraco, ela segura a mão da Kohaku-san.
+\
+`"Sou a sua irmã mais nova, a Hisui."@
+`"Hisui…… chan?"@
+` Ela consegue dar essa resposta.@
+` Provavelmente é a resposta mais cruel que ela poderia ter dado.@
+` Mas a Hisui ainda sorri gentilmente e responde "Sim."
+\
+`"…… Eu sinto muito mesmo.@ Eu[line=3]não lembro nada de você, Hisui-chan, ou daquele rapaz ali.@
+` …… Ahaha, que medo!@ Não lembro nada de você, Hisui-chan.@ Deve ter algo de errado comigo."@
+` De cabeça baixa, a Kohaku-san parece uma criança perdida.@
+` O seu rosto parece perdido e os seus olhos estão inquietos; ela não é como a Kohaku-san do passado.@
+br
+` [line=3]Mas ainda assim.@
+` A Hisui segura a sua mão com força.
+\
+`"Não se preocupe, Nee-san.@ Não importa o quão assustador for, eu estarei sempre com você.@
+` …… Igual a como você sempre me protegeu, eu sempre estarei aqui[line=4]sempre vou protegê-la de agora em diante, Nee-san."@
+` O rosto da Kohaku-san é de total surpresa.@
+` Depois de olhar surpresa para a Hisui, ela a agradece.@
+`"Hã[line=4]ah, tá bom."@
+` Olhando para baixo com vergonha, a Hisui murmura uma resposta.
+\
+`"Hum, está precisando de alguma coisa?@ Algo para comer ou qualquer coisa que você queira?"@
+` A Kohaku-san diz que sim e assente com os olhos em resposta à tentativa da Hisui de esconder a sua vergonha.@
+br
+`"…… Não quero comer nada por enquanto, mas queria uma coisa.@ Posso pedir para vocês?"@
+br
+` Ela não olha somente para a Hisui, também direciona um olhar para mim, perto da parede.
+\
+`"Claro.@ O que seria, Nee-san?"@
+`"…… Eu[line=3]acho que nunca gostei do nome Kohaku.@ Por isso, eu[line=3]queria um nome novo."@
+`"……………… Um nome?"@
+` Queria saber o motivo.@
+` Assim que ela diz isso, só um nome vem a mim.@
+` Aquele nome foi descartado e só permanece em memórias.
+\
+`"……………… Shiki-sama."@
+` A Hisui se vira para mim.@
+` …… Ela está pensando na mesma coisa?@ Ela me olha como se pedisse confirmação.@
+`"……………… Hum."@
+` Concordo com a cabeça.@
+` A Hisui se vira para a Kohaku-san e pergunta:
+br
+!w1000
+`"O que acha de Nanaya?"
+\
+`"…………… Nanaya."@
+br
+` A Kohaku-san murmura como se testasse o som da palavra.@
+` Logo em seguida, ela levanta o rosto como se lembrasse de algo.@
+br
+`"[line=3]Sim.@ Eu[line=3]gosto do som desse nome.@ Parece[line=3]quase nostálgico por algum motivo."@
+br
+` Dizendo isso, ela sorri.@
+` O seu sorriso de sempre que floresce como uma rosa.@
+br
+` [line=3]Finalmente.@
+` Pela primeira vez desde que despertou, ela sorri alegremente.
+\
+bg #ffffff,crossfade,800
+bg "bg/ima_05",crossfade,1500
+play "*7"
+` [line=3]As duas garotas conversando parece uma cena perfeitamente natural.@
+` Elas passam o tempo pacificamente conversando como irmãs.
+\
+` …… Não sei se a perda de memórias dela foi boa ou ruim.@
+` Já que todas as memórias dela eram dolorosas, talvez tenha sido algo bom.@
+` Porque, de agora em diante, não vai ter nada além de felicidade.@
+` Vamos esquecer de todos os acontecimentos tristes.
+\
+`"[line=10]"@
+` Mas, olhando para esse céu azul, não posso evitar pensar no passado.@
+` Aquela menina parada na janela.@
+` Sei que o passado é algo que ela deve esquecer.@
+` Mas mesmo assim[line=4]se eu pudesse, queria que "aquela" Kohaku-san fosse feliz.
+\
+` …… Mas isso é somente um desejo que não pode ser realizado.@
+` Portanto tenho que dar fim a esse desejo agora.@
+br
+` [line=4]Sob aquele tão desejado céu azul.@
+` Imagino o seu sorriso descontraído pela última vez, como uma flor duradoura[line=4]
+\
+bg #ffffff,crossfade,1500
+bg "bg/ima_03",crossfade,400
+`"Shiki-sama, posso falar com você um instante?"@
+` Depois de deixarmos o hospital,
+` a Hisui de repente me pede isso.@
+`"Hein……?@ Claro, o que foi?"@
+`"Ainda temos tempo, então eu queria ir em um lugar."@
+`"Quer ir aonde……?"@
+` Sem entender, inclino a cabeça.@
+`"Vamos logo, Shiki-sama!"@
+` A Hisui puxa a minha mão com força e começa a correr.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_58",lcartain,800
+play "*2"
+`"[line=17]"@
+` Ela me leva para um gramado fora da cidade.@
+` O outono está acabando e o céu está um azul profundo.@
+` O vento que sopra as flores e os nossos rostos parece assoprar por nossos corações.
+\
+`"Hisui……?@ Por que você quis vir aqui?"@
+`"Hum, por que será?@ Sendo sincera, não tem um motivo certo.@
+` É só que, quando estávamos indo para o hospital, vi este campo do trem."@
+` Ela diz isso como se fosse algo trivial e fica ao meu lado.
+\
+`"…… Não entendi.@ É um lugar legal, mas não parece nada de especial.@ Se você queria passear, poderíamos[line=4]"@
+`"Não.@ Aqui é o lugar certo.@
+` Eu não queria ir para algum lugar da cidade, mas um lugar quieto e bonito, isso me faz sentir melhor.@
+` Um lugar para onde você possa voltar ao seu 'eu' normal."@
+` Com um leve sorriso no rosto, ela olha para mim.
+\
+`"Meu 'eu' normal[line=4]?"@
+`"Sim.@ Você parecia tão deprimido quando estava no quarto do hospital.@
+` …… Entendo como se sente e estou feliz que se sinta dessa forma.@
+` Mas não é isso que a Nee-san queria."@
+` A Hisui estende a mão.@
+` Devagarzinho ela coloca a sua mão junto à minha.
+\
+`"Eu não estou certa?@ Acho que será melhor se você se animar.@
+` …… Escuta, Shiki-sama.@ Talvez não tenha percebido, mas você está com cheiro de luz do sol.@
+` Esse é o Shiki-sama de quem gosto e de quem sempre gostarei."@
+` Os seus olhos me fitam.@
+` Esses olhos são muito gentis e otimistas.@
+` É a Hisui quem tem cheiro de luz do sol.@
+` Oito anos atrás.@
+` Parece que voltamos para aquela época, quando nós três corríamos pelo jardim.
+\
+`"[line=4]Minha nossa!@ Acho que sou eu quem estava deprimida."@
+`"Você só é alguém que não começa conversas com frequência.@
+` Mas, para mim, não, para nós, você é como este campo aberto."@
+`"[line=10]"@
+` Os dedos dela se movem.@
+` Sinto a sua mão me apertar com mais força.
+\
+`"Então, não faça essa cara, Shiki-sama.@
+` A Akiha-sama foi salva e até a Nee-san.@ Não tem por que ficar triste.@
+` A Nee-san ainda está viva.@ Estou certa de que ela voltará a ser como era um dia, e ainda que isso não aconteça, ela será muito mais feliz assim.@
+` Você não tem tempo para ficar triste.@ Porque precisamos ajudar a Nee-san e a Akiha-sama a serem mais felizes de agora em diante."
+\
+`"[line=6]"@
+` O que ela diz é bastante absurdo.@
+` Então por que será?@
+` Depois de escutar isso[line=4]sinto um raio de luz brilhar sobre o meu coração deprimido.@
+`"[line=5]É[line=3]verdade.@
+` Eu sou o irmão mais velho da Akiha, é claro que vou fazer isso."@
+` A Hisui faz um gesto afirmativo com a cabeça.
+\
+`"…… Sim.@ Pode ser difícil, mas precisamos fazer isso.@ Porque também quero que elas sejam felizes."@
+`"[line=6]Sim.@ Eu sei que você consegue."@
+` Assentindo com vontade, ela segura a minha mão contra o seu peito.@
+br
+` …… Posso sentir o seu coração batendo.@
+` O calor delicado do seu corpo sopra serenamente em meu coração, como o vento pela grama.
+\
+`"[line=3]Além do mais.@ Seria um problemão pra mim se você não se animasse."@
+` "Por quê?" pergunto.@
+` As maçãs do seu rosto ficam vermelhas, mas mesmo assim ela me olha no fundo dos olhos[line=4]
+\
+br
+`"…… Você é o único que pode me fazer feliz.@ Quero estar sempre ao seu lado, sempre perto do seu raio de sol."@
+br
+` [line=4]Ela fica na pontinha dos pés para me beijar.
+\
+bg #ffffff,crossfade,400
+bg "bg/ima_03",crossfade,400
+` O céu distante.@
+` Sob esse lindo céu onde não há tristeza, recebo o calor de quem mais amo.@
+br
+` [line=4]Daquele campo
+`    emana o cheiro gentil do sol.
+\
+br
+` [line=4]As palavras da Hisui estão certíssimas.@
+br
+` Perdemos muito, mas não perdemos tudo.@
+` Os dias continuam vindo com o futuro.@
+` Sendo assim, precisamos continuar, e nos esforçar para fazer com que todos vivam felizes.
+\
+`"…… Obrigado, Hisui."@
+` Abraçando o seu corpo delicado, fecho os olhos.@
+br
+` As lágrimas escorrem pelo meu rosto, mas não estou triste.@
+` A vida já é divertida o bastante, eu sei disso faz um bom tempo.@
+br
+` [line=4]Então.@
+` Segurando a mão da Hisui, sigo em frente, caminhando sem arrependimentos[line=6]
+\
+bg #ffffff,crossfade,1500
+playstop
+!w4000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000
+gosub *ending

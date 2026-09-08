@@ -1,0 +1,33 @@
+wavestop
+playstop
+bg "bg/bg_25b",lcartain,800
+` …… Não tem ninguém por perto.@
+` No distrito comercial ainda tinha algumas pessoas, mas o caminho de volta para a mansão está completamente vazio.@
+`"………"@
+` As palavras "assassino em série" não saem da minha cabeça.@
+` É meia-noite.@ Estou andando pela cidade sozinho.@ Sou uma presa fácil para esse assassino.
+\
+wave se_10
+`"[line=4]!?"@
+` Ouço um barulho.@
+` Veio de trás de um prédio.@
+` Foi como se alguém estivesse caindo.@
+`"…… Veio daquele beco……?"@
+` O barulho não se repetiu.@
+` Um silêncio estranho me rodeia.
+\
+wave se_10
+` …… Estou com um mau pressentimento quanto a isso.@
+` Será que alguém desmaiou ali no beco?@
+` Ou será que foi o vento que derrubou alguma coisa?@
+` …… Independente do que for, eu não deveria me envolver.@
+br
+` [line=5]Mas.@
+` Tenho a sensação de que a Yumizuka está naquele beco.@ Acho que é porque estive procurando por ela todo esse tempo.
+\
+`"…… O que… Eu faço……?"@
+` Não tem ninguém por perto.@
+` Só posso contar com a ajuda desta faca que a Kohaku-san me entregou hoje de manhã.@
+br
+` Eu[line=7]
+\

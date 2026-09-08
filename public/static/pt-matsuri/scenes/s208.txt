@@ -1,0 +1,13 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Eu quase perguntei a ele, mas acho que o professor não iria me responder.@
+br
+` Se ela realmente fugiu de casa como o Arihiko disse, isso é assunto dela.@
+` Além disso, duvido que exista um professor no planeta que responderia a um aluno se ele perguntasse: "A Yumizuka-san fugiu de casa?"
+\
+`"…… Bem, não tem nada confirmado também, é apenas um boato."@
+` Talvez ela apenas esteja atrasada.@
+` É melhor esperar para ver o que acontece antes de perguntar alguma coisa para o professor.
+\
+bg #000000,crossfade,800

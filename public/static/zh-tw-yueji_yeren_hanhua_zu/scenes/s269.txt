@@ -1,0 +1,17 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_27b",notrans,0
+`「[line=3]等等。@學姐，你不是說過我可以隨意的嗎……？」@
+ld c,"tachi/cel_t01b",crossfade,400
+`「是的，遠野君請隨意」@
+`　學姐笑著點頭。
+\
+`「……太好了，看來不是我的幻聽啊。@那麼，就在這裡說再見吧。@別再跟著我了」@
+ld c,"tachi/cel_t07b",crossfade,400
+`「啊，我才不是跟著遠野君什麼的」@
+`「[line=3]那個，學姐？」@
+ld c,"tachi/cel_t01b",crossfade,400
+`「我只是有點事情要到公園裡去做罷了。@遠野君要去哪裡我是不知道的啦，不過如果不是要去公園的話，那就在這兒說再見吧」
+\
+cl c,crossfade,400

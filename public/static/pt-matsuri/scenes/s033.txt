@@ -1,0 +1,66 @@
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_11b",lcartain,400
+` Assim que piso no corredor, vejo um rosto familiar.@
+`"Hã?@ Senpai?@ Você tem algo a tratar por aqui?"@
+ld c,"tachi/cel_t01a",lshutter,400
+`"Sim.@ Com um aluno do segundo ano, para ser mais específica."@
+` A Ciel-senpai se aproxima com um sorriso.@
+`"Escuta, estou com alguns lanches gostosos aqui, não tenho ninguém com quem dividir e conversar.@ Seria um desperdício comer tudo sozinha, por isso eu vim buscar um sujeito preguiçoso para me fazer companhia."
+\
+`"Humm… Alguém para te fazer companhia?@ Mas não tem mais ninguém aqui nessa sala e nem nas outras.@ De qualquer forma, você não costuma vir para as salas do segundo ano, né?@ Sua sala fica no andar de baixo, né?"@
+` E se ela só quer alguém para lhe fazer companhia, por que não chama alguém do terceiro ano?@ Não precisava vir até aqui.@
+`"Você não pensou em chamar algum colega da sua sala?@ A companhia de um deles provavelmente seria melhor."
+\
+ld c,"tachi/cel_t02",crossfade,400
+`"Pensei sim, mas hoje estou com vontade de conversar com rapazes mais jovens.@ Por favor, não me pergunte o motivo, é só um capricho."@
+`"…… Tá bom, não vou perguntar."@
+` Provavelmente não ia entender mesmo se ela explicasse.@
+` O sorriso da Senpai desaparece quando ela começa a me encarar.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Você está livre agora, Tohno-kun?"@
+`"Bem[line=3]se não ter nada para fazer significar que estou livre, definitivamente estou livre."@
+br
+` Ela agarra a manga da minha camisa.@
+br
+ld c,"tachi/cel_t03",crossfade,400
+`"Bom, agora você foi capturado.@ Vamos tomar um chá."@
+` Ela me convida com um sorriso.@
+` Não tenho motivos para recusar e, além disso, deve ser divertido conversar com a Senpai.
+\
+`"Tudo bem, se quer tanto assim eu vou."@
+`"Então está decidido.@ Vamos logo!"@
+` Ainda segurando a manga da minha camisa, ela começa a caminhar pelo corredor com passos leves.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_09b",lcartain,1500
+`"Uau.@ Nossa escola tem uma sala assim?@ Ela pertence ao Clube de Cerimônia de Chá?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Sim, está é a sala do Clube de Cerimônia de Chá.@ Parece que não estava sendo usada até recentemente."@
+cl c,lshutter,400
+` Ela pisa no tatame e começa os preparativos.@
+`"Hum, a sala de um clube?@ Os outros membros do clube não virão para cá também?@ Não seria ruim uma pessoa de fora estar aqui com você?"@
+`"Não tem problema.@ Este é o Clube de Cerimônia de Chá, mas não há outros membros além de mim.@ Por isso eu posso usar a sala livremente durante os intervalos e depois das aulas…… pega aqui."@
+` Sorrindo, ela começa a distribuir as almofadas.@
+` Bem, chá é chá, mas parece que teremos uma cerimônia de chá de verdade.@
+` Para ser sincero, estou um pouco desconfortável.
+\
+`"Hum, Senpai…… não tenho a menor ideia do que fazer."@
+`"Do que está falando?@ Eu mesma só sei até a parte de servir o chá."@
+` Com essa resposta sincera, ela coloca a chaleira em um prato, alguns copos e alguns pedaços de bolo também.@
+ld c,"tachi/cel_t03",lshutter,400
+`"Vamos apenas conversar normalmente, não precisa ser tão formal.@ Não seria divertido se não fosse assim."@
+` Sorrindo, ela serve o chá no seu próprio copo.
+\
+cl c,lshutter,400
+`"…… Humm.@ Eu realmente não entendo você, Senpai."@
+` Murmurando, sirvo chá no meu copo.@
+` Tomo um pouco.@
+` Pego um pedaço de bolo, coloco na boca e tomo outro gole de chá.@
+` Nunca me envolvi muito com isso, mas a família Arima leva muito a sério a cerimônia de chá.@
+` Como cresci em uma família assim, estou acostumado com a parte de tomar o chá e não fazer mais nada.@
+` A Senpai olha para mim.@ Ela parece incomodada com alguma coisa.
+\
+`"Qual o problema, Senpai?@ Você não parece nem um pouco contente."
+\

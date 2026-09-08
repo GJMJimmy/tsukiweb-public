@@ -1,0 +1,102 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Mas eu não posso simplesmente sair no meio da aula.@
+br
+`"……… Por favor."@
+` Eu junto as mãos e começo a rezar para que ela não cause problemas pelos próximos vinte minutos.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` A aula termina.@
+` Saio correndo da sala em meio à comoção do almoço.
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` Saio disparado pelo corredor.@
+` …… A Arcueid está nos fundos da escola.@
+` Por ser o horário do almoço, dever passar algumas pessoas por lá.@
+` Tenho que fazer ela ir embora antes que a vejam……!
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+` Estou ofegando muito.@
+` Finalmente saio do corredor e chego no pátio.@
+` Felizmente, ninguém veio aqui ainda.@
+` Só preciso tirar a Arcueid daqui e…
+bg "bg/bg_05a",lcartain,800
+br
+`"…… O pior aconteceu."@
+` Sem querer dou voz aos meus pensamentos.
+\
+` Nos fundos da escola,
+ld l,"tachi/ark_t07",lshutter,800
+` vejo uma Arcueid muito hostil e…
+ld r,"tachi/cel_t07a",lshutter,800
+` a pior reviravolta do destino acontece, a Ciel-senpai também está aqui.@
+br
+` Como se enfrentasse uma invasora, a Senpai está encarando a Arcueid.
+\
+`"Arcueid……!"@
+` As duas se viram para mim.@
+ld l,"tachi/ark_t06",crossfade,400
+`"Shiki."@
+ld r,"tachi/cel_t06a",crossfade,400
+`"[line=7]"@
+cl a,crossfade,800
+\
+` …… Que alívio.@ A hostilidade da Arcueid está desaparecendo.@
+` Depois de olhar novamente para a Arcueid, a Senpai começa a ir embora.@
+`"Ah…… Senpai."@
+` Ela deve ter se sentido ofendida.@
+` Para a Senpai ter saído desse jeito sem nem dizer nada, alguma coisa deve ter acontecido.
+\
+`"Arcueid, sua……!"@
+` Corro até ela.@
+ld c,"tachi/ark_t16",crossfade,400
+`"Shiki, que lerdeza!"@
+` Ela grita para mim.
+\
+`"Ei…… lerdeza?@ Escuta aqui."@
+`"E não foi lerdeza?@ Eu sei que você me viu pela janela e não desceu.@ Se tivesse vindo mais cedo, eu não teria sido vista por aquele pessoa!"@
+` …… "Aquela pessoa" deve ser a Senpai.
+\
+`"Não havia nada que eu pudesse fazer.@ Sou diferente de você, sou apenas um estudante normal.@ Para começo de conversa, o que você veio fazer aqui?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"É que eu senti uma coisa por essas redondezas.@ Daí senti seu cheiro e percebi que aqui era a sua escola."@
+`"…… Resumindo, você não estava pensando em nada e simplesmente veio até aqui sem motivo algum?"@
+` Eu franzo as sobrancelhas.@ Ela é o que, um cachorro?
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Posso terminar de explicar!?@ Eu vim aqui por um motivo sim.@ Quase não há vestígios dos Mortos aqui, por isso resolvi investigar."@
+`"Sério?@ Mas se não há vestígios deles aqui, isso não torna este lugar sem importância?@ Não fica ninguém na escola de noite, se Os Mortos quiserem presas, eles vão para a cidade, não para a escola."
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Bem, isso faz sentido."
+\
+`"Não há nada de estranho aqui.@ Na realidade, eu não posso sentir a presença dos Mortos, mas como meus olhos veem a morte, posso dizer isso até sem tirar os óculos."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Sei.@ Já que você está dizendo, Shiki, então talvez não tenha nada de estranho nesta escola."@
+`"Não é 'talvez', é com certeza."@
+` Parece que a Arcueid não está acreditando em mim.
+\
+`"Enfim, se continuarmos aqui, as pessoas vão nos ver.@
+` Pode ter certeza que vou cumprir minha promessa, agora vá para casa e descanse.@ Vamos atrás do 'inimigo' de noite."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hum?@ Parece que você me quer longe daqui, Shiki!"@
+` Ela começa a ficar brava de novo.
+\
+`"Ah, é imaginação sua, mas vai logo, anda.@ Senão as coisas vão ficar cabeludas por aqui."@
+` Anda, vai, vai.@ Eu empurro ela por trás.@
+`"………………"@
+cl c,lshutter,800
+` Seus olhos indicam que quer falar alguma coisa, mas ela apenas sai em silêncio.
+\
+`"…… Poxa.@ Quando ver a Senpai, tenho que me desculpar pelo comportamento da Arcueid."@
+` Pensando alto, volto para dentro da escola.
+\
+bg #000000,lcartain,800
+!w1000

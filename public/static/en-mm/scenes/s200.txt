@@ -1,0 +1,107 @@
+phase "bg/ima_09",r,cel,05a,5
+bg #ffffff,crossfade,1500
+` I feel the morning sunlight.@
+` I keep my eyes closed as I try to fall asleep again, but the gentle sunlight keeps urging me to open my eyes.@
+br
+` [line=3]Slowly, I start to awaken.
+\
+br
+bg "bg/ima_05",crossfade,400
+` A quiet atmosphere.@
+` The air is comfortably cold, and the sunlight is warm enough.@
+` I guess the weather will be great today.
+\
+br
+` [line=3]Then, I should get up and go to school.@
+br
+` That's right, I have to go to school.@
+` The past three days, my life was chaos and it made me forget I was a student.
+\
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+`"…………"@
+` I wake up.@
+` I'm lying on my bed, and my glasses are on the bedside.@
+` I automatically put them on and look around.@
+` The sunlight streams so strongly in through the window, I almost expect to hear it pouring through.@
+`"[line=4]"@
+` I take a quiet breath.@
+` I fill my lungs with fresh air, and it feels like my chest is purified.
+\
+` I hear the clock ticking.@
+` Small birds chirp in the woods outside.@
+` I stay on my warm bed, aimlessly feeling the relaxed passage of time.@
+br
+` [line=5]This is, of course, another peaceful day.@
+br
+`"……………"@
+` But, I feel a bit unsatisfied.
+\
+` Although I'm back in this calm morning, I[line=3]feel that there is something that seems out of place.
+\
+` Even though I killed that vampire with the black coat and everything is back the way it was[line=3]I'm feeling that something is missing.@
+`"…… That's ridiculous."@
+` I shake my head, and shake off that unimportant thought.@
+br
+` [line=3]And then.@
+br
+ld c,"tachi/his_t01",lshutter,400
+` "Good morning, Shiki-sama."
+\
+`"Uwaaaa!"@
+` I jump up in my bed.@
+` Now that I look, Hisui is standing quietly at the side of my bed.@
+`"Hi-HiHi-Hisui[line=3]"@
+`"…… Please excuse me, Shiki-sama, but since you did not notice, I spoke."@
+`"Ah[line=3]well, I mean, I'm sorry, too."@
+` Hisui respectfully bows to me.@
+br
+` [line=3]Sh-she surprised me.@
+` My heart is still pounding rapidly.
+\
+`"[line=3]Huh?@ But it's still before seven o'clock, Hisui."@
+`"Yes.@ It is a bit earlier than your usual waking time, Shiki-sama."@
+`"Well, yes[line=3]then why are you here, Hisui?"@
+`"I came to wake you up.@ Akiha-sama wants to know what have you been doing these last two days so she wanted me to bring you no matter what."@
+`"[line=5]Ah."
+\
+` …… I forgot.@
+` Come to think of it, I skipped school last Saturday and was with Arcueid through all of Sunday.@
+` What's more, I came back late last night, snuck in like a burglar, and then went to sleep.
+\
+`"…… Don't tell me, Akiha's angry……?"@
+`"I do not know.@ Please confirm for yourself, Shiki-sama."@
+br
+` [line=3]Hisui's voice sounds very cold.@
+br
+`"…… Hisui, you knew I came back?"@
+`"Yes.@ I noticed when you returned early this morning around two o'clock.@ We saw you on the security camera when you were climbing the gate, Shiki-sama."
+\
+`"[line=3]Um, does Akiha know this?"@
+`"No, only Nee-san and I know this."@
+`"That's[line=3]good."@
+` …… Anyway, I think I avoided the worst possible situation.@
+` However, it's still pretty bad.@
+` Not informing her what I've been doing these last two days and returning in the middle of the night, it's pretty bad.
+\
+`"[line=3]Alright.@ I'll head down immediately.@ Umm…… and, if possible, I'd be happy if you tried to calm her down as much as possible."@
+`"Akiha-sama already appears calm.@ I think it will be difficult for my words to calm her even more."@
+`"[line=3]"@
+` Ugh, one problem after another?@
+` I just got done with Nrvnqsr, so I never thought I would face another life and death battle without even a rest break.
+\
+` Well, time to get up.@
+` I can't do anything staying in bed.@
+`"I'll go after I change, so please go ahead, Hisui.@ …… It's alright, I won't run."@
+`"[line=3]Well then, we will be waiting for you."@
+cl a,lshutter,800
+br
+` …… *sigh*@
+` Well then, I should change quickly so Mistress Akiha may pass judgment on me.
+\
+bg "bg/bg_33a",lcartain,800
+` [line=3]Alright, I'm here.@
+` Now only a door separates me from the sitting room where Akiha awaits.@
+` No matter what the circumstance was, there's no excuse for skipping school and not coming home for two days.@
+` Now[line=3]
+\

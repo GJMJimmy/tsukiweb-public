@@ -1,0 +1,83 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　봉쥬－르！@
+`　너무도　용이하게　데드　엔드를　맞이해　버린미숙한　토오노군을　위한　이　코너，
+`“가르쳐줘요！@　시에루선생님！@”시간이　돌아왔습니다．@
+br
+`　그럼，셋째날의　１교시입니다．@남은　수업은　아키하씨　뿐이네요－
+\
+ld l,"tachi/ark_t30",lshutter,400
+`「으냐？@　선생님，어째서　아키하보다　히스이　수업이　빨리　끝나는데？」@
+br
+`　그　질문은　각하합니다．@
+`　자　그럼，토오노군．@
+`　기분은　알겠지만요，유미즈카씨　대　핀치입니다．@
+br
+`「？？？？@　오히려　시키　쪽이　대　핀치인　거아냐？」
+\
+`　됐으니까　대　핀치입니다．@
+`　동급생　여자애가　ＳＯＳ니까요，군자　위험에가까이　않는다고　거드름을　피울　때가　아닙니다．@
+`　조금　앞으로　돌아가서，확실하게　뒷골목을　조사해　주세요．@
+`　그럼　또，다음　수업에서　만나요！
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t31a",lshutter,400
+`「……납득　못해．@어째서　아키하보다　히스이가먼저야―」@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+`「나，납득할　수　없어，정　히로인인데　전혀　내　차례도　없고，시키는　나　무시하고！」@
+br
+ld r,"tachi/ark_t31b",lshutter,400
+`「그래，납득할　수　없다니까！@　나만　그렇고　그래도　시엘은　자기　차례가　있어　보이잖아！@그런데　난　뒷모습　뿐이고，게다가　삿찡　쪽이흡혈귀같으니　어떻게　된　거냐　키노코―！」
+\
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+wait 100
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+wait 100
+ld r,"tachi/ark_t31a",notrans,0
+wait 100
+ld l,"tachi/ark_t31a",notrans,0
+wait 100
+ld c,"tachi/ark_t31b",notrans,0
+wait 100
+ld l,"tachi/ark_t31b",notrans,0
+wait 100
+ld c,"tachi/ark_t31a",notrans,0
+wait 100
+ld r,"tachi/ark_t31b",notrans,0
+br
+br
+br
+br
+br
+br
+br
+`「납득　못해，납득　못해，납득　못해－－！」
+\
+bg #000000,crossfade,800
+playstop

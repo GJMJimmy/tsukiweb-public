@@ -1,0 +1,57 @@
+bg "bg/bg_09b",notrans,0
+play "*3"
+ld c,"tachi/cel_t08",crossfade,400
+`"Hein?@ Ah, hum… só fiquei um pouco surpresa com a sua calma, Tohno-kun."@
+`"Sério?@ É que minha família é muito rigorosa, por isso estou acostumado com essas coisas.@ Mas me diga, Senpai, você não queria falar comigo sobre um assunto?"
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Sim.@ Eu ainda não te agradeci por hoje de manhã, então pensei em cuidar de você dessa forma."@
+` Ela fala uma coisa absurda dessas com um belo sorriso.
+\
+`"C-cuidar de mim?@ Não é assim que se usa a frase 'cuidar de alguém' no Japão, Senpai."@
+`"Ah, é mesmo?@ Quer dizer que as pessoas não usam a frase 'cuidar de alguém' quando estão mostrando sua hospitalidade em forma de agradecimento?"@
+`"[line=3]Não, não usam.@ Não acho que você tenha dito algo de errado, só que não está certo também."@
+`"Humm.@ Essas frases relacionadas às boas maneiras são bem complicadas, né?@ Acho que eu não devia tentar usá-las já que não estou familiarizada com elas."@
+` Ela ri embaraçada.
+\
+`"Ah, não se preocupe.@ Afinal, dizem que as boas maneiras vêm do coração.@ Contanto que você tenha as intenções corretas, é apenas um erro bobo."@
+cl c,crossfade,400
+` Os olhos da Senpai estreitam quando ela me encara.@
+` …… Seu olhar está tão sério que sinto que acabei de me tornar um animal raro em um zoológico.
+\
+`"Hum…… Senpai?@ Eu disse alguma coisa rude?"@
+ld c,"tachi/cel_t07a",lshutter,400
+`"………………"@
+` Ela continua me encarando.@
+`"Hum……… Senpai?"@
+` Por algum motivo, estou me sentindo incrivelmente envergonhado.@
+`"[line=6]Realmente combina com você, Tohno-kun.@ Ser mais jovem e mesmo assim mais calmo do que eu… você é impertinente."@
+` Ela não para de me encarar.@
+` …… Não sei como funciona a cabeça dessa garota.
+\
+`"[line=6]Desculpe-me.@ Foi arrogância minha falar daquele jeito."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Sim, você foi tão incoveniente que fiquei chocada."@
+` Ela relaxa os ombros suspirando e toma seu chá.@
+ld c,"tachi/cel_t03",crossfade,400
+`"Eu fiquei curiosa sobre você, Tohno-kun.@ Por favor, converse comigo.@ Pode ser sobre qualquer coisa."@
+` Ela endireita sua postura, como se fosse uma professora olhando para o seu aluno.@
+`"…………"@
+` Parece que não vou poder recusar.
+\
+`"…… Tudo bem, mas não vai ser muito interessante se formos conversar apenas sobre mim, Senpai."@
+` Ela me responde com apenas um sorriso.@
+` …… Não tenho escolha.@
+` Acho que vou começar um assunto sobre a escola[line=6]
+\
+bg #000000,lshutter,800
+!w1000
+` No final, ela ficou feliz de escutar qualquer coisa que eu falasse.@
+` Foi surpreendente ver ela ficar tão animada quando estávamos falando sobre o ensino fundamental.@ Parece que a Senpai nunca foi em uma viagem escolar.@
+`"Parece ser muito legal, todos indo juntos em uma viagem," ela disse, com os olhos brilhando.@ Foi uma visão impressionante.@
+br
+` Foi praticamente um monólogo por cerca de uma hora, o que me deixou bem cansado.@
+` E com a permissão da Senpai, eu resolvi ir para casa.
+\
+!w1000
+playstop

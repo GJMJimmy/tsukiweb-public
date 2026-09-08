@@ -1,0 +1,58 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+`[line=3]确实，如果带着头痛去玩，也只会让希耶尔学姐不高兴而已。@
+`「……是、啊……从昨晚开始一整天没休息了。@是有点乱来了」@
+ld l,"tachi/koha_t03",crossfade,400
+`「所以请好好休息。@志贵，一个人走得动吗？」@
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+`「啊[line=2]不行」@
+`　果然，太勉强了。
+\
+ld l,"tachi/koha_t02",crossfade,400
+`「没错，啊，小翡翠！@　带志贵回房间吧」@
+ld r,"tachi/his_t07",crossfade,400
+`「呃[line=2]姐姐，但是[line=2]」@
+ld l,"tachi/koha_t04",crossfade,400
+`「小翡翠！@　志贵现在是病人，难道可以这样扔下人不管吗？」@
+`「啊[line=2]」@
+`「今天我就准许一次。@带志贵回房间去吧」
+\
+ld r,"tachi/his_t21",crossfade,400
+`「……是，对不起，刚才说了任性的话」@
+ld l,"tachi/koha_t01a",crossfade,400
+`「知道就好。@找到药了吗？」@
+ld r,"tachi/his_t23",crossfade,400
+`「……那个，姐姐的房间里药箱太多了，这个是退烧药吗？」
+\
+ld l,"tachi/koha_t05",crossfade,400
+`「啊哈哈，用不着这个。@现在志贵还清醒，用不到镇定剂」@
+ld l,"tachi/koha_t02",crossfade,400
+`「志贵的发烧是因为太疲劳了的缘故，我去配点相关的药就好。@小翡翠，剩下的就交给你了」@
+cl l,lshutter,800
+`　琥珀迅速地向西馆走去[line=2]她的房间在那里。
+\
+ld r,"tachi/his_t20",crossfade,400
+`「那么志贵少爷，请回房间吧」@
+`　说了一声失礼，翡翠让我靠在了她的肩膀上。@
+cl r,crossfade,400
+br
+`　在翡翠的帮助下走上了楼梯。@
+`　路上。@忍受着咚铿咚铿回响着的头痛，近处翡翠害羞的脸还是深深地烙印在了我的脑海里。
+\
+bg #000000,crossfade,800
+!w2000
+play "*1"
+bg "bg/bg_40c",crossfade,800
+br
+`[line=2]最后。@
+`　我躺在床上，喝完了琥珀配的药，拜托她向电影院前的学姐传了话。@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`「……呜」@
+`　头痛并不停息。@
+`　像是作为交换，身体的热度倒是退了。
+\

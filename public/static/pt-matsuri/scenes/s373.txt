@@ -1,0 +1,585 @@
+monocro off
+playstop
+wavestop
+bg #000000,lshutter,400
+!w1500
+playstop
+bg "bg/bg_33d",lshutter,400
+waveloop se_02
+` *arf*[line=3]*arf*[line=3]*arf*[line=4]
+` O suor pinga no chão.@
+` A faca dele ataca todas as partes do meu corpo, mas felizmente não recebi nenhum ferimento fatal.@
+` Estou arfando porque meu corpo se movimenta em uma velocidade que excede o seu limite.
+\
+ld c,"tachi/hal_t02",lshutter,800
+`"Não entendo[line=4]"@
+` …… O inimigo na minha frente suspira aborrecido.@
+`"Por que[line=4]por que não consigo matar um ser humano normal?@ Por que as suas habilidades como assassino são tão altas, Shiki!?"@
+` Vejo o ódio no seu olhar.@
+` Provavelmente está irritado pela resistência inesperada de alguém que deveria ter sido uma presa fácil.
+\
+cl a,crossfade,400
+` A minha respiração ofegante preenche o ambiente.@
+` O meu peito dói.@
+` Embora já tenha visto as suas habilidades de matar nos meus sonhos, as nossas habilidades são naturalmente diferentes.@
+` É difícil demais bloquear os seus ataques e praticamente impossível atacar as suas "linhas".@
+br
+` [line=3]Mas.@
+` Se eu não estivesse tentando evitar a morte mútua nessa situação, poderia matá-lo facilmente.
+\
+`"[line=3]Tudo bem.@ Já chega de brincar.@ Tentei acabar com você usando a mesma arma que está usando, mas eu não deveria ter usado uma arma com a qual não estou acostumado."@
+` O inimigo joga a sua faca no chão.@
+` Slash.@
+` As suas unhas afiadas, e que parecem com as de um animal, brilham na noite.
+\
+ld c,"tachi/hal_t01",crossfade,400
+`"Então vai ser isso mesmo.@ É um saco ter que usar a mesma coisa de oito anos atrás."@
+` O inimigo sorri e relaxa o corpo.@
+br
+` [line=4]Tu, dum.@ O meu coração acelera.@
+br
+` O meu corpo sabe que não vou conseguir me igualar a ele quando ele ficar sério.@
+` É provável que eu nem consiga ver o seu ataque.@
+` A primeira coisa que vou perceber é que vai haver um buraco no meu corpo.
+\
+` [line=4]Tu, dum.@
+br
+` A presença da morte se intensifica.@
+` A sensação da morte iminente está sobre mim.@
+` Mas não estou com medo.@
+` Os limites do meu corpo crescem proporcionalmente com o senso de perigo.
+\
+` Estou arfando.@
+br
+` Sinto uma dor ardente.@
+` É como um arco que foi envergado até o seu limite.@
+` Um impulso homicida que não consigo controlar.@
+` Muito provavelmente[line=4]esse impulso será liberado em um instante e com certeza vai matar o SHIKI.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Adeus, Shiki.@ A Akiha é minha.@ Desta vez, você vai pro inferno[line=3]!"@
+cl a,lcartain,400
+` O corpo do inimigo desaparece.@
+` O arco envergado é liberado.@
+br
+` [line=3]Mas antes disso,
+` surge alguém entre o SHIKI e eu.
+\
+wavestop
+ld c,"tachi/aki_t11c",crossfade,400
+play "*9"
+`"[line=7]"@
+` …… É a Akiha, com os seus cabelos vermelhos esvoaçantes.@
+` Ela fica de frente para o SHIKI, como se fosse me proteger.
+\
+ld c,"tachi/hal_t02",crossfade,400
+`"…… Akiha, o que está fazendo?"@
+` Ela não responde.@
+wave se_01
+br
+` [line=4]As costas dela.@
+` Observo seus cabelos vermelhos esvoaçantes e começo a ficar excitado.
+\
+br
+`"…… Sai da frente, Akiha.@ Eu sou o seu irmão de verdade.@ Não precisa se preocupar mais com esse impostor."@
+` Ela não responde nada.@
+wave se_01
+br
+` [line=4]As costas dela.@
+` Observo seus cabelos vermelhos esvoaçantes e começo a ficar excitado.
+\
+`"…… Akiha, não me deixe triste.@ Você é a única pessoa que importa para mim."@
+ld c,"tachi/aki_t11c",crossfade,400
+`"…… Não.@ Eu não vou sair daqui."@
+` Ela balança a cabeça e rejeita o SHIKI.@
+cl a,crossfade,400
+ld c,"tachi/hal_t02",crossfade,400
+`"…… Akiha!"@
+cl a,crossfade,400
+ld c,"tachi/aki_t11c",crossfade,400
+`"Afaste-se.@ Se pretende matar o Nii-san, eu vou te matar antes.@
+` O papel da chefe da família Tohno é eliminar pessoas como você."
+\
+cl a,crossfade,400
+ld c,"tachi/hal_t05",crossfade,400
+`"O q[line=4]o que está dizendo, Akiha!?@
+` Você esteve me esperando por tanto tempo.@ Eu sempre estive te observando, sempre.@ Eu voltei porque você estava esperando pelo seu irmão.@
+` Eu matei aquele velho e fiquei livre apenas por você.@
+` Então, por que está protegendo esse impostor!?"
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t11c",crossfade,400
+`"…… De fato, eu estava esperando pelo Nii-san.@ Mas ele não é você.@ Você perdeu para o sangue Tohno e se transformou em um assassino.@ Você deveria ter morrido naquele dia, há oito anos."@
+cl a,crossfade,400
+ld c,"tachi/hal_t05",crossfade,400
+`"A[line=3]Akiha, você está dizendo que queria que o seu irmão tivesse morrido?@ Isso não está certo.@ Eu sou o seu único irmão.@ Escute o que estou dizendo, esse cara aí é só um imp[line=3]"
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t11c",crossfade,400
+`"Silêncio……!@ Não vou permitir que continue ofendendo o Nii-san.@ Eu[line=3]eu não vou permitir que mate o Nii-san outra vez……!"@
+cl a,crossfade,400
+ld c,"tachi/hal_t05",crossfade,400
+`"Aki[line=3]ha."@
+` O SHIKI cambaleia de um lado para o outro.
+\
+`"Pare[line=3]ele é só um impostor.@ Não me traia por alguém como ele."@
+`"[line=6]"@
+` Ela não responde.@
+` Ela confronta o SHIKI com uma agressão feroz.
+\
+`"Akiha[line=3]você também vai me trair[line=4]Akiha[line=3]?"@
+` O SHIKI dá um passo para frente.@
+` Ele olha para mim[line=4]e para a Akiha com os olhos fervendo de ódio.
+\
+`"…… Este é o meu último aviso.@ Saia da frente.@ Será que não consegue obedecer a ordem do seu irmão?"@
+cl a,crossfade,400
+ld c,"tachi/aki_t29",crossfade,400
+`"[line=3]Eu não vou sair daqui.@ E você não é o meu Nii-san……!"@
+cl a,crossfade,400
+bg #000000,lshutter,400
+br
+` AHHHHHHH
+br
+` O SHIKI grita enquanto pula.@
+` Não na direção da Akiha, mas sim na minha.
+\
+`"[line=5]"@
+` Só que eu já estava esperando por isso.@
+` Levanto a faca e encaro o meu inimigo.@
+` Mas as unhas do SHIKI são mais rápidas.@
+br
+` O resultado ainda será morte mútua.@
+` Já que é assim, com certeza vou cortar a sua "linha" e despedaçá-lo[line=3]
+\
+playstop
+bg #9c0120,notrans,0
+wait 100
+bg "bg/ima_12b",notrans,0
+wait 100
+bg #000000,notrans,0
+wave se_05
+!w2000
+` [line=3]As unhas do SHIKI não chegam a me alcançar.@
+br
+`"A[line=3]"@
+` A voz sem vida do SHIKI engasga na garganta.@
+`"Aki[line=4]ha[line=3]"@
+` As unhas dele cortaram as costas da Akiha.@
+br
+` O SHIKI não mirou nela.@
+` Foi a Akiha quem entrou na frente.
+\
+`"[line=5]"@
+` Mas eu não senti nada.@
+` A minha mente está congelada.@
+` Sem sentir absolutamente nada, o meu impulso homicida é o que me controla.
+\
+` O corpo da Akiha cai no chão.@
+` Nesse instante.@
+` No instante em que o SHIKI fica paralisado, eu corto a sua "linha".
+\
+bg #9c0120,crossfade,800
+bg "bg/bg_33d",crossfade,400
+` …… O cheiro de sangue.@
+` Eu fico com muita raiva por isso ser a única coisa que ainda sinto.@
+` O resto dos meus sentidos estão paralisados por exaustão depois de todos aqueles movimentos absurdos que fiz.@
+br
+` Neste momento, não sinto nada.
+\
+` A Akiha está na minha frente, coberta de sangue, e o cadáver do SHIKI está bem ao lado dela.@
+` Não sinto nada, apenas permaneço como estou.
+\
+bg #ffffff,crossfade,1500
+!w3000
+bg "bg/bg_33c",bshutter,800
+` As luzes acendem.@
+` Os meus olhos doem e eu volto ao normal.@
+`"[line=6]"@
+` Olho em volta.@
+` Na minha frente há uma trilha de sangue no chão.@
+` Não vejo a Akiha e nem o cadáver do SHIKI.
+\
+`"O qu[line=4]"@
+` A faca continua na minha mão.@
+` Tenho certeza de que não foi um sonho.@
+` A prova está no chão sujo de sangue.@
+`"Akiha[line=4]você me protegeu."@
+` Eu me lembro do fato e na mesma hora fico enojado.@
+` Eu não queria que ela fizesse isso.@
+` Tudo o que eu queria era proteger a minha irmãzinha.@ Por que as coisas acabaram assim[line=3]?
+\
+`"Shiki-sama."@
+` Ouço alguém me chamando por trás.@
+ld c,"tachi/his_t01",crossfade,400
+play "*1"
+`"Eu liguei o gerador de emergência.@ Os ferimentos da Akiha-sama são superficiais, não precisa se preocupar."@
+`"Hisui[line=4]onde você estava?"@
+ld c,"tachi/his_t17",crossfade,400
+`"É como eu já disse.@ Quando a Nee-san e eu chegamos para ajudar, você e a Akiha-sama estavam aqui desse jeito.@
+` …… Tentamos conversar com você de todas as formas, mas você não estava em condições de falar."@
+` …… Quer dizer que simplesmente fiquei aqui paralisado enquanto a Akiha estava no chão machucada?
+\
+ld c,"tachi/his_t01",crossfade,400
+`"A Akiha-sama precisava de tratamento imediato, por isso nós cuidamos dela e depois ligamos a energia elétrica[line=4]deveríamos ter esperado pelas suas ordens?"@
+`"[line=3]Não.@ vocês fizeram a coisa certa.@ Eu estava apenas paralisado, né?"@
+`"Sim.@ Já deve ter passado uma hora desde então, mas você continuou do mesmo jeito."@
+`"…… Hum… Entendo."@
+` A pior coisa que eu poderia ter feito é não ter agido enquanto a Akiha estava machucada no chão.@
+` Além de não protegê-la, pode-se dizer que eu estava agindo contra ela.
+\
+`"Hisui, a Akiha está bem?"@
+`"Sim, o ferimento não foi profundo …… Mas como é algo que não vai se curar rapidamente, deixamos ela descansando em seu quarto."
+\
+ld c,"tachi/his_t17",crossfade,400
+`"[line=3]Shiki-sama, o que aconteceu aqui?@ Quando recobramos a consciência, todas as luzes da mansão estavam apagadas e, aparentemente, eu estava inconsciente no quarto da Nee-san.@
+` Parece que nós duas fomos drogadas.@ Quando chegamos no saguão, encontramos você e a Akiha-sama.@
+` A Nee-san falou que o corte no corpo da Akiha-sama foi feito por um animal enorme, mas isso não faz sent[line=2]"
+\
+`"O quê[line=2]?"@
+` Tem algo errado aqui.@ Essa informação não procede.@
+`"Hisui, o SHIKI não estava aqui!?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, você estava bem na frente da Akiha-sama."@
+`"Não, não estou falando de mim, estou falando do SHI[line=3]"@
+` Eu me forço a parar.@
+` A Hisui não sabe sobre o SHIKI.@
+` Ela não sabe por que a Akiha foi machucada daquele jeito e nem faz ideia de que eu quase fui morto.
+\
+`"…… Hisui, não tinha mais ninguém além da Akiha e eu no saguão……?"@
+` Ela faz um gesto negativo com a cabeça.@
+`"[line=3]Aquele cara[line=3]!"@
+` Ele continua vivo.@
+` Tenho certeza de que cortei a "linha" que vi nos seus ombros, mas será que isso não o matou?@
+` Ou será que os vampiros são mais difíceis de matar do que os humanos?@
+` De toda forma, ele está vivo e fugiu.
+\
+`"…… Não quero saber dele no momento.@ Estou preocupado com a Akiha[line=3]"@
+ld c,"tachi/his_t17",crossfade,400
+`"Espere, por favor, Shiki-sama.@ Você está indo até o quarto da Akiha-sama?"@
+`"É óbvio que sim.@ Preciso conversar com ela e pedir desculpas[line=2]"@
+`"…… A Nee-san está tratando do ferimento dela nesse momento.@ Acredito que a Akiha-sama ficará insatisfeita de vê-lo agora."@
+`"A…… Até pode ser verdade, mas…"
+\
+ld c,"tachi/his_t09",crossfade,400
+`"Por favor, volte para o seu quarto, Shiki-sama.@ Quando terminarmos de tratar dela, e ela perguntar por você, vou buscá-lo imediatamente."@
+cl a,crossfade,400
+` E assim, a Hisui começa a subir as escadas.@
+` Provavelmente deve ter ido para o quarto da Akiha ajudar a Kohaku-san.
+\
+`"…………"@
+` Como sou homem, não posso ajudá-las.@
+` Tudo que posso fazer agora é esperar a Hisui me chamar.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+` [line=4]Vou para o meu quarto e tento me acalmar.@
+br
+` Preciso me acalmar e pensar sobre muitas coisas.@
+` Sobre a Akiha.@
+` Sobre mim mesmo.@
+` Sobre aquele cara, o SHIKI.
+\
+` …… O SHIKI disse que eu fui adotado e tratado como Tohno Shiki no lugar dele.@
+` Não tenho intenção de negar tudo isso.@ Na verdade, é muito convincente.@
+` O motivo pelo qual eu não reconheço esta mansão tão bem assim, o motivo pelo qual o meu quarto não parecia ser um quarto que eu conhecia…@
+` …… O fato de eu estar vivendo com os Arimas e o motivo de ninguém ter ido me visitar quando fiquei no hospital há oito anos.
+\
+` …… Dez anos atrás[line=4]foi a época em que fui adotado e[line=4]os dois anos que se passaram até eu ser vítima daquele acidente.@
+` Eu, a Akiha e o SHIKI fomos criados como irmãos.@
+` O SHIKI falou como se soubesse disso o tempo todo, que eu era um filho adotivo.@
+` Mas e quanto a Akiha?@
+br
+`"Você não é o meu Nii-san[line=5]"@
+br
+` A Akiha falou isso para o SHIKI e se machucou me protegendo.
+\
+` …… Talvez ela não saiba que sou adotado.@
+` E por isso me protegeu.@
+` Ela não faria isso se não achasse que sou o seu irmão de verdade.@
+` Então[line=5]a Akiha deve acreditar que sou seu irmão de sangue.
+\
+wave se_04
+!w1000
+ld c,"tachi/koha_t03",lshutter,800
+`"Shiki-san, posso entrar?"@
+`"Kohaku-san.@ A Akiha está bem agora?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Sim, terminamos de tratar do seu ferimento.@ Ela não vai conseguir andar por algumas semanas, mas não corre risco de morrer."@
+`"Que bom[line=7]estou aliviado."@
+` Suspiro aliviado.@
+` Se o ferimento que ela recebeu me protegendo fosse algo pior, não sei como iria encará-la novamente.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"A Hisui-chan me disse que você queria conversar com a Akiha-sama?"@
+`"…… E ainda quero, mas prefiro não atrapalhar se ela não estiver se sentindo bem, mas caso seja possível eu gostaria muito de conversar com ela agora mesmo."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Tudo bem, pode ir.@ Mas, por favor, não fale de nenhum assunto complicado.@ A Akiha-sama está se esforçando muito e não quero que ela fique mentalmente exausta."
+\
+`"…… Fique tranquila.@ Só quero vê-la e agradecê-la."@
+ld c,"tachi/koha_t03",crossfade,400
+`"Certo.@ Se for só isso não tem problema.@ Bem, vou descansar um pouco.@ Você pode cuidar da Akiha-sama enquanto isso?"@
+cl a,lshutter,800
+` A Kohaku-san sai do quarto cambaleando um pouco.@ Ela deve estar cansada por ter ficado todo esse tempo cuidando da Akiha.
+\
+`"………………"@
+` …… Certo.@ Vou até o quarto da Akiha.
+\
+bg #000000,lcartain,400
+playstop
+bg "bg/bg_46c",lcartain,400
+` Bato na porta.@
+`"Akiha.@ Sou eu.@ Posso entrar?"@
+` Depois de um momento de silêncio.@
+`"…… Sim, entre, por favor, Nii-san."@
+` Ouço sua voz fraquinha.
+\
+bg "bg/bg_37",lshutter,800
+play "*9"
+` Entro no quarto.@
+` Ela se levanta lentamente, aparentemente estava dormindo.
+\
+`"[line=7]"@
+` …… Merda.@
+` Vê-la assim deixa a minha mente em branco.@
+` Já há uma tensão enorme neste quarto e ela agindo dessa forma, tão fraquinha, só piora o meu remorso.@
+br
+`"[line=7]"@
+` Acabamos simplesmente encarando um ao outro em silêncio.
+\
+` ……@
+` …………@
+` …………………@
+` ……………………………… De repente…@
+br
+`"Não vai se sentar, Nii-san?"@
+`"Ah[line=6]sim.@ Eu deveria mesmo me sentar, né?"@
+` Sento em uma cadeira.@
+` Agora estou na mesma altura que ela e a minha mente fica mais em branco ainda.
+\
+bg "event/aki_e04b",lshutter,800
+`"…… Você nunca pergunta sobre nada, não é mesmo, Nii-san?@ Embora eu esteja neste estado, estava preparada para qualquer coisa."@
+` É o que a Akiha diz com uma voz suave.@
+`"…… Pois é.@ Tem um monte de coisas que eu gostaria de saber.@ Mas vou deixar para perguntar depois que você estiver melhor.@ Neste momento, só quero saber como você está."@
+`"Entendi.@ Mas eu quero te perguntar uma coisa, Nii-san.@ Eu fico brava com facilidade quando não entendo algo.@ Por isso não vou conseguir dormir tranquilamente se não ouvir de você."@
+`"…… Vá em frente.@ Vou responder qualquer coisa."
+\
+`"Eu sinto muito.@ Estou escondendo um monte de coisas de você, mas não quero que esconda nada de mim.@
+` …… Sou muito egoísta, não é mesmo?"@
+`"…… Não se preocupe com isso.@ Eu gosto desse seu lado também.@ Pode dizer, o que quer me perguntar, Akiha?"@
+br
+` Ela está tentando me fazer seguir o seu ritmo.@
+` Surpreendendo a mim mesmo, converso gentilmente com ela.
+\
+`"…… Então vou perguntar.@
+` Nii-san, você usou a palavra 'vampiro'.@ Foi algo que a Ciel te ensinou, ou é uma conclusão a qual você chegou sozinho?"@
+`"…… Acho que são ambas as coisas.@ Eu não sei o motivo, mas ando tendo sonhos em que mato as pessoas e sugo o sangue delas."@
+` Por isso pensei que eu fosse um assasino.@ Entretanto, a Ciel-senpai provou que eu estava errado.@
+`"…… Entendi.@ Você estava em sintonia com a mente do SHIKI.@ Por isso que[line=5]você me perguntou aquilo na escola."
+\
+`"O qu[line=5]Akiha, como sabe que estou em sintonia com a mente dele……?"@
+`"Não é bem isso, estava apenas dizendo que essa possibilidade existia.@ Nii-san, talvez você não se lembre, mas o SHIKI é nosso……"@
+`"Eu sei, você ia dizer que ele é nosso irmão, né?@ Eu tinha me esquecido.@ Mas agora me lembro vagamente.@ Sempre que brincávamos no jardim, você sempre nos seguia.@ "Nos seguia" significa que tinha mais de uma pessoa, né?"
+\
+br
+` Quando me lembro da minha infância aparece essa contradição.@
+` Eu não reconhecia esse fato, provavelmente porque aquele velhote me hipnotizou.
+\
+`"………………"@
+` A Akiha não fala nada.@
+` …… Parece que não sabe que sou adotado.@
+` Sendo assim, não quero contar isso agora para perturbar sua mente já fragilizada.@
+` Preciso mentir por enquanto.
+\
+`"…… Nii-san, você quase foi morto pelo SHIKI há oito anos.@ O sangue Tohno do SHIKI não era lá grandes coisas, mas despertou subitamente.@
+` O sangue dos Tohno é um sangue de épocas muito antigas e ele te obriga a dar prioridade aos seus instintos em vez de à razão.@ O sangue Tohno do SHIKI despertou e ele te atacou, já que você estava bem na frente dele no momento."@
+` …… O SHIKI falou isso.@
+` Que essa cicatriz no meu peito não foi por causa de acidente algum, mas sim por causa dele.
+\
+`"Todos na família Tohno têm habilidades diferentes.@ Alguns membros devoram outras pessoas como o SHIKI faz e alguns membros possuem a anormalidade apenas no cérebro, como o nosso pai.@
+` …… O SHIKI te atacou e roubou o seu sangue e a sua vida.@ Ele foi punido pelo nosso pai, mas sobreviveu ao tomar a sua vida."
+\
+`"…… Não entendi.@ Tomar a minha vida……?"@
+`"Nesse caso, eu deveria dizer que é a sua alma.@ Não sei como isso funciona já que não sou o SHIKI.@
+` O SHIKI sobreviveu alimentando-se da sua vida.@ Eu acredito que vocês dois são pessoas diferentes que dependem do mesmo coração para sobreviver.@
+` E por isso vocês entram em sintonia com facilidade.@ …… E se for isso mesmo, acho que você pode entrar em sintonia comigo também, mas ainda há o fato de vocês dois terem sido ótimos amigos."
+\
+`"Pare[line=4]amigo daquele sujeito[line=6]do cara que te machucou?@ Não me transforme em amigo daquilo."@
+`"………………"@
+` A Akiha me observa com uma expressão triste.@
+` …… Seu corpo esbelto.@
+` Sua pele branca.@
+` Seus cabelos negros estão tingidos levemente de vermelho e sua aparência está muito frágil[line=7]
+\
+`"Ah, é mesmo.@ Akiha, o que houve com o seu cabelo?@ Ele estava vermelho e agora voltou normal.@ O que significa isso?"@
+`"…… Eu já te disse.@ É por causa do sangue Tohno.@ O meu corpo não muda como o do SHIKI, mas quando o meu sangue fica agitado, o meu cabelo fica daquela cor (but when my blood gets excited, my hair turns back into its original color).@
+` Agora que estou calma, ele voltou a ficar negro."@
+`"…… Que bom.@ Você fica melhor de cabelo preto.@ Acho que seria muito ruim se o seu cabelo tivesse continuado vermelho."@
+` ……… Não quero vê-la manchada pelo sangue Tohno.
+\
+`"…… Eu também não gosto da cor vermelha.@ Sei que é apenas a cor do meu cabelo, mas isso significa que o meu corpo também mudou e não quero ficar igual ao SHIKI[line=5]"@
+br
+bg "bg/bg_37",lshutter,400
+wave se_05
+` A Akiha cai na cama.@
+`"Akiha[line=6]!?"@
+` Eu a seguro.
+\
+`"Ugh[line=5]ah… Ahh………!!"@
+` Ela está tremendo.@
+` A sua respiração está muito ofegante.@
+` Ela aperta os dentes com dor.@
+` Ela transpira de tal forma que faz parecer que está tentando expulsar a dor do seu corpo.@
+`"Akiha……!@ O que houve?@ O seu ferimento está doendo!?"@
+`"Ah[line=6]ah[line=2]Nii-sa[line=7]"@
+` Ela agarra os lençóis da cama com muita força.@
+`"Eu……!@ Eu vou buscar a Kohaku-san……!"
+\
+`"N-não[line=6]de toda forma… Ninguém pode me ajudar……!"
+\
+` Ela agarra o meu braço, ainda com a respiração ofegante.@
+` Seus dedos esguios.@
+` Suas mãos macias agarram as minhas mãos com muita força.@
+br
+`"Tudo bem[line=4]vou ficar aqui, Akiha."@
+`"[line=7]"@
+` Não consigo ouvi-la direito; sua voz varia muito.
+\
+` Ela entra em um estado incontrolável de espasmos,
+` percebo que o seu cabelo está vermelho de novo.@
+`"Akiha, o seu cabelo[line=6]"@
+`"Está[line=5]tudo[line=4]bem[line=5]isso não vai[line=7]durar[line=7]muito[line=3]"@
+` Ela está com muita dor.@
+` O tempo passa e tudo que posso fazer é segurar a sua mão.
+\
+bg #000000,lshutter,800
+bg "bg/bg_37",lshutter,800
+` …… Depois de muito tempo, finalmente termina.@
+` Tenha certeza de que se passaram apenas alguns minutos, mas pareceu que foram horas.@
+`"[line=4]"@
+` Ela está respirando normalmente agora.@
+` O seu cabelo continua vermelho, mas é um vermelho fraquinho.
+\
+bg "event/aki_e04",lshutter,800
+`"[line=3]Eu sinto muito, me perdoe, fiz você assistir algo muito desagradável."@
+` Ela se senta.@ …… Está bem claro que está forçando muito o seu corpo só de fazer isso.@
+`"…… Não precisa ficar sentada.@ Ainda está doendo, né?@ Não fica se esforçando assim."
+\
+`"Não, eu estou bem.@ As minhas costas não têm nada a ver com isso.@ Esses espamos já viraram rotina na minha vida."@
+br
+` [line=3]As costas dela não têm nada a ver com isso?@ Como assim?@
+br
+`"…… O que quer dizer com 'já viraram uma rotina'?@ Isso é algo normal para você?"@
+`"………………"@
+` Ela não responde.@
+` E isso significa que a resposta é 'sim'.@
+` …… Não posso acreditar.@ Ela sofre esse tipo de coisa o tempo todo[line=4]?
+\
+`"…… Por quê?@ Isso não está certo.@ Isso[line=4]isso não é[line=4]nor… mal…"@
+` Ela também não responde nada.@
+` Apenas faz um gesto afirmativo com a cabeça.
+\
+`"…… É como você disse, eu não sou normal.@ Esses espamos não são como a sua anemia.@ Essa é uma dor que todos aqueles que possuem o sangue Tohno sofrem.@ Quando você não consegue mais suportar essa dor, se transforma em alguém como o SHIKI."@
+`"[line=6]O quê?"@
+`"Eu já te falei, os membros da linhagem dos Tohno são anormais.@ O sangue Tohno dentro de mim é forte.@ À medida que fui crescendo, foi só piorando; fica pior a cada dia que passa.@
+` …… Agora está chegando em um ponto em que não posso fazer mais nada.@ Eu fico assim todas as noites."@
+` A Akiha fala sem parecer que tem raiva do seu próprio sangue.
+\
+` Eu[line=6]entendi o que ela está dizendo, mas, ao mesmo tempo que entendi, não quero aceitar.
+\
+`"…… Como assim?@ Não dá pra entender o que você está dizendo."@
+`"…… Francamente.@ Nii-san, você é muito estúpido."@
+` Ela ri.@
+` Ela sorri, parecendo um pouco incomodada.
+\
+`"O meu corpo usa mais calor do que o de uma pessoa normal.@
+` Portanto, eu não consigo obter energia suficiente usando métodos normais e por isso preciso conseguir esse calor direto de alguém.@
+` …… É como você disse, eu ajo como uma vampira tentando me conter.@ Mas quanto mais eu depender disso, mais anormal vou ficar.@ Estou agindo mais como uma Tohno do que como uma pessoa normal.@ Só que sem isso, não tenho meios para me controlar."
+\
+`"Akiha[line=12]"@
+`"Você entende?@ Eu preciso tomar o calor de algo que está vivo.@ Eu sou uma criatura incompleta.@ Essa é a Tohno Akiha, Nii-san."@
+br
+` [line=6]Não posso dizer nada.@
+` Mas mesmo assim, ainda consigo encontrar palavras.@
+` Não dizer nada nessa situação só vai magoá-la mais ainda.
+\
+`"…… Por isso você estava sugando o sangue da Kohaku-san…"@
+`"Você sabia disso, Nii-san…?@ Que eu tomei o sangue da Kohaku?"@
+`"Sim.@ Desculpe por não dizer nada."@
+` Ela fica corada e abaixa a cabeça.
+\
+`"Só faço isso como um último recurso.@ E eu não preciso tomar sangue especificamente.@ Pode ser calor corporal, pode ser calor mental… Qualquer coisa que tenha calor me dá forças.@ Só que o sangue é o método mais eficiente."@
+`"…… Então você é diferente do SHIKI; você não é uma vampira de verdade."@
+`"…… Exato, não sou como o SHIKI, eu não posso transformar as pessoas em alguém como eu.@ A única coisa que faço é tirar algo das pessoas."@
+` Ela desvia o olhar.@
+` Mas isso é bom.@
+` Porque[line=3]é apenas uma questão de diferença no tipo de alimento que ela precisa.
+\
+`"…… Estou aliviado.@ Você vive falando que é anormal, mas não é.@ Você é diferente do SHIKI, você é um ser humano normal.@
+` Aqueles seus espamos não vão acontecer caso você tome sangue, né?@ Então[line=6]"@
+`"…… É verdade que eles não ocorreriam se eu tomasse um pouco de sangue.@
+` Mas não suporto a ideia de tomar sangue apenas porque sinto vontade.@ Se me acostumar com isso, vou ficar igual ao SHIKI."
+\
+`"…… Não importa o quanto esteja doendo, se for apenas uma dor física, eu posso suportá-la.@
+` O sangue Tohno desperta mais no período da noite e fica inativo de manhã.@
+` Isso já é algo normal para mim.@ Não precisa me olhar com essa cara."@
+`"…… Você é uma idiota.@ Já que está sentindo tanta dor, eu vou ficar muito feliz de te dar a quantidade de sangue que precisar."@
+` Estou sendo sincero.@
+` Se eu soubesse que a Akiha estava sofrendo tanto assim todas as noites, teria dado a ela o meu sangue todos os dias.
+\
+`"Não, eu não quero tomar o sangue de ninguém.@ Não quero tomar o sangue da Kohaku também."
+\
+`"Por quê……?@ Se os seus espamos desaparecerem, não teria problema algum para mim."@
+`"É…… Mas…"@
+` Ela fica em silêncio e depois continua com um tom de vergonha na voz.@
+`"Eu não quero ser chamada de vampira por você.@ Quero permanecer como um ser humano, assim como você."
+\
+`"[line=12]Ah."@
+` Como odeio a minha estupidez!@
+` …… Não pensei em como ela deve se sentir.@
+` Não pensei em como ela deve se sentir mal em relação ao sangue Tohno.@ Sobre o quanto ela pensa em mim.
+\
+`"…… Tem alguma coisa que posso fazer por você, Akiha?"@
+`"Vejamos, humm, por favor, vá para o seu quarto descansar.@ Você também deve estar cansado."@
+`"………… Idiota."@
+br
+` …… É tudo que posso responder.@
+br
+`"Não se preocupe comigo.@ Apenas deite-se.@ Vou ficar aqui até você dormir."@
+`"…… Tudo bem.@ Já que está dizendo, vou fazer isso, Nii-san."
+\
+bg #000000,tcartain,800
+bg "bg/bg_37",tcartain,800
+` …… Ela diz isso e se deita.@
+` O tempo passa e
+` ela cai em um sono muito sereno.@
+` O seu rosto está muito tranquilo.@
+` Eu continuo aqui e fico a observando.
+\
+bg #000000,crossfade,800
+!w3000
+wave se_04
+bg "bg/bg_37",crossfade,800
+`"Shiki-san, está acordado?"@
+` …… Ouço a voz da Kohaku-san.@
+` Olho para o relógio e vejo que já são três horas.
+\
+`"Sim.@ Veio ver a Akiha, Kohaku-san?"@
+`"Isso, gostaria de medir a temperatura dela.@ Eu sinto muito, Shiki-san, mas……"@
+`"Ah, tudo bem, já vou sair."@
+` Eu me levanto da cadeira.@
+` Antes de sair do quarto, olho para a Akiha mais uma vez.@
+`"…… Obrigado… E me desculpe, Akiha."@
+` Susurro essas palavras enquanto saio do quarto.
+\
+bg #000000,lcartain,800
+playstop
+` …… Deixo a Kohaku-san tomando conta da Akiha e vou caminhando pelo corredor.@
+` As coisas deveriam estar tranquilas por agora, mas ainda estou com uma sensação de desconforto.
+\
+` Não me importo que o SHIKI ainda esteja vivo.@
+` Só há uma coisa me preocupando.@
+` …… Eu fiquei observando a Akiha enquanto ela dormia, mas
+` independente do tempo que tenha se passado, o cabelo dela não voltou a ficar preto.
+\
+!w3000

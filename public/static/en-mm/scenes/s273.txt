@@ -1,0 +1,121 @@
+phase "bg/bg_11c",l,cel,09a,9
+bg #000000,notrans,0
+bg "bg/cmo_14",crossfade,400
+` I'm in a dark place.@
+` Eight years since I awoke.@
+` I've been holding my breath in darkness the whole time.
+\
+` I don't even know why.@
+` That has long since been worn away.@
+` Here, there is only darkness.@
+` But, I know there is something I have to do.
+\
+` I don't know why I live.@
+` But I know my purpose.@
+` The chains which held me are all gone.@
+` There is nothing holding me back.@
+!w500
+br
+` All that's left,
+!w500
+br
+` is killing you.
+\
+bg #ffffff,crossfade,1500
+bg "bg/bg_40e",crossfade,400
+br
+` Tweet.@ Tweet tweet.@ Chirp.@ Chirp.@
+br
+` Is the window open?@
+` I can hear the voices of small birds coming from the garden.@
+br
+` A cool breeze brushes my face.@
+` The brilliant sunlight hits my eyes.@
+` A quiet, delicate tinge.@
+br
+` A gentle, morning visit.
+\
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Morning?@
+` It seems I slept until now after Akiha treated me.@
+` My body still feels a little heavy.@
+` But still I feel much better than last night.@
+` Opening my eyes, I get up.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"Ugh…………"@
+` I feel like throwing up instantly.@
+` I still have my anemia from yesterday?@
+` My chest hurts and I feel sick.@
+br
+ld c,"tachi/his_t01",lshutter,400
+`"Please excuse me."@
+` Hisui enters my room.@
+` She must've thought I was still asleep because she seems surprised to see me up.
+\
+`"Good morning.@ It seems you have awakened, Shiki-sama."@
+`"[line=4]"@
+` For some reason,
+` Hisui's reaction annoys me.
+\
+`"Morning.@ Breakfast, right?@ I'll be there soon, so just get out.@ I'm going to change."@
+ld c,"tachi/his_t04",crossfade,400
+`"…… Yes, please excuse me."@
+cl c,lshutter,800
+`"……………"@
+` No matter how poor of a mood I'm in, letting it out on Hisui like that… there's something wrong with me.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"[line=4]"@
+` I feel sick.@
+` Even if I go to school like this, I won't be able to do anything.@
+br
+`"…… Maybe I'll just stay home."@
+` But, I have to go.@
+` If I go to school, I may see Senpai again.
+\
+` …… She may not be the "Senpai" I want[line=3]but she may still be there.@
+br
+`"[line=5]Whew."@
+` Taking a deep breath, I settle down.@
+` Managing to resist my dizziness, I leave my room.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+ld c,"tachi/aki_t16a",lshutter,800
+`"Oh, Nii-san.@ …… Good, morning."@
+` …… As soon as I enter the sitting room, Akiha greets me hollowly.
+\
+`"…… Yeah, morning.@ You're up early Akiha."@
+`"I am always up this early but…… Nii, san?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Are you alright?@ Your face still looks pale.@ If you do not feel well, you can stay home[line=3]"@
+`"No, I'm fine.@ I'm better, so you don't need to worry."@
+` I answer her quickly and pass right by.@
+` I head to the dining room since I'll probably collapse if I don't eat.
+\
+`"See ya.@ Isn't it about time for school?"@
+ld c,"tachi/aki_t17a",crossfade,400
+`"……………… Yes.@ Then, I will be going now."@
+` Speaking hesitantly, she stands up quietly.@
+cl c,lshutter,800
+` Akiha exits the sitting room.@
+` After watching her go out of the corner of my eye, I enter the dining room.
+\
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_23a",lcartain,800
+` I leave the mansion and head for school.@
+` My limbs are still heavy, and with a feeling like I'm in someone else's body, I go down the hill.
+\
+bg "bg/bg_01a",lcartain,800
+` It's seven-forty.@
+` The gate becomes congested with students hurrying to class.@
+br
+`"………………"@
+` I don't think Senpai will come, but is waiting here better than waiting in my classroom?
+\

@@ -1,0 +1,480 @@
+phase "bg/ima_08",l,cel,10a,10
+bg #000000,notrans,0
+bg "bg/bg_40a",bcartain,1500
+play "*2"
+`"[line=6]!"@
+` Eu acordo assustado chutando os lençóis para longe e sentando na cama.@
+br
+`"Mas o qu[line=5]"@
+` Seco o suor que escorre pelo meu rosto.@
+` Devo ter tido um pesadelo.@ Estou encharcado de suor.@
+` Mas não me lembro de ter sido um sonho ruim.@
+` …… Será que foi por causa daquele livro que li?@
+` Acho que teve partes ruins, mas não consigo me lembrar delas.
+\
+` …… Certa vez um médico famoso disse que era normal se esquecer dos sonhos aos poucos, então seria perda de tempo ficar tentando lembrar.@
+br
+` [line=3]Toc toc.@
+br
+` Alguém bate na porta com muita educação.@
+ld c,"tachi/his_t01",lshutter,800
+`"[line=2]Bom dia, Shiki-sama."@
+`"Humm, bom[line=2]dia."@
+` Cumprimento-a de volta e me levanto.@
+` A Hisui coloca o uniforme que traz em mãos em cima da mesa e volta até a porta em silêncio.
+\
+`"Por favor, vá para a sala de jantar quando terminar de se trocar."@
+`"Tá bom.@ Obrigado por sempre fazer isso."@
+` Ela faz um gesto afirmativo com a cabeça e sai do quarto.@
+cl c,lshutter,800
+`"………… Hã?"@
+` Eu me esquecei completamente do que estava pensando depois que vi o rosto dela.@
+`"…… Nossa.@ Eu sempre fui esquecido assim?"@
+` Visto meu uniforme, ainda curioso em relação a isso.
+\
+` A faca está em cima da mesa.@
+` A faca do meu pai adotivo que sempre tive comigo dentro do bolso nos últimos dias.@
+br
+` [line=3]Provavelmente não vou mais usá-la.@
+br
+`"…… É isso mesmo.@ Todos se foram."@
+` A Arcueid e a Ciel-senpai.@
+` A horda de feras chamada Nrvnqsr, e o vampiro conhecido como Roa.@
+` Todos se foram para sempre.
+\
+`"Talvez aquilo que esqueci quando a Hisui chegou tenha sido algo sobre eles."@
+` Não tem mais nada para mim na escola.@
+` A Senpai se foi[line=3]provavelmente não vai ter mais graça ir para lá.@
+` Mas essa é a vida que levei até pouco tempo.@
+` Eu apenas perdi algo que apareceu recentemente.@
+` Ainda tenho tudo que possuía antes desses acontecimentos.
+\
+` [line=5]*suspiro*@
+` Se eu pensar dessa forma, acho que posso suportar a falta da Senpai.@
+` Jamais poderei esquecê-la, mas consigo me virar sem ela.@
+` Tentando me convencer disso, eu abro a porta.@
+br
+` Já que é assim,
+` vou para a escola como sempre fui[line=3]
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_01a",lcartain,1500
+` Faltam dez minutos para as oito horas da manhã.@
+` O portão principal da escola está lotado.@
+` Como hoje é sábado, vejo rostos sorridentes por todos os lados.@
+br
+`"………………"@
+` Avanço por esse mar de alegria como uma nuvem tristonha.@ Não importa o que eu diga para mim mesmo, o fato de que a Senpai se foi ainda pesa muito sobre os meus ombr[line=4]
+\
+`"[line=6]Hein?"@
+` Não consigo acreditar no que vi por um instante, mas não há dúvidas.@
+` A Ciel-senpai está aqui.@
+`"S-Senpai[line=3]!?"@
+` Grito sem pensar direito e ela se vira para mim.@
+ld c,"tachi/cel_t01a",lshutter,400
+`"Ah, Tohno-kun.@ Bom dia."@
+` Ela faz uma mesura.
+\
+`"Bom dia?@ Você não foi embora……!?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Não.@ Eu não iria embora e te abandonaria aqui."@
+` Ela fala com um sorriso radiante.@
+br
+` Como assim?@
+br
+` Embora eu esteja no meio de tanta gente, sinto que estou vermelho como um tomate.
+\
+`"[line=4]Hum, eu[line=2]você[line=2]é que……"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"O que foi?"@
+`"Posso[line=4]interpretar o que você disse literalmente?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Sim, deixo isso por conta da sua imaginação, Tohno-kun."@
+` Seu sorriso é lindo.
+\
+`"[line=8]!"@
+` Perco o fôlego.@
+` Não por causa da tensão dolorosa que estive sentindo esse tempo todo, é por causa da enorme felicidade que comecei a sentir.@
+` Se não tivesse ninguém por perto, eu gritaria "Que Maravilha" com todo o ar dos meus pulmões.
+\
+`"Senpai!"@
+` Pego a mão dela.@
+`"Então, você não vai mais embora?@ Vai ficar para sempre aqui na escola, né!?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Hum, vou ficar velhinha se continuar na escola para sempre.@ Estou no terceiro ano, tenho apenas quatro meses até a formatura."@
+`"Mas você vai continuar aqui, né?@ Não vai mais embora como me falou ontem, não é?"
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Sim.@ Agora eu vou ficar até o fim."@
+`"Que maravilha[line=2]!"@
+` Solto a mão dela e me recomponho.@
+` Fiquei até com vontade de dar várias voltas correndo ao redor da escola.@
+` Estou muito feliz, como se tivesse ganhado na loteria.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+` Não, é muito melhor que ganhar na lorteria.@ Estou com vontade de rir até me acabar.@
+` Mal estou aguentando ficar aqui parado sem fazer nada.@
+ld c,"tachi/cel_t05",crossfade,400
+`"Tohno-kun, anda logo senão vai se atrasar."@
+`"[line=4]Ah.@ É mesmo.@ Até mais tarde, Senpai!@ Vamos nos encontrar no intervalo!"@
+cl c,lshutter,800
+` Acenando para ela, entro na escola.@
+` Sorrindo que nem bobo, vou correndo para a minha classe.
+\
+bg #000000,lcartain,1500
+!w1000
+play "*3"
+bg "bg/bg_06a",crossfade,400
+wave se_03
+br
+` [line=4]O primeiro período acabou.@
+!w2000
+` Tenho dez minutos até a próxima aula.@
+`"[line=3]Muito bem."@
+` No momento em que me levanto para ir à sala da Senpai,
+ld c,"tachi/cel_t03",lshutter,400
+`"Hum?@ Aonde você vai, Tohno-kun?"@
+` [line=3]Ela já chegou aqui.
+\
+`"Lugar nenhum.@ Eu sempre fico te esperando, pensei em ir até a sua classe dessa vez, para variar."@
+ld c,"tachi/cel_t02",crossfade,400
+`"Entendi.@ Isso me deixa muito feliz, mas você não sabe qual é a minha classe, não é mesmo, Tohno-kun?@ É a turma B do terceiro ano, não se esqueça."@
+`"Hummmm[line=3]então você realmente assiste às aulas.@ Muito bem, garota.@ Vejo que faz mais do que tomar chá na sala do seu clube."
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Sim, eu acompanho as aulas[line=2]"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Ei, espera aí, Tohno-kun!@ Era isso que você pensava de mim!?"@
+`"[line=2]Humm."@
+` Não posso negar.
+\
+`"Ah, desculpa.@ Mas você disse que o clube de cerimônia de chá não tinha membros, daí eu pensei que ele nunca tinha existido na realidade."@
+ld c,"tachi/cel_t05",crossfade,400
+` Ela não responde.
+\
+`"…… Hein?@ Quer dizer que eu estava certo?@ É só uma sala de estilo japonês que ninguém estava usando?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"[line=3]Humm.@ Não faço ideia do que você está falando."@
+` A Ciel-senpai vira o olhar para a janela e fica observando a paisagem.
+\
+`"…… Ah, relaxa.@ Nada disso importa, você não é má pessoa.@ Não acho que vá causar qualquer problema, mas seu poder de sugestão pode fazer coisas desse tipo?"@
+`"Eu já falei que não faço ideia do que você está falando."@
+`"[line=5]"@
+` Encaro ela.@
+br
+` O silêncio dura cerca de um minuto.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Você é muito persistente, Tohno-kun."@
+`"Sou nada, estava apenas observando os seus olhos azuis."@
+`"…………"@
+` Ela suspira como se admitisse derrota.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Eu já falei que o poder de sugestão não é tudo isso.@
+` A sugestão está mais para te forçar a desviar a atenção do que para mudar a sua percepção dos arredores.@
+` Sendo assim, mesmo se eu dissesse que você gosta de curry, não funcionaria se você odiasse curry."@
+`"…… Sério?@ Então não é possível forçar alguém a fazer algo contra sua vontade?"
+\
+`"Isso mesmo.@ Bem, há várias formas de fazer você comer curry, Tohno-kun.@
+` Por exemplo, eu não te diria que você ama curry.@ Eu diria que você ia morrer se não comesse curry[line=2]"@
+`"Entendi, eu ia comer mesmo se odiasse.@ …… Dá para fazer qualquer coisa com esse poder, hein!"
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Não é bem assim.@ É difícil prepapar o terreno, pois a resistência seria maior.@
+` Existem muitas pessoas com uma resistência maior à sugestão, então tudo que posso fazer é uma sugestão ao estilo 'não duvide de mim'."@
+` …… Hum, lembro que a Arcueid tinha dito algo desse tipo também.
+\
+`"[line=3]Entendi.@ Falando nisso, Senpai."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Sim?"@
+`"Você ama mesmo curry, né?"@
+ld c,"tachi/cel_t05",crossfade,400
+br
+` Ela apenas sorri sem dizer nada.@
+` Essa expressão torna impossível saber se ela está concordando ou negando.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Está na hora.@ Vamos nos encontrar depois das aulas, mas e quanto aos seus braços, Tohno-kun?@ Eles estão normais?"@
+`"Sim, nem sinto mais dor.@ Graças a você eu posso vir para a escola."@
+` Junto as mãos e agradeço-a.
+\
+`"E quanto à dor de cabeça?@ Parecia estar doendo muito ontem."@
+`"Ela desapareceu.@ Além disso, a dor não aparece enquanto eu estiver com os óculos."@
+`"Entendo.@ Escutar isso me deixa mais calma."@
+cl c,lshutter,800
+` A Ciel-senpai caminha na direção do corredor.
+\
+` De repente, ela para e se vira, como se tivesse esquecido alguma coisa.@
+ld c,"tachi/cel_t07a",lshutter,400
+`"Eu esqueci de perguntar.@ Tohno-kun, você está se sentindo bem?"@
+`"[line=3]Estou ótimo.@ Graças a você todos os meus problemas desapareceram."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Que bom.@ Se acontecer qualquer coisa estranha, não hesite em me contar.@ Aqui está o número do meu telefone."@
+`"[line=5]Hã?"@
+cl c,lshutter,400
+\
+` Ela me entrega um pedaço de papel com o número do seu telefone e saí rapidamente da sala.@
+br
+`"…… O número…… do telefone da Senpai?"@
+` Encaro o papel, surpreso.@
+` Tenho certeza de que ela me deu isso porque está preocupada por causa de ontem à noite, mas……
+\
+`"…… Que sorte, mas as coisas não estão indo bem demais para mim de uma hora para a outra?"@
+` …… É triste eu mesmo estar dizendo isso.@
+` Talvez seja por causa da minha natureza de cidade pequena; não consigo ficar feliz de coração com uma sorte dessas.
+\
+bg #000000,lshutter,1500
+!w1000
+bg "bg/bg_06a",lshutter,1500
+wave se_03
+` Depois que todas as aulas terminaram, a classe se torna o caos de sempre.@
+` Ainda não é meio-dia.@
+` É sempre assim quando as aulas terminam no sábado.@
+` Alguns alunos vão para casa e outros começam a almoçar antes de irem para seus clubes, essa mistura cria um caos enorme em uma sala deste tamanho.@
+br
+` Eu me levanto da cadeira e guardo meus materiais enquanto espero a Senpai…… e então,
+` Eu nem vi ele chegando na escola, mas o Arihiko aparece do nada e com um sorriso muito suspeito.
+\
+ld c,"tachi/ari_t05",lshutter,400
+`"Vamos sair para nos divertir, Tohno."@
+` …… Ele me diz o que quer fazer sem se importar com o que eu quero.
+\
+`"…… Você está indo direto ao ponto hoje, hein.@ Aconteceu algo de ruim com você?"@
+`"Ah, claro que não.@ Preciso de um motivo para querer me divertir com o meu bom amigo Tohno?"@
+br
+` …… Esse negócio está ficando cada vez mais estranho.@
+`"Precisa sim.@ Aposto que você levou um fora e está querendo me usar para esquecer disso.@ Hoje eu vou embora com a Senpai, não tenho tempo para você."
+\
+`"Senpai?@ A Ciel-senpai?"@
+` Ele levanta as sobrancelhas, surpreso.@
+br
+`"…… É…… Arihiko, você se lembra dela……!?"@
+`"Quê?@ Pois eu estou atrás dela, como poderia esquecê-la?"@
+` Ele responde como se isso fosse a coisa mais óbvia do mundo.@
+cl c,crossfade,400
+`"………………"@
+` Entendi.@ Já que a Ciel-Senpai voltou para a escola, tudo voltou a ser como era.
+\
+ld l,"tachi/ari_t02",crossfade,400
+`"Ah, é a Senpai!"@
+` O Arihiko aponta para a porta, todo alegre.@
+cl l,crossfade,400
+ld r,"tachi/cel_t01a",lshutter,400
+`"Desculpe a demora.@ Boa tarde, Inui-kun."@
+` Ela faz uma mesura rápida.@
+`"Vamos indo?@ Ou você prefere ir para a sala de cerimônia de chá?"@
+`"Vamos para a sala de cerimônia de chá.@ Se formos embora agora, vamos ter que nos separar no portão.@ Quero conversar muitas coisas com você, então podemos fazer isso enquanto tomamos chá e[line=3]"
+\
+quakex 2,250
+`"[line=4]!?"@
+` Levo um soco nas costas[line=3]
+ld l,"tachi/ari_t02",crossfade,400
+`"Ei."@
+`"……………… Foi você, Arihiko?"@
+ld l,"tachi/ari_t03",crossfade,400
+`"É, fui eu.@ Não sou muito de falar essas coisas, mas nem eu pude aguentar essa conversinha fiada."@
+` Ele nos observa com olhos tristes.
+\
+ld r,"tachi/cel_t12",crossfade,400
+`"?"@
+` A Ciel-senpai e eu trocamos olhares.
+\
+`"Escuta aqui.@ Hoje é sábado, por que vão desperdiçar esse dia dessa forma?@
+` Tem vários lugares bem mais divertidos do que a sala de cerimônia de chá!"@
+` Ele aponta para a janela com movimentos exagerados.@
+ld r,"tachi/cel_t01a",crossfade,400
+`"…… Exemplos, por favor?"@
+`"Acho que ele está falando fora da escola."@
+` Respondo a pergunta da Ciel-senpai.@
+cl r,crossfade,400
+\
+br
+` E então,
+quakex 2,250
+` o Arihiko me dá outro soco.
+\
+ld l,"tachi/ari_t04",crossfade,400
+`"Tohno, você está querendo fazer a Senpai de boba!?@
+` Hoje é sábado.@ Não é nem meio-dia.@ Nós somos jovens!@ Por que não chama ela para ir se divertir pela cidade!?"@
+`"[line=4]Mph."@
+br
+` Idiota.@
+` É claro que eu pensei nisso.@
+` Mas[line=3]
+\
+ld r,"tachi/cel_t01a",crossfade,400
+`"?"@
+` Olho para a Ciel-senpai despistadamente.@
+` Tenho a sensação de que ela iria preferir ficar quietinha em um parque ao invés de passear pela cidade, por isso fico sem jeito de convidá-la.@
+` Se eu a chamasse acho que ela diria não[line=3]
+\
+ld r,"tachi/cel_t04",crossfade,400
+`"Então tá.@ Que tal irmos os três nos divertir?"@
+`"……… Senpai?"@
+ld r,"tachi/cel_t03",crossfade,400
+`"Qual o problema?@ Não tenho mais nada com o que me preocupar, e aposto que vai ser bem divertido nós três juntos."@
+`"Ah[line=3]tá, se é o que você quer[line=2]vamos fazer isso."@
+ld r,"tachi/cel_t04",crossfade,400
+`"É.@ Inui-kun, você concorda, né?"
+\
+`"[line=7]"@
+` Ele faz um gesto afirmativo com a cabeça.@
+` …… Aposto que ele não esperava por isso.@
+cl l,crossfade,400
+\
+ld r,"tachi/cel_t01a",crossfade,400
+`"Então está decidido.@ Hum, e quanto ao almoço?@ Cada um vai comer em casa ou vamos comer todos juntos?"@
+`"Nós sempre almoçamos na escola, podemos usar o dinheiro do almoço para outra coisa.@ O Arihiko e eu somos pobretões, sabia?"@
+ld l,"tachi/ari_t03",crossfade,400
+`"…… Hum…… Talvez eu consiga extorquir uma grana da minha irmã."@
+br
+` …… Parece que o Arihiko realmente quer almoçar fora com a Ciel-senpai.
+\
+`"[line=3]E você, Senpai?@ Tem algum lugar que está querendo ir?"@
+ld r,"tachi/cel_t11",crossfade,400
+`"Não, eu…… não costumo comer na frente dos outros…"@
+`"Hum, entendi.@ Você come pra caramba, deve ficar caríssimo, né!"@
+ld r,"tachi/cel_t10d",crossfade,400
+`"N[line=2]não é nada disso!@ De onde tirou essa ideia, Tohno-kun!?"@
+br
+` …… Apenas analisei os dados que obtive durante nossos almoços na sala de cerimônia de chá e dei minha opinião pessoal.
+\
+ld r,"tachi/cel_t12",crossfade,400
+`"Bem, então vamos comer fora.@ Tem um lugar perto do cinema chamado Ahnenerbe, fiquei sabendo que lá tem uma ótima torta de morango."@
+ld l,"tachi/ari_t02",crossfade,400
+`"Você está bem informada, Senpai!@ O dono daquele lugar é um mestre da cozinha italiana!"@
+br
+` …… Por que o Arihiko sabe de tantos rumores e informações inúteis?
+\
+ld r,"tachi/cel_t10a",crossfade,400
+`"Então vamos nos encontrar na frente do cinema daqui a meia hora.@ Pode ser, Tohno-kun?"@
+`"[line=3]Hum.@ Você sabe muito bem que eu gasto meia hora só para chegar na minha casa, Senpai."@
+cl r,lshutter,800
+` A Senpai já sumiu no corredor.
+\
+`"Pode chegar atrasado, Tohno.@ Pensando melhor, pode chegar só amanhã que é até melhor pra mim!"@
+cl l,lshutter,400
+` O Arihiko se levanta e saí voando da sala.@
+` …… O negócio todo deu certo de um jeito inesperado.
+\
+`"…… Bem."@
+` Embora seja assim, ainda vou conseguir sair com a Ciel-senpai.@
+` Pego minha pasta e vou correndo para casa.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_33a",lcartain,800
+ld c,"tachi/koha_t02",lshutter,400
+`"Ah?@ Shiki-san, você voltou cedo hoje, hein?"@
+`"Cheguei sim, Kohaku-san.@ Mas estou com pressa, até depois!"
+\
+bg "bg/bg_46a",lcartain,400
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama?@ Você já chegou?"@
+`"E já vou sair novamente, não precisa se preocupar com o meu almoço!"
+\
+bg "bg/bg_40a",lcartain,400
+`"Ótimo, quinze minutos!"@
+` Marco um novo recorde da escola até aqui.@
+` Jogo minha pasta na mesa e troco de roupas.@ Depois disso, saio voando do quarto
+\
+bg "bg/bg_46a",lcartain,400
+` Da mansão até a rua principal é mais longe do que da mansão até a escola.@
+` Não é uma distância que eu consiga percorrer em quinze minutos.@
+` Ela sabe que eu moro no topo da colina e ainda fez um prazo impossível.@
+br
+`"[line=3]Que droga, isso foi maldade."@
+` Resmungo enquanto corro pelas escadas.
+\
+bg #000000,crossfade,400
+bg #9c0120,crossfade,400
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=5]Tum.
+\
+`"[line=6]Hã?"
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=5]Tum.
+\
+` De repente, sem aviso algum.
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=5]Tum.@
+bg #9c0120,crossfade,400
+\
+` Tudo fica vermelho.
+\
+quakey 4,375
+`"[line=3]Shiki-sama!?"@
+` …… Ouço a voz da Hisui.@
+` Escuto passos apressados.@ …… A Hisui parece estar com mais pressa que o normal.@
+`"Shiki-sama, você está bem!?"@
+` Escuto sua voz, mas não a vejo.@
+br
+wave se_01
+` [line=5]Tum.@
+br
+` Que dor de cabeça maldita!
+\
+`"Acalme-se, Hisui-chan.@ Se ele caiu da escada deve ter sofrido só uns arranhões, não precisa chamar o médico.@
+` Mas o corpo dele está muito quente.@ Pode ser que tenha caído por causa da febre, prepare a cama dele."@
+`"Entendido.@ Nee-san, devo avisar a Akiha-sama……"
+\
+`"Se isso não for nada de mais, não precisamos preocupá-la.@ Por favor, pegue alguns remédios que estão no meu quarto."@
+br
+` A Hisui desaparece.@
+` Eu[line=4]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_33a",crossfade,800
+ld c,"tachi/koha_t03",crossfade,800
+waveloop se_02
+`"Já acordou, Shiki-san?"@
+`"…… Kohaku…… san?"@
+`"Sim.@ Você levou um tombo feio nas escadas.@ Felizmente não teve machucados sérios, mas está com febre.@
+` Parece que você ia sair hoje, mas o melhor é ficar em casa e descansar."@
+br
+` A Kohaku-san coloca as mãos nos meus ombros e me ajuda a levantar.
+\
+`"Que nada[line=2]estou ótimo, não preciso descansar.@ Eu vim embora correndo e acabei ficando sem fôlego."@
+ld c,"tachi/koha_t04",crossfade,400
+`"Não diga uma coisa dessas!@ Como pode dizer isso com essa cara pálida e parecendo que vai vomitar a qualquer momento?@
+` O seu médico me mandou ficar atenta à sua saúde.@ Não posso deixar você se arriscar assim."@
+`"Mas eu fiz uma promessa[line=3]"@
+`"Eu posso avisar seus amigos que você não vai poder ir.@ Se continuar insistindo em sair, vou pegar minhas seringas e te colocar para dormir."@
+br
+` …… Ela fica na minha frente, deixando claro que não quer que eu saia.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+br
+` [line=3]Tum.@
+br
+` Minha cabeça está doendo.@
+` Eu[line=3]
+\
+wavestop

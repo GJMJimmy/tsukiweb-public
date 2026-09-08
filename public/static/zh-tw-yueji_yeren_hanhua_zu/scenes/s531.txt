@@ -1,0 +1,30 @@
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*3"
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　翡翠·Good　Ending、您辛苦了。@
+br
+`　每名女主角（只有一人例外）都有兩種結局。@
+`　它們是True　Ending和Good　Ending。@
+`　達到了翡翠的Good　Ending，就必然已經先通過了True　Ending，所以翡翠線已經完美了。
+\
+`　好了，非常感謝您可以玩到這裡。@
+`　我們在“月姬”的其它地方再會吧！
+\
+br
+`「知得留老師。@我也有必須要來傳達一下的事情」@
+br
+`　誒、羅亞博士。@你到這裡來還真是新鮮啊。
+\
+ld l,"tachi/roa_t05a",lshutter,400
+`「這要看有什麼事了。@只說要點的話，在完成翡翠線之後從第一天重新開始，會多出一個選擇項。@
+`　事實上、這就是說月姫中的最終路線終於登場了。@
+`　……我即使不來說這些，去Graphic Mode一看也就一目瞭然了」@
+br
+`　那麼，
+`　請繼續享受月姬帶來的快樂吧。
+\
+bg #000000,crossfade,800
+playstop

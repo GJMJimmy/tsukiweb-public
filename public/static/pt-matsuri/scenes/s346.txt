@@ -1,0 +1,57 @@
+play "*2"
+wavestop
+bg "bg/bg_40a",notrans,0
+` [line=4]É mesmo.@ Ainda estou meio perturbado por causa do pesadelo.@
+` Eu tenho um pouco de tempo, vou usá-lo para descansar.
+\
+bg #000000,tshutter,800
+!w500
+bg "bg/bg_40a",tshutter,800
+` Em algum momento, percebo que dormi demais.
+\
+` Balanço a cabeça, meio grogue, e olho ao meu redor.@
+br
+` E então…
+ld c,"tachi/his_t01",bshutter,400
+`"Shiki-sama."@
+`"Uwaa!"@
+` A Hisui está bem do lado da minha cama e olhando para o meu rosto.
+\
+`"O qu[line=4]o qu[line=4]"@
+`"Shiki-sama, você terá tempo o bastante?@ Já passam das oito horas da manhã."@
+`"[line=4]Hein?"@
+cl c,crossfade,400
+` Olho para o relógio.@
+` É verdade, o ponteiro está na direção do oito.@
+`"Droga, dormi demais……!"@
+` Dou um pulo da cama.@
+` Meio afobado, eu começo a trocar de roupas e percebo que a Hisui ainda está aqui.
+\
+`"Hisui.@ Hum[line=4]me desculpe, mas…"@
+ld c,"tachi/his_t09",crossfade,400
+`"Entendido.@ Por favor, vá para a sala de estar depois de se trocar."@
+cl c,lshutter,400
+` Ela sai do quarto…… Os seus olhos deixam bem claro que ela está chateada.@
+`"…… Mas é claro, né!@ Ela já veio me acordar e eu vou e durmo outra vez……"@
+` Eu troco de roupas rapidamente enquanto reflito sobre as minhas ações.
+\
+bg #000000,lcartain,800
+playstop
+!w1500
+bg "bg/bg_01a",lcartain,400
+` …… Chego na escola.@
+` O primeiro período já começou e não tem ninguém no portão.@
+` Suspiro enquanto entro na escola.
+\
+bg #000000,tcartain,800
+wave se_03
+!w1000
+bg "bg/bg_06a",tshutter,800
+play "*3"
+` [line=4]O quarto período termina.@
+br
+` Chega o intervalo do almoço e a escola fica barulhenta.@
+`"[line=4]Certo."@
+` A Akiha deve estar me esperando no pátio.@
+` …… Bem, se tratando da Akiha, acho que ela deve ter pedido para a Kohaku-san preparar o seu almoço, mas vou comprar alguma coisa por precaução.
+\

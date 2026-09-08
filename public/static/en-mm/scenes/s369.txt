@@ -1,0 +1,23 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=6]It has to be the west wing on the second floor.
+\
+bg #000000,lcartain,400
+bg "bg/bg_40d",tshutter,400
+`"[line=6]"@
+` …… If I say so myself, I've never felt so stupid before in my entire life.@
+` The west wing on the second floor only has my room, the others being mostly empty.@
+` It's on the same floor, but Akiha's room is exactly opposite of mine, in the east wing[line=4]
+\
+bg #000000,lshutter,400
+` I race down the hallway.@
+` The heated air and sense of foreboding seem to stretch over the dark of night like glass.@
+br
+` [line=4]*pant*, *pant*, *pant*.@
+br
+` Breathing heavily, I dash down the hallway.@
+` …… My back hurts.@
+` This terrible feeling in the air gets heavier as I draw near Akiha's room.
+\

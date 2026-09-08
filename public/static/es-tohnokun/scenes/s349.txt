@@ -1,0 +1,27 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"Creo que el uniforme de nuestra escuela le quedaría bien.@ Mira, Akiha ya luce bastante madura, así que no es necesario forzarla a vestir con tanta formalidad[line=4]"@
+ld c,"tachi/aki_t03a",crossfade,400
+br
+`"[line=4]Uh, bueno, tal vez deshacerme de la vieja imagen y probar un cambio podría ser agradable."@
+cl c,crossfade,400
+` …… ¡Peligro!@ ¡Peligro!@
+` Sería mejor no forzarme a decir las cosas tan directamente.
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"¿Hm?@ ¿Eso crees?@ Bueno, Akiha-chan es hermosa, creo que se vería bien incluso con una chaqueta."@
+ld l,"tachi/aki_t04a",crossfade,400
+`"Eso me sorprende.@ ¿No te gusta el uniforme de nuestra escuela, Inui-kun?"@
+`"Hm, no es que no me guste, es sólo que no es lo suficientemente atractivo, o al menos es algo aburrido.@ Cuando tienes chicas del nivel de las de nuestra escuela usando todas el mismo uniforme, comienzan a verse todas iguales y iiiaaaaaaauuu!?"
+\
+quakex 3,100
+ld l,"tachi/cel_t04",crossfade,400
+`"Oh, lo siento Inui-kun.@ Mi mano resbaló."@
+` Ciel-senpai ríe dulcemente mientras le clava su codo al costado de Arihiko en un ángulo pronunciado.@
+br
+` ………… Esto es deprimente.@
+` Tengo que vivir esta estresante situación por al menos diez minutos más…………
+\
+playstop
+bg #000000,tshutter,800

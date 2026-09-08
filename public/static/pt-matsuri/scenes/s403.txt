@@ -1,0 +1,36 @@
+playstop
+wavestop
+bg "bg/bg_40a",notrans,0
+`"…………"@
+` Não sei o que dizer.@
+` Embora eu esteja só um pouco melhor do que ontem, ao menos me sinto vivo agora.@
+` Mas depois de fazer aquilo com a Hisui[line=3]fazer ela engolir tudo aquilo, talvez fosse melhor só ter ficado como estava.
+\
+ld c,"tachi/his_t21",crossfade,400
+`"[line=6]"@
+` Ela ajeita as roupas e se afasta da cama.@
+`"…… Hisui…… Eu…"@
+`"Shiki-sama.@ Por favor, não fale disso para ninguém.@ …… Não quero que comente isso nem comigo."@
+`"[line=3]"@
+` …… Faz todo o sentido, ela deve ter odiado tanto o que fez que não quer ser lembrada em hipótese alguma.@
+`"Shiki-sama.@ Eu fiz isso por iniciativa própria.@ Aja como se nada tivesse acontecido, por favor.@ Caso contrário, não poderei mais servi-lo."
+\
+`"[line=7]"@
+` Não sei como responder.@
+` Não tenho palavras para me desculpar com ela, muito menos para agradecê-la.@
+`"Com licença."@
+cl c,lshutter,800
+`"Ah………"@
+` Ela vai embora.@
+` Fico apenas observando ela sair.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40a",crossfade,800
+` …… São duas horas.@
+` Está na hora do meu "check up", mas provavelmente a Hisui não vai vir.@
+` ………… *suspiro*@
+` Só me resta suspirar.@
+` Como é que as coisas chegaram nesse ponto?@
+` Embora tenha sido ela quem começou tudo, o que deu em mim para segurar a sua cabeça e gozar aquele monte dentro da boca dela?
+\

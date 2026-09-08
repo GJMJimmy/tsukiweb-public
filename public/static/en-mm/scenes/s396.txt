@@ -1,0 +1,208 @@
+playstop
+wavestop
+bg "bg/bg_40a",notrans,0
+` I start to breathe heavily.@
+` …… I won't move.@
+` Right now, if anything…
+` If anything moves right now[line=3]I'd be admitting I'm insane, and it's scaring me.@
+` My brain might have gone numb.@
+` If I stay like this[line=3]I am thinking stupidly that the storm will be over[line=4]
+wave se_01
+bg #000000,crossfade,400
+` My whole world starts to flicker.@
+bg #9c0120,crossfade,400
+` Just like a police car's siren, everything revolves, red and black.@
+wave se_01
+bg #000000,crossfade,800
+`"Ah[line=7]"@
+` My    head    hurts.@
+bg #9c0120,crossfade,800
+`"I'm tired[line=3]I'm just tired, that's all."@
+` I say    so    to myself.@
+wave se_01
+bg #000000,crossfade,1500
+` I collapse    onto the bed.
+\
+!w2000
+bg "bg/bg_40c",crossfade,400
+!w3000
+wave se_04
+`"Shiki-sama, have you returned?"@
+` …… A voice like Hisui's wakes me up.@
+`"Shiki-sama, please excuse me."@
+` …… Someone enters my room.@
+` But, it hurts so much.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` I can't make out who it is.
+\
+`"Please forgive me.@ I did not realize that you had returned, so I was unable to greet you at the door."@
+`"…… No, that's, fine[line=3]leave me alone, please."@
+`"Shiki-sama, are you feeling sick?"@
+`"[line=3]Ah.@ I don't really…"@
+` …… know.@ I can't finish my sentence.@
+`"…… Sorry.@ I feel[line=4]bad.@ I want, to, sleep, is there, any, medicine?"@
+`"Yes, I will go get some."
+\
+!w2000
+ld c,"tachi/his_t18",crossfade,400
+`"Thank you for waiting.@ Please drink this."@
+`"Thank you, as always, and sorry."@
+` With eyes that can't quite see too well, I take the water and the powdered medicine Hisui brought me.@
+` For some reason, there are two kinds of medicine.@
+` …… I don't care, so I put both of them in my mouth and drink the water.@
+ld c,"tachi/his_t29",crossfade,400
+` Apparently, it works fast; I start to feel sleepy already.
+\
+`"…… I'm going to sleep.@ Until tomorrow[line=4]"@
+`"Don't worry, no one's going to bother you, Shiki-sama."@
+` Hisui giggles and I sense her walking away.@
+bg #000000,crossfade,400
+` My consciousness starts to swim.@
+br
+` [line=3]I'll go to sleep.@
+` My head hurts so much right now[line=3]I don't even care if I see those bad dreams or not.
+\
+!w4000
+phase "bg/cmo_14",l,his,07b,7
+!w1000
+bg "bg/bg_25b",tshutter,800
+play "*6"
+` [line=3]I am in the night-shrouded town.@
+br
+` I got here somehow.@
+` Is this a dream?@ If so, why am I here?@
+`"[line=7]"@
+` No, the reason is clear.@
+` I'm out on the streets in the middle of the night because of the killer[line=3]in order to look for the killer and find the killer.
+\
+bg #000000,crossfade,400
+bg "bg/bg_27b",crossfade,400
+` I wander around aimlessly.@
+` I wonder how late it is?@
+br
+bg #000000,crossfade,400
+bg "bg/bg_26a",crossfade,400
+` …… I don't see anyone suspicious.
+\
+br
+bg "bg/bg_12b",crossfade,400
+` …… There's no point in coming here.@
+br
+bg "bg/bg_24c",crossfade,400
+` …… I don't see any sign of the killer.
+\
+bg "bg/bg_25b",crossfade,400
+`"[line=9]"@
+` …… My legs become heavy.@
+` Somehow, everything feels unreal.@
+` The atmosphere is getting weaker.@
+` Time is degrading.@
+` My sense of people around me becomes dreadfully surreal.@
+br
+bg "bg/bg_30b",crossfade,400
+` …… But the sense of smell feels real.@
+` The odor that tugs at my nostrils.@
+` It's floating from over there.
+\
+bg #000000,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",notrans,0
+br
+` [line=4]That was the final stop.@
+br
+` Just like my dream from last night, a dead body of someone I don't know is there in the back alley.
+\
+` It's a woman.@ Her face is scraped from her chin to her nose, and I can't tell now if she is beautiful or not.@
+` The flowing blood is incredibly sticky, and it reminds me more of red jelly than liquid.@
+` From her body, her internal organs bloom out like the legs of an octopus.@ The pink mass of dead organs shines and looks warm.@
+br
+` In front of that corpse,
+` a black, truly black figure is crouched and seems to be crying.
+\
+`""[line=7]Who are you!?""@
+` Our voices overlap each other.@
+` I ask him who he is, and he asks me who I am and turns.@
+`""I am[line=4]""@
+`"A killer." …… But which one of us said that?@
+br
+bg #000000,crossfade,400
+` Well, after all, this is a dream.@
+` So I play around a bit, and with a small amount of hope, I say that I am the killer.
+\
+playstop
+bg "bg/bg_31b",crossfade,400
+waveloop se_02
+`"Eh[line=9]?"@
+` The dark figure tilts his head, puzzled.@
+` The man crouching in front of the dead body looks at me, as if trying to compare the two of us.@
+` During that moment,
+` in that emptiness, I get certain.@
+`"[line=8]Heh."@
+` A laugh escapes my throat.@
+` This man is a fake.@
+` The puzzled figure in front of the corpse, and myself not feeling anything.@
+` If you ask which one of us is more like a killer, the answer is simple.
+\
+`"…… Is it you?"@
+` The man says with trembling voice.@
+` I stifle my laugh and naturally, as if I'm shaking his hand, stick my knife into his chest.@
+br
+` [line=9]Eh?@
+br
+` A voice shows his surprise.@
+` Even though he's about to get killed, he is sluggish enough not to move.@ It makes me sick that this guy was calling himself a killer like that.
+\
+bg "bg/ima_12",lshutter,400
+` I vomit as I slice him.@
+` Like a paper doll, he crumbles to pieces.
+\
+` Like a pouring bucket full of water, his blood paints my body crimson from head to toe.@
+br
+` Drip drip, drip drip.@
+br
+` His blood drips from my hair.
+\
+bg "bg/bg_31b",crossfade,400
+` I let out a deep breath.@
+br
+` Before my eyes is yet another dead body.@
+` In my hands is my steaming knife.@
+` The killer is dead, and the town is now safe like before.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]But that still leaves me.
+\
+` Even if the town returns to normal, I still remain affected.@
+br
+` The killer still exists.@
+br
+`"………… Let's go home."@
+` Yes, I should go home.@
+` Affected as I am, I should go back to the mansion.@
+` Nothing has changed.@
+` I'll live normally as Tohno Shiki, and continue the nightmare at night.
+\
+br
+` [line=3]Really, nothing at all.@
+br
+` It's just a matter that instead of dream becoming a reality, it's just that I won't wake up from my dream anymore.@
+monocro off
+bg "bg/ima_18",crossfade,400
+br
+` I think I heard the faint chuckle of a small girl.@
+` That's just a trivial matter, though.@
+` I have to go to sleep, and wait for my dream to continue again tomorrow night[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,44 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Merci ！@　来上第四节课吧。@
+`　……啊、遗憾哪。@
+`　在战斗中竟然亮出背后，远野君还不够班哪。@
+`　在久经沙场的希耶尔和远野君之间，经验的差距实在太大了哪。@
+`　你的行动应该出乎希耶尔酱的意料之外才行呀。
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`「哼，这样从背后捅刀子还真是你的作风那希耶尔。@这是本色出演喵～？」@
+br
+`　…………。@
+bg "bg/ima_14",lshutter,400
+wave se_12
+br
+`「呜喵！@　刺到了、在镜头外面刺刀了喵—！」@
+br
+`　……………………。@
+bg "bg/ima_13",notrans,0
+br
+`「呜喵哇啊啊啊啊啊啊啊啊啊啊啊啊！」
+\
+bg "bg/bg_06a",lshutter,800
+ld r,"tachi/cel_t20",lshutter,400
+`　烦人化的猫处理完毕。@
+`　真是的，你这种抢别人恋人的家伙一句话都没资格说。@
+`　就这样了，大家请继续欣赏接下来的故事！
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lscroll,800
+`「什么喵—、这种事情我还没来得及做喵」@
+br
+`　就是说，这种事情你以后会做对吧。@
+br
+`「哦呵呵—。@答案就留到以后再揭晓吧」
+\
+cl c,lscroll,800
+playstop

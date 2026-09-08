@@ -1,0 +1,106 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_53b",notrans,0
+`"[line=12]"@
+` I won't fall for that trick.@
+` My body stops working properly when I listen to him.@
+` If there is a way to turn back Akiha, I'll find it myself.@
+` No way[line=3]no way will SHIKI, the one who turned Akiha that way, tell me.
+\
+`"[line=4]Huh!@ I guess you won't fall for it.@ Alright then.@ It's all about killing each other from now on.@
+` Let's see who's the better killer."@
+` SHIKI laughs, still down on the ground.@
+`"[line=12]"@
+` I don't answer and instead walk straight to him.@
+` About ten more meters to go.@
+` I will be able to jump at him within a few seconds.
+\
+`"…… Heh.@ Don't tell me you think you're good just because you cut one of my arms off, Shiki."@
+`"[line=8]"@
+br
+` One meter.
+\
+`"I'll teach you one last thing.@
+` You know everyone in the Tohno family has different powers, right?@ I guess Akiha's good at taking heat from her surroundings.@ Well, it's kind of like that, influencing the outside world, like an interference ability."@
+`"[line=8]"@
+br
+` Two meters.
+\
+`"It seems the ability to interfere with the outside world has been scarce even in the Tohno family.@ You can say that Akiha's ability is rare.@ Since she has such large potential, it doesn't wake up easily.@ Any time I try to wake it up, it's like throwing a rock into the ocean.@
+` The best way to use her full ability is to have someone take over her mind and control her."@
+`"[line=8]"@
+br
+` Three meters.
+\
+`"Well, let's put Akiha off to the side.@ It's more important to talk about me right now."@
+`"[line=8]"@
+br
+` Four meters.
+\
+`"Shiki, I'm like the old man; I have no method to interfere with the outside world.@ The vampire ability isn't my original ability.@ This is more like a bonus that I got later.@ My real ability is 'immortality'."@
+`"[line=8]"@
+br
+` Five meters.
+\
+`"Well, there are limits to my immortality, since I can't heal my own wounds.@ Isn't it weird that this ability is called immortality?@
+` But it's true that dying is hard for me.@ My body changes its context so that it can survive whatever state it is in at that moment.@
+` Humans die when they lose a large portion of their body, right?@ That's because humans need a 'Human shape' with all the necessary parts to live as a human.@ If they can't find a substitute for their lost part, they die.@ Well, it might be more correct to say they cannot continue to live."@
+`"[line=8]"@
+br
+` Six meters.
+\
+`"But in my case, it's the opposite.@
+` I don't supplement my lost parts.@ Instead, I continue to live even if I lose an arm or all my blood.@ My body changes its internal organs so that I can live without the parts I lost.@
+` See, can't you say that this is 'immortality'?@ I would probably live even if my head only remained.@ …… Well, there's no way I'd want to be like that."
+\
+`"[line=8]"@
+` Seven meters.@
+` …… One more step.@
+` Then, I am within reach[line=4]
+\
+`"…… You're about to kill me, huh?@
+` Well, what I want to say is this.@ I have the ability not to influence the outside world, but rather my inner body.@
+` Do you get it?@ Even if it seems like a useless part of your body to you, for me[line=6]"@
+`"[line=8]"@
+br
+` This is it.@
+` Now, I'll[line=5]
+\
+quakey 1,200
+monocro #ff0000
+bg "bg/bg_53b",notrans,0
+br
+br
+br
+br
+br
+` Stab.@
+` Suddenly, from my ankles to my head…
+` I am stabbed by numerous swords that popped out of the ground.
+\
+bg "bg/ima_13",tshutter,400
+`"[line=5]I can change it to an important weapon like this.@
+` You need to pay more attention.@ There's no way I would scatter this much blood for no reason."@
+` …… I… understand.@
+` How stupid of me.@
+` I followed his trail of blood,
+` and walked onto a mountain of needles.
+\
+`"I don't have the ability like you or Akiha to hurt others directly, so I have to rely on little tricks like these.@
+` But if this 'someone' in my head becomes clearer, I might be able to use his ability as a vampire."
+\
+monocro off
+bg #000000,crossfade,800
+`"[line=5]I guess you can't keep yourself together anymore.@
+` Then this is it.@ You can leave the rest to me and you can go back to your grave, Shiki[line=5]"
+\
+br
+` I hear laughter.@
+` It echoes through my head as my mind falls into the darkness[line=5]
+\
+playstop
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,384 @@
+play "*1"
+bg "bg/bg_22b",lcartain,800
+` Ao que tudo indica, a Akiha tentou me visitar algumas vezes quando fui confiado aos Arimas.@
+` Infelizmente nunca pudemos nos encontrar, já que eu tinha que ir ao hospital todos os dias.@ Perdemos completamente o contato depois que a Akiha foi para um colégio interno.@
+` Diferente da Akiha, não tenho contato com a família principal.@
+` É por isso que posso viver livremente assim.@ Minha escola é apenas uma escola qualquer e minha chance de contato com a Akiha era praticamente zero.
+\
+` Meu pai morreu e logo depois fui informado de que deveria voltar.@
+` Para ser franco, não tinha a menor intenção de voltar para a casa dos Tohnos.@
+` Mas a Akiha está lá.
+\
+bg #ffffff,crossfade,800
+bg "event/aki_e01",crossfade,800
+` Quando éramos crianças…
+` A Akiha era uma menina obediente, sempre parecendo assustada, como se sofresse constantemente alguma provação.@ Ela sempre me seguia bem de perto por onde eu ia, com seus passos tamborilando atrás de mim.@
+` Ela era frágil, tinha um longo cabelo preto e usava roupas ocidentais extravagantes, que a faziam parecer uma bonequinha francesa.
+\
+` Estou preocupado por ela estar vivendo sozinha naquela mansão enorme agora que o nosso pai se foi.@ Mas, mais do que qualquer outra coisa[line=4]Sinto-me culpado… por ter empurrado para ela todas as responsabilidades da família Tohno enquanto vivia uma vida livre.
+\
+` Talvez eu ter aceitado voltar para a mansão foi um modo de me desculpar com a Akiha.@
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_32b",crossfade,800
+` A mansão Tohno é desnecessariamente grande.@
+` Cercada por grades de ferro, pode-se dizer que o lote inteiro é anormalmente amplo, sendo tão grande que uma escola inteira caberia dentro.
+\
+` O jardim, cercado de árvores, está mais para uma floresta.@ A mansão está no coração dessa floresta e também existem algumas outras construções separadas dela.@
+` Eu nunca tinha pensado nisso quando era criança, mas agora que já morei em uma casa normal por oito anos, o tamanho excessivo desse lugar me parece um grande absurdo.
+\
+` Os portões não estão trancados.@
+` Apenas os empurro para abri-los e sigo em direção à porta da mansão.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48b",lcartain,800
+` A imponente construção intimida qualquer visitante.@
+` Ao lado da porta de ferro dupla, tem uma campainha inigualável.
+\
+`"…… Muito bem."@
+` Deixando de lado meu nervosismo, aperto a campainha.@
+br
+` Não houve nenhum som agradável do tipo "Ding-dong".@
+br
+` O silêncio opressivo continua por mais alguns segundos.@
+` Então, o som de passos vindo por detrás da porta indica a presença de alguém.
+\
+play "*3"
+`"Estávamos esperando por você."@
+` A porta se abre com um rangido.@
+` Lá dentro, vejo o saguão do qual me lembro e uma garota com um avental.
+\
+bg "bg/bg_33b",lcartain,800
+ld c,"tachi/koha_t03",lshutter,800
+`"Que alívio.@ Você está tão atrasado que eu já estava começando a ficar preocupada, pensando que tinha se perdido.@ Já estava pensando em sair para procurá-lo se você não chegasse até o pôr do sol."@
+` A garota no avental antiquado sorri calorosamente.
+\
+`"Ah, não[line=2]é que… hum…"@
+` Estou tão surpreso por seu modo antiquado de se vestir que não consigo nem formar uma frase direito.@
+` Talvez atribuindo minha hesitação à desconfiança, a garota inclina ligeiramente a cabeça.
+\
+`"Você é o Shiki-sama, né?"@
+`"Hã[line=2]Sim, mas você não precisa me chamar de '-sama'."@
+`"É você mesmo, né?@ Ah, por favor, não me assuste assim!@ Estava começando a pensar que havia cometido outro engano."@
+` Sua atitude é como a de uma mãe repreendendo seu filho.@
+` Mas apesar disso, há um sorriso em seu rosto e isso não acabou com o jeito carinhoso dela.
+\
+` …… Ela usa um avental sobre um quimono;
+` recebe os visitantes e se dirige a alguém como eu com '-sama'.@
+` Isso quer dizer que ela é…
+\
+`"Hum, hã… por acaso você é uma das empregadas daqui?"@
+` A garota responde a minha pergunta com apenas um sorriso.@
+`"Venha, você deve estar cansado.@ Por favor, entre.@ A Akiha-sama está te esperando na sala de estar."@
+cl c,lshutter,400
+` A garota atravessa o saguão rapidamente e se dirige à sala de estar.@
+` Virando-se, como se acabasse de se lembrar de alguma coisa, ela se curva com um sorriso enorme no rosto.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Bem-vindo de volta, Shiki-sama."@
+` A saudação vem acompanhada do seu sorriso radiante.@
+` Não consigo pensar em uma resposta, por isso apenas continuo seguindo-a.
+\
+bg #000000,lcartain,800
+playstop
+!w1000
+bg "bg/bg_34c",lcartain,800
+play "*1"
+` Guiado pela garota, vou para a sala de estar.@
+br
+` [line=3]É como se eu a estivesse vendo pela primeira vez.@
+br
+` Não sei se me esqueci como ela era nesses oito anos ou se foi remodelada desde então.@
+` De qualquer forma, sinto como se fosse a casa de outra pessoa agora e isso é inquietante.@
+` Enquanto olho ao redor da sala de estar, a empregada de avental abaixa a cabeça fazendo uma breve mesura.
+\
+`"Trouxe o Shiki-sama comigo."@
+`"Muito bem.@ Já pode voltar para a cozinha, Kohaku."@
+`"Obrigada."@
+` Parece que o nome dessa empregada é Kohaku.@
+` A Kohaku-san faz uma breve mesura para se despedir e sai da sala de estar.@
+` Restando na sala eu e[line=2]duas garotas que não reconheço.
+\
+ld l,"tachi/aki_t01a",lshutter,400
+ld r,"tachi/his_t01",lshutter,400
+!w1000
+cl a,crossfade,400
+ld c,"tachi/aki_t01a",crossfade,400
+`"Faz muito tempo, Nii-san,"@
+` diz a garota com longos cabelos negros e olhar penetrante.
+\
+` …… Todos os meus pensamentos congelam imediatamente.@
+` Minha mente fica em branco e não consigo pensar em nenhuma resposta para cumprimentá-la.@ Tudo o que consigo fazer é acenar com a cabeça e dizer: "Sim."@
+br
+` …… Não acho que poderia ter agido diferente.@
+` Esta Akiha que está na minha frente não é a Akiha de quem eu me lembro.@ Ela está completamente transformada em uma jovem dama de família nobre.
+\
+`"Nii-san?"@
+` A garota de cabelos negros inclina um pouco a cabeça.@
+`"Ah… hum."@
+` Que patético!@ A única coisa que consigo fazer é soltar esses barulhos estranhos.@
+` Minha mente está dando piruetas enquanto tento reconhecer a garota que está na minha frente como a Akiha, mas parece que ela já me reconhece como o seu irmão.
+\
+`"Você não parece bem.@ Gostaria de descansar antes de conversarmos?"@
+` Ela lança um olhar afiado em minha direção.@
+` …… É só a minha imaginação ou ela parece estar de mau humor?
+\
+`"…… Não, eu estou bem.@ Só estava surpreso pelo tanto que você mudou, Akiha."@
+`"As pessoas mudam em oito anos, Nii-san.@ Estamos em uma idade de mudanças[line=2]ou você acha que permaneceríamos como éramos para sempre?"@
+br
+` …… Por que isso?@ …… Posso sentir os espinhos em suas palavras.
+\
+`"Não, você realmente mudou.@ Ficou muito mais bonita."@
+` Isso não é bajulação.@ É o que realmente acho.@
+br
+` [line=3]E.@
+`"De fato.@ Mas você, por outro lado, não mudou muito."@
+` A Akiha responde friamente, com os olhos fechados.
+\
+`"……"@
+` …… Bem, eu vim preparado para esse tipo de coisa.@
+` É como pensei.@ Parece que ela não tem uma boa opinião sobre mim.
+\
+`"Se você está se sentindo bem, vamos terminar nossa conversa.@ Você ainda tem que ouvir os detalhes sobre o porquê de ter sido chamado de volta, não é mesmo, Nii-san?"@
+`"Sim.@ A única coisa que ouvi foi um repentino: 'Volte para a mansão', embora tenha descoberto que nosso pai havia falecido por uma matéria no jornal."
+\
+` …… Se o presidente de uma grande e importante empresa morre, com certeza ele aparecerá nos jornais financeiros.@
+` A notícia da morte de Tohno Makihisa chegou até seu filho, Tohno Shiki, através de um jornal e após o funeral.@
+` Mesmo que seus parentes não o tenham avisado, o filho deserdado pôde ter acesso à noticia da morte de seu pai simplesmente comprando um jornal de cem ienes.@
+` Pode parecer cínico da minha parte dizer isso, mas o mundo certamente se tornou um lugar conveniente.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Eu sinto muito.@ Foi minha culpa você não ter recebido a notícia sobre o nosso pai."@
+` Ela abaixa a cabeça calmamente.@
+`"Está tudo bem.@ De qualquer maneira, não é como se ele fosse voltar da morte se eu tivesse comparecido ao funeral.@ Não precisa se preocupar."@
+`"…… Eu sinto muito.@ É reconfortante ouvir você dizer isso."
+\
+` A Akiha está com uma expressão séria, mas este não é um assunto com o qual eu me importo muito.@
+` Um funeral é uma cerimônia para aqueles que não conseguem abandonar seus sentimentos pelo falecido conseguirem desapegar-se.@ Para alguém como eu, que cortou esses sentimentos há muito tempo, não há necessidade alguma disso.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Chamá-lo de volta para a mansão foi ideia minha.@ Seria estranho o filho mais velho dos Tohnos ser confiado aos Arimas para sempre.@
+ld c,"tachi/aki_t04a",crossfade,400
+` Agora que nosso pai faleceu, os únicos que possuem o sangue dos Tohnos somos você e eu, Nii-san.@ Não sei o que nosso pai estava pensando quando confiou você aos Arimas, mas ele já não está mais conosco, por isso não há mais necessidade alguma de você continuar vivendo com eles.@ E foi por isso que te chamei de volta."
+\
+`"…… Isso é muito bom, mas estou surpreso que você tenha conseguido convencer os demais membros da família a concordarem.@ Para começo de conversa, não foram eles que tiveram a ideia de me confiar aos Arimas?"
+\
+`"Pode ser que tenha sido assim, mas agora eu sou a chefe da família Tohno.@ Recusei cada uma das propostas dos nossos parentes.@
+ld c,"tachi/aki_t01a",crossfade,400
+` Eu gostaria que você continuasse a viver aqui, Nii-san, mas nós temos várias regras.@ Você deverá evitar viver nesse estilo de vida tão casual que tem vivido até agora."
+\
+`"Ahaha.@ Acho que isso não vai acontecer, Akiha.@ Não tem como eu voltar a ser um cavalheiro bem educado à essa altura.@ E também não quero isso."@
+ld c,"tachi/aki_t02",crossfade,400
+`"Eu não vou pedir mais de você, apenas peço que tente[line=2]ou está dizendo que não é capaz de fazer o que eu já fiz?"@
+` Ela me lança um olhar frio.@
+` É como se estivesse me acertando com o rancor que tem de mim por abandoná-la aqui pelos últimos oito anos.
+\
+`"…… Tudo bem.@ Já entendi.@ Vou fazer o melhor que conseguir."@
+` Ela fica me encarando, como se não acreditasse em mim.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Você não precisa 'tentar', contanto que mostre os resultados."@
+` Sua atitude é digna, suas palavras, impiedosas.
+\
+`"Vamos voltar ao assunto.@ No momento, você e eu somos os únicos vivendo aqui.@ Eu não preciso de muitas pessoas por perto, por isso os dispensei."@
+`"Hã?@ Espera um pouco.@ Você os 'dispensou'?"@
+`"Você não iria querer se encontrar com algum dos nossos parentes a toda hora na mansão, não é mesmo, Nii-san?@ Eu demiti a maioria dos funcionários, mas há o suficiente para nós dois, então não há problema algum."
+\
+`"Espera aí, 'não há problema algum'?@ Você vai ser atacada na nossa reunião de família por ter feito algo assim!"@
+ld c,"tachi/aki_t02",crossfade,400
+`"Ah, por favor, fique quieto.@ É melhor assim do que ter a mansão transbordando de gente, você não se sente mais confortável com apenas nós dois aqui?"@
+` …… Ai.@
+` Bem, é verdade que eu me sinto mais confortável, mas…
+\
+`"Mas você acabou de se tornar a chefe da família.@ Se ficar abusando dos seus poderes como se fosse uma ditadora, nossos parentes não vão ficar quietos.@ Nem mesmo nosso pai contrariava a opinião deles."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"De fato.@ E foi por isso que ele confiou você aos Arimas.@ Eu, por outro lado, os desprezo desde criança.@ E não vou mais aturar os choramingos deles."@
+`"'Não vai mais aturar'… olha, Akiha[line=3]"
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Ahh, já chega!@ Apenas me ouça!@ Você não tem que se preocupar comigo!@ Por favor, preocupe-se apenas com a sua própria vida de agora em diante, Nii-san.@ Sei que vai ser difícil para você em muitos aspectos."@
+` Ela diz meio emburrada, desviando um pouco o olhar.
+\
+`"Muito bem, caso houver alguma coisa que você não entenda, pergunte a ela[line=2]Hisui."@
+cl c,crossfade,400
+ld r,"tachi/his_t01",lshutter,800
+` Ela olha para a garota que está de pé ao seu lado.@
+` Com o rosto inexpressivo, a garota chamada Hisui faz uma mesura para me cumprimentar.@
+ld l,"tachi/aki_t04a",crossfade,400
+`"Esta é a Hisui.@ Ela será a sua empregada pessoal de agora em diante.@ Isso é aceitável para você?"@
+br
+` [line=8]Hã?@
+br
+`"Espera… empregada pessoal?@ Você quer dizer…?"@
+`"Em outras palavras, ela é a sua criada."@
+` A Akiha fala como se fosse algo óbvio.
+\
+` …… Não posso acreditar nisso.@
+` Combinando com o estilo ocidental da casa, a garota com uniforme de empregada permanece ali, como se fosse algo natural de se fazer.@
+`"[line=2]Espera aí.@ Eu não sou criança.@ Não preciso de uma criada.@ Posso cuidar de mim mesmo."@
+`"Isso incluiria cozinhar e lavar suas roupas?"@
+` Ai.@
+` A Akiha é bem incisiva em apontar essas coisas.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"De qualquer forma, agora que você voltou para esta casa, obedecerá à minha administração.@ Não sei como você vivia na casa dos Arimas, mas agora está vivendo na casa dos Tohnos.@ Por favor, aceite tudo que lhe é dado."@
+`"Ai…"@
+` Sem mais argumentos, olho para a Hisui.@
+` Como esperado, ela simplesmente me olha de volta sem expressão alguma, como uma boneca.
+\
+`"Muito bem, Hisui.@ Por favor, mostre ao Nii-san seu quarto."@
+cl a,crossfade,400
+`"Sim senhora."@
+` A Hisui se aproxima de mim como uma sombra, sem presença.
+\
+`"Vou guiá-lo até o seu quarto, Shiki-sama."@
+` Ela caminha em direção ao saguão.@
+` Suspirando, vou atrás dela.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33c",lcartain,800
+` Entramos no saguão.@
+` Essa mansão se divide nas asas leste e oeste, com o saguão no meio.@
+` O saguão é como o corpo de um pássaro, cujo as asas são os corredores que se estendem diagonalmente para o leste e o oeste.@ Cada asa tem mais ou menos o tamanho de um pequeno hospital.@
+` Eu me lembro que a casa foi construída simetricamente, por isso tanto a asa leste quanto a oeste possuem a mesma planta.
+\
+`"O seu quarto é por aqui, Shiki-sama."@
+` Ela sobe um lance de escadas.@
+` Parece que meu quarto fica no segundo andar.@
+br
+` …… Pensando bem, o quarto dos empregados deve ser no primeiro andar da ala oeste, então provavelmente é lá que deve ficar os quartos da Hisui e da Kohaku-san.
+\
+bg "bg/bg_46c",lcartain,800
+` Lá fora, o sol já se pôs.@
+` A garota com o uniforme de empregada caminha pelo corredor longo e mal iluminado, sem dizer uma só palavra.@
+`"…… Aqui parece com o país das maravilhas."@
+` Sem pensar, acabo deixando meus pensamentos escaparem.@
+ld c,"tachi/his_t01",crossfade,400
+`"Você disse alguma coisa, Shiki-sama?"@
+` A Hisui para e olha para mim.
+\
+`"Não é nada, estou apenas conversando comigo mesmo.@ Não se preocupe com isso."@
+`"………"@
+` Depois de me encarar um pouco, ela se curva e começa a andar novamente.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40c",lcartain,800
+`"……"@
+` Acho que isso é o que chamam de 'não ter nada para falar'.@
+` O quarto para onde a Hisui me trouxe, não foi feito para um mero estudante do ensino médio viver.
+\
+`"…… Esse é o meu quarto?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim.@ Se estiver insatisfeito, posso providenciar um quarto diferente."@
+`"Não, não tem como eu estar insatisfeito com ele.@ É que[line=2]"@
+br
+` É que ele é um pouco[line=2]não, ele é muito extravagante para mim.@
+br
+`"Shiki-sama?"@
+`"[line=3]Está ótimo.@ Vou usar esse quarto com prazer."
+\
+`"Esse quarto não é tocado desde oito anos atrás, por isso acredito que você não irá encontrar nada insatisfatório nele."@
+`"[line=2]?"@
+br
+` Foi estranho o jeito que ela disse isso.@
+` É como se estivesse insinuando que este era o meu antigo quarto.@
+`"…… Ei.@ Por acaso este é o meu antigo quarto?"@
+ld c,"tachi/his_t08",crossfade,400
+`"É o que me foi dito.@ Estou enganada?"@
+` Ela inclina a cabeça para o lado.@
+cl c,crossfade,400
+` …… Estou aliviado.@
+` Parece que essa garota consegue expressar alguma emoção.
+\
+`"…… Bem, pode ser, agora que você mencionou.@ Eu me lembro vagamente, mas deve ser esse quarto mesmo."@
+br
+` Não consigo sentir nenhuma familiaridade neste lugar, mas acho que é o que acontece quando não se volta a um lugar por oito anos.@
+br
+`"Não consigo me sentir à vontade aqui.@ Eu morava em um quarto de seis metros e meio até hoje de manhã.@ É como se eu estivesse ficando em um hotel cinco estrelas."@
+ld c,"tachi/his_t01",crossfade,400
+`"Entendo como se sente, mas por favor, tente se acostumar.@ De hoje em diante, você é o filho mais velho da mansão Tohno, Shiki-sama."
+\
+`"Você está certa.@ Vou fazer o melhor que conseguir para pelo menos parecer que estou à vontade."@
+` Com um "bam", largo minha pasta sobre a mesa e estico as costas.@
+br
+` [line=3]Estou um pouco estressado com tudo que aconteceu até agora, mas acho que não tenho escolha a não ser me adaptar.
+\
+`"Shiki-sama, toda a sua bagagem foi trazida para cá.@ Há mais alguma coisa que precise?"@
+`"[line=3]Não, não preciso de mais nada.@ Por que a pergunta?"@
+`"…… É que nos foi entregue muito pouco.@ Se houver qualquer coisa que você necessite, posso providenciar.@ Por favor, não hesite em pedir."
+\
+`"…… Certo.@ Não preciso de mais nada no momento.@ Eu não tinha muita bagagem mesmo.@ Minha coisas se resumem a essa pasta, esses óculos e…"@
+br
+` Os livros dentro da minha pasta e aquela fita de cabelo branca de uma proprietária não identificada.@ É só isso[line=4]
+\
+`"Enfim, você não precisa se preocupar com minha bagagem.@ Esse quarto extravagante é mais que o suficiente para mim."@
+`"…… Entendido.@ Pois bem, eu devo vir chamá-lo em uma hora."@
+`"Em uma hora?@ Para o jantar?"@
+`"Sim.@ Por favor, descanse até lá."@
+br
+` Como esperado, a Hisui diz tudo isso sem qualquer expressão no rosto.@
+` …… Mas mesmo que ela me diga para descansar, não vai ser tão fácil fazer isso nesse lugar.
+\
+` O relógio marca seis horas da tarde.@
+` Normalmente, eu estaria assistindo televisão na sala a essa hora, mas estou começando a duvidar que exista alguma televisão nesta mansão.
+\
+`"Hisui.@ Sei que é algo bobo de se perguntar, mas tem alguma televisão nesta mansão?"@
+`"Televisão…?"@
+` Ela aperta os olhos levemente.@
+` …… Sei que fui eu quem perguntou, mas realmente é uma pergunta idiota.@
+` Sinto que tem algo de errado em perguntar sobre a presença de uma televisão em uma mansão luxuosa como essa.
+\
+` A Hisui faz uma rara expressão de que está incomodada e olha para o nada.@
+ld c,"tachi/his_t08",crossfade,400
+`"…… Não há nenhuma televisão na sala de estar.@ Alguns visitantes fizeram uso de uma, mas quando partiram, eles a levaram de volta, então acredito que não haja nenhuma restante."
+\
+`"Espera um pouco.@ Visitantes?@ Quem?@ Por quanto tempo?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Parentes.@ O filho mais velho do Kugamine-sama, de uma ramificação da familia.@ A terceira filha do Touzaki-sama acompanhada do noivo e o filho mais velho do Kishima-sama que vieram para ficar por cerca de três anos."@
+`"…… Três anos?@ Hisui, esses tipos são chamados de aproveitadores e não de visitantes."@
+` Ela não responde.@
+` Não importa que tipo de pessoa esses parasitas eram, parece que as empregadas não podem falar nada ruim sobre eles.
+\
+` Bem, de qualquer forma, parece que esses parentes trouxeram e levaram de volta suas próprias bagagens.@
+` Meu pai odiava os produtos da cultura moderna, dizia que eram todos vulgares.@ Aposto que ele nunca assistiu televisão em toda a sua vida.@ A Akiha, que foi educada por ele nesses últimos oito anos, provavelmente deve ser igual.
+\
+`"[line=2]Bem, não vou morrer por não assistir televisão."@
+` A Hisui está em silêncio.@
+` …… Ela é um exemplo perfeito de empregada, não diz nada a menos que ela seja perguntada diretamente.@
+` Isso é meio deprimente.@
+` Eu quero fazer esse rosto sem expressão se tranformar em um sorriso, mas isso parece impossível com apenas um pouco de esforço.
+\
+`"Ah, tinha uma biblioteca no primeiro andar da ala oeste, né?@ Talvez eu vá lá procurar algo para ler quando tiver algum tempo livre."@
+` Ela não responde.@
+` Apenas permanece em pé na entrada.@ Eu nem mesmo consigo dizer para onde ela está olhando.
+\
+`"[line=3]Hisui?"@
+` Ela não diz uma palavra.@
+` De repente, ela olha diretamente para mim.@
+br
+`"Acredito que tenha uma no quarto da Nee-san."@
+br
+`"Hã?"@
+` Não tenho ideia do que ela está falando.@
+`"…… Hum… tem uma o quê?"@
+`"Uma televisão.@ Eu me lembro de ter visto uma no quarto da Nee-san."@
+` Ela fala como se lembrasse sobre algo de muitos anos atrás.
+\
+`"Espera aí.@ Nee-san?@ Não me diga que você está falando sobre a Kohaku-san?"@
+`"Sim.@ No momento, as únicas pessoas que trabalham nesta mansão somos a Nee-san e eu."@
+` Agora que ela mencionou isso, elas realmente se parecem.@ Eu simplesmente não conseguia associá-las como irmãs porque a Kohaku-san está sempre sorrindo tão calorosamente e a Hisui está sempre inexpressiva.@
+`"Entendo.@ A Kohaku-san realmente parece o tipo de pessoa que assistiria aqueles programas de variedades."@
+` Mas eu me recuso a ir ao quarto da Kohaku-san para pedir: "Me deixe assistir a sua televisão."
+\
+`"Desculpe, esqueça que perguntei sobre isso.@ Afinal de contas, vou morar aqui a partir de agora, então tenho que seguir as regras da mansão."@
+` Só Deus sabe que tipo de comentário cínico vou receber da Akiha se começar a assistir televisão.@
+` Parece que, a partir de agora, vou levar uma vida de estudante adequada para um membro da família Tohno.
+\
+`"Muito bem.@ Vou ficar no meu quarto até o jantar, me chame quando estiver na hora.@ Você deve ter outras coisas para fazer, né, Hisui?"@
+` Ela concorda acenando com a cabeça e se vira.@
+cl c,lshutter,800
+` Abre a porta silenciosamente e sai do quarto.
+\
+bg #000000,crossfade,800
+playstop
+!w1000

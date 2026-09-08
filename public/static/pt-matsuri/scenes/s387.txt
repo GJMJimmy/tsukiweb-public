@@ -1,0 +1,55 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Vou ver a Hisui.@
+br
+`"…… Mas ela não me deixa ajudá-la, e não quero atrapalhar também……"@
+` …… O que devo fazer?@
+` Não quero ser um incômodo.@
+` Mas, por algum motivo, quero vê-la.
+\
+`"…… Ah."@
+` Isso me faz lembrar.@ Ainda preciso devolver para ela a fita de cabelo.@
+` A Hisui disse que se esqueceu, mas a fita é dela.@ Não faz sentido eu ficar com isso, tenho que devolver.
+\
+bg #000000,lshutter,800
+bg "bg/bg_41",lshutter,800
+play "*8"
+` Ela está organizando as coisas no antigo quarto do meu pai.@
+` Embora não seja mais usado, o quarto dele continua sendo limpo como antes.
+\
+`"Hisui, posso te alugar rapidinho?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Ah[line=3]Shiki-sama.@ Claro, pois não?"@
+`"Sei que já conversamos sobre isso antes, mas acho que eu deveria te devolver isto aqui."@
+br
+` Pego a fita de cabelo que a Hisui me deu oito anos atrás.@
+br
+ld c,"tachi/his_t04",crossfade,400
+`"………………"@
+`"Você realmente não a quer de volta……?"@
+ld c,"tachi/his_t17",crossfade,400
+`"……Tudo bem, vou aceitar.@ Afinal de contas, ela é importante para mim."@
+` Ela pega a fita e fica quieta.
+\
+`"…………"@
+` Não consigo mais falar.@
+` A Hisui que está na minha frente é muito parecida com a de oito anos atrás, distante de todos ao seu redor.@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, era só isso?"@
+` Não consigo falar nada, então apenas faço um gesto afirmativo com a cabeça.@
+`"Nesse caso, por favor, pode voltar para o seu quarto.@ Ainda tenho muito serviço para fazer."@
+cl c,lshutter,400
+` Ela vai para o meio do quarto.
+\
+`"…… Hisui."@
+` Aquela fita de cabelo tinha algum significado especial?@
+` Esse período de oito anos.@ Ainda que tenha sido tarde demais, acho que finalmente cumpri a minha promessa.@
+br
+`"…… Sendo assim, vou para o meu quarto.@ Até mais, Hisui."@
+br
+` E assim, saio do quarto do meu pai.
+\
+bg #000000,crossfade,800
+playstop
+!w1500

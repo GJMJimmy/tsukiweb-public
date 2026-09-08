@@ -1,0 +1,81 @@
+playstop
+wavestop
+monocro #ff0000
+bg "bg/bg_54d",notrans,0
+`"[line=9]"@
+` Suelto una profunda respiración.@
+br
+wavestop
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_54d",crossfade,400
+` Tranquilizándome,
+` logro retomar el control sobre mi respiración.@
+` Mi visión pintada de rojo ahora vuelve a la normalidad.@
+` Otra respiración tranquilizadora.@
+` No voy a creer lo que SHIKI dice.@
+` Yo nunca mataría a Akiha, y de ninguna manera mataría a alguien sólo porque no es humano.
+\
+bg #000000,crossfade,400
+monocro #ff0000
+bg "event/aki_e03",crossfade,400
+monocro off
+bg "bg/bg_54d",crossfade,400
+`"……………"@
+` Es diferente.@
+` Es diferente de aquel entonces.@
+` Soy diferente a SHIKI.@
+` Puedo controlar mis acciones a través de mi propia fuerza de voluntad.@
+` Es sólo que, el olor de la sangre es tan fuerte.@
+` Me hace recordar el pasado, y eso me asusta.
+\
+`"Mierd[line=6]a"@
+` Mi mano derecha aún está sosteniendo el cuchillo.@
+` Con mi mano izquierda, limpio la sangre en mi pecho.@
+br
+` [line=3]Con eso, el olor de la sangre desaparece un poco.@
+br
+`"[line=5]SHIKI"@
+` En la oscuridad, el rastro de sangre parece alumbrar el camino.@
+` Vuelvo a respirar profundamente, y entonces voy tras SHIKI.
+\
+bg #000000,lshutter,800
+bg "bg/bg_53b",lshutter,800
+play "*6"
+` Ésta es la última parada.
+\
+`"[line=8]"@
+` …… ¿Es sólo una coincidencia o es intencional?@
+` Hace ocho años.@
+` Pelearemos a muerte en el lugar donde SHIKI casi me asesinó.
+\
+`"…… Hmph, en verdad viniste por mí."@
+` SHIKI está sentado en el borde del claro.@
+` Incluso eso es igual a aquel entonces.@
+`"……………"@
+` Me aferro a mi cuchillo y camino hacia él.@
+` Siento algo viscoso bajo mis pies.@
+` La sangre de SHIKI no ha dejado de brotar; toda la sangre que fluye proviene de él.@
+` Splash, splash.@
+` Su sangre hace ruido mientras camino hacia él.@
+` …… Es asombroso que esté vivo después de perder tanta sangre.@
+` Es como un charco gigante sobre el suelo.
+\
+wave se_01
+`"Ku……………"@
+` Pero, yo también estoy en mí límite.@
+` Estaré en desventaja si sigo esperando.@
+` Ésta es mi única oportunidad de matarlo, mientras está herido.@
+`"¡¡[line=8]!!"@
+` Doy un paso hacia adelante.@
+`"[line=5]¡Espera!@ Hay algo que aún no te he dicho.@ ¿Puedes esperar ahí un momento, Shiki?"@
+`"[line=11]"
+\
+`"No me mires así.@ Esto también debería beneficiarte.@ Porque se trata de Akiha.@ Podría haber una manera de devolverla a la normalidad."@
+`"Qué[line=7]"
+\
+` En ese momento,
+` lo que aún funciona de mi razón detiene mis pies.@
+` Pero, mi cuerpo me está diciendo que vaya a matarlo ahora mismo.@
+` Yo[line=6]
+\

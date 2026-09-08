@@ -1,0 +1,70 @@
+monocro off
+wavestop
+bg "bg/bg_56",notrans,0
+play "*3"
+` [line=4]Humm.@
+br
+` Provavelmente nunca mais vou ter uma oportunidade de conversar com a Arcueid em um restaurante fast food em plena luz do dia assim, por isso não vou perguntar sobre vampiros, vou perguntar sobre algo mais normal.
+\
+`"Arcueid, você poderia me dizer um pouco sobre seus interesses, sobre o seu passado, e suas três medidas?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Você quer saber sobre isso?@ Você realmente pergunta coisas estranhas, Shiki."@
+`"Não é estranho.@ Não sei nada sobre você, é normal querer saber."
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ah, acho que me sinto da mesma maneira[line=4]nesse caso, não me importo de responder."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Mas, interesses e passado… não tenho nenhum dos dois.@ Também nunca medi meu corpo, por isso não posso te dizer quais são minhas três medidas.@ Nunca registrei minha idade ou minha altura como vocês fazem."@
+`"Como assim?@ Você nunca quis saber?"
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Não, não é bem assim, mas é que isso nunca foi algo que tive como prioridade.@ Tudo o que preciso é a habilidade para caçar os Apóstolos da Morte…… os vampiros."@
+`"Mas antes de você vir para esta cidade aconteceram outras coisas, né?@ Eu quero ouvir sobre essas coisas."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Antes de vir aqui…… humm, provavelmente foi há cerca de oito anos.@
+` Naquela época, eu não estava neste país, mas em um outro país caçando um vampiro.@
+` Um vampiro fez seu covil em uma pequena vila rural francesa, e essa vila se tornou uma cidade fantasma.@ Depois de dois dias, encontrei a 'inimiga' e lidei com a mulher, Apóstolo da Morte, que controlava a cidade[line=4]"@
+cl c,crossfade,400
+` Como se estivesse lembrando de algo horrível, ela fecha os olhos e corta as lembranças.
+\
+`"Oito anos atrás?@ Mas e dessa época até hoje o que você esteve fazendo?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Simplesmente voltei para o meu castelo e adormeci.@ Meu dever é caçar os Apóstolos da Morte.@ Não tenho nenhum outro propósito para existir, por isso até que outro Apóstolo da Morte apareça, não tenho nada para fazer a não ser continuar dormindo, entendeu?"@
+`"O qu[line=6]"@
+` Continuar dormindo?@ Ela quis dizer literalmente?@
+` Não é possível[line=4]
+\
+`"…… Espera um pouco.@ Um castelo, você quer dizer um castelo de verdade?@ Estou com dificuldades para acreditar, não me diga que a sua casa é como o castelo da Cinderela…!?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Castelo da Cinderela?"@
+` A Arcueid inclina a cabeça demonstrando que não está entendendo.
+\
+`"Hum[line=4]não, essa não foi a pergunta certa.@ Hum, quer dizer que[line=4]você é uma[line=4]hum…… princesa?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Sim, é o que parece.@ Há muito tempo me disseram para não cortar meu cabelo e para agir mais como realeza."@
+`"[line=8]"@
+` …… Estou sem palavras.@
+` Pensando bem, o Nrvnqsr sempre chamou ela de "princesa".@
+` Mas mesmo assim[line=4]
+\
+`"Uma princesa de verdade?"@
+` Dou uma boa olhada na Arcueid.@
+` Ela é bonita o suficiente para tirar o fôlego, mas uma pessoa tão indisciplinada ser uma princesa?@ Ela não é bem o que me vem à mente quando penso em uma princesa.
+\
+`"…… Bem, pelo menos você é tão egoísta quanto uma princesa."@
+` Solto um suspiro profundo.@
+ld c,"tachi/ark_t16",crossfade,400
+`"Escuta aqui!@ Só disse isso porque você perguntou, então não responda desse jeito!"@
+` Sua Alteza Real me encara.@
+cl c,crossfade,400
+` …… Ela não parece pensar em si mesma como uma princesa também, então acho que é melhor esquecer sobre isso.
+\
+bg #000000,lshutter,800
+bg "bg/bg_56",lshutter,800
+` Ainda brava, ela volta a comer o seu hambúrguer.@
+` Depois que ela terminou de comer e se acalmou, nós decidimos ir para outro lugar.
+\
+bg #000000,lcartain,800
+!w1000
+playstop

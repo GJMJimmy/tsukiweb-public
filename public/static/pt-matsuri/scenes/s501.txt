@@ -1,0 +1,189 @@
+playstop
+waveloop se_02
+bg "event/aki_e05a",notrans,0
+` *arf* *arf* *arf*
+br
+` Não consigo respirar direito.@
+` Os olhos da Senpai nem parecem interessados na minha morte.@
+` A sua adaga está pronta para perfurar o meu coração.@
+` Estou em uma situação em que posso ser morto em menos de um segundo.
+\
+`  *arf* *arf* *arf* *arf*
+br
+`"Que estranho!@ Você matou tantas pessoas, mas está com medo da própria morte?"@
+` A sua voz está cheia de desgosoto.@
+` Os seus olhos cheios de desprezo.@
+br
+` A sua adaga está pronta para me matar.
+\
+bg "bg/ima_13b",notrans,0
+` Eu vou ser morto.@
+` Eu vou ser morto.@
+` Eu vou ser morto.@
+` Eu vou ser morto.@
+` EU VOU ser morto.@
+` EU VOU SER MORTO.@
+`                 Então.@
+monocro #ff0000
+bg "bg/ima_13b",notrans,0
+` Se eu matar.@
+` Se eu matar.@
+` Se eu matar.@
+` Se eu matar.@
+` SE EU matar.@
+` SE EU MATAR.@
+`                 Vai ficar tudo bem?
+\
+monocro off
+bg "bg/bg_10f",notrans,0
+`"[line=6]Ha[line=6]ha, ah."@
+br
+` Eu.@
+br
+`"Adeus.@ Por favor, morra aqui, Tohno-kun."@
+br
+` Mal consigo.@
+br
+`"[line=4]Haha[line=4]a[line=4]ha, ha[line=4]"@
+br
+` Respirar.
+\
+bg #000000,notrans,0
+!w500
+wave se_13
+bg "bg/ima_12b",notrans,0
+` Eu fui mais rápido.@
+` Antes que ela possa enfiar a sua adaga em mim, a minha faca percorre a 'linha' no seu pescoço.@
+br
+`"A[line=8]"@
+br
+` Qual de nós dois disse isso?@
+` Ouço o som de uma cabeça atingindo o chão e o som de borbulhos.@ O pescoço, "pescoço", / Rosto?@ / Ela rola, rola, rola e rola.
+\
+monocro #ff0000
+bg "bg/ima_13b",tshutter,400
+play "*4"
+`"Ah[line=6]hein?"@
+br
+` Que estranho.
+\
+` Era pra ter sido ao mesmo tempo.@ Mas eu estou vivo.@ A cabeça da Senpai[line=2]A CABEÇA[line=2]está rolando, rolando e rolando.
+\
+`"Haha[line=4]a!"@
+br
+` Ou seja.@
+` Desde o princípio…
+` A Senpai nunca… Teve a intenção… De me matar.@
+br
+`"A, haa, a, haahaahaahaa, haha!"@
+br
+` A minha garganta parece travada.@
+` O corpo dela está tão vermelho.@
+` O corredor fica vermelho.
+\
+` A tinta vermelha cobre tudo.
+\
+bg "bg/bg_10f",bshutter,400
+`"Haha[line=4]"@
+` Quando alguém é decapitado, parece que o corpo ganha uma nova função.@
+` Esguicho.@
+` É como uma mangueira esguichando sangue para todos os lados.@
+br
+`"Ha, haha[line=6]ha."@
+br
+` O meu corpo ficou completamente vermelho.@
+` Não foi apenas a minha faca, estou sujo de sangue da cabeça aos pés.
+\
+`"[line=4]Como assim?@ Isso não foi nada."@
+br
+` Realmente não foi nada.@
+` Achei que seria bem pior, mas estou apenas com uma sensação oscilante.@
+br
+`"Se é só isso… Os meus sonhos eram mais…"@
+br
+` Vívidos e reais.
+\
+` Eu me levanto e começo a caminhar.@
+` Os meus pés espalham o sangue a cada passo.@
+` Na minha frente está a cabeça da mulher chamada Ciel.@ Os seus olhos parecem me encarar.@
+br
+`"Como você é idiota, Senpai.@ Não sei que confiança toda era essa que você tinha, mas não existe nada que não possa morrer."@
+br
+` Portanto, o erro foi seu.@
+` Erro.@
+` Erro.@
+` Erro.@
+` Erro.@
+`                 Não.
+\
+br
+br
+br
+br
+br
+br
+br
+` Tudo está errado.
+\
+` A ilusão acabou.@
+` Emobra eu tenha negado desesperadamente até agora, isso confirma tudo.@
+` Sou apenas um assassino.@
+` Com as minhas próprias mãos eu destruí o que não deve ser destruído.@ As bases da minha existência estão desmoronando.@
+br
+`"Kk[line=4]mas como assim, Yumizuka?@ É exatamente como você disse."@
+br
+` Começo a rir.@
+` Parece que fiquei louco.@
+` A verdade de que sou um assassino parece algo tão engraçado para mim.
+\
+bg #000000,lshutter,400
+bg "bg/ima_18",lshutter,400
+` A lua distante brilha do outro lado da janela.@
+` A minha visão ficou vermelha e parece que não vai voltar ao normal.@
+` A minha mente terrestre foi trocada por algo alienígena.@
+` Os anos de percepções acumuladas excessivamente enumeradas em relação a equações desconhecidas de evolução.@
+` Nada está igual.@ Você não sabe distinguir a diferença entre o carmesim que eu vejo e o que você vê.@
+` Lamentavelmente.@
+` Parece que estou[line=4]quebrado.@
+br
+br
+br
+textcolor #ff0000
+` Ou será que talvez tudo não tenha passado de uma mentira engraçada desde o início?@
+` Se esse for caso, por favor, faça com que tudo desapareça amanhã.
+\
+textcolor #ffffff
+br
+br
+br
+br
+br
+` …… A peça preparada na floresta escura começa.@
+` Não entendo bem, mas se sou um assassino, preciso agir como tal.@
+` Para começar, vamos para a cidade continuar aqueles meus sonhos.
+\
+bg #000000,crossfade,800
+` Eu agarro uma pessoa aleatória.@
+` Levo ela para um beco e espero até que acorde.@
+br
+` Depois de um tempo a pessoa abre os olhos.@
+` Da forma mais gentil possível, ofereço as boas-vindas com os braços abertos.
+\
+bg "bg/bg_31b",bcartain,800
+br
+br
+br
+br
+br
+br
+br
+` [line=4]E agora…
+`    Seja muito bem-vinda a esta maravilhosa câmara de morte.
+\
+bg "bg/ima_12b",notrans,0
+monocro off
+playstop
+bg #000000,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

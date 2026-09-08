@@ -1,0 +1,85 @@
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"Stop pounding on the door, I'm, going[line=2]to open…"@
+` Hazily, I open the door.@
+`"Nii-san[line=2]!"@
+` Akiha rushes into the room.@
+` Kohaku-san follows behind her.
+\
+bg "event/aki_h13",notrans,0
+wait 100
+bg "bg/bg_40c",notrans,0
+ld c,"tachi/aki_t15b",lshutter,400
+`"Nii-san, what were you doing……!?@ You look terrible, you should be in bed[line=3]!"@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]My heart pounds.
+\
+br
+ld c,"tachi/koha_t03",lshutter,400
+`"That's right, Shiki-san.@ You haven't eaten since lunch, and you haven't taken your IV.@ If you keep this up, you will not heal."@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]My heart pounds.
+\
+ld c,"tachi/aki_t02b",crossfade,400
+`"Geez.@ I don't know what happened, but please calm down.@ Sleeping on the floor like that… do you want to die, Nii-san?"@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]My heart pounds.@
+br
+` Akiha comes closer to take my arm as she says this.
+\
+` Like she said in that detached house.@
+` She's coming… to kill me.
+\
+`"[line=4]Get out!"@
+wave se_10
+quakex 3,10
+ld c,"tachi/aki_t15b",crossfade,400
+`"Eh[line=3]Ni, Nii-san, what are[line=3]"@
+`"Get out, I said!@ I won't let you[line=2]kill me……!"@
+cl c,lshutter,400
+` I push her away.@
+` …… But it's not like I can push her out into the hallway with this body.@
+` Akiha simply takes a step back and stares at me.
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"Nii-san, just what do you mean?@ Who told you that I would kill you?"@
+` Akiha looks at me directly.@
+` My heart skips a beat.@
+` Her sharp glance feels like she is reading my mind.@
+`"…… Just get out……!@ I'm not a killer, I'm still sane……!"
+\
+ld c,"tachi/aki_t15b",crossfade,400
+`"Killer… Nii-san[line=2]you are already pulled in this much?"@
+` Her voice is filled with surprise.@
+` Akiha walks towards the door on her own.@
+ld c,"tachi/aki_t11b",crossfade,400
+`"…… I understand.@ Nii-san, you are exhausted right now, so I will come back and see you later."@
+`"[line=2]Shut up!@ I won't let you or anyone else in this room……!"@
+`"………………"@
+` Akiha raises her eyebrows for a second, then starts to leave the room.
+\
+ld c,"tachi/aki_t10b",crossfade,400
+`"…… Nii-san.@ I will listen to your words today, but tomorrow, I will make you listen to me.@
+` Leaving you by yourself for one day is dangerous enough; I simply cannot leave you alone for two days, otherwise you will surely die.@ Please wait for just one more day, Nii-san."@
+cl c,lshutter,800
+` The door shuts.
+\
+` *pant*…… *pant*…… *pant*
+` I can hardly breathe.@ Just like Akiha said, I will surely die at this rate.@
+` *pant*…… *pant*…… *pant*
+` But, it's still better than Akiha killing me.@
+br
+` [line=4]I lock the door.@
+br
+` I lean against the wall and keep my eyes open so I won't fall asleep.
+\
+bg #000000,crossfade,1500
+playstop
+!w3000

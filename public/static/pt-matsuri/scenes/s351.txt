@@ -1,0 +1,465 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=4]É isso mesmo.@
+` Como estou sempre precisando da ajuda dela, vou ajudar a Hisui.
+\
+bg #000000,lcartain,400
+play "*3"
+bg "bg/bg_33b",lcartain,400
+`"Já cheguei, Hisui, você parece ocupada; o que está fazendo?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Seja bem-vindo de volta, Shiki-sama.@ Estou levando isto para o quarto do Makihisa-sama."@
+` Ela está cercada por dezenas de livros.@
+` Embora cada um deles não deva pesar muito, esse monte deve ser bem pesado.@
+` Acho que deve ter cerca de cinquenta livros em volta dela.@
+` Não é tanto assim, mas os bracinhos magros da Hisui não vão dar conta do recado.
+\
+`"Está levando para o quarto daquele velho, então… É na ala oeste do primeiro andar, né?"@
+` Digo isso e pega uma pilha de livros.@
+ld c,"tachi/his_t07",crossfade,400
+`"Não precisa, Shiki-sama.@ Eu cuido disso, pode descansar no seu quarto."@
+`"Está tudo bem, relaxa.@ Se eu ficar à toa no meu quarto, meu corpo vai acabar mofando, por isso quero te ajudar para pagar por tudo que você faz por mim."@
+`"No entanto[line=4]"
+\
+`"…… Eles são bem pesados, hein?@ No que a Akiha estava pensando ao te pedir para fazer esse tipo de trabalho pesado?"@
+ld c,"tachi/his_t05",crossfade,400
+`"Ah[line=4]"
+\
+`"Vai indo pro quarto daquele velho que eu levo os livros, você pode organizá-los quando chegar lá.@ Todos devem ajudar onde são necessários, certo?"@
+ld c,"tachi/his_t04",crossfade,400
+`"…… Sim.@ Então, por favor, fique à vontade, Shiki-sama."@
+cl a,crossfade,400
+` Ela sobe as escadas.@
+` [line=3]Certo.@
+` Agora é só eu levar essa montanha de livros.
+\
+bg #000000,lshutter,800
+bg "bg/bg_41",rshutter,800
+`"Hummm… Então este é o quarto daquele velho!@ Hisui, posso dar uma olhada nestes livros?"@
+ld c,"tachi/his_t04",crossfade,400
+`"Sim.@ Acho que não tem problema se eles não estiverem trancados."@
+cl a,crossfade,400
+` Ela está colocando os livros em uma estante.@
+` Está ocupada de um lado para o outro, organizando-os por gênero.
+\
+`"…… O que será que ela quis dizer com 'trancados'?@ Talvez haja uma tranca na gaveta da escrivaninha[line=4]deve ser isso."@
+` Seguro o puxador da gaveta da escrivaninha.@
+` Quando puxo, escuto um clique.@
+`"Era isso mesmo, está trancada."@
+` O velho já morreu, o que esta gaveta está protegendo?
+\
+`"[line=5]"@
+` A Hisui não está olhando para cá.@
+` Tem um abridor de cartas em cima da escrivaninha.@
+` É a oportunidade perfeita.@
+`"…………"@
+` Abaixo os meus óculos um pouco e olho para a escrivaninha.@
+`"[line=5]Ali está."@
+` Silenciosamente corto a fechadura.
+\
+`"[line=3]Só tem papéis?"@
+` Tem apenas um monte de papéis dentro da gaveta.@
+` Pego alguns e dou uma olhada.@
+br
+`"Hã?@ Isso aqui é… A árvore genealógica da nossa família."@
+br
+` Sem dúvidas.@
+` Depois de Tohno MAKIHISA, estão escritos os nomes Tohno SHIKI e Tohno AKIHA.@
+` Mas[line=3]
+\
+`"…… Não acredito.@ Aquele velhote adotou um menino há dez anos… Ah, mas ele morreu pouco depois."@
+` Há dez anos, eu estava no primário.@
+` Foi há tanto tempo, lógico que não ia me lembrar.@
+`"Nossa, os chefes da família tiveram uma vida bem curta.@ Meu pai morreu antes de completar cinquenta anos e o chefe antes dele morreu antes dos trinta anos em um acidente… Uau, o anterior a ele morreu com dezoito anos de idade e foi suicídio…!?"@
+playstop
+play "*6"
+br
+` [line=4]Opa, espera aí.@
+` Não importa de qual forma eu olhe para isso[line=4]é muito estranho.
+\
+wave se_01
+` Pela informação nesta árvore genealógica, todos os membros da família Tohno morreram de uma forma estranha.@
+` Loucura.@ Acidentes.@ Assassinatos.@ Desaparecimentos.@ Dentro do útero.@
+` …… Nenhum deles teve uma vida longa ou morreu em paz.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_41",crossfade,400
+`"O qu…………"@
+` Todo este documento está preenchido por destinos horríveis.@
+` O pior de tudo é que a maioria das mortes é causada por loucura.@ Eles tiraram a própria vida.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_41",crossfade,800
+waveloop se_02
+`"Ah[line=4]"@
+` A claridade está desaparecendo.@
+` Sinto o sangue acumulando na parte de trás da minha cabeça.@
+` Meus membros estão fracos e está ficando impossível respirar.@
+ld c,"tachi/his_t08",lshutter,400
+`"Shiki-sama…!"@
+` A Hisui… Corre até mim.@
+` [line=3]Eu me seguro em uma estante.
+\
+ld c,"tachi/his_t25",crossfade,400
+playstop
+`"Shiki-sama!@ Aguente firme, Shiki-sama…!"@
+` A voz preocupada da Hisui.@
+` Mas as suas mãos não me tocam em momento algum.@
+`"Está tudo bem… Só me senti mal por um instante…"@
+ld c,"tachi/his_t12",crossfade,400
+`"Shiki-sama, não se esforce…!@ Sente-se.@ Não tente ficar em pé com um rosto tão pálido…!"@
+` …… Isso é novidade para mim.@
+` Ela está muito agitada e chamando pelo meu nome.
+\
+`"Calma… Eu estou bem… Então…"@
+` Tento recobrar os sentidos.@
+` Mas a tontura não passa.@
+br
+bg #000000,crossfade,400
+bg "bg/bg_41",crossfade,400
+` A minha visão cintila de vermelho para preto.@
+` Branco.@
+` Eu olho para a nuca da Hisui[line=4]é um branco aconchegante.
+\
+`"[line=5]Ah."@
+` É cativante.@
+` Se o meu corpo estivesse se movendo normalmente, eu ia agarrar o corpo da Hisui e[line=4]
+\
+bg #9c0120,notrans,0
+` A visão negra causada pela minha anemia se torna um vermelho vívido.@
+` O pescoço da Hisui.@
+` O sonho vermelho da noite passada.@
+br
+` [line=3]Da noite de matança.@
+` Um prazer doloroso, como se o meu coração fosse rasgar-se sozinho.
+\
+bg "bg/bg_41",notrans,0
+wavestop
+`"AAAAA…!"@
+` Incapaz de me controlar, eu me afasto da Hisui.@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama…?"@
+`"Não é nada… Está tudo bem… Eu estou bem, só[line=4]me deixa sozinho."@
+ld c,"tachi/his_t17",crossfade,400
+`"Eu me recuso.@ Você parece não entender o estado em que está, Shiki-sama.@ Desse jeito… Do jeito que você está, eu não posso te deixar aqui sozinho."@
+` E ela se aproxima de mim.
+\
+cl a,crossfade,400
+` [line=3]Merda.@
+`  Isso é muito[line=4]ruim.@
+` Se ela chegar ao alcance das minhas mãos, tenho medo do que eu possa fazer com ela.
+\
+`"Eu estou bem, vai embora daqui, Hisui…!"@
+ld c,"tachi/his_t17",crossfade,400
+`"Não vou te dar ouvidos.@ Acalme-se, por favor, Shiki-sama."@
+br
+waveloop se_02
+bg #000000,crossfade,400
+bg "bg/bg_41",crossfade,400
+` …… Não[line=4]pare.@
+` É perigoso se aproximar de mim.@
+` Eu te falei pra ir embora.@
+` Por quê?@
+` Por que esta mulher não me escuta?@
+br
+bg #000000,crossfade,400
+` [line=3]Por que ela está no meu caminho?@
+`  Por que nada acontece do jeito que eu quero…!?
+\
+bg "bg/bg_41",crossfade,400
+`"Cala a boca…!@ Será que não entende que estou mandando você sumir da minha frente, Hisui!?"@
+wave se_05
+quakex 2,100
+`"Ah[line=3]"@
+br
+` Ouço o som de uma batida.@
+` A Hisui é jogada contra as estantes, seu rosto está distorcido de dor.@
+br
+`"Ah[line=3]"@
+` …… A sua expressão faz a minha sanidade voltar.@
+` A tontura desaparece.@
+` Depois de alguns segundos, tudo volta ao normal, a única coisa que fica é o sentimento de culpa.
+\
+`"[line=2]Eu[line=4]me desculpe.@ O que foi que… Eu…"@
+ld c,"tachi/his_t21",crossfade,400
+`"[line=13]"@
+` Ela fica de cabeça abaixada.@
+`"[line=3]Hisui, me[line=4]desculpe, não sei por que fiz isso…"@
+ld c,"tachi/his_t26",crossfade,400
+`"Eu peço desculpas.@ Eu desobedeci as suas ordens e causei desconforto a você."@
+`"…… Não, para com isso, sou quem tem que pedir desculpas.@ Fiz algo terrível com você…"
+\
+ld c,"tachi/his_t21",crossfade,400
+`"Shiki-sama, por favor, retorne ao seu quarto.@ Você está cansado; se descansar, acredito que vai se recuperar imediatamente."@
+`"[line=5]"@
+` Ela não vai me mostrar o rosto.@
+`"…… Tá bom, vou voltar para o meu quarto.@ Eu sinto muito mesmo, me desculpe, Hisui."@
+` Ela não responde.@
+` Saio do quarto, sendo esmagado pelo sentimento de culpa e raiva de mim mesmo.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+play "*1"
+` [line=3]Depois do jantar eu volto para o meu quarto.@
+br
+` Deito na cama e me lembro do rosto da Hisui.@
+`"[line=4]"@
+` Não consigo entender.@
+` Por que me senti daquele jeito e por que fiz aquilo?
+\
+` Naquele momento…
+` Enquanto olhava para o pescoço da Hisui[line=4]eu a estava desejando.@
+` Eu queria morder o seu pescoço, assim como no sonho da noite passada.@
+` Mas nem consigo pensar nisso agora.@
+br
+` O sonho que tive e o meu eu que fez isso hoje…@
+` Tenho a sensação de que tem alguém dentro de mim que não sou eu mesmo.
+\
+`"[line=4]"@
+` Toco no meu pescoço.@
+` Aqueles que são mordidos por um vampiro, se tornam vampiros.@
+`"…… Isso é besteira.@ Eu ando na rua durante o dia."@
+` …… Sim, é impossível.@
+` Foi só uma tontura e a minha consciência desaparecendo contribuiu para a minha imaginação criar asas.@
+` O que aconteceu com a Yumizuka está marcado a fogo na minha mente, acho que simplesmente acabo lembrando do acontecido quando a minha anemia ataca.
+\
+`"É como a Hisui disse, talvez eu esteja apenas cansado."@
+` …… Bem.@
+` Acho que o melhor seria dormir e descansar o meu corpo.
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+wave se_01
+!w750
+br
+` [line=4]Quente.
+\
+wave se_01
+!w750
+br
+br
+br
+` [line=4]Quente.
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+` [line=4]Quente.
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+br
+br
+` [line=4]O meu corpo, uma vez desperto,
+`     não pode ser acalmado com algo tão simples como dormir.
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Portanto.@
+`    Esta noite vou aliviar a minha sede.
+\
+monocro #ff0000
+bg "bg/bg_47",notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_24c",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_26a",crossfade,800
+` Ao que parece, eu vim para a cidade à noite.@
+` Ao que parece, estou aqui com os olhos sedentos, esperando alguém passar.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=4]De novo.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` De repente, vejo um rosto refletido em uma janela.@
+` Seus olhos estão vermelhos e o rosto parece o de uma pessoa louca.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Esse sonho de novo.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` Acho que encontrei a minha presa.@
+` Acabo com ela antes que tenha a chance de gritar, sem que perceba que morreu.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Estou tendo esse pesadelo de novo.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/ima_12b",notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+` Pego o cadáver e mordo o seu pescoço.@
+` Faz um som borbulhante.@
+` Minha sede termina depois de tomar o sangue do pescoço rasgado.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]É a mesma cena de ontem.
+\
+` Fico entendiado por apenas tomar o sangue, por isso pego a mão do cadáver e vou arrancando os dedos com os dentes, um por um.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]É a mesma cena de ontem.
+\
+` Fico entendiado por apenas tomar o sangue, por isso pego os membros do cadáver e vou arrancando eles com os dentes, um por um.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]É a mesma cena de ontem.
+\
+` E então,
+` surge um obstáculo.@
+` Jogo o cadáver para longe e dou um salto.@
+` Alguém.@ Tem alguém me observando.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Está diferente de ontem…!?
+\
+bg "bg/ima_02",tshutter,400
+` Algo parecido com uma garra enorme está voando pelo ar.@
+` Dou um salto para o lado pra me esquivar.@
+` Subo pela parede de um prédio e vou pulando de um telhado para o outro.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]A pessoa vestida de preto persegue o vampiro.
+\
+` De telhado em telhado.@
+` De sombra em sombra.@
+` A pessoa continua perseguindo.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Não posso fazer nada quanto a isso.
+\
+` Não posso fazer nada, ele murmura.@
+` E a refeição de hoje chegou ao seu fim.
+\
+bg #000000,crossfade,800
+monocro off
+!w3000
+phase "bg/ima_19",l,aki,07a,7
+waveloop se_02
+bg #ffffff,notrans,0
+!w750
+`"Shiki-sama[line=4]?"@
+br
+` [line=4]Ouço uma voz.@
+br
+`"Aguente firme, vou buscar um copo de água agora mesmo…!"@
+br
+` [line=4]O som de passos apressados.
+\
+bg "bg/bg_40a",crossfade,800
+`"Ah[line=4]"@
+` Eu acordo do pesadelo.@
+`"…… É o meu quarto."@
+` Tenho certeza de que agora estou no meu quarto.@
+` Estou deitado na cama e já é de manhã.@
+` …… Eu tive aquele sonho de novo.@
+` Sonhei que estava sugando o sangue de alguém.@
+` Embora eu saiba que não passou de um sonho, pareceu muito real.@
+` As minhas mãos continuam com a sensação de quando estavam rasgando a carne; e meu nariz ainda sente o cheiro de sangue fresco…
+\
+`"[line=3]O que está acontecendo comigo?"@
+` Toco no meu pescoço devargarzinho.@
+` …… As marcas da mordida da Yumizuka desapareceram há séculos.@
+` Ainda sou um ser humano normal.@
+` Eu não quero beber o sangue das pessoas e não tenho problema algum para sair no sol.@
+`"[line=4]Ah."@
+` Não.@ Ontem[line=4]eu…@
+` O que foi que pensei quando vi o pescoço da Hisui?@
+` [line=3]Seu belo pescoço branquinho.@
+` Do fundo do meu coração, eu quis beber o sangue que fluía naquele lugar[line=4]
+\

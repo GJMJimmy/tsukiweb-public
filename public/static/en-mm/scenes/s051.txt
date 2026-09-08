@@ -1,0 +1,136 @@
+phase "bg/bg_22b",r,ark,02a,2
+bg #ffffff,crossfade,800
+` Sensei told me.@
+` My eyes could see the points where things could easily be broken.@
+` And if that 'thing' were to be a person, then what I would see would be their vital spots.
+\
+` Lines which, if cut, could break something apart without any effort.@
+` With those lines, even things as hard as steel could easily be cut.@
+br
+`"In other words, everything in existence has its destiny of 'breaking' internalized within it.@ This is something inescapable for anything with a physical form, Shiki."
+\
+` That's what Sensei had said.@
+` I was still a child back then.@
+` I remember finally understanding what she meant and getting scared.@
+` In other words, the world is full of cracks, and it could collapse at any instant.@
+` If there are scribbles all over the ground, then there's a possibility that the earth would start breaking apart if I walk over it.@
+` [line=3]When I realized what she meant, I thanked Sensei from the bottom of my heart for the glasses she gave me.
+\
+br
+` I couldn't have gone on living if I had continued to see the lines all the time.@
+` The points where things could easily be broken.@
+` There isn't a single advantage to being able to see them[line=3]
+\
+bg #000000,crossfade,1500
+!w1000
+bg "bg/ima_03",crossfade,800
+`"[line=3]Good morning."@
+br
+` …… I hear an unfamiliar voice.
+\
+`"It is morning.@ It is time for you to awaken, Shiki-sama."@
+` …… Stop calling me Shiki-sama already.@
+` I told you yesterday, it sends chills down my back[line=4]
+\
+bg "bg/bg_40e",crossfade,1500
+ld c,"tachi/his_t01",crossfade,400
+play "*2"
+br
+` [line=3]I wake up.@
+` Hisui stands far from the bed, like a statue.@
+`"……"@
+br
+` Where am I?@
+br
+`"Good morning, Shiki-sama."@
+` The girl in a maid uniform bows.
+\
+`"Ah… yeah, I came home, right…"@
+` I push myself up, looking around the room.@
+cl c,crossfade,400
+` In that instant[line=3]
+br
+` [line=3]I feel sharp pain in my temples.
+\
+`"Huh[line=3]?"@
+`"Are you looking for your glasses?"@
+` Hisui gently hands me my glasses.@
+bg "bg/bg_40a",lshutter,400
+`"[line=3]Phew."@
+br
+` …… I let out a breath.@
+` Last night[line=3]Before I went to sleep, I had the feeling I was seeing the lines even with my glasses on.@ Seems like it was just my imagination.
+\
+`"Sstt……"@
+` Maybe it's because I slept in an unfamiliar room, but my mind is hazy.@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama…?"@
+` Hisui calls out to me.@
+` Shaking my head, I shake away my sleepiness.
+\
+`"Good morning, Hisui.@ Thanks for coming to wake me."@
+`"There is no need to thank me.@ It is my duty to come and wake you, Shiki-sama."@
+` Hisui gives a plain and completely expressionless response.
+\
+` …… Even in an unfavorable light, I think Hisui's features are beautiful.@
+` It should be wonderful for such a girl to wake me every morning, but as Hisui never smiles, I don't feel that happy about it.@
+br
+` …… What a shame.@
+` If Hisui only had half of Kohaku's brightness, she would be really cute.
+\
+`"[line=3]Do you need something?"@
+` Realizing I am looking at her, Hisui stares straight back at me.@
+`"No, nothing at all.@ Waking up with you there makes me feel like I'm really at the Tohno mansion."@
+` Now then.@ Getting off the bed, I stretch out both arms.@
+br
+` Suddenly, I realize I'm wearing pajamas.
+\
+` [line=3]Eh, I'm sure that yesterday, I…
+\
+`"Huh?@ I thought I slept in my uniform last night."@
+`"Yes.@ Since it is bad for your health to do so, Nee-san changed your clothes and put you to bed afterwards."@
+` Hisui explains it as if it is something perfectly natural.@
+` I see.@ She changed my clothes.@ It's true that I could have caught a cold if I had just slept like that.@
+` Just the kind of attentive service you'd expect from a maid[line=3]Hey, wait a minute…!
+\
+`"Wh[line=6]!?"@
+` I quickly check my pants and underwear.@
+` My pants are brand new pajama pants.@ Even my underwear is new.
+\
+`"Wh-wh-wh-!?"@
+` I want to say 'What the hell did you do!?', but somehow the words are stuck in my throat.@
+` I've got to calm down and think things over for now.@
+` …… Let's see.@ First of all, half the blame belongs to me.@
+` And the one who changed me wasn't Hisui, it was her sister, Kohaku-san.@
+` It would be wrong to complain to Hisui.
+\
+`"[line=3]Hisui."@
+`"Yes, what is it?"@
+`"You don't have to do anything uncalled for like this from now on.@ If you have to, please wake me up.@ I can change myself, so I'd like to do so."@
+` My face is a deep red as I say all of this.@ Hisui obediently nods in affirmation.@
+`"Your uniform is folded and awaits you over there.@ Please come to the sitting room after you have changed."
+\
+cl c,lshutter,800
+`"………"@
+` Damn it.@ How careless could I be.@
+` It was careless of me to begin with when I fell asleep on the bed like that, but to not have woken up while I was being changed is over the top.@
+`"Usually I would have sensed it, but… maybe I was just really tired."@
+` Complaining to myself isn't going to change anything.@ I can't just keep standing here talking to myself like an idiot.@ I'd better hurry up and change, then go have breakfast.
+\
+` My school uniform is neatly folded, and my shirt is even ironed.@
+` Passing my wrists through the sleeves feels good.@ It's that fresh, brand-new feeling.
+\
+`"…… No, there's nothing wrong with being naked, is there?@ Yep."@
+` There was nothing wrong with it, but I couldn't help being embarrassed at the fact that I was being changed by the warmly smiling Kohaku-san.@
+` To top things off, the face in the mirror keeps smiling from time to time despite being bright red.@
+` …… Are you really okay, Tohno Shiki?@
+` I thought you were supposed to be uneasy about staying here, you amateur.
+\
+bg #000000,lcartain,800
+!w500
+bg "bg/bg_34a",lcartain,800
+` Akiha and Kohaku-san are relaxing in the sitting room.@
+` Akiha is wearing the uniform of the Asagami Ladies' Academy, a famous school for young girls.@
+` They are drinking tea together gracefully, as if breakfast ended a long time ago.@
+` I[line=4]
+\

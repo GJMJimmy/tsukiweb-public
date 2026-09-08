@@ -1,0 +1,123 @@
+monocro off
+wavestop
+bg "bg/bg_29b",notrans,0
+play "*3"
+`"Hein?"@
+` O que ela quer dizer com isso?@
+` Não estou entendendo sobre o que ela está falando.@
+` Afinal de contas, eu sou o idiota que confundiu as palavras da Arcueid e cometeu um erro estúpido, por isso é claro que não estou entendendo do que ela está falando e[line=3]hã?@
+br
+` Ela me perguntou quem foi que apareceu ontem à noite[line=3]?
+\
+`"…… Arcueid.@ Do que você está falando?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hum?@ Ué, eu te mandei um familiar de sonhos."@
+`"Espera, que negócio é esse?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"É um tipo de familiar que te faz ter um sonho sobre algo que você deseja muito.@ Como você é homem eu te enviei uma súcubo.@ O sonho não foi bom?"@
+cl c,crossfade,400
+`"Eu[line=5]"@
+br
+` Se o sonho foi bom?@ Bem, ele foi…
+\
+bg #ffffff,crossfade,400
+monocro #ffff00
+bg "event/ark_h02",crossfade,400
+monocro off
+bg "bg/bg_29b",crossfade,400
+` Eu me lembro do sonho realístico que tive e meu rosto fica vermelho.@
+`"Então aquilo foi coisa sua[line=3]!"@
+` Ela abre um sorriso ainda maior.@
+` [line=3]Merda.@
+` Se eu tivesse ficado quieto essa conversa já teria acabado, mas como eu reagi desse jeito[line=3]
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah, então você sonhou.@ Conta logo, quem foi que apareceu?@ Eu aposto que foi a sua irmã, né?"@
+`"N-n-não, não foi a Akiha[line=4]!@ Que tipo de homem acha que sou!?@ Não sou louco de fazer aquilo com a minha irmã!"@
+`"Humm.@ Se não foi sua irmã, só pode ter sido aquelas empregadas da mansão, né?"@
+cl c,notrans,0
+` A Arcueid me olha, cheia de alegria.
+\
+`"Hum[line=4]"@
+` Ela está agindo como a Arcueid de ontem à noite.@
+br
+`"Não é da sua conta, me deixa em paz."@
+` Desvio meu olhar e me recuso a responder.@
+` Mas ela continua tagarelando: "Vamos, conta logo, vamos, conta logo," o tempo todo.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Conta, eu quero saber.@ Não custa nada me dizer com quem você sonhou."@
+` Ela parece uma criança curiosa.@
+` Toda vez que lhe dou as costas ela aparece na minha frente novamente dizendo: "Vamos, conta logo, vamos, conta logo."@
+br
+` …… Que tortura!@
+` Ela está parecendo a mesma garota travessa de ontem à noite.
+\
+` Eu escondo o rosto com as mãos.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ei, Shiki, deixa de ser bobo e me conta logo."@
+` Ela continua me olhando com os olhos virados para cima.@
+br
+` [line=3]Eu não aguento mais.@
+` Esse é o meu limite.@
+br
+`"…… Você."@
+` Com hesitação, deixo escapar a resposta em voz baixa.
+\
+`"[line=3]Hã?@ O que tem eu?"@
+`"Não me faça repetir de novo.@ Estou dizendo que foi você quem apareceu!"@
+` Eu grito a resposta e desvio meu olhar.@
+` Ela arregala os olhos de surpresa.@
+play "*1"
+ld c,"tachi/ark_t12",crossfade,400
+`"E-eu……?"@
+`"Sim, não estou brincando.@ Você apareceu e[line=4]"@
+` Não posso terminar de contar.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"Ah[line=4]"@
+` Agora é a Arcueid quem está desviando seu olhar e parecendo muito desconfortável.@
+cl c,crossfade,400
+br
+`"………………"@
+`"………………"@
+` Nenhum dos dois sabe o que dizer nesse momento.@
+` O silêncio desconfortável continua.
+\
+` ……@
+` …………@
+` …………………
+` …………………………@
+` ………………………………… *ahem*@
+` Não consigo mais suportar o silêncio e forço uma tossida.
+\
+br
+`"…… Para começo de conversa, por que você me enviou esse familiar?@ Ainda está com raiva por eu ter te matado?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Claro que não.@ Eu enviei como uma forma de agradecimento por ter derrotado o Nrvnqsr.@ Sou muito grata pelo que fez, por isso pensei que ficaria muito feliz com o presente."@
+`"Como uma forma de agradecimento?[line=3]Eu dispenso esse tipo de agradecimento.@ Que mau gosto os vampiros têm, hein?"@
+` Eu relaxo os ombros.@
+` Não sei do que ela está com raiva, mas está me olhando com uma expressão bem insatisfeita.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Por que está dizendo isso, seu malvado!?@ Eu sei que não sou humana."@
+cl c,lshutter,400
+` Ela me dá as costas e começa a andar.
+\
+playstop
+`"Ei, espera.@ Onde está indo?"@
+`"Não é da sua conta.@ Não me siga!"@
+` Por que ela está tão brava assim?@ A Arcueid sai sem se virar uma vez sequer.
+\
+`"…………"@
+` Para onde ela está indo?@
+`"…………"@
+` Talvez eu tenha falado demais.@
+` Não importa quais foram os resultados ou os métodos usados, ela realmente quis me agradecer com boas intenções.@ Estou começando a sentir um arrependimento forte e pensando que deveria ter aceitado o presente de bom grado.
+\
+`"[line=5]"@
+` Droga.@ Por que não consigo deixá-la sozinha……!?@
+br
+`"Espera[line=3]Ei, eu disse para esperar!"
+\
+bg #000000,lcartain,800

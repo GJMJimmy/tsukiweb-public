@@ -1,0 +1,90 @@
+play "*3"
+bg "bg/bg_09b",notrans,0
+ld c,"tachi/cel_t08",crossfade,400
+`"Hã?@ Ah, hum, eu fiquei meio surpresa com a sua tranquilidade, Tohno-kun."@
+`"Sério?@ É que estou acostumado com esse tipo de coisa por causa da minha família.@ Mas mudando de assunto, tem alguma coisa que você gostaria de falar comigo?"@
+`"Sim.@ Queria continuar aquela conversa que estávamos tendo durante o almoço."@
+`"…… A conversa que estávamos tendo durante o almoço… sobre a minha família?"@
+` Ela faz um gesto afirmativo com a cabeça.
+\
+ld c,"tachi/cel_t02",crossfade,400
+`"Se não se importar, gostaria de ouvir mais sobre isso.@ Fiquei curiosa, já que paramos na metade."@
+`"…… Eu não me importo, mas não tem nada de interessante sobre esse assunto.@ Seria um desperdício de tempo."@
+ld c,"tachi/cel_t03",crossfade,400
+`"Não precisa ser interessante, só quero ouvir a respeito."@
+`"…… Humm, você é bem excêntrica, Senpai."@
+`"Talvez eu seja." Ela ri.
+\
+playstop
+ld c,"tachi/cel_t01a",crossfade,400
+play "*2"
+`"Então.@ Vamos continuar de onde paramos.@ Você disse que estava voltando para a sua casa de verdade.@ O que quis dizer com isso?"@
+` Ela pergunta, cheia de curiosidade.@
+` …… A conversa não deve ter feito muito sentido para a Senpai, já que ela não sabe de nenhuma das minhas circunstâncias.
+\
+`"[line=3]Vejamos.@ Basicamente, eu fui deserdado.@
+` Quando eu tinha nove anos de idade, sofri um acidente de trânsito e fiquei gravemente ferido.@
+` Os ferimentos foram curados, mas depois disso, comecei a desmaiar com muita facilidade por causa da anemia e as vezes vomitava tudo que comia.@ Por causa disso fui confiado aos meus parentes, os Arimas, enquanto me recuperava."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Hum, então os Arimas foram os pais que te criaram desde os nove anos?"
+\
+`"Isso mesmo.@ Eu sabia que o meu pai me odiava por algum motivo e que uma vez que tinha sido confiado aos Arimas, eu nunca mais iria voltar para casa…… Essa casa é a mansão Tohno.@ E assim, bem, eu pensei que ia viver como filho dos Arimas para sempre.@
+` Isso era o que eu pensava, né, mas meu pai morreu recentemente.@ Foi quando me disseram para voltar para a mansão.@ Como meu pai não estava lá mais, eu finalmente concordei."@
+br
+` [line=3]Esta é a minha situação.@
+br
+` Termino de contar minha história.@
+` A Ciel-senpai faz um gesto afirmativo com a cabeça.
+\
+`"…… Posso perguntar só uma coisa?"@
+`"Hum?@ Claro, se eu puder responder.@ Pergunte."@
+`"…… Você não gosta da sua família anterior?"@
+br
+` Minha família anterior[line=3]Os Arimas!?@ Aqueles que me criaram como filho?@
+` Minha mãe e meu pai que não eram meus pais verdadeiros?@
+` E a casa pouco familiar que pertencia a estranhos?@
+` Independente disso[line=2]
+\
+`"Não, eu gostava deles.@ Eram pessoas que não se importavam com o fato de eu não ser filho deles de verdade.@ Eles eram tão bons comigo que me sentia mal por estar deprimido.@ E eles me amaram sem se importarem com mais nada…… isso me fez muito bem."
+\
+` [line=3]Eu era muito amado por essas pessoas.@
+br
+` É por isso que um dia,
+` realmente tenho que me tornar um membro da família deles[line=3]
+\
+` Estive dizendo essas palavras para mim mesmo desde que era criança.@
+` …… Desde muito tempo atrás.@
+` Várias e várias vezes eu prometi isso para mim mesmo.
+\
+`"…… Hum, é como o Arihiko disse, não tenho uma única reclamação sobre os Arimas.@
+` Eles me trataram muito bem e eu acho que fui um bom filho também.@
+` Embora eu soubesse que não éramos uma família de verdade, que estávamos apenas fingindo ser, não sofri por causa disso."@
+` Muito pelo contrário, eu era muito feliz.@
+` De certa forma, eu nos considerava uma família ideal.
+\
+`"[line=3]Mas não era bem assim, né?"@
+`"…… Pois é.@ Apesar de tudo, havia uma linha que eu não podia cruzar.@ 'Esta não é a sua família de verdade……' Nunca consegui tirar essas palavras da minha cabeça.@
+` Eu sabia que devia ignorar isso, mas não conseguia.@
+` Não sei se isso pode ser chamado de trauma de infância, mas acabou se tornando uma maldição para mim.@ Não importava onde eu estivesse, sempre me sentia um estranho para a minha família."@
+ld c,"tachi/cel_t09",crossfade,400
+` A Senpai fica em silêncio.@
+` Evitando o meu olhar, ela encolhe os ombros se desculpando.
+\
+`"Viu só?@ No final das contas foi um assunto chato, né?@ Por isso que eu disse que seria um desperdício de tempo."@
+ld c,"tachi/cel_t03",crossfade,400
+`"Não é verdade.@ Foi uma história muito esclarecedora."@
+` Ela força um sorriso para tentar aliviar a tensão.@
+ld c,"tachi/cel_t02",crossfade,400
+`"Mas fiquei um pouco surpresa, porque achava que você era uma pessoa simples e fácil de se lidar."
+\
+`"Humm…… bem, basicamente, eu sou mesmo.@ Minha filosofia pessoal é aproveitar o presente o máximo possível.@ As pessoas são mais felizes quando estão aproveitando o presente e o que está por vir do que quando estão preocupadas com o que aconteceu no passado, não acha?"@
+` Na verdade, eu herdei essa opinião do Arihiko.@
+ld c,"tachi/cel_t04",crossfade,400
+`"Aproveitar o presente e o que está por vir?@ É um jeito muito interessante de se viver."@
+` A Senpai toma seu chá com um sorriso muito amável no rosto.@
+cl a,lshutter,400
+` Sigo o exemplo dela e coloco os lábios no copo.@
+` Tomo um gole e o chá amargo limpa minha garganta com um leve toque de doçura.
+\
+bg #000000,lcartain,800
+playstop

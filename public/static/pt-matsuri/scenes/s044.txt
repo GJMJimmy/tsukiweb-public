@@ -1,0 +1,176 @@
+bg "bg/bg_40c",notrans,0
+playstop
+`"Nnn[line=5]"@
+` Estressado por causa do jantar, eu relaxo os ombros.@
+` Estico o corpo o máximo que consigo e caio na cama.@
+`"Nossa, até o jantar neste lugar é tenso."@
+` Não é que o garfo ou a faca estivessem pesados.@ O olhar da Akiha sobre mim que estava pesado.
+\
+wave se_04
+`"Você está aí, Shiki-sama?"@
+` Ouço a voz da Hisui junto com uma batida na porta.@
+`"Sim.@ Pode entrar."@
+`"Com licença."@
+` A Hisui entra e faz uma mesura.
+\
+ld c,"tachi/his_t01",crossfade,400
+play "*1"
+`"Eu vim arrumar a cama.@ Talvez você não goste de ficar olhando, poderia esperar na sala de estar até que eu termine?"@
+`"Não, não me importo de ficar olhando.@ Vou ficar quietinho, pode fazer o que tiver que fazer sem se importar comigo."@
+` Dou um pulo da cama e vou para um canto do quarto.@
+`"……"@
+` Parece que ela quer falar alguma coisa, mas não diz nada e começa a arrumar a cama.
+\
+`"[line=3]Hisui."@
+`"Sim?@ O que foi, Shiki-sama?"@
+`"Ah, pode continuar arrumando a cama.@ Não precisa se levantar desse jeito."@
+`"……"@
+` Ela não responde.@
+` Parece que a educação que teve como empregada foi impregnada em sua alma.
+\
+`"Por favor, apenas converse comigo enquanto arruma a cama.@ Estou começando a me sentir mal porque parece que estou interferindo com o seu trabalho."@
+`"Se é o que deseja, Shiki-sama, vou obedecê-lo."@
+cl c,lshutter,400
+` Ela volta a arrumar a cama silenciosamente.
+\
+`"Hum… é verdade que o toque de recolher na mansão é às sete horas da noite?"@
+bg "event/his_e08",lshutter,800
+`"Hum[line=3]Ah, sim.@
+` O portão principal é fechado às sete e todas as outras entradas da mansão são fechadas às oito horas.@
+` Também é uma regra que os residentes evitem sair perambulando pela mansão após as dez horas."
+\
+`"Não podemos andar nem dentro da mansão?@ …… Mas não é rigoroso demais?@ A Akiha e eu não somos mais crianças, não vejo necessidade disso."@
+`"…… De fato.@ Entretanto, essa é a regra, por favor, tente segui-la.@ Você está ciente das recentes agitações noturnas, não está, Shiki-sama?"@
+br
+` …… Sim, aquela história de vampiros que o Arihiko estava falando.@
+` Bem, já que algo assim está acontecendo, acho que é melhor prevenir do que remediar.
+\
+bg "bg/bg_40c",lshutter,800
+ld c,"tachi/his_t01",crossfade,400
+`"Você tem mais alguma pergunta?@
+` Ela termina de arrumar os lencóis e se vira para mim.@
+`"Hum… Vejamos[line=3]"@
+` Tenho várias perguntas, mas eu não sei nada sobre a Hisui e a Kohaku-san.
+\
+`"Você se importa se eu fizer uma pergunta fora do assunto?"@
+`"Não, qual é a pergunta?"@
+`"Eu gostaria de saber que tipo de trabalho você e a Kohaku-san fazem aqui."@
+`"Eu estou aqui para servi-lo em suas necessidades e a minha irmã, Kohaku, para servir à senhorita Akiha-sama.@
+` Em nosso tempo livre, fazemos a manutenção da mansão.@ Há mais alguma coisa que deseja saber?"@
+`"…… Servir… Então é isso mesmo, né!"
+\
+` Subitamente meus ombros ficam mais pesados.@
+` Pareceu completamente natural quando a Akiha disse isso, mas eu não sou nada mais que um estudante normal do ensino médio.@
+` Não tenho o menor interesse em ter uma garota com quase a mesma idade que a minha me servindo, pelo menos não por enquanto.
+\
+`"…… Essa história de me servir, faz de você a minha empregada pessoal?"@
+`"Sim.@ Por favor, não hesite em me pedir nada."@
+`"…… Bem, eu entendi.@ Pelo jeito que a Akiha falou, parece que não vou poder te dispensar, então vou obedecê-la e te deixar cuidar de mim…"@
+`"Há algo em particular que deseje?"@
+`"Nada específico, mas você poderia parar de me chamar de ‘Shiki-sama'?@ Para falar a verdade, sinto arrepios nas costas quando ouço isso."
+\
+`"Mas Shiki-sama, você é o meu mestre."@
+`"É isso que estou dizendo que odeio.@ Estive vivendo uma vida normal até ontem.@ Não tenho a menor vontade de começar a viver uma vida na qual uma garota da minha idade se refere a mim como ‘-sama'."@
+`"Compreendo." A resposta da Hisui foi abaixo do mínimo de entusiasmo.
+\
+`"Quero que me chame apenas de Shiki e, em troca, vou te chamar de Hisui.@ Vamos acabar com as formalidades e agir mais casualmente um com o outro."@
+` Ainda inexpressiva, a Hisui abaixa as sobrancelhas como se estivesse em um dilema.@
+ld c,"tachi/his_t23",crossfade,400
+`"Mas você é o meu patrão."@
+`"Não fui eu quem te contratou.@ E é você quem faz as coisas que não sou capaz de fazer, por isso é você quem merece crédito."@
+`"Compreendo." Ela dá outra resposta sem entusiasmo.@
+` …… Parece que não vou conseguir convencê-la em um só dia.
+\
+`"[line=3]Enfim, é assim que eu quero.@ Não seja tão formal comigo.@ E fico agradecido se você disser isso para a sua irmã também."@
+ld c,"tachi/his_t16",crossfade,400
+`"Muito bem, como quiser, Shiki-sama."@
+` Ela faz um gesto afirmativo com a cabeça.@
+br
+` Ela não entendeu nada do que eu disse.@
+br
+`"Vou me retirar agora.@ Por favor, descanse a partir de agora e tenha uma boa noite de sono."@
+cl c,lshutter,400
+` Fazendo uma mesura, ela coloca a mão na maçaneta da porta.
+\
+br
+` [line=3]Ah, esqueci de perguntar uma coisa.@
+br
+`"Ah, espera um pouco."@
+` Corro até a porta e coloco a mão no ombro da Hisui.@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_40c",notrans,0
+` Em um instante[line=3]O braço da Hisui empurra o meu braço com uma força e velocidade incríveis.
+\
+` Com um ‘plaft!’, ela golpeia minha mão para longe e dá um pulo para trás.@
+ld c,"tachi/his_t10",lshutter,400
+`"Hã[line=3]?"@
+` É tão repentino, que essa é a única coisa que consigo dizer.@
+` A Hisui continua inexpressiva, mas me encara com olhos ferozes.
+\
+`"Hum… Eu fiz algo de errado?"@
+ld c,"tachi/his_t28",crossfade,400
+`"Ah…"@
+ld c,"tachi/his_t26",crossfade,400
+`"…… Perdoe-me…"@
+` Ela parece muito nervosa.@
+`"…… Não estou acostumada a ser tocada.@ Por favor, me perdoe."@
+` Seus ombros estão tremendo.@
+` Parece que acabei de fazer algo terrível.
+\
+`"Ah… Tudo bem, eu sinto muito."@
+` Peço desculpas sem pensar.@
+` Eu mesmo não entendo o porquê.@ Apenas sinto pena dela e abaixo minha cabeça.@
+ld c,"tachi/his_t04",crossfade,400
+`"[line=6]"@
+` Ela não diz nada.@
+` Parece que se acalmou um pouco.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"[line=3]Você não tem que se desculpar, Shiki-sama.@ Eu sou a culpada."@
+`"Não, bem, talvez, mas eu só…"@
+ld c,"tachi/his_t01",crossfade,400
+` Coço levemente minha cabeça.@
+` A Hisui me encara, parando apenas para piscar por um segundo.@
+`"Hum… O que você queria me perguntar, Shiki-sama?"@
+` É mesmo.@
+` Eu segurei ela porque queria perguntar uma coisa.
+\
+`"Ah, queria perguntar sobre a Akiha.@ Ela não estuda em um colégio interno?"@
+`"Isso foi apenas durante o ensino fundamental.@ A partir deste ano, a Akiha-sama tem permissão especial para frequentar a escola de casa."@
+`"Hum… Quer dizer que ela vai para a escola daqui?"@
+`"Sim, mas é incomum ela voltar para casa antes de escurecer como hoje.@ Ela tem aulas até a hora do jantar, por isso sempre chega em casa antes das sete.
+\
+`"Aulas até a hora do jantar?[line=3]Aulas de quê?"@
+`"Hoje é quinta-feira, então ela teria aula de violino."@
+`"[line=4]Hã?"@
+`"Normalmente, ela consegue retornar antes do jantar nos dias de semana, então se houver algo que queira dizer para a Akiha-sama, avise a minha irmã depois do jantar."@
+cl c,lshutter,400
+` A Hisui faz uma mesura para se despedir e sai do quarto.
+\
+`"Aula de violino…"@
+` Mas qual a necessidade disso?@
+` Ela não é nenhuma dama de classe alta nem nada do tipo, por que ela tem que fazer algo tão chato como[line=3]
+br
+`"…… Ah espera, ela é uma dama de classe alta sim."@
+br
+` Sim.@ Pensando bem, minha irmã, Tohno Akiha, é uma dama de classe alta desde que nasceu.
+\
+` Nas minhas lembranças, ela sempre foi uma irmã obediente e ansiosa, que sempre me seguia por todos os cantos.@
+` Quando criança, ela sempre foi quieta e nunca tinha coragem nem de expressar as próprias vontades.@ Ela era uma garota frágil que vivia com medo de receber bronca do nosso pai.@
+br
+`"[line=3]É, as pessoas realmente mudam depois de oito anos."@
+` Após oito anos, eu me tornei a pessoa que sou agora.@
+` A Akiha se tornou essa pessoa que é agora também.
+\
+` [line=3]Oito anos é muito tempo.@
+` É metade da vida que vivemos até agora.@
+` Eu estive ausente dessa mansão durante o período vital em que uma criança se torna um adulto.@
+br
+`"…… Eu sinto muito, Akiha."@
+` Acho que as coisas teriam sido melhores se eu estivesse com ela durante esses oito anos.@
+` Sem perceber, murmuro um pedido de desculpas.
+\
+bg #000000,crossfade,800
+playstop
+!w1000

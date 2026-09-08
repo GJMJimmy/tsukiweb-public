@@ -1,0 +1,121 @@
+playstop
+wavestop
+bg "bg/bg_06g",notrans,0
+`"[line=10]"@
+` Os passos continuam.@
+` [line=4]Só tenho uma chance.@
+` No instante em que ela passar por esta sala, vou pular para o corredor e atacá-la.@
+` Se a distância for muito grande, vou ser morto igual ao SHIKI.@
+`"[line=10]"@
+` Os passos não param.@
+` …… Uma distância de quase dois metros.@ Na velocidade que ela está andando, deve ser cerca de oito passos.@
+`"……………… Certo."@
+` Silenciosamente, me preparo e coloco a mão na porta.@
+` Tap, tap.@ O som dos seus passos fortes se aproxima.
+\
+` Um.@
+`   Dois.@
+`     Três.@
+`      Quatro.@
+`        Cinco.@
+`          Seis.@
+`            Sete.@
+`              Oito……!
+\
+!w2000
+` Os passos param.@
+` Ela ainda não passou por esta sala.@
+` Ela está parada do outro lado da porta.@
+wave se_01
+!w2000
+br
+`"O qu[line=7]"@
+` O tempo para.@
+` Tum.@ A minha cabeça dói muito.@
+br
+wave se_01
+!w2000
+`"[line=10]"@
+` Será que ela sabe?@ Será que ela sabe?
+\
+wave se_01
+!w2000
+` Então, o que devo fazer?@
+` Ela não pode entrar aqui a menos que abra a porta.@
+` E ela precisa entrar aqui para poder me ver.@
+wave se_01
+br
+` Então[line=3]enquanto esta porta estiver fechada, ela não pode me matar.
+\
+waveloop se_02
+`"[line=9]"@
+` …… Sendo assim, não dou a mínima.@
+` Não tem problema se ela tentar abrir a porta.@ Vai ser uma batalha entre o que será mais rápido: o meu "corte" ou o seu "olhar".@
+` Estou calmo.@
+` Respiro profudamente.@
+` Mas nada muda o fato de que estou em desvantagem.@
+` A única coisa que a Akiha precisa fazer é olhar.@
+` Já eu preciso ver as "linhas" no seu corpo e cortá-las com a faca.@
+` Já que tenho que fazer um movimento extra, mesmo que ela esteja ao meu alcance, não posso dizer que tenho qualquer vantag[line=4]
+\
+wave se_08
+`"[line=7]Hã?"@
+` De repente,
+` Uma janela é quebrada.@
+wave se_10
+bg #9c0120,notrans,0
+quakex 3,50
+`"O qu[line=5]"@
+` O meu cérebro congela.@
+` Instantaneamente perco a sensação dos meus braços e pernas.@
+` O meu corpo pesado é levantado e jogado contra a parede.
+\
+bg #000000,tshutter,400
+`"Ha[line=4]ah[line=4]!"@
+` O meu campo de visão é cortado.@
+` A água nos meus olhos evapora instantaneamente e não consigo ver mais nada.@
+` Não entendo nada do que está acontecendo nesta sala.@
+` Só sei o que está acontecendo comigo.@
+` Estou suspenso no ar e, assim como a Kohaku-san naquela hora, estou sendo crucificado na parede pelos cabelos da Akiha.
+\
+play "*4"
+`"Que descuidado!@ Não sou nada se comparada a um assassino nato que nem você, Nii-san, mas mesmo assim ainda consigo esconder a minha presença.@
+` Bem, foi isso que fiz e enquanto você estava prestando tanta atenção no corredor, eu passei pela sala ao lado.@ Da próxima vez, aprenda com a experiência e preste atenção na varanda também."@
+` Ela ri.@
+`"Ah[line=8]gg!"@
+` O meu pescoço está sendo apertado.
+\
+` Não sinto os meus membros, é como se eles tivessem sido cortados.@ O meu corpo está sendo saturado com os cabelos da Akiha.
+\
+`"Ah, isso foi rude.@ Não haverá 'próxima vez' para você, Nii-san.@
+` Além disso, me desculpe.@ Acabei devorando você na hora e de forma bem brusca.@
+` Embora eu tenha consumido uma grande parte de você no calor do momento, você continua consciente, certo?@ Por favor, perdoe a minha falta de educação, vou fazer do jeito certo dessa vez."
+\
+br
+!w2000
+br
+br
+br
+br
+br
+br
+` [line=4]Muito bem, itadakimasu.@
+`     Adeus, Nii-san.
+\
+bg #ffffff,crossfade,800
+`"[line=10]"@
+` O meu corpo está queimando.@
+` A Barreira de Cabelo Vermelho cauteriza tanto o meu corpo quanto a minha alma.@
+br
+` Tu, dum.@ Ouço a última batida do meu coração.@
+br
+` …… Como[line=3]fui idiota.@
+` Mesmo sabendo tanto, o Nanaya Shiki ainda teve o mesmo fim que o Tohno SHIKI.
+\
+!w3000
+bg #000000,crossfade,400
+playstop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

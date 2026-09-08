@@ -1,0 +1,24 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` This is the last lesson for the day, but let's all have high spirits.@
+` Yes, since it is a long story, you might get sleepy, or hungry, or your fingers might get tired, but please plan accordingly so your schedule and energy levels allow you to keep on playing.@
+br
+` Now, it is after school.@
+` The reason is obvious, right?@
+` It irritates me to defend her, but if you've come this far, you have to keep going until the very end!
+\
+` …… Saying that, maybe such an end is happiness for Tohno-kun though.@
+` Maybe the title "Cream" defines everything.@
+` It really does tug at the heart strings.@
+br
+` This concludes the day's lessons.@
+` Let's meet again on the second day of lessons!
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,35 @@
+bg #000000,notrans,0
+playstop
+waveloop se_11
+!w4000
+bg "bg/bg_40a",crossfade,800
+` ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… Ya no puedo escuchar el molesto sonido del reloj.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` Noc, No[line=4]c.@
+br
+` El ritmo de mi respiración se ha vuelto totalmente errático y no puedo repararlo.@
+` …… Hace un frío mortal.@
+` Si hace tanto frío, quiero que todo deje de importarme[line=4]tengo ganas de dormir.
+\
+bg #000000,crossfade,800
+` Noc Noc, Noc.@
+` Noc, Noc, Noc.@
+` Noc Noc Noc, Noc Noc.@
+` Noc, Noc, Noc[line=3]Noc.@
+` Noc, Noc Noc, Noc[line=5]Noc.@
+` noc[line=5],,,,,,noc.@
+` ,,,,[line=3]noc noc, noc noc.@
+br
+`"[line=8]"@
+br
+` Creo escuchar un ruido de golpeteo.@
+` Tal vez sea Hisui.@
+` Pero mi cuerpo ya no se mueve.@
+` Tohno Shiki, vivirá para siempre en esta jaula, y nadie matará a Tohno Shiki…
+\
+bg #ffffff,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,67 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",notrans,0
+` …… Talvez eu esteja exagerando se for me desculpar agora.@
+` A Kohaku-san falou que era para manter a nossa conversa em segredo.@ Além disso, conhecendo a Akiha como conheço, se eu for até ela e disser "Me desculpe por tudo", tenho certeza que ela vai ficar brava na mesma hora.@
+br
+`"…… É, vou esperar até a hora do almoço."@
+` Ainda transtornado, eu permaneço na minha classe e me preparo para o próximo período.
+\
+bg #000000,tcartain,800
+!w1500
+play "*3"
+bg "bg/bg_06a",tcartain,400
+` Está na hora almoço.@
+` Ir para o pátio almoçar juntos é como um acordo não dito, portanto, se eu for para lá, vou me encontrar com a Akiha.@
+` …… *suspiro*@
+` Mas hoje não vai ser fácil.@
+` Eu quero me desculpar com ela por causa de hoje de manhã, mas não tenho ideia nem de como começar a conversa.@
+ld c,"tachi/ari_t01",lshutter,400
+`"E aê, Tohno.@ Vamos logo para o pátio.@ A Akiha-chan está esperando."@
+` ……  É o que diz esse incômodo em forma de ser humano.@ De toda forma, eu não vou deixar ela lá sozinha.@
+` …………… *suspiro*@
+` Eu suspiro profundamente e saio da classe junto do Arihiko.
+\
+bg #000000,lshutter,800
+bg "bg/bg_04",lshutter,800
+` A Akiha ainda não chegou.@
+` Como a Ciel-senpai também vai vir, acho que vamos ter que almoçar na grama ao invés de comermos no banco.
+\
+bg #000000,tshutter,400
+bg "bg/bg_04",bshutter,400
+ld l,"tachi/cel_t01a",lshutter,800
+`"Cheguei.@ Ué, a Akiha-san ainda não chegou?"@
+ld r,"tachi/ari_t01",crossfade,400
+`"Pois é, mas já deve estar chegando[line=4]ah, olha ela aí.@ Akiha-chan, estamos aqui!"@
+` O Arihiko balança a mão para todos os lados.@
+` A Akiha chega, parecendo um pouco confusa.
+\
+cl l,crossfade,400
+ld l,"tachi/aki_t04a",lshutter,800
+`"Desculpem-me pelo atraso.@ Recebi um convite para almoçar com algumas colegas de classe e acabei demorando um pouco para recusar."@
+ld r,"tachi/ari_t02",crossfade,400
+`"Não se preocupe, também acabamos de chegar.@ Anda logo, senta aqui."@
+` O Arihiko dá uma batidinha na grama.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"Podemos fazer isso mesmo?@ Não vejo mais ninguém sentado na grama almoçando."@
+`"Tá tranquilo.@ Não é proibido.@ Tá de boa.@ Não se preocupe."@
+` O Arihiko dá mais uma batidinha na grama.
+\
+`"[line=5]Certo, então com licença."@
+` Ela faz uma breve mesura e se senta ao meu lado.@
+cl a,crossfade,400
+`"Ug…………"@
+` …… Ainda não superei o incidente dessa manhã.@ Acho que por isso fico meio tenso com ela sentando tão perto de mim.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=4]Qual o problema, Nii-san?@ Você não parece bem.@ Não está com fome……?"@
+` Ela me observa em silêncio, como se tentasse adivinhar o que estou sentindo.
+\
+`"O qu[line=5]eu não estou me sentindo mal."@
+` …… Não estou mesmo, mas está bem estranho o clima agora.@
+` Parece que ela não está se importando com o que aconteceu mais cedo, mas isso está me incomodando muito e as palavras da Kohaku-san continuam martelando dentro da minha cabeça.
+\
+cl c,crossfade,400
+`"…………"@
+` E o pior de tudo é que agora eu não sei nem como conversar com ela e acabo ficando em silêncio.
+\

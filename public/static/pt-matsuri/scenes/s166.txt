@@ -1,0 +1,17 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"Como eu poderia entender?@ Você é uma vampira, aposto que pensa de uma forma bem diferente dos seres humanos."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Ei……!@ Não tem nada disso!@ A minha forma de pensar é basicamente igual a dos humanos, a diferença é mínima!"
+\
+`"Mas ainda assim é diferente, certo?@ Mesmo deixando isso de lado, é impossível entender os sentimentos dos outros.@ Eu não tenho certeza nem das minhas próprias emoções, para mim é algo impossível entender a forma de pensar de uma vampira.@
+ld c,"tachi/ark_t04",crossfade,400
+`"Pois é!@ Eu também não entendo você; nem há necessidade de entender!@
+` É, sou mesmo uma idiota por te perguntar uma coisa dessas!"@
+cl c,crossfade,800
+` A Arcueid me dá as costas resmungando um "hmph!"
+\
+` …… Ela ficou meio irritada, mas pelo menos parece estar convencida.
+\

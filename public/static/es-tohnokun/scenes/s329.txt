@@ -1,0 +1,139 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+ld l,"tachi/ari_t05",lshutter,400
+`"Aquí tienen, almuerzo para tres… ¿huh?@ ¿Qué, estoy interrumpiendo algo?"@
+ld r,"tachi/aki_t01a",crossfade,400
+`"No, en absoluto, Senpai.@
+ld r,"tachi/aki_t04a",crossfade,400
+` ¿Eres amigo de Nii-san?@ Soy la hermana menor de Tohno Shiki, Akiha.@ Es un placer conocerte."@
+` Akiha se inclina suavemente.
+\
+ld l,"tachi/ari_t01",crossfade,400
+`"En absoluto, el placer es mío.@ Soy Inui Arihiko, he conocido a Tohno desde la escuela media, pero hoy es la primera vez que oigo hablar de ti, Akiha-chan."@
+` …… Tal vez aún me guarda rencor por no hablarle sobre ella, porque dice cosas que no debe.
+\
+`"Bueno, Arihiko, vamos a comer.@ El almuerzo es corto, así que no hay tiempo para charlar con Akiha."@
+ld r,"tachi/aki_t02",crossfade,400
+` Ignoro la mirada feroz de Akiha, y acepto el almuerzo que trajo Arihiko.@
+`"Aquí tienes, Akiha.@ Hay pan de curry y leche; puedes comer aquí.@ No hay mucho tiempo, así que no puedes tardarte mucho."
+\
+ld r,"tachi/aki_t21",crossfade,400
+`"Ya lo sé.@ No soy una niña, no tienes que explicarme cada pequeña cosa."@
+ld l,"tachi/ari_t03",crossfade,400
+`"Es cierto, Tohno.@ ¿No eres un poco cruel con Akiha-chan?"@
+` Arihiko me abuchea.@
+`"…………"@
+` Ignorándolos, abro mi pan y meto la pajilla en la leche.
+\
+cl a,crossfade,400
+` Munch.@
+` Munch munch.@
+` Munch munch munch.@
+br
+`"[line=5]"@
+` Cierto.@ Ya terminó el almuerzo, es hora de volver a clases.
+\
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Ah, Nii-san."@
+` Akiha habla tímidamente.@
+` Al mirar, veo que ni siquiera ha abierto su pan de curry.@
+`"¿Qué sucede, Akiha?@ ¿No tienes hambre?"@
+`"Es… bueno, no es eso, es sólo…"@
+` Ella mira hacia arriba, como si estuviese avergonzada o algo así.@
+br
+`"…… ¿Podrías… enseñarme cómo se come esto…?"@
+br
+`"……"@
+` Ella me mira con vacilación.@
+` Y… ¿qué se supone que diga?
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"¿Cómo se come?@ Sólo rompe el envoltorio y cómelo.@ No es difícil, ¿verdad Tohno?"@
+`"Arihiko, perdona pero, ¿podrías ir a buscar una servilleta en la cafetería?"@
+`"…… ¿Eh, yo?"@
+` Asiento silenciosamente.@
+ld c,"tachi/ari_t03",crossfade,400
+`"Bien, pero me debes una."@
+cl a,lshutter,400
+` Arihiko corre nuevamente hacia el edificio escolar.
+\
+`"De acuerdo, te enseñaré.@ Abres la bolsa aquí, así.@ Y lo muerdes… es bueno, pero no esperes demasiado del sabor.@ La comida de Kohaku-san y esto son como el cielo y la tierra."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Ahh… ¿en serio, Nii-san?"@
+`"No estoy bromeando.@ ¿O qué vas a decir?@ ¿No me dirás que aunque te transferiste a nuestra escuela no puedes comer nuestra comida?@
+` No quiero pensar mal de ti."
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"No, no es eso, es sólo que… este pan, es muy grande, no creo que pueda meterlo en mi boca…"@
+`"…… Nadie dijo que debías comerlo todo en un solo bocado.@ Es pan, tienes que morderlo poco a poco.@ Dejará migajas en tu boca, pero Arihiko te traerá una servilleta para limpiarla, ¿de acuerdo?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Sí.@ Gracias, Nii-san."@
+cl a,crossfade,400
+` Diciendo eso, Akiha comienza a morder el pan de curry.@
+` …… No creo que haya habido alguna vez una chica con tantos nervios para comer un pan de curry.
+\
+bg #000000,tshutter,800
+bg "bg/bg_04",bshutter,800
+` Han pasado pocos minutos desde que Akiha terminó su almuerzo.@
+` La presencia de Arihiko no parece molestarla, ya que han iniciado una placentera conversación.
+\
+ld l,"tachi/aki_t04a",crossfade,400
+`"Entonces Inui-san, ¿has sido amigo de Nii-san desde la escuela media?"@
+ld r,"tachi/ari_t01",crossfade,400
+`"Sí, lo conozco desde hace cinco años.@ Ha sido un tipo fastidioso desde que nos conocimos.@ Le ayudé en toda clase de cosas, y antes de darme cuenta, se hizo parte de mí."@
+`"…… Arihiko, eso no es correcto.@ Deberías llamarlo extorsión."@
+ld r,"tachi/ari_t02",crossfade,400
+`"¡Ahh, llámalo como quieras, estamos atados el uno al otro!"@
+` Arihiko ríe.
+\
+`"Sí.@ Como cuando algo se queda pegado a la suela de tu zapato.@ Supongo que nos causamos muchos problemas el uno al otro."@
+` Respondo cínicamente a la risa de Arihiko.@
+ld l,"tachi/aki_t13a",crossfade,400
+`"………………"@
+` …… Por alguna razón, Akiha parece tener problemas para asimilar nuestra relación.
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Oh, por cierto Akiha-chan, ¿puedo preguntarte algo?"@
+ld l,"tachi/aki_t04a",crossfade,400
+`"Por supuesto, si es algo que pueda responder."@
+`"Bueno, me lo he estado preguntando… Tohno tiene anemia crónica, ¿cierto?@ ¿Siempre ha sido así?"@
+` …… Lo asombroso de Arihiko es lo directo que es cuando hace preguntas incómodas como éstas.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"Sí, Nii-san ha sido anémico desde que nació.@ Pero todos en la familia Tohno tienen problemas similares; él no es un caso especial."@
+`"¿Eh…?@ ¿En serio, Akiha?"@
+`"Sí.@ Papá sufría de manía depresiva.@ Trastorno de Identidad Divergente, para ser más precisa."
+\
+ld r,"tachi/ari_t03",crossfade,400
+`"¿Qué?@ ¿Identidad Divergente…?"@
+ld l,"tachi/aki_t04a",crossfade,400
+`"Mejor conocido como personalidades multiples.@ Pero, lo de Papá no era tan severo como para causar confusión de la memoria."@
+cl a,crossfade,400
+br
+` [line=4]No lo sabía.@
+br
+` Pero ahora que recuerdo, el carácter de Tohno Makihisa frecuentemente parecía pasar de la ternura a la brutalidad.
+\
+`"Hmm… entonces, era una condición médica, ese viejo…"@
+` Viéndolo de esa manera, todo se hace claro.@
+` Antes del accidente, siempre sentí que papá era un hombre afectuoso, que mantenía su distancia.@
+` Pero después del accidente, Makihisa evidentemente me odiaba.@
+` Pensándolo bien, puede haber sido a causa de su enfermedad.
+\
+wave se_03
+ld l,"tachi/ari_t03",crossfade,400
+`"¡Argh!@ ¡Terminó la hora del almuerzo, Tohno!"@
+`"No te quejes conmigo.@ Vamos Akiha, deberías volver a tu salón rápidamente.@ Sería avergonzante llegar tarde en tu primer día."@
+ld r,"tachi/aki_t09",crossfade,400
+`"Entiendo.@ Cuídate, Nii-san."@
+cl a,crossfade,400
+` Mientras resuena la campana, regresamos a nuestras aulas.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06b",rcartain,800
+` Un día lleno de altibajos finaliza.@
+` ¿Qué debería hacer ahora[line=3]
+\

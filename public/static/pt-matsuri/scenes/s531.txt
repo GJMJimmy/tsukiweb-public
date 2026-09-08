@@ -1,0 +1,29 @@
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*3"
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Você chegou ao Final Bom da Hisui.@ Parabéns!@
+br
+` Cada heroína (com exceção de uma) tem dois tipos diferentes de finais.@
+` Um Final Verdadeiro e um Final Bom.@
+` Já que não se pode chegar ao Final Bom da Hisui sem ter visto o Final Verdadeiro, você acabou de completar tudo da rota da Hisui-san!
+\
+` Muito obrigada por jogar até aqui.@
+` Vamos nos encontrar novamente em algum lugar de Tsukihime.@
+br
+`"Ciel-san.@ Eu também tenho algo que preciso comunicar."@
+br
+` Hã, professor Roa?@ É raro vê-lo por aqui."
+\
+ld l,"tachi/roa_t05a",lshutter,400
+`"Esta circunstância é única.@ Vou direto ao ponto.@ Agora que você completou tudo na rota da Hisui-san, deve haver uma nova escolha para você fazer no primeiro dia.@
+` E assim está liberada a última rota de Tsukihime.@
+` …… Bem, mesmo se eu não dissesse isso, ficaria muito claro quando você fosse até a galeria de imagens."@
+br
+` É isso mesmo.@
+` E por favor, continue jogando e desfrutando de Tsukihime!
+\
+bg #000000,crossfade,800
+playstop

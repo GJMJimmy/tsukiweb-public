@@ -1,0 +1,54 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Merci ！@
+`　为了好不容易走到这里，却忽然迎来Bad End 的远野君所准备的、
+`“教教我吧！@知得留老师”的时间又到了。@
+br
+`　第二日的课程，终于到了第六讲了。@
+`　终于已经能看到终点线了呢ー。
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`「真好啊ー，希耶尔的出镜率这么高。@我虽然是女主角可还是被那帮家伙们画得跟涂鸦似的」@
+br
+`　喂喂，不要说这么奇怪的话嘛。@
+`　这有什么不好的，不像我这样需要收拾各种各样的烂摊子。@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不嘛ー、不满ー！@　我也想穿成希耶尔这样子、让别人夸我聪明嘛ー！」
+\
+`　…………。@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不能出场！@　不能出场！@　不能出场！@　不能出场！@　不能出场！」@
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不能出场！@　不能出场！@　不能出场！@　不能出场！@　不能出场！@　希耶尔眼镜！@　不能出场！@　不能出场！@　不要希耶尔！@　不能出场！」@
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`「不能出场！@　不能出场！@　不能出场！@　不能出场！@　不能出场！@　希耶尔眼镜！@　希耶尔低级！@　希耶尔下台！@　眼镜希耶尔！@　假法国人！@　手枪控！@　希耶尔印度！」@
+br
+`　…………（呣嘎）
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+`「唔啊啊啊啊啊啊啊啊………………」@
+br
+ld r,"tachi/cel_t20",lshutter,400
+br
+`[line=4]接下来，开始授课。@
+br
+`　直接来说，就是你需要重来。@
+`　到目前为止，看来远野君还没有真正把翡翠的心吸引过来。@
+`　回到第五天或者第六天，请再挑战一次。
+\
+bg #000000,crossfade,800
+playstop

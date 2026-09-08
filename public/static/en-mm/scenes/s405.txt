@@ -1,0 +1,364 @@
+playstop
+wavestop
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+`"[line=5]"@
+` I have a headache.@
+` …… I don't quite understand how, but what I did with Hisui helped me regain some of my strength.@
+` But in exchange, my headaches have gotten much worse.@
+wave se_04
+` …… I hear a knock at the door.@
+` It's probably…… Kohaku-san, I suppose.
+\
+ld c,"tachi/his_t01",lshutter,400
+play "*9"
+`"Please excuse me, Shiki-sama."@
+`"[line=9]Eh?"@
+` The one who came was Hisui.@
+cl c,lshutter,400
+`"[line=7]"@
+` Hisui wordlessly performs her usual check-up.@
+` Because I haven't slept today, I'm not bleeding.@
+` I'm not using an IV, so after taking a few measurements and changing the sheets, she gives me some water and medicine.
+\
+`"[line=7]"@
+` The whole time, there is nothing but silence between us.@
+` …… After doing what I did, I can't look at her in the face.@
+` I think Hisui is like that too, but Hisui probably still dutifully and methodically carries out all her normal tasks because of her role as a servant.
+\
+` And all of a sudden.@
+ld c,"tachi/his_t02",lshutter,400
+`"Shiki-sama, how is your body's condition?"@
+` She talks to me.@
+`"Um, I, uh[line=5]"@
+` As far as my condition goes, I can move a little more than before because of what happened earlier, but[line=3]
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama, is there something the matter?@ Your face appears very red."@
+`"My, my face is red… because[line=3]Hisui, you…"@
+`"Yes?@ What did I do?"@
+` Hisui tilts her head to the side questioningly.
+\
+`"Uh[line=5]"@
+` Damn it, I can't just say it.@
+` And I still haven't been able to apologize for before.@
+`"That is, I…… I'm sorry about before.@ You must have been embarrassed to do it, but I treated you a bit rough."@
+ld c,"tachi/his_t20",crossfade,400
+`"Ah…………"@
+` Hisui lowers her gaze as if embarrassed.@ I suppose she remembers now.@
+br
+` [line=4]I guess that's not the reason.
+\
+ld c,"tachi/his_t02",crossfade,400
+`"…… Do not worry, Shiki-sama.@ I must apologize as well, for doing that to your body without asking.@ It is only natural if you end up hating me."@
+`"Wha[line=3]hate you?@ I have no reason to hate you……!@ No matter what happens, I won't hate you.@ …… Besides, it is only natural if you end up hating me."@
+cl c,crossfade,400
+` My whole body becomes heavy as I say this.@
+` Even though I'm the one who said it, it should be about time Hisui is getting tired of hearing me.
+\
+` I bet she's remembering what happened before and hating me even as I speak…… Huh?@
+ld c,"tachi/his_t14",lshutter,800
+` …… That's odd.@
+` Why is Hisui smiling so happily?@
+`"…… Hisui.@ Why, are you smiling?"@
+`"Shiki-sama, your words and mine were the same.@ I thought it was amusing."@
+` Hisui giggles, as if it is really funny.
+\
+` …… My head starts spinning.@
+` Hisui's rare smile is so cute, I'm about to go crazy.@
+bg #000000,notrans,0
+ld c,"tachi/his_t29",crossfade,400
+bg "bg/bg_40a",notrans,0
+` That might be why.@
+` Her smile looks incredibly scary to me.
+\
+`"…… Anyway, I haven't said thanks yet.@ Thank you for before, Hisui.@ …… The, method was a little problematic, but thanks to you my body is better.@ I may even be able to walk a little."@
+ld c,"tachi/his_t03",crossfade,400
+`"Eh[line=3]ah, yes.@ Even though what I did is a small thing, I am happy that I could be of some use."@
+` Hisui looks at me directly.@
+` …… Seeing her like that makes me remember what happened, and I start to get a little uncomfortable.
+\
+`"…… But, about before, I don't think it was really appropriate.@ I'm happy, but it's not quite right."@
+ld c,"tachi/his_t01",crossfade,400
+`"…… Not quite, right?"@
+`"Yes.@ That's, something that both parties should agree to… and even though you're a servant, you don't have to go that far…"@
+ld c,"tachi/his_t08",crossfade,400
+`"I understand.@ As you say, I will ask for your permission before I touch you next time."@
+` …… No, you're missing my point…
+ld c,"tachi/his_t16",crossfade,800
+`"Please excuse me.@ If anything happens, please call for me, Shiki-sama."@
+cl c,lshutter,800
+` Hisui walks out of the room.
+\
+`"…… She's really calm……"@
+` I'm a bit taken aback.@
+` Just seeing Hisui's face makes me blush, but Hisui acted just like she always does.@
+`"…………"@
+` I don't get it.@
+` Something doesn't feel quite right and lingers in the back of my mind.
+\
+bg #000000,lshutter,800
+playstop
+!w2000
+waveloop se_02
+!w3000
+monocro #fffff0
+bg "bg/bg_40b",crossfade,1500
+`"A[line=6]"@
+` When I open my eyes, the day has already passed.@
+` …… It seems I fell asleep, but I don't remember when.
+\
+` *pant* *pant* *pant* *pant*
+br
+` My breathing is ragged.@
+` My body is burning.@
+` My body.@ My body feels like it's roasting, erupting into flames.
+\
+`"…… Wa…… ter……"@
+` My throat is thirsty.@
+` It's so hot, I can't even speak.@
+` I can't even call for Hisui or Kohaku-san.@
+`"………"@
+` My empty room.@
+` I start to feel down staying in this room for so long.@
+` This restless room.@
+` This room I don't remember.@
+` …… This room, it feels, like it isn't my room.
+\
+`"…… Wa…… ter……"@
+` I'm thirsty.@
+` Water.@ I should go back to my house, and quickly, get some water to drink.
+\
+bg #000000,crossfade,400
+bg "bg/bg_46b",crossfade,400
+` I gasp for air.@
+br
+` Placing my hand on the wall and feeling like I'll collapse any second, I manage to drag myself out of my room.@
+br
+` I have trouble breathing.@
+br
+` …… What is this?@ I haven't even walked thirty feet and already my heart feels like it will explode.
+\
+` I need more air.@
+br
+` Still, I have to go.@
+` I might die if I walk anymore.@
+` But if I don't get any water to drink, I'll probably die anyway.@
+` Then, I'll walk and go get some water.@
+` I can't just stay and lounge on my bed forever.
+\
+bg #000000,crossfade,400
+bg "bg/bg_42b",crossfade,800
+` *pant*…… *pant*…… *pant*……
+br
+` I go out into the courtyard.@
+` Water[line=4]this, isn't, the kitchen though.@
+br
+bg #000000,crossfade,400
+bg "bg/bg_54b",crossfade,400
+` ……… *pant*……… *pant*
+br
+` I enter the woods.@
+` …… Soon.@
+` Soon, I will be able to be at a place with water, a familiar place.
+\
+bg #000000,crossfade,800
+bg "bg/bg_44a",crossfade,800
+` *pant* ………… *pant*
+br
+` With the fever getting to me, I arrive at the place.@
+` White, sunshine.@
+` Even though the day is already ending, the entire world is white.@
+` This place is burning hot like a desert, and I squint my eyes since the world is so white.@
+br
+br
+` …… Thud.@ I hear a noise.@
+` …… It comes from the detached house.@
+` …… Someone.@
+` …… Someone's inside?
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_45b",crossfade,400
+` Opening the sliding door very slightly, I peer in from the porch.@
+` Inside, I see the figures of Akiha and Kohaku.@
+` They look a little strange.@
+` I hear the swishing of an obi being removed.@
+br
+` [line=5]What…?@
+br
+` Without a word, Kohaku pulls down her kimono and bares her breasts.
+\
+monocro off
+bg "event/aki_h13",lshutter,800
+` Kohaku stands there with a blushing face, but does not move.@
+` Akiha presses her lips against the bared white chest.@
+br
+` Tension.@
+br
+` Kohaku looks down at her bare chest, and Akiha crouches so that she is burying her face in Kohaku's breasts.@
+` A thin red drop makes a line down her breast.
+\
+` Akiha's throat starts to move, swallowing something.@
+` What[line=3]what is she drinking?@ There's no need to ask; I already understand.@
+br
+` Akiha, she's drinking, Kohaku's blood[line=4]
+\
+bg #ffffff,crossfade,800
+bg "event/aki_h13",notrans,0
+` …… I feel dizzy.@
+` My mind goes blank.@
+` All I can do is stare at the strange event happening before my eyes, like in a daydream.@
+` Suddenly, Akiha opens her mouth with her arms still around Kohaku.
+\
+`"About the killer…… what do you think, Kohaku?"@
+`"Let's see.@ I think there can be no mistake that it's the work of SHIKI-sama."@
+br
+` [line=4]What.@
+br
+`"I[line=3]I suppose so.@ I have no idea how he can walk around with that body, but we can't leave him alone.@ The impurity of the Tohno blood that has awakened must be cleansed by those of the Tohno blood."@
+br
+` [line=4]Just, what are they saying?
+\
+`"Then, Akiha-sama."@
+`"Yes.@ As the head of the Tohno family, I will kill my brother."@
+br
+` [line=4]Those words send chills down my spine.@
+br
+` Akiha isn't playing around.@ Even Kohaku-san nods seriously.
+\
+`"Then, Akiha-sama.@ We should let Hisui-chan know about this too."@
+`"You're right.@ …… But we shouldn't need her help.@ My brother can't move around as he likes, so we should be enough to kill him."@
+br
+` [line=4]*pant* *pant* *pant*
+` My breathing gets out of control.@
+br
+`"You understand, Kohaku?@ Don't let Nii-san pick up on any of this.@ It will all be over in a few days, so let's not trouble him."@
+`"Yes, I understand.@ He can't even move from his bed by himself, so he will never find out."
+\
+` [line=5]*pant* *pant* *pant*
+br
+` My fingers shake uncontrollably.@ Nausea permeates my being and I almost pass out.@
+bg #000000,crossfade,800
+br
+` But, I can't pass out here.@
+br
+` [line=5]I have to get away.@
+br
+` If I pass out here, I'll surely be killed.@
+` If they find out I was watching them, they'll kill me right here.
+\
+` I struggle for breath.@
+` …… I don't understand.@
+` I don't understand why they would want to kill me.@
+` Even my brain trying to understand doesn't work because of the fever.@
+` …… I don't understand.@
+` This, has to be a bad dream.
+\
+br
+br
+br
+br
+br
+br
+` [line=10]Dream
+`         Dream[line=10]?
+\
+` Yes, this is a dream.@
+` Like always, this has to be just another one of my nightmares.@
+` Then, I have to wake up quickly.@
+` Before this horrible vision consumes me, I have to wake up and return to my normal life[line=4]
+\
+monocro off
+wavestop
+!w2000
+bg "bg/bg_40b",lcartain,1500
+play "*1"
+`"Ah[line=5]"@
+` …… Somehow, I make it to my room.@
+` Now[line=3]yes, now I, should lock the door[line=2]
+br
+ld c,"tachi/his_t12",lshutter,400
+`"Shiki-sama."@
+`"[line=7]"@
+` …… I don't know how long she has been there, but Hisui is standing in my room.
+\
+ld c,"tachi/his_t13",crossfade,400
+`"What are you doing?@ In your condition, walking is very dangerous."@
+`"Hi…… sui."@
+`"Please, lay down.@ If you push yourself, Akiha-sama will scold me."@
+`"Akiha…… will scold……?"@
+br
+` Why would she get in trouble if I went outside?@
+` …… No, I understand perfectly.@
+` Akiha realizes that I'm the killer.@ So she plans to lock me in my room, and when night comes, kill me.
+\
+`"[line=4]Please leave, Hisui."@
+`"Shiki-sama……?"@
+`"I won't let anyone in this room.@ Even you, no one will ever come in again……!"@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama[line=3]kyaa!"@
+cl c,lshutter,400
+` I don't know where I got the strength, but I push her out into the hallway.@
+` Then, I shut the door and lock it.
+\
+`"Shiki-sama[line=3]!?@ Shiki, sama, please open the door, Shiki-sama……!"@
+` She knocks on the door.@
+` Ignoring it all, I crumble to the floor.
+\
+bg #000000,crossfade,800
+!w3500
+wave se_01
+br
+` [line=4]Pai, n.@
+br
+` It sticks inside my brain.@ The poison permeates every pore in my body.@ Every time I take a breath, the mold invades my whole body.@
+wave se_01
+br
+` [line=4]I can't move freely.@
+br
+` Something other than my organs or my functions, but something more from the core, like my very own energy, seems to be flowing out of my body.
+\
+wave se_01
+` My heart has an invisible pipe sticking out of it.@
+` My "life" is flowing along this pipe to him.
+\
+wave se_01
+br
+` [line=5]It, hurts.@
+br
+` So I can't make it.@
+` No matter how hard my body tries to recover, he takes away everything.@
+` So unless I take in something from the outside world, I can't live.@
+wave se_01
+` Intravenous drip.@ Nutrient supplement.@ Injection.@ Sedative.@ Moisture.@ Blood.@ Reason.@ Intelligence.@ Feelings.@ Memory.@ Sight.@ Sound.@ Taste.@ Touch.@ Smell.@ Bodily fluids.@ Love.@ Impulse.
+\
+` [line=6]Ha…… a
+br
+` These drugs, all they can do is barely keep me alive.@
+` This isn't healing me.@
+` If there's something that will help me move, it's[line=4]
+\
+wave se_01
+bg "event/his_h14",notrans,0
+!w1500
+bg #000000,notrans,0
+!w1000
+bg #ffffff,notrans,0
+bg "bg/bg_40c",crossfade,400
+` Knock.@ Knock.@ The sound wakes me up.
+\
+br
+` Knock Knock.
+\
+`     Knock Knock.@
+`        Knock Knock.
+\
+`"…… Sh…… ut, up!"@
+` Placing my hand on the wall, I manage to stand up.@ My own wheezing fills my ears.@
+br
+` Knock Knock.@ Knock Knock.@ Knock Knock.@
+br
+`"Nii-san!@ Please open the door, Nii-san."@
+` Akiha is banging on the door.@
+` …… That's right.@ I locked it, so no one can get in.
+\

@@ -1,0 +1,158 @@
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` Still, I have to at least say good morning.@
+` Avoiding Akiha because of this little thing will be confirming something is wrong with me.
+\
+bg "bg/bg_34a",lshutter,800
+play "*2"
+ld c,"tachi/aki_t09",crossfade,400
+`"Good morning, Nii-san."@
+`"Ah[line=3]"@
+` As soon as I enter the sitting room, Akiha greets me with a smile.@
+`"…… Ahh.@ Morning, Akiha."@
+ld c,"tachi/aki_t17a",crossfade,400
+`"'Morning, Akiha'…?@ What's wrong, Nii-san?@ You seem really depressed."@
+`"I just had a bit of a bad dream.@ But you seem to be in a good mood; did something nice happen?"
+\
+ld c,"tachi/aki_t08a",crossfade,400
+`"Yes, quite.@ You got up early.@ Perhaps we might be able to go to school leisurely today?@
+` Having time in the morning always puts me in a good mood."@
+`"[line=4]I see.@ Well, I'm glad, Akiha."@
+` As I answer, my chest hurts.@
+br
+` I…@
+` I might not be a person that deserves to be smiled at like that.
+\
+`"You should go ahead, then.@ You'll end up running if you wait for me."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Hm?@ Did you say something, Nii-san?"@
+`"I mean, if you like free time in the mornings, you should just go ahead.@
+` You don't really need to accompany me and I don't really have time to keep you company either.@ If you're ready, you should just go on ahead."@
+ld c,"tachi/aki_t23",crossfade,400
+`"Eh… well, that's true, but I…"@
+`"But what?@ You're saying you can't go to school on your own?@ Give me a break, you're not a child.@ We're not that young anymore."
+\
+ld c,"tachi/aki_t15a",crossfade,400
+`"[line=6]"@
+` Akiha stands up from the sofa.@
+ld c,"tachi/aki_t11a",crossfade,400
+`"Nii-san.@ Were you serious about what you just said?"@
+`"…… Not really.@ It's just what I thought."@
+cl a,crossfade,400
+` Her teeth grit.@
+` Akiha looks down, her shoulders shaking.
+\
+`"Akiha.@ You'll be late if you don't go soon."@
+ld c,"tachi/aki_t06",crossfade,400
+`"Yeah, I know!@ After all, I don't want to go with you and be late!"@
+`"Right.@ So go on…… I'm not in the mood to be with anyone right now."@
+ld c,"tachi/aki_t14",crossfade,400
+`"[line=4]"@
+!w750
+cl c,lshutter,800
+` Akiha rushes out.
+\
+`"[line=6]"@
+` …… What am I doing?@ I didn't mean to say that, so why[line=4]
+ld c,"tachi/koha_t04",lshutter,400
+`"Shiki-san, that was horrible!"@
+`"[line=3]Kohaku-san?"@
+`"Oh, I completely misjudged you!@ Why did you say such things to Akiha-sama!?"@
+`"…… I know.@ Even I didn't plan on turning her down."
+\
+`"No, you do not understand anything!@ You don't know how much Akiha-sama was looking forward to this while waiting for you up until now."@
+`"?@ [line=3]Waiting for me… you mean this morning?"@
+`"No.@ Akiha-sama told me not to tell you, but I can't bear this anymore!"
+\
+`"Listen, Shiki-san.@ Now, Akiha-sama eats breakfast with you normally, but it was a real hassle before she transferred."@
+cl a,crossfade,400
+br
+` …… I think the ladies' academy Akiha used to go to was in the next prefecture.@
+br
+`"[line=5]Next prefecture……?"@
+` Hold on.@
+` That's more than an hour's worth of driving.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"You finally noticed.@
+` To begin with, Akiha-sama would not have made it to school unless she left here at six.@ Nevertheless, she overlooked that because she was looking forward to eating breakfast with you."@
+`"…… Looking forward to?@ Why?@ She complains every time she sees me."@
+`"Because Akiha-sama isn't honest.@ If you ever woke up on time, I do not think she would have any complaints."
+\
+ld c,"tachi/koha_t04",crossfade,400
+`"But all you did was sleep in and didn't eat with her even once.@ But Akiha-sama told me just seeing your face in the morning is good enough, and she never told us to go wake you up."@
+ld c,"tachi/koha_t02",crossfade,400
+`"[line=3]Now do you understand?@ If you do, can you please apologize to Akiha-sama about earlier?"@
+`"[line=6]"@
+` ………… I was going to do that already, but…
+\
+`"I don't get it.@ What do you want me to do, Kohaku-san?"@
+ld c,"tachi/koha_t05",crossfade,400
+`"No, don't think too hard about it.@
+` You just act normally.@ But Akiha-sama isn't direct, so I just wanted you to be more considerate of her."@
+`"…………"@
+` Act normally?@ I think that's the most difficult thing for me to do right now.
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"Oh, and all this is a secret.@ If Akiha-sama finds out I told you this, I will get in trouble."@
+cl a,lshutter,800
+` Kohaku-san heads into the dining room with a smile on her face.
+\
+`"…………"@
+`"Come on, Shiki-san; if you don't hurry up and eat, you'll really be late…"@
+` I can hear Kohaku-san's voice from the dining room.@
+` I head into the dining room, hiding my embarrassed face with my hand.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_01a",lcartain,400
+` I arrive at the school gates just in time.@
+` Running all the way, I somehow escape being late.@
+br
+` [line=4]Then,
+` I'm patted on the shoulder from behind.@
+br
+ld c,"tachi/cel_t04",lshutter,800
+`"Good morning.@ Just made it today, huh Tohno-kun?"@
+`"…… Senpai."@
+ld c,"tachi/cel_t03",crossfade,400
+`"And it seems you're not with Akiha-san.@ Perhaps you overslept today?"@
+`"…… Uh, something like that.@ I had a bit of a fight with Akiha."
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Oh, it's no good for siblings to fight.@ Tohno-kun, you're the older brother, so you should go and apologize later."@
+`"…… You're right.@ We're in the same school, so I should go and apologize before lunchtime.@ On top of that, it was my fault to begin with."
+\
+` I sigh.@
+` Certainly my problems with Akiha are important, but I should worry about my own troubles for now.@
+` Last night's dream.@
+` Even though I knew I was asleep, I seemed to have wandered out at night.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"…… Tohno-kun?@ What's wrong?@ Are you worried about something?"@
+` Senpai stares at me with concern.@
+` I'm grateful for her concern, but I can't rely on her for this.
+\
+`"Eh?@ …… Ah, just a bit.@ But it's my problem, so I'll work it out.@ Thanks for worrying, Senpai."@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Really.@ Well, if it's something you can't solve on your own, I'm always here to help.@ I'd be happy to do whatever I can."@
+`"Yeah, if I'm in real trouble, I'll ask you, then."@
+br
+wave se_03
+!w750
+` …… As I speak, the morning bell begins to ring.
+\
+`"[line=3]Ack!@ Well, Senpai, later!"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Yep.@ I'll see you at lunch."@
+cl a,crossfade,400
+` Leaving Senpai standing leisurely as the first bell rings, I rush in the doorway.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06a",tshutter,800
+wave se_03
+` Second period ends.@
+` …… If I'm going to go apologize to Akiha about this morning, now would be the right time.
+\

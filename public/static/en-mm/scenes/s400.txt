@@ -1,0 +1,70 @@
+play "*3"
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… It is a little selfish, but I'd better ask Kohaku-san to make me something to eat.
+\
+bg #000000,lcartain,400
+bg "bg/bg_42b",lcartain,400
+ld c,"tachi/koha_t06",lshutter,400
+`"Ah, Shiki-san.@ You're back."@
+` Moving the broom off to one side, Kohaku-san bows.@
+`"Yeah, I'm back.@ I do have a little favor to ask, though."@
+ld c,"tachi/koha_t03",crossfade,400
+`"Yes?@ Is there something special you need?"@
+`"Um, I'm a little embarrassed, but…"@
+` Before I could even ask her nicely to make me something to eat,
+br
+` the growling of my stomach rumbles through the courtyard.
+\
+ld c,"tachi/koha_t09",crossfade,400
+`"[line=6]"@
+` Surprised, Kohaku-san just gapes.@
+`"[line=5]Uh."@
+` My face turns red… I didn't realize my body was that crass…
+`"…… Um, so that's it.@ I didn't have much to eat since morning, so I can't wait until dinner…"@
+`"[line=6]"@
+` Kohaku-san stares at me wordlessly and then, as if remembering, lets out a little laugh.
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"I understand.@ So you want me to fix you something light?@ Shiki-san, is there something you want in particular?"@
+`"Something I want?"@
+` …… To be honest, I was just hungry, and I didn't even think about what I wanted to eat.
+\
+`"Um…… I guess some pancakes would be fine."@
+` I don't know why, but the image of golden pancakes just pops into my head.@
+ld c,"tachi/koha_t03",crossfade,400
+`"Pancakes……?@ Shiki-san, I've heard that you do not like sweets, but…"@
+` Kohaku-san tilts her head in surprise.@
+`"Ah[line=3]no, I don't eat a lot of sugar, but it's not like I don't like it… I did eat lots of Japanese candy at the Arima's too…"
+\
+`"Really!?@ If that was the case, you should have told me earlier.@
+` I was wondering all this time if I should get you something during teatime.@
+` But from now on, I'll make you the same thing that I make Akiha-sama."@
+` Kohaku-san's voice suddenly brightens.@
+` …… But eating the same thing as Akiha, does she mean I'll be eating those dainty little shortcakes from now on…?
+\
+`"But, Shiki-san, why do you want pancakes?@ If you want, I can fix you something a little better."@
+`"Hm…… no reason, I guess.@ I like them because they are pretty simple."@
+ld c,"tachi/koha_t18",crossfade,400
+`"Ahaha, Shiki-san, you just said the same thing as Hisui-chan.@
+ld c,"tachi/koha_t01a",crossfade,400
+` This is a secret, but I think Hisui-chan really likes pancakes, too.@ Whenever she tries to cook something, it's almost always pancakes."
+\
+`"Really?@ …… That's pretty surprising.@ I thought she would like something a little more complex."@
+` Like, a very decorated cake that makes you wonder where to cut it from.@
+`"Isn't it?@ I think it is a little strange too, so I asked her.@ She told me it's because I told her that they are very simple to make.@
+` But she says she still can't make it to satisfy her…"@
+`"……………?"@
+` …… Um, so it's not that she likes pancakes, but just that she practices making them?
+\
+ld c,"tachi/koha_t06",crossfade,400
+`"Ah, sorry Shiki-san.@ I will go make you some, so please wait in the sitting room."@
+cl c,lshutter,800
+` With her broom in hand, Kohaku-san hurries toward the rear entrance.@
+`"[line=5]Well, whatever."@
+` In any case, I'll get to eat soon.@
+` I'll be able to have some tea and pancakes and then get to rest until dinner[line=4]
+\
+bg #000000,lcartain,800
+playstop
+!w2000

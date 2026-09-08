@@ -1,0 +1,39 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",crossfade,800
+play "*1"
+` [line=2]A Yumizuka não apareceu e já terminou o segundo período.@
+` Sem ter como descobrir o que houve, meu mau pressentimento só aumenta.
+\
+bg #000000,tshutter,800
+bg "bg/bg_06a",bshutter,800
+` Está na hora do almoço.@
+` Apesar da agitação desta manhã, a classe voltou à sua alegria diária.@
+` Parece que ninguém está levando a sério essa história da Yumizuka Satsuki ter fugido de casa.@
+ld c,"tachi/ari_t01",lshutter,400
+`"Tohno, vamos almoçar."@
+`"Não.@ Estou sem fome."@
+`"Hum… Então tá.@ Vê se não fica se preocupando demais com os problemas dos outros."
+\
+cl c,lshutter,400
+`"……"@
+` Problemas dos outros?@
+` As palavras do Arihiko não estão longe da verdade.@
+`"Hum?@ Você não está com o Inui-kun hoje?"@
+ld c,"tachi/cel_t01a",lshutter,400
+`"…… Senpai?@ O que veio fazer aqui na nossa sala?"@
+`"Pensei em almoçar com vocês… Tohno-kun, você não vai comer nada?"@
+` Ela se senta e fica me observando com ansiedade no olhar.
+\
+`"Eu estou sem apetite hoje."@
+`"Ah… Não está se sentindo bem?"@
+`"…… Não precisa se preocupar comigo, pode ir para o refeitório.@ É provável que o Arihiko já esteja lá."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Nossa, que falta de energia é essa!@ Não sei o que foi que te aconteceu, mas deixar de almoçar só vai piorar a situação."@
+`"É… Verdade.@ Mas…"
+\
+cl c,crossfade,400
+` Como não estou com fome, não posso fazer nada.@
+br
+` Eu[line=4]
+\

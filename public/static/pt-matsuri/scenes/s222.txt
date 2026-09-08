@@ -1,0 +1,136 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld c,"tachi/aki_t02",crossfade,400
+`"Muito bem.@ Não vou mais questioná-lo sobre isso.@ Mas por favor, evite fazer qualquer coisa desse tipo de agora em diante.@ Nii-san, você é o filho mais velho da família Tohno e será um grande problema se não conseguir compreender sua posição."@
+`"[line=2]Ei, uma coisa não tem nada a ver com a outra.@ Além do que, você que é a sucessora da família Tohno, então pouco importa o que eu faço.@ Se está tão preocupada assim com o futuro da família, deveria era procurar um marido apropriado para se casar."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"[line=5]"@
+` ……?@
+` Por alguma razão, ela fica em silêncio.
+\
+`"O que foi?@ Não está se sentindo bem, Akiha?"@
+`"[line=2]Não é nada.@ Se você tem tempo sobrando para se preocupar comigo, por favor, tenha mais atenção consigo mesmo.@ Você tem sua anemia crônica para se preocupar."@
+`"……… Hmph."@
+` …… Bem, é verdade que frequentemente desmaio por causa da anemia.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"De qualquer forma, não saia por conta própria toda hora.@ Mesmo excluindo sua doença, a cidade anda muito perigosa de uns tempos para cá.@
+` Alguém como você, que sai perambulando por aí sem cuidado, é um alvo fácil para aquele assassino em série."@
+`"Assassino em série?[line=2]Ah, aqueles assassinatos em série."
+\
+` Aqueles assassinatos com nove vítimas.@
+` Seus corpos estavam completamente sem sangue, por isso estão chamando de "o caso do vampiro moderno", mas[line=2]
+\
+`"Não se preocupe.@ Aquilo não vai acontecer nunca mais."@
+`"[line=4]Hã?"@
+`"O vampiro não está mais andando por aí.@ O assassino[line=2]já foi pego."@
+`"É mesmo……?@ Nii-san, como você sabe disso?"@
+`"Eu vi ele sendo pego, por isso tenho certeza de que aqueles assassinatos nunca mais vão acontecer."@
+cl c,crossfade,400
+` …… Sim, pelo menos não haverá mais nenhuma pessoa morta pelo Nrvnqsr.@
+` Nestes últimos dois dias que passei com a Arcueid… aconteceram tantas coisas que realmente não sei dizer o que foi bom e o que foi ruim.@
+` Mas uma coisa é certa[line=2]foi melhor assim.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san[line=4]?@ O que foi?@ Você parece tão contente de uma hora para a outra!"@
+` A Akiha me olha com uma expressão estranha.@
+`"Não é nada.@ Apenas sinto que finalmente acabou."@
+` Um sorriso inconsciente aparece nos meus lábios quando respondo.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lshutter,800
+` São sete e meia.@
+`"Shiki-san, o café da manhã está pronto!"@
+` Ouço a voz alegre da Kohaku-san vindo da sala de jantar.@
+`"Bem, vou lá tomar o café da manhã.@ Não está quase na sua hora, Akiha?@ Não precisa me esperar, pode ir para a escola."@
+ld c,"tachi/aki_t09",crossfade,400
+`"Sim, está na minha hora, Nii-san."@
+` A Akiha está de bom humor, talvez seja por causa da nossa conversa.@
+cl a,crossfade,400
+` Eu me levanto e vou para a sala de jantar.
+\
+playstop
+bg #000000,crossfade,1500
+` Estou sem apetite.@
+` Por que será?@ Bem, acho que qualquer um perderia o apetite depois de ver um prato de arroz branquinho com um negócio vermelho que parece sangue por cima.@
+`"[line=5]"@
+` Eu chacoalho a cabeça.@
+` É coisa da minha cabeça, a comida da Kohaku-san parece excelente como sempre.@
+` Eu me recomponho e começo a comer.@
+br
+` [line=4]Mas cuspo tudo imediatamente.
+\
+bg "bg/bg_34a",lcartain,800
+ld l,"tachi/aki_t01a",lshutter,400
+play "*3"
+` A Akiha me olha sem entender quando volto da sala de jantar tão rápido.@
+`"Nii-san, esqueceu alguma coisa aqui?"@
+`"Não.@ Não esqueci nada."@
+ld r,"tachi/koha_t01a",lshutter,400
+`"Parece que o Shiki-san está sem apetite hoje.@ Ele devolve para o prato tudo que tenta engolir, por isso dei a ele um remédio."@
+ld l,"tachi/aki_t13a",crossfade,400
+`"Hã[line=5]?"@
+`"Ela falou remédio, mas foram só algumas vitaminas… deve ser por causa do pesadelo que tive essa noite.@ Devo melhorar logo, acho que vou comer na escola."@
+` Eu não falei isso para a Kohaku-san, falei para os olhos da Akiha que deixam claro que ela quer dizer alguma coisa.
+\
+`"Bem, vou indo.@ Devo melhorar enquanto vou caminhando para a escola."@
+ld l,"tachi/aki_t17a",crossfade,400
+`"Espera, Nii-san[line=3]"@
+` Ouço a voz da Akiha atrás de mim.@
+`"Depois conversamos mais.@ Vou chegar mais cedo hoje, aí você vai poder brigar comigo à vontade."@
+` Ignorando a Akiha, saio da mansão.
+\
+bg #000000,lshutter,800
+bg "bg/bg_32a",lcartain,800
+` A Hisui me acompanha até o portão, carregando minha pasta.@
+`"Vou indo.@ Obrigado por me acompanhar, Hisui."@
+` Sem dizer nada, ela me entrega a pasta.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama, que horas pretende retornar?"@
+`"Você não confia em mim também?@ Está tudo bem.@ Vou estar de volta ao entardecer."@
+`"[line=2]Entendido.@ Então por favor, tenha cuidado pelo caminho."@
+` Ela faz uma mesura longa e demorada.@
+` Sentindo-me um pouco constrangido com isso, eu sigo o meu caminho.
+\
+bg #000000,lshutter,1500
+bg "bg/bg_24a",lcartain,1500
+` No cruzamento, vejo apenas os rostos dos meus colegas de escola.@
+` Nenhuma mulher sentada na grade de proteção da rua como daquela vez.
+\
+`"[line=2]Bem, é óbvio, né!"@
+` Provavelmente nunca mais vou vê-la.@
+` Seu objetivo era executar o vampiro, e agora que o Nrvnqsr se foi, não há razão para ela permanecer aqui por mais tempo.@
+br
+` [line=2]Mas sinto algo dentro do meu peito.@
+` Um pouquinho de arrependimento… e de uma afeição que persiste.@
+` A verdade é que ela só me trouxe problemas, mas mesmo assim…… foi divertido ficar com ela.
+\
+`"………"@
+` Deve haver algo de errado comigo.@
+` Mesmo passando por tantos perigos o tempo todo, uma parte de mim ainda tenta se lembrar dela inconscientemente.@
+` …… Assim até parece que estou apaixonado por ela.@
+` Só sei que nunca mais quero passar por esse tipo de perigo novamente.
+\
+bg "bg/bg_01a",lcartain,1500
+` Como não tomei o café da manhã, acabei chegando na escola dez minutos antes do portão fechar.@
+` Todos os alunos que não têm atividades de clubes antes das aulas começarem chegam nesse horário.@
+` Os únicos clubes que têm atividades de manhã são os de esportes.@
+` Por isso a entrada fica lotada nesse horário.@
+`"[line=4]Ah."@
+` Estou vendo uma pessoa conhecida.@
+` Sem nem saber o que estou fazendo, vou atrás dela.
+\
+bg "bg/bg_03a",lcartain,400
+ld c,"tachi/cel_t01a",lshutter,400
+`"Bom dia, Tohno-kun.@ Que estranho encontrá-lo aqui."@
+`"…… Pois é, eu te vi e vim atrás de você.@ Hum…… queria te perguntar uma coisa."@
+` Dou uma boa olhada no seu rosto.
+\
+`"Pode perguntar."@
+` Ela me olha com o seu sorriso gentil de sempre.@
+` Eu[line=3]
+br
+cl c,crossfade,400

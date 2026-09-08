@@ -1,0 +1,63 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+`　Merci ！@
+`　恭喜！@　希耶爾小姐的Good End 達成！@
+br
+`　……、誒？@
+`　…………咦？@
+`　…………咦咦咦？？@
+`　等一下！@
+`　這算什麼啊。@
+`　這個結局算是怎麼一回事啊！
+\
+ld l,"tachi/ark_t30",crossfade,800
+`「………………………………潛行潛行」@
+br
+`　站住！@　不許動，偷腥貓[line=4]！@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+!w1000
+ld l,"tachi/ark_t31a",crossfade,800
+br
+`「痛痛痛—，真是暴力啊—。@希耶爾老師，體罰是禁止事項喲—」
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+ld r,"tachi/cel_t20",lshutter,400
+`[line=4]退下吧。@
+`　……啊啊算了，隨便了啦！@
+`　每名女主角都有兩種結局。@
+`　這是希耶爾小姐的Good End
+`　請稍微退回一些，選擇另一種故事！@
+`　那會是True End ！
+\
+`　啊、還有一點。@
+`　希耶爾小姐和愛爾奎特的路線是表路線，還有完全不同的里路線存在。@
+`　那是以秋葉小姐為代表的『遠野之血』路線。@
+`　其中的選擇方法不太容易明白，所以以下是線索。
+\
+`　第一天，請不要去見希耶爾小姐。@
+br
+`　午休時請最好留在教室。@
+br
+`　而且最重要的是。@
+`　遠野君要是見到了那個叫尼祿的吸血鬼的話，另外的故事就不會發生了。@
+`　所以，為了開始那段故事。@
+`　在那個時候如果不做出那個動作的話，完全不一樣的事件就會向你展開。@
+br
+`　以上就是全部授課內容，我們在本篇中再會吧！
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,289 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_47",lcartain,800
+` …… Subo pela colina residencial e chego aos arredores da mansão.@
+` Já são quase duas horas da manhã.@
+` Estou morto de sono.@
+br
+`"…… Será que ela vai ficar bem?"@
+` O jeito estranho que ela estava quando nos separamos está me deixando preocupado.@
+` Não parecia que era o seu ferimento que estava doendo, mas[line=3]
+\
+`"Hum?"@
+br
+` O que é aquilo?@
+` Parece que tem alguém à espreita nas sombras da rua.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_47",notrans,0
+br
+wave se_01
+` [line=3]Tu, dum.@
+br
+` Meu coração para a minha respiração.@
+` Estou sentindo meu sangue pulsar pelo meu corpo, essa sensação[line=4]
+\
+br
+` Tenho certeza de que tem alguém ali.@
+` A figura se aproxima mais e mais.@
+br
+` Passos.@
+` O som de passos secos chega aos meus ouvidos.
+\
+br
+wave se_01
+` [line=4]Tu, dum.@
+br
+` Tenho um mau pressentimento sobre isso.@
+` Um calafrio corre pelas minhas costas.
+\
+`"[line=4]"@
+` A figura se aproxima.@
+` De repente[line=4]as luzes dos postes se quebram fazendo um barulho muito alto.@
+bg #000000,notrans,0
+` A lua está escondida nas nuvens.@
+` O mundo inteiro fica escuro.@
+br
+`"!"@
+`      Tu, dum………!@
+br
+` Meu coração acelera, como se me avisasse da morte.@
+` Dou um pulo para trás sem motivo aparente.
+\
+bg "bg/ima_14",crossfade,400
+` Uma lâmina atravessa a escuridão.@
+` Sem ser capaz de escapar totalmente, meus óculos são roçados por ela.@
+` Eles caem no chão.
+\
+`"Quem[line=3]"@
+` No instante que começo a dizer "é você?",
+` as nuvens se separam por um breve momento e a figura negra é iluminada.
+\
+bg #000000,crossfade,400
+ld c,"tachi/roa_t07a",crossfade,400
+`"O qu[line=4]"@
+` Um homem completamente envolto por bandagens está segurando uma faca.
+\
+cl c,lshutter,400
+` O homem enfaixado me ataca novamente.@
+` Rapidamente pego minha faca e paro o ataque.@
+bg "bg/ima_14",lshutter,400
+waveloop se_02
+br
+` Dois fragmentos de luz se chocam.@
+`"[line=4]!"@
+` Não consigo pensar com calma.@
+` O fato de estar sendo atacado me deixa em pânico.
+\
+` Clang!@ Clang!@ Faíscas voam das nossas facas se chocando e se dispersam na escuridão.@
+`"Kk[line=3]"@
+` Ainda não consigo me acalmar.@
+` Não é só porque estou sendo atacado.@
+br
+` Clang[line=3].@
+` Balanço minha faca para deter aquele que está me atacando de todos os ângulos.
+\
+`"Por que[line=4]"@
+` O mais surpreendente é que,
+` meu corpo está parando todos os ataques nessa escuridão, sem nem uma pausa.
+\
+`"Meu corpo está se movendo sozinho[line=3]?"@
+` Não, não é isso.@
+` A única coisa que meus braços estão fazendo,
+` é procurar as linhas e os pontos que posso ver na escuridão, sem meus óculos.@
+br
+` Isso é tudo que posso ver, por isso balanço minha faca pela escuridão, indo atrás dessas linhas.@
+` Como resultado, a faca do homem enfaixado está simplesmente parando a minha.@
+` Ou seja,
+` não sou eu que estou me defendendo, ele que está se defendendo de mim.
+\
+br
+` [line=4]Eu posso vencer……!@
+br
+` Não sei quem ele é, mas não há dúvidas.@
+` Estou vencendo.@
+` Meu sangue se enfurece diante da minha vantagem.@
+` Eu vou vencer.@ Sou mais forte que ele.@
+` É fato que sou mais forte que ele.@ É fato que ele está tentando me matar.@ Estou apenas retribuindo o favor[line=4]!
+\
+wave se_12
+` Clang.@ Clang.@
+` O som de metal se chocando ecoa no ar e eu o forço contra o muro da mansão.
+\
+waveloop se_02
+`"[line=4]!"@
+` Ali.@
+` Meus olhos se fixam na "linha" no seu peito e empurro minha faca em sua direção.@
+monocro #ff0000
+bg "bg/cmo_06",crossfade,400
+br
+` [line=4]Momentaneamente.@
+` Por algum motivo, vejo um menino sujo de sangue e o rosto de choro da Akiha[line=4]
+\
+monocro off
+bg #000000,crossfade,400
+`"Gh!"@
+` Puxo minha faca de volta antes de acertá-lo.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]O que, eu estou[line=4]eu estou tentando matar alguém, por que[line=3]
+\
+bg #9c0120,crossfade,400
+bg #000000,crossfade,400
+` Minha cabeça.@
+` Minha cabeça dói.@
+` Minhas pernas hesitam e eu cambaleio para trás.@
+` Conforme faço isso,
+` esvazio o conteúdo do meu estômago.@
+br
+` Meu peito começa a coçar.@
+br
+` Minha cabeça está doendo, o antigo ferimento do meu peito está ardendo.@
+` Meus olhos, parece que eles vão explodir para fora das cavidades[line=4]
+\
+`"Haa[line=4]ah, agh[line=3]!"@
+` Não consigo parar de vomitar.@
+` O vômito se espalha por todo o asfalto.@
+` E então,
+` o homem enfaixado vem atrás de mim com sua faca em punho.
+\
+bg "bg/ima_14",lshutter,400
+br
+`"[line=5]!"@
+br
+wave se_12
+` Clang!@ Outra colisão.@
+` Minha faca dispara em direção à dele.@
+` Dessa vez, realmente estou me defendendo.@
+` Sei onde ele está mirando.@ Por causa disso, bloqueio seu ataque mais uma vez com outro som estridente.
+\
+wave se_12
+br
+` Clang!@ Clang!@ Clang!@
+br
+wave se_12
+` Apesar de não conseguir ver a faca por causa de sua velocidade, sempre consigo bloqueá-la.@
+` O motivo pelo qual consigo me defender é simples.@
+waveloop se_02
+` É porque ele está mirando nas "linhas" do meu corpo.@
+br
+` Eu sei onde ele está mirando e entendo mais do que qualquer um que tê-las cortadas, significaria morte instantânea, por isso tenho que ptotegê-las.
+\
+` Espera aí.@
+br
+` …… Ele está mirando[line=3]nas minhas linhas?
+\
+`"[line=6]Ah."@
+` É exatamente o oposto de antes.@
+` Que dizer que,
+` não me diga que[line=4]ele.@
+br
+` [line=4]Kuh.@
+br
+` O homem enfaixado sorri na escuridão.
+\
+` [line=3]Tu, dum.@
+br
+` Meu coração acelera de forma incontrolável.@
+` Sentindo um medo indescritível, tropeço para trás.@
+` Ele não vem atrás de mim.@ Apenas sorri.@
+` Seus olhos dominados pelo ódio parecem dizer "Então você finalmente percebeu?", enquanto zomba de mim.@
+br
+`"Você pode[line=4]ver elas?"@
+` Sim.@
+` Ele também pode ver as "linhas"[line=4]
+\
+br
+br
+br
+br
+br
+br
+` Então,
+` ele também pode matar com um golpe[line=3]
+\
+br
+` [line=4]Kuh.@
+br
+` O homem ri.@
+` Ele se aproxima enquanto ri.@
+` Eu[line=3]até mesmo meus dedos que estão segurando a faca tremem incontrolavelmente.@
+br
+bg #9c0120,crossfade,400
+` Perfura.@ Perfura.@ Perfura.@ O som de carne sendo perfurada por uma lâmina ressoa três vezes.@
+` E então, um baque, o som de um corpo batendo no muro.
+\
+bg #000000,lshutter,400
+wavestop
+`"Hein[line=3]?"@
+br
+` [line=3]Não consigo entender a situação.@
+br
+` O homem enfaixado foi subitamente perfurado por três canos semelhantes a lanças.@
+` Não apenas perfurado, mas preso no muro.@
+` Como um bicho preso em uma coleção de insetos.
+\
+br
+`"[line=3]NÃO ME ATRAPALHE."@
+br
+` Ele parece muito irritado.@
+` Ao mesmo tempo[line=3]as três lanças acendem como velas e o engolem em chamas.@
+br
+`"AAAAAaAAAaaaaAaAAAh!"@
+br
+` Uma voz angustiada no turbilhão de chamas.@
+` Na escuridão, essa cena parece menos cruel[line=4]e quase bonita.
+\
+br
+`"AAAAAAAAAAH!"@
+br
+` O homem enfaixado[line=2]não, as bandagens já estão queimadas, sua pele está à mostra.@
+` Envolto em chamas, o homem me encara.@
+` Seus olhos cheio de ódio estão dominados pela vontade de matar.@
+` Seus olhos negros parecem uma arma criada para amaldiçoar Tohno Shiki.
+\
+`"[line=5]O qu…"@
+` Atordoado, só posso assistir a cena.@
+` Ele foge para longe, ainda envolto em chamas.
+\
+bg "bg/ima_18",crossfade,800
+` [line=3]A lua reaparece.@
+` Depois das chamas e daquela voz nefasta, tudo volta ao silêncio de antes.@
+`"[line=4]"@
+` Eu caio de joelhos e me encosto no muro.
+\
+` Olho para o céu.@
+` Na direção de onde voaram aquelas lanças tem uma pessoa parada, num lugar alto e distante.@
+bg "event/cel_e04",crossfade,400
+`"[line=5]"@
+` Bem distante.@
+` Parada em cima do poste de luz, vejo uma figura familiar.
+\
+`"…… Hein?"@
+` Vestes como as de um sacerdote de outro país.@
+` Grandes espadas semelhantes a uma garra estão presas em sua mão.@
+` Olhos pálidos, sem emoções.@ Azuis, olhos azul-céu.@
+`"…… Sen…… pai?"@
+` Sob o luar, só consigo distinguir a silhueta.@
+` Ela se parece com a senpai.
+\
+`"[line=6]"@
+` Nossos olhos se encontram.@
+` A figura em cima do poste de luz desaparece de repente, como um fantasma.@
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,800
+`"Ah[line=5]"@
+` Eu me sento bruscamente.@
+` Esse alívio é porque a dor cabeça está desaparecendo ou é por causa do fim de toda essa tensão?@
+br
+` Encostando as costas no muro, eu caio no sono[line=5].
+\
+bg #000000,crossfade,1500
+!w3000

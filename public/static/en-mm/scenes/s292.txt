@@ -1,0 +1,142 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_40e",crossfade,800
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40e",notrans,0
+` *pant*, *pant*, *pant*[line=4]
+br
+` I see.@
+` This impulse.@
+` This impulse that tries to drive me insane while leaving me conscious.@
+br
+` This is,
+` This is Roa.
+\
+` But why?@ I was always sane.@
+` Until I came back to this mansion, I really was normal.@
+br
+` I hear heavy knocking on the door.@
+` But I can't open it.@
+` If I open it, it will be completely over.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_13",crossfade,400
+bg "bg/bg_40e",crossfade,400
+`"Ah[line=5]"@
+` I finally understand.@
+` That dream was the memory of the Roa one generation before mine.@
+` Locked up in her room, killing both her parents, ruling over her town as a vampire, the final memories of someone I don't know.
+\
+`"[line=6]"@
+` …… There's no way out.@
+` This is not a problem that can be solved by killing myself.@
+` This is nothing that can be helped.
+\
+` I understand that previous person's feelings.@
+` Even if I die, the only thing to die would be my will.@ Then the will of Roa would take over my body completely.@
+` If that happened[line=3]things would get much worse.@
+br
+`"Ha[line=3]haha, ha."@
+` …… In the first place, I don't have the slightest intention of killing myself.
+\
+`"Shiki-sama, please open up, Shiki-sama!"@
+` I hear her voice from behind the door.@
+br
+` …… It almost sounds like it was in another language.
+\
+` So far away.@
+` Just one.@ It's just one sheet of wood between us.@
+br
+` But it seems as far away as the moon and the stars.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_40e",crossfade,1500
+waveloop se_11
+` It's now ten in the morning.@
+` Hisui gave up and went back.@
+` Akiha and Kohaku-san came and took turns knocking but I ignored them.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Twelve o'clock.@
+` …… I'm hungry.@
+` But, I'm still fine.@
+` I pull the sheets over me and hug my shaking body.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Two o'clock.@
+` …… I'm dying of thirst.@
+` I've lost all sense of time.@
+` It feels very calm.@
+` But as if I was taking stimulants, my body wants to rage around.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+` Four o'clock.@
+` …… More knocking.@
+` A name being called out.@
+` Whose voice is that?@ Whose name are they calling?@ I can't tell.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+bg "bg/bg_40e",crossfade,1500
+br
+br
+` Five o'clock.@
+` It slowly starts to get dark.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+br
+br
+` Six o'clock.
+\
+bg #000000,crossfade,1500
+monocro off
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+` Seven o'clock.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+br
+` Eight o'clock.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+wave se_04
+br
+br
+br
+br
+br
+br
+` [line=3]Someone, comes by.
+\
+`"Shiki-san, I've brought you dinner.@ You haven't had anything since this morning, so you'll collapse you know."@
+br
+` Kohaku's voice.@
+` She knocks on the door.@
+br
+`"Geez, if that's how it is, I'll get you to at least eat."@
+` A rattling sound.@
+` Not knocking, but the sound of a lock opening.
+\
+`"Huhuhu, time to use my secret weapon, the master key!"@
+`"[line=4]Ah."@
+br
+` The lock unlocks.
+\

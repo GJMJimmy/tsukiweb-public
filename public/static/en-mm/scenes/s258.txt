@@ -1,0 +1,61 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_29b",notrans,0
+` I… despite all this[line=4]don't even want to think that Senpai is my enemy.@
+br
+`"…… Senpai is my dear friend.@ Enemy or ally, I can't label her like that."@
+ld c,"tachi/ark_t04",crossfade,400
+`"What is this?@ Then what am I to you?"@
+`"You[line=3]you're someone I can't leave alone, and um……"@
+` I scratch my cheek.@
+cl a,crossfade,400
+` Someone I can't leave alone[line=3]and I'm concerned about her in a completely different way than Senpai.
+\
+` Even tonight, I was simply looking for her, but I was getting so frustrated when I couldn't find her.@
+` It was, something like feeling worried about a loved one.
+\
+`"[line=5]Ah."@
+` …… No, there's no way that's true!@
+` Certainly she is beautiful, but I[line=3]
+\
+bg #000000,crossfade,400
+bg "event/ark_e06b",crossfade,400
+bg #000000,crossfade,400
+bg "bg/bg_29b",crossfade,400
+`"Look, just give it a rest!@ Why do you ask me about that anyway!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"How can I know!"@
+` Being screamed at irrationally, she screams back at me irrationally.@
+`"Fine!@ Then I don't know you at all, Shiki!"
+\
+cl a,crossfade,400
+`"Hey, hold on.@ Where are you going?"@
+`"It has nothing to do with you.@ Don't follow me!"@
+` Is she really that angry?@ Arcueid walks away without even turning around.@
+` Her figure quickly fades into the distance.@
+`"…………… Ah."@
+` Just where does she plan on going?@
+`"…… What is this, taking it out on me like that?"@
+` Yeah.@ She's the one who sent me that dream familiar, so I'm the one who should be angry."
+\
+`"…… Did I do something, to make her angry……?"@
+` I don't know.@
+` In the first place, there's no way I can understand how vampires think.@
+`"[line=5]"@
+` …… Arcueid got mad and went somewhere by herself, and I asked her what I wanted, so I know I should go back to the mansion.@
+` …… But, my feet don't even move one step back.
+\
+` My logic tells me where I should go, but my heart doesn't listen.
+\
+br
+` [line=3]It's been said a million times, but.@
+` The feelings of love and hate, they have nothing to do with logic.@
+br
+`"[line=5]Man, geez!"@
+` Damn it.@ Why is it that I just can't leave Arcueid alone……!?@
+`"Arcueid!@ I said wait!"@
+` Raising my voice, I chase after Arcueid who keeps on walking.
+\
+playstop
+bg #000000,crossfade,1500

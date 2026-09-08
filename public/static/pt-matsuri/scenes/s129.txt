@@ -1,0 +1,49 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",lcartain,800
+` [line=4]Eu chego trinta minutos mais cedo que o normal.@
+` Praticamente não há estudantes perto do portão.@ Parece que sou o único que chegou nesse horário estranho.
+\
+bg "bg/bg_03a",lcartain,800
+` Dentro da escola, os clubes esportivos já iniciaram seus treinos.@
+` …… Não estou em nenhum clube no momento, mas para ser sincero, eu gosto de me exercitar.@
+` Sei que tenho alguma habilidade atlética, pelo menos o suficiente para me orgulhar.@
+br
+` Mas não posso me juntar a um clube.@
+` Meu corpo sempre sofreu essa anemia recorrente, por isso eu seria apenas um incômodo[line=4]e meu médico também disse que eu não devo me exercitar com frequência.
+\
+` Fui convidado várias vezes para me juntar a um clube, desde quando ainda estava no ensino fundamental.@
+` Mas sempre tive que recusar dizendo: "não tenho interesse em clubes".@
+` A cada vez que eu recusava[line=4]sempre ficava com uma sensação de separação.@
+` Como se fosse…
+` uma parede subconsciente que me dizia que eu nunca seria capaz de me misturar com as pessoas do outro lado.
+\
+`"…………"@
+` Ah, já chega.@ Eu realmente não tenho interesse em clubes.@ Vou parar de pensar nisso e ir para a sala de aula.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+`"Hã[line=4]?"@
+` Pensei que eu fosse o primeiro, mas parece que alguns dos meus colegas de classe já estão aqui.
+\
+`"Ei, você chegou cedo, Tohno."@
+`"Bom dia.@ Esta turma parece ter um monte de gente com tempo livre."@
+`"Que nada.@ Nosso treino terminou agora.@ Geralmente, quem chega aqui tão cedo e que não faz parte de algum clube, são apenas aqueles com obrigações diárias."@
+br
+` Entendo.@ Agora que ele tocou no assunto, isso faz sentido mesmo.@
+` Cumprimento a todos e vou para a minha carteira.@
+` Falta meia hora para começar a aula.@
+` Não é uma má ideia ficar apenas observando os meus colegas chegarem.
+\
+bg #000000,lshutter,800
+bg "bg/bg_06a",lshutter,800
+` A sala começa a ficar movimentada por volta de sete e cinquenta.@
+`"[line=4]Hã?"@
+` Acho que vi a Senpai no corredor.
+\
+`"Ela está aqui no corredor do primeiro ano de novo[line=4]o que ela está fazendo?"@
+` Será que veio aqui me ver?@
+` Então[line=4]
+\

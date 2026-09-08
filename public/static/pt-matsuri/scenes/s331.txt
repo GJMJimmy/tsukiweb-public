@@ -1,0 +1,157 @@
+play "*3"
+wavestop
+bg "bg/bg_06b",notrans,0
+` Eu não sei como encarar a Akiha quando chegar em casa.@
+` Eu me sento aqui mesmo para pensar direito no que fazer antes de ir embora.@
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+\
+` Parece que as ideias não querem aparecer.@
+` Quando percebi, a sala já estava vazia.@
+`"[line=3]Acho que vou embora."@
+` Que perda de tempo.@
+` Acho que teria sido mais produtivo encarar a Akiha sem ter perdido tempo aqui pensando em algo.
+\
+bg #000000,lcartain,400
+bg "bg/bg_11b",lcartain,400
+`"Tohno-kun!"@
+` Alguém me chama quando chego no corredor.@
+ld c,"tachi/cel_t03",lshutter,400
+`"Que bom que ainda está aqui.@ Está indo embora?"@
+`"Sim.@ Como não tenho nada para fazer, estava pensando em ir direto para casa.@ Você também já está indo embora, Senpai?"@
+`"Sim, como eu também não tinha nada para fazer, resolvi fazer compras."@
+`"Hum, entendi.@ Lá na estação?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Não, está à venda aqui."@
+` A Senpai começa a falar coisas estranhas novamente.
+\
+`"…… Aqui[line=4]como assim, aqui nesta sala?"@
+ld c,"tachi/cel_t04",crossfade,400
+` Ela afirma que sim com um grande sorriso.@
+`"…… E o que tem pra vender aqui?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Isto."@
+` Ela aponta com o dedo.@
+` Apenas o meu rosto está na frente do seu dedo fino.
+\
+`"Você quer dizer[line=4]eu!?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Isso mesmo, já que ainda está aqui, resolvi comprar o seu tempo.@ Vamos embora juntos, Tohno-kun."@
+` A Senpai puxa o meu braço e começa a andar.@
+`"E-espera um pouco, estou contente por podermos ir embora juntos, mas a sua casa não fica na direção oposta da minha?@ Você quer ir junto comigo só até o portão?"@
+`"Não, estou indo fazer compras lá na estação, poderemos ir juntos por um tempinho."@
+`"Entendi[line=4]o que você vai comprar?"
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Está começando a esfriar, estou pensando em comprar um equipamento de calefação."@
+`"Um equipamento de calefação… Acho que está meio cedo para isso, mas a verdade é que o outono passa rápido.@ E o que vai comprar?@ Um aquecedor elétrico?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Sou apenas uma estudante do ensino médio, não tenho dinheiro para essas coisas.@ Estava pensando em comprar algo barato e eficiente, algo que faz parte do artesanato tradicional japonês, um Kotatsu-san."@
+` Nunca ouvi falar que o kotatsu fazia parte do artesanato tradicional japonês.@
+` Mas vamos deixar isso de lado.
+\
+`"[line=4]Senpai, você está querendo que eu vá junto para carregar as suas compras, né?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Não é verdade.@ Apenas pensei em caminharmos juntos um pouquinho e que você poderia me fazer companhia enquanto faço compras."@
+`"…… Eu sei bem como é.@ Aí quando você terminasse de comprar ia virar pra mim e dizer algo que posso prever.@ 'Tohno-kun, eu não consigo carregar tanta coisa assim!'"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Ei.@ Eu não ia te pedir para fazer nada disso.@ E mesmo que eu pedisse, não ia ser tão direta assim."@
+`"Verdade.@ De toda forma, eu te diria que não estaria afim de fazer isso."
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Ahaha, fique tranquilo.@ Eu nunca te pediria para fazer uma coisa dessas."@
+`"É, eu sei que você não é esse tipo de pessoa, Senpai."@
+` Rimos juntos por um tempo.@
+` Ficamos rindo juntos por um tempo, mas de repente a Senpai para.@
+ld c,"tachi/cel_t09",crossfade,400
+`"…………… Malvado."@
+` Opa, acho que abusei da brincadeira.@
+` Ela estava contando comigo, talvez eu deva ajudar um pouco.
+\
+`"[line=3]Tá bom.@ Se você me comprar o almoço na próxima vez que comermos juntos, eu faço esse trabalho difícil para você."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Não precisa me ajudar se não estiver com vontade.@ É que pensei que poderia ficar meio pesado só para eu carregar."@
+`"Do que está falando?@ É óbvio que você não conseguiria carregar nada com esses braços fraquinhos.@ Eu vou te acompanhar.@ Você disse que vai comprar o meu tempo.@ Eu vou trabalhar pelo almoço, pode tirar vantagem de mim o quanto quiser."
+\
+ld c,"tachi/cel_t05",crossfade,400
+`"[line=2]Ótimo.@ Vou aceitar suas palavras gentis e aceitar a sua ajuda."@
+`"Isso aí, aproveite de mim o quanto quiser."@
+` Dou um soco no braço para mostrar que tem muita força ali.@
+` A Senpai ri e começa a andar.@
+ld c,"tachi/cel_t03",crossfade,400
+`"Ah, queria te perguntar uma coisa antes."@
+`"O quê?"@
+`"Posso trazer um bentô para você de almoço?"@
+` É claro que pode.@
+` Eu concordei com um gesto de cabeça imediatamente.
+\
+bg #000000,lcartain,800
+bg "bg/bg_03b",lcartain,800
+` Saímos do prédio escola.@
+` Não tem mais ninguém aqui, exceto pelo clube de atletismo.@
+ld c,"tachi/cel_t09",crossfade,400
+`"Há menos atividades de clubes depois das aulas."@
+` A Senpai diz isso com pesar.@
+` Devido ao incidente do vampiro, a maioria das atividades de clubes depois da aula foram canceladas e os únicos que continuam treinando são os membros do clube de atletismo.
+\
+` …… Mas aqueles incidentes não vão mais acontecer.@
+` Agora que a Yumizuka não está mais entre nós, não haverá mais vítimas.@ Mas aposto que ninguém vai acreditar em mim se eu disser isso.@
+`"…… Pois é.@ Foram muitas vítimas que apareceram, os pais dos alunos devem ter proibido eles te permanecerem na escola até tarde."@
+`"Eu fico meio triste com isso.@ Eu gostava daquela atmosfesta da escola quando terminavam as aulas."
+\
+bg "bg/bg_01b",lshutter,800
+` Saímos pelo portão.@
+`"Hã-?"@
+` Na mesma hora encontro uma pessoa que não esperava.@
+ld l,"tachi/aki_t21",lshutter,800
+`"Francamente, você vai embora muito tarde, Nii-san."@
+`"A-Aki-"@
+` Quando estou para terminar o nome dela com o "ha", a Senpai se aproxima.@
+ld r,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun?"@
+` Ela me chama enquanto permaneço paralisado.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+` Parece que a Akiha entendeu que estou indo embora para casa com a Senpai.@
+` Ela nos encara como se nos criticasse.@
+`"Akiha[line=3]o que está fazendo aqui?"@
+`"Estava te esperando para irmos embora juntos, Nii-san."@
+` Ela responde enquanto me encara com frieza.@
+`"Tohno-kun, essa menina é a sua irmã mais nova?"@
+` Ela olha para a Akiha.@
+` Nada foi dito, mas tanto a Senpai quanto a Akiha me dizem com os olhos que eu deveria "Apresentá-las".@
+br
+` [line=7]*suspiro*@
+` Isso vai ser cansativo demais.
+\
+`"Senpai, esta é a minha irmã mais nova, a Akiha.@ Ela se transferiu para a nossa escola hoje."@
+` A Akiha faz uma mesura para a Senpai.@
+`"Entendi.@ Olá.@ O meu nome é Ciel e sou uma amiga do Tohno-kun."@
+ld l,"tachi/aki_t11a",crossfade,400
+ld r,"tachi/cel_t07a",crossfade,400
+` …… O que houve?@
+` Elas ficam apenas se encarando, mas não dizem nada.
+\
+`"Akiha, estou indo fazer comprar com a Senpai, por isso-"@
+ld l,"tachi/aki_t01a",crossfade,400
+`"Isso é verdade, Senpai?"@
+` …… Antes que eu pudesse dizer a ela para ir embora na frente, a Akiha faz essa pergunta para a Senpai.@
+ld r,"tachi/cel_t04",crossfade,400
+`"Sim, mas vou deixar para uma próxima oportunidade.@ Tohno-kun, você deveria ser mais legal com a sua irmã."@
+cl r,lshutter,800
+`"Tchau" ela diz isso e se afasta de nós.
+\
+`"[line=6]Ei."@
+` Ela vai embora sem me dar a chance de dizer qualquer coisa.@
+`"Vamos embora, Nii-san.@ Logo vai escurecer."@
+` A Akiha fala como se nada tivesse acontecido.
+\
+bg #000000,lcartain,800

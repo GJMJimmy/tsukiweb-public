@@ -1,0 +1,167 @@
+phase "bg/bg_47",l,his,06a,6
+bg "bg/bg_40a",tshutter,400
+waveloop se_02
+quakey 2,10
+`"Ah[line=7]!"@
+br
+` Ah[line=7].@
+br
+` Engasgo, procurando ar.@
+` Já… Amanheceu.@
+` Este é o meu quarto.@
+` Estive aqui até agora…
+` Desse mesmo jeito…
+` E eu deveria estar dormindo[line=9]
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_31b",notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+`"Ahh……"@
+` A minha testa está doendo.@
+`"So…… nho."@
+` Tive um sonho horrível.@
+` Um sonho em que matei alguém.@
+` Um sonho em que ejaculava repetidas vezes enquanto matava.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+`"Quen…… te…"@
+` A minha garganta está queimando.@
+` O meu corpo parece chumbo e as minhas mãos…
+` A sensação de quebrar o pescoço de alguém permanece nas minhas mãos.
+\
+`"Não… Pode ser."@
+` Não pode ser.@
+` Foi um sonho.@ Um sonho, sem dúvida alguma.@
+` Mas sonhos são realmente tão vívidos?@
+` Eu me lembro com tantos detalhes.@
+` Na calada da noite…
+` A sensação de quebrar o pescoço de alguém…
+` A viscosidade do sangue descendo pela minha garganta…
+` O rosto da mulher que matei cruelmente[line=5]
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40a",notrans,0
+` Mas foi apenas um sonho.@ Eu estou aqui, só pode ter sido um sonho.@
+` Mas o problema é…
+` Eu estou sonhando que me divirto matando as pessoas.
+\
+bg "bg/ima_08",crossfade,400
+br
+` [line=3]Vocês e eu somos o mesmo, Shiki-kun.@
+!w1000
+bg "bg/bg_25b",crossfade,400
+br
+` O mundo começa a girar diante dos meus olhos.@
+bg "bg/ima_13b",crossfade,400
+br
+` [line=3]Alguém que não pode resistir ao prazer de matar.@
+!w1000
+bg "bg/bg_31b",crossfade,400
+br
+` E aquela velocidade insana.
+\
+bg "bg/bg_40a",notrans,0
+!w1000
+wavestop
+play "*2"
+`"Com licença," diz a Hisui enquanto entra no meu quarto.@
+ld c,"tachi/his_t01",lshutter,400
+`"Bom dia.@ Pelo visto, você já acordou, Shiki-sama."@
+`"……… Ah.@ Bom dia, Hisui."@
+` O mundo para de girar.@
+` Assim que a ela fala, o redemoinho em que eu estava preso desaparece como uma ilusão.
+\
+!w2000
+ld c,"tachi/his_t04",crossfade,400
+`"…… Shiki-sama?"@
+`"Hein[line=5]que foi, Hisui?"@
+`"Como está se sentindo?@ Você está muito calado."
+\
+`"…… Ah, desculpa, estava apenas te observando.@ Eu sei; preciso ir pra escola.@ Já vou para a sala de estar, pode me esperar lá."@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama.@ Por favor, não se force caso não esteja se sentindo bem.@ A sua saúde é mais importante do que a escola."
+\
+`"Ahaha, sem chance, Hisui.@ Não posso matar aula.@ Não é nada[line=3]sério.@ Não posso ser mimado desse jeito."@
+ld c,"tachi/his_t01",crossfade,400
+`"Por favor, descanse.@ Avisarei a Akiha-sama, então, apenas descanse."@
+` A Hisui está estranhamente persistente.@
+` …… O meu rosto parece tão abatido?@
+`"Você se preocupa demais.@ Realmente não é nada demais, não se preocupe comigo… Só vou lavar o rosto, pode me esperar lá na sala de estar."
+\
+cl c,lshutter,400
+` Saio da cama e passo por ela, que parece ter mais a dizer.@
+ld c,"tachi/his_t07",lshutter,400
+` Saio do quarto…
+` É meio desconfortável ver a Hisui me encarar com tamanha preocupação nos olhos.
+\
+bg #000000,crossfade,800
+` Olho para o espelho no banheiro.@
+`"…… Não pareço estar doente.@ Por que ela está se preocupando tanto?"@
+` Jogo água fria no rosto.@
+br
+` [line=3]Só de pensar no sonho que eu tive ontem à noite me dá vontade de vomitar e não ir para a escola.@
+br
+` Mas se eu faltar por causa disso, vai ser como se confirmasse que algo está errado, o que me deixaria ainda pior.
+\
+bg #000000,crossfade,800
+bg "bg/bg_34a",lcartain,800
+` A Akiha e a Kohaku-san já estão na sala de estar, e a Hisui está parada por perto.@
+` Como sempre, sou o último a chegar.
+\
+ld l,"tachi/koha_t01a",lshutter,400
+`"Bom dia, Shiki-san."@
+ld r,"tachi/aki_t15a",lshutter,400
+`"Não acredito!@ Não são nem seis e meia!"@
+` A Kohaku-san olha para mim com um sorriso gentil enquanto a Akiha se levanta do sofá e fica de boca aberta, surpresa.
+\
+`"Bom dia, Kohaku-san, ah, e pra você também, Akiha."@
+ld r,"tachi/aki_t21",crossfade,400
+`"C… Como assim 'pra você também, Akiha'?"@
+`"Bem, 'pra você também, Akiha' significa 'pra você também, Akiha'.@ Deve ser o bastante para alguém que me manda acordar cedo todo santo dia e fica surpresa desse jeito quando eu acordo cedo."@
+ld r,"tachi/aki_t03a",crossfade,400
+`"[line=4]Entendi.@ Nii-san, você acorda cedo uma vez na vida e agora entra aqui com a cabeça erguida, triunfante."@
+`"Cabeça erguida[line=4]Akiha[line=3]"
+\
+br
+br
+br
+br
+` Cabeça.@ Pescoço.@
+` Pescoço……?@
+` Lembro da sensação do meu sonho e sinto vontade de vomitar.
+\
+`"…… Kohaku-san.@ Não quero incomodar, mas será que você pode me servir algo gelado para tomar antes do café da manhã?"@
+ld l,"tachi/koha_t02",crossfade,400
+`"Imagine.@ Você prefere refrigerante ou um suco?"@
+`"Humm, refrigerante, por favor."@
+`"Já já trago."@
+cl l,lshutter,800
+` A Kohaku-san some na direção da cozinha.
+\
+ld r,"tachi/aki_t01a",crossfade,400
+`"…… Nii-san?@ Você não está retrucando.@ Está se sentindo bem?"@
+`"…… Poxa.@ Você, e até a Hisui, acham que sou o quê?@ Eu acabei de acordar e a minha garganta está seca, não tem nada de errado comigo…!"@
+` Tentando conter a ânsia de vômito, grito essas palavras.
+\
+ld r,"tachi/aki_t12a",crossfade,400
+`"…… Desculpe, Nii-san.@ Mas obviamente há algo de errado com você e eu só quero ajudar."@
+`"O fato de você estar preocupada comigo me deixa muito feliz, mas não há nada de errado comigo.@ Eu só tive um pesadelo horrendo ontem à noite e os meus pensamentos estão longes daqui, é só isso.@
+` …… Desculpa, Akiha.@ Eu que deveria me desculpar."@
+cl r,lshutter,400
+` Sento no sofá.@
+` Sei que há algo de errado comigo, mas não posso fazer nada quanto a isso.
+\
+ld c,"tachi/aki_t12a",lshutter,400
+`"Nii-san, tem alguma coisa te incomodando?@ Se for algo que tenha relação com a mansão, é só me dizer, tenho certeza de que vou poder ajudar…"@
+`"Não, o problema não é a minha falta de costume em morar aqui[line=3]"@
+cl c,lshutter,800
+` …… É mesmo.@
+` Quem sabe eu possa me sentir melhor se perguntar indiretamente a ela.@
+br
+` Eu[line=3]
+\

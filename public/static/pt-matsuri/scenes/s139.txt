@@ -1,0 +1,90 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",lcartain,800
+ld c,"tachi/ark_t04",crossfade,400
+play "*1"
+`"Sobre o que você quer conversar, Shiki?"@
+`"Sobre vampiros.@ Você tinha dito algo sobre isso antes.@ Que esses assassinatos em série que estão acontecendo foram obra de um vampiro."@
+` Ela faz um gesto afirmativo com a cabeça.@
+`"Você sabia que no noticiário da manhã disseram que foi encontrada outra vítima?@ Ela foi morta na noite passada e teve seu sangue drenado."@
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=5]"@
+` …… A Arcueid aperta os olhos.@
+` Algo como…
+` Algo como um tensão congelante corre pela minha coluna.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Ah?@ E?"@
+`"E?[line=3]você……"@
+` Eu engulo em seco.@
+` Ela olha no fundo dos meus olhos.@
+` É como se[line=3]este olhar estivesse me dizendo que ela vai me atacar se eu me mexer um único centímetro.
+\
+`"N[line=3]não é estranho, Arcueid?@
+` O Nrvnqsr está morto.@ Por que isso continua acontecendo?@ Não me diga, que, você[line=3]"
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Não é nada disso.@ Não fui eu, é outro vampiro."@
+` Ela responde imediatamente, acabando com a tensão.@
+` Mas ainda não estou satisfeito.
+\
+`"Como assim?@ Outro vampiro?@ Quer dizer que eles continuam vindo para cá?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Claro que não.@ Os assassinatos em série sempre foram obra de um único vampiro desde o princípio.@ Não vai vir nenhum vampiro novo para cá, e o Nrvnqsr não tinha nada a ver com esses assassinatos."@
+br
+` [line=4]Hein?@
+` O Nrvnqsr não tinha nada a ver com esses assassinatos……?@
+br
+`"C[line=3]como assim?"@
+`"É exatamente como eu disse.@ …… Normalmente você costuma ser bem esperto, mas parece que ficou um pouco perdido dessa vez.@ Pense bem, Shiki.@ O Nrvnqsr era um vampiro, mas quando foi que ele sugou sangue humano?"
+\
+cl c,crossfade,400
+`"Quando foi que ele sugou sangue?@ Ele comia as pessoas e[line=3]ah."
+\
+br
+` Já entendi.@
+` Por que não percebi um erro tão bobo?@
+` As vítimas do assassino são encontradas sem sangue no corpo.
+\
+` Mas o Nrvnqsr era um caso diferente.@
+` Ele não deixava corpos para trás.@ Ele não só bebia o sangue, mas também comia a carne, sem deixar vestígios.@
+` Para provar isso, as pessoas que ele devorou no hotel foram tratadas como desaparecidas e não mortas.@
+br
+` Então[line=3]quer dizer, que é algo completamente diferente.
+\
+`"Espera.@ Então, e quanto aos assassinatos que estão acontecendo?@ Quem é o culpado?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"É um vampiro diferente do Nrvnqsr.@ Sendo mais específica, esse vampiro é o motivo de eu ter vindo para esta cidade, e o Nrvnqsr me seguiu até aqui.@ Foi assim que tudo aconteceu."@
+`"[line=3]O qu… Então, esse tempo todo você não estava atrás do Nrvnqsr……!?"
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Não, eu nunca disse que ele era o meu alvo primário.@
+` Eu era o alvo dele, mas ele não era o meu alvo; meu alvo é aquele que chamam de 'assassino em série' nesta cidade."@
+ld c,"tachi/ark_t11",crossfade,400
+`"…… Shiki.@ Eu não acredito, como você cometeu um erro desses?"
+\
+cl c,crossfade,400
+`"O qu[line=5]"@
+` Eu engasgo em estado de choque.@
+` Mas[line=3]ela está certa.@
+` Ela havia dito que seu propósito era matar vampiros, por isso pensei que estivesse atrás do Nrvnqsr[line=4]
+\
+br
+`"…… Mas como assim?@ Matar o Nrvnqsr, foi algo inútil………!?"
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Não foi inútil, você lutou no meu lugar.@ Bem, se você não tivesse me matado, não teria que enfrentá-lo, né!"@
+br
+`"[line=6]"@
+` Estou meio zonzo.
+\
+`"…… Resumindo, aqueles assassinatos nunca tiveram nada a ver com o Nrvnqsr e sempre foram obra de outro vampiro……?"@
+`"Exatamente.@ Mas isso é problema meu, não precisa se preocupar com esse assunto.@ Mas deixando isso de lado, ei, me conta."
+\
+playstop
+cl c,crossfade,400
+` Com um sorriso extremamente feliz, a Arcueid me encara enquanto ainda estou surpreso com tudo isso.@
+br
+`"Como foi ontem à noite?@ Quem foi que apareceu?"
+\

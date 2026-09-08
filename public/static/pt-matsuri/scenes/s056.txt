@@ -1,0 +1,23 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Bom dia, garotas."@
+ld r,"tachi/koha_t01a",lshutter,400
+`"Bom dia, Shiki-san."@
+` Usando um avental branco que lhe cai muito bem, a Kohaku-san responde com um enorme sorriso no rosto.@
+cl r,crossfade,400
+` Por outro lado, a Akiha apenas me lança um olhar.@
+ld l,"tachi/aki_t01a",lshutter,400
+`"Bom dia.@ Você gostou mesmo de dormir essa manhã, Nii-san."@
+` Ela sabe muito bem como acabar com o humor das pessoas.
+\
+`"Gostei de dormir?@ Mal passa das sete horas!@ Vou gastar apenas trinta minutos daqui até na escola, eu acordei até cedo."@
+ld l,"tachi/aki_t18a",crossfade,400
+`"Está dizendo que vai terminar de tomar o café da manhã em apenas dez minutos?@ Você é o que agora?@ Um cachorro de rua passando fome?@ Se for tomar o café da manhã, faça isso como um ser humano normal."@
+cl l,crossfade,400
+`"[line=6]"@
+` As palavras da Akiha estão completamente recheadas de espinhos.@
+`"Eu não sou um cachorro, Akiha[line=3]"@
+` E aí me lembro.@
+` Falando em cachorros, tem aquilo que aconteceu ontem à noite.
+\

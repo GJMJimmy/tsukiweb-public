@@ -1,0 +1,103 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… É mesmo.@ Ela está sempre cuidando de mim, já que tenho tanto tempo livre, vou lá ajudar a Hisui.
+\
+bg #000000,lshutter,400
+bg "bg/bg_46b",lshutter,800
+play "*1"
+` [line=3]Muito bem.@
+` A Hisui disse que estaria limpando a mansão, mas onde ela poderia estar?@
+br
+bg #000000,lshutter,400
+bg "bg/bg_33b",lshutter,400
+` Desço para o saguão.@
+` Ela não estava no corredor do segundo andar, será que está na sala de estar?@
+br
+bg "bg/bg_34c",lshutter,800
+` …… Não está aqui.
+\
+br
+bg "bg/bg_35",lshutter,800
+` ………… Não está aqui.@
+br
+bg "bg/bg_46b",lshutter,800
+` ……………… Não está aqui.@
+br
+bg #000000,lshutter,800
+` …………………… Não está aqui.
+\
+bg "bg/bg_33b",lshutter,800
+` Ela não está em lugar algum do primeiro andar.@
+` Os únicos lugares que não procurei foram nas salas de recreação que estão fechadas, nos quartos de visitas e no escritório onde a Akiha está.@
+`"…… Ela só pode estar no segundo andar."@
+` Essa mansão é enorme, provavelmente há um monte de lugares que ainda não procurei.@
+` Eu me animo e começo a subir as escadas.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46b",lcartain,800
+playstop
+` Eu subo as escadas e dou uma boa olhada no corredor.@
+` E então,
+` vejo a silhueta da Hisui em frente a uma janela no salão da ala leste da mansão.
+\
+bg #000000,lcartain,800
+bg "event/his_e04",crossfade,800
+play "*9"
+`"Hisu[line=2]"@
+` Minha voz para na garganta.@
+` No meio do salão.@
+` Em meio ao crepúsculo, entre a luz e as sombras, a Hisui permanece imóvel.
+\
+`"[line=6]"@
+` …… Eu não consigo… Falar nada.@
+` Alguma coisa em relação a ela me dá a sensação de… Perigo.@
+br
+` Ela permanece imóvel na penumbra desta mansão ocidental.@
+` Ela está tão linda; mas ao mesmo tempo, um calafrio percorre o meu corpo, como se eu estivesse olhando para um fantasma.@
+br
+` Ela não mexe um dedo sequer.@ Apenas encara a janela.@
+`"[line=6]"@
+` Aquela janela.@
+` Será que é a mesma que ela ficava nos observando naquela época?
+\
+`"Hisu[line=4]i"@
+` Não consigo fazer mais nada além de olhá-la fascinado.@
+` Estou tão admirado que não cosigo falar, nem mesmo pisco.@ Só consigo ficar observando-a.@
+br
+` [line=4]E então.@
+` Seus olhos, ainda parecendo os olhos de uma boneca, subitamente olham na minha direção.
+\
+`"Shiki-sama, algum problema?"@
+`"Ah[line=3]não, nenhum[line=2]eu só[line=2]hum……"@
+`"?"@
+` Ela inclina a cabeça, curiosa com o que está acontecendo.@
+` Parece que isso quebrou o feitiço misterioso sob o qual eu estava.
+\
+`"Como eu não tinha nada para fazer, resolvi te procurar para ver se poderia ajudar com alguma coisa.@ Foi muito difícil te encontrar."@
+`" …… Entendo.@ Mas não há necessidade disso, Shiki-sama.@ Por favor, volte para o seu quarto."@
+`"Hummm………"@
+` Eu imaginei que as coisas acabariam assim, a Hisui não quer que eu faça nada.
+\
+`"Mas é que eu não tenho absolutamente nada para fazer.@ E não gosto de ficar à toa, por isso resolvi te procurar para ver se tinha algo para eu fazer."@
+`"Não há nada que você possa fazer para me ajudar.@ A única coisa que me resta fazer é arrumar o quarto da Akiha-sama.@
+` E não é permitida a entrada de homens no quarto dela.@ Nem mesmo você pode entrar, Shiki-sama."@
+`"Hummmm…………"@
+` Mas que coisa, hein!@
+` …… Eu achei que foi meio crueldade dizer isso assim.@ Ela não precisava enfatizar essa última parte.
+\
+`"Com licença, preciso terminar minhas tarefas."@
+bg "bg/bg_46b",crossfade,800
+` Seus passos ecoam pelo ar e ela vai para o quarto da Akiha.@
+`"…………… Poxa."@
+` Eu não posso simplesmente ir entrando assim no quarto de uma garota só porque não tenho nada melhor para fazer.@
+`"…… Bem, já que é assim, acho que vou voltar para o meu quarto."@
+` Eu começo a me virar.@
+` Mas antes de fazer isso, fico curioso em realação à janela que a Hisui estava encarando.@
+`"Hum[line=3]aquela ali no pátio não é a Kohaku-san?"@
+` Dá para ver todo o pátio desta janela.@
+` A Hisui estava observando o pátio desta janela assim como ela fazia quando éramos crianças……?
+\
+bg #000000,crossfade,800
+playstop
+!w2000

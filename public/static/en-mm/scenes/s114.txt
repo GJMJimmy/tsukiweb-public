@@ -1,0 +1,42 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` …………… *sigh*@
+` I don't feel like going back to the mansion, so I kill time spacing out in the classroom.
+\
+` Outside, the sun is setting.@
+` I can hear the voices of those practicing in athletic clubs; I'm quite comfortable with sitting at my desk peacefully.@
+` It's probably because yesterday and the day before were out of some extraordinary world.@
+br
+` [line=4]And then,
+br
+ld c,"tachi/cel_t01a",lshutter,400
+`"Good.@ I see you're still here, Tohno-kun."@
+` Senpai's face suddenly comes into view.
+\
+`"Hm?@ Senpai……?@ What makes you come down to a second year classroom?@ Is there something special you had in mind?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Yes, I was wondering if you were still here, so I came to take a look."@
+` Senpai says something that makes me happy.
+\
+`"Yes, I'm here… What is it?"@
+`"There is something I forgot to say during lunch.@ I was thinking of waiting until tomorrow, but I thought I should just say it as soon as possible."@
+`"…… Hm.@ Something you forgot to say?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Yes.@ Tohno-kun, you seem to be going out at night lately, so I wanted to warn you.@ There have been a lot of dangerous things going on, so you shouldn't stay out too late."@
+`"Ah[line=4]um, well……"@
+` ……?@ How does Senpai know that?@ Do I look pale from a lack of sleep?@ Or, maybe she saw me walking around at night……?
+\
+`"Well Tohno-kun, I let you know.@ You shouldn't involve yourself in dangerous things."@
+cl c,lshutter,800
+` As quickly as she arrived, Senpai disappears like a gust of wind.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01b",lcartain,1500
+` After spending an hour doing nothing in the classroom, I decide to go home.@
+` It's past five o'clock.@
+` If I'm too late, Hisui will worry, so I should head back soon[line=4]
+\
+bg #000000,lcartain,1500
+!w1000

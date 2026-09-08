@@ -1,0 +1,52 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` …… Senpai is glancing all around the hallway.@
+` I don't know if she's looking for something or someone, but she looks really suspicious.@
+br
+`"………… He[line=2]hehe, he."@
+` I get this sudden irresistible urge.@
+` Senpai's always taking everything at her own pace; I think I can respond sometimes to balance things out.
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` Senpai is seriously searching for something.@
+` I sneak up behind her.@
+` …… Luckily, Senpai doesn't sense me at all.@
+` Here goes,
+br
+`"Boo!"@
+`"[line=4]!"@
+` I grab her from behind, but[line=4]
+wave se_05
+quakex 4,375
+ld c,"tachi/cel_t06a",crossfade,400
+` …… before I know it, I'm lying on the ground.
+\
+cl c,crossfade,400
+`"Oh[line=4]Tohno… kun?"@
+` Senpai sounds worried.@
+`"Yeah[line=2]it's me, Senpai."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Geez, don't surprise me like that!@ I reflexively got away, but are you alright?"@
+`"Eh?@ I'm fine.@ I just tripped."@
+` I stand up.@
+` …… I guess the strange looks from all the other students in the hallway are to be expected.
+\
+`"Ooowowow…… Man, I think I hit my hip.@ Guess I shouldn't pull pranks like that."@
+` Regret.@
+`"Exactly.@ I think I overdid it, but since it was your fault I will not apologize."@
+`"Ah, I know, I know.@ Sorry Senpai, I interrupted your search.@ Well, this mischievous boy will now go back to his classroom."@
+` Rubbing my butt, I start to head to class.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Oh, wait Tohno-kun.@ Can you stand there as a punishment?"
+\
+`"?"@
+` Stand here as a punishment?@ As usual, she says something strange.@
+`"Sure…… What is it?"@
+`"Just don't move, please."@
+cl c,lshutter,800
+` Like yesterday, she starts sniffing me again.@
+`"…… Um, Senpai……?"
+\

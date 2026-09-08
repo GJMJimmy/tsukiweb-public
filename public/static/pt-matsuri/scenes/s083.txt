@@ -1,0 +1,27 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_19d",notrans,0
+` …… Que atitude suspeita.@
+` Senti algo muito suspeito em como ela disse "não vou quebrá-los".
+\
+`"[line=3]Nem dar uma olhada.@ Conheço seus poderes absurdos depois de vê-la naquele beco.@ O que eu faria se você os quebrasse por acidente?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Ei!@ O que quis dizer com 'poderes absurdos'?@ Escuta aqui, em termos de força que não é focada em combate, você é mais forte do que eu.@ Não vou quebrar as coisas ao acaso."@
+` Dizendo isso, Arcueid estende as mãos como se estivesse prestes a pegá-los à força.@
+br
+` …… Sua atitude está ficando mais e mais suspeita.
+\
+cl c,lshutter,800
+` Salto para longe da cama para fugir dela.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ei, você está fugindo."@
+`"Claro que estou.@ Deixe-me esclarecer uma coisa: Não vou te entregar estes óculos.@ Mesmo que haja apenas uma chance em um milhão de você quebrá-los, eles são insubstituíveis para mim.@ Foi você mesma quem disse que eu não seria capaz de manter a sanidade sem estes óculos.@ Por acaso quer que eu enlouqueça?"
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Hã?@ N… não, não é nada disso."@
+` …… Ela está tentando não olhar para mim.@
+cl c,crossfade,800
+`"[line=3]Qual é, Arcueid.@
+` Não sei o que está planejando, mas se eu perder estes óculos não vou estar em condições de te ajudar.@ Se eu tivesse que ver essas linhas vinte e quatro horas por dia, acho que morreria por causa da dor de cabeça antes de enlouquecer."
+\

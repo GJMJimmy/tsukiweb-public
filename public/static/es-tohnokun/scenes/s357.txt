@@ -1,0 +1,67 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",notrans,0
+` …… Pero podría estar exagerando si voy a disculparme con ella.@
+` Kohaku-san me dijo que mantuviese esa conversación en secreto.@ Además, tratándose de Akiha, si me disculpo diciéndole "perdón por todo", puedo imaginarla enfadándose conmigo.@
+br
+`"…… Sí, supongo que esperaré hasta el almuerzo."@
+` Aún me siento un poco intranquilo, pero me quedo en el salón y me preparo para la siguiente hora.
+\
+bg #000000,tcartain,800
+!w1500
+play "*3"
+bg "bg/bg_06a",tcartain,400
+` Es la hora del almuerzo.@
+` Es como un acuerdo tácito pero, si salgo al patio, terminaré almorzando con Akiha.@
+` …… *suspiro*@
+` Pero es un poco deprimente el día de hoy.@
+` Quiero disculparme por lo de esta mañana, pero no tengo ninguna idea de cómo puedo hacerlo.@
+ld c,"tachi/ari_t01",lshutter,400
+`"Hola, Tohno.@ Vamos corriendo al patio.@ Akiha-chan está esperando."@
+` …… Dice este individuo.@ Además, no puedo dejarla sola.@
+` …………… *suspiro*@
+` Suelto un gran suspiro y dejo el salón de clases con Arihiko.
+\
+bg #000000,lshutter,800
+bg "bg/bg_04",lshutter,800
+` Akiha aún no ha llegado.@
+` Ya que Ciel-senpai también vendrá, supongo que comeremos sobre la hierba.
+\
+bg #000000,tshutter,400
+bg "bg/bg_04",bshutter,400
+ld l,"tachi/cel_t01a",lshutter,800
+`"Aquí estoy.@ Hey, ¿Akiha-san aún no ha llegado?"@
+ld r,"tachi/ari_t01",crossfade,400
+`"Sí, debería estar aquí en cualquier momento[line=4]Oh, ahí está.@ ¡¡Akiha-chan, por aquí!!"@
+` Arihiko agita fuertemente sus manos.@
+` Aunque parece un poco desorientada, Akiha entra en la hierba.
+\
+cl l,crossfade,400
+ld l,"tachi/aki_t04a",lshutter,800
+`"Perdón por llegar tarde.@ Recibí una invitación para almorzar con mis compañeros de clase, y me tomó algo de tiempo declinar sus invitaciones."@
+ld r,"tachi/ari_t02",crossfade,400
+`"No te preocupes, también acabamos de llegar.@ Ven, siéntate aquí."@
+` Arihiko palmea la hierba.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"¿No hay problema?@ No veo a nadie almorzando sobre la hierba."@
+`"Está bien.@ No está prohibido ni nada parecido.@ No hay problema.@ No tienes que preocuparte."@
+` Arihiko palma la hierba una vez más.
+\
+`"[line=5]De acuerdo, entonces discúlpenme."@
+` Akiha se inclina débilmente y se sienta junto a mí.@
+cl a,crossfade,400
+`"Ug…………"@
+` …… Aún no he superado el incidente de esta mañana.@ Me siento un poco nervioso si se sienta tan cerca de mí.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=4]¿Qué sucede, Nii-san?@ No te ves muy bien.@ ¿No tienes hambre……?"@
+` Akiha me echa un silencioso vistazo para confirmar mi estado de salud.
+\
+`"Qué[line=5]no, no me siento nada mal."@
+` …… Es verdad, pero me siento un poco incómodo aquí.@
+` Parece que a Akiha no le preocupa lo que sucedió esta mañana, pero a mí me saca de quicio, porque las palabras de Kohaku-san continúan titilando en mi cabeza.
+\
+cl c,crossfade,400
+`"…………"@
+` Como resultado, no puedo pensar en nada para decir y me quedo en silencio.
+\

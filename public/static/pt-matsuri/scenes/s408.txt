@@ -1,0 +1,103 @@
+phase "bg/ima_01",l,his,13a,13
+!w3000
+bg #ffffff,notrans,0
+waveloop se_11
+` …… Toc, toc, toc, toc.
+\
+` …… Toc, toc, toc, toc.@
+` …… Toc, toc, toc, toc.@
+` …… Toc, toc, toc, toc.@
+` …… Toc, toc, toc, toc.@
+` …… Toc, toc, toc, toc.@
+` …… Toc, toc, toc, toc.@
+` …… Toc, toc, toc, toc.@
+` …… Toc, toc, toc, toc.
+\
+bg "bg/bg_40a",crossfade,800
+` …… Toc, toc, toc, toc.@
+br
+` [line=4]A noite acabou.@
+br
+` Está um silêncio horrível.@
+` Não consigo escutar nem os arquejos da minha própria respiração.
+\
+` …… Toc, toc, toc, toc.@
+br
+`"[line=8]"@
+` O meu corpo não se move um único milímetro.@
+` A minha mente também parou por completo.@
+` Aposto que, se olhasse no espelho agora, veria a imagem de uma marionete com os fios cortados.
+\
+` …… T.@ to to[line=3]c.@ to[line=3]c.@
+br
+`"[line=7]Cof."@
+` Tusso.@
+br
+` …… Errei o ritmo de novo.@
+br
+`"Co[line=2]ha, ah, ah[line=4]"@
+br
+` …… Toc.@ To[line=3]toc.@
+` …… Toc.@ to to[line=3]c toc.@
+` …… Toc.@ Toc Toc.@ Toc.
+\
+` …… Toc, toc, toc, toc.@
+br
+`" ……… ………"@
+` Retomo o meu ritmo.@
+`"[line=9]"@
+` Ficar sozinho a noite toda deixou o meu corpo muito fraco.@
+` A minha visão está muito embaçada.@
+` Até o vento que toca a minha pele me causa dor.@
+` Os meus órgãos estão tão ferrados que, a menos que me concentre, não consigo respirar.
+\
+` …… Toc,  Toc Toc, Toc.
+\
+` …… Toc,  Toc Toc, Toc.@
+` …… Toc,  Toc Toc, Toc.@
+` …… Toc,  Toc Toc, Toc.@
+` …… Toc,  Toc Toc, Toc.@
+` …… Toc,  Toc Toc, Toc.@
+` …… Toc,  Toc Toc, Toc.@
+` …… Toc,  Toc Toc, Toc.
+\
+wave se_04
+`"Shiki-sama, você acordou……?"@
+` Ouço a voz da Hisui.@
+` …… Já foram quantas vezes?@ A Hisui não se cansa.@
+`"Você está acordado, não está?@ Então, por favor, ao menos coma alguma coisa."@
+`"…… Não.@ Não vou comer nada que você me trouxer."@
+` Não vou comer nada.@
+` Eu não posso confiar em nada que vier desta casa.@
+` Comida.@ Água.@ Remédios.@
+` Parece que tudo está envenenado para me matar.
+\
+`"…… Eu vou deixar a sua comida aqui, Shiki-sama.@ Depois que eu me retirar, abra a porta e coma, por favor."@
+wave se_08
+waveloop se_11
+` …… Sinto a sua presença indo embora.@
+`"………"@
+` Bato a cabeça na parede.@
+` …… Quantas vezes já ignorei a Hisui desse jeito?@
+` …… Hisui.@ Ela é diferente da Akiha e da Kohaku-san.@
+` Talvez não esteja tentando me matar.
+\
+`"………"@
+` Mas isso é só uma fantasia.@
+` A Hisui está tentando me manter trancado neste quarto.@
+` Que nem agora, ela veio até o meu quarto para ver se ainda estou aqui dentro, para me manter preso aqui.@
+`"[line=4]Ha ah."@
+` …… Não dá.@
+` Sei que os meus pensamentos são mera paranoia.@
+` Mas a minha mente não volta ao normal.
+\
+` …… Toc  Toc Toc, Toc.@
+` …… Toc  Toc Toc, Toc.@
+` …… Toc  Toc Toc, Toc.@
+` …… Toc  Toc Toc, Toc.@
+br
+` A minha mente está confusa e o meu corpo lateja de dor.@
+` A minha garganta está tão seca que parece que vou morrer se não beber água.@
+` …… Apesar de tudo isso, ainda mantenho a porta trancada.
+\
+bg #000000,crossfade,800

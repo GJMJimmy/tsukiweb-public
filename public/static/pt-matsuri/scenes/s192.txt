@@ -1,0 +1,60 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+` [line=4]Eu vou para o apartamento da Arcueid.@
+br
+` Se a Arcueid está tão fraca como a Senpai disse, ela só pode ter voltado para o apartamento pra descansar.
+\
+bg "bg/bg_12b",lcartain,800
+` Eu tento não perder o fôlego.@
+` Minhas pernas, que correm o máximo que conseguem, finalmente param.@
+` Ofegando muito, eu chego no apartamento.
+\
+bg "bg/bg_13b",lcartain,800
+` …… Coloco a mão na maçaneta.@
+` A porta não está trancada.@
+` Sem hesitar, abro a porta.
+\
+bg #000000,crossfade,800
+bg "bg/bg_15b",crossfade,800
+` …… Embora não estivesse trancado, não tem ninguém aqui dentro.
+\
+br
+`"Arcueid…… você está aqui?"@
+br
+` Ninguém responde.@
+` Será que ela nunca tranca a porta?@ Nada indica que ela voltou para cá.
+\
+`"Droga…… Quer dizer que ela ainda está na cidade……!?"@
+` Eu soco a parede.@
+` Mas descontar minha raiva na parede não vai fazer ela aparecer.@
+`"…… Aonde você foi…… aonde você foi, Arcueid……!?"@
+br
+` [line=6]Se realmente existe um Deus, eu quero pedir a ajuda dele nesse momento.
+\
+` A Arcueid não está aqui.@
+` Mas não vou encontrá-la correndo pela cidade sem um destino.@
+` Desse jeito eu nunca[line=4]nunca mais vou vê-la de novo.@
+br
+`"[line=6]"@
+` Não, eu não vou desistir.@
+` Ainda não cumpri minha promessa com ela.@ A promessa de ajudá-la a derrotar o vampiro, e a promessa de nos encontrarmos essa noite para podermos lutar juntos.
+\
+`"…… Pro…… messa……"@
+` …… É isso mesmo.@ Ainda tem a nossa promessa.@
+` Mesmo que seja algo unilateral[line=4]mesmo que seja só eu, vou cumprir nossa promessa.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+` Eu volto para o parque.@
+` Nossa promessa ainda existe.@
+` Nossa promessa que ainda não foi cumprida neste lugar.@
+br
+` [line=4]Por isso,
+` se eu não quebrá-la, e ela também achar que é importante,
+br
+` a Arcueid vai voltar para cá.@
+` Só posso continuar acreditando nela e esperando neste lugar.
+\
+bg #000000,crossfade,1500

@@ -1,0 +1,25 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ¡Bonjour!@
+` Ahora el rincón de consejos para Tohno-kun, quien se ha encontrado con otro Final Muerto,
+` Es la hora de "¡Enséñame, Ciel-sensei!"
+\
+` La lección de la segunda hora del tercer día será acerca del amor filial.@
+` La razón por la que moriste esta vez es simple, Tohno-kun.@ No tenías suficientes incentivos para apartar a Yumizuka en el instante en que te mordió.
+\
+` Los lazos familiares son muy importantes.@
+` Los compañeros de clases también son importantes.@
+` Tienes que preocuparte por ser un buen Onii-chan, y de alguna forma tienes que corresponder al amor de tu compañera de clases.@ Sí, tienes obligaciones con ambas.
+\
+` Entonces un pequeño consejo.@
+` Tohno-kun, probablemente sea bueno que retrocedas y le muestres a Yumizuka-san algo de sinceridad.@
+br
+` Bien, entonces, veámonos de nuevo en la próxima lección.
+\
+bg #000000,crossfade,800
+playstop

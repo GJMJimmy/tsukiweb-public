@@ -1,0 +1,254 @@
+play "*9"
+br
+br
+br
+br
+br
+br
+br
+` [line=7]Suddenly, I awaken with a start.
+\
+br
+br
+br
+br
+br
+`[center]The night is pitch black.@
+`[center]And no one else is in the house.
+\
+br
+br
+br
+br
+br
+br
+`[center]It's scary, being alone in the dark.@
+`[center]So to find everyone, I head out into the garden.
+\
+bg "bg/ima_02",crossfade,800
+!w1000
+br
+br
+br
+br
+br
+`[center]Our mansion's gardens are vast fields of green.@
+`[center]Surrounded by a thick, dense forest.@
+`[center]With the trees blanketing out the light,
+`[center]almost like a massive curtain.
+\
+br
+br
+br
+br
+br
+`[center]Like a stage in a theater somewhere.@
+`[center]The curtain of trees opens with a swishing sound.@
+`[center]Excitement fills me,
+`[center]anticipating the beginning of the grand play.
+\
+br
+br
+br
+br
+br
+`[center]In the distance, I hear the sound of echoes,
+`[center]beyond the black curtain of trees.@
+`[center]Inside the forest,
+`[center]the sounds of everyone happily playing around.
+\
+br
+br
+br
+br
+br
+br
+`[center]The curtain doesn't open yet.@
+`[center]Unable to restrain myself,
+`[center]I wander into the darkness of the forest.
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+`[center]Darkness surrounds me…
+`[center]A blackness so deep, it's suffocating…
+`[center]Not even the calming rays of the moonlight can reach this deep.
+\
+br
+br
+br
+br
+br
+`[center]The air is cold…
+`[center]A winter's chill so deep,
+`[center]my eyes feel like they'll freeze.
+\
+br
+br
+br
+br
+br
+`[center]For a brief moment, I thought I heard someone call my name,
+`[center]so I walk even deeper into the forest.
+\
+br
+br
+br
+br
+br
+`[center]After passing through the veil of trees,
+`[center]I find everyone waiting for me in the forest clearing.@
+`[center]But, something is wrong…
+`[center]Everyone is lying on the ground…
+`[center]…… Everyone is lying on the ground…… in pieces…
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]The clearing is bathed in red.
+\
+br
+br
+br
+` [line=3]I don't understand.
+\
+br
+br
+br
+br
+br
+br
+`[center]A stranger approaches.@
+`[center]The look on his face says he wants to rip me apart…
+\
+br
+br
+br
+br
+br
+` [line=3]I don't understand at all…
+\
+br
+br
+br
+br
+br
+br
+`[center]But, someone else, someone I don't know… steps in front of me,
+`[center]and is torn apart in my place.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]I'm just a kid, so, I really don't understand.
+\
+bg "bg/ima_13b",crossfade,400
+br
+br
+br
+br
+br
+`[center]A splash.@
+`[center]Something warm and wet hits my face.@
+`[center]It's red…
+`[center]A red liquid, red like a tomato.
+\
+br
+br
+br
+br
+br
+`[center]The person that was torn apart,
+`[center]that person I called "mom",
+`[center]never called my name again.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=5]I really don't understand.
+\
+br
+br
+br
+br
+br
+br
+`[center]But it is just so cruel…
+`[center]I wanted to cry, I just felt like crying.
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+br
+br
+`[center]Warm crimson blurs my vision.@
+`[center]Seeping into my eyes.@
+`[center]But it doesn't bother me at all.@
+`[center]The lonely moon floats above me,
+`[center]bearing witness in the night sky.
+\
+bg "bg/ima_01",crossfade,1500
+br
+br
+br
+br
+br
+br
+`[center]It's strange.@
+`[center]Why didn't I realize until now?
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Such a cold, horrible nightmare.
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]Yes[line=3]I didn't realize it.
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]That tonight…
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]The moon is so[line=6]beautiful[line=4]
+\
+playstop

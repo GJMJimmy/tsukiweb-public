@@ -1,0 +1,101 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Pero no puedo simplemente irme a mitad de la clase.@
+br
+`"……… Por favor."@
+` Junto mis manos y ruego silenciosamente que ella no inicie ningún problema "interesante" durante veinte minutos.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` La clase termina.@
+` Salgo corriendo del salón sumido en la conmoción de la hora del almuerzo.
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` Atravieso el pasillo como un relámpago.@
+` …… Arcueid está en el patio trasero.@
+` Ya que es la hora del almuerzo, uno o dos estudiantes podrían ir a ese lugar.@
+` ¡Antes de eso, tengo que enviarla lejos de la escuela……!
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+` Jadeo con fuerza.@
+` Salgo del pasillo y entro al patio.@
+` Afortunadamente, nadie más ha salido.@
+` Todo lo que falta es agarrar a Arcueid, pero…
+bg "bg/bg_05a",lcartain,800
+br
+`"…… Lo peor."@
+` Entrando a la parte trasera de la escuela, doy voz a mis pensamientos inconscientemente.
+\
+` En ese lugar,
+ld l,"tachi/ark_t07",lshutter,800
+` puedo ver a una Arcueid muy hostil y…
+ld r,"tachi/cel_t07a",lshutter,800
+` mediante el peor giro del destino, Ciel-senpai también está presente.@
+br
+` Como encarando a una invasora, Senpai mira fijamente a Arcueid.
+\
+`"¡Arcueid……!"@
+` Ambas se dan la vuelta.@
+ld l,"tachi/ark_t06",crossfade,400
+`"Shiki."@
+ld r,"tachi/cel_t06a",crossfade,400
+`"[line=7]"@
+cl a,crossfade,800
+\
+` …… Gracias al cielo.@ La hostilidad de Arcueid parece desvanecerse.@
+` Después mirar a Arcueid una vez más, Senpai se va en otra dirección.@
+`"Ah…… Senpai."@
+` Debe haber sido ofendida por la feroz mirada de Arcueid.@
+` Que Senpai desaparezca de esa manera y sin decir nada debe significar algo.
+\
+`"¡Arcueid, tú……!"@
+` Corro hacia ella.@
+ld c,"tachi/ark_t16",crossfade,400
+`"¡Shiki lento perezoso!"@
+` Ella me grita al acercarme.
+\
+`"Oye…… ¿lento?@ ¡Oye!"@
+`"¿No lo fuiste?@ Sé que me viste, pero nunca bajaste.@ ¡Si hubieses venido antes, no habría sido vista por esa persona!"@
+` …… "Esa persona" debe ser Senpai.
+\
+`"No podía evitarse, tengo mis obligaciones.@ A diferencia de ti, soy sólo un estudiante normal.@ En primer lugar, ¿por qué demonios viniste aquí?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Es que sentí algo por estos alrededores.@ Entonces percibí tu rastro y me percaté de que se trataba de tu escuela."@
+`"…… ¿Así que no estabas pensando y viniste sin razón?"@
+` Frunzo el ceño.@ ¿Ella es un perro o algo así?
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"¡Bueno discúlpame!@ Vine aquí por una razón.@ Difícilmente hay algún rastro de Los Muertos aquí, así que quería confirmarlo yo misma."@
+`"¿En serio?@ Pero si no hay ningún rastro de Los Muertos aquí, ¿no debería ser un lugar sin importancia?@ No hay nadie en la escuela durante la noche, si Los Muertos quisieran alguna presa, irían al centro de la ciudad, no a una escuela."@
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Bueno, eso tiene sentido."
+\
+`"No hay nada extraño aquí.@ No puedo sentir a Los Muertos, pero ya que mis ojos ven la muerte, puedo saberlo sin quitarme los lentes."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ya veo.@ Si tú lo dices, Shiki, entonces no hay nada extraño en este lugar, quizás."@
+`"No 'quizás', definitivamente."@
+` Parece que Arcueid no me cree.
+\
+`"En fin, si nos quedamos aquí mucho tiempo, la gente nos verá.@
+` Te aseguro que mantendré mi promesa, así que ve a casa y descansa.@ Podríamos ver al 'enemigo' esta noche."@
+ld c,"tachi/ark_t03",crossfade,400
+`"¿Oh?@ Suenas como si me quisieras fuera de aquí, Shiki"@
+` Ella comienza a parecer enojada de nuevo.
+\
+`"Ah, es sólo tu imaginación, así que apresúrate y vuelve a casa.@ De otro modo las cosas podrían volverse un poco peligrosas."@
+` Vete, vete.@ La empujo desde atrás.@
+`"………………"@
+cl c,lshutter,800
+` Aunque sus ojos indican que quiere decir algo, se va silenciosamente.
+\
+`"…… Cielos.@ Si veo a Senpai, tengo que disculparme con ella por lo de Arcueid."@
+` Pensando en voz alta, me retiro.
+\
+bg #000000,lcartain,800
+!w1000

@@ -1,0 +1,891 @@
+bg #000000,crossfade,1500
+bg "bg/bg_59",bcartain,1000
+play "*03"
+wait 1000
+ld l,"tachi/stk_t01",rshutter,800
+textbox adv
+`　真是的！@
+`　大家，让我在月茶里出场嘛！
+\
+`　明明在月箱中也出过场的，这样的话我一直压箱底的故事就终于能重见天日了……那个，咦？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　为什么只有我一个人呢？
+\
+cl l,crossfade,200
+`　呼呼呼呼呼。@那是因为其他人都早就回去了喵。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……啊。我有种非常不祥的预感。
+\
+ld r,"tachi/neko_t01a",rshutter,400
+`　呼，前叹三下君惨遭一击必杀，
+`　后闻五月酱配角直接出局！
+\
+`　为了向没得到报偿的你插句嘴（蘑菇注：没用错词），我这个被神派来的潇洒女主角隆重·登场！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　那么，你叫的我喵？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　唔，没有叫哦。@
+`　因为没有叫你所以快点回去吧♥
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　姆姆？@　收听电波出错了喵？@　我好像听到这里有连Melty（译者注：TM某格斗游戏）都无法出场的颓废的野蔷薇的喵？
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　才，才没有那种事呢！@　明明有出场的，明明有出场的啦@　呐，是吧“法国面包”(译者注：制作格斗游戏的某同人团体)里面的大人物！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　法国面包？　关于知得留的东西吗？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　诶……虽然不是那样的，但我也不是很清楚。@目前是那个样子听说的，再怎么说法国面包的话，那个。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　嗯ー，再怎么说感觉都很好吃。@
+`　那么，找知得留有事吗？　我把她叫来？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　没事，不用叫她。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……说起来，你是谁呢？
+\
+ld r,"tachi/neko_t02",tshutter,200
+`　我吗？@　我是猫ARC。@是你的黑暗部分具现化的产物，也就是说是弓冢五月的本体，嘎嘎嘎嘎嘎ー！
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　骗人！@　绝对是[line=3]骗人！@
+`　真是的，你快走吧！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　姆，五月你生气了吗？@
+`　……没方法，差不多该进入正题了喵。
+\
+`　那么请在那坐下五月。@根据情况的话现在应该轮到Mr. Driller（译者注：某游戏厅游戏）。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　诶……？　咦，你拿的是什么……
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　那个，那是我的剧本[line=7]！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　你说对了。@这是从刚刚弄坏的硬盘里拿出来的两年前的开发工具喵。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　永远的配角，弓冢五月。@你现在开始将会面对自己的[ruby=剧]过[/ruby][ruby=本]去[/ruby]。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　这就是这次的主题！@
+`　正如题目。
+\
+bg #ffffff,rshutter,800
+bg "bg/yumizuka",crossfade,5000
+bg "bg/bg_59",bshutter,800
+wait 800
+ld r,"tachi/neko_t01a",crossfade,200
+`　满意吗？@　顺便说一下五月的无双乱舞是殴打接着殴打接着不停殴打。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……哈。@那个，猫先生。@
+`　就算说面对，说到底那个[ruby=剧]过[/ruby][ruby=本]去[/ruby]没有公开过啊。
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　无妨！@
+`　那么，总之先开始进行今天的计划。
+\
+cl a,crossfade,400
+textbox nvl
+wait 800
+br
+br
+br
+`　１．开场电影ー～猫ARC直播
+`　２．赠送花束
+`　３．上午部分·Melty Blood设定公开
+`　４．午饭
+`　５．午休
+`　６．游戏大会
+`　７．解散
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,400
+textbox adv
+`　这不是没有我的出场吗！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　诶，真的吗？
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　呵……呵呵，呵呵呵！
+\
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #9c0120,crossfade,200
+bg "bg/bg_59",crossfade,200
+ld l,"tachi/stk_t03",crossfade,200
+`　喂，好好看着哟ー。@这个计划上五月的任何一个字都没有吧。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　唔……嗯ー，嗯ー。@
+`　不好意思喵，看起来是被那些害怕五月得势的家伙擅自改掉了的样子。
+\
+`　那么，缩减成这个样子怎么样？
+\
+cl a,crossfade,800
+wait 800
+textbox nvl
+br
+br
+br
+br
+br
+`　１．开幕·欣赏五月
+`　２．弓冢设定画介绍(１)
+`　３．弓冢休息
+`　４．弓冢设定画介绍(２)
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,200
+textbox adv
+`　这不是只有我的出场吗！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　就算这样也不满意吗……让你也体会一下常年被虐待的动物的愤怒 ……
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　诶[line=3]？@　啊，这样啊，有我的出场啊！@
+`　那我应该高兴呢！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　所以说啊。@
+`　你应该高兴啊。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　嗯！　你真是个好人！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　当然了喵。@我是除了知得留以外佛一般的存在，
+`或者说是爱的化身。@但是在Melty里如果比我出场的还早的话我就要开杀戒了。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　啊，对不起。@
+`　关于那部分我在这先道个歉。
+\
+ld r,"tachi/ark_t31a",crossfade,400
+ld r,"tachi/ark_t31b",crossfade,400
+`　怎么了喵！？@　怎么回事那种同情的眼神！@
+`　你是想说猫，猫ARC没用吗[line=4]！？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　嗯ー，也不是完全没用吧。@
+`　啊，说起来你有特技的吧？@　乘上火箭能在天上飞的吧？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　……姆姆。@那个的话我可以。@
+`　以猫来说的话这个技能加上不能防御·永远追踪·一直打到死的话r]
+`就相当高兴了喵。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　是吧？@　那么我觉得差不多该进入正题了。@
+`　你拿着的那个，是我的立绘吧？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　是的哦。@……嗯ー，虽然不是那么好的东西你想看吗？
+`@　相反你可能会生气哦？@　重新认识到自己的立场什么的。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　好·了·啦·，让·我·看·看。
+\
+cl a,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+`　好痛，五月别抓我脑袋啊。@
+`　因为你已经不是普通的女孩子了，一不小心我就当场死亡之类的了。
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　呵呵呵呵呵。@你这么说的话我突然想试试了呢。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　唔喵，你是认真的吗？@
+`　……没办法，那么总之先让你看第一张。
+\
+bg #ffffff,bcartain,1000
+bg "bg/s01",bcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+`　啊，这是相对早期阶段的草图呢。@准备什么时候用呢？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　嗯ー，忘记做作业了突然站起来的时候。@
+`　还有就是向志贵表白被拒绝的时候。
+\
+cl r,bshutter,200
+wave pd/s09
+ld l,"tachi/stk_t03",crossfade,200
+`　那个，请不要说谎。@
+`　这是远野君把不安的我丢下一个人回去了的时候用的。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　啊，飞起来了。@像琥珀一样成为壁画了喵。@
+`　那么下一张。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s02",lcartain,1000
+ld l,"tachi/stk_t13",crossfade,200
+`　那个，这是？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　嗯ー、用在侧面的包装带上的喵。@
+`　还有就是向志贵表白被拒绝的时候。
+\
+cl r,bshutter,200
+wave pd/s14
+ld l,"tachi/stk_t01",bshutter,200
+`　我想把刚才的再来一次呢。@
+`　好的，接着是剧本到了中盘的时候，总之是告一段落的日常部分使用的
+`……好像是这样。
+\
+bg #ffffff,bcartain,1000
+bg "bg/s03",bcartain,1000
+ld l,"tachi/stk_t10",crossfade,200
+`　……那个，是在生气呢。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　呼呼呼，脸蛋还是那么圆圆的好可爱哦。@
+`　我认为五月可爱的圆圆的脸蛋是魅力所在哦，怎么样？
+\
+ld l,"tachi/stk_t07",crossfade,200
+`　那，那个下一张，下一张。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s04",lcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`　放学！？　这是放学场景吗！？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　不是不是，是普通的追加立绘。@
+`　看到令人有些害羞却让人高兴的地方之后，我的剧本好像也不是只有残酷的东西。
+\
+ld r,"tachi/neko_t02",crossfade,200
+`　真的是这样吗喵？@　看了这个之后你还能说出这么从容不迫的话吗五月？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　诶……你，你知道些什么吗猫先生？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,200
+`　呼呼呼，那么你接着看就行了！@
+`　这是五月在剧本里的主要舞台，
+`　国内首次公开，五月的房间[line=5]！
+\
+playstop
+bg #ffffff,tshutter,800
+wait 1000
+bg "bg/bg_sp",bshutter,800
+wait 2000
+play "*03"
+ld l,"tachi/stk_t09",crossfade,200
+`　…………………………诶？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　嗯ー，suite（room）。
+\
+ld l,"tachi/stk_t12",notrans,0
+`　不可能[line=4]从来没听说过啊[line=6]！
+\
+ld l,"tachi/stk_t11",notrans,0
+`　说起来这根本不是房间！@
+`　这不只是单纯的废墟，废公寓吗！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　姆呼呼。@也就是说是这样的。@
+`　五月在这里把可怜的少年的十万存款全部浪费了。
+\
+`　啊啊，让人害怕呢五月，真是能花钱的女人。@志贵危险，离存款余额变成0还有3天！
+\
+ld l,"tachi/stk_t04",crossfade,200
+`　呜呜……对不起远野君……
+\
+bg #ffffff,lcartain,3000
+bg "bg/s05",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+`　那么这一张，是之后的喵。@
+`　把志贵的存折弄得枯竭了之后摆出胜利手势的五月。@
+`　是个妖女呢。
+\
+ld l,"tachi/stk_t11",bshutter,200
+`　才不是呢！@　这明明应该是在更温馨的场合下用的！
+\
+`　因为你看，不是写着超级五月的嘛！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　姆？@　好像在哪听到过的台词。@
+`　是那个吧，蘑菇那家伙最喜欢的“放课后打沙袋”里说着俺俺俺的那个女孩子吧喵？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　诶……那个，到底是怎么样呢？
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　嘛，那家伙的小孩子一样的兴趣怎么都好啦喵。@
+`　那么下一张。
+\
+bg #ffffff,rcartain,1000
+bg "bg/s06",rcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`「噢噢。@这不是立绘而是事件CG的草图喵。
+`五月，看到你的胖次了哦。」
+\
+`「笨蛋，根本看不见吧！」
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,200
+`「？？？@　是回声吗喵？@
+`　姆ー，观察了一下五月好像很困的样子，看上去熬夜在做什么事情。
+\
+`　她本人因为太害羞所以躲起来了，没法进行进一步的解说了喵。总之，这次是禁止剧透的。」
+\
+bg "bg/s07",bcartain,1000
+ld r,"tachi/neko_t01a",bcartain,200
+`「接下来下一张是这个喵。@唔姆唔姆，看起来剧本也到了中盘了喵。
+\
+`　……她本人还没回来所以也不好说什么，果然是因为被志贵甩了哭了吗[line=4]」
+\
+bg #9c0120,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,notrans,0
+`　好痛，好痛！@　五月，用梅干是犯规的啊！@
+`  ……裁判！@，我的头被攻击了啊……头盖骨被弗朗肯斯坦[line=4]！？
+\
+bg #ffffff,crossfade,200
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+playstop
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 3000
+bg "bg/bg_59",bshutter,800
+play "*03"
+ld l,"tachi/stk_t06",crossfade,200
+`　接下来，初期设定画介绍(１)到这里就告一段落。@
+`　接下来将介绍关于Melty Blood的。
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　啊ー，痛痛。@五月，你知道蒙眼击西瓜游戏吗？@
+`　干这种事不是太好哦。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　说到Melty Blood，它的客串主角紫苑。@
+`　目前正在重点公开她的基本设定。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　被无视了？
+\
+bg #ffffff,bcartain,1000
+bg "bg/t01",bcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`　唔哇，这家伙是谁啊[line=4]！？
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　是紫苑。@因为一开始设定是埃及人所以是褐色系的。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　但是拿着棍子哦。果然是假的吗。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　这是紫苑还有着圆圆可爱属性的时候的事情了。@
+`　那么，紫苑到底是怎么变成现在的紫苑的呢？
+`放映开始！
+\
+bg #ffffff,lcartain,1000
+bg "bg/t02",lcartain,1000
+bg #ffffff,bcartain,800
+bg "bg/t03",bcartain,1000
+bg #ffffff,lcartain,800
+bg "bg/t04",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+`　呵呵。原来如此，渐渐变得有棱有角了呢，各种意义上。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　一开始的话不知道为什么是学妹的设定呢ー。
+\
+`　第二幅设定画，雪白的衣服配上褐色的肌肤，虽然这种组合让剧本担当（译者注：武内崇）都心跳不已，但是因为确实风格不符就没有采用。
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　姆姆姆。@怎么说呢，很符合这种格斗游戏的设计呢喵。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　是啊。@是突出紫苑的形象的造型呢。@从印象上给人一种鲜明的紫的感觉，感觉看了之后一下子就能记住呢。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　是的喵。@猫喜欢的的也不只是女仆呢。
+\
+ld l,"tachi/stk_t01",crossfade,200
+`　那，那么就换下一张吧。@
+`　下一张……咦。这是谁呢？
+\
+bg #ffffff,tcartain,1000
+bg "bg/t05",tcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+`　啊，这家伙啊ー。@这家伙的话嘛，因为会剧透所以说明就去掉了喵。@
+`　去掉去掉。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　？？？
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　嘛，虽然也不是月姬中准备采用的角色喵ー。
+\
+`　根据Melty blood这个游戏，满足「明明全员都在战斗却没产生矛盾」@这个条件的，这家伙是最合适的喵。
+\
+`　其实这家伙设计出来的比紫苑还早，就在要确定这家伙的出场的瞬间，预先定好的Ciel的伙伴角色不被采用了，r]
+`就成了紫苑出场了。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　诶诶！？@
+`　Ciel前辈的伙伴角色是什么！？@我从来没听说过啊。
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+`　嗯ー？　啊，这样啊，我没说过啊。
+\
+`　其实呢，Melty的剧本想像其他那些格斗游戏那样弄。
+`新角色用吸血鬼猎人的喵。
+\
+`　但是因为月姬里没有正经的吸血鬼猎人喵。
+\
+`　那么，教会从正式外典里找来了一个拿着盾的异端猎人。这个盾呢喵，好像是Pile Bunke。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　诶……那么，难道说Melty Blood是。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　是的喵。@一开始的设想是Ciel和主要的吸血鬼猎人同事的战斗喵。
+\
+`　激战吧！黑衣代行者和圣盾骑士！@
+`　摩擦吧！撞针！战斗吧！Pile Bunke！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　怎么样？
+\
+ld l,"tachi/stk_t10",crossfade,200
+`　唔哇……那么利兹拜斐是？
+\
+ld r,"tachi/ark_t31b",crossfade,200
+`　是被紫苑抢走出场机会的三下喵。@本来都已经设计好了哦。虽然被原画担当讨厌了取消掉了。
+\
+ld l,"tachi/stk_t07",crossfade,200
+`　唔ー嗯……感觉很容易和她交朋友呢。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　那是不可能的喵。@
+`　她的特级是大角度断头台flag。
+\
+`　据说会把吸血鬼五月的脑袋刺穿后像旗子一样举到天上摇来摇去，by民明书房。（译者注：捏他自魁!!男塾）
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　这样啊，那么没办法成为朋友了呢。
+\
+bg #ffffff,lcartain,1000
+bg "bg/t06",lcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+`　啊，这是紫苑的表情集？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　嗯，还有哦喵。
+\
+bg #ffffff,rcartain,1000
+bg "bg/t07",rcartain,1000
+ld l,"tachi/stk_t09",crossfade,200
+`　唔哇……这样一看紫苑真是个美人呢……
+`咦？　但是，闭上眼睛的脸和刚才的人……
+\
+ld r,"tachi/neko_t02b",notrans,0
+`　鼓鼓的肉球！
+\
+cl r,notrans,0
+quakexy 10,10,400
+quakexy 10,10,1000
+wave pd/s09
+bg #ffffff,crossfade,400
+bg "bg/bg_59",crossfade,800
+ld r,"tachi/ark_t31b",crossfade,200
+`　不要说这么不礼貌的话喵。@
+`　这样不会长寿的喵。
+\
+ld l,"tachi/stk_t04",crossfade,200
+`　怎么会……对成为吸血鬼的我说这么打击人的话[line=4]
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　喵喵喵，吸血鬼和我比还差得远呢。@
+`　五月和我比就是小孩子中的小孩子。@
+`　不好好注意的话把你送到火星上去哦？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　啊……好的，我知道了……（态度稍微尊敬了一些）。
+\
+ld r,"tachi/neko_t01b",crossfade,400
+ld r,"tachi/neko_t01a",crossfade,400
+`　听话就好。@
+`　那么进入午后的部分，各设定画介绍(２)吧喵。
+\
+`　既然五月也有了吸血鬼的自觉了，接下来就把重点放在吸血鬼五月上试试看吧！
+\
+bg #ffffff,lcartain,1000
+bg "bg/s08",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s09",bcartain,1000
+wait 1500
+bg #ffffff,lcartain,400
+bg "bg/s10",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s11",bcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+`　你看，怎么样啊喵。@
+`　能让贵母都感到震惊的黑化。@刚才的就是吸血鬼化的五月了。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　才，才没有黑化呢！@　只，只是稍稍有些暴走而已！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,400
+`　呵呵。@这么点程度就说暴走的话后面会更加吃惊的哦喵？　嘛，虽然和我没什么关系。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　唔……但是最后的一张很普通啊。@　虽然没扎头发看起来很像吸血鬼。@
+`　……你知道那一张是用在什么地方的吗？
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　不知道。@剧本担当也说今天才看到。@
+`　这张图还让蘑菇吃了一惊呢。他们两个人关系真的那么好吗？
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　这，这样啊……但是脸画的真不错呢？@　我也能以这种风格好好的笑呢。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　呼呼呼呼。@安心的话还太早了。@
+`　看看这一张！
+\
+bg #ffffff,lcartain,800
+bg "bg/s14",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,800
+bg "bg/s15",tcartain,1000
+wait 2000
+ld l,"tachi/stk_t11",crossfade,200
+`　诶，诶诶诶诶诶诶诶诶诶诶诶！？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　…………这，是谁呢喵？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　第，第一张是我……但，但这是……？
+\
+cl r,crossfade,200
+ld c,"tachi/neko_t01a",crossfade,200
+`　别装傻喵。@这不是露出本性的五月吗。@
+`　这个被追入绝境的露出很像三下（译者注：前文提到的Melty blood中未出场人物）的表情已经怎么看除了五月以外都找不出第二个[line=4]
+\
+ld l,"tachi/stk_t08",crossfade,200
+`　呼呼，唔呼呼，唔呼呼呼呼呼！
+\
+wave pd/s09
+bg #ffffff,notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg #9c0120,notrans,0
+quakexy 10,10,200
+bg "bg/bg_59",bshutter,800
+ld l,"tachi/stk_t06",crossfade,200
+`　那么，接下来这一张。@和吸血鬼什么的毫无关系，是过去的我的草图吧。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s16",lcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+`　不对，这也是吸血鬼五月喵。@
+`　也许是心理作用我觉得画上是个美少女，是因为人类变成吸血鬼就变得貌美了吧喵。
+\
+`　至于头发变长了的话……吗，就像天线伸长了一样吧喵。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　诶，是这样吗？　变成吸血鬼后就变成美少女了吗？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　正是如此。@那么就把决定性的照片作为证据给你看看吧。@
+`　看着。
+\
+bg #ffffff,lcartain,1000
+bg "bg/s12",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,1000
+bg "bg/s13",tcartain,1000
+wait 1500
+ld l,"tachi/stk_t09",crossfade,200
+`　唔哇。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　嘛虽然这是另一个人喵。@
+`　没有圆圆软软的感觉的五月就不再是五月了。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　这个成为吸血鬼后变得美貌的设定这次画事件CG的时候好像被忘掉了哦？
+\
+ld l,"tachi/stk_t11",bshutter,200
+`　反，反对！@　我反对无视设定！@　因，因为到现在才好不容易做出那些零碎的设定的，怎么能不好好遵守呢！
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　嘛嘛。也没有全部无视哦？
+\
+`　姆呼呼。@
+`　那么让你看看这次的压轴画，最终五月吧喵[line=4]！
+\
+playstop
+bg #ffffff,tshutter,800
+bg "bg/scroll19",tshutter,1000,bottom
+wait 2000
+`　咳咳咳咳咳咳咳咳咳咳咳咳咳（拟声）。
+\
+bg "bg/scroll19",bscroll,4000,top
+wait 2000
+ld r,"tachi/ark_t30",crossfade,200
+`　咳咳咳咳咳咳……这是，那个？
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　[line=12]。（哐）
+\
+ld r,"tachi/ark_t31a",crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+`　姆姆，发[line=6]现冒牌货！@
+`　把这个没见过的五月干掉[line=5]！
+\
+ld r,"tachi/neko_t02",crossfade,200
+rocket layer=r my=-200 magnify=5.0 time=800 accel=4 opacity=64
+cl r,notrans,0
+ld l,"tachi/stk_t12",crossfade,200
+`　不，不能把她干掉[line=8]！
+\
+bg #ffffff,lexpl,4000,center
+wait 4000
+play "*03"
+bg "bg/bg_59",crossfade,1000
+ld r,"tachi/ark_t30",bshutter,200
+`　哈！？@　刚，刚刚的是什么喵！？@
+`　难道说这就是五月的力量吗……！？
+\
+ld l,"tachi/stk_t02",crossfade,200
+`　没错。@刚刚的就是完全觉醒的吸血鬼弓冢五月。
+\
+`　那个多余的×××将×××，变成×××的时候
+`××××将会[line=4]
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　这，全是叉看不懂啊……！
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　不是你说的吗，禁止剧透什么的。
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　但是也没什么关系吧？@
+`　因为刚刚的五月到底是什么已经永远的沉入黑暗中了，
+`说说也没什么关系吧。
+\
+cl l,rshutter,800
+`　唔哇ー！@
+`　才不会永远的沉入黑暗中呢[line=4]！
+\
+bg #000000,rshutter,2000
+wait 1000
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01a",crossfade,200
+`　这个的话嘛，你在意这种地方啊喵。@
+`　走上最后的花道（译者注：歌舞伎剧场的独特的舞台设备），
+`这样你满足了吗五月？
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　……哼ー，这就到最后了什么的不可能的。@
+`　因为剧本也有了，时间CG也增加了一堆了[line=4]
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　蘑菇那家伙，刚才和剧本担当重新讨论了一下就抱住了脑袋哦？
+`　怎么说也过了两年了，那些剧情也被遗忘了吧喵ー。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　那，那样的话就重写一遍！@
+`　fate完了之后接下来就重制月姬什么的，一个不认识的人都这样说了！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　那个不认识的人真的很像没名气的人所以不要相信他说的话喵。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　嗯ー，但是按照道理来说fate后面也说不定可能是五月哦？
+`@　因为蘑菇和女仆们（译者注：可能是日比乃响，桂木千键）其实很支持五月呢。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　诶，真的吗！？
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`　嗯喵。@但不是在月姬里而是在不是很清楚的作品里喵。
+\
+ld l,"tachi/stk_t11",crossfade,200
+`　那，那可不行[line=4]！@
+`　那个作品里远野君不是不在了吗！
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　额？@　怎么，五月，你不是想要自己的故事而只是想和志贵lovelove吗？
+\
+ld l,"tachi/stk_t07",crossfade,200
+`　诶……嗯，那个，没错哦。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　因为我最后哭出来了呢。@
+`　如果有别的结局的话，我想至少分别时能是笑着的。
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　这样啊。@
+`　那么，我就实现你这个愿望喵。@
+`　倍率变化，翻倍。（译者注：捏他自日本猜谜大赛）
+\
+bg #ffffff,crossfade,1500
+bg "bg/s17",crossfade,1000
+ld l,"tachi/neko_t01a",crossfade,200
+`　怎么样喵？@
+`　和志贵的lovelove。满足了吗？
+\
+`「××××××××××××××××××」
+\
+ld l,"tachi/neko_t01b",crossfade,200
+`　虽然对五月来说过于刺激了。@
+`　那么最后就把从蘑菇那里抢来的五月线最后的高潮部分给你看看吧喵。
+\
+play "*04"
+bg #000000,bshutter,800
+bg "bg/bg_52",crossfade,800
+`　[line=3]一天，还有一天就要吸血鬼化的五月。@
+`　米哈尔· 罗亚·巴尔丹姆杨承认了五月的素质，正在逼近并准备完全的支配她。
+\
+`　志贵为了保护五月，和白吸血鬼公主一起赶赴作为Roa
+`大本营的学校。@
+`在那里等着的是蛇的盟友，Nero· Chaos。
+\
+`　燃烧的校园，黑色的野兽像是要把三咲街的大地整个吞掉！
+\
+`　决定Roa的命运的三方混战开始之后，五月终于下定决心加入战斗了[line=4]
+\
+`　月姬下一回，弓冢五月最终章，梦现解体。@
+`　手握所有的谜题的钥匙的是[line=4]
+\
+playstop
+bg #ffffff,crossfade,800
+wait 2000
+bg "bg/bg_sp02",crossfade,2000
+ld r,"tachi/neko_t01b",crossfade,200
+`　这个喵。
+\
+ld l,"tachi/stk_t12",crossfade,200
+`　呀[line=4]燃起来了[line=4]！？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　没有，五月你才是好燃好燃ー。
+\
+`　而且是大炮！@　为什么！？@为什么大炮会出现呢！？
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`　别小看它喵，这可不是普通的大炮哦。@
+`　这是在远野家屋顶上做出来的吸血鬼歼灭炮。
+\
+`　用这个在丘陵上狙击五月。
+\
+ld l,"tachi/stk_t04",crossfade,200
+`　唔哇，这是大危机啊，快来救我远野君……！@
+`　……那个，这到底变成了什么剧本啊ー！？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　那部分是值得期待的东西。@
+`　剧透太多的话就没意思了呢。
+\
+bg #ffffff,crossfade,1000
+play "*03"
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01b",crossfade,200
+`　[line=3]接着，差不多到时间限制了喵。@
+`　到了告别的时间了五月。
+\
+ld l,"tachi/stk_t13",crossfade,200
+`　诶……？@
+`　嗯，虽然因为捏他用完了结束的话也好……
+`时间限制是什么？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　是安装在这个咖啡厅里的核弹哦。@
+`　随便说一下，还有三秒爆炸。
+\
+ld l,"tachi/stk_t09",crossfade,200
+`　三秒的话……啊哈哈，那么逃不掉了呢？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　嗯，期盼一场堂堂正正的战斗吧。@活下来的话五月能见到剧本哦。@
+`　随便说一下，那个时候你就是我的敌人了。
+\
+ld l,"tachi/stk_t10",crossfade,200
+`　虽然那倒不错……怎么觉得，你把那个核弹背在了背上
+`……而且那不是核弹而是核导弹吧？
+\
+ld r,"tachi/ark_t30",crossfade,200
+`　什么喵ーーーーーー！！！！？？？？
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`　啊，五月，帮我拿下来，拿下来。
+\
+ld l,"tachi/stk_t03",crossfade,200
+`　对不起，我拒绝。
+\
+cl a,crossfade,200
+ld c,"tachi/ark_t30",bshutter,200
+`　喵ー！@　喷气式飞行器什么时候变成飞毛腿导弹了！？
+\
+rocket layer=c my=-600 magnify=0.2 time=1200 accel=5 mode=stNearest wait=false
+wave pd/fly
+bg #ffffff,lcircle,1200
+bg "bg/ima_06b",ccircle,400
+`　你，你算计我知得留！@
+`　像喵园的刘备兄弟一样的誓言到哪去了喵～～！
+\
+bg "bg/title_01",crossfade,800
+wave pd/s21
+bg #ffffff,crossfade,2000
+wait 4000
+play "*03"
+bg "bg/bg_59",lcartain,1000
+ld c,"tachi/stk_t13",crossfade,200
+`　……变成一个人了。
+\
+`　司仪的猫先生不在了，我留下来也没办法呢。@
+`　不好意思，麻烦结账！
+\
+ld c,"tachi/stk_t01",crossfade,200
+`　那么，虽然我也要回去了最后说一句。@
+`　五月剧本不管以什么方式发表。
+`这都应该是工作组的共同意见。
+\
+`　虽然会等很久，请悠哉的等到那时候吧。
+\
+ld c,"tachi/stk_t03",crossfade,200
+`　那么再见！@
+`　下次在月姬本篇中在洒满夕阳的坡道上与等着和你相逢的我相遇吧。
+\
+playstop
+cl c,tshutter,800
+bg #000000,crossfade,3000
+textbox nvl

@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld c,"tachi/his_t16",tshutter,800
+`「十分抱歉。@知得留先生現在正在用午飯。@在她回來之前還請稍候」@
+ld l,"tachi/ark_t31a",lshutter,400
+br
+`「不就是在吃咖哩麵包麼，翫忽職守～！」@
+br
+ld r,"tachi/ark_t31b",lshutter,400
+`「快滾出來～、混蛋希耶爾～！」@
+br
+ld c,"tachi/his_t01",crossfade,400
+`「我也有同感，不過既然她不在那也沒辦法。@
+`　在背後埋怨也沒有用，就算我在這裡感嘆姐姐做不了收拾整理的工作，也是於事無補。@
+`　那麼，現在開始慣例的救罪Corner」
+\
+ld c,"tachi/his_t17",crossfade,400
+`「……志貴少爺。@
+`　隱瞞事情可不會有什麼好結果。@
+`　吸取這次的教訓，下次請信賴翡翠。@
+ld c,"tachi/his_t01b",crossfade,400
+`　……以上。@
+`　那麼我先回遠野宅了。@
+`　請繼續欣賞遊戲本篇的劇情」
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lscroll,800
+`「喵……為啥這女人身上，也散發出一股Neko屬性的氣味喵……」@
+cl c,lscroll,800
+playstop

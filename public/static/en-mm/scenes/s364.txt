@@ -1,0 +1,192 @@
+playstop
+wavestop
+bg "bg/bg_40c",notrans,0
+`"[line=4]I can't."@
+` I can't go.@
+` The few remaining things I can be certain about.@
+` My life at school, Ciel as my Senpai… I can't lose them.@
+`"[line=8]"@
+` I know this can't last forever.@
+` But still[line=4]I don't want to lose my peaceful life I have left.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_40d",crossfade,800
+` [line=4]Night.@
+br
+` The time I promised to meet Senpai has already passed and I will watch that dream tonight once more.@
+`"…………"@
+` No, that's not right.@
+` I won't rely on Senpai's help.@ This is my problem, so I will solve it myself.@
+` In order to keep living the way I have until now, I will have to settle matters with this "killer" myself[line=4]
+\
+bg #000000,lcartain,800
+br
+` To prove that I am a killer or not.@
+` …… I don't even have to think about it.@
+` I just have to look around the town at night and find the killer which isn't me[line=6]
+\
+!w2000
+wave se_01
+bg "bg/bg_25b",crossfade,800
+` I let out a breath.@
+br
+` [line=6]I walk around the night-shrouded town.
+\
+br
+` I put a hands in my pocket, feeling the knife in there on my fingertips as I walk around town.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_26a",crossfade,800
+play "*6"
+` *pant*[line=5]*pant*
+br
+` [line=7]I breathe quietly as I walk around.@
+` Trying not to draw attention.@
+` I look at the people passing by as I stand concealing my presence from everyone.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_27b",crossfade,800
+br
+` *pant*[line=6]*pant*, *pant*.@
+br
+` [line=8]I am searching for the killer.@
+` Someone will get attacked tonight.@ He is looking for a new victim.@
+` Say, a girl with long, black hair.@
+` A girl around my age would be best.@
+` No need to mention the beauty of her hands and feet, but the beauty of her neck should be considered.@
+` In the end, everything counts on that one spot.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_30b",crossfade,800
+` *p-pant*, *pant*, *pant*.@
+br
+` [line=8]I look for the killer.@
+br
+` …… I know I won't find him easily.@
+` I knew from my dreams that the perfect prey is hard to find.
+\
+wave se_01
+` *pant*…… *pant*…… *pant*
+br
+` B… u… t
+` Tonight, this town bores me.@
+` I cannot find my PREY.@
+` I'm getting angry.@ My objective was to find someone, or to kill someone, or something like that.
+\
+`"[line=12]Ha."@
+br
+` I'll hold my breath.@
+` I'll hold on to my knife.@
+` I should concentrate, so I will be able to return death at any time.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_31b",crossfade,800
+` I pant more and more.@
+br
+` [line=3]I look for the KILLER.@
+br
+wave se_01
+` But I can't find him.@
+` Only time passes.@
+` *pant*, *pant*.@
+wave se_01
+` It overflows, sharpens, is used, is used up, and over time stands up, and changes form and[line=7]
+\
+wave se_01
+bg #ffffff,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+waveloop se_02
+` In front of me lies tonight's prey.@
+br
+` My panting fills the air.@
+br
+` It is a dead woman's corpse.@
+` In my hand is a knife.@ The red blood on my knife drips to the ground.@
+br
+` [line=8]Why?@
+` I was looking for the killer, but all of a sudden, there's the dead body of a woman right in front of me.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` *pant*, *pant*, *pant*, *pant*.@
+` My breathing gets out of control.@
+` A dead body in front of me.@
+` A bloody knife in my hand.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=14]I don't understand.
+\
+` When, at what time, what I did.@
+` Did something happen to my mind?@
+` Yes, like…
+` it overflows, sharpens, is used, is used up, and over time stands up, and changes form, changes its meaning, becomes free, explodes, and lightens up.@
+` On that path.@
+` The theory of evolving consciousness and meaning.@
+` But an important path is missing.
+\
+br
+br
+` Since when.@
+br
+br
+` Did I.@
+br
+br
+` Turn into.@
+br
+br
+` The other "me"?
+\
+` [line=9]I see.@
+` There was no need for me to give you a push, Shiki.
+\
+` From behind me,
+` that voice sounds out.@
+br
+` Heavy breathing.@
+br
+` I turn around.@
+` There.@
+ld c,"tachi/hal_t01",crossfade,400
+cl c,crossfade,400
+br
+` Someone I have never seen before, yet someone who looks like me, stands there.
+\
+` [line=6]It can't be helped if you're already broken.@
+`  Bye, Shiki.@ I wanted to play around with you for a bit longer.
+\
+wave se_06
+bg "bg/ima_12b",crossfade,400
+` Slash.@ I'm cut with a knife.@
+br
+` It hurts.@
+` It's funny.@
+` It's deep.@
+` It's great!
+\
+`"Ha[line=6]haha, ha."@
+` I start to pass out.@
+` Like that, in that ambiguous state, I was killed.@
+` …… I'm happy, in a way.@
+` Tohno Shiki was killed by the killer.@
+` That's proof that I wasn't the killer.
+\
+playstop
+bg #000000,crossfade,800
+monocro off
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

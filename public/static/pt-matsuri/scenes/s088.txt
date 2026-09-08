@@ -1,0 +1,226 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_19d",notrans,0
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hummm.@ Acho que deve haver algum tipo de tensão no seu cérebro para você ser capaz de ver a 'morte'… Sim, com certeza existe um motivo para você ter estes olhos, mas isso é tudo que posso dizer por enquanto.@ Se mais tarde tivermos a oportunidade, vamos conversar sobre isso mais detalhadamente."@
+`"Não se preocupe.@ Eu não gosto de histórias demoradas mesmo."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Sério?@ Pessoalmente, eu adoro conversar com outras pessoas."@
+` Ela ri de forma despreocupada.@
+` Ela realmente tem cara de quem gosta de falar pelos cotovelos.
+\
+bg #000000,lshutter,800
+bg "bg/bg_19d",rshutter,800
+` A noite chega.@
+` A Arcueid se senta na cama e ambos ficamos olhando sem muito interesse para o relógio.@
+` Já passam das quatro horas da manhã.@
+` Falta cerca de uma hora para amanhecer.
+\
+`"Só falta mais uma hora?"@
+` Não aconteceu nada fora do comum até agora e a Arcueid não mostra qualquer sinal de tensão.@
+` Estamos cercados por uma tranquilidade completa.@
+` Por algum motivo, começo a acreditar que esta noite vai acabar sem acontecer nada de extraordinário.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ei, Shiki."@
+` Ela me chama de novo.@
+`"O que foi?@ Eu não tenho mais nenhum assunto para conversarmos."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Nossa, é mesmo?@ Mas é um desperdício de tempo ficarmos calados, ainda mais em uma situação como essa."@
+`"…… Escuta aqui, quantas horas você acha que eu tive que ficar aguentando suas baboseiras?@ Seis horas.@ Isso está me deixando mil vezes mais cansado do que se estivesse apenas vigiando."@
+ld c,"tachi/ark_t04",crossfade,400
+` Ela me olha insatisfeita.
+\
+` [line=3]Mas é a verdade.@
+` Ela continuou conversando comigo por seis horas seguidas.@
+` Eu disse a ela para dormir se estivesse se sentindo fraca, mas ela simplesmente respondeu: "É mais divertido ficar conversando".@ E no final das contas, acabamos conversando esse tempo todo.@
+` *suspiro*@
+` Eu simplesmente não entendo o que se passa na cabeça dessa garota.@
+br
+` [line=3]Ronnnnnnnc.@
+br
+` E para piorar as coisas, agora estou com fome.@
+` Pensando bem, minha última refeição foi o café da manhã, eu fiquei o dia inteiro sem comer mais nada.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Por que não come alguma coisa?@ Estamos em um hotel de luxo, é só chamar o serviço de quarto."@
+`"Não, por enquanto não.@ A minha ansiedade acabaria se eu comesse alguma coisa agora.@ Mas e você, não deveria comer?@ Você está fraca e não está dormindo para se recuperar, então deveria pelo menos comer algo."@
+`"Se você não vai comer, então também não vou.@ A comida normal tem um valor próprio, mas é chato comer sozinha."
+\
+`"Comida normal?@ Não tem nada de normal ou especial em comer[line=3]"@
+cl c,crossfade,400
+br
+` …… Ah, espera.@
+` A Arcueid é uma vampira.@ Acho que para ela, "comida" seria tomar o sangue de alguém.@
+br
+`"[line=3]É mesmo?@ Achei que, por ser uma vampira, você não se alimentaria de nada além de sangue."
+\
+` Não parece, mas a Arcueid é uma vampira.@
+` Ela mesma disse que os vampiros precisam do sangue dos humanos para sobreviver.@
+` Sendo assim[line=3]de quantas pessoas será que ela sugou sangue?@ E quantas pessoas ela já matou?
+\
+`"[line=5]"@
+` Dou uma olhada rápida no rosto dela.@
+` …… Eu nem consigo imaginar.@
+` Mesmo sabendo que ela é uma vampira, não consigo imaginá-la sugando o sangue de alguém[line=3]
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"O que foi?@ Tem alguma coisa no meu rosto?"@
+`"……!"@
+` Seu olhar encontra o meu e rapidamente olho para o lado.@
+` Ela continua me encarando e, de repente, dá uma risada, deixando claro que entendeu o que eu estava pensando.
+\
+`"Está curioso?"
+\
+`"S-sobre o quê?"@
+`"Sobre o número de pessoas de quem eu suguei sangue?"
+\
+`"Erk[line=5]"@
+` …… É como se tivesse lido minha mente.@
+br
+` O sorriso da Arcueid fica cada vez maior e eu não estou gostando disso.
+\
+cl c,crossfade,400
+`"…… É claro que estou curioso.@ Estou te ajudando, se eu não souber sobre isso, como vou saber quando você vai mudar de ideia e tentar me atacar?"@
+` Isso seria um problemão.@
+`"Entendo, entendo," ela responde.
+\
+`"Muito bem.@ Aqui vai a pergunta.@ O sangue de quantas pessoas eu já suguei até hoje?"@
+` Ela dá um pulo da cama e caminha até a janela.@
+`"Quantas pessoas?@ Vejamos[line=3]"@
+ld c,"tachi/ark_t01a",crossfade,400
+` Ela sorri toda alegre e silenciosamente olha na minha direção com um ar de satisfação.@
+` …… Droga, é óbvio que ela está tentando me provocar.@
+` Tudo bem.@ Eu vou responder.@
+` Vejamos… deve ser cerca de…
+\
+`"Cerca de cem pessoas?"@
+`"Desculpe, você errou."@
+ld c,"tachi/ark_t09",crossfade,400
+`"Então, cerca de mil pessoas?"@
+`"Não, errou de novo."@
+` Ela ri como se fosse muito engraçado.@
+` …… Isso é muito frustrante.
+\
+`"Droga!@ Então… bem, duvido que seja o caso mas… umas dez pessoas?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Errou outra vez.@ Nossa, sério!?@ Dez pessoas, cem pessoas, mil pessoas… você realmente acha que sou esse tipo de pessoa?@ Que maldade, assim eu seria um monstro."@
+`"Estou errado?@ Os vampiros são monstros, não são?@ Até os seres humanos sentem fome simplesmente por estarem vivos, e se tratando de uma questão de vida ou morte para vocês, provavelmente vocês não devem ser exigentes."@
+`"Sim, isso é verdade, mas…"
+\
+ld c,"tachi/ark_t22",crossfade,400
+`"Eu não tomei sangue nesses últimos oitocentos anos.@ E nunca matei um ser humano normal."@
+br
+` [line=4]Hein?@
+br
+`"Espera[line=3]isso é verdade?"@
+`"É a verdade.@ Afinal, eu tenho medo de tomar sangue."
+\
+` [line=3]Hã?@
+` Medo de tomar sangue?@
+br
+`"Você está brincando, né?@ Um vampiro que tem medo de tomar sangue?@ Como assim?"@
+`"…… Acho que é porque sou uma covarde.@ É por isso que sou um fracasso como vampira."@
+` Ela resmunga enquanto olha para o céu nortuno através da janela.@
+cl c,crossfade,800
+br
+` E ela continua assim por um bom tempo, apenas olhando para o céu.@
+` Suas costas parecem oscilar… como se ela fosse desaparecer, como se ela fosse uma mera ilusão.
+\
+`"…… Entendo, um fracasso."@
+` Eu sussurro e me sinto aliviado.@
+` …… Isso me deixou feliz.@
+` É claro que eu ficaria aliviado.@
+` Porque agora sei que a pessoa que está aqui comigo não é nenhum tipo de monstro sanguinário.@
+` Acreditando no que ela diz, eu não vou ser morto por algum capricho dela.
+\
+` Então, estou seguro.@ …… Estou seguro, mas sinto que não estou aliviado só por causa disso.@
+br
+` [line=3]Que droga, qual é o meu problema?@
+br
+` Ficar aliviado por causa de uma coisa dessas… como posso ficar feliz por ela ser um fracasso?
+\
+bg #9c0120,crossfade,400
+playstop
+bg "bg/bg_19d",crossfade,400
+`"Ah[line=4]"@
+` De repente, sinto uma leve tontura.@
+br
+ld c,"tachi/ark_t01a",crossfade,400
+`"Shiki?@ O que houve?@ Você está suando muito."@
+`"Não é nada, só uma pontada de dor na cabeça[line=3]"@
+` Eu percebo algo assustador quando respondo a Arcueid.@
+bg #000000,crossfade,400
+bg "bg/cmo_16",crossfade,400
+` Na janela atrás dela.@
+` Por trás do vidro, em meio às ruas da cidade ainda imersa na escuridão da noite.@
+br
+` Um corvo azul está olhando na minha direção.
+\
+`"Olha[line=3]"@
+` Fico apenas encarando sua figura pela janela.@
+` A Arcueid se vira para a janela também.@
+`"…… Nrvnqsr?"@
+br
+`"DE FATO.@ FINALMENTE TE ENCONTREI, PRINCESA DOS ANCESTRAIS ORIGINAIS."@
+br
+` De algum lugar,
+` vem uma estranha sensação que domina o ambiente.
+\
+` Os olhos da Arcueid transbordam hostilidade.@
+` Do outro lado da janela, o corvo solta um grasnado alto e estridente.@
+br
+`"MUITO BEM.@ ESTOU INDO AÍ AGORA MESMO."@
+br
+bg "bg/ima_18",crossfade,400
+` O corvo azul sai voando.@
+` Só o que resta é a escuridão da noite e a lua branca.
+\
+bg "bg/bg_19d",notrans,0
+play "*6"
+` [line=8]De repente
+br
+quakex 5,100
+` Boom!@
+` Ouço um estrondo e o quarto treme de forma violenta.@
+` Não, para ser mais preciso,
+` o hotel inteiro balançou com esse impacto.
+\
+`"Mas que drog[line=3]!?"@
+` Eu levanto da cama.@
+ld c,"tachi/ark_t07",crossfade,400
+` A Arcueid está calada, mordendo os lábios com uma expressão de chateada.@
+`"Arcueid, esse tremor de agora[line=3]"@
+`"[line=5]"@
+` Ela não responde.
+\
+`"…… Diz alguma coisa!@ Aquilo não foi um terremoto, né?"@
+` [line=3]Para mim, foi como se alguém tivesse batido um enorme caminhão de lixo em alta velocidade dentro do saguão do hotel.@ Foi um impacto absurdo desse tipo.@
+`"…… Arcueid!"@
+` Ela… não responde.@
+cl c,crossfade,400
+br
+` Se eu parar para prestar atenção, posso ouvir os barulhos lá de baixo.
+\
+` …… A Arcueid está com uma expressão muito séria.@
+` Ela disse que está muito fraca no momento.@
+` Provavelmente é por isso que ficou muda.
+\
+`"[line=6]"@
+` O tempo passa.@
+` Dois minutos.@
+` Já faz dois minutos desde o impacto, mas o hotel está estranhamente em silêncio.@
+br
+` A Arcueid permanece em silêncio e imóvel.@
+` Ela apenas morde os lábios, como se estivesse suportando alguma coisa.@
+` Eu vejo um rastro de sangue lentamente escorrendo dos seus lábios.
+\
+`"[line=4]Arcueid[line=4]"@
+` Ela está preocupada?@ Frustrada?@
+` Ela continua imóvel, quase como se estivesse abraçando a si mesma, tentando suportar alguma coisa.@
+br
+` Ela disse que não vai sair do quarto.@
+` Então,
+` o que eu estou fazendo aqui?
+\

@@ -1,0 +1,151 @@
+phase "bg/bg_31b",l,ark,10a,10
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,800
+play "*9"
+` [line=4]Já é de manhã.@
+` Eu abro os olhos e coloco os óculos que estavam perto da minha cama.@
+` Olho pela janela e vejo um céu azul sem nenhuma nuvem.@
+br
+`"………………"@
+` Mesmo que uma manhã tão linda como essa me cumprimente logo que acordo, estou muito deprimido para cumprimentá-la de volta.@
+` E nem preciso dizer o porquê.@
+` O que aconteceu com a Arcueid ontem à noite não sai da minha cabeça, e a dor que acompanha a lembrança me perturba muito.
+\
+`"…… Ela disse para esquecermos o ocorrido[line=4]mas não dá para esquecer uma coisa daquelas."@
+` Eu olho para as minhas mãos.@
+` A sensação do corpo dela permanece nos meus dedos.@
+` Até agora me lembro da textura da sua pele e da temperatura do seu corpo.@
+` Eu não estava raciocinando naquela hora, mas agora entendo tudo perfeitamente.
+\
+` Depois de fazer uma coisa daquelas.@
+` A Arcueid disse para esquecer e fingir que nunca aconteceu.@ Eu me arrependo demais do que fiz, mas não consigo me esquecer nem dos mínimos detalhes do que aconteceu.@
+` O que mais me arrependo é de não ter conseguido controlar minhas ações.@
+br
+` Se eu não a tivesse tocado como um animal, se eu a tivesse tocado mais como um ser humano, como as coisas teriam[line=4]
+\
+br
+` [line=4]Eu sabia!@
+br
+` Eu não me descontrolei só porque vi seus olhos dourados.@
+` Eu não tinha percebido antes, mas ela já havia me conquistado há muito tempo.@
+br
+` Demorei demais para perceber algo tão simples[line=4]
+\
+bg #000000,lcartain,1500
+bg "bg/bg_34a",lcartain,1500
+` A manhã na mansão Tohno é sempre a mesma.@
+` A Hisui vem até aqui para me acordar.@ A Akiha e a Kohaku-san estão na sala de estar e nos cumprimentamos brevemente antes de irmos para a escola.@
+br
+` É uma manhã como todas as outras.@
+` Entretanto, me sinto tão vazio que nem respondo direito quando as pessoas falam comigo, e saio da mansão bem distraído.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_01a",lcartain,1500
+` Os estudantes passando pelo portão estão todos animados.@
+br
+`"Ah, é mesmo.@ Hoje é sábado."@
+` A minha noção de tempo desapareceu completamente desde que a Arcueid entrou na minha vida.@
+` A primeira vez que me encontrei com ela foi numa sexta-feira.@
+` Uma semana atrás, ela estava me esperando na interseção em frente a escola.
+\
+`"…… Acho[line=4]que ela estava sorrindo."@
+` Pensando bem, ela estava sorrindo sim.@
+` Mesmo que estivesse esperando pelo seu assassino… ela estava esperando pelo assassino Tohno Shiki com certo entusiasmo no rosto.@
+br
+`"…… Por que será?@ Se ela aparecer hoje à noite, vou perguntá-la."@
+` Depois de pensar em voz alta, fico mais desanimado ainda.@
+` Provavelmente ela não vai até o parque.@
+` A sensação de que ontem foi a última vez nos vimos perdura na minha mente.
+\
+` Meu coração está pesado e todo o resto perdeu o significado.@
+` Talvez eu nunca mais a veja.@ O arrependimento se enrosca em mim como uma corrente de chumbo[line=4]
+\
+bg #000000,lcartain,1500
+bg "bg/bg_06a",lcartain,1500
+` Eu sento na minha carteira.@
+` Falta cerca de cinco minutos para a aula começar.@
+` Fico olhando pela janela, desanimado.@
+ld c,"tachi/ari_t01",lshutter,400
+`"E aê, delinquente.@ Você matou aula ontem.@ O que tava aprontando, Tohno?"@
+`"…………"@
+` Solto um suspiro pesado.@
+` Normalmente não me importo, mas hoje não dá pra ficar de conversa com o Arihiko.
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"…… Qual o seu problema?@ Nem parece feliz.@ Você matou aula ontem e hoje veio parecendo um morto-vivo.@ Se for agir assim a vida escolar não vai ter graça."@
+` O Arihiko relaxa os ombros de forma exagerada.@
+br
+`"[line=5]Arihiko.@ Desculpa, mas será que você podia me deixar em paz hoje?@ Vai conversar com a Senpai.@ Aliás, não seria uma coisa ótima para você fazer?"@
+`"Hã[line=4]?@ Senpai?@ Eu não conheço ninguém do terceiro ano."
+\
+`"…… Como assim?@ A Ciel-senpai está no terceiro ano, não no segundo.@ …… Às vezes dá pra pensar que ela é mais nova mesmo, mas a Senpai é uma senpai mesmo assim."@
+`"Shiel-Senpai?@ …… Quem é essa?@ Tem algum estudante estrangeiro na nossa escola?"@
+` Ele inclina a cabeça parecendo sério.
+\
+`"A Senpai é japonesa……"@
+br
+` Não, espera.@
+` Ninguém disse que ela era japonesa.@
+br
+`"…… Ninguém nunca disse que ela era, mas todos a chamavam de Ciel-senpai."
+\
+`"Mas eu não tô entendendo, quem é essa senpai?@ Qual o seu problema Tohno, você está doente?"@
+` Não estou suportando essa brincadeira dele.@
+cl c,crossfade,400
+\
+`"O qu………………"@
+` É mesmo.@ Por que eu não tinha percebido algo tão óbvio?@
+` Ciel não é um nome japonês.@
+` Eu conheço ela mas nem sei seu nome completo.@ Nem sei em qual classe ela está.@
+br
+` Pensando bem,
+` quando a conheci, por que fiquei com aquela sensação de que já a conhecia há muito tempo……?
+\
+`"[line=6]!"@
+` Minha cadeira faz barulho quando levanto rapidamente.@
+ld c,"tachi/ari_t03",crossfade,400
+`"?@ O que houve, Tohno?@ Você está muito estranho."@
+`"Vou até a secretaria.@ Por favor, responde a chamada pra mim."@
+cl c,crossfade,400
+` Dando as costas para o Arihiko que está completamente confuso, saio rapidamente de dentro da sala.
+\
+bg #000000,lcartain,800
+!w1000
+` Eu procuro pelo nome Ciel no resgistro dos alunos do terceiro ano, mas ele não existe.
+\
+` Para ter certeza, pergunto aos professores na secretaria, mas nenhum deles se lembra da Ciel-senpai.
+\
+!w1000
+bg "bg/bg_06a",crossfade,800
+` As aulas terminam.@
+` Como é sábado, todos da minha classe saem voando.@
+br
+`"[line=4]"@
+` O sábado finalmente chegou, mas não estou com vontade de fazer nada.@
+` Sentindo-me como um dos Mortos, vou embora sozinho.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_33b",lcartain,1500
+ld c,"tachi/his_t01",lshutter,400
+`"Bem-vindo de volta, Shiki-sama."@
+` A Hisui me cumprimenta quando chego.@
+` Embora ela tenha me esperado todo esse tempo, eu vou para o meu quarto sem nem responder.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_40c",crossfade,800
+` [line=4]Depois do jantar, eu volto para o meu quarto.@
+` Está quase na hora do horário combinado com a Arcueid.@
+`"…… Será que devo ir?"@
+` Nem sei se ela vai aparecer.@
+` Mesmo assim, eu prometi que nunca mais quebraria uma promessa, por isso tenho que ir de qualquer forma.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+playstop
+` Eu chego no parque pouco antes das dez.@
+` Não tem ninguém aqui.@
+` Eu me sento no banco.@ Olho para o relógio e fico esperando a Arcueid chegar.
+\

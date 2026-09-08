@@ -1,0 +1,369 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",lshutter,400
+` ……… O relógio marca meia-noite.@
+` Já passou duas horas desde a hora combinada.@
+`"[line=3]Ufa."@
+` Eu me acomodo de forma desleixada no banco e suspiro.@
+`"…… Talvez ela não venha mesmo."@
+` Eu sei lá!@
+` Eu não sei, mas não estou com vontade de ir embora.@
+`"[line=3]Vou esperar até amanhecer.@ Que droga!"@
+`  Eu deito no banco, frustrado.@
+br
+` [line=4]E então.
+\
+`"……… Hã?"@
+` Espera um pouco.@
+` Acho que vi alguma coisa aqui perto.@
+` …… Ela se moveu assim que eu a vi.
+\
+`"[line=6]"@
+` Eu me levanto do banco e vou até lá.@
+` …… Como se já soubesse que não dava mais para se esconder, a pessoa de branco mostra o seu rosto.@
+br
+ld c,"tachi/ark_t08",lshutter,400
+play "*3"
+`"Ahaha, você me encontrou~"@
+` A Arcueid aparece, mais animada do que de costume.
+\
+`"Arcueid, você[line=3]"@
+`"Hum?@ Que foi?"@
+`"[line=3]Você veio mesmo!"@
+` Eu digo isso porque ainda não estou acreditando.@
+ld c,"tachi/ark_t04",crossfade,400
+`"Mas é claro, tínhamos combinado.@ Cheguei dez minutos antes de você."@
+` Ela desvia o olhar.@
+`"…… Dez minutos antes?@ Mas[line=4]eu[line=3]"@
+` Eu cheguei antes das dez horas, e ela chegou antes de mim?
+\
+`"Por quê……?@ Se chegou antes de mim, por que não me falou que estava aqui?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Eu queria ficar te observando escondida."@
+`"[line=5]"@
+` …… Já entendi.@
+` Mesmo que não esteja agindo de forma diferente, ela deve estar chateada com o que aconteceu na noite passada.@
+` Por isso que[line=4]ela não quis me encarar diretamente e ficou escondida.
+\
+`"…… Desculpe-me.@ Realmente as coisas não são tão simples[line=3]"@
+`"Pois é.@ Você nem percebeu que eu estava aqui.@
+` Fiquei esperando você me notar.@
+` Era para nos encontrarmos de uma forma diferente dessa vez, mas você estragou tudo, ficou aí viajando na maionese."@
+`"[line=4]Hein?"@
+br
+` Estraguei o quê?
+\
+`"Arcueid[line=3]você não se escondeu por estar se sentindo desconfortável……?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Não!@ Eu estava entediada e quis me divertir um pouco."@
+` Ela diz isso tranquilamente, sem ter ideia da frustração que eu estava sentindo.@
+`"…… Quis se divertir às minhas custas[line=4]ora sua[line=3]"@
+cl c,crossfade,400
+` A alegria que senti por finalmente encontrá-la desaparece.@
+` Não é mais uma situação onde tenho que pensar no que fazer depois de encontrá-la.@
+` …… Como sempre, ela está agindo como bem entende, sem nem saber como me sinto.
+\
+`"[line=5]Ha."@
+` Respiro profundamente enchendo meus pulmões com o ar noturno.@
+` Estou mais surpreso que irritado.@
+` Talvez eu só esteja aliviado por ela estar agindo de uma forma normal.@ Bem, normal para ela.@
+` Como prova, sinto que meu coração carregado de impurezas acabou de ser completamente limpo.
+\
+`"…… Nossa!@ Você ganhou."@
+ld c,"tachi/ark_t03",notrans,0
+`"Mesmo?@ Oba!!"@
+`"Não, não estou falando do seu joguinho de esconde-esconde."@
+` …… Ahhhh, é inútil colocar isso em palavras.
+\
+`"Estou feliz por você ter vindo.@ Para ser sincero, achei que nunca mais te veria."@
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=3]Hein?@ Você achou isso depois de esperar só duas horas?"@
+`"…… Não.@ Por causa da noite passada.@ Achei que nunca mais iríamos nos encontrar."@
+playstop
+ld c,"tachi/ark_t17",crossfade,400
+`"[line=4]"
+\
+play "*5"
+`"…… Assim não dá, Shiki.@ Eu disse para esquecer aquilo."@
+` A Arcueid diz isso com uma voz bem fraquinha.@
+cl c,crossfade,400
+`"Ah[line=5]"@
+` …… Idiota.@
+` Eu sou muito idiota.@
+` Achei que ela estivesse agindo da forma que sempre agiu.@
+` Mas não era isso.@
+` Ela estava agindo assim para eu não me sentir mal.
+\
+`"…… Desculpa, eu fui muito idiota.@ Não tenho qualquer direito de gritar com você novamente."@
+ld c,"tachi/ark_t10",crossfade,400
+`"Eu já disse que está tudo bem.@ Se alguém tem culpa, esse alguém sou eu.@ Esqueça isso.@ Não acha que será melhor para nós dois dessa forma?"@
+` Ela tenta enganar nós dois falando alegremente.@
+` Tenta nos enganar quanto ao que aconteceu ontem à noite, tenta nos enganar em quão ela está chateada com aquilo.@
+` Mas[line=4]@
+` Sério, me dizer para esquecer com aquela expressão no rosto?@ Como posso fazer isso?
+\
+`"[line=3]Não.@ Eu não estava me desculpando por ontem.@ Sou um idiota porque não consigo esquecer algo que já deveria ter esquecido."@
+`"Hã[line=3]Shiki?"@
+`"Desde que amanheceu, só consigo pensar em você.@ Tudo que conseguia pensar era em como me desculpar com você e o que eu diria depois de te ver.@
+` Por isso que[line=3]não posso simplesmente esquecer."
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"[line=4]"@
+` Ela olha para longe.@
+` Eu[line=3]não consigo olhar para ela também.@ Depois de sentir que disse algo que não deveria ter dito, não consigo olhá-la nos olhos.
+\
+` Ela não diz nada.@
+` Eu também fico calado, e um longo período de silêncio se inicia.@
+br
+` [line=3]Não sei quanto tempo já se passou.@
+br
+` A Arcueid faz um gesto afirmativo com a cabeça.
+\
+`"…… Então tá, para falar a verdade.@
+ld c,"tachi/ark_t14",crossfade,400
+` Eu também não consegui me esquecer, Shiki."@
+` Ela fica com o rosto corado e diz isso com alguma dificuldade.@
+`"Arcueid[line=4]"@
+` Ela ficou tão fofa fazendo isso.@
+cl c,lshutter,400
+` Assim que penso isso[line=3]vejo a Arcueid olhando tudo em volta.@
+br
+` Não sei quando aconteceu, mas estamos cercados por silhuetas humanas.
+\
+playstop
+`"O qu………!?"@
+` Não consigo pensar direito porque foi muito repentino.@
+ld c,"tachi/ark_t07",crossfade,400
+play "*6"
+`"Estamos cercados.@ Esteja preparado, Shiki.@ Se não lutar, vai morrer."@
+`"Lutar?@ Então eles são[line=3]"@
+`"Tire os óculos que vai entender!@ São 'Os Mortos'."@
+`"…………!"@
+` Rapidamente tiro os óculos e saco a faca.
+\
+bg "bg/bg_29c",crossfade,800
+` Ela tinha razão,
+` as cinco pessoas que nos cercam são apenas rabiscos que montam uma forma humana.
+\
+`"Por quê[line=3]!?@ Você disse que matou todos ontem, Arcueid!"@
+ld c,"tachi/ark_t05c",crossfade,400
+`"[line=3]Pois é.@ Estes são os que destruí ontem mesmo."@
+` Ela aperta os olhos e encara eles.@
+` Eles avançam lentamente.
+\
+`"Então eles estavam fingindo que morreram……!?"@
+`"Claro que não.@ Não estou tão fraca para ser enganada por um truque barato desses.@ …… Mas o fato de que cometi um erro não pode ser negado.@ Não esperei para me certificar que eles haviam se transformado em cinzas no final."@
+cl c,crossfade,400
+br
+` Eles se aproximam.@
+` E fecham o círculo à nossa volta.@
+` Meus dedos que seguram a faca tremem um pouco.
+\
+` Para ser sincero, não sinto pressão alguma vindo deles.@
+` Comparados a um monstro como o Nrvnqsr, os Mortos não são nada.@
+br
+` [line=3]Mas são cinco.@
+` Será que consigo enfrentar tantos Mortos[line=3]tantas coisas que já foram humanas!?
+\
+`"[line=2]Shiki, se hesitar vai morrer.@ Eles já não são mais criaturas vivas.@ Uma vez que tiveram seu sangue sugado por um vampiro e se transformaram em Mortos, já não podem mais voltar ao normal[line=2]agora são como bonecos controlados pelo vampiro.@ Não há pecado em matá-los."@
+` Ouço sua voz atrás de mim.@
+` Parece que ela se moveu para proteger minhas costas.
+\
+`"Espera.@ Como assim?"@
+`"…… Há várias formas de se controlar um cadáver magicamente.@ É mais fácil infundir energia mágica no cádaver de um ser humano do que no de um animal ou em um objeto intangível, por isso é muito conveniente[line=3]mas infelizmente, não tenho tempo de explicar com detalhes.@
+` Eles vão atacar!"@
+` Sinto ela se afastando.@
+` Eles atacam nesse exato momento.
+\
+bg #000000,lshutter,400
+` Os rabiscos de morte nos atacam.@
+` Eles simplesmente avançam com os braços estendidos.@
+`"[line=4]K!"@
+` Dou um pulo para o lado e me esquivo do ataque.@
+` E então, sinto algo terrível atrás de mim.
+\
+`"Ora[line=3]seu……!"@
+` Viro para trás com todas as minhas forças.@
+` Um dos Mortos tenta me socar.@
+ld c,"tachi/man_t03",crossfade,400
+br
+` [line=4]Os corpos dos Mortos quase não têm lugares sem as "linhas".@
+` O que me permite cortá-los em qualquer lugar.@
+` Eles também são incrivelmente lerdos.@
+` Mil vezes mais fácil do que qualquer coisa que saiu de dentro do Nrvnqsr.
+\
+`"[line=6]"@
+` Os Mortos avançam.@
+` Posso matá-los facilmente.@
+br
+` Desvio do seu braço e miro na sua barriga.@
+br
+` Na "linha" dos vasos sanguíneos.@
+` Fito o coração chamado de "ponto" de morte[line=4]
+br
+`"Que[line=3]droga……!!!!"@
+` Merda.@
+` A faca não alcança o alvo, apenas corta o seu braço.
+\
+` O Morto de um braço só nem pausa seu ataque.@
+` Outro Morto se aproxima sem mostrar medo.@
+br
+` O Morto de um braço só ataca.@
+` Assim que desvio do ataque, o outro Morto pula em mim por trás.
+\
+bg "bg/ima_13",crossfade,400
+wave se_10
+quakex 2,100
+`"Ah[line=4]"@
+` Nhac.@
+` Como se montasse de cavalinho em mim.@
+` Ele morde no meu pescoço.@
+` Mas não foi para sugar sangue nem nada do tipo.@
+` É como um animal tentando matar sua presa rasgando seu pescoço.
+\
+`"Gah[line=4]!"@
+` Será que a mordida de um ser humano pode rasgar um pescoço?@
+` Ele me morde com os dentes da frente ao invés de usar os de trás.@
+` E por causa disso seus dentes quebram.@
+` E mesmo assim[line=3]ele tenta me morder com a gengiva.@
+br
+` Não machuca.@
+` Mas é nojento.
+\
+`"Ah…… ah, ah[line=3]"@
+` O Morto de um braço só vem na minha direção.@
+` Preciso matar o que está atrás de mim ou vou morrer.@
+` O método é simples.@
+` Enquanto ele continuar tentando morder meu pescoço, só preciso passar a faca na cara dele.
+\
+`"[line=6]"@
+` Mas[line=3]isso vai significar que eu vou matar alguém.@
+` Eu sei.@
+` Eles não são humanos, nem vivos estão[line=3]mas ainda sinto que é errado.
+\
+br
+br
+br
+br
+` [line=3]Como sou ingênuo.@
+` Mesmo que sejam cadáveres.@
+` Eles têm formas humanas, e agem como seres humanos.@
+` Como um ser humano, me sinto mal por matá-los[line=4]
+\
+`"Shiki[line=3]!?"@
+` Ouço a voz da Arcueid enquanto ela luta com os outros três Mortos.@
+` Sem nem pensar, mesmo com um deles na minha frente, eu olho para ela.@
+br
+` [line=3]E.@
+` Vejo algo inacreditável.
+\
+bg "bg/bg_29c",crossfade,400
+ld c,"tachi/ark_t15",lshutter,400
+`"[line=5]"@
+` A Arcueid está ferida.@
+` Embora eles se movam como lesmas; tão lentos que ela poderia matá-los em um segundo, a Arcueid está sendo vencida pelos Mortos.@
+` Ela respira com dificuldade.@
+` Seus passos estão instáveis[line=3]e ela está com dificuldades para esquivar dos ataques que até eu me esquivei.@
+cl c,lshutter,400
+\
+` O Morto rasga o seu braço.@
+` Ela contra-ataca.@
+` Ela parte o corpo dele ao meio, da cabeça até a cintura.@
+` As duas metades caem para os lados.@
+br
+` Ao mesmo tempo[line=3]as duas outras sombras de morte atacam ela.
+\
+ld c,"tachi/ark_t18",notrans,0
+`"A[line=3]"@
+` Ela fica de joelhos.@
+` Mesmo dessa distância eu consigo perceber que ela está com dificuldades para respirar.@
+cl c,crossfade,400
+\
+` Os dois Mortos atacam novamente.
+\
+` Eles chutam seu rosto e ela cai no chão.@
+br
+`"Par[line=3]"@
+br
+` Depois disso,
+` eles ficam com um sorriso repugnante no rosto e sobem em cima dela.
+\
+`"Parem[line=3]"@
+br
+` …… Ela fica deitada com os braços abertos, como se imitasse uma cruz.@
+` Igual ontem, quando eu fiz aquelas coisas vergonhosas com ela.@
+br
+`"Parem com isso, seus desgraçados[line=3]!"
+\
+bg #000000,lshutter,400
+bg "bg/ima_14",notrans,0
+` Eu corto.@
+` Corto o rosto do Morto que está atrás de mim tentando me morder.@
+` Perfuro a barriga do Morto que, por mais estranho que pareça, está na minha frente parado.@
+` Acertei onde estava sua "morte".@
+` Sem nem olhá-lo caindo no chão, eu me viro e mato o Morto sem rosto atrás de mim.
+\
+` Eu corro.@
+` Os que estão perto dela percebem que estou chegando e se levantam para me atacar.@
+`"[line=5]"@
+` Vai ser fácil.@
+` Eu corto seus "pontos" de morte quando me atacam.
+\
+!w1000
+playstop
+bg "bg/bg_29b",lshutter,400
+`"Ha[line=5]agh."@
+` Depois que tudo acaba.@
+` Eu paro para recuperar o fôlego.@
+br
+`"Gha[line=3]ah."@
+` Os quatro Mortos se tranformam em cinzas.@
+` E com o que a Arcueid matou são cinco.
+\
+`"Ha[line=2]aah."@
+` Eu matei.@ Sem hesitar, os deti da forma mais absoluta possível.@
+br
+`"Agh, ah."@
+` Não consigo pensar direito.@ Provavelmente porque o arrependimento e a culpa estão me remoendo por dentro.
+\
+` Minha respiração ofegante preenche o ambiente.@
+` Mas estou bem.@
+` Melhor assim do que deixar ela se machucar.@
+` Pela primeira vez,
+` com a minha própria vontade, com a mente de Tohno Shiki[line=3]usei esse poder pelo bem de outra pessoa.@
+br
+` Minha respiração continua ofegante.@
+` Estou com dificuldade para recuperar o fôlego.@
+` Ouço um chiado misturado com uma respiração tão ofegante quanto a minha.
+\
+`"…… Arcueid."@
+` Eu me viro e vejo ela de joelhos sentindo muita dor.@
+br
+`"Você está bem, Arcueid……!?"@
+` Corro até ela.@
+` Ela abraça a si mesma, respirando como se fosse a única coisa que consegue fazer.
+\
+`"Qual o problema, você está coberta de suor.@ Seu ferimento se abriu……?"@
+` Eu me ajoelho e tento olhar para o seu rosto.@
+ld c,"tachi/ark_t20",crossfade,400
+`"Shi[line=4]ki."@
+` No entanto, ela o cobre com uma mão.@
+` Não consigo ver o seu rosto.@
+` Tudo que vejo através dos seus dedos[line=3]são seus olhos completamente vermelhos.
+\
+`"[line=3]"@
+` Esse sofrimento não é normal.@
+` A forma como ela está respirando não é normal.@
+` Sua respiração faminta.@
+` Seus olhos completamente vermelhos.@
+` Seus cabelos esvoaçantes.
+\
+`"Ar[line=3]c"@
+br
+` [line=4]Sinto um arrepio.@
+br
+` Sentindo o perigo, me afasto.@
+` Mas seus dentes são muito mais rápidos do que eu, e se aproximam para chupar o meu sangue.
+\
+bg #ffffff,lshutter,400

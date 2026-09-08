@@ -1,0 +1,140 @@
+monocro off
+wavestop
+playstop
+bg "bg/bg_06b",crossfade,1500
+` Depois da aula, a sala é preenchida com a melancolia do crepúsculo.@
+` O sol está afundando aos poucos no horizonte.@
+` Não tem mais ninguém na sala.@
+` Eu sou o único que gosta de sentar aqui sem fazer nada.@
+br
+`"[line=5]"@
+` A sala está pintada de vermelho.@
+br
+bg #000000,crossfade,800
+bg "bg/ima_07",crossfade,800
+wave se_01
+` [line=3]Não gosto de ficar olhando o pôr do sol.@
+` Ele me faz pensar em sangue, e me faz lembrar dos eventos dos últimos dias.
+\
+`"[line=6]"@
+` Mesmo assim, não sinto vontade de voltar para casa.@
+` Fico olhando à esmo pela janela.@
+br
+` Vermelho.@
+` Pôr do sol[line=4]vermelho.
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
+br
+`"Ah[line=4]ai."@
+br
+` O velho ferimento do meu peito dói.
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
+` A cor vermelha.@
+` Algo… vermelho.@
+` Assim como[line=4]o sangue humano.@
+` Muito sangue… pegajoso[line=4]com um cheiro forte.
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
+`"[line=4]Gah."@
+br
+` Que dor!@
+` Estou usando meus óculos, mas minha cabeça começou a doer.@
+br
+`      Por quê?
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+br
+br
+wave se_01
+` Uma dor latejante.@ Minha cabeça
+`   Por quê?@
+`          Minha cabeça.@
+` Por quê?@
+`                Latejan
+` t  e    por quê[line=4]
+!w750
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+quakey 3,100
+wave se_10
+wave se_05
+quakey 3,100
+bg "bg/bg_06b",crossfade,1500
+br
+br
+br
+` Minha respiração fica ofegante.@
+br
+br
+` Minha respiração está uma loucura.@
+` Estou ficando[line=4]terrivelmente agitado.@
+` Estou irritado; eu não consigo suportar mais, não consigo me acalmar, preciso descontar essa raiva em alguém ou em alguma coisa[line=4].
+\
+`"…… É o[line=2]Tohno-kun?"@
+ld c,"tachi/cel_t07a",crossfade,1500
+play "*3"
+`"Hã[line=4]Sen… pai?"@
+` A Senpai está com um olhar muito sério quando entra na sala.@
+`"Eu acabei de ouvir uma barulheira…… era você, Tohno-kun?"@
+`"[line=4]Hein?"@
+` Eu me viro.@
+` De fato, as carteiras e as cadeiras estão todas derrubadas e espalhadas por toda a sala.
+\
+`"…… Ah…… é[line=3]é o que parece.@ Eu fiquei irritado de repente, hum[line=2]"@
+` Será que eu realmente fiz isso aqui?@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Céus, você não pode fazer isso.@ Não sei o que aconteceu, mas não se deve descontar a raiva nas coisas assim."@
+cl c,crossfade,400
+br
+` Ela começa a ajeitar as carteiras e cadeiras.@
+` Eu faço o mesmo sem dizer nada.
+\
+`"…… Desculpe-me.@ Eu mesmo… não entendi o que aconteceu."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Humm.@ Tohno-kun, você tem agido de forma estranha.@ Ficou daquele jeito debaixo de chuva naquela vez, e hoje ficou aqui viajando na maionese no meio dessa bagunça toda."@
+`"Pois é, acho que meu cansaço tem me feito agir assim."@
+` Eu suspiro profundamente.@
+` …… Será que é porque vi o rosto da Senpai?@
+` A dor de cabeça e a irritação desapareceram como se nunca tivessem existido.
+\
+`"Desculpa, te causei problemas novamente.@ Estou indo embora, até amanhã."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ah, Tohno-kun, já está indo?"@
+` Faço um gesto afirmativo com a cabeça.@
+` Como se nada tivesse acontecido, ela dá um sorriso caloroso.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Que coincidência.@ Eu também estava pensando em ir embora.@ Podemos ir juntos?"@
+`"Eu aprecio o convite mas…… sua casa não fica na direção oposta da minha?@ Não dá pra irmos juntos."@
+`"Eu sei disso, mas podemos ir juntos até o portão."@
+`"…… Bem, nesse caso, será um prazer."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Vou só pegar minhas coisas, espere um pouco."@
+cl c,lshutter,800
+` Com passos leves, a Senpai sai correndo da sala.@
+br
+` E volta depois de um minuto.
+\
+ld c,"tachi/cel_t01a",lshutter,400
+`"Obrigada por esperar.@ Vamos!?"@
+` Ela é muito animada mesmo.@
+` Como devo dizer?@ Só de olhar para ela aqueles sentimentos estranhos que me dominavam começam a desaparecer.@
+` Com uma pessoa tão incrível me chamando para acompanhá-la, vou ter que ser punido de alguma forma se continuar pra baixo assim.
+\
+`"…… Certo, vamos embora.@ Mas é um caminho muito curto até o portão principal."@
+ld c,"tachi/cel_t02",crossfade,400
+`"Ah, é mesmo.@ Vamos ter que ir o mais devagar possível para fazer valer a pena."@
+` Ela começa a andar.@
+` Indo atrás dela, deixo para trás a sala de aula que já começa a escurecer.
+\
+bg #000000,lcartain,1500
+playstop

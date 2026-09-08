@@ -1,0 +1,248 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+!w2000
+bg "bg/bg_23a",lcartain,800
+` Começo a descer a colina da mansão em direção à escola.@
+` Como qualquer outro dia, a manhã está envolvida pela tranquilidade.@
+br
+` O outono está quase no fim e o inverno está chegando.@
+` Talvez quando essa estação vaga entre o calor do verão e o frio do inverno acabar,
+` este sentimento transparente também mude.
+\
+bg "bg/bg_24a",lcartain,800
+` Quanto mais perto chego da escola, mais estudantes uniformizados eu vejo.@
+` Hoje é sábado, por isso a maioria deles está sorrindo.@
+` Depois de atravessar este cruzamento, vou chegar ao portão da frente.@
+` Em breve vai completar um mês que voltei para a mansão Tohno.@
+` Já estou bem acostumado com esse caminho agora.@
+br
+` O semáforo fica vermelho e eu fico na frente da faixa de pedestres.@
+br
+`"…………"@
+` Toda vez que paro aqui, me lembro.
+\
+` Daquela vez.@
+` Neste cruzamento, a Arcueid estava esperando por Tohno Shiki enquanto se sentava na grade de proteção da rua, assim como ela está fazendo agora.@
+br
+`"[line=5]Hã?"@
+br
+` Eu falo sem nem pensar.@
+` Entre os carros passando, uma cena aparece, assim como antes.
+\
+bg #000000,lshutter,800
+bg "event/ark_e02",lshutter,800
+`"[line=5]O qu……"@
+` Ela está lá.
+\
+` Vestida de branco, com cabelos dourados até os ombros.@
+` Sobrancelhas longas e finas sobre os olhos carmesim.@
+` [line=3]Essa pessoa que eu jamais poderia confundir com qualquer outra, não importa quem fosse.@ Essa pessoa que já desapareceu há muito tempo.
+\
+`"[line=8]"@
+` O semáforo fica verde.@
+` Os estudantes à minha volta começam a andar.@
+` Em meio a isso.@
+` Sou o único que permanece parado e ela é a única que percebe que estou aqui.
+\
+bg "bg/bg_24a",lshutter,800
+play "*3"
+` Ela está com seu sorriso típico enquanto atravessa o cruzamento.@
+`"[line=6]"@
+` Não consigo falar.@
+` Estou tão tomado de emoção que nem sei o que fazer.@
+br
+` [line=3]Mesmo que isso seja apenas algum tipo de ilusão,
+` estou tão feliz só de vê-la, que poderia até chorar.
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Olá.@ Você está indo para a escola, estudante-san?"@
+` …… Não posso acreditar.@
+` A ilusão até mesmo imita a sua voz com perfeição.@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Shiki?@ Ei, por que você está tão quieto?@ Não me diga que se esqueceu de mim?"@
+` Esses olhos vermelhos me observando…
+` …… De jeito nenhum eu poderia esquecê-los.@
+` Mas ao mesmo tempo, não tem como ela estar aqui, não tem como ela estar viva.
+\
+`"[line=6]"@
+` Não consigo falar.@
+` Ela enruga as sobrancelhas e me olha como um gato bravo.@
+ld c,"tachi/ark_t16",crossfade,400
+`"Poxa, o que foi?@ Eu me seguro para não ir vê-lo e ainda fiquei esperando aqui um tempão.@ …… Shiki, não me diga que, você está com raiva?"@
+`"U[line=6]"@
+` …… Simplesmente não consigo acreditar.@
+` Isso na minha frente não é uma ilusão.@ Ela realmente é a[line=5]
+\
+`"…… Ar…… cueid……?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sim, sou eu.@ [line=6]Que alívio!@ Pensei que você tivesse virado um vegetal depois de lutar com o Roa.@ Fiquei preocupada de verdade, sabia!?"@
+`"[line=4]"@
+br
+` [line=2]Espera um pouco.@
+br
+` Hum[line=4]Estou tão confuso, o que devo dizer?@ Eu deveria estar mais feliz pelo quê?@ Há algo que preciso fazer?@
+` Eu[line=4]estou tão confuso que não sei.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Shiki……?@ Ei, você está agindo estranho.@ Sua boca e seus olhos estão arregalados.@
+` …… Bem, estou achando interessante, então vou continuar assistindo."@
+`"[line=4]Ar[line=2]cueid."@
+`"É disso que estou falando.@ …… Poxa, você continua só dizendo meu nome.@ Nós finalmente conseguimos nos reencontrar, será que não tem nada melhor para dizer?"
+\
+br
+` [line=4]Sim, sem dúvidas.@
+` Só há uma pessoa que poderia dizer coisas tão ridículas.
+\
+`"…… Por quê?"@
+`"Hum?@ Não consigo te ouvir, fale um pouco mais alto."@
+` Ela diz: 'Vamos, fala logo', enquanto aproxima o ouvido de mim.@
+`"[line=4]Por que você ainda está viva!?"@
+` Eu grito o mais alto que consigo e dou voz aos meus sentimentos.
+\
+ld c,"tachi/ark_t12",lshutter,400
+`"Aaaai[line=4]Não tão alto, Shiki."@
+`"Você…… não me venha com 'não tão alto'!@ Por que você está viva……!
+\
+`"Eu[line=4]pensei que você tivesse morrido, que nunca mais iria te ver, que eu iria sempre[line=6]"@
+` viver em remorso.@ Mas por quê?@
+` Alegre desse jeito, como se apenas tivéssemos nos despedido ontem, como ela pode me cumprimentar de maneira tão simples……!?
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Ah, é mesmo.@ Eu nunca te disse, Shiki."@
+` Ela deixa cair o punho fechado em sua outra mão, demonstrando que se lembrou de alguma coisa.@
+`"…… Nunca te disse meu motivo para perseguir o Roa.@ Ele roubou um pouco do meu poder.@
+` A fim de pegá-lo de volta, eu sempre o perseguia, mas você o destruiu completamente, não foi? O poder que se libertou do Roa retornou para mim e consegui voltar à vida."@
+`"V[line=4]você nunca me falou nada sobre isso!"@
+`"Não, não falei mesmo.@ Não era da sua conta."@
+`"O[line=4]"@
+` Ora sua, por que você[line=4]
+\
+`"Enfim, eu revivi, mas mal conseguia resistir ao impulso vampírico dentro de mim.@
+` Provavelmente teria feito algo terrível se tivesse ido te ver, por isso dormi até me recuperar completamente.@
+` E assim fui capaz de voltar ao normal, mas levou sete dias para suprimir meu impulso."
+\
+`"Hã[line=4]então, você está bem de verdade agora, Arcueid……?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"É claro!@ Se não estivesse bem, não estaria aqui."@
+` Ela me mostra um sorriso enorme.@
+` Ela pega a minha mão, como em um cumprimento.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Sabe, Shiki.@ Enquanto eu dormia, estava muito ansiosa para te encontrar de novo.@
+` Porque quando te encontrasse, poderíamos andar por aí e fazer tantas coisas.@
+` Eu ficava imaginando como seria bom se eu melhorasse mais rápido, nem que fosse só um pouquinho."@
+` A Arcueid me olha com um sorriso puro e autêntico.
+\
+`"[line=6]"@
+` Estou sem palavras.@
+` Não de uma forma ruim[line=4]estou apenas… tão feliz.@
+` Ser capaz de ver seu sorriso novamente, todas as coisas que podemos fazer de agora em diante,
+` como quando eu disse à Senpai que meu desejo era de nunca deixar a Arcueid sozinha outra vez…
+` Nada[line=4]nada se perdeu.
+\
+`"[line=6]"@
+` Há tantas coisas que quero falar e contar para ela agora.@
+` Mas nesse momento, vou apenas falar honestamente, do fundo do meu coração.@
+br
+`"[line=4]Seja bem-vinda de volta.@ Eu… estive te esperando por muito tempo."@
+` Aperto a mão dela devolvendo o cumprimento e digo apenas essas palavras.@
+` Ela parece um pouco confusa no início.@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Sim."@
+` Dizendo isso, ela desvia o olhar envergonhada.
+\
+`"…… Arcueid?"@
+` Chamo por ela.@
+` Após uma breve pausa, ela me olha com um grande sorriso no rosto.@
+ld c,"tachi/ark_t09",crossfade,400
+`"Sim, estou de volta.@ Estou feliz que você ainda seja o mesmo, Shiki."@
+`"[line=6]"@
+` Sinto um aperto no peito.@
+` Se isso não estivesse acontecendo bem no caminho para a escola, eu iria abraçá-la e beijá-la.@ Seu sorriso está simplesmente tão adorável.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Muito bem, vamos indo, Shiki.@ Você vai me levar em um monte de lugares, né?"@
+cl c,lshutter,800
+` Ela solta a minha mão e salta como um coelhinho.@
+` …… Ela está tão radiante que mal posso olhá-la diretamente.
+\
+`"Mas, hum[line=4]para onde vamos?"@
+ld c,"tachi/ark_t08",crossfade,400
+`"Para qualquer lugar.@ Um lugar que você ache divertido"@
+` Sorrindo, ela responde como se não fosse nada demais.@
+` Mas isso é um pouco preocupante.@
+`"…… Hum, sabe, eu tenho que ir para a escola."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ei.@ Você não pode pelo menos passar o dia comigo?"@
+` Ela parece insatisfeita.
+\
+`"…… Hum."@
+` …… Evidentemente, sou muito fraco contra essa expressão dela.@
+` …… Bem, mesmo se eu fosse para a escola desse jeito não seria capaz de me concentrar e, mais do que qualquer outra coisa[line=4]Quero ficar com a Arcueid.
+\
+`"…… Hum, você está certa.@ Quem se importa com essa chatice de reputação!?@
+` Tudo bem, Arcueid.@ Vou satisfazer o seu egoísmo por hoje, minha princesa."@
+`"Obaaaaa!"@
+cl c,lshutter,800
+` Bump.@
+` De repente, ela pressiona seu corpo contra o meu.
+\
+bg #000000,lshutter,400
+bg "event/ark_f03",lshutter,400
+`"Ei, Shiki.@ Naquela noite que você estava falando com a Ciel, seus sentimentos não mudaram?"@
+` Ela olha para cima, seus olhos implorando pela resposta.@
+`"…… Meus sentimentos naquela noite[line=4]como assim?"@
+`"Sobre você dizendo que me amava."@
+`"[line=6]!"@
+` Fico com muita vergonha.@
+` É muito constrangedor ela me fazer essa pergunta estando tão perto de mim.
+\
+`"…… Ah, é mesmo.@ Você não deveria bisbilhotar, Arcueid."@
+`"Não posso fazer nada se escutei.@ Enfim, vamos, me responde.@ Suas palavras daquela noite, elas não mudaram?"@
+br
+` [line=4]Idiota.@
+` Não é óbvio!?@
+br
+`"…… Não, não mudaram.@ Não posso dar nenhuma garantia, mas provavelmente meus sentimentos nunca vão mudar."@
+` Estou tão envergonhado que olho para o céu e respondo.
+\
+` A Arcueid envolve seus braços em volta do meu.@
+`"Ah.@ Então você deve se preparar, Shiki."@
+`"Preparar?@ Preparar para o quê?"@
+` Não consigo evitar e deixo escapar uma ponta de desconforto na minha voz.@
+` Ela se agarra nos meus braços e fala com um sorriso.
+\
+br
+br
+br
+br
+br
+`"Porque você prometeu ficar comigo para sempre.@
+` Não falei isso quando nos conhecemos?@
+` Eu vou fazer você assumir a responsabilidade por mim."
+\
+` Em seguida ela começa a andar, ainda segurando meu braço.
+\
+` Ela é tão enérgica quanto uma criancinha insistindo que eu me apresse para irmos a um parque de diversões.@
+br
+`"Ah[line=3]Entendi.@ Com certeza vou ter que me preparar."@
+` Falando com ninguém em particular, começo a acompanhá-la.
+\
+` Caminhamos sem destino, indo contra o fluxo de estudantes que estão indo para a escola.@
+` Para onde?@
+` Bem, não há nenhum lugar que não possamos ir.@
+` A luz do sol combina muito com essa princesa da lua que me acompanha.
+\
+` [line=3]O céu está lindo, um azul perfeito.@
+br
+` De mãos dadas, caminhamos em direção a um novo começo para nós dois.
+\
+playstop
+bg #ffffff,crossfade,800
+wait 4000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000
+gosub *ending

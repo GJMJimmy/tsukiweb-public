@@ -1,0 +1,17 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"How the heck am I supposed to know?@ You're a vampire, so I bet you think a lot differently than we do."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Hey……!@ What do you mean!?@ My thought processes are basically the same as a human's, so there's only a little difference!"
+\
+`"But still different, right?@ Well, leaving that aside, it's impossible to understand another's feelings.@ I'm not too sure about my own emotions, so it's impossible for me to understand a vampire's train of thought.@
+ld c,"tachi/ark_t04",crossfade,400
+`"Yeah!@ I don't understand you either; there's no need to understand!@
+` Yeah, yeah, I'm just an idiot for asking you!"@
+cl c,crossfade,800
+` Arcueid turns away with a "hmph!"
+\
+` …… She's gotten a little angry, but at least she seems convinced.
+\

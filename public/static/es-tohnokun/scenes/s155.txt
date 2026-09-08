@@ -1,0 +1,26 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=3]Me siento mal por hacerle esto a Hisui, pero no puedo dejarle saber.@
+` Tengo que mantener a Arcueid en secreto, y no es que pueda dejarle saber a Hisui, a Kohaku-san, o a Akiha que estoy buscando al asesino en serie.
+\
+`"No, no tengo ninguna razón para salir.@ Akiha me regañó hoy, así que me quedaré quieto por un tiempo."@
+ld c,"tachi/his_t01",crossfade,400
+`"Entiendo.@ Entonces cerraré la verja a la hora acostumbrada."@
+` Ella habla claramente y sin ninguna expresión.@
+` La conversación termina y subo para volver a mi habitación.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+playstop
+` Despúes de la cena, regreso a mi habitación.@
+` Son casi las diez en punto.@
+` Para no ser descubierto, debería salir lo más discretamente posible.@
+br
+`"Entonces[line=3]¿me voy?"@
+` Meto mi cuchillo en mi bolsillo y dejo la habitación lo más silenciosamente posible.
+\
+bg #000000,lcartain,800
+!w2000

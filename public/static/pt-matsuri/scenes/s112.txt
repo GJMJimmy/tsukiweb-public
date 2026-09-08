@@ -1,0 +1,190 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld c,"tachi/aki_t01a",crossfade,400
+`"Muito bem.@ Não vou mais questioná-lo sobre isso.@ Mas por favor, evite fazer qualquer coisa desse tipo de agora em diante.@ Nii-san, você é o filho mais velho da família Tohno e será um grande problema se não conseguir compreender sua posição."@
+`"[line=2]Ei, uma coisa não tem nada a ver com a outra.@ Além do que, você que é a sucessora da família Tohno, então pouco importa o que eu faço.@ Se está tão preocupada assim com o futuro da família, deveria era procurar um marido apropriado para se casar."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"[line=5]"@
+` ……?@
+` Por alguma razão, ela fica em silêncio.
+\
+`"O que foi?@ Não está se sentindo bem, Akiha?"@
+ld c,"tachi/aki_t06",crossfade,400
+`"[line=2]Não é nada.@ Se você tem tempo sobrando para se preocupar comigo, por favor, tenha mais atenção consigo mesmo.@ Você tem sua anemia crônica para se preocupar."@
+`"……… Hmph."@
+` …… Bem, é verdade que frequentemente desmaio por causa da anemia.
+\
+`"De qualquer forma, não saia por conta própria toda hora.@ Mesmo excluindo sua doença, a cidade anda muito perigosa de uns tempos para cá.@
+` Alguém como você, que sai perambulando por aí sem cuidado, é um alvo fácil para aquele assassino em série."@
+`"Assassino em série?[line=2]Ah, aqueles assassinatos em série."@
+br
+` Aqueles assassinatos com nove vítimas.@
+` Seus corpos estavam completamente sem sangue, por isso estão chamando de "o caso do vampiro moderno", mas[line=2]
+\
+`"Não se preocupe.@ Aquilo não vai acontecer nunca mais."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=4]Hã?"@
+`"O vampiro não está mais andando por aí.@ O assassino[line=2]já foi pego."@
+`"É mesmo……?@ Nii-san, como você sabe disso?"@
+`"Eu vi ele sendo pego, por isso tenho certeza de que aqueles assassinatos nunca mais vão acontecer."@
+cl c,crossfade,400
+\
+` …… Sim, pelo menos não haverá mais nenhuma pessoa morta pelo Nrvnqsr.@
+` Nestes últimos dois dias que passei com a Arcueid… aconteceram tantas coisas que realmente não sei dizer o que foi bom e o que foi ruim.@
+` Mas uma coisa é certa[line=2]foi melhor assim.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san[line=4]?@ O que foi?@ Você parece tão contente de uma hora para a outra!"@
+` A Akiha me olha com uma expressão estranha.@
+`"Não é nada.@ Apenas sinto que finalmente acabou."@
+` Um sorriso inconsciente aparece nos meus lábios quando respondo.
+\
+bg #000000,crossfade,800
+playstop
+!w1000
+bg "bg/bg_33a",lcartain,800
+` São sete e meia.@
+` A Akiha saiu vinte minutos mais cedo que eu, e de carro.@
+` Depois de comer o delicioso café da manhã preparado pela Kohaku-san, decido ir para a escola.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+` A Hisui me acompanha até o portão, carregando minha pasta.@
+`"Vou indo.@ Obrigado por me acompanhar, Hisui."@
+` Sem dizer nada, ela me entrega a pasta.
+\
+ld c,"tachi/his_t01",notrans,0
+`"Shiki-sama, que horas pretende retornar?"@
+`"Você não confia em mim também?@ Está tudo bem.@ Vou estar de volta ao entardecer."@
+`"[line=2]Entendido.@ Então por favor, tenha cuidado pelo caminho."@
+` Ela faz uma mesura longa e demorada.@
+` Sentindo-me um pouco constrangido com isso, eu sigo o meu caminho.
+\
+bg #000000,lcartain,400
+bg "bg/bg_24a",lcartain,400
+` No cruzamento, vejo apenas os rostos dos meus colegas de escola.@
+` Nenhuma mulher sentada na grade de proteção da rua como daquela vez.
+\
+`"[line=2]Bem, é óbvio, né!"@
+` Provavelmente nunca mais vou vê-la.@
+` Seu objetivo era executar o vampiro, e agora que o Nrvnqsr se foi, não há razão para ela permanecer aqui por mais tempo.@
+br
+` [line=2]Mas no meu peito eu sinto algo.@
+br
+` Um pouquinho de arrependimento… e de uma afeição que persiste.@
+` A verdade é que ela só me trouxe problemas, mas mesmo assim…… foi divertido ficar com ela.
+\
+`"…… Como assim?@ Eu sou idiota ou o quê?"@
+` Eu quase fui morto… Qual parte disso me faria sentir essa afeição persistente?@
+` Os ferimentos de ontem à noite ainda doem.@
+` …… Lembre-se de quando você quase virou o jantar do Nrvnqsr.@ Certamente você não quer que algo assim aconteça novamente.@
+wave se_03
+br
+` O sinal da escola toca.@
+`"[line=4]Merda, vou chegar atrasado."@
+` Deixando de lado esses pensamentos improdutivos, vou correndo até o portão da escola.
+\
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_06a",lcartain,800
+` Continuo correndo até a minha sala.@
+` Ainda faltam cinco minutos para começar a aula e a classe está muito barulhenta.@
+br
+`"[line=2]Ufa."@
+` Tomo fôlego e vou para a minha carteira.@
+` Com todo esse tempo sobrando, eu nem precisava ter corrido.@
+`"Yo, Duque da Delinquência."@
+`"………"@
+` Ouço uma voz que preferia não conseguir escutar.
+\
+ld c,"tachi/ari_t05",lshutter,400
+`"Qual é, Tohno?@ Não sabia que você andava matando aula.@ Isso é um problemão.@ Você tem que me avisar quando for matar aula e sair para se divertir!"@
+` O Arihiko diz essas palavras absurdas com uma expressão muito alegre.
+\
+`"…… E por que eu deveria te avisar quando não for vir na escola?"@
+ld c,"tachi/ari_t01",crossfade,800
+`"Não é óbvio?@ Quando nem você e nem a Senpai aparecem é ruim, a menos que eu já tenha planejado algo antes."@
+` …… Qual é o significado de "ruim" para esse cara?
+\
+`"Mas falando sério[line=2]O que aconteceu?@ Desde o ensino fundamental que você tem anemia, mas nunca faltou à aula.@ Bem, você fez aquele truque legal muitas vezes, de chegar e ir embora na mesma hora."@
+`"Foi tipo isso.@ Eu cheguei até o cruzamento e me senti mal, então voltei para casa."@
+`"Hummm… Você e a Yumizuka parecem estar agindo como maus estudantes ultimamente."@
+`"[line=2]Eu sou culpado da acusação mesmo, mas…… aconteceu alguma coisa com a Yumizuka-san?"
+\
+`"Ela anda ausente.@ A Yumizuka sempre foi uma estudante exemplar, acho que finalmente deve ter se cansado.@ Aposto que ela nem pode aumentar a aposta porque está com uma mão ruim."@
+`"……………"@
+` As palavras que o Arihiko diz são sempre… muito peculiares.
+\
+wave se_03
+` O sinal anunciando o começo da aula soa.@
+br
+`"Eu tô caindo fora.@ Já que você faltou no sábado, estude bastante hoje."@
+` O Arihiko sai da sala rapidamente.@
+` Em outras palavras, ele vai matar aula hoje.
+\
+bg #000000,lshutter,800
+!w2000
+bg "bg/bg_06a",lshutter,800
+` As aulas da manhã terminam.@
+` Com o sinal anunciando a hora do almoço, metade dos alunos sai da sala.@
+`"…… Hum, o que devo fazer?"@
+` O Arihiko não está aqui, então posso relaxar e almoçar tranquilamente.
+\
+ld c,"tachi/cel_t12",lshutter,400
+`"Ah?@ Tohno-kun, você está sem companhia?"@
+`"Sim[line=4]Senpai, você veio aqui para almoçar?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Sim, estava pensando em almoçar junto com todo mundo, por isso vim correndo, mas[line=4]"@
+` Ela observa.@
+` Sem qualquer aviso ou razão, ela me olha atentamente.@
+cl c,lshutter,800
+br
+` Não sei no que ela está pensando, mas de repente se aproxima de mim.
+\
+`"Ei[line=2]Sen-Senpai……?"@
+` Ela está bem na minha frente.@
+` Quase na distância de um abraço.@
+` Algo estaria muito errado comigo se meu coração não estivesse acelerado.@
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=6]"@
+` Ela não diz nada.@
+` Simplesmente fica parada na minha frente[line=4]ela está farejando alguma coisa.
+\
+`"[line=4]Hã?"@
+` …… O que ela está fazendo?@
+` De repente, ela se afasta.@
+cl c,lshutter,400
+`"……  Hum, Senpai?"@
+ld c,"tachi/cel_t07a",lshutter,400
+`"Tohno-kun, aconteceu alguma coisa?"@
+` Ela me pergunta com um olhar sério.@
+` Para ser franco, não sei o que está havendo.@
+`"Algo…… hum… como o quê?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Não sei.@ Eu não sei, por isso estou perguntando."@
+` Ela me olha como se estivesse nervosa.
+\
+`"Nada[line=2]sou o mesmo de sempre.@ Eu… pareço estranho hoje?"@
+ld c,"tachi/cel_t09",crossfade,400
+`"Hummm… não tenho certeza.@ Acabei de pensar que sim, mas talvez estivesse apenas imaginando coisas."@
+`"………?"@
+` Inclino a cabeça para o lado, demonstrando que estou confuso.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Bom, vamos almoçar?@ Você vai almoçar no refeitório hoje, não é, Tohno-kun?@ Se não nos apressarmos, não vai sobrar lugar vago."@
+`"É verdade.@ Você vai almoçar no refeitório também, Senpai?"@
+`"Sim, quero comer algo bem gostoso hoje."@
+` Ela sorri, me pega pela mão e sai andando.
+\
+bg #000000,lcartain,1500
+` E por fim, almoçamos juntos no refeitório, conversando sobre o festival de atletismo que começa em duas semanas e sobre o festival cultural.@
+br
+` …… Para ser sincero, a Senpai falando "quero comer algo bem gostoso hoje" e pedindo curry, deixou em mim uma impressão mais forte do que as coisas que nós conversamos.
+\
+playstop
+bg "bg/bg_06b",crossfade,1500
+` A última aula do dia termina.@
+` Então, o que devo fazer agora?[line=4]
+\

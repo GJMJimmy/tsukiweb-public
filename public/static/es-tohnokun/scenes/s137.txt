@@ -1,0 +1,173 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32c",crossfade,800
+` Hay silencio frente a la verja de la mansión.@
+` La hora es, siete en punto de la noche.@
+` Akiha debería estar de vuelta, probablemente bebiendo té en la sala de estar.
+\
+bg #000000,lshutter,800
+bg "bg/bg_48c",lshutter,800
+` ¿……?@
+` No estoy seguro de qué está sucediendo, pero escucho voces que vienen de la sala de estar.@ Ya casi es hora de cenar, y es extraño que haya gente hablando a esta hora.@
+` Kohaku-san debería estar en la cocina, y creo que una conversación entre Hisui y Akiha es improbable.@
+br
+`"…… Quizás Kohaku-san y Akiha estén bebiendo té." Bueno, supongo que eso es lo más probable.@
+` Primero lo primero.@ Abro la puerta frontal de la mansión.
+\
+bg "bg/bg_33c",lcartain,800
+ld c,"tachi/his_t01",notrans,0
+` Hisui está parada en el vestíbulo.@
+`"Me retrasé un poco, pero estoy de vuelta."@
+`"………………"@
+` Hisui me saluda silenciosamente, desprovista de cualquier expresión.@
+` No dice su habitual "Bienvenido", y se ve como si estuviese de mal humor.
+\
+`"¿Sucedió algo?@ Podría estar imaginándolo pero, pareces un poco enfadada."@
+ld c,"tachi/his_t08",crossfade,400
+`"…… Hay una visita para usted, Shiki-sama.@ Ha estado esperando en la sala de estar, así que por favor apresúrese."@
+`"¿Una visita para mí?"@
+` Hisui asiente.
+\
+`"Me pregunto quién.@ No hay nadie que vendría a visitarme[line=4]"@
+br
+` Oh, espera.@
+` Tengo un terrible, terrible presentimiento.@
+br
+`"Hisui.@ ¿Qué, tipo de persona es……?"@
+`"Una preciosa mujer con cabello dorado."@
+` La respuesta de Hisui es absoluta.@
+` Sin decir palabra alguna corro hacia la sala de estar.
+\
+bg #000000,lcartain,400
+bg "bg/bg_34b",lcartain,400
+play "*3"
+` [line=4]Demasiado tarde.@
+` Parece que la situación actual es una de la que no puedo escapar.
+\
+bg "event/ark_e08",tshutter,800
+`"[line=4]Bienvenido a casa, Nii-san."@
+`"Oh, finalmente regresaste."@
+` Ambas me saludan con estilos totalmente opuestos.@
+`"………………"@
+` ¿Qué, es esto?@
+` Arcueid y Akiha parecen estar confrontándose.
+\
+` Ambas están sentadas tranquilamente.@
+` Pero la tranquilidad de Arcueid es natural, mientras que la de Akiha viene de su hostilidad hacia Arcueid.@
+` Akiha me lanza una mirada.
+\
+`"¿Cuál es el problema, Nii-san?@ No tienes que quedarte parado, por favor siéntate aquí."@
+br
+` Uh, siento que seré apuñalado si voy hacia allá.@
+br
+`"Uh, estoy bien.@ En fin, Akiha, esta persona es, bueno[line=4]"@
+` Hmm[line=4]¿cómo debería explicar esto?@
+` Akiha no me creería si digo que es una compañera de clases, y decirle que la conocí en la ciudad sería como echar aceite al fuego.
+\
+`"¿Bien?@ ¿De qué se trata?"@
+`"Um, eso es, uh[line=4]"@
+br
+` Ahora que estamos en esta situación, creo que no importa lo que diga, pero tengo que inventar una buena excusa y salirme de esto.@
+` Es lo que tengo que hacer, pero[line=4]¿por qué Arcueid vino aquí en primer lugar?@
+br
+`"Um[line=4]¿dijo ella por que vino aquí?"@
+` Señalo a Arcueid en una desesperada apuesta suicida.
+\
+`"¿Hm?"@
+` Ella ladea su cabeza, confundida.@
+`"…… ¿No es una de tus amigas, Nii-san?@ Eso es lo que ella me dijo."@
+`"Bueno[line=3]sí, se podría decir que es una amiga."@
+`"Ya veo.@ Me encantaría que me la presentaras.@ Si es tu amiga, Nii-san, no puedo despedirla de nuestra casa."@
+`"Ah[line=3]bueno, Akiha-san."@
+` Comienzo a tartamudear de nuevo.@
+` Entonces Arcueid, incapaz de sentarse en silencio durante nuestra conversación entre hermanos, se une sin mi autorización.
+\
+`"Por favor no se preocupe por eso.@ Sólo vine aquí para buscar a Shiki, así que ya nos vamos.@ ¿Verdad, Shiki?"@
+` …… Todo mi mundo se estremece.@
+br
+` [line=6]Esto es malo.@
+` Si le permito seguir hablando, me llevará a una muerte temprana.
+\
+`"¡Juju, ajajajaja!"@
+` Riendo desesperadamente, corro hacia Arcueid y agarro su brazo.@
+bg "bg/bg_34b",lshutter,800
+ld l,"tachi/ark_t06",crossfade,400
+`"Oye, Shiki, ¿qué estás haciendo tan repentinamente?"@
+` No hay tiempo para escuchar sus quejas.@
+cl l,lshutter,400
+` Tiro de su brazo y salgo corriendo de la sala, dejando atrás a una pasmada Akiha.
+\
+bg #000000,lcartain,400
+bg "bg/bg_33c",lcartain,400
+ld c,"tachi/his_t01",notrans,0
+` Hisui está en el vestíbulo.@
+` Me mira con ojos un poco mas fríos de lo normal mientras corro con Arcueid.@
+br
+`"¿Va a salir, Shiki-sama?"@
+`"[line=4]Sí, regresaré tarde.@ Lo siento mucho pero, ¿puedes dejar la verja abierta?"@
+`"[line=4]Sí, como usted desee."@
+` Paso corriendo la cortésmente inclinada figura de Hisui y escapo de la mansión.
+\
+bg #000000,lcartain,400
+bg "bg/bg_32c",lcartain,400
+ld c,"tachi/ark_t11",crossfade,400
+`"Au.@ ¿Qué rayos estabas pensando al sacarme de la casa de esa manera?"@
+`"¡Ésa es mi línea……!@ ¿¡Qué rayos estabas pensando!?@ ¡Entrar a mi casa de esa manera es simplemente una locura!@
+` ¿Estás tratando de destruir mi vida, idiota……!"@
+` Aprieto mis dientes y miro ferozmente a Arcueid.@
+ld c,"tachi/ark_t13",crossfade,400
+`"¿¡I[line=3]idiota!?@ ¿¡Me estás llamando idiota!?"
+\
+`"¡Estoy llamando idiota a una idiota, quién más podría ser, idiota!@ ¡Si quieres discutir, estoy escuchando!"@
+`"Eh[line=4]ah, ¿huh?"@
+` Estoy absolutamente enfurecido.@
+` No he estado así de furioso en mucho tiempo, y cuando estoy furioso, tengo que decirle todo lo que quiero a la persona con la que estoy furioso, sin importar quién sea.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Oye, yo sólo vine a verte.@ ¡No hice nada para hacerte enfurecer!"@
+`"…… Espera.@ ¿Hablas en serio, Arcueid?@ ¿Sólo viniste para verme?"@
+ld c,"tachi/ark_t14",crossfade,400
+`"Ni siquiera dije nada extraño.@ No le dije nada a tu hermana sobre tus ojos ni sobre mí ni sobre nada."@
+`"Por supuesto.@ Si lo hubieses hecho, no estaríamos hablando de esta manera.@ No habría vacilado en botarte de la casa en ese caso."
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"…… No comprendo.@ ¿Entonces por qué estás tan furioso?"@
+`"¡Porque nunca piensas!@
+` ¡Mira, tú ya sobresales sólo por estar aquí.@ Lo diré ahora pero, deberías darte cuenta de que sólo por estar aquí causas problemas……!"@
+` Por ahora, lo digo todo.@
+` Sacarlo todo de mi sistema me tranquiliza, pero obviamente Arcueid no está tan calmada.@
+` Pareciéndose a un gato, ella me mira con irritación.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"[line=4]Qué, las cosas que dices… ¿Qué quieres decir con que sobresalgo?@ ¿No me veo igual a cualquier otro humano?"@
+`"No, las mujeres hermosas siempre sobresalen.@ No tiene nada que ver con parecer humana o no."@
+` Respondo directamente.@
+cl c,crossfade,400
+br
+` Respondo tan rotundamente que Arcueid también comprende rotundamente.
+\
+`"[line=3]Bueno, hablé demasiado.@ Era la primera vez que eso me sucedía, así que entré en pánico."@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Está bien.@ Parece que fue mi culpa a fin de cuentas."@
+` Arcueid asiente dócilmente.@
+` Me siento un poco culpable por pensar que hay algo más al respecto aparte de eso.@
+` …… En primer lugar, ¿por qué vino ella a mi casa……?
+\
+`"En fin, ¿por qué viniste?@ …… Bueno, también quería hablar contigo, supongo que es bueno que hayas venido."@
+ld c,"tachi/ark_t11",crossfade,400
+`"¿En serio?@ Yo sólo… me preguntaba cómo estabas, y pasé por aquí para verte."@
+`"…… Ya veo.@ La próxima vez, por favor hazlo en un lugar diferente.@ Y de la manera más furtiva posible."@
+` …… Estoy exhausto.
+\
+`"[line=4]En fin, quiero tener una conversación seria.@ Quiero hablar en otro lugar porque me siento incómodo aquí, ¿está bien?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Claro[line=4]pero ¿hablar sobre qué?"@
+`"Ya verás.@ …… Habrá menos personas alrededor, así que vayamos al centro del parque."@
+` Diciéndole que venga, comienzo a caminar.@
+cl c,lshutter,800
+` Ladeando su cabeza con curiosidad, ella me sigue obedientemente.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

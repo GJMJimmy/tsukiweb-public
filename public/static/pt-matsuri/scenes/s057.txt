@@ -1,0 +1,395 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Ei, quanto ao que aconteceu ontem à noite… aquilo acontece sempre?"@
+ld l,"tachi/aki_t01a",crossfade,400
+`"[line=3]O quê?"@
+` A Akiha inclina a cabeça levemente em resposta à minha pergunta.@
+` …… Parece que ela não sabe do que estou falando.
+\
+`"Estou falando do que aconteceu ontem à noite.@ Aquele 'aú aú aú aú' infernal.@ Não é possível que você conseguiu dormir com toda aquela barulheira, né?"@
+`"[line=3]Nii-san?@ Do que está falando?"@
+`"Do quê?@ É claro que é de ontem à noite.@ Por volta de onze horas.@ Alguns cachorros de rua estavam uivando muito."@
+cl l,crossfade,400
+` A Akiha e a Kohaku-san trocam olhares e, então, olham para mim.@
+` …… É como se pensassem que sou louco.@ Eu não vou deixar isso passar assim.
+\
+`"Tudo bem, não vou te perguntar mais nada, Akiha.@ Kohaku-san, não estava muito barulhento ontem à noite?"@
+ld r,"tachi/koha_t01a",crossfade,400
+`"[line=3]Hã… estava?@ O vento estava bem forte, mas… a única coisa estranha que vi, foi você dormindo de uniforme."@
+`"…… Ah, é mesmo.@ Eu vou ser mais cuidadoso de agora em diante."
+\
+ld l,"tachi/aki_t04a",crossfade,400
+`"O quê?@ O que aconteceu, Kohaku?"@
+`"Ah, nada demais.@ O Shiki-san estava dormindo em uma postura ruim, só isso."@
+` Ela desvia da pergunta da Akiha com um sorriso.@
+` …… Pensando bem, a Kohaku-san está me chamando de "Shiki-san".@
+` Parece que a Hisui passou minha mensagem de ontem.
+\
+`"…… Vocês têm certeza que nenhuma das duas escutou?@ Aqueles cachorros ficaram uivando por cerca de trinta minutos sem parar.@ 'Aú aú aú aú'.@ Se isso não é barulhento, eu não sei o que é."@
+ld r,"tachi/koha_t02",crossfade,400
+`"Ahaha… Foi realmente um terror esse aú aú, né?"@
+br
+` …… Acho que não estou sendo levado a sério.
+\
+`"…… Sim, foi um terror mesmo."@
+ld l,"tachi/aki_t03a",crossfade,400
+`"Humm[line=3]Eu não me lembro de ter escutado esses uivos.@ E você Kohaku?"
+\
+`"Também não me lembro.@ Desculpe, Shiki-san.@ Eu não ouvi nada disso ontem à noite."@
+ld l,"tachi/aki_t08a",crossfade,400
+`"Bem, então é isso.@ A única possibilidade que restou é que o Nii-san estava sonhando."@
+`"…… Ai."@
+br
+` Bem, agora que ela falou isso, talvez tenha sido um sonho mesmo, mas…
+\
+ld l,"tachi/aki_t04a",crossfade,400
+`"[line=3]Você deve ter tido um pesadelo porque ainda não está acostumado com a mansão, Nii-san.@
+` Ah, já sei!@ Se esse cachorro uivar novamente essa noite, vamos colocar um cão de guarda bem feroz aqui."@
+` A Akiha dá uma risadinha maliciosa.
+\
+`"Bem, agora estou sem tempo, com licença, Nii-san.@ Por favor, tenha cuidado para não ser atacado por algum cachorro no caminho da escola."@
+cl a,lshutter,800
+` Ela sai da sala de estar.@
+` A Kohaku-san sai para acompanhá-la até a porta.
+\
+`"……"@
+` Agora parece uma boa hora para chegar a uma conclusão.@
+` Levando em conta o que aconteceu de ontem à noite até agora, é óbvio que a Akiha me odeia.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` Eu vou para o saguão depois de tomar o café da manhã que a Kohaku-san preparou para mim.@
+` A Hisui está aqui, esperando com a minha pasta.@
+ld c,"tachi/his_t01",crossfade,400
+`"Há tempo o suficiente, Shiki-sama?"@
+`"Sim, não vou gastar nem vinte minutos se for correndo.@ São sete e meia agora, consigo chegar a tempo mesmo se pegar o caminho mais longo."@
+` Satisfeita com a minha resposta, ela faz um gesto afirmativo com a cabeça.
+\
+`"Muito bem, vou acompanhá-lo até a saída."@
+`"Hein[line=3]Ah, tá, obrigado."@
+` …… É embaraçoso ter uma empregada pessoal.
+\
+`"Ah, Shiki-san!@ Por favor, espere!"@
+` Com passos barulhentos, a Kohaku-san vem correndo do segundo andar.@
+`"…………"@
+cl c,crossfade,400
+` A Hisui dá um passo para trás e fica em silêncio quando a Kohaku-san aparece.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Hum?@ Você não estava com a Akiha?"@
+`"A Akiha-sama vai para a escola de carro.@ Como eu tinha algo para te entregar, fiquei para trás."@
+`"Algo para me entregar?"@
+`"Sim.@ Isto veio da casa da família Arima ontem."@
+` Ela sorri.
+\
+`"Hã?@ Mas toda a minha bagagem já está aqui.@ As coisas que eu usava quando morava com os Arimas pertencem a eles, tudo que tenho são as minhas roupas…"@
+`"Sério?@ Mesmo assim isto foi enviado para cá…"@
+` Ela me entrega uma caixa de madeira fina, com talvez vinte centímetros de comprimento.@
+` Não está pesada.
+\
+`"…… Kohaku-san, eu nunca vi isso antes."@
+`"Bem… parece que isso foi deixado para você pelo seu falecido pai.@ Estava no testamento dele."@
+`"…… Foi deixado pelo meu pai?"@
+` …… Isso não tem nenhum significado para mim.@
+` O que aquele velho pretendia me deixando essas coisas?
+\
+`"Ah, tanto faz.@ Kohaku-san, pode deixar isso lá no meu quarto."@
+ld c,"tachi/koha_t09",crossfade,400
+`"[line=6]"@
+` Ela está olhando fixamente para a caixa de madeira.@
+` Ela parece uma criança que quer um brinquedo.@
+br
+` Encaraaaaando.@
+br
+` Não parece, ela é uma criança mesmo.
+\
+`"…… Já entendi.@ Você quer saber o que tem dentro, né?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Ah, não, imagina.@ Só pensei nisso por um instante."@
+` …… É como eu disse, você quer saber o que tem dentro.@
+`"Tá bom, vamos abrir.@ Um, dois… três!"@
+` Com um som seco, a caixa de madeira abre.@
+` Dentro dela, tem uma[line=4]barra de ferro fina de dez centímetros.
+\
+`"…… É… uma barra de ferro."@
+` Sem adornos e desgastada, ela está cheia de marcas de dedos.@
+` …… Aquele velho deve ter me odiado bastante para me deixar esta porcaria.
+\
+`"Não, Shiki-san.@ É uma faca de cortar frutas."@
+` Ela tira a barra de ferro de dentro da caixa.@
+`"Veja, não é uma daquelas facas retráteis?@ Um, dois… três!"@
+` Com um "pachink!", uma lâmina de dez centímetros sai de dentro da barra.@
+` …… Hum, é uma faca mesmo.
+\
+`"É velha, mas parece bem resistente.@ O ano e a era em que ela foi feita estão escritos na parte de trás."@
+` Ela guarda a lâmina e me entrega a faca.@
+cl c,crossfade,400
+` Realmente tem um número no punho.@
+` O caractere do número 'sete' e debaixo dele, o caractere da palavra 'noite'.
+\
+ld l,"tachi/his_t01",notrans,0
+`"Nee-san, não existe uma era com esse nome.@ Apenas está escrito 'Nanatsu-yoru'."@
+`"!"@
+` Surpreso, eu me viro.@
+` A Hisui, que estava em silêncio até agora, estava olhando para a faca sobre o meu ombro.
+\
+`"V-você me surpreendeu… Hisui, devia ter dito alguma coisa.@ Não precisa olhar sobre o meu ombro desse jeito.@ Se quiser ver a faca, é só pedir que te mostro."@
+ld l,"tachi/his_t02",crossfade,400
+`"Ah[line=3]"@
+br
+` De repente, as bochechas da Hisui ficam vermelhas.
+\
+`"P-por favor, me desculpe.@ Hum[line=3]Essa faca é tão bonita que não pude me segurar."@
+`"Bonita?@ Você realmente acha ela bonita?@ Parece só uma tralha velha para mim."@
+ld l,"tachi/his_t01",crossfade,400
+`"[line=3]De modo nenhum.@ A têmpera da lâmina é magistral.@ Acredito que seja uma faca com sua própria história."@
+`"Sério?@ Para mim parece uma porcaria…"
+\
+` Mas já que a Hisui parece tão convencida do que fala, eu começo a acreditar nela.@
+` …… Humm.@ À sua maneira, não é uma herança tão ruim.
+\
+ld r,"tachi/koha_t02",notrans,0
+`"'Sete noites'…?@ Será que é o nome da faca?"@
+`"Talvez seja… embora eu não consiga imaginar ele dando nome a uma faca."@
+` Seja qual for o caso, é óbvio que é uma antiguidade.@
+`"Bem, em todo caso, eu vou aceitar o que me é dado."@
+` Guardo a lâmina e coloco a faca no bolso da calça.
+\
+cl r,crossfade,400
+`"Shiki-sama, você tem tempo o bastante…?"@
+`"Ah!@ Tenho que ir.@ Kohaku-san, obrigado pela entrega."@
+`"De nada."@
+` Ela sorri e acena.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_32a",lcartain,800
+` Saio de dentro de casa e passo pelo jardim.@
+` Quando atravesso os portões da mansão, escuto um tumulto.
+\
+`"…… O que está acontecendo?@ Que barulheira é essa no lado direito da mansão."@
+ld c,"tachi/his_t01",crossfade,400
+`"Parece que encontraram manchas de sangue em uma rua ao leste da mansão."
+\
+`"[line=3]Manchas de sangue…?@ É sério?"@
+`"Sim.@ Havia sangue no muro da mansão também.@ A polícia veio aqui de manhã para perguntar o que aconteceu ontem à noite.@ Você estava dormindo, Shiki-sama."@
+`"…… Isso significa que alguém morreu…?"@
+`"Não, a única coisa que encontraram foi o sangue."
+\
+cl c,crossfade,400
+`"[line=6]"@
+` O lado leste da mansão[line=3]Isso é perto de onde o homem do sobretudo preto estava.@
+` Manchas de sangue… restos de sangue.@
+` Manchas de sangue[line=3]vestígios de vermelho.@
+` Pensando bem…
+` Tenho a sensação de que vi alguma coisa vermelha[line=4].
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama?"@
+`"Hã…?@ N-não, não é nada."@
+` Sacudindo a cabeça, me livro das imagens ruins.@
+`"Eu vou indo.@ Obrigado por me acompanhar até aqui, Hisui."@
+`"Até logo.@ Por favor, tome cuidado no caminho."@
+` Ela faz uma mesura demorada.@
+` …… Não tenho certeza com o que eu devo tomar cuidado, mas provavelmente ela só está preocupada com a minha saúde.
+\
+`"Claro, obrigado.@ Cuide-se também, Hisui."@
+` Sempre devemos retribuir boas intenções com boas intenções.@ Com um aceno de mão enérgico, deixo os portões da mansão.
+\
+bg #000000,lcartain,800
+play "*1"
+bg "bg/bg_23a",rcartain,800
+` [line=3]Vou andando pelas ruas desconhecidas.@
+` Sempre fui para a escola pelo caminho da casa dos Arimas, é a primeira vez que tomo esse caminho.
+\
+` Só o caminho que é diferente, mas é como se eu estivesse indo para uma escola diferente também.@
+`"[line=3]Não parece ter muitos alunos da minha escola por aqui."@
+` Aparentemente, não há muitos que vivem por aqui.@
+` São sete e meia da manhã.@
+` Não vejo ninguém passando com uniforme escolar.
+\
+bg "bg/bg_25a",lcartain,800
+` O distrito empresarial está bem agitado.@
+` Como de costume, o cenário é de trabalhadores se preparando para a batalha diária.@
+br
+` Não, não está como de costume.@
+` Nos últimos dias, a atmosfera está um pouco mais pesada nessa cidade.
+\
+` Provavelmente é por causa dos assassinatos em série.@ Agora há menos pessoas nas ruas durante a noite também.@
+`"[line=3]É melhor você diminuir suas saídas noturnas, Arihiko."@
+` O rosto do meu amigo desagradável aparece na minha mente.@ Ele é do tipo que pode continuar saindo à noite independente da atmosfera da cidade.@
+` Bem, de qualquer maneira, ele não escutaria uma palavra do que eu digo mesmo.
+\
+bg "bg/bg_24a",lcartain,800
+` Começo a ver algumas pessoas em uniformes escolares misturadas na multidão.@
+` Faltam cerca de dez minutos para os portões da escola serem fechados.@
+` Eu corro pela rua asfaltada, assim não vou chegar atrasado.@
+bg "bg/bg_01a",lcartain,800
+` [line=3]Eu chego na escola.@
+` Gastei vinte minutos ao invés de trinta.@ Como eu corri várias vezes durante o caminho, vou ter que sair da mansão por volta de sete horas se quiser vir devagar.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` Pouco antes de começar a aula, a sala de aula está completamente agitada.@
+` Meus colegas de classe estão espalhados por toda a sala, decididos a conversarem até o professor chegar.@ É como um festival aqui dentro.@
+br
+` Abro caminho até a minha carteira perto da janela.
+\
+` [line=3]E então,
+`"E aê!@ Você tá atrasado, Tohno."@
+ld l,"tachi/ari_t01",lshutter,400
+` Em contraste com a sala de aula agradável, tem alguém me esperando com um sorriso forçado no rosto.@
+` E além disso[line=3]
+`"Bom dia, Tohno-kun."@
+ld r,"tachi/cel_t01a",rshutter,400
+` [line=3]Ele está acompanhado por uma pessoa que eu nunca esperava ver aqui.
+\
+`"Senpai[line=3]por que está na nossa classe?"@
+` Surpreso, eu aponto para a Ciel-senpai como se estivesse vendo um fantasma.@
+`"Hã?@ É tão estranho assim?@ Eu fiquei imaginando se você já tinha chegado, por isso decidi vir aqui para vê-lo, Tohno-kun."@
+`"Estranho?[line=3]Os veteranos nunca vêm até as salas dos mais novos.@ Existem vários motivos, mas o maior de todos é que as salas são muito longe."@
+`"Hum, entendi." Com uma expressão séria, ela faz um gesto afirmativo com a cabeça.
+\
+ld r,"tachi/cel_t03",crossfade,400
+`"Não precisa se preocupar com isso.@ Apesar da minha aparência, eu corro bem rápido.@ Eu levo menos de um minuto para chegar na minha sala que é no andar de baixo."@
+` Ela enfatiza seu argumento.@
+`"……"@
+` Acho que ela simplesmente não é o tipo de pessoa que se importa com o que os outros pensam.
+\
+`"Para de choramingar, Tohno.@ Qual é o seu problema?@ A Senpai está aqui porque quer estar."@
+` O Arihiko, sendo 'Arihiko', se apoia na minha mesa e começa uma conversa alegre com a Senpai.@
+`"…… Eu não me importo, mas você deveria voltar para a sua sala uns dois minutos antes da aula começar, Senpai."@
+` Estou cansado por algum motivo.@ Suspirando, me sento.
+\
+ld r,"tachi/cel_t12",crossfade,400
+`"…… Inui-kun, parece que o Tohno-kun está meio desanimado."@
+`"…… Sim, ele deve estar irritado por não estar acostumado com a vida na casa nova.@ O Tohno não se importa com a maioria das coisas, mas tem o mau hábito de ficar nervoso quando confrontado com coisas que não entende."
+\
+`"…… Sério?@ O Tohno-kun não parece do tipo que fica nervoso."@
+`"…… Não, isso não é verdade.@ Veja bem, normalmente ele é muito maduro, mas quando ele se depara com alguma coisa que não entende[line=3]Kaboom!"@
+`"…… Ahaha… 'Kaboom', sério mesmo?"@
+`"…… Sim.@ Você vai mudar de opinião quando ver ele perder a cabeça, você não pode confiar nele assim, Senpai."
+\
+cl a,crossfade,400
+` …… Os dois estão cochichando.@
+br
+`"…… Ei, escutem aqui.@ Se querem conversar em particular, se importam em fazer isso no corredor?@ Eu posso ouvir cada palavra que dizem quando fazem isso na minha carteira."
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"O quê!?@ Você pode nos ouvir!?"@
+` O Arihiko tem uma reação de surpresa exagerada.@ Ninguém conseguiria ficar nervoso depois de ser atingido por uma atuação dessas.
+\
+` A Senpai coloca as mãos na boca e não sei dizer o quão séria ela está sendo.@
+` …… Tratando-se da Senpai, ela realmente pode ter tido a intenção de conversar em particular.
+\
+`"Você é terrível, Tohno!@ Escutando a conversa romântica que eu estava tendo com a Senpai!@ Você tem uns passatempos desagradáveis!"@
+` Ele aponta para mim.@
+`"[line=3]Está tentando comprar briga comigo, Arihiko?"@
+` …… Por favor, faça isso.@ Nesse momento, estou mais do que disposto.@
+` Ele balança a cabeça.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Claro que não.@ Você é o meu amigo querido!@ Eu trocaria socos até mesmo com os meus pais, mas tenho a política de não brigar com meus amigos.@ Sou o modelo perfeito de cavalheirismo."@
+` …… Isso é incrível.@
+` No mundo dentro da cabeça do Arihiko, os cavalheiros podem dar socos em seus pais.
+\
+`"Sei como é[line=3]Essa sua política é bem podre."@
+ld c,"tachi/ari_t02",crossfade,400
+`"Ahahahaha!@ Você fingiu estar deprimido, mas lá no fundo continua o mesmo Tohno de sempre!@ Droga, fiquei preocupado à toa!"@
+` Ele bate nas minhas costas algumas vezes.
+\
+`"…… Arihiko, você estava preocupado comigo?"@
+`"Não me pergunte essas coisas, idiota!@ Isso só seria uma coisa boa se você não percebesse!"@
+` Ele bate nas minhas costas mais algumas vezes.@
+` …… Nós somos amigos há muito tempo, mas ainda não consigo entender direito a personalidade desse cara.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Então, como é a sua nova casa?@ Bem difícil e estressante?"@
+`"Humm.@ Não sei dizer ao certo.@ Eu tive um sonho ruim essa noite e o pessoal de lá pareceu nem se importar."@
+`"[line=3]Hum, tenso.@ Parece complicado."@
+` Ele afirma com uma expressão de pena.
+\
+cl c,crossfade,400
+ld r,"tachi/cel_t07a",crossfade,400
+`"………"@
+br
+` [line=3]E,
+` a Senpai está em silêncio, nos olhando enquanto conversamos.
+\
+`"Senpai?"@
+ld r,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, você realmente se dá bem com o Inui-kun."@
+`"Está falando sério, Senpai?@ Você deve estar precisando de óculos melhores se é isso o que pensa depois de ver o que acabou de acontecer."@
+ld r,"tachi/cel_t03",crossfade,400
+`"De forma alguma, Tohno-kun.@ Você fica bem descontraído quando está com o Inui-kun.@ Você se abre e confia muito nele."@
+` Ela sorri.
+\
+`"?"@
+` O Arihiko e eu trocamos olhares e inclinamos nossas cabeças.@
+ld r,"tachi/cel_t02",crossfade,400
+`"Ah, estou com tanta inveja.@ Eu admiro como a amizade de vocês permite tanto entendimento um com o outro."@
+` Ela está impressionada.
+\
+ld l,"tachi/ari_t03",notrans,0
+`""Sério?""@
+` Arihiko e eu trocamos olhares e levantamos nossas sobrancelhas.@
+ld r,"tachi/cel_t01a",crossfade,400
+`"Isso mesmo.@ É que vocês não percebem isso.@ Ah, mas talvez isso terminaria se percebessem… Humm… Nesse caso, seria melhor se continuassem do jeito que estão.@ Sim, um verdadeiro equilíbrio milagroso."@
+`"Acho que você poderia dizer que a nossa amizade é uma corda bamba milagrosa."@
+` O Arihiko concorda com um gesto de cabeça.@ Acho que é algo que concordamos perfeitamente.
+\
+`"Ah, está quase na hora.@ Vou indo agora.@ Você assistiu o noticiário da manhã, Tohno-kun?"@
+`"[line=3]Não, não tem televisão onde estou morando."@
+`"É mesmo?@ Bem, eu vou ser direta.@ Tinha uma mansão enorme no noticiário de hoje.@ É lá que você está morando?"
+\
+`"[line=3]Hã?"@
+` No noticiário da manhã?@
+` …… Agora que ela tocou no assunto, a Hisui mencionou que a polícia tinha ido lá para conversar.
+\
+`"Sim, deve ser.@ Eu ouvi que a polícia tinha ido lá essa manhã para fazer perguntas."@
+`"[line=3]Sério mesmo?@ Então você não deve ficar na rua se divertindo até tarde da noite, Tohno-kun."@
+cl r,lshutter,400
+` Ela sai rapidamente.@
+` Eu a observo em silêncio.@
+br
+` [line=3]E,
+br
+cl l,notrans,0
+ld c,"tachi/ari_t01",crossfade,400
+`"Tohno."@
+`"O que foi?@ Eu não vou mais escutar sua conversa fiada."
+\
+ld c,"tachi/ari_t04",crossfade,400
+`"Não é conversa fiada.@ Isso está se tornando um grande problema.@ Vocês já são intímos o bastante para ela vir aqui só para te ver?"@
+` Ele está sério.
+\
+`"Não sei do que está falando.@ Eu só comecei a conversar com ela recentemente.@ Talvez ela tenha vindo aqui hoje por capricho.@ E pensando bem, você não está muito amiguinho dela também?"@
+`"Sem chance, cara.@ Eu demorei sete dias para fazer ela se lembrar do meu nome."
+\
+`"Ah?@ Isso é raro.@ Não é da sua política não mexer com garotas que você não pode conquistar em um só dia porque são muito problemáticas?"@
+`"Isso vale para as garotas normais, mas a Senpai é diferente.@ Eu mantive isso em segredo todo esse tempo, mas na verdade, eu[line=3]"@
+`"Você gosta de garotas mais velhas que ficam bem de óculos, né?"@
+`"Hein!" O rosto do Arihiko fica vermelho.
+\
+`"Você sabia disso o tempo todo, meu querido amigo."@
+`"Sim, sabia.@ Somos amigos né!@ Nós nos damos bem e temos interesses semelhantes."@
+`"Humm, entendo.@ Você também consegue entender o quão boa a Senpai é, não é mesmo[line=3]ei, espera aí!"@
+`"Sim, é como eu disse, temos interesses semelhantes, né!?@ É por isso que gostamos do mesmo tipo de mulher."@
+` O Arihiko concorda acenando com a cabeça e volta para a sua própria carteira.
+\
+`"Acho que foi uma amizade curta, Tohno."@
+`"Sim, você tem razão."@
+cl c,lcartain,400
+` Aceno para me despedir do Arihiko.@
+` O professor entra na sala nesse instante.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06a",crossfade,800
+` As aulas do período da manhã terminaram.@
+` Está na hora do almoço.@ O Arihiko saiu na frente e foi para o refeitório.@
+` Então, onde eu vou almoçar?
+\

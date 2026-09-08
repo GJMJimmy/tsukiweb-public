@@ -1,0 +1,52 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` …… A Senpai está olhando por todo o corredor.@
+` Não sei se está procurando por alguma coisa ou por alguém, mas isso é muito suspeito.@
+br
+`"………… He[line=2]hehe, he."@
+` Subitamente, sinto uma vontade irresistível.@
+` Ela sempre faz tudo no seu próprio ritmo; acho que posso agir de vez em quando para equilibrar as coisas.
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` A Senpai está procurando por alguma coisa com uma expressão bem séria.@
+` Chego de fininho por trás dela.@
+` …… Por sorte, ela não sente a minha presença.@
+` E aqui vai,
+br
+`"Buu!"@
+`"[line=4]!"@
+` Agarro ela por trás, mas[line=4]
+wave se_05
+quakex 4,375
+ld c,"tachi/cel_t06a",crossfade,400
+` …… sem nem entender o que aconteceu, estou deitado no chão.
+\
+cl c,crossfade,400
+`"Ah[line=4]Tohno… kun?"@
+` Ela parece preocupada.@
+`"Sim[line=2]sou eu, Senpai."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Céus, não me surpreenda dessa forma!@ Eu escapei por reflexo, você está bem?"@
+`"Hã?@ Estou sim.@ Só tropecei."@
+` Eu me levanto.@
+` …… Acho que os olhares estranhos dos outros alunos que estão no corredor já eram de se esperar.
+\
+`"Aaai aiai…… Nossa, acho que bati o quadril.@ Acho que eu não devia pregar peças assim."@
+` Que arrependimento!@
+`"Não devia mesmo.@ Acho que exagerei, mas já que foi sua culpa, não vou me desculpar."@
+`"Ah, eu sei, eu sei.@ Desculpe-me, Senpai, interrompi sua procura.@ Bem, agora esse menino travesso vai voltar para a sala de aula."@
+` Esfregando a bunda com a mão, começo a voltar para a minha sala.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ah, espere Tohno-kun.@ Você pode ficar aqui como castigo pelo que fez?"
+\
+`"?"@
+` Ficar aqui como castigo?@ Como sempre, ela diz algo estranho.@
+`"Tudo bem…… O que você quer de mim?"@
+`"Apenas não se mexa, por favor."@
+cl c,lshutter,800
+` E igual a ontem, ela começa a me cheirar de novo.@
+`"…… Hum, Senpai……?"
+\

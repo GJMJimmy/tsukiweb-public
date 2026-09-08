@@ -1,0 +1,26 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Olá.@ Bom dia, Akiha."@
+ld l,"tachi/aki_t01a",crossfade,400
+`"[line=3]Bom dia, Nii-san."@
+ld r,"tachi/koha_t02",crossfade,400
+`"Bom dia, Shiki-san.@ Se quiser tomar o café da manhã, ele já está pronto na sala de jantar."@
+` A Kohaku-san me cumprimenta sorridente, bem diferente da frieza da Akiha.
+\
+`"Ah, muito obrigado.@ …… Parece que vocês estão tomando o chá pós-refeição.@ Já terminou o café da manhã, Akiha?"@
+ld l,"tachi/aki_t03a",crossfade,400
+`"Mas é claro.@ Eu não me importo com o horário que você levanta, Nii-san, mas deixe tempo sobrando para tomar o café da manhã.@ Tomar café depois das sete horas é um sinal de desleixo."@
+`"…… Pois eu acho que é bem normal tomar café às sete horas.@ Que horas você levanta, Akiha?"@
+ld l,"tachi/aki_t18a",crossfade,400
+`"Eu me levanto às cinco horas da manhã.@ Por quê?"@
+`"………"@
+` …… Uau.@ Não faço ideia por que ela levanta tão cedo, mas depois de ouvir isso nem posso mais retrucar.
+\
+ld l,"tachi/aki_t03a",crossfade,400
+`"Além disso, indo a pé, sua escola fica a trinta minutos daqui, não é mesmo?@ Por favor, não se atrase para chegar a uma escola tão perto de casa.@ Seria vergonhoso."@
+`"…… Glup."@
+cl a,crossfade,400
+` As palavras da Akiha são cheias de espinhos que me apunhalam.@
+` Mas como ela está dizendo a verdade, mais uma vez não posso contra-argumentar.
+\

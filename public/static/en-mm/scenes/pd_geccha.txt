@@ -1,0 +1,961 @@
+bg #000000,crossfade,1500
+br
+br
+br
+br
+`  Warning.@
+`  This side story contains lots of spoilers about the main storyline of Tsukihime.@
+`  Please read this only if you are thinking, "Ah, I'm not going to ever play Tsukihime ever again."
+\
+bg "word/pd_tea",crossfade,1500
+wait 3000
+play "*03"
+bg "bg/bg_59",rcartain,800
+ld l,"tachi/ark_t03",notrans,0
+`  "Hey Ciel.@
+` It seems like something is starting up. What is this?"@
+ld r,"tachi/cel_t01a",notrans,0
+`  "It's a tea party to celebrate the completion of the game.@
+` It's very small due to budget constraints, but I hear we have to talk and contemplate about what we did so far."@
+ld l,"tachi/ark_t11",notrans,0
+`  "Oh, really?@
+` ... Geez, I wouldn't have come if that was the case.@
+` First of all, why is it me and you?@
+` I'm not a big fan of this combination."@
+ld r,"tachi/cel_t12",notrans,0
+`  "Yes, why indeed? I hate you too."
+\
+ld l,"tachi/ark_t04",notrans,0
+`  "Well, the layout of this is like that corner in Tsukihime, right?@
+` You've got it good since you had a whole new standup graphic drawn for you.@
+` But you saw what I got.@
+` My poor treatment made me wonder if I really was the true heroine. I'm really dissatisfied, you know?"@
+ld r,"tachi/cel_t03",notrans,0
+`  "I see...@
+` I hear that corner is pretty popular.@
+` I wonder if people saw the whole thing using Roa-like persistence."@
+ld l,"tachi/ark_t01a",notrans,0
+`  "I don't think so.@
+` Even the scenario writer was complaining that he couldn't get to the second period of Shakes 'n Shivers Animal Land unless he used a flowchart."
+\
+ld r,"tachi/cel_t08",notrans,0
+`  "...... Wow.@
+` It's a failure as a game."@
+ld l,"tachi/ark_t03",notrans,0
+`  "Well, the corner has nothing to do with the main storyline, so we should accept that... Wait, it seems there's a customer here, Ciel."@
+ld r,"tachi/cel_t12",notrans,0
+`  "Huh?@
+` That's strange. I heard this place was reserved for us today[line=4]"
+\
+cl a,notrans,0
+ld c,"tachi/aki_t15b",rshutter,400
+br
+br
+br
+br
+br
+br
+br
+`  "[line=7]Geh."
+\
+cl c,rshutter,800
+`  ".................."@
+`  ".................."@
+`  ".................."@
+ld l,"tachi/ark_t04",notrans,0
+`  "...... Hey.@
+` What was that 'geh' about?"@
+ld r,"tachi/aki_t04b",notrans,0
+`  "........."@
+ld l,"tachi/ark_t16",notrans,0
+`  "Hey.@
+` Don't sit down like it's nothing.@
+` What are you doing here, little sister? You're even bringing in a sofa?"
+\
+ld r,"tachi/aki_t01b",notrans,0
+`  "'What are you doing here?' That is my line.@
+` I came here since I heard there was going to be a tea party, so why are you two here?@
+` I do not want to say this, but you two are not suited for this quiet place."@
+ld l,"tachi/cel_t01a",notrans,0
+`  "[line=3]Oh.@
+` I see now.@
+` Since this won't progress with just me and Arcueid, Akiha-san will act as the class president to keep things moving along."
+\
+ld l,"tachi/ark_t30",notrans,0
+` "What-nya!?@
+` I haven't heard anything about this-nya!@
+`   You have the most appearances in the main storyline, little sister!@
+` Your presence here is just pure tyrannya!"@
+ld r,"tachi/aki_t03b",notrans,0
+`  "Arcueid-san.@
+` Can you stop calling me little sister?@
+` I am Tohno Shiki's sister, but I have no relation to you.@
+` No matter what may happen in the future, you will never be part of my family."@
+`  "Really?@
+` But you'll be my sister after Shiki and I get married."
+\
+ld r,"tachi/aki_t15b",notrans,0
+`  "Wha[line=6]you're just speaking nonsense!@
+ld r,"tachi/aki_t06b",notrans,0
+`   Look, a mysterious being like you cannot take part in a human marriage, so please do not mess with other people's brothers.@
+` A vampire should act like a vampire and go suck on some mole's blood in the dark!"@
+ld l,"tachi/ark_t06",notrans,0
+`  "Hmph.@
+` Well, I'm not the one sucking blood.@
+` You're the one that needs it on a regular basis, so you're the one who can't live like a normal human.@
+` In the first place, our roots are the same."
+\
+ld r,"tachi/aki_t18b",notrans,0
+`  "Hah, never!@
+` I enjoy blood merely as another kind of food.@
+` I am only a mischievous girl with a far more refined sense of taste than others.@
+` I am fundamentally different from a fundamentally non-human like you, so please do not treat me as your kind."@
+ld l,"tachi/ark_t05d",notrans,0
+`  "[line=4]Oh?@
+` But you looked like you were having so much fun back then.@
+` You were even more Dead Apostle-like than the Dead Apostles when your hair was red and you were drinking blood."@
+ld r,"tachi/aki_t07b",notrans,0
+`  "T-that was... It was just a mistake!@
+` First of all, Nii-san and I were almost killed because you went after someone like Roa.@
+`   I wouldn't have changed if he hadn't come around!"
+\
+`  "Oh, really?@
+` Well, if you say so, little sister."@
+ld r,"tachi/aki_t29",notrans,0
+`  "......!@
+` What is so funny, you thief vampire!?"@
+ld l,"tachi/cel_t01a",notrans,0
+`  "Alright now, calm down, Akiha-san.@
+` We can't be fighting today.@
+` This is everyone's favorite cafe."@
+ld r,"tachi/aki_t05b",notrans,0
+`  "... I know.@
+` You do not need to tell me, Senpai."@
+`  "Right?@
+` Geez, you two are similar, so you should get along well.@
+` The setting is that we're friends today, so forget the fact that we are enemies.@
+` So let's order some cakes now. Excuse me, could we make an order?"
+\
+cl a,crossfade,400
+wait 2000
+ld l,"tachi/his_t01",rshutter,400
+`  "Sorry to keep you waiting."@
+ld r,"tachi/koha_t03b",rshutter,400
+`  "Alright, please make your orders!"@
+cl a,notrans,0
+ld l,"tachi/ark_t13",notrans,0
+`  "[line=8]"@
+ld r,"tachi/cel_t07a",notrans,0
+`  "[line=8]"@
+ld l,"tachi/aki_t15b",notrans,0
+`  "[line=8]"@
+cl a,notrans,0
+wait 1000
+ld l,"tachi/aki_t03b",notrans,0
+`  "...... Hey.@
+` What are you two doing here?"@
+ld r,"tachi/koha_t03b",notrans,0
+`  "Heehee.@
+` We're just doing a little part time work for some extra cash.@
+` It's a small job where we only have to work for about an hour, and only for today."@
+ld r,"tachi/his_t05",notrans,0
+`  "[line=6]"
+\
+cl a,crossfade,400
+ld l,"tachi/cel_t08",notrans,0
+`  "... Amazing.@
+` I guess this diligence is increasing the fans, and they know no defeat because they never show an opening.@
+` It's like this beaaaaam of charm."@
+ld r,"tachi/ark_t06",notrans,0
+`  "...... I feel the same way.@
+` I went past the anger stage and I'm rather deeply moved.@
+` I guess you have to go as far as that to get more fans."
+\
+cl a,crossfade,400
+ld l,"tachi/aki_t11b",notrans,0
+`  "You have some nerve, Kohaku.@
+` The main storyline wasn't enough for you, so you are going to go against me in a side story like this as well?"@
+ld r,"tachi/koha_t03b",notrans,0
+`  "No, that's not true.@
+` We're only waitresses.@
+` We'll just quietly listen to your conversation in the back, so please do not worry about us."@
+`  "............"@
+ld l,"tachi/his_t15",notrans,0
+`  "(N-Nee-san... Akiha-sama is angry, so is it not better to stay quiet...?)"@
+ld r,"tachi/koha_t08",notrans,0
+`  "[line=7](Bam)"@
+cl l,bshutter,400
+`  "Au[line=6]!?"@
+ld r,"tachi/koha_t03b",notrans,0
+`  "Okay, may I please have your orders?@
+` Today's recommendation is the especially large strawberry pie."
+\
+ld l,"tachi/aki_t01b",notrans,0
+`  "I see.@
+` Then please bring us some of that."@
+`  "Right away.@
+` I will be going now."@
+cl r,rshutter,800
+ld l,"tachi/cel_t09",notrans,0
+`  "... Wow... Kohaku-san dragged Hisui-chan into the kitchen.@
+` It's like I'm watching a horror movie...@
+` Like that Delikatessen movie."@
+ld r,"tachi/ark_t11",notrans,0
+`  "De Lick A Tessen?"@
+`  "... Nevermind.@
+` But this is that cafe, isn't it?@
+` Do you know about it, Akiha-san?"@
+ld r,"tachi/aki_t18b",notrans,0
+`  "I only heard about it.@
+` But how about you, Senpai? I'm sure you came here with Nii-san, right?"
+\
+ld l,"tachi/cel_t02",notrans,0
+`  "Actually, it never happens.@
+` It always comes up in conversation, but we can't come here during the main storyline."@
+ld r,"tachi/ark_t02",notrans,0
+`  "Oh, that can't be helped.@
+` This is a place that shouldn't exist in the world of 'Tsukihime'. It's more like on the boundary line.@
+`   That's why people who have a lot to do with one of the worlds cannot come here. Only the people who are not main characters can come here."@
+ld l,"tachi/aki_t17b",notrans,0
+`  "Huh?"@
+ld r,"tachi/ark_t16",notrans,0
+`  "It would be bad if Shiki from Tsukihime met Shiki from Kara no Kyoukai, right?@
+` Tohno Shiki and Asagami Fujino might not be a problem, but having Tohno Shiki and Ryougi Shiki meet or having me and Touko meet will create inconsistencies. That's why we can't meet each other in the official time axis."
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t03b",notrans,0
+`  "Thank you for waiting.@
+` ...... What is going on?@
+` Everyone looks troubled."@
+cl a,notrans,0
+ld l,"tachi/aki_t01b",notrans,0
+`  "Huh?@
+` Oh, it has nothing to do with you.@
+`   You two can come to this cafe even during the main storyline because you're treated as sub-heroines."@
+ld r,"tachi/his_t07",notrans,0
+`  "......?"@
+ld l,"tachi/aki_t04b",notrans,0
+`  "Forget it. Let's just have tea now.@
+` By the way, Hisui."@
+ld r,"tachi/his_t04",notrans,0
+`  "[line=4]Yes?@
+` What is it, Akiha-sama?"@
+ld l,"tachi/aki_t16b",notrans,0
+`  "Did Kohaku do anything?@
+` Like mixing strange things into the tea, or..."
+\
+bg #000000,crossfade,1500
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+`  "[line=4]Well.@
+` Now that the food's gone around, I would like get to the main topic."@
+cl a,notrans,0
+ld l,"tachi/ark_t03",notrans,0
+`  "A review meeting?@
+` It's fine, but I have nothing I need to contemplate."@
+ld r,"tachi/cel_t07a",notrans,0
+`  "I feel the same way.@
+` ... Well, I should mull over how I could not slay the vampire that was walking about in town during daytime."@
+ld l,"tachi/aki_t04b",notrans,0
+`  "Senpai, I have something to contemplate as well, but this won't make use of the fact that this is a side story, right?@
+` Hisui and Kohaku are listening in as well, so I would like to make this into a meeting to talk about our impressions."
+\
+ld r,"tachi/his_t04",notrans,0
+`  "Impressions...?@
+` I am sorry, Akiha-sama. I do not understand what you mean... do you mean something like a questionnaire?"@
+`  "Well, it's more like bringing up the questions we all have.@
+`   See, I'm sure even you had your moments during the main storyline, Hisui.@
+` Like when you tilted your head in wonder at what was going on.@
+` We want to try to answer those questions."@
+ld r,"tachi/ark_t01a",notrans,0
+`  "Does it have to be questions?@
+` I have a few things I want to say, instead."@
+`  "Alright. Please go ahead, Ciel-Senpai."
+\
+cl a,crossfade,400
+ld l,"tachi/cel_t08",notrans,0
+`  "I get to start...!?@
+` Hmm, it has nothing to do with the main storyline, but I'd like to ask about Tohno-kun's financial circumstances.@
+`   Tohno-kun often complains that he wants to work. I'm wondering how much allowance he gets each month."@
+ld r,"tachi/aki_t04b",notrans,0
+`  "None."@
+`  "Huh?"@
+`  "Nii-san does not get an allowance.@
+` I do not know how it was at the Arima household, but I have not given him an allowance since he came here.@
+`   He doesn't need anything like that, right?"
+\
+ld l,"tachi/cel_t10a",notrans,0
+`  "Doesn't need? Um, so Tohno-kun has a credit card or something?"@
+ld r,"tachi/koha_t03b",notrans,0
+`  "Ahaha, no, no, Ciel-san.@
+` Akiha-sama is saying that she gives Shiki-san diddly-squat."@
+ld l,"tachi/cel_t09",notrans,0
+`  "... Um, how is Tohno-kun surviving?@
+` If he doesn't get an allowance, how can he afford snacks after school or curry bread?"@
+ld r,"tachi/aki_t11b",notrans,0
+`  "Those things are unnecessary.@
+` He gets only as much food as he needs, so extra money is not needed."
+\
+ld l,"tachi/cel_t08",notrans,0
+`  "...... I see.@
+` But I would think he has other things he wants."@
+ld r,"tachi/aki_t04b",notrans,0
+`  "I think so too.@
+` I will buy such things if he asks me.@
+` I will buy anything for Nii-san if he really needs it, but for some reason, he never asks.@
+`   His unselfishness is practically a medical condition.@
+`   Don't you think so, Kohaku?"@
+ld l,"tachi/koha_t15",notrans,0
+`  "Yes.@
+` But he keeps wanting to work, so he must love working."@
+ld r,"tachi/his_t17",notrans,0
+`  "... Nee-san, I think that is not it..."
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",tshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+`  "Oh, I'll go next.@
+` This has to be what's bothering me.@
+` How to identify these two."@
+ld r,"tachi/his_t23",notrans,0
+`  "......?"@
+ld r,"tachi/koha_t02b",notrans,0
+`  "Huh?@
+` Are you talking about me and Hisui-chan?"@
+`  "Yup.@
+` You two were *****ed from time to time, right?@
+` You can't tell from the appearance, so you have to guess from the situation you're in. But is there a good way to tell?@
+` Like your eye colors being different, or something like that."
+\
+ld r,"tachi/cel_t01a",notrans,0
+`  "Oh, I wanted to ask that too.@
+` Is there something like a hint?"@
+ld l,"tachi/aki_t02b",notrans,0
+`  "Actually, what is with you two for keeping it a secret from me?@
+`   ... I know Kohaku is sneaky, but I never thought Hisui would be involved as well."
+\
+ld r,"tachi/his_t21",notrans,0
+`  "Oh........."@
+ld r,"tachi/koha_t17",notrans,0
+`  "That's wrong.@
+` It was all my doing.@
+` Hisui-chan has nothing to do with it.@
+` I was using colored contacts for my eyes, and I acted as her only after drugging her with some sleeping pills."@
+ld l,"tachi/cel_t08",notrans,0
+`  "So not even your sister is safe from you, Kohaku-san?"@
+ld r,"tachi/koha_t02b",notrans,0
+`  "Oh, please don't put it like that.@
+` People might misunderstand if they haven't beat Hisui-chan's route yet."@
+ld l,"tachi/aki_t18b",notrans,0
+`  "There is nothing to misunderstand because everything is true."
+\
+ld r,"tachi/koha_t08",notrans,0
+`  "Oh, that's terrible, Akiha-sama!@
+` I was properly giving hints to Shiki-san.@
+ld r,"tachi/koha_t02b",notrans,0
+`   I think some people already know, but it's 'Nee-san' and 'sister'.@
+`   All you good boys and girls out there got it, right?@
+` It's pretty obvious if you look out for it when playing through the game for the second time."@
+ld l,"tachi/ark_t03",notrans,0
+`  "Hmm... Oh, you're right.@
+` I see. I never paid that much attention because I thought it was one of the usual typos."@
+ld r,"tachi/his_t04",notrans,0
+`  "... Yes.@
+` I mean, even the original artist asked, 'shouldn't it be Nee-san here?'"
+\
+ld l,"tachi/aki_t06b",notrans,0
+`  "It's his own fault.@
+` He lost faith in his own writing after making up so many words."@
+ld r,"tachi/his_t18",notrans,0
+`  "[line=3]Yes, that is it."@
+ld l,"tachi/koha_t03b",notrans,0
+`  "Hm?@
+` What's wrong, Hisui-chan? You look scary all of a sudden."@
+`  "It is about those words he made up.@
+`   I was able to tell that DNM was Dark Night Moon, and that origami meant 'Lock of Hair', but what was 'Moe-Body' supposed to be?"
+\
+ld l,"tachi/ark_t08",notrans,0
+`  "Ahaha."@
+ld r,"tachi/cel_t04",notrans,0
+`  "Heehee."@
+`  "?@
+` Do you two know something?"@
+ld l,"tachi/ark_t01a",notrans,0
+`  "Um, yeah.@
+` That.@
+` I think you should let that slide.@
+` It seems even he regrets doing that."@
+ld r,"tachi/cel_t01a",notrans,0
+`  "It's like he's writing something in an incomprehensible way."@
+cl a,crossfade,400
+ld c,"tachi/his_t18",notrans,0
+`  "That is not a real answer.@
+` Since this is a question and answer corner, please answer me."
+\
+cl a,crossfade,400
+ld l,"tachi/ark_t03",notrans,0
+`  "Hm... oh well.@
+` I guess another way to read those characters would be 'burning body'."@
+ld r,"tachi/cel_t08",notrans,0
+`  "Yes.@
+` If it was from someone who learned proper vocabulary, these kinds of coined phrases would result in a lynching."@
+`  "See, this 'moe' means burning.@
+` He ignored what the word meant just to get the image and feel across."@
+ld l,"tachi/aki_t15b",notrans,0
+`  "[line=5](Shock)"
+\
+ld r,"tachi/koha_t02b",notrans,0
+`  "Oh, I see.@
+` Then he shouldn't stop halfway... he should've used the other meaning of 'moe'.@
+` In that story, Hisui-chan devotedly took care of him, so isn't it more appropriate?@
+` Right, Hisui-chan?@
+` You looked really happy being able to treat Shiki-san."@
+ld l,"tachi/his_t02",notrans,0
+`  "............"
+\
+wait 2000
+cl a,crossfade,400
+ld l,"tachi/ark_t03",notrans,0
+`  "Oh yeah. I remember they were thinking of putting English subtitles for each title. Do you remember hearing any of that, Ciel?"@
+ld r,"tachi/cel_t01a",notrans,0
+`"Yeah.@
+` There were things like...
+`  A prologue / Glass Moon
+`  The Black Beast / Six Six Six
+`  Vermillion Crimson Moon / Crimson Air
+`  Quiet Dream / cizumu
+`  Deep Dream / cizumu"
+\
+ld l,"tachi/koha_t15",notrans,0
+`  "Oh!@
+` I see, so you read both as 'cizumu', then!?"@
+ld r,"tachi/his_t20",notrans,0
+`  "Uh... I thought it read... um..."@
+ld l,"tachi/koha_t03b",notrans,0
+`  "Huh?@
+` What is it, Hisui-chan?@
+` How did you think it was read?"@
+ld r,"tachi/his_t21",notrans,0
+`  "...... Um...... I read it as 'Chinmu'..."@
+ld r,"tachi/aki_t03b",notrans,0
+`  "Don't tease Hisui too much, Kohaku."
+\
+ld l,"tachi/koha_t12",notrans,0
+`  "Okay, okay...@
+` But Arcueid-san and Ciel-san sure know a lot of inside stories.@
+` Why is that?"@
+ld r,"tachi/ark_t01a",notrans,0
+`  "It's because we're the oldest.@
+` Little sister's been around for a while as well, but we were born first and were part of Tsukihime for that first year and a half."
+\
+ld l,"tachi/cel_t12",notrans,0
+`  "Yeah.@
+` I know all the good and bad of Tsukihime.@
+` My ending was even rewritten twice, Akiha-san's ending was rewritten three times, and the endings of the test play version and the complete version were totally different.@
+`   Most of all, the ending of Akiha-san in the test play version is really valuable now.@
+` It's not much, but I explain why Tohno-kun is ****.@
+`   So if you have the test play version (only ten exist), please uninstall the game right now and destroy the CD."@
+ld r,"tachi/his_t01",notrans,0
+`  "...... So we are getting rid of evidence?"@
+ld l,"tachi/koha_t15",notrans,0
+`  "Wow, the world of adults shows its dirty side."
+\
+bg #000000,bshutter,800
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+`  "Ahem.@
+` Then let me ask the next question.@
+ld c,"tachi/aki_t01b",notrans,0
+`   It is a bit serious, but why are you still in this town, Senpai?"@
+cl a,crossfade,400
+ld l,"tachi/cel_t12",notrans,0
+`  "Huh...?@
+` Ah, haha, um, well... Why is that?"@
+ld r,"tachi/ark_t04",notrans,0
+`  "You're right.@
+` Roa is gone, so there's no reason for you to stay here."
+\
+ld l,"tachi/cel_t10a",notrans,0
+`  "There is a reason!@
+` An area where a vampire hid himself needs investigation even after that vampire is exterminated.@
+`   Vampires create more vampires.@
+` You know what this means, right?@
+`   Most of the children vampires die when the parent vampire dies.@
+` But the 'children' that were treated specially as 'successors' can live on even after the parent dies.@
+`   As a result, the purification of the area really starts after the parent vampire is killed.@
+`  I just, um... tweaked the papers a bit so I got the job..."
+\
+ld r,"tachi/ark_t06",notrans,0
+`  "So you abused your authority, huh?@
+` That's just like you. No method is beneath you as long as you achieve your goals."@
+ld l,"tachi/cel_t12",notrans,0
+`  "Heh, say what you want.@
+` What good is authority unless you abuse it?"@
+ld l,"tachi/koha_t03b",notrans,0
+`  "Oh, that's a problematic statement, Ciel-san.@
+` You have to take your job seriously and honestly. You can't have any ulterior motives."@
+ld r,"tachi/aki_t16b",notrans,0
+`  "Did I just hear something?@
+` I thought I heard the least appropriate person try to give me a lecture[line=3]"
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/koha_t02b",notrans,0
+`  "Oh, can I ask the question I had as well?"@
+ld r,"tachi/aki_t04b",notrans,0
+`  "Go ahead.@
+` Why don't you bring a chair and sit down?"@
+`  "No, no. We're just eavesdropping waitresses."@
+ld l,"tachi/his_t04",notrans,0
+`  "............(Sit)"@
+ld r,"tachi/ark_t01a",notrans,0
+`  "Huh?@
+` Are you going to sit next to me?"@
+`  "............"@
+` (Nod)
+ld r,"tachi/koha_t16",notrans,0
+`  "Oh, you're terrible, Hisui-chan!@
+` I thought we agreed to stay off to the side to support everyone. You traitor!"
+\
+ld l,"tachi/aki_t18b",notrans,0
+`  "... Kohaku.@
+` About that demo at the winter Comiket."@
+ld r,"tachi/koha_t14",notrans,0
+`  "Huh[line=3]?"@
+`  "Like I said, the demo at the winter Comiket."@
+ld r,"tachi/koha_t11",notrans,0
+`  "Uh, um[line=4]Akiha-sama... You... saw that?"@
+ld l,"tachi/aki_t04b",notrans,0
+`  "Don't worry.@
+` l'Arc and Ciel-san haven't seen it yet.@
+` Well, depending how you act, I could keep it a secret from them."
+\
+ld r,"tachi/koha_t12",notrans,0
+`  "Auu[line=3]so you did see it, huh? ... Ohh, I promise I'll be more loyal from now on."@
+ld l,"tachi/aki_t28",notrans,0
+`  "As long as you understand, it's fine.@
+` Now non-heroines can go just go outside and start sweeping the yard like non-heroines should.@
+ld l,"tachi/aki_t04b",notrans,0
+`   So, what is your question?"
+\
+ld r,"tachi/koha_t03b",notrans,0
+`  "Yes.@
+` When Arcueid and Shiki-san were getting in a good mood, five of those Dead-san arrived, right?@
+`   What was that all about?@
+` It happened on the tenth day during Arcueid's route."@
+ld l,"tachi/ark_t03",notrans,0
+`  "Huh?@
+` That wasn't explained in the story?@
+ld r,"tachi/his_t01",notrans,0
+`  "No, it was not."@
+ld l,"tachi/ark_t09",notrans,0
+`  "I see.@
+` ... Well, I don't care since it's already over.@
+` Right, Ciel?"@
+ld r,"tachi/cel_t09",notrans,0
+`  "[line=6]Uh.@
+` Fine, I don't care.@
+` I'm just a convenient do-it-all person.@
+` Yes, I don't care even if I'm called evil. I'll take that as a compliment!"
+\
+`  "......?@
+` Oh, so it was your doing, Ciel-san?"@
+ld l,"tachi/ark_t01a",notrans,0
+`  "That's right.@
+` She preserved the bodies of the Dead I killed on the ninth day and manipulated them with string from the top of the streetlight.@
+` Necromancy is a cinch for the daughter of Roa, right?"@
+ld r,"tachi/cel_t12",notrans,0
+`  "... It wasn't easy, but you're mostly right."@
+ld l,"tachi/his_t23",notrans,0
+`  "Oh... Now that you mentioned it, I do recall Roa calling Ciel-sama his daughter..."@
+ld r,"tachi/cel_t07a",notrans,0
+`  "...That's because everyone chosen to be Roa's reincarnated body is one of Roa's descendants, even though we might not be blood-related. In other words, we are his children.
+\
+`  "It seemed Roa favored me, so he felt more attachment to me than any other of his hosts."@
+ld r,"tachi/aki_t08b",notrans,0
+`  "... Oh, I see now.@
+` So you had a naughty phase too, Senpai."@
+ld l,"tachi/koha_t15",notrans,0
+`  "Oh, that's really good!@
+` We'll go with that for the next side story.@
+` The days of corruption and laziness of the female vampire that conquered a country town!@
+` What awaits the girl that fell to her desires?
+` Next, on Tsukihime 2, 'I will not believe in love!'@
+` Or something like that.@
+` Kyaa, you're so wonderful, Ciel-san!"
+\
+ld r,"tachi/cel_t06a",notrans,0
+`  "[line=3]T-there won't be anything like that!@
+`   There are already ten side stories decided for the next fan disc!"@
+ld l,"tachi/koha_t16",notrans,0
+`  "Oh, that's too bad."@
+ld r,"tachi/his_t05",notrans,0
+`  "Too bad."
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/aki_t16b",notrans,0
+`  "Well.@
+` Everyone's questions are answered now, but something seems missing.@
+` Do you have anything else, Arcueid-san?"@
+ld r,"tachi/ark_t01a",notrans,0
+`  "Well, how about now?@
+` This happens after the main storyline, so I'm wondering who's route this is.@
+`   We're all here, so it has to be my ending or Ciel's."@
+ld l,"tachi/aki_t01b",notrans,0
+`  "... Yes.@
+` I hate to admit it, but my ending, Hisui's ending, and Kohaku's ending are not so 'ideal'."
+\
+ld r,"tachi/cel_t03",notrans,0
+`  "Nor is my ending.@
+` This is supposed to be after the Arcueid good ending.@
+`   Even while Tohno-kun, Arcueid, Roa, and I were fighting, Tohno-kun was conveniently able to go through Kohaku-san's, Hisui-san's, and Akiha-san's events.@
+` Well, he hasn't experienced the core storyline though."@
+`  "... Then should we consider Arcueid-san's ending as the true ending for Tsukihime?"@
+ld l,"tachi/ark_t08",notrans,0
+`  "Ehehe."
+\
+ld r,"tachi/cel_t07a",notrans,0
+`  "(Angry) Yes.@
+` But that is the true ending of the story called 'Tsukihime'.@
+` The true ending of the story of Tohno Shiki is leaning more towards Akiha-san's side.@
+` Tohno-kun originally is unrelated to that airheaded vampire and I."@
+ld l,"tachi/aki_t11b",notrans,0
+`  "... So there's a possibility that Kohaku, Hisui, or I will be in the true ending, huh?"@
+ld r,"tachi/koha_t08",notrans,0
+`  "......"@
+ld l,"tachi/his_t01",notrans,0
+`  "......"@
+wait 1000
+cl a,crossfade,400
+ld l,"tachi/ark_t01b",notrans,0
+`  "... Hey, Ciel.@
+` It looks like those three are glaring at each other."@
+ld r,"tachi/cel_t04",notrans,0
+`  "They're trying to figure out if they should make the first move or wait.@
+`   Let's not bother them for now."
+\
+bg #000000,crossfade,800
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/stk_t01",rshutter,400
+`  "[line=6]Alright, alright, alright!"@
+cl c,notrans,0
+ld l,"tachi/ark_t11",notrans,0
+`  "Oh, it's Sacchin."@
+ld r,"tachi/stk_t01",notrans,0
+`  "Um, would I still be treated the same way as earlier!?@
+`   Don't you all think it's too awful!?"@
+ld l,"tachi/cel_t08",notrans,0
+`  "... Hmm... According to the scenario writer, there was a Yumizuka-san's route in the planning stage."@
+ld r,"tachi/aki_t01b",notrans,0
+`  "It's a story that centers on 'what was intentionally ignored in Tsukihime', right?@
+` But I'm sure it's hard.@
+` It's too long to put into a fan disc."@
+ld l,"tachi/koha_t17",notrans,0
+`  "And since we've already released the complete version, we can't make a true complete version or anything like that..."@
+ld r,"tachi/his_t01",notrans,0
+`  "... So it is a pity, but it seems Yumizuka-san will stay as a sub-heroine forever."
+\
+cl a,notrans,0
+ld c,"tachi/stk_t09",notrans,0
+`  "T-that's terrible! This is too much, God!@
+` The one I fall in love with is the school's biggest blockhead, and what's more, I die in the first half of the story!@
+` Even Kohaku-san received her own route in the end, so this is too much!@
+` Waaaaah!"@
+cl c,notrans,0
+ld l,"tachi/ark_t11",notrans,0
+`  "But you've got it good.@
+` This main theme of this story are vampires, but you're the only legitimate vampire.@
+` You're the secret main character."@
+ld r,"tachi/koha_t15",notrans,0
+`  "She can't go out onto the bright stage because she's a vampire, huh?"@
+ld l,"tachi/cel_t05",notrans,0
+`  "Oh, that's good."@
+cl a,notrans,0
+ld c,"tachi/stk_t12",notrans,0
+`  "Stupid Tohno-kun!!!!@
+` Fine, I'll get you back in 'Dismantlement of Dreams and Reality'!!!"
+\
+cl c,rcartain,400
+wait 2000
+ld r,"tachi/cel_t07a",notrans,0
+`  "Yumizuka-san has left.@
+` ... Akiha-san, speaking of Yumizuka-san...@
+` Did you see the side story on this disc?"@
+ld l,"tachi/aki_t10b",notrans,0
+`  "......"@
+ld r,"tachi/cel_t08",notrans,0
+`  "'Then, follow me', huh?@
+` Tohno-kun is three times kinder to younger people, huh?"@
+ld r,"tachi/koha_t15",notrans,0
+`  "So it's just a natural reflex, right?"@
+ld l,"tachi/aki_t05b",notrans,0
+`  "... Well, whatever.@
+` But I recognize anew that doing good unconsciously is very sinful."@
+ld r,"tachi/cel_t08",notrans,0
+`  "Yeah, exactly.@
+` I know now how sinful Tohno-kun is.@
+` I'm sure Yumizuka-san fell for him because of that."
+\
+`  "I'm sure!@
+` Geez, pure girls misunderstand because he acts like that to everyone.@
+ld l,"tachi/aki_t28",notrans,0
+`   ... It seems I need to put Nii-san into underground confinement to teach him a lesson... Huhuhu."@
+ld r,"tachi/his_t07",notrans,0
+`  "P-please do not say scary things, Akiha-sama."@
+ld l,"tachi/cel_t09",notrans,0
+`  "Um... I think Akiha-san is still a bit possessed.@
+` She's emitting this black aura..."@
+ld r,"tachi/koha_t03b",notrans,0
+`  "No, that's not true.@
+` Akiha-sama has completely recovered.@
+` This is no doubt her true character."@
+ld l,"tachi/his_t17",notrans,0
+`  " Makihisa-sama's dual personality disorder was passed down to Akiha-sama..."
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/aki_t04b",notrans,0
+`  "So, about our hobbies."@
+ld r,"tachi/ark_t06",notrans,0
+`  "That's sudden."@
+ld l,"tachi/aki_t08b",notrans,0
+`  "Yes.@
+` Nobody will say it if I do not say it, right?@
+`   This is something I was asked to mention, so could everyone tell me your favorite songs?@
+` But it has to be a Japanese song.@
+` It can't be English, gospel, or some song from a tribe in the Amazon."
+\
+cl a,crossfade,400
+ld c,"tachi/ark_t08",notrans,0
+`  "Songs, huh?@
+` I guess I like Nav Katze's 'Crazy Dream'."@
+ld c,"tachi/cel_t08",notrans,0
+`  "...Um, 'Basement Melody'."@
+ld c,"tachi/his_t02",notrans,0
+`  "I like SOFT BALLET-sama's 'Parade'."@
+ld c,"tachi/koha_t03b",notrans,0
+`  "Cocco-san's 'Soft Scar' is a great song."@
+ld c,"tachi/aki_t04b",notrans,0
+`  "I like SWINGING POPSICLE's 'Satetsu Tower'."@
+cl a,notrans,0
+ld c,"tachi/stk_t03",rshutter,400
+`  "Oh!@
+` I like Harada Tomoyo's song that was used in 'Bungaku to ifu koto'!"
+\
+cl c,rshutter,400
+ld l,"tachi/cel_t11",notrans,0
+`  "Wow, you like Parade, huh, Hisui-san!?@
+` Good, good! SOFT BALLET is great!@
+` It feels like I'm listening to a hymnal at church when I listen to Ryoichi-san's world-class heavy voice!"@
+ld r,"tachi/his_t20",notrans,0
+`  "......"@
+ld l,"tachi/aki_t16b",notrans,0
+`  "...Do you mean... that 'Parade'...?"@
+ld r,"tachi/koha_t11",notrans,0
+`  "Yes.@
+` Hisui-chan uses that song to wake up every morning and listens in on it.@
+` I sometimes get scared that Hisui-chan might be a little crazy."
+\
+bg #000000,bshutter,400
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+`  "...Well, there are a few hurdles, but everyone told me their favorite songs, right?@
+`  Well[line=3]I guess those will be your image songs."@
+cl c,notrans,0
+`  "Whaaaaaaaaaaaat!?"@
+ld r,"tachi/cel_t10a",notrans,0
+`  "H-hold on! I haven't heard anything about that!"@
+ld l,"tachi/aki_t04b",notrans,0
+`  "Oh, Senpai.@
+` Is something wrong?"@
+`  "O-of course!@
+` I chose 'Basement Melody"!@
+`   That's a song that just repeats the lyrics, 'where am I? Who am I?'"
+\
+ld l,"tachi/aki_t08b",notrans,0
+`  "Isn't it a wonderful song?@
+` I heard that the scenario writer saw the lyrics in a hospital when he was still a student. There is a legend that he got so scared he couldn't open the CD case for about half a year."@
+`  "A-auuuu!@
+` If that's my image song it'd be just like a horror movie!"@
+ld l,"tachi/ark_t08",notrans,0
+`  "Run, run, run, run, open the door!"@
+ld r,"tachi/cel_t06a",notrans,0
+`  "Hey!@
+` Don't sing the song!"@
+`  "Shivering to the daylight! Oh!
+ld l,"tachi/ark_t20",crossfade,400
+`  Gaa!"@
+cl a,notrans,0
+`  "Heeeeeee!@
+` Oh Lord, this is too much!"
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+`  "Man, that was fun.@
+` But Nav Katze's 'Crazy Dream' is a cute song about vampires.@
+`   It's really the Tsukihime's (Arcueid's) image song according to the scenario writer, so those interested should go listen to it."@
+ld r,"tachi/his_t01",notrans,0
+`  "It is a mini-album called 'OUT'.@
+` It's about 2000 yen.@
+` ... But Arcueid-san... Is advertisement like this allowed?"@
+ld l,"tachi/ark_t09",notrans,0
+`  "It's fine, it's fine. There's no problem!"
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+`  "Oh.@
+` It's getting dark outside."@
+ld r,"tachi/cel_t01a",notrans,0
+`  "You're right.@
+` I guess we should wrap things up."@
+ld l,"tachi/aki_t01b",notrans,0
+`  "Oh, really?@
+` There's one more thing I need to ask though.@
+`   This is the final question, but who do you all think is the 'most evil' person in Tsukihime?"@
+cl a,crossfade,400
+`  "................."@
+`  "................."@
+`  "................."@
+`  "................."@
+`  "................."
+\
+ld l,"tachi/ark_t03",notrans,0
+`  "Go ahead, Ciel."@
+ld r,"tachi/cel_t12",notrans,0
+`  "You can go ahead.@
+` I'll go after you."@
+ld l,"tachi/aki_t01b",notrans,0
+`  "Kohaku?@
+` Do you want to go last as well, Hisui?"@
+ld r,"tachi/koha_t12",notrans,0
+`  "Heehee, it's a bit embarrassing to say it first."@
+ld l,"tachi/his_t20",notrans,0
+`  "............(Nod)"@
+cl a,crossfade,400
+ld c,"tachi/ark_t01a",notrans,0
+`  "I see.@
+` Then let's all say it at once. Three, two, one, zero."
+\
+ld c,"tachi/ark_t03",notrans,0
+`  "I think it's Shiki."@
+ld c,"tachi/cel_t01a",notrans,0
+`  "Tohno-kun, of course."@
+ld c,"tachi/aki_t21b",notrans,0
+`  "It has to be Nii-san."@
+ld c,"tachi/his_t17",notrans,0
+`  "... I am sorry, Shiki-sama."@
+ld c,"tachi/koha_t15",notrans,0
+`  "I can't think of anyone else but Shiki-san."
+\
+cl a,crossfade,400
+ld l,"tachi/ark_t12",notrans,0
+`  "... What?@
+` Does everyone hate Shiki?"@
+ld r,"tachi/cel_t02",notrans,0
+`  "Hmm, I don't hate him, but he is bad...... It's like he's so cute that I hate him, or something like that."@
+ld l,"tachi/aki_t16b",notrans,0
+`  "I honestly think Nii-san is bad.@
+` I'm always suffering because of him.@
+` His blatant disregard of my feelings for him is evil."@
+ld r,"tachi/his_t22",notrans,0
+`  "............"@
+ld l,"tachi/koha_t03b",notrans,0
+`  "Right.@
+` And don't you get tired after having sex with Shiki-san since he's so persistent?@
+` I wonder how he can keep up like that."
+\
+ld r,"tachi/cel_t11",notrans,0
+`  "...... I agree.@
+` Tohno-kun is endless."@
+ld l,"tachi/ark_t14",notrans,0
+`  "Really...?@
+` I can't really tell since I only know Shiki..."@
+ld r,"tachi/his_t21",notrans,0
+`  "............(Seems to be agreeing)"@
+ld l,"tachi/aki_t16b",notrans,0
+`  "Well, he is much more than everything else I have heard, but...@
+ld l,"tachi/aki_t07b",notrans,0
+`   Geez, why are we talking about this!?@
+` We were talking about Nii-san's faults, right!?"@
+ld r,"tachi/cel_t12",notrans,0
+`  "Um, isn't this something bad about Tohno-kun?"@
+ld l,"tachi/ark_t08",notrans,0
+`  "Yeah.@
+` I'm curious about this too.@
+` Why don't you stop being so stubborn, little sister?@
+`   We're supposed to be carefree here."
+\
+ld l,"tachi/aki_t16b",notrans,0
+`  "[line=6]Well, okay.@
+` I am a bit curious too... it can't hurt."@
+ld r,"tachi/his_t13",notrans,0
+`  "What...? It is too terrible to talk about such a thing when Shiki-sama is not present."@
+ld r,"tachi/koha_t15",notrans,0
+`  "Yeah.@
+` It's unfortunate that Shiki-san isn't here.@
+`   You know that game where everyone gets a sword and pokes a pirate in a barrel?@
+` It would be like the same thing. We could get him from all sides and give him a hard time.@
+`   It really is a shame. It would've been great if Shiki-san was here."@
+ld l,"tachi/aki_t24",notrans,0
+`  "Uh...@
+ld l,"tachi/aki_t25",notrans,0
+`   K-Kohaku... th-that's a very... amazing thing you just said..."
+\
+bg #000000,bshutter,800
+bg "bg/bg_59",rshutter,800
+wave pd/se02
+ld l,"tachi/ark_t03",notrans,0
+`  "Huh?@
+` What is this sound?"@
+ld r,"tachi/koha_t02b",notrans,0
+`  "Oh, it's closing time.@
+` We sure talked a lot today."@
+ld l,"tachi/aki_t04b",notrans,0
+`  "...Yes.@
+` I was unsure how this would turn out, but all our enmity and rivalry faded quickly and we were soon able to have enjoyable conversation."@
+ld r,"tachi/cel_t04",notrans,0
+`  "The three of us was a good balance.@
+` I enjoyed today as well."@
+ld l,"tachi/koha_t03b",notrans,0
+`  "Huhu, it's a balance that might tip either way any second now..."@
+ld r,"tachi/his_t04",notrans,0
+`  "...Don't say that, Nee-san..."
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t08b",notrans,0
+`  "Well, I am going home now.@
+` I will be leaving the cleaning up to you two."@
+cl c,rshutter,800
+ld c,"tachi/cel_t04",notrans,0
+`  "I'll be leaving too.@
+` It's about time for my patrol."@
+cl c,rshutter,800
+ld c,"tachi/ark_t03",notrans,0
+`  "I guess I'll leave as well.@
+` I've stayed here too long."@
+cl a,crossfade,400
+ld l,"tachi/koha_t03b",notrans,0
+`  "Okay.@
+` Please take care, Arcueid-san."@
+ld r,"tachi/ark_t01a",notrans,0
+`  "See ya.@
+` Oh, but I guess I'll be seeing Hisui tonight."@
+ld l,"tachi/his_t17",notrans,0
+`  "... Arcueid-sama.@
+` Please refrain from sneaking into Shiki-sama's room."
+\
+`  "Yeah, yeah, I'm just kidding.@
+` Well, see you two later!"@
+cl r,rshutter,800
+ld r,"tachi/koha_t15",notrans,0
+`  "Yes, let us meet again after the new year!"@
+@
+cl a,crossfade,800
+playstop
+wait 1000
+bg #000000,bshutter,1500
+bg "word/pd_fin",crossfade,1500
+wait 2000

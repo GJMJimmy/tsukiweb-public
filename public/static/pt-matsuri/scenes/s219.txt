@@ -1,0 +1,82 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_33a",notrans,0
+`"…… Muito bem.@ Acho que essa é a melhor escolha."@
+` Acho que a Akiha não vai entender se eu falar sobre criaturas sobrenaturais como a Arcueid e o Nrvnqsr, e como não posso falar a verdade, devo ao menos me desculpar com sinceridade.@
+br
+`"[line=2]Certo, vamos ver no que dá."@
+` Respirando fundo, abro a porta da sala de estar.
+\
+bg "bg/bg_34a",lcartain,800
+` A Akiha está no sofá e a Hisui está em pé perto da parede.@
+ld c,"tachi/aki_t01a",notrans,0
+`"[line=2]Bom dia, Nii-san."@
+` Seu olhar está me dizendo: "Eu estou muito brava."@
+`"Ah, hum…… Bom dia, Akiha."@
+`"Vamos dispensar os cumprimentos.@ Por favor, sente-se.@ Quero conversar com você."@
+cl c,notrans,0
+`"[line=6]"@
+` Suas palavras são tão persuasivas que não consigo recusar.@
+` Calmamente, me sento no sofá de frente para ela.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san.@ Isso pode ser meio abrupto, mas posso saber o que tem você feito nos últimos dois dias?"@
+`"[line=4]Ugh."@
+` Apesar da sua linguagem polida, suas palavras são uma ameaça muito clara.@
+` Mas o seu Onii-chan não pode lhe contar uma história daquelas.
+\
+br
+`"Akiha, sobre esse assunto."@
+`"Sim, estou ouvindo?"@
+`"Perdoe-me, mas não posso te contar nada."@
+cl c,notrans,0
+\
+` Crash.@
+` A xícara de chá que ela estava segurando cai em cima da mesa e se espatifa.@
+` Na verdade, acho que ela deixou cair de propósito.
+\
+ld l,"tachi/his_t01",crossfade,400
+`"Akiha-sama[line=3]"@
+ld r,"tachi/aki_t04a",crossfade,400
+`"Ah, me desculpe, Hisui.@ Você poderia limpar isto, por favor?"@
+cl a,crossfade,400
+` Em silêncio, a Hisui limpa o chá derramado e recolhe os cacos da xícara que parece ter custado muito caro.@
+br
+` Eu fico olhando a Hisui limpar, inquieto, enquanto a Akiha me encara.@
+` Depois de terminar de limpar, ela vai para a cozinha.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"[line=3]Então, Nii-san."@
+`"…… Sim?"@
+`"Posso te perguntar novamente?"@
+` Ela não desiste.@
+` Posso sentir sua intenção de arrancar a verdade de mim custe o que custar.@
+` Mesmo assim, não vou contar nada a ela.@
+` É claro que não é só para o meu bem, é para o bem dela também.
+\
+`"…… Não.@ Não importa quantas vezes você me pergunte, não posso te contar nada.@ Eu sinto muito por ter te deixado preocupada, mas não posso te contar nada sobre esse assunto."@
+ld c,"tachi/aki_t02",crossfade,400
+`"[line=2]Você diz que sente muito mas não pode me contar, Nii-san?"@
+`"Sim.@ Desculpe-me por ter desaparecido e não ter entrado em contato com você, e também por não poder falar sobre o que aconteceu.@ Mas eu não fiz nada de errado nestes últimos dois dias.@ …… Nem em sonhos aquilo foi errado."@
+cl c,crossfade,400
+\
+` [line=3]É isso mesmo.@
+` Esses dois dias foram uma questão de matar ou ser morto[line=2]quero acreditar que fiz a coisa certa.@
+br
+` Fiz aquilo para ajudar a Arcueid, mas… não me arrependo de ter matado aquele monstro canibal.@
+br
+` Pelo menos, não vai mais aparecer vítimas que morreram por terem o sangue todo drenado.
+\
+`"[line=4]Desculpe-me, Akiha.@ Desculpe-me por ter te deixado preocupada, mas por favor, não me pergunte mais nada."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=6]"@
+` Ela olha bem no fundo dos meus olhos.@
+` E permanece desse jeito por alguns instantes.
+\
+`"…… Tudo bem.@ Pensando bem, você deve ter tido seus motivos, por isso não vou mais te pressionar, Nii-san."@
+`"…… Eu sinto muito mesmo.@ Obrigado por entender."@
+ld c,"tachi/aki_t03a",crossfade,400
+`"[line=5]"
+\
+cl c,crossfade,400

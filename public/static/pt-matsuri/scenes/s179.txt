@@ -1,0 +1,54 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Eu vou até o apartamento da Arcueid.@
+br
+` Não faço ideia do que está acontecendo, mas ela parecia estar sofrendo e sentindo dor.@
+` Acho que ela não deve ter ido caçar os Mortos, provavelmente apenas voltou para casa.
+\
+bg #000000,lcartain,800
+bg "bg/bg_12b",lcartain,800
+bg "bg/bg_13b",lcartain,800
+` …… Eu aperto a campainha.@
+` Parece que ninguém vai atender a porta.@
+`"[line=4]Merda, ela não voltou para cá?"@
+` Não importa quantas vezes eu aperte a campainha, a porta nunca é aberta.
+\
+`"………"@
+` Será que ela realmente não voltou ou simplesmente não quer me atender?@
+br
+` [line=4]Depois de hesitar um pouco, resolvo entrar.@
+br
+` É muito fácil cortar as "linhas" da porta.@
+` Mas vou verificar a maçaneta primeiro.
+\
+`"…… Hã?"@
+` Não está trancada.@
+` A porta abre quando giro a maçaneta.
+\
+bg #000000,lcartain,800
+bg "bg/bg_15b",lcartain,800
+`"…… Arcueid, você está aqui?"@
+` …… Nenhuma resposta.@
+` Será que ela não trancou quando saiu?@ Não tem ninguém aqui.@
+`"Aonde ela pode ter ido naquelas condições……!?"@
+quakex 1,300
+` Dou um soco na parede.@
+`"…… Grr."@
+` …… O que estou fazendo?@
+` Se tenho tempo para descontar minha raiva na parede, devo usá-lo para procurá-la[line=4]
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_25b",lcartain,800
+` …… Não consigo encontrá-la.@
+` Pensando bem, se ela realmente não quiser ser encontrada, será impossível que eu a encontre.
+\
+`"…… Ela tinha dito para nos encontrar novamente amanhã."@
+` A única coisa que posso fazer nessa situação é confiar nela e esperar até amanhã à noite.@
+`"………………"@
+` Com uma preoupação absurda apertando meu peito, eu volto para a mansão.
+\
+bg #000000,lcartain,800
+!w2000

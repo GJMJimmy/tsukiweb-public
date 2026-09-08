@@ -1,0 +1,489 @@
+phase "bg/bg_20a",r,ark,03a,3
+bg #ffffff,crossfade,1500
+play "*2"
+bg "bg/bg_18a",crossfade,1500
+`"[line=6]Nn."@
+` The sunlight streaming through the window wakes me.@
+` …… Maybe the rain stopped; I can't hear it anymore.@
+` It seems the sky outside is cloudy.@ The sunlight isn't what you could call bright.@
+br
+`"…… Eh?"@
+br
+` I look around.@
+` …… This is obviously not my room.
+\
+ld c,"tachi/cel_t01a",lshutter,400
+`"Ah, good morning.@ Did you sleep well last night, Tohno-kun?"@
+`"Ah[line=8]!"@
+br
+` I remember now.@
+` This is Senpai's room.@ I had borrowed her bed for the night[line=4]
+br
+`"Ah[line=3]yeah, good morning, Senpai."@
+` Becoming extremely embarrassed, I hop off the bed.
+\
+`"Uh… sorry about yesterday.@ I caused you all sorts of trouble, and[line=3]"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Yes, you owe me one."@
+` Senpai replies with a smile.@
+` …… How do I put this… She seems very mature.
+\
+`"A-anyhow, thanks.@ I'll be going home now."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Oh, really?@ It's barely six o'clock, Tohno-kun."@
+`"Yes, but I didn't get permission to stay the night away from home yesterday, so if I don't hurry back to the mansion, there's no telling what Akiha will say."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ah, your little sister.@ Well, I've already called her, so it should be okay."@
+` Senpai delivers her earth-shattering statement with a casual air.@
+`"Wh[line=3]you called my house, Senpai?"
+\
+ld c,"tachi/cel_t02",crossfade,400
+`"Yes.@ I thought it wouldn't be right if I didn't contact them about you staying over.@ Is that a problem?"@
+`"Wh[line=6]!"@
+` I'm at a loss for words.@
+` Ciel-senpai calling my house means a girl has called my house saying, "Tohno-kun is staying over at my place."@
+` That's… well[line=3]
+\
+`"[line=3]Yes, it's a problem.@ A big problem."@
+` If Akiha had been the one who picked up the phone, she's going to think I'm some kind of playboy.@
+` Given the severity of the Tohno household, I don't even want to imagine what would happen if she found out about that sort of thing.@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Tohno-kun… did you really hate staying at my house that much?"@
+`"Ah, no, that's not it.@ It's just that… my house is really strict.@ It's definitely not because I don't like you, Senpai[line=3]"@
+` Flustered, I try to explain the misunderstanding.
+\
+cl a,crossfade,400
+` Senpai closes her eyes sadly.@
+` …… Is it because I caused her so much trouble last night?@ I feel so bad when I see her make an expression like that.@
+`"I'm telling you, that's not it.@ I'm really grateful to you, Senpai.@ I'm feeling much better now, and if you hadn't been there for me last night, I don't know what would've happened to me…!"
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"[line=3]Yes, you're right.@ You look like you're back to normal now.@ I don't know what happened last night, but I'm glad you're feeling better."@
+br
+` Suddenly, Senpai gives the biggest smile anyone could possibly give.
+\
+`"[line=4]Eh?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"I was just joking.@ Even I wouldn't directly call your house.@ I asked Inui-kun to call your house and tell them that you were staying with him last night.@ There should be no problem with that, right?"@
+`"…… Yeah, that should be no problem… but that was kind of a mean joke, Senpai.@ I thought my heart was going to stop."@
+ld c,"tachi/cel_t03",crossfade,400
+`"Yes, I'm actually pretty mean.@ Pick on the ones you like, right?"@
+`"…… Eh?"@
+` [line=3]Ones you like?@ Then that means[line=3]
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"But, it's true you should go home early.@ Please hold on for a second."@
+cl a,crossfade,400
+` Senpai rummages around in her drawers for something.@
+ld c,"tachi/cel_t04",crossfade,400
+`"Here you go, Tohno-kun.@ It's a little gift for you."@
+` Saying that, Senpai hands me an old-looking ring.@
+`"…… A little gift… what is it, Senpai?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"It's a protective charm.@ You seem to be dangerously spaced out a lot, so please hold on to it."@
+`"Ah… yeah[line=3]I'll take anything that's given to me, but… alright.@ I'll take good care of it."@
+` Accepting the ring, I put it in my pocket.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Alright.@ I'll see you at school."
+\
+bg #000000,lcartain,800
+playstop
+br
+` [line=3]Senpai sees me off with a smile.@
+br
+` But that smile is one I might never see again.@
+` The woman I killed might be found already, and police might already be at the mansion.@
+` …… But I can't run away from it.@
+` All I can do is thank Senpai and return to the Tohno mansion.
+\
+bg "bg/bg_33a",lcartain,1500
+br
+br
+br
+br
+br
+br
+br
+` To say the results first, the mansion is as it always was.@
+!w500
+\
+ld c,"tachi/koha_t02",lshutter,400
+play "*2"
+`"Ah, welcome home, Shiki-san."@
+` As I enter the lobby, Kohaku-san greets me with a smile.
+\
+`"Ah… yeah, I'm home.@ Um, Kohaku-san?"@
+`"Ah, do you want breakfast?@ I'll have it ready soon, so please wait in the sitting room.@ Akiha-sama has just finished hers."@
+cl a,lshutter,400
+` Kohaku-san patters off towards the sitting room.@
+` …… It's too peaceful.@
+` Maybe they haven't found the body yet.@
+`"…………"@
+` For now, I head towards my own room to change.
+\
+bg "bg/bg_40a",lcartain,800
+` Hisui is in my room when I return.@
+ld c,"tachi/his_t01",lshutter,400
+`"[line=3]Good morning, Shiki-sama.@ It seems you have returned."@
+`"Yeah, just now.@ …… Listen, Hisui, do I have a spare uniform?@ The one I'm wearing now is soaked from yesterday's rain."@
+`"…… I understand.@ I will have one prepared immediately."@
+cl a,lshutter,400
+` Hisui bows, and silently leaves the room.@
+` After changing into the uniform Hisui brings me, I head towards the sitting room.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lcartain,800
+` A disappointed-looking Akiha is sitting on the sofa in the sitting room.@
+ld c,"tachi/aki_t01a",lshutter,400
+`"[line=3]Oh, good morning, Nii-san.@ It seems you have returned."@
+` Akiha's voice contains thorns filled with blame.@
+`"…… Yeah, good morning.@ You look kind of grumpy this morning, Akiha."
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Yes, I was unaware you spend the night elsewhere quite often.@ I am more astounded than angry."@
+` Akiha glares at me.@
+`"…… Uhhh."@
+` It's true I spent the night somewhere, so I can't argue.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Well, I suppose there was no helping it if you weren't feeling well.@ The one called Inui-san is your friend from middle school, isn't he?"@
+`"Yeah… I see, so he was the one who called you."@
+` …… Suddenly, I feel uneasy.@
+` Just what did he say when he called my house……?
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Besides, even if you had to leave school early, you could have just called me and I would have sent a car to pick you up.@
+` I don't know why you are so reserved, but you are the eldest son of the Tohno household, Nii-san.@ Please use everything at your disposal…… Besides, your body is weaker than that of a normal person."@
+`"[line=4]Ah."@
+` Oh yeah, I left school early yesterday.
+\
+`"To collapse from anemia just by getting soaked from the rain… are you not feeling well, Nii-san?@ Shall I have the family doctor examine you and send you to and from school in a car from now on?"@
+`"………"@
+` I see.@ So that was the reason I was supposedly staying at Arihiko's house.@
+`"It's nothing for you to worry about, Akiha.@ I go to the hospital once a month like I'm supposed to.@ Taking me to school by car is just going to dull my body even further.@ There's no need for you to be that sensitive about my body, though I'm glad you're worried about me."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… That's not true.@ I'm not worried about you at all, Nii-san."@
+` Akiha subtly avoids looking at me.
+\
+`"Shiki-san, it's ready!"@
+` I can hear Kohaku-san's voice from the dining room.@
+`"Right, so I'm gonna get some grub."@
+ld c,"tachi/aki_t21",crossfade,400
+`"Oh, Nii-san!@ Please refrain from talking in such an unrefined manner!"@
+` Akiha shoots me a sharp glare.@
+`"…… Ah, you're acting normally again.@ That's how you should be, Akiha.@ You don't have to worry about me, so just relax."@
+ld c,"tachi/aki_t05a",crossfade,400
+`"[line=3]You are so persistent!@ I am not worried about you, Nii-san!"@
+` Akiha quickly looks away.@
+` Looking at her with a faint smile, I go to the dining room.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_48a",lcartain,800
+ld c,"tachi/his_t01",lshutter,400
+`"Please take care."@
+` Saying the same thing as she always does, she continues to stare at me.@
+`"Shiki-sama, what happened to you last night?"@
+`"…… Nothing in particular.@ I collapsed from anemia when it started to rain on me.@ I'll be careful from now on."@
+`"I am not placing any blame on you, Shiki-sama, but you look like you are pushing yourself this morning.@ Please take care along the way."
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+` Hisui makes a deep bow and sees me off.@
+br
+` …… Oh man.@
+` I tried to act as normally as I could, and although I didn't give myself away to Akiha and Kohaku-san, it didn't seem to have worked on Hisui.@
+`"…… I wonder if Hisui is worried about me."@
+` It's hard to tell when she looks so disinterested all the time.@
+` Today might be my last day of school anyway.@
+` I'll try to spend it as I always do, so I won't have any regrets[line=4]
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_24a",lcartain,1500
+` No matter how I feel, the morning is always the same.@
+` As I approach the school, I begin to catch sight of more and more students in uniform.@
+` It's Saturday, right before the day off.@
+` My footsteps falter as I think about how this may be my last school day ever.@
+br
+` But still, as calmly as I can, I walk along the road that has become so familiar to me over the last two years.@
+` It's only a little way to the school once I pass this intersection.
+\
+` The light turns red, and I stop in front of the crosswalk.@
+br
+` The school fence is on the other side of it.@
+` Since it's a school path, the footpath is protected by a guardrail.@ Even now, the students in front of me are heading towards the school gate.@
+` There's no one but students from our school on the other side at this time of day.@
+` …… There should be no one but the students.@
+` But between the cars rushing by, I feel like I catch a glimpse of someone in white.
+\
+bg "event/ark_e02",lshutter,800
+`"[line=5]Wha……"@
+br
+` She is there.@
+br
+` Dressed in white, with golden hair down to her shoulders.@
+` Long, slender brows and red eyes.@
+` I've seen her only once before, but there's no way I could mistake her for someone else.@
+`"[line=6]"@
+` But that's impossible.@
+` I killed her myself yesterday, cutting her into pieces.
+\
+` The light turns green.@
+` The students around me walk towards the other side.@
+` I'm the only one amongst them who stands there, stunned.
+\
+` She sits on the guardrail, her legs swinging idly.@
+` As if she is waiting for someone.@
+` I can't tell how long she's been waiting, but her expression isn't a grim one.@
+br
+` [line=3]Who is she waiting for?@
+br
+` She fidgets restlessly, as if she were waiting for her lover.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]I have a bad feeling about this.
+\
+`"Ah[line=5]"@
+` The girl in white looks over in my direction.@
+` It's probably nothing more than a coincidence.@
+br
+` She's just a stranger who looks like her.@ She must be waiting for someone else.@
+` If not, then this moment must surely be a bad dream, too.@
+` After all, I have completely and utterly killed her with my own hands[line=4]
+\
+` But she's looking this way and smiling.@
+` Looking very satisfied at having found the person who killed her, her smile seems to say, "you've finally come[line=4]"
+\
+bg "bg/bg_24a",lshutter,800
+` Giving a familiar wave and a smile, she hops off the guardrail.@
+` Fluttering her hair, she heads towards me.@
+`"[line=7]Don't come."@
+` This… is a bad dream.@
+` The light turns red.
+\
+`"[line=7]Don't come near me."@
+` She doesn't even look like she cares, walking straight across the street while the cars pass by.@
+br
+` There's only a few meters between us.
+\
+`"…… I'm telling you not to come[line=4]!!!"@
+` The reality before my eyes does not change even when I scream out.@
+` Screaming in a voice even I don't understand, I run from the girl in white.
+\
+bg "bg/bg_23a",lcartain,800
+waveloop se_02
+` I run.@
+` I run with all my strength.@
+` With no regard to embarrassment or shame, I blast through the passersby, running full speed across the asphalt.@
+bg #ffffff,crossfade,400
+br
+` *huff* *huff* *huff* *huff*@
+br
+` My breathing is wild, and my heart screams out.@
+` But still, I run.@
+` I feel like I'm going to go crazy if I don't.
+\
+` I look behind me.@
+` The girl in white is walking towards me.@
+` She's definitely following me.@
+` The girl I've killed is chasing me.@
+` That's more than enough reason for me to run.
+\
+bg "bg/bg_25a",lcartain,800
+` *huff* *huff* *huff* *huff*@
+br
+` My heart feels like it's about to explode, but I ignore it and keep running.@
+` When I look back, the girl is still there.@
+` With those light footsteps, she follows me as I run away.@
+br
+` *huff* *huff* *huff* *huff*@
+br
+` My head droops down.@
+` My arms feel heavy.@
+` My legs feel like they're going to tear off.@
+` But despite that,
+` I'm running with all my strength, and yet, I can't get away from someone just walking after me[line=2]!
+\
+bg #000000,lcartain,800
+bg "bg/bg_30a",lcartain,800
+` *huff* *huff* *huff* *huff*@
+br
+` My breathing is out of control.@
+` I think I've already run several kilometers.@
+` But even so, when I look back, she's always there, walking towards me.
+\
+` Naturally, like she's taking a stroll, she follows right behind me.@
+` *huff* *huff* "…… Haha, hahaha!"@
+br
+` It's not funny, but I begin to laugh.@
+br
+`"Haha, hahaha, ahahahahahaha!"@
+br
+` I can't stop laughing.@
+` But even so, I run.@ My body complains that I'll die if I run any more, but I keep running.@
+` The reason is simple.@
+` If she catches me, she'll kill me for sure.@
+` I ask myself what I base that on, trying to shake it off as mere imagination.@ But even as I try to console myself, I am the one who knows best it's true.@
+br
+` There's no reason, no basis, no evidence.@
+` I already know that if she catches up to me, I will be killed[line=5]
+\
+bg "bg/bg_31a",lcartain,800
+wave se_05
+quakey 3,100
+`"Ah!@[line=3]"@
+` Pathetically, I collapse to the ground.@
+` I fall forwards, not because I tripped, but because I simply can't move my body a single step further.@
+`"Guh[line=3]ha, aah."@
+` Lying there, collapsed, I somehow manage to crawl my way to the wall.
+\
+`"[line=4]"@
+` I try to pull myself up against the wall, but it's no good.@
+` My knees lose their strength as I try to rise, and I collapse back down.@
+` My body won't move anymore.@
+br
+` *pant* *pant* *pant*@
+br
+` I look up as I breathe.
+\
+` [line=4]It hurts.@
+` I don't have enough oxygen.@
+` I can't think properly because of it.@
+` I can't even tell what I'm doing anymore.@
+` I don't know why I'm doing this.
+\
+` Why?@ Why?@ I don't even know why the girl I've killed is alive.@
+` Unmistakably, I've utterly and completely killed her in the most final way imaginable.@
+` So why?@
+` How can she be waiting for me in front of my school, smiling[line=3]?
+\
+`"…… I'm sure I killed her."@
+br
+` [line=3]That's right.@
+` I'm sure I killed her.@
+!w500
+` I'm sure I killed her.@
+!w500
+` I'm sure I killed her.@
+!w500
+` I'M SURE I KILLED HER, SO
+!w500
+br
+` Why why why why why why why why why why why why why why why why why why why why why why why why why why why why[line=6]!?
+\
+ld c,"tachi/ark_t03",lshutter,400
+wavestop
+`"Oh?@ Is the chase over already?"@
+` With light footsteps, she comes into the alley, shrugging her shoulders in disappointment.
+\
+`"Hello.@ You really gave me some trouble yesterday."@
+ld c,"tachi/ark_t01a",crossfade,400
+play "*9"
+` With a warm smile, she comes into the alley.@
+` [line=4]I've got to run away.@
+br
+` So thinking, I retreat, only to hit my head against a concrete wall.@
+br
+`"The chase is already over, right?@ This is a dead end, after all.@ There's no need to worry about anyone coming along or interfering."@
+` She smiles, looking very happy.
+\
+cl c,crossfade,400
+` Panicking, I look around at my surroundings.@
+` A desolate alley.@ I'm disgusted at how stupid I am.@
+` To run away here is like asking her to kill me.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"It's been a long time.@ Eighteen hours since then, I finally found you."@
+` She takes another step into the alley.@
+br
+`"Y-you[line=4]!"@
+`"What?"@
+`"I definitely[line=4]"@
+`"Yes.@ I'm the girl you killed yesterday.@ I'm glad you remember."@
+`"Th[line=3]"@
+` That's got to be a lie.@ There's no way that can happen…!
+\
+`"Don't be ridiculous!@ Dead people can't be alive!"@
+`"That's true, but there's no need for you to be so surprised.@ I just revived, that's all."@
+` With that curt response, she takes another step, the sound of it reaching my ears.@
+br
+` The distance between us is gradually decreasing.
+\
+`"…… Re… vived?"@
+` Stunned, I repeat her phrase back to her.@
+` Revived… you mean some doctor saved her with some surgery…?@
+`"[line=3]Don't be stupid!@ There's no way any human could revive from being cut apart like that[line=3]!"
+\
+`"Yeah.@ Then again, I'm not human."@
+`"[line=5]Huh?"@
+` Her words are so simple there's no way I could have misinterpreted them.@
+br
+` I'm not human.@
+br
+` That's what the girl in front of me said.
+\
+`"…… You're not human…?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Geez, isn't that obvious?@ Do you think there's a human being out there who can revive after being cut up into pieces?"@
+cl c,crossfade,400
+`"[line=7]"@
+` There's no way a human like that could exist.@
+` Something like that is just a monster who looks human.@
+br
+` Something that revives even when killed.@
+` Something that death is irrelevant to.@
+` Something that quickly returns to normal and starts moving even after being cut to pieces isn't something you can call human.
+\
+`"No… way."@
+` That seems to be the girl right before my eyes.@
+` I try to laugh, but my throat is so dry, I can't.
+\
+`"…… What the hell is that?"@
+` It's not exactly a funny story.@
+` Besides, there's too many things in this story that aren't funny.@
+` Because definitely…
+` If she's not human, it explains why she's alive even after I've killed her.@
+br
+` [line=3]I start to calm down.@
+br
+` This is a situation where I've got to observe everything and think it over.
+\
+`"…… You said you're not human.@ So what are you?"@
+`"Me?@ I'm called a vampire.@ To put it in your terms, I'm a monster who lives off human blood."@
+ld c,"tachi/ark_t01a",crossfade,400
+` …… That's good.@
+`"Vampire" is at least something I can easily understand.
+\
+`"I see.@ You're a vampire[line=3]"@
+` She smiles in satisfaction to indicate her assent.@
+` …… What a crazy reply.@
+` I've heard that vampires can't walk around during daytime, but I guess that's a trivial matter right now.@
+`"…… So, what does this monster want from me?"@
+` For some reason, she recoils as if surprised.@
+ld c,"tachi/ark_t12",crossfade,400
+` After a moment, she puts her hands on her hips and looks at me, irritated.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Have you forgotten what you did to me yesterday?@ Even though you didn't know me, you cut me apart the moment we met.@ You've got to be pretty used to this to ask me what I want with you now."@
+` She looks more disgusted than angry.@
+` But right now, that's how I feel, too.@
+` Because someone I've killed is complaining to me about me killing her.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Hey!@ Are you listening, murderer?"@
+`"…… Yeah, I'm listening.@ Sorry, could you shut up for just a minute?@ I'm reflecting on how unlucky this is, even for me."@
+cl c,crossfade,400
+br
+` [line=3]Sheesh.@ I have the worst luck.@
+` There was a girl I wanted to kill for no reason, and I killed her on pure impulse.@
+br
+` I agonized over it in deep despair… and even though I firmly decided to atone for my sins, the one I killed appears out of nowhere and says she isn't even human.
+\

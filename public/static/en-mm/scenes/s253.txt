@@ -1,0 +1,609 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+!w1000
+bg "bg/bg_34b",crossfade,1500
+play "*3"
+` [line=3]Dinner is over, and it is now nighttime.@
+` A rare event, Akiha, Kohaku-san, and Hisui are all in the sitting room, so I join them for some after-meal tea.
+\
+ld l,"tachi/koha_t03",lshutter,400
+`"Is that so?@ I like the second one rather than the first one.@ I think the taste is more refined."@
+ld r,"tachi/aki_t04b",lshutter,400
+`"It's a difficult choice.@ The difference in taste is great, but everyone handles the different concentrations in varied ways.@ But, Kohaku, you like Japanese tea better, right?@ I think Hisui prefers English tea."
+\
+ld l,"tachi/koha_t01a",crossfade,400
+`"Hisui-chan does not mind blands that much.@ She may look sensitive, but Hisui-chan is[line=3]"@
+cl r,crossfade,400
+ld r,"tachi/his_t01",lshutter,400
+`"Nee-san."@
+ld l,"tachi/koha_t02",crossfade,400
+`"[line=3]sensitive like she looks.@ See, there isn't anything she can't do like cleaning or sewing, Shiki-san."@
+` Kohaku-san suddenly engages me in conversation.@
+ld r,"tachi/his_t08",crossfade,400
+` Hisui's glance seems… somewhat scary too.
+\
+cl r,crossfade,400
+`"…… Why are you suddenly telling me that, Kohaku-san?"@
+ld l,"tachi/koha_t05",crossfade,400
+`"Because Hisui-chan is your servant.@ You surely know about her sensitiveness, right?"@
+`"Um, well[line=3]"@
+` I quickly look over at Hisui.@
+ld r,"tachi/his_t08",crossfade,400
+`"……………………"@
+` …… Hisui stands there quietly with something like an air of attack around her.
+\
+`"[line=3]No, I don't think she's that sensitive.@ She takes care of things quickly even when I mess something up, and she doesn't get angry like someone else when I come home late."@
+ld r,"tachi/his_t04",crossfade,400
+cl l,crossfade,400
+ld l,"tachi/aki_t18b",crossfade,400
+`"Nii-san, don't you know it is perfectly natural for someone who breaks curfew to be scolded?"@
+`"…… I know, but isn't eight o'clock a bit too early?@ I'm not a little kid, so let's make it like ten o'clock from now on."@
+ld l,"tachi/aki_t02b",crossfade,400
+`"I refuse.@ You don't have any reason to stay out that late anyway.@ It's not like you have a cram school or a club to attend."
+\
+cl a,crossfade,400
+`"……………… Hmph."@
+` I can't really rebut her when she brings that up.@
+` Someone free like me coming home late means that I'm out playing around.@
+ld c,"tachi/koha_t02",crossfade,400
+`"Shiki-san, it is as Akiha-sama says.@ It's dangerous out there recently, so please don't go out at night, okay?"@
+`"[line=3]Dangerous, you mean those serial killings?"@
+` "Yes," Kohaku-san nods.@
+` …… It almost makes me laugh.@
+` The one doing that, Nrvnqsr, is no more.@
+` But the only ones who know that are me and Arcueid, and other people are still frightened about the shadows of the dead killer.
+\
+`"This morning they found another victim in the shopping district.@ That's the eleventh victim you know, the eleventh victim."@
+`"…… Wow, eleventh?@ That's amazing, that's a baseball te[line=4]"@
+br
+` [line=5]Wait a minute.@
+br
+`"Kohaku-san!"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Yes?"@
+`"What you just said, is that true!?"
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Yeah, it's true.@ It was in this morning's news.@ It seems like it happened last night, but just like all the others, all the blood was drained completely."@
+cl a,crossfade,400
+br
+`"Wha[line=6]"@
+br
+` That's, weird.@
+` Because Nrvnqsr is dead.@
+` How can someone who died two days ago kill someone the day after?
+\
+`"No way[line=3]"@
+` Did he not die?@ …… No, that's definitely not it.@ He definitely died.@
+` So, how come[line=3]
+bg "event/ark_e01",crossfade,800
+bg "bg/bg_34b",crossfade,800
+`"[line=5]"@
+` Then maybe.@
+` If the vampire roaming the streets disappeared, but these incidents are still happening…
+` Then, the only vampire left in this city is her[line=3]
+\
+playstop
+bg #000000,crossfade,1500
+bg "bg/bg_40c",crossfade,1500
+ld c,"tachi/his_t01",lshutter,400
+`"Good night, Shiki-sama."@
+`"…… Yeah, good night, Hisui."@
+cl a,lshutter,400
+` The door shuts softly and I'm left in the room alone.
+\
+`"………………"@
+` Another victim appeared.@
+` Another victim, killed by a vampire.@
+`"It can't be…… Arcueid, right?"@
+` She said she doesn't suck blood, and more than that[line=3]I don't think anyone who acts that human could do that.@
+` I only spent two days with her, but I can't believe she would do anything bad.@
+` With her prettiness, her great smiling face, she can't suck someone's blood and discard them on the street.
+\
+`"[line=6]But…"@
+` But, there's been another dead body found.@
+bg "event/ark_e01",crossfade,800
+bg "bg/bg_40c",crossfade,800
+`"…… I should just meet her once more and ask her about it."
+\
+bg #000000,crossfade,1500
+` Saying that aloud, I quickly act on it.@
+` I take the knife I used to fight Nrvnqsr and sneak quietly out of the mansion.@
+` Going out into the street, I start to search for Arcueid.
+\
+!w1000
+bg "bg/bg_27b",lcartain,800
+` My lungs feel like they're going to burst.@
+` I stop running and catch my breath.@
+` My body which was running non-stop until now wheezes to try to suck in more oxygen.@
+` My panting fills the air.@
+` …… This is no good, I can't find her.
+\
+` I ran down the street and to her place, but I still couldn't find her.
+\
+`"…… That Arcueid…… She's always around when you don't need her, but when you try to find her……!"@
+` I speak those words selfishly.@
+` It's been four hours.@ It's almost midnight, but I still don't see Arcueid anywhere.@
+br
+` …… For some reason.@
+` For some reason, I thought optimistically that I'd find her easily once I started looking for her.@
+` I want to see her, and when we last parted, she said "See you later."
+\
+`"Shit…… Where did you go, Arcueid……!"@
+` For some reason, I'm getting very annoyed.@
+` I keep thinking I'll see her soon but I don't.@ This is killing me.
+\
+`"…… I…… thought…… we'd see each other again………"@
+` [line=3]?@
+` What is that?@
+` It's like…… I'm in love with her.
+\
+`"[line=3]But that[line=3]"@
+bg "event/ark_e06b",crossfade,400
+bg "bg/bg_27b",crossfade,400
+`"[line=3]That's stupid."@
+` Forcing a grim smile, I shake that thought from my mind.@
+`"…… I'll check out the park, and if I don't see her there, I'll go back."@
+` Taking a deep breath, I walk to the park.@
+br
+` Two nights ago.@
+` That park where so much happened, the park where I parted with Arcueid.
+\
+bg #000000,crossfade,1500
+monocro #0000ff
+bg "bg/bg_28b",crossfade,1500
+play "*6"
+`"[line=3]Hm?"@
+` There's something different about the park.@
+`"……… The lamp posts are off."@
+` The lamp posts throughout the park are all turned off.@
+` The moonlit park seems more solitary than usual.@
+`"Hmm…… is it a power outage?"@
+` I look around me.@
+` …… Outside the park, the lights are all working.@
+` The only lamps not working are within the park itself.
+\
+br
+br
+wave se_12
+`     [line=5]Clang[line=5]
+br
+br
+`"Eh[line=4]What was that just now?"@
+` I can hear something.@
+` The clamor sounds like it's coming from a fight.
+\
+!w2000
+`"[line=5]"@
+` I'm curious.@
+` There's no basis for this, but this late at night, if there's any sort of trouble going on, I think it has to involve her.
+\
+`"……… Alright."@
+` Trying as hard as I can to be silent, I head towards the source of the sound.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+`"[line=4]!"@
+` I can see two figures facing off.@
+` Someone is wearing dark black garments and I can't tell who it is.@ But I can easily tell the other one.@
+` White garments, and golden hair that can be easily spotted even in just the moonlight.
+\
+`"…… Arcueid……!"@
+` Arcueid is being attacked by this black human shape.
+\
+br
+` That black human shadow is carrying something like a sword, and it isn't something like a simple fight.@
+br
+` Sword in hand, it jumps towards Arcueid.@
+` Arcueid deflects the blade coming in towards her chest with her hand and lightly contacts the chest of that black shape.@
+br
+` In the next instant,
+` that sword-wielding shape flies through the air like a soccer ball.
+\
+br
+` Th-thump, roll, roll, roll.@
+br
+` Falling down on the brick pathway in the park, it keeps rolling as if easing the fall.@
+` No, to be more accurate,
+` it rolls right toward me.
+\
+`"……?"@
+` It's dark and I can't tell, but in front of me the shape stops rolling and regains its feet.@
+`"Ku[line=5]!"@
+` A sharp, cut-off voice.@
+`"Haa…… ah."@
+` Fascinated by this display, I let out a breath of admiration.
+\
+` Suddenly,
+` the sword-carrying figure ceases all movement.@
+`"I'm seen[line=4]!?"@
+` The figure finally seems to realize I'm here.@
+` And then[line=3]it leaps towards me with sword in hand.
+\
+`"[line=4]Eh?"@
+` The cutting blade of the sword rapidly arcs towards my throat.@
+` This speed.@ This flying speed, this accuracy, surpasses that of Nrvnqsr's beasts.@
+` The shadow's movement is as fast as Arcueid's when she was tearing apart Nrvnqsr's beasts.@
+br
+` The sword pokes lightly at my neck.
+\
+bg #9c0120,crossfade,400
+br
+br
+` [line=4]Thump.@
+br
+` My heart accelerates to a feverish pitch.@
+` I don't even have time to think of the danger or to evade; my thoughts are filled only with death.@
+br
+` The sword doesn't pierce my throat, but stops suddenly.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_29b",crossfade,1500
+ld c,"tachi/cel_t07b",crossfade,800
+`"Tohno…… kun[line=3]?"@
+`"[line=6]Sen, pai."@
+` Our voices overlap.@
+` Both of our voices are drowned in disbelief[line=3]Ciel-senpai and I stare at each other in amazed shock.
+\
+`"Shiki, get away from her!"@
+` Arcueid's voice calls from far away.@
+ld c,"tachi/cel_t06b",crossfade,400
+`"[line=7]"@
+` Arcueid dashes towards us.@
+` Senpai glares at me with eyes that seem to belong to another person[line=3]
+cl a,crossfade,1500
+playstop
+br
+` [line=3]Like that, she turns around and runs off.
+\
+`"Wh…… why?"@
+` Senpai is completely gone.@
+` That black figure, Senpai wearing those dark clothes.@ …… That person who saved me two days ago when I was nearly killed by Nrvnqsr's crows.@
+` But[line=3]Senpai, she said that wasn't her, so why[line=3]
+br
+ld c,"tachi/ark_t06",crossfade,800
+`"Shiki[line=3]!"@
+` …… I suddenly realize Arcueid is in front of me.
+\
+`"A[line=2]Ar, cueid[line=2]"@
+ld c,"tachi/ark_t07",crossfade,400
+`"Are you alright!?@ Did she do anything to you?"@
+` Just like Senpai before, she looks at me intensely.@
+` But that doesn't matter.@
+br
+`"Did she do anything to me……?"@
+` I touch my neck that had a sword on it until now.@
+` There's a light, sharp pain.@
+` The finger that touched my neck is faintly painted red.@
+` Senpai's sword has cut my throat only a few millimeters deep.
+\
+`"…… What is, going on?@ Why would, Senpai attack me?"@
+` Why[line=3]really, why would she glare at me like that?@
+ld c,"tachi/ark_t06",crossfade,400
+`"Isn't it obvious?@ You saw us trying to kill each other.@ She is someone who operates in complete secrecy, so she hates for an ordinary person like you to see what was happening."@
+` Arcueid says that unbelievable statement.@
+`"[line=3]Kill each other…… why?@
+` How come[line=3]why would you and Senpai do something like that?"@
+` Lost in pure shock, I can only manage those words.
+\
+cl a,crossfade,400
+` In the first place, I didn't come here to ask that.@ I wanted to ask her[line=3]Arcueid about something, which is why I was out here in the first place.
+\
+`"…… I don't know.@ I only came to see you, so why[line=3]why are you and Senpai trying to kill each other?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Eh?@ Shiki, you came to see me?"@
+`"[line=3]Yes.@ I had something I wanted to talk about, so I was just looking for you[line=3]so why did it end up this way?@
+` …… I don't know.@ My head is just spinning.@ Please[line=3]could you tell me what's going on, Arcueid?"
+\
+`"Well, I was just simply fighting with that person from The Church.@ It isn't something that concerns you, so just forget about it Shiki."@
+`"[line=4]It does concern me.@ But first, what do you mean by 'The Church'?@ Explain it so I can understand."@
+cl a,crossfade,400
+` Arcueid doesn't answer.@
+` She mulls it over until she nods.@ "Sure, why not?"
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Since you're that worried, I'll tell you.@ It really doesn't concern you though, do you really want to hear it?"@
+`"Yeah.@ No matter what it is, I won't mind."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Oh?@ How enthusiastic.@ I'm actually a little curious about why you came to see me though."@
+`"…… Come on, please hurry.@ I want to hear about that person."@
+ld c,"tachi/ark_t04",crossfade,400
+` "Hmph," Arcueid looks a little angry.@
+` I don't even think about why she would look like that all of a sudden.
+\
+br
+` …… My throat still hurts.@
+` Senpai[line=3]Ciel-senpai pointed a sword at me.@
+` All I can think about is why Ciel-senpai would do that.
+\
+ld c,"tachi/ark_t02",crossfade,400
+play "*1"
+`"…… Fine, then I'll tell you.@
+` The Dead Apostles are vampires that try the utmost to conceal their existence.@
+` In order to live, they must suck the blood of humans, so victims will always appear as long as they exist.@ But there's not too many stories of people being killed by vampires, right?@
+` Do you know why that is?"@
+`"…… Arcueid.@ I didn't ask about vampires."
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Sheesh, I'm trying to explain it to you in order Shiki, so please answer, okay?@
+` Look, even when the vampires kill people, they try to hide it from the surrounding[line=2]society that people like you live in.@ They seek to hide themselves and try as much as possible using magic and other things to camouflage their victims and make it appear natural.@
+` Do you know why?"
+\
+`"…… Well, it's because humans aren't stupid.@ If they find out monsters like that exist where they live, they'd attack them.@
+` Even though humans are weak, they do have things like police.@ If there are such thing as vampires, an effort would be made to protect people from them.@ …… Then people would stop walking around at night like what's going on right now.@ I think they try to hide themselves because that's inconvenient for them."@
+ld c,"tachi/ark_t02",crossfade,400
+`"[line=3]Well, I guess that's true, but police are only a law-enforcing group against humans.@ We don't consider them at all.@
+` But, it's correct to say that vampires hide their presence for the sake of self-preservation."
+\
+`"Shiki, there is a natural enemy of the vampires.@ A group of something like professional killers that now have the power balance in their favor.@
+` …… It's true for other transcendent species, but especially for vampires, it is fatal for them to reveal themselves.@
+` Even if a vampire made a secret kingdom in a village somewhere in the mountains away from all civilization, this natural enemy would definitely notice if victims keep increasing.
+\
+` Vampires exploit the humans in secret, for no reason other than self-preservation.@ The vampires hide their dead victim's bodies, not out of fear of human society finding out, but in fear of these natural enemies discovering them."
+\
+`"…… Their…… natural enemy?"@
+` She means someone that fights against vampires.@
+` …… Like Senpai, who was wielding a sword against Arcueid.
+\
+`"…… So, they aren't human either?"@
+ld c,"tachi/ark_t04",crossfade,400
+`"What are you saying?@ Their natural enemy is without a doubt you humans."@
+`"[line=5]?@ Natural enemies, us?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Yeah.@ Starting from a long time ago, humans used many kinds of magic, the occult, magical ceremonies to create an organization and started to eliminate primates other than humans.@
+` The greatest of these is Christianity[line=3]the pride of the Vatican, the Exorcists.@ The Catholic Church always viewed "nonhumans" as impurities, but vampires are considered the most dangerous."
+\
+` "There are many religious groups in the world, but the Catholic Church looks at vampires with more hostility than the rest.@
+` You know, it's almost an obsession.@ They are so insane, I don't even want to mess with them."@
+` Arcueid lets out a sigh.@
+ld c,"tachi/ark_t06",crossfade,400
+`"You should know what I'm getting at by now.@
+` The one who tried to kill you was a member of an elite organization that hunts heretics.
+\
+` This group, the Burial Agency, is part of The Church.@ They use their own strength rather than law to deal with contradictions to Christianity.@ These hidden exorcists are more like professional killers.@
+` Being the ones which crush contradictions, their existence is a shadow, and so they do not come out in front of people.@ They are a section that should not exist within the organization called Christianity, so they kill all those that discover their existence indiscriminately."
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"That woman[line=3]it seems she is now called Ciel, probably came here to hunt down the vampire in this city.@ Her sense for the 'enemy' is far better than mine."@
+` She says this in an irritated manner.
+\
+cl a,crossfade,400
+`"………"@
+` I don't have any words to say.@
+` Senpai[line=3]is some sort of an exorcist who's hunting vampires[line=3]I just can't believe that at all.
+\
+bg #000000,crossfade,400
+monocro off
+bg "event/cel_e01",crossfade,1500
+br
+` Because Senpai has such a gentle, good nature,
+br
+bg #000000,crossfade,400
+bg "event/cel_e02a",crossfade,1500
+` she can't kill[line=3]she's not someone that can handle such things, unlike me.
+\
+bg #000000,crossfade,1500
+monocro #0000ff
+bg "bg/bg_29b",crossfade,400
+`"[line=3]That's a lie.@ That's a lie, Arcueid.@ Because Senpai's an upperclassman at my school.@ So why would you say she's some member of The Church……!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Hey now.@ Shiki, you know her?"@
+` Arcueid draws near as if telling me she won't allow that.@
+cl c,lshutter,800
+`"Of course!@ She's a third year at my school, I've known her since I was a first year[line=2]"@
+br
+` [line=4]Since I was, a first year?
+\
+bg #000000,crossfade,400
+`"[line=3]Hu[line=2]h?"@
+` …… Something's wrong.@
+` Come to think of it, how long have I known her?@
+` I don't even know which class she is in.@
+` I try and remember[line=3]but I don't have any memories of her before that day when I found her mending those splints.
+\
+monocro #ffff00
+bg "event/cel_e01",crossfade,1500
+br
+` [line=3]Thank you very much, Tohno-kun.@
+br
+` Because she smiled as she said it.@
+` For some reason, I felt like I had always known her.@
+`"[line=3]This can't[line=4]be true."
+\
+bg #000000,crossfade,400
+` First of all, the strangest thing is that…@
+` Senpai was called "Ciel" like it was natural to be called so, but no one calls her with a different name.@
+` She was only called Ciel,
+` how come no one doubted such a name[line=3]?
+\
+monocro #0000ff
+bg "bg/bg_29b",crossfade,400
+`"Arcueid[line=3]about Senpai…… about that person, who is she……"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Didn't I tell you?@ She's a member of the Burial Agency.@ She is a newcomer who entered only eight years ago, but maybe she has great abilities.@ She's an agent already having a seat in the perfect number, the Seventh."@
+cl a,crossfade,400
+`"[line=4]"@
+` I don't quite get what Arcueid is saying.@
+br
+` But, the number seven certainly is a perfect number.
+\
+bg "bg/cmo_09",crossfade,1500
+monocro #00ffff
+` A number isolated from the others.@
+` In its solitude, it has nowhere to go.@
+` Isolation, isolation.@ Since it is perfect, the Apocrypha named with that number refuses reincarnation.@
+br
+` …… I don't quite get it, but,
+` for some reason, those words repeat inside my head.
+\
+bg "bg/bg_29b",crossfade,800
+monocro #0000ff
+ld c,"tachi/ark_t06",crossfade,400
+`"…… That's right, the members of the Burial Agency are highly skilled, so I guess it's easy for them to use suggestion against someone who can't even resist.@
+` That woman probably was deceiving you all in order to stay in your high school."@
+`"…… Suggestion…… like hypnosis?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Yes, it can't be a very complex order.@ She probably used something simple like 'Don't doubt Ciel'."
+\
+` …… Yeah, that's it.@
+` I always felt something was wrong from the beginning, but as soon as I would see her again, those doubts would disappear.@
+` Feeling it is natural for her to be there,
+` wasn't that one of Senpai's characteristics?
+\
+`"…… I understand, but there's still something else.@
+` You said Senpai is a member of that Burial Agency, so why is she fighting you?@ They only fight bad vampires, right?@ So[line=3]there isn't any need for you two to fight, right?"@
+br
+` [line=3]They only fight… bad… vampires.@
+br
+` Such as, those that suck the blood of humans and cast their bodies away.
+\
+`"…… Arcueid, you[line=3]"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hm?@ What, did I do something?"@
+` Arcueid looks directly at me.@
+` …… I can't think it.@
+` I don't want to think that this person, would ever suck human blood.@
+` But the truth is, the incidents are still occurring.@
+` Furthermore, Senpai, an exorcist from The Church, is trying to kill Arcueid.
+\
+`"[line=3]Arcueid.@
+` Don't tell me the killing yesterday was your doing?@ That's why you and Senpai were fighting[line=3]"@
+` I grit my teeth.@
+` I speak those heavy, painful words as if confessing love toward a girl I like.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki, are you serious?"@
+`"Even I don't want to believe it.@ But then, who did it?@ Nrvnqsr is dead already.@
+` So…… that leaves, um, only…… you, right?"@
+cl a,crossfade,400
+` …… I'm filled with regret as soon as I say those words.@
+` I still like her.@
+` She saved my life, and those two days were still a lot of fun.@
+` So[line=3]I don't want to separate with her like this.@
+` But, if she is the killer vampire, I[line=4]
+\
+br
+br
+br
+br
+br
+br
+` [line=6]And then,
+quakey 1,100
+br
+` Smack.@ My head is hit with a fist.
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"Shiki, you idiot."@
+`"Eh…… Arcueid……?"@
+`"I wouldn't normally let it be settled with just this, but since you look so pitiful, I'll let that be enough."@
+` Smiling, Arcueid hops back.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Shiki, you're a great person."@
+`"Wha[line=4]"@
+` Having her say that so suddenly makes my cheeks flush.@
+ld c,"tachi/ark_t08",crossfade,400
+`"And in addition, you're so honest.@ I like those things about you."@
+` Arcueid smiles happily.@
+` Seeing her like that[line=3]I can't imagine her sucking on someone's blood.
+\
+`"Arcueid, so[line=3]"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Yes.@ I'm not the killer.@ It's the work of some other vampire and not me."@
+`"[line=8]"@
+` The knot in my chest disappears.@
+` I see[line=3]I knew it, Arcueid didn't do those things.@
+br
+`"I see[line=3]it's the work of another vampire.@
+br
+` That's a relief…… Wait, that's weird.
+\
+`"Hold on Arcueid.@ You said it's another vampire, but isn't it odd for vampires to come out one after another?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"What are you saying?@ There aren't any new vampires."@
+`"[line=3]Wha… But Nrvnqsr isn't alive anymore.@ There isn't anyone else that does something like that."@
+`"…… Oh, I see.@ Shiki, you really made a big mistake."@
+` Arcueid gives an amazed sigh.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"You see?@ The serial killings you're talking about were always the work of just one vampire from the very beginning.@
+` So no new vampires will appear, as Nrvnqsr was unrelated to those incidents."@
+br
+` [line=4]Eh?@
+` Nrvnqsr is unrelated……?@
+br
+`"Wha[line=3]what do you mean?"@
+`"It's just like I said.@ …… You're normally pretty sharp, but you're lost at some points.@
+` Think back, Shiki.@ Nrvnqsr was a vampire, but did he ever suck human blood?"
+\
+`"Suck blood?@ He ate humans and[line=3]oh."
+\
+` I see.@
+` Why didn't I notice such a simple mistake?@
+` The victims of the serial killings are found with their bodies drained of blood.@
+` But Nrvnqsr was different.@
+` He didn't leave any dead bodies behind.@ He not only drank the blood, but also ate the meat, leaving no trace.@
+` To prove it, the people eaten by him in the hotel were treated as missing people, not killed people.@
+` So[line=3]that means, it is something completely different.
+\
+`"Wait.@ Then what is the serial killing going on right now?@ Just who is doing it?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"That's a different vampire than Nrvnqsr.@ To be more specific, that vampire is why I came here, and Nrvnqsr came here following me.@ It's that sort of correlation."@
+`"[line=3]Wha… So the one you're after wasn't Nrvnqsr after all……!?"
+\
+`"Yes, I didn't ever say he was my initial target.@ I was his target, but he was never my target; my target is the one called the 'serial killer' in this city."@
+`"Wha[line=5]"@
+` I gasp in shock.@
+` But[line=3]it really is just as she says.@
+` She said her purpose is to kill vampires, so I just thought it was Nrvnqsr she was after[line=4]
+\
+`"…… So what is it?@ Killing Nrvnqsr that night, was pointless………!?"@
+`"It wasn't pointless, you fought in my place.@ Well, if you didn't kill me, you probably wouldn't have had to in the first place."@
+`"[line=6]"@
+` I feel a little dizzy.
+\
+`"…… In other words, those vampire killings had nothing at all to do with Nrvnqsr and it was the work of another vampire……?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Yeah, that's right.@ But, that's my problem so you don't have to worry about it.@ But more than that, hey."
+\
+ld c,"tachi/ark_t08",crossfade,400
+playstop
+` With an extremely happy smile, Arcueid looks up at me as I still stand there in surprise.
+\
+play "*3"
+`"How was last night?@ Who came?"
+\
+`"Huh?"@
+` What does she mean by last night?@
+` I don't understand what she's talking about.@
+` After all, I'm the idiot who mistook Arcueid's words and made such a stupid mistake, so of course I don't understand what she is saying, and[line=3]huh?@
+br
+` Did Arcueid ask me who came last night[line=3]?
+\
+`"…… Arcueid.@ What do you mean by 'last night'?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hm?@ That's strange, I know I sent you a dream familiar."@
+`"Wait, what's that dream familiar thing?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Um, it's like a familiar that lets you see a dream about what you desire the most.@ You're a male, so I sent you a succubus.@ Wasn't it a good dream?"@
+br
+`"I[line=5]"@
+br
+` A good dream?@ That was…
+\
+` I remember the realistic dream I had and my face turns red.@
+br
+`"You, that was your doing[line=3]!"@
+ld c,"tachi/ark_t09",crossfade,400
+` Arcueid grins even more.@
+` [line=3]Crap.@
+` If I stayed quiet this conversation would have been over, but since I reacted so strongly[line=3]
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah, so you did get it.@ So, what kind of dream was it?@ The dream familiar was supposed to take the shape of your greatest desire, so it felt really good, right?"@
+cl c,crossfade,400
+`"What kind of dream?@ That's[line=3]"
+\

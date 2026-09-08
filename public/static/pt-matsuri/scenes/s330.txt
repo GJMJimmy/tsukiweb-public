@@ -1,0 +1,96 @@
+play "*3"
+wavestop
+bg "bg/bg_06b",notrans,0
+` …… O que aconteceu durante o intervalo do almoço permanece na minha cabeça.@
+` Tenho certeza de que ela consegue voltar para casa sozinha, mas sinto uma certa obrigação de ir até lá ver como estão as coisas.
+\
+bg "bg/bg_11b",lshutter,800
+` Eu caminho pelo corredor iluminado pelo pôr do sol.@
+` Acho que a Akiha está na classe um do primeiro ano.@
+br
+bg #000000,lshutter,400
+bg "bg/bg_06b",lshutter,400
+` A sala está em total silêncio.@
+` Há uma garota sozinha na sala vazia.
+\
+playstop
+monocro #ff0000
+ld c,"tachi/aki_t01a",crossfade,400
+`"……"@
+` …… Estou… Um pouco tonto.@
+` Uma sala tingida pelo brilho do entardecer.@
+` Sozinha, a garota de cabelos longos e vermelhos se prepara pra sair.@
+br
+` Não importa de qual ângulo eu a olhe, ela é a Akiha.@
+` Então, por que será?@ Por que tenho a sensação de que estou vendo uma pessoa que nunca vi antes na vida?
+\
+bg "bg/bg_06b",crossfade,800
+monocro off
+play "*3"
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san?"@
+`"[line=6]"@
+` Quando ela chama o meu nome a tonteira vai diminuindo.@
+`"Você é[line=3]a Akiha, né?"@
+ld c,"tachi/aki_t04a",crossfade,400
+`"…?@ Nii-san, por acaso está se sentindo mal outra vez?"@
+` Ela se dirige a mim do mesmo jeito de sempre.@
+` …… Olho para os seus cabelos negros e não me resta mais dúvidas de que esta pessoa é a minha irmã mais nova, a Tohno Akiha.
+\
+`"…… Ah, não, não estou passando mal.@ Vamos embora.@ Se não tiver mais nada para fazer, quer ir embora comigo?"@
+ld c,"tachi/aki_t09",crossfade,400
+`"Não tenho… Se não se importar, vamos embora juntos sim."@
+` A Akiha demonstra uma certa ternura no seu sorriso.@
+` …… E o meu coração bate mais forte.@
+` Talvez seja culpa da tontura de agora há pouco, ou talvez seja pelo estranho fato de ver a Akiha na minha escola.@
+` Não tenho certeza de qual o motivo, mas o meu coração bate muito mais forte do que precisa bater.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01b",lcartain,800
+` Saímos do prédio da escola.@
+` Quando chegamos no portão vejo a Senpai acenando para mim.@
+ld c,"tachi/cel_t03",lshutter,800
+`"Finalmente chegou, Tohno-kun."@
+`"Senpai?@ Por que está parada aí sozinha?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Céus, eu não estava só parada aqui, estava te esperando, mas[line=3]"@
+cl a,crossfade,400
+` Ela vê a Akiha do meu lado.@
+` De alguma forma, ela percebe que estamos indo para casa juntos.
+\
+ld l,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, essa menina é a sua irmã mais nova?"@
+` Ela observa a Akiha com o canto do olho.@
+ld r,"tachi/aki_t01a",crossfade,400
+`"………………………"@
+` A Akiha não diz nada.@
+` Nada foi dito, mas tanto a Senpai quanto a Akiha me dizem com os olhos que eu deveria "Apresentá-las".@
+br
+` [line=4]Hum.@
+` Isso vai ser cansativo demais.
+\
+`"Senpai, esta é a minha irmã mais nova, a Akiha.@ Ela se transferiu para a nossa escola hoje."@
+` A Akiha faz uma mesura para a Senpai.@
+ld l,"tachi/cel_t01a",crossfade,400
+`"Entendi.@ Olá.@ O meu nome é Ciel e sou uma amiga do Tohno-kun."@
+ld l,"tachi/cel_t07a",crossfade,400
+ld r,"tachi/aki_t11a",crossfade,400
+` …… O que houve?@
+` Elas ficam apenas se encarando, mas não dizem nada.
+\
+cl a,crossfade,400
+`"Senpai, você disse que estava me esperando… O que houve?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Bom, eu só queria passar um tempo com você, mas[line=3]
+ld c,"tachi/cel_t01a",crossfade,400
+` [line=3]Como já está tarde, fica para a próxima.@ Tchau, Tohno-kun.@ Até amanhã, Akiha-san."@
+` Ela diz isso e se afasta de nós.
+\
+cl a,lshutter,400
+`"[line=4]Ah."@
+` Ela vai embora sem me dar a chance de dizer qualquer coisa.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Vamos embora, Nii-san.@ Logo vai escurecer."@
+` A Akiha fala como se nada tivesse acontecido.
+\
+bg #000000,lcartain,800

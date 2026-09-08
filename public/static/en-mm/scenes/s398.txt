@@ -1,0 +1,223 @@
+playstop
+wavestop
+bg "bg/bg_40d",notrans,0
+` [line=3]If I don't sleep tonight, it'll be fine.@
+br
+`"…… That's right.@ If I don't sleep, and if[line=2]"@
+` If there is another victim tomorrow, then for sure, I won't have had anything to do with it.
+\
+`"[line=4]Alright."@
+` I do understand this is a bit off course.@
+` I know it's a bit strange staying here and not sleeping, waiting for someone I do not know to be killed.@
+`"[line=3]But, what else can I do?"@
+` Since I[line=3]my memory is not to be trusted, there is no other way to do this.@
+br
+` [line=3]Anyway.@
+` There is no other way for me to do this than to stay in my room without dreaming and wait until morning.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+` [line=5]Time passes.@
+` I still manage to stay awake.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+br
+br
+` [line=4]Another hour.@
+` I still manage to stay awake.
+\
+bg #000000,crossfade,400
+bg "bg/bg_40d",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=5]An hour.@
+` I still, manage… to stay awake.
+\
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=4]It is now past one o'clock in the morning.@
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+` I… still  manage   to stay    awake.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=4]In just four hours, it will be morning.
+\
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+` …… Something is wrong.@
+` I am… still  conscious… but…
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+` …… My field of vision collapses.@
+bg #9c0120,notrans,0
+wait 100
+bg "bg/bg_40d",notrans,0
+wait 100
+bg #000000,notrans,0
+bg "bg/bg_40d",crossfade,800
+br
+` I must stay up.@
+` I am not sleepy yet, but…
+` Why?@
+!w750
+` Why?@
+!w1350
+` Why?@
+!w1750
+` Why does my    body   want   to sleep   this much[line=5]?
+\
+bg #000000,tcartain,800
+!w2000
+!w3000
+waveloop se_11
+bg "bg/bg_26a",notrans,0
+` *pant*[line=3]*pant*[line=4]*pant*
+\
+` I feel like I am being watched.@
+` I.@
+` With bloodshot eyes, I look at the people walking down the streets.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Maybe it's because of the time?@
+`   Compared to last night, there's hardly anyone around.
+\
+` …… Someone is watching me.@
+` I can't find what I'm looking for.@
+` Again.@ Tonight, I can't find the person I'm looking for.@
+br
+br
+br
+br
+textcolor #ff0000
+`      I'm starting to get annoyed.
+\
+textcolor #ffffff
+` I pant heavily.
+\
+` I should change my spot.@
+` I'm going to stop looking in town.
+\
+bg "bg/bg_24c",crossfade,400
+` I go from roof to roof and end up somewhere crowded.@
+` …… Looking from the roof of the highest house, I scan the streets.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #ff0000
+`             Don't look!
+\
+textcolor #ffffff
+`"[line=4]There."@
+` I see a person walking alone.@
+` A woman.@
+` This time, there can be no mistake…
+` It'll be great if it's Akiha.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`        Don't look at me.
+\
+textcolor #ffffff
+` No, it really doesn't matter.@
+` Once more.@
+` Once more, I want to taste that wonderful sensation[line=4]
+\
+bg #000000,notrans,0
+wave se_13
+bg "bg/ima_12b",lshutter,400
+` I kill her from behind, taking care not to damage her body.@
+` Holding her long hair, I drag Akiha's body.@
+bg "bg/bg_22c",lshutter,800
+` *pant*[line=4]*pant*[line=4]*pant*
+` Biting into Akiha's neck, I suck her blood.@
+br
+` [line=3]Boring.@
+` This is nowhere near as exciting as last night.@
+` If her hair is this short, it's not Akiha at all.
+\
+`"…… Boring……!"@
+` I start to get pissed off.
+\
+` Even though I slice the body into pieces, I'm still mad.@
+` Impostor.@
+` This impostor pisses me off.
+\
+textcolor #ff0000
+br
+br
+br
+br
+br
+br
+br
+`         Stop watching me!
+\
+textcolor #ffffff
+` *pant*[line=4]*pant*[line=4]*pant*[line=4]
+br
+` I've used up extra energy.@
+` Soon, dawn will arrive.@
+` Once it becomes morning, Shiki will awaken.@
+br
+`"I'm tired tonight.@ I'll start again, tomorrow."@
+` Yeah, that'll do.@ That's what I'll do.
+\
+` Now then.@
+` Before the morning comes, before any one realizes, I must go back to school[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

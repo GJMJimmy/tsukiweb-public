@@ -1,0 +1,63 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@
+` Parabéns!@ Você chegou ao Final Bom da Ciel-san!@
+br
+` …… Hein?@
+` ………… Hã?@
+` ………… Hã?@ Hãããã????@
+` Espera um pouco!@
+` O que é isso?@
+` Que final é este!?
+\
+ld l,"tachi/ark_t30",crossfade,800
+`"……………………………… De fininho, de fininho."@
+br
+` Ei!@ Parada, sua gata ladra[line=4]!@
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+!w1000
+ld l,"tachi/ark_t31a",crossfade,800
+br
+`"Aiêêêê!@ Não seja tão violenta!@ Ciel-sensei, você não deveria recorrer à punição física!"
+\
+bg #ffffff,notrans,0
+wait 100
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+ld r,"tachi/cel_t20",lshutter,400
+` [line=4]Dispensada.@
+` …… Ah, céus, vamos lá!@
+` Cada heroína tem dois tipos diferentes de finais.@
+` Este é o Final Bom da Ciel-san.@
+` Por favor, volte a uma escolha anterior e escolha uma história diferente!@
+` Então você chegará no Final Verdadeiro!
+\
+` Ah, e mais uma coisa.@
+` As rotas da Ciel-san e da Arcueid, são chamadas de rotas do Lado Próximo à Lua.@ Mas há também histórias completamente diferentes: são as rotas do Lado Distante da Lua.@
+` São as rotas que contam a história da "Família Tohno", associadas à pessoas como a Akiha-san.@
+` Parece difícil saber os requisitos necessários para entrar nessas rotas, por isso vou te dar algumas sugestões.
+\
+` No primeiro dia, você não deve se encontrar com a Ciel-san.@
+br
+` Talvez seja melhor ficar dentro da sala de aula durante o almoço.@
+br
+` E o mais importante.@
+` Acho que se você não se encontrar com o vampiro chamado Nrvnqsr, toda aquela história com ele nunca vai acontecer.@
+` Então, como iniciar o novo enredo.@
+` Durante aquele momento específico, se você não tentar realizar aquela ação, um evento completamente diferente deve estar à sua espera.@
+br
+` Bem, é isso, vamos nos encontrar novamente na história principal!
+\
+bg #000000,crossfade,800
+playstop

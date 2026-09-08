@@ -1,0 +1,23 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=6]Fica na ala oeste do segundo andar.
+\
+bg #000000,lcartain,400
+bg "bg/bg_40d",tshutter,400
+`"[line=6]"@
+` …… Eu nunca me senti tão idiota em toda a minha vida.@
+` Na ala oeste do segundo andar fica apenas o meu quarto, todos os outros estão vazios.@
+` É no mesmo andar; o quarto da Akiha fica exatamente em frente ao meu só que em outra ala[line=4]
+\
+bg #000000,lshutter,400
+` Subo as escadas correndo.@
+` O ambiente quente e esse mau pressentimento refletem na escuridão da noite como em um espelho.@
+br
+` [line=4]*arf*, *arf*, *arf*.@
+br
+` Respirando com dificuldade, chego no topo das escadas e caminho pelo corredor.@
+` …… As minhas costas doem.@
+` Essa sensação terrível que paira no ar piora quando me aproximo do quarto da Akiha.
+\

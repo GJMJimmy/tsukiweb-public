@@ -1,0 +1,25 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bonjour!@
+` E agora com vocês, o cantinho de sugestões para o Tohno-kun, que mais uma vez acabou em um Final Ruim.@
+` Está na hora do: "Ensine-me, Ciel-sensei!"
+\
+` O segundo período de lições do terceiro dia será sobre amor filial.@
+` A razão pela qual você morreu desta vez é simples, Tohno-kun.@ Você não estava motivado o suficiente para tirar a Yumizuka-san de cima de você no instante em que ela te mordeu.
+\
+` Laços familiares são muito importantes.@
+` Colegas de turma também são importantes.@
+` Você tem que se preocupar em ser um bom Onii-chan e responder de alguma forma ao amor da sua colega de turma.@ Sim, você tem obrigações com ambas.
+\
+` Vou te dar um conselho.@
+` Tohno-kun, provavelmente será ótimo se você voltar e mostrar alguma sinceridade à Yumizuka-san.@
+br
+` Bem, pessoal, até a próxima lição.
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,334 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_31a",notrans,0
+`"[line=6]Ha… haha…"@
+` I can't help but laugh.@
+` …… But it's not all bad.@
+` If the person I killed has come back to life, then that means I haven't actually killed anyone, right?@
+` Well, I suppose the fact remains that I "killed" someone, but she's still alive.@
+br
+` [line=3]And that's something I should honestly be happy about[line=3]
+\
+` Yeah.@ With this, I should be able to get back to living my normal life.@
+` A normal school life, just like I did up until now.@
+` …… Well, in exchange, I seem to have been cornered by this strange person, but you might argue that it's a heck of a lot better than becoming a murderer.
+\
+`"…… Okay, I've calmed down.@ If you've got something to say, I'll listen: complaints, grudges, whatever.@ Talk all you want."@
+`"Yeah, I've got a whole lot of things to say to you… but you're weird."@
+ld c,"tachi/ark_t11",crossfade,400
+`"I'm just taking everything in right now.@ You could say I've built up a resistance to weird stuff like this."@
+` I don't think it's of much help in this case, though.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Hmph……"@
+` She stares at me.@
+` It isn't malicious.@
+br
+` …… It's strange.@ I'd thought that to get someone back when they got you was one of the common laws of the world.@
+` Then she should be trying to kill me, but[line=3]
+\
+`"[line=2]What are you staring at?@ You're here to get revenge, right?@ Then[line=2]"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Yeah, I guess I'm supposed to kill you back, in theory.@ I'll kill you if you really want me to, but otherwise I'll pass for now.@ It's not very efficient that way."@
+` She stares at me head on.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"So!@ Are you sorry?"@
+`"[line=4]Eh?"@
+` I'm stunned for a moment.@
+` The things she says are so… out of place.
+\
+`"I'm asking you if you're sorry for killing me.@
+` I'm thinking about forgiving you if you are, you see.@
+` Besides, I get the feeling you're a pretty bad liar for a human."@
+`"Sorry[line=3]me?"@
+`"Yep.@ If you apologize to me, then I'm fine with that."
+\
+br
+` [line=3]This is unbelievable.@
+br
+` What's so unbelievable?@
+` Not that the person I killed is forgiving me, but… her voice sounds so kind.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Hey!@ You have to give an answer when people ask you seriously, you know.@ Come on, hurry up and answer.@ We can't get on with things until we make it clear whether or not you're sorry."@
+` She is angry.
+\
+cl c,crossfade,400
+` [line=3]Am I sorry, she asks?@
+` That goes without saying[line=3]
+\
+br
+`"…… Yeah, I regret it.@ No matter what the reason is, I did kill someone."@
+br
+` Without mercy or reason.@ I killed just for myself.@
+br
+`"…… I do regret the fact that I killed someone.@ But more importantly, the person I killed was you, and so[line=3]"
+\
+` …… It's a lie that it's alright if she's alive.@
+` It's a fact that I killed her.@
+` It's the ultimate violation; the greatest violence possible.@
+br
+`"So[line=3]you can get your revenge on me[line=2]I thought it was only natural you'd be here to get revenge."@
+br
+` …… I hang my head, mumbling, like I'm confessing to someone.
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"[line=3]I see.@ Hmm.@ You're not a bad person."@
+` She smiles.@
+` Despite calling herself a vampire, she has a very honest face.@
+br
+ld c,"tachi/ark_t01a",crossfade,400
+`"I've decided.@ I'm going to make you help me."@
+`"Eh[line=5]?"@
+` Help her?@ What is she talking about?
+\
+`"…… Hey.@ What do you mean by helping you?"@
+`"It's simple.@ I'm going to get you to help me deal with the vampire which took root in this town."@
+br
+`"[line=4]?"@
+` …… Hold on, I'm getting more and more confused.@
+br
+`"Dealing with vampires?@ But you're a[line=3]"@
+`"Oh, no, no.@ I am a vampire, but the vampire in this town is a different kind altogether.@
+` You live here, don't you?@ Then you should know about the murders that have been occurring lately, right?"@
+`"Yeah, quite a few people have been killed already… hey, wait."
+\
+` …… I remember now.@
+` Come to think of it, all of the killer's victims had their blood extracted or something, didn't they?@
+br
+`"Don't tell me that[line=4]"@
+`"Exactly.@ Even the news is saying stuff like 'the work of a vampire', right?@ It's a funny thing; they obviously know what kind of creature is doing it, but no one is going around trying to vanquish it.@ That's why I've got no choice but to do it for them."@
+`"Wait, but[line=3]vampires don't exist."
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Hmph!"@
+` She lowers her brows in annoyance.@
+` …… Oh, that's right.@
+` There's an unidentified person standing in front of me claiming to be a vampire herself.
+\
+`"[line=3]I don't really understand, but what you're trying to say is that you're here in this town to exterminate vampires, right…?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"That's right, but before I could, I was attacked and killed by some unknown killer.@
+` Yeah, that really got me.@ It was a perfect surprise attack and I was cut into seventeen pieces without a chance to do anything."@
+`"Ugh[line=4]"@
+` I see.@ She must mean me.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"That's right.@ Until I was fully recovered like this, I was really planning to kill you, you know.@ That's the first time anyone's embarrassed me like that.@ And, it took about eighty percent of my power to fully recover."@
+ld c,"tachi/ark_t07",crossfade,400
+`"But more importantly, it really, really hurt.@
+` It was so painful I thought I was going to go crazy.@ However, the pain was so great, it restored my sanity.@
+` Do you know what it's like experiencing that over and over for a whole night?"@
+br
+`"…………"@
+` I don't know.@
+` Actually, I don't want to know.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"So, full of hatred, I went out to look for you.@ I was so worked up that I didn't even care about the vampire, the very reason why I'm here.@ I knew you were a student, so that's why I waited over there for you."@
+`"…… I don't get it.@ If you hated me so much, why are you forgiving me?"
+\
+`"[line=3]Let's see… to put it simply, I calmed down after a while.@
+ld c,"tachi/ark_t01a",crossfade,400
+` I already used up a lot of power, and I thought that it would be more efficient to use you as a shield than to kill you."@
+`"…… Hold on.@ You just said something really bad for me."@
+`"Eh?@ Did I say something like that?"@
+`"You said you were going to use me as a shield."
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Of course.@ I already did forgive you, but that's just my personal feelings.@ You've got to atone for your murder through action, not just emotion, right?"@
+`"[line=3]Well, even if you ask me…"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"What's with you?@ I can't tell when you're being sincere and when you're not.@ Let me repeat it again: you killed me.@ You probably can't imagine it, but it takes a lot of energy to regenerate once you've been killed.@
+` Well, actually, it wouldn't be a big deal if you had just killed me, but the way you killed me was something I've never seen before.@ I couldn't heal the wounds, so I had no choice but to remake my body parts.@ That's why it took so much energy to revive[line=3]"
+\
+` She looks angry.@
+` …… It seems like she's recalling her forgotten anger while she talks.
+\
+`"Anyhow, I'm weak right now!@ I think I'll be able to recover after two nights, but if the enemy attacks before then, I'll be in danger.@
+` That's why for now, I'll have you be my shield."@
+`"You'll have me do it[line=3]?@ What are you doing, deciding everything by yourself?"@
+`"What?@ This is all your fault to begin with, so isn't that much to be expected?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Or are you not sorry after all?"@
+cl c,crossfade,400
+` She looks straight at me with honest eyes.
+\
+`"……… Uhh."@
+` This is unfair.@
+` Sorry or not, using those eyes is unfair.@
+` …… It's unfair she has such pure eyes like that when she claims she's a vampire[line=3]
+br
+`"I'm… um[line=3]"@
+` Stuck for an answer, I lift my gaze.
+\
+playstop
+`"…… Huh?"@
+br
+` …… What is it?@
+` Something odd is there, in the gap between the buildings.@
+br
+`"Hold on.@ What's that?"@
+` I get up and walk.@
+` I walk to the middle of the alley, and I finally realize what it is.
+\
+play "*6"
+` A blue-colored bird.@
+` A crow, to be precise.@
+br
+` …… A blue… crow.@
+` That inauspicious thing I saw two nights ago[line=3]
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=3]Oh, man…"@
+` The girl murmurs.@
+br
+` The crow just stares at us.@
+br
+`"Geez, thanks to your slowness, he found us."@
+` The girl looks at the entrance to the alley.@
+`"Found us?@ Who?"@
+cl c,notrans,0
+` I cast my gaze towards the alley entrance.@
+br
+` [line=5]Then.
+\
+`"[line=5]!"@
+` I take a step back in shock.@
+` Before I knew it, a dog had appeared in the narrow path running into the alley.@
+bg #000000,crossfade,800
+ld c,"tachi/kemo_t01",crossfade,400
+` It has four tough legs and a tense neck like steel frame.@
+` That form, far removed from that of a human, is one made solely for hunting.
+\
+` …… It doesn't need to resort to verbal intimidation.@
+` Most humans would become nervous just by looking at that kind of "hunting" beast.@
+` As a fellow life form, it inspires awe by its dishearteningly superior athletic ability.
+\
+bg "bg/bg_31a",crossfade,800
+`"…… A black… dog?"@
+br
+` [line=3]I start to shake.@
+br
+` …… The black dog looking in our direction isn't small like a stray.@
+` As big as a German Shepherd or a Doberman, it just stands there, menacing us.
+\
+ld c,"tachi/ark_t05c",crossfade,400
+`"………"@
+` The girl says nothing, but looks at the dog with disinterested eyes.@
+cl c,notrans,0
+\
+` Then…
+` Suddenly, the black dog jumps.@
+` No, it's running, but with a speed that makes it seem like it's jumping.@
+br
+`"[line=6]Eh?"@
+br
+` I can't do anything.@
+` The black dog jumps straight for my throat.
+\
+` I can see it.@
+` I can see its black body moving towards me, but I don't even have time to think about dodging it.
+\
+bg #000000,notrans,0
+quakex 4,100
+` Thud!@
+br
+` I feel a shock on my body.@
+`"Guh[line=5]!"@
+` I was hit hard from the side.@
+` It's not the black dog.@
+br
+` It seems the girl pushed me before it could crush my throat.@
+` With an easy movement, like someone throwing a ball, she hurls me into the wall using just one hand.
+\
+wave se_05
+`"[line=5]!"@
+` With a terrific "wham!", I fall on my rear.@
+bg "bg/bg_31a",notrans,0
+`"Why… you!@ What in the world are you doing!?"@
+`"Never mind that, keep your eyes in front!"@
+` The girl yells.@
+` I look[line=3]Having lost sight of me, its target, the black dog bounds towards the wall.@
+` Sticking to the wall like a lizard, it jumps again.@
+` It bounces from the wall towards me.@
+` The dog's path is like black lightning.
+\
+ld c,"tachi/kemo_t02",notrans,0
+`"[line=3]!"@
+` It's too fast; I can't react.@
+` The black dog opens its mouth, filled with teeth and saliva.@ This time, it clamps down towards my windpipe[line=4]
+\
+`"Kuh……!"@
+bg #000000,notrans,0
+` I close my eyes.@
+` The dog's teeth sink into my throat.@
+` But in that instant,
+` the dog lets out a yelp and releases me.
+\
+bg "bg/bg_31a",notrans,0
+`"Eh[line=3]?"@
+br
+` [line=3]That's… impossible.@
+br
+` The black dog lets out a scream and leaps straight up.@
+` There is nothing there, but nonetheless it flies high into the sky by itself.@
+` Just like that[line=3]the black dog, after going several meters into the sky, makes a scream and falls back down onto the concrete.@
+br
+` No, perhaps more accurately, it was hit into the concrete.
+\
+playstop
+`"[line=4]What was that?"@
+ld c,"tachi/ark_t07",crossfade,400
+`"Geez, you just made me waste more of my energy."@
+cl c,crossfade,400
+` The girl quietly approaches the black dog.@
+` It is crushed against the concrete like a pressed flower.
+\
+`"[line=3]That's quite a mongrel of a familiar.@ …… I suppose it was some kind of scout."@
+` The black dog liquifies into some kind of tar-like substance, and is absorbed into the concrete.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"…… It melted… no, maybe it's just dissolving.@ [line=4]It can't be, can it?@ There's no way Chaos would be in a place like this."@
+` Heaving a long sigh, she approaches me.
+\
+play "*1"
+ld c,"tachi/ark_t03",crossfade,400
+`"Oh?@ You don't seem to be hurt, so there's no problem."@
+` …… She's mumbling something.@
+` My throat[line=3]I can still feel the dog's teeth sinking into it.
+\
+`"Hey[line=3]what was that thing?"@
+`"A familiar of an enemy vampire.@ We were discovered because you weren't being clear."@
+`"Discovered[line=3]you mean… by that enemy vampire you mentioned?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Yeah, this isn't good.@ It looks like I really will need you as a shield now."@
+` She says it so casually, and with a smile.
+\
+`"S[line=3]stop saying such crazy things, you idiot!@ You saw me!@ What do you think I can do!?@ You're a lot better off by yourself…!"@
+`"Not really.@ With the power I just used to protect you, I really am empty now."@
+`"Wha[line=3]!?"@
+` What in the world?@
+` I'm grateful she helped me just then, but still[line=3]
+`"…… I can't do it.@ I can't.@ I don't have the power to drive away something like that.@ Sorry, but I can't even be a shield."
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"[line=4]Liar.@ You killed me.@ Why would you lie after doing something like that?"@
+`"That was[line=3]"@
+br
+` That was something I don't even understand myself.@
+br
+`"[line=3]No.@ Look, I can't do it.@ I'm just a normal human.@ I can't help you."@
+ld c,"tachi/ark_t04",crossfade,400
+`"…… Not true.@ All you have to do is keep watch while I sleep, that's it.@ You can do that much without any problems, right?"
+\
+`"That's[line=3]"@
+cl c,notrans,0
+br
+` She looks straight at me.@
+` …… Somehow, those eyes are making me weaker.@
+` I[line=3]
+\

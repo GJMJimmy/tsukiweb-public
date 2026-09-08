@@ -1,0 +1,97 @@
+play "*3"
+wavestop
+bg "bg/bg_23b",lcartain,800
+play "*8"
+` Caminho ao lado da Akiha em direção à mansão.@
+`"……"@
+` Para ser sincero, está difícil.@
+` Quando olho para o lado, vejo a Akiha caminhando tranquilamente com seus longos cabelos esvoaçantes.@
+` Ela caminha graciosamente em silêncio, realmente é a filha perfeita de uma família respeitada.
+\
+`"………"@
+` Por que não consigo pensar em nada para dizer?@
+` Embora eu a veja em casa todos os dias, agora que estamos caminhando juntos, eu me sinto meio tenso.
+\
+br
+` [line=2]E até agora não tive nenhuma explicação.@
+br
+`"Akiha."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Sim?@ O que foi, Nii-san?"@
+`"O que foi!?@ Por que se transferiu para a minha escola?@ Qual motivo você teria para se transferir pra uma escola de segunda categoria!?"
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"É você quem está dizendo que é de segunda.@ Mas eu posso frequentar a escola que quiser; não preciso me explicar para você."@
+`"…… Não seja idiota.@ Eu sou seu irmão!@ Não vou fazer vista grossa com algo que vá contra o que é melhor pra você.@
+` Francamente, não vejo benefício algum em se transferir para esta escola.@ É responsabilidade minha cuidar de você agora que nosso pai não está mais aqui…!"
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… O quê?@ Não é justo dizer essas coisas nesta situação."@
+`"'Não é justo' é algo que eu deveria estar dizendo, não você.@ No que estava pensando ao se transferir sem nem ao menos me contar?@
+` Não vou aceitar isso até que me diga um bom motivo!"@
+ld c,"tachi/aki_t19",crossfade,400
+`"Ah[line=4]"@
+`"Se eu não ficar satisfeito com o motivo, vou te mandar imediatamente para a sua antiga escola.@ Então, me diga, Akiha.@ Por que mudou de escola?"@
+cl c,crossfade,400
+` Ela fica em silêncio e olha para baixo.@
+` Após um breve momento ela levanta a cabeça e mostra um rosto cheio de coragem.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Eu estava preocupada com você, Nii-san.@ Não é motivo o suficiente?"@
+br
+` [line=7]Hã?@
+br
+`"…… Espera aí.@ Como assim[line=2]preocupada comigo…?"@
+` Que tipo de motivação é essa?
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Depois de observar o seu comportamento rebelde por um tempo, resolvi que, para evitar que você desonrasse o nome dos Tohno, eu teria que ficar de olho em você o tempo todo."@
+` Ela explica claramente.@
+`"Erk[line=4]"@
+` Não posso discordar quando ela diz "comportamento rebelde.@
+` É a verdade pura; desde quando mudei para a mansão, a minha vida tem sido um aborrecimento para ela e as empregadas.
+\
+`"M-mas mudar de escola é exagero demais, não acha?@ E quanto às suas amigas?"@
+ld c,"tachi/aki_t05a",crossfade,400
+`"Isso não é da sua conta, Nii-san.@ Caso esteja sentindo ao menos um pouquinho de pena de mim, tudo o que precisa fazer é mudar a sua forma de pensar e agir de agora em diante."@
+` Ela me dá as costas bruscamente.@
+br
+` …… Bem, esse é o jeito dela mesmo.
+\
+`"…… Tá bom, faça como quiser.@ Mas um dia você vai se arrepender."@
+ld c,"tachi/aki_t21",crossfade,400
+`"Está tudo bem.@ Não precisa se preocupar comigo."@
+` Claramente, ela fica de mau humor.@
+` Ficamos em silêncio e continuamos andando.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,400
+play "*1"
+` Chegamos na mansão.@
+` A Akiha se apressa na frente para abrir o portão, mas se vira na mesma hora, parece que se lembrou de falar alguma coisa.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Eu tenho uma pergunta.@ O quão próximo você é daquela pessoa chamada Ciel?"@
+` Abruptamente, sou atacado por uma pergunta extremamente direta.@
+`"Não somos especialmente próximos.@ Somos apenas amigos de escola.@ Ela… É alguém com quem consigo conversar normalmente."@
+cl a,crossfade,400
+`"Sério?" é o que a Akiha diz enquanto se vira para abrir o portão e entrar.
+\
+bg "bg/bg_48b",lshutter,800
+` Cruzamos o pátio e chegamos na porta de entrada.@
+` A Hisui não está me esperando em lugar algum e a Kohaku-san não está varrendo o jardim.
+\
+`"Ah."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Hum?@ Disse alguma coisa, Nii-san?"@
+`"Estava pensando aqui… Estou querendo dar uma olhada na construção ao estilo japonês que você estava me falando antes."@
+`"[line=4]A edícula?"@
+` Ela murmura e vejo sua testa franzir de preocupação.
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Por favor, não vá.@ Ela foi selada há muitos anos.@ Nii-san, nem mesmo você tem permissão de ir lá."@
+cl a,lshutter,400
+` Ela deixa isso bem claro e entra na mansão.
+\
+bg #000000,lshutter,800
+!w1000
+playstop

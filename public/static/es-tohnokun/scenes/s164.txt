@@ -1,0 +1,12 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"¿Acaso no te enfadas fácilmente?@ Eres una persona bastante egoísta de corazón, después de todo."@
+` Expreso claramente lo que pienso sobre el asunto.@
+ld c,"tachi/ark_t08",crossfade,400
+`"¿En serio?@ Ahora que lo mencionas, podrías tener razón.@ Parece que me he vuelto muy emocional desde que me mataste."@
+` Arcueid asiente con satisfacción.@
+cl c,crossfade,400
+` …… Bueno, fuese verdad o no, el problema está resuelto siempre que Arcueid esté convencida.
+\

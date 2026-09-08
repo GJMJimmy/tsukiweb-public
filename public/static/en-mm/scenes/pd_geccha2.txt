@@ -1,0 +1,942 @@
+bg #000000,crossfade,1500
+bg "bg/bg_59",bcartain,1000
+play "*03"
+wait 1000
+ld l,"tachi/stk_t01",rshutter,800
+textbox adv
+`  Alright!@
+`  Everyone, I can participate in Geccha as well!
+\
+`  The Tsukibako is out, so my story that's been stored all this time will finally come out... huh?
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  Why isn't anyone here?
+\
+cl l,crossfade,200
+`  Huhuhuhu.@
+` Because everyone already went home-nya.
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  ... Ah. I have a really bad feeling about this.
+\
+ld r,"tachi/neko_t01a",rshutter,400
+`  Ha. I come to finish off every underling and to degrade every semi-heroine!
+\
+`  The gallant main heroine sent from the gods to impart upon you an interlude from your unrequited state appears with a bang!
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  So, did you call for me, Sacchin?
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  No, I didn't call for you at all.@
+`  You're not welcome, so you can go home♥
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Hmm?@
+` Did I get the wrong signal?@
+` I heard there was a pitiful stray dog here that couldn't make it into Melty.
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  T-that's not true!@
+` I'm in it, and I'm going to be in it!@
+` Isn't that right, all of you at French Bread!?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  French Bread? Are you talking about Ciel?
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Um... No, but I don't really get it either.@
+` That's what I hear, but I heard French Bread is...
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Yeah, it sounds really tasty.@
+`  So, do you have some business with Ciel-nya? I can call for her.
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  No, please don't.
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  ... Actually, who are you?
+\
+ld r,"tachi/neko_t02",tshutter,200
+`  ... Me?@
+` I'm Neko Arc.@
+` I am the embodiment of your dark side. I am your true self. Kakakaka!
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  No way!@
+` That can't be!@
+`  Geez, just get out of here!
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Oh, is Sacchin angry?@
+`  ... Oh well. I'll get to the main topic-nya.
+\
+`  Sit right there, Sacchin.@
+` You will be Miss Driller depending on what happens.
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  Huh...? Wait, you're holding on to......
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  Hey, that's my scenario[line=3]!!
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Exactly.@
+` It's a two-year-old excavated weapon that I extracted from a broken hard drive.
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  The eternal sub-heroine, Yumizuka Satsuki.@
+` You will now face your own scenario.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  That is the theme!@
+`  The title is...
+\
+bg #ffffff,rshutter,800
+bg "bg/yumizuka",crossfade,5000
+bg "bg/bg_59",bshutter,800
+wait 800
+ld r,"tachi/neko_t01a",crossfade,200
+`  Do you like it?@
+`  By the way, your Musou attack will be pure punch pounding?
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  ... Geez.@
+` Um, neko-san.@
+`  You tell me to face my scenario, but my scenario isn't out yet.
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`  Nyaat up!@
+`  Well, let me give you today's program.
+\
+cl a,crossfade,400
+textbox nvl
+wait 800
+br
+br
+br
+`  1. Opening Movie: Live Performance by Neko-Arc
+`  2. Bouquet Presentation
+`  3. Morning event: Presentation of Melty Blood Settings
+`  4. Lunch
+`  5. Lunch Break
+`  6. Gaming Tournament
+`  7. End
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,400
+textbox adv
+`  Where's my appearance!? I'm not in it at all!
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Oh, really?
+\
+ld l,"tachi/stk_t08",crossfade,200
+`  Hu... huhu, huhuhu!
+\
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #9c0120,crossfade,200
+bg "bg/bg_59",crossfade,200
+ld l,"tachi/stk_t03",crossfade,200
+`  Look real closely.@
+` This program doesn't even have my name in it.
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Ugh... I give up, I give up.@
+`  I'm sorry-nya. It seems the curry fanatic that is scared of your popularity swapped the program.
+\
+`  How about we shorten it like this?
+\
+cl a,crossfade,800
+wait 800
+textbox nvl
+br
+br
+br
+br
+br
+`  1. Opening: Sacchin Teasing
+`  2. Satsuki Concept Art Introduction (1)
+`  3. Satsuki Takes a Break
+`  4. Satsuki Concept Art Introduction (2)
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,200
+textbox adv
+`  It only has me in it!
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  You're still unhappy with this? ... I feel the wrath of the one who has been oppressed for a long time.
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  What[line=2]?@
+` Oh, I get a part, huh!?@
+`  I can be happy about this, right!?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  That's what I'm telling you.@
+`  Rejoice, Sacchin.
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  Yeah! You're a good person!
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Of course-nya.@
+` I am like a Buddha to everyone except Ciel.@
+` I am more like love.@
+` But I will really kill you if you appear in Melty before I do.
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  Oh, I'm sorry.@
+`  I'll apologize ahead of time for that.
+\
+ld r,"tachi/ark_t31a",crossfade,400
+ld r,"tachi/ark_t31b",crossfade,400
+`  What-nya!?@
+` What are those pity-filled eyes!?@
+`  Are you saying a cat, a Neko-Arc won't do!?
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  I think that's the case.@
+`  But I think you appear in a special move.@
+` You can fly with that rocket of yours, right?
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  ..... Hmm.@
+` I guess it's fine if that's the case.@
+`  I'm pretty happy if the move is unblockable, homing, and combos until death.
+\
+ld l,"tachi/stk_t01",crossfade,200
+`  Right?@
+` Then I want to get back the main topic now.@
+`  You're holding my character sprites, right?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Yup.@
+` ... Hmm, it's nothing great, but you still want to see it?@
+` I'm sure you'll be disappointed.@
+` You'll realize your own position.
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  Just-show-me-already!
+\
+cl a,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+`  Ouch, you shouldn't grab my head.@
+`  You're not a normal girl anymore, so you'll kill whoever you grab.
+\
+ld l,"tachi/stk_t08",crossfade,200
+`  Huhuhuhu.@
+` Now that you mention it, maybe I do feel like doing that...
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Nya, you're serious-nya.@
+`  ... Oh well. Here's the first one.
+\
+bg #ffffff,bcartain,1000
+bg "bg/s01",bcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+`  Oh, this is a rough sketch from when it started.@
+` When is this planned to be used?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  I think it's when you forget your homework and stand in the hallway as punishment.@
+`  And it's when you ask Shiki out and get rejected.
+\
+cl r,bshutter,200
+wave pd/s09
+ld l,"tachi/stk_t03",crossfade,200
+`  Please don't lie.@
+`  This is used when Tohno-kun leaves as I'm feeling uneasy.
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Man, I really flew through the air.@
+` I became wallpaper just like Kohaku.@
+`  Well, next.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s02",lcartain,1000
+ld l,"tachi/stk_t13",crossfade,200
+`  Um, what is this?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Hmm, is it a cross-arm block?@
+`  And it's when you ask Shiki out and get rejected.
+\
+cl r,bshutter,200
+wave pd/s14
+ld l,"tachi/stk_t01",bshutter,200
+`  Well, let's keep going.@
+`  This is going to be used during everydays scene during the middle of the route.
+\
+bg #ffffff,bcartain,1000
+bg "bg/s03",bcartain,1000
+ld l,"tachi/stk_t10",crossfade,200
+`  ... Ummm, I'm angry.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Huhuhu, your cheeks are soft as always.@
+`  I think your charm point is your soft cheeks. What do you think?
+\
+ld l,"tachi/stk_t07",crossfade,200
+`  U-um, next.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s04",lcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`  Coming home from school!? Is it an event occurring while coming home from school!?
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  No, it's just ordinary character sprites.@
+`  Seeing how I'm looking shy and happy, it looks like my scenario isn't just all bad events.
+\
+ld r,"tachi/neko_t02",crossfade,200
+`  Really-nya?@
+` Can you say such a thing after you see this?
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  Eh...? D-do you know something?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,200
+`  Huhuhu, take a look at this!@
+`  Now for the first look at the main stage of the Sacchin scenario, Sacchin's room!
+\
+playstop
+bg #ffffff,tshutter,800
+wait 1000
+bg "bg/bg_sp",bshutter,800
+wait 2000
+play "*03"
+ld l,"tachi/stk_t09",crossfade,200
+`  ...........Huh?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Hm, what a sweet room.
+\
+ld l,"tachi/stk_t12",notrans,0
+`  No way[line=3]this is too terrible[line=3]!!
+\
+ld l,"tachi/stk_t11",notrans,0
+`  First of all, this isn't a room!@
+`  It's just an abandoned building!
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Muhuhu.@
+` This explains everything.@
+`  You will use up all of that poor boy's savings of 100,000 yen.
+\
+`  Oh, Sacchin sure is scary. She is a money-eater.@
+` Shiki is in danger! Only three more days until his money runs out!
+\
+ld l,"tachi/stk_t04",crossfade,200
+`  Auu... I'm sorry, Tohno-kun...
+\
+bg #ffffff,lcartain,3000
+bg "bg/s05",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+`  And this is what happens after that.@
+`  You make a triumphant pose after you dry out Shiki's savings.@
+`  You evil woman.
+\
+ld l,"tachi/stk_t11",bshutter,200
+`  That's wrong!@
+` This should be used in a more heart-warming situation!
+\
+`  See, it says "Super Sacchin".
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Hm?@
+` I think I heard that line somewhere.@
+`  Is that the girl that the mushroom guy likes the most? The girl that wails away at the sandbag after school?
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  Uh... I'm not too sure about that.
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`  Well, I don't care about his small girl fetish.@
+`  Let's go to the next one.
+\
+bg #ffffff,rcartain,1000
+bg "bg/s06",rcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`  "Oh?@
+` This is an event graphic and not just a character sprite. I can see your underwear, Sacchin."
+\
+`  "It's not visible, you idiot!"
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,200
+`  "???@
+` Was that some echo?@
+`   Hmm, Sacchin looks sleepy, so I'm guessing she stayed up all night.
+\
+`   Sacchin won't come out since she's too embarrassed, so I can't explain any further. I'm not allowed to spoil anything here, after all."
+\
+bg "bg/s07",bcartain,1000
+ld r,"tachi/neko_t01a",bcartain,200
+`  "And this is the next one.@
+` Hmm, it looks like the plot is thickening.
+\
+`   ... I can't say anything since she's not back yet, but I'm sure she's crying because Shiki rejected he[line=5]"
+\
+bg #9c0120,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,notrans,0
+`  Ou, Ouch!@
+` Sacchin, the dried plum is unfair!@
+`  I give up!@
+` I'm tapping out, referee. Gah, Frankenstein on my skull[line=3]!?
+\
+bg #ffffff,crossfade,200
+bg #9c0120,notrans,0
+wait 100
+bg #000000,notrans,0
+playstop
+wait 100
+bg "bg/ima_13b",notrans,0
+wait 3000
+bg "bg/bg_59",bshutter,800
+play "*03"
+ld l,"tachi/stk_t06",crossfade,200
+`  Well, Satsuki Concept Art Introduction (1) has ended.@
+`  Next will be about Melty Blood.
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`  Ah, that hurts.@
+` Do you know about that watermelon smashing game?@
+`  That sort of thing isn't good.
+\
+ld l,"tachi/stk_t01",crossfade,200
+`  If we talk about Melty Blood, we have to talk about the guest heroine Sion-san.@
+`  We'll mostly present her concept art here.
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  You're ignoring me?
+\
+bg #ffffff,bcartain,1000
+bg "bg/t01",bcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+`  Whoa, who is this-nya[line=3]!?
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  It's Sion-san.@
+` She had dark skin because she was supposed to be Egyptian.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  But she has a bo. She's gotta be a fake nya.
+\
+ld l,"tachi/stk_t01",crossfade,200
+`  This is back when Sion-san was going to look softer.@
+`  Well, let's start the slideshow to show how she became how she is today!
+\
+bg #ffffff,lcartain,1000
+bg "bg/t02",lcartain,1000
+bg #ffffff,bcartain,800
+bg "bg/t03",bcartain,1000
+bg #ffffff,lcartain,800
+bg "bg/t04",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+`  Hmm. I see, she's beginning to get less curvy.
+\
+ld l,"tachi/stk_t01",crossfade,200
+`  The initial setting was for her to be younger.
+\
+`  The scenario guy loved the one where her skin is brown and her clothing is white like in the second picture, but it was discarded because it wasn't her style.
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Hmm.@
+` She looks like a character from a fighting game.
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  Yup.@
+` Sion-san's concept is to look good in pixel art.@
+` She's bright purple so that people can recognize her in a flash.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  I see-nya.@
+` So he's not just an ordinary maid fetishist, huh?
+\
+ld l,"tachi/stk_t01",crossfade,200
+`  W-well, let's go on to the next one.@
+`  Next is... Huh, who is this?
+\
+bg #ffffff,tcartain,1000
+bg "bg/t05",tcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+`  Oh, this person.@
+` Well, I won't say anything because it'll be a spoiler.@
+`  Cut cut.
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  ???
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`  Well, he wasn't planned to be used in Tsukihime-nya.
+\
+`  But he was the most suitable to satisfy the condition of Melty Blood where "There is no contradiction if everyone fights everybody else".
+\
+`  He was actually designed before Sion, and when it was decided for him to appear, Ciel's rival was discarded for Sion.
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  What!?@
+`  Who is this rival of Ciel-Senpai!?@
+` I haven't heard anything about it!
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+`  Hm? Oh, I guess I haven't told you, huh?
+\
+`  The scenario in Melty was supposed to be like that of a usual fighting game, and the new character was supposed to be a vampire hunter.
+\
+`  It's because Tsukihime doesn't have a complete vampire hunter.
+\
+`  So this heretic hunter from The Church has an official apocrypha as a shield, which is also a pile bunker.
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  Huh? ... Then Melty Blood was...
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Yup-nya.@
+` In the initial stages, it was a battle between vampire hunters with Ciel as the main character.
+\
+`  The Black Robed Crashing Agent and The Knight of the Holy Shield!@
+`  Creaking firing hammer, crashing pile bunker!
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  What do you think?
+\
+ld l,"tachi/stk_t10",crossfade,200
+`  Wow... Then Reeze Baife-san is...
+\
+ld r,"tachi/ark_t31b",crossfade,200
+`  Just an underling whose part was taken away by Sion.@
+` There's a character design as well, but the artist doesn't want it revealed.
+\
+ld l,"tachi/stk_t07",crossfade,200
+`  Hmm. I might be able to get along with this person.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  That's impossible-nya.@
+`  The character's favorite move is the High Angle Guillotine Flag.
+\
+`  It's called that because the head of Vampire Sacchin pierced by the pile bunker looks like a flag hanging from the heavens.
+\
+ld l,"tachi/stk_t08",crossfade,200
+`  I see. We can't be friends in that case.
+\
+bg #ffffff,lcartain,1000
+bg "bg/t06",lcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+`  Oh, are these Sion-san's expressions?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Yup. There's more.
+\
+bg #ffffff,rcartain,1000
+bg "bg/t07",rcartain,1000
+ld l,"tachi/stk_t09",crossfade,200
+`  Wow... Sion-san sure is beautiful... Huh? But the one where she has her eyes closed looks like that person from before...
+\
+ld r,"tachi/neko_t02b",notrans,0
+`  Howling cat's paw!
+\
+cl r,notrans,0
+quakexy 10,10,400
+quakexy 10,10,1000
+wave pd/s09
+bg #ffffff,crossfade,400
+bg "bg/bg_59",crossfade,800
+ld r,"tachi/ark_t31b",crossfade,200
+`  Don't say careless things.@
+`  You won't live long like that.
+\
+ld l,"tachi/stk_t04",crossfade,200
+`  No way... It does this much damage when I'm a vampire...?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Nyanyanya, it's a hundred years too early to call yourself a vampire.@
+`  You're a baby compared to me.@
+`  I'll shoot you off to Mars.
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  Oh... Okay... (A bit impressed)
+\
+ld r,"tachi/neko_t01b",crossfade,400
+ld r,"tachi/neko_t01a",crossfade,400
+`  Good that you're honest.@
+`  Now let's go into the introduction of Satsuki Concept Art (2).
+\
+`  It seems Sacchin is beginning to be self-conscious of her vampirism, so let's put our focus on Vampire Sacchin this time!
+\
+bg #ffffff,lcartain,1000
+bg "bg/s08",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s09",bcartain,1000
+wait 1500
+bg #ffffff,lcartain,400
+bg "bg/s10",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s11",bcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+`  What do you think?@
+`  She's surprisingly evil.@
+` That's all for the Vampire Sacchin.
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  I-I'm not evil!@
+` I'm only running wild a bit!
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,400
+`  Ohh?@
+` You'll be surprised later if you call this running wild. Well, I have nothing to do with this.
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  Uh... But the last one is pretty normal.@
+` I think I was a vampire because I had my hair down.@
+`  ... Do you know when that is used?
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Nope.@
+` The one in charge of the scenario said he saw it for the first time too.@
+`  A surprising fact. Are those two really friends?
+\
+ld l,"tachi/stk_t08",crossfade,200
+`  I, I see... But I look good, right?@
+` I guess I can smile like that.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Huhuhu.@
+` It's too early to be relieved.@
+`  Take this!
+\
+bg #ffffff,lcartain,800
+bg "bg/s14",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,800
+bg "bg/s15",tcartain,1000
+wait 2000
+ld l,"tachi/stk_t11",crossfade,200
+`  Eh-ehhhhhhhhhh!?
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  ............ Who is this?
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  T-the first one was me, but... this is...?
+\
+cl r,crossfade,200
+ld c,"tachi/neko_t01a",crossfade,200
+`  Don't play dumb-nya.@
+` That's Sacchin in her true form.@
+`  It can't be anyone but you with this underling look[line=4]
+\
+ld l,"tachi/stk_t08",crossfade,200
+`  Huhu, uhuhu, uhuhuhuhu!
+\
+wave pd/s09
+bg #ffffff,notrans,0
+wait 100
+bg #000000,notrans,0
+wait 100
+bg #9c0120,notrans,0
+quakexy 10,10,200
+bg "bg/bg_59",bshutter,800
+ld l,"tachi/stk_t06",crossfade,200
+`  Well, this is the next one.@
+` This must be the old drawing of me when I'm not a vampire.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s16",lcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+`  Nope, you're a vampire in this one as well.@
+`  You look a bit pretty because humans get better looking once they become vampires.
+\
+`  Your hair is long because... Well, I guess it's like broadening the antenna?
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  Really? I get prettier once I become a vampire?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Well.@
+` Let's show the definite evidence.@
+`  Here.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s12",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,1000
+bg "bg/s13",tcartain,1000
+wait 1500
+ld l,"tachi/stk_t09",crossfade,200
+`  Wow.
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Well, they look like different people.@
+`  Sacchin that's not soft isn't Sacchin anymore.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  We'll forget about this whole configuration saying you become prettier once you become a vampire.
+\
+ld l,"tachi/stk_t11",bshutter,200
+`  I, I refuse!@
+` I oppose ignoring the configuration!@
+` W-we've made so many configurations, we have to follow them!
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Come on. We're not going to be ignoring every one of them.
+\
+`  Muhuhu.@
+`  Then we'll show the best one, the final Sacchin!
+\
+playstop
+bg #ffffff,tshutter,800
+bg "bg/scroll19",tshutter,1000,bottom
+wait 2000
+`  Gogogogogogogo (onomatopoeia: pressure).
+\
+bg "bg/scroll19",bscroll,4000,top
+wait 2000
+ld r,"tachi/ark_t30",crossfade,200
+`  Gogogo... huh?
+\
+ld l,"tachi/stk_t09",crossfade,200
+`   (Flabbergasted)
+\
+ld r,"tachi/ark_t31a",crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+`  Hm, I found a fake!@
+`  Kill the fake Satsuki!
+\
+ld r,"tachi/neko_t02",crossfade,200
+rocket layer=r my=-200 magnify=5.0 time=800 accel=4 opacity=64
+cl r,notrans,0
+ld l,"tachi/stk_t12",crossfade,200
+`  D-don't do it!!
+\
+bg #ffffff,lexpl,4000,center
+wait 4000
+play "*03"
+bg "bg/bg_59",crossfade,1000
+ld r,"tachi/ark_t30",bshutter,200
+`  Huh!?@
+` W-what was that!?@
+`  Could this be the power of Sacchin...!?
+\
+ld l,"tachi/stk_t02",crossfade,200
+`  That's right.@
+` That's Yumizuka Satsuki with her vampire powers fully unleashed.
+\
+`  And when ****** does **** and ******* and *******[line=4]
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  Hey, there's too many asterisks...!
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  I said there can't be any spoilers.
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  But isn't that fine?@
+`  It doesn't matter if people know or not because the true identity of that Sacchin will be in the dark forever.
+\
+cl l,rshutter,800
+`  Uwaaah!@
+`  It won't be in the dark forever[line=3]!
+\
+bg #000000,rshutter,2000
+wait 1000
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01a",crossfade,200
+`  Well, I guess this is it.@
+`  So, did you enjoy your 15 minutes of fame, Sacchin?
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  ... Heh, this can't be the end.@
+`  The scenario is done, and there are a lot more event graphics[line=3]
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  The mushroom guy looked over your scenario and was banging his head.@
+`  It was two years ago, so I bet all the jokes are old now.
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  I, I'm sure he would rewrite it in that case!@
+`  Some stranger said that Tsukihime is going to be rewritten after Fate!
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  I bet that stranger is a real stranger, so I wouldn't trust him.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Hmm, but your scenario might come after Fate.@
+` The mushroom and the maid guy both want you to be successful.
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  Oh, really!?
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Nya.@
+` But it'll be in a strange title that's not Tsukihime.
+\
+ld l,"tachi/stk_t11",crossfade,200
+`  T-they can't do that!@
+`  Tohno-kun won't be in any other story!
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Hm?@
+` Oh? So you don't want your own story, but just want to hook up with Shiki?
+\
+ld l,"tachi/stk_t07",crossfade,200
+`  Eh...... Yeah, that's right.
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  I made him cry in the end.@
+`  If there is any other way to end it, I want for him to smile when we part.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  I see.@
+`  I'll grant your wish then.@
+`  I'll double and quadruple it.
+\
+bg #ffffff,crossfade,1500
+bg "bg/s17",crossfade,1000
+ld l,"tachi/neko_t01a",crossfade,200
+`  How do you like it?@
+`  You're now lovey dovey with Shiki. Are you satisfied now?
+\
+`  "xxxxxxxxxxxxxxxxx"
+\
+ld l,"tachi/neko_t01b",crossfade,200
+`  I guess it was too much for Sacchin.@
+`  Then, for the final part, I'll show you what happens in the climax of your route.
+\
+play "*04"
+bg #000000,bshutter,800
+bg "bg/bg_52",crossfade,800
+`  Satsuki turns more into a vampire as the days go on.@
+`  Michael Roa Valdamjong accepts Satsuki's talent and comes after her to control her.
+\
+`  To protect Satsuki, Shiki and the white vampire princess head to the stronghold of Roa, the school.@
+`  Nrvnqsr Chaos, the sworn friend of The Serpent, awaits there.
+\
+`  The building goes up in flames, and the town is swarmed with black beasts!
+\
+`  While the three-pronged battle for Roa's coffin rages on, Satsuki finally decides to fight, but[line=5]
+\
+`  Next episode on Tsukihime. Final episode of the Yumizuka Satsuki route, Dismantlement of Dreams and Reality.@
+`  The one holding the key to everything is[line=4]
+\
+playstop
+bg #ffffff,crossfade,800
+wait 2000
+bg "bg/bg_sp02",crossfade,2000
+ld r,"tachi/neko_t01b",crossfade,200
+`  This-nya.
+\
+ld l,"tachi/stk_t12",crossfade,200
+`  Kyaaa[line=4]it's burning[line=3]!?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Oh, Sacchin is burning.
+\
+`  A cannon!?@
+` Why!?@
+` Why is there a cannon!?
+\
+ld r,"tachi/ark_t31a",crossfade,200
+`  Don't take this lightly, as this is no ordinary cannon.@
+`  This is a cannon to exterminate vampires installed at the top of the Tohno mansion.
+\
+`  Sacchin will be targeted from the top of the hill with this.
+\
+ld l,"tachi/stk_t04",crossfade,200
+`  Oh, I'm in a big pinch! Help me, Tohno-kun...!@
+`  ... Wait, what kind of a story is this!?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  You'll have to play through the game to find out.@
+`  It'll be boring if I spoil too much.
+\
+bg #ffffff,crossfade,1000
+play "*03"
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01b",crossfade,200
+`  Well, the time limit is drawing near.@
+`  It's time to say goodbye, Sacchin.
+\
+ld l,"tachi/stk_t13",crossfade,200
+`  What...?@
+`  It's fine to end now since we're running out of things to talk about, but what do you mean by a time limit?
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  It's the time limit of the nuclear bomb set in this cafe.@
+`  It's 3 more seconds, by the way.
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  3 seconds... Haha, we can't even run away in time.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Yup, I wish you luck.@
+` Let's meet in the Sacchin scenario if you're alive.@
+`  We'll be enemies then, alright?
+\
+ld l,"tachi/stk_t10",crossfade,200
+`  That's fine... But that bomb seems to be on your back... Actually, it looks more like a nuclear missle.
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  What-nyaaaaa!!!!!???
+\
+ld r,"tachi/neko_t01a",crossfade,200
+`  Oh, can you get it for me, Sacchin?
+\
+ld l,"tachi/stk_t03",crossfade,200
+`  Sorry, I refuse.
+\
+cl a,crossfade,200
+ld c,"tachi/ark_t30",bshutter,200
+`  Gnyaaa!@
+` The jet lander turned into a scud missile!?
+\
+rocket layer=c my=-600 magnify=0.2 time=1200 accel=5 mode=stNearest wait=false
+wave pd/fly
+bg #ffffff,lcircle,1200
+bg "bg/ima_06b",ccircle,400
+`  Y-you trapped me, Ciel!@
+`  What happened to the Liu Bei Brothers-like oath we made at the crocodile garden?
+\
+bg "bg/title_01",crossfade,800
+wave pd/s21
+bg #ffffff,crossfade,2000
+wait 4000
+play "*03"
+bg "bg/bg_59",lcartain,1000
+ld c,"tachi/stk_t13",crossfade,200
+`  ... I'm alone now.
+\
+`  The program director's gone now, so I guess it does no good for me to stay here.@
+`  Excuse me, I'd like the check!
+\
+ld c,"tachi/stk_t01",crossfade,200
+`  Well, I'm going home now. But I'll leave you all a message.@
+`  It is the staff consensus that the Satsuki scenario will be released in one form or another.
+\
+`  It will be a long break, but please relax and wait.
+\
+ld c,"tachi/stk_t03",crossfade,200
+`  Well, goodbye!@
+`  Let's meet again on the hill in the sunset in the main storyline of Tsukihime!
+\
+playstop
+cl c,tshutter,800
+bg #000000,crossfade,3000
+textbox nvl

@@ -1,0 +1,102 @@
+phase "bg/bg_22b",r,ark,02a,2
+bg #ffffff,crossfade,400
+!w2000
+`"[line=3]Bom dia."@
+br
+` …… Ouço uma voz desconhecida.
+\
+` O sonho desaparece quando essa voz me traz de volta à realidade.
+\
+`"Já é manhã.@ Está na hora de acordar, Shiki-sama."@
+br
+` Uma voz familiar conversa comigo.@
+` …… Pare de me chamar de Shiki-sama.@
+` Eu te falei que isso me dá arrepios nas costas[line=4]
+\
+bg "bg/bg_40a",crossfade,800
+ld c,"tachi/his_t01",lshutter,400
+play "*2"
+` [line=3]Eu acordo.@
+` A Hisui está longe da cama, parada como uma estátua.@
+`"Mm……"@
+` Ainda sonolento, eu olho tudo à minha volta.@
+ld c,"tachi/his_t16",crossfade,400
+`"Bom dia, Shiki-sama."@
+` A garota com uniforme de empregada faz uma mesura.@
+` Eu duvido do que os meus olhos veem por um segundo.@ Mas acabo me lembrando da minha condição atual.
+\
+`"Ah… é mesmo, eu voltei para casa, né…"@
+` Vou me levantando e observando o quarto.@
+cl c,crossfade,400
+` Olho lá para fora e vejo que o tempo está ótimo.@
+` Um céu azul igual ao do meu sonho.@
+`"Bom dia, Hisui.@ Obrigado por vir me acordar."@
+ld c,"tachi/his_t01",lshutter,400
+`"Não há necessidade de me agradecer.@ É meu dever te acordar, Shiki-sama."@
+` Ela dá uma resposta padrão e sem sentimentos.
+\
+` *suspiro*@
+`"…… Por que você tem que ser tão formal?"@
+` Que pena!@
+` Se a Hisui tivesse ao menos a metade do brilho que a Kohaku tem, ela seria uma gracinha.@
+`"[line=3]Você precisa de alguma coisa?"@
+` Percebendo que estou olhando para ela, a Hisui olha diretamente nos meus olhos.
+\
+`"Não, de nada.@ Acordar com você aí me faz sentir que realmente estou na mansão Tohno…"@
+` Os olhos dela são frios como gelo.@
+` Vê-los assim, de repente, me faz lembrar de um sonho distante[line=3]
+`"[line=5]Entendo."@
+` Eu me lembro de tudo.@
+` Naquele dia, a garota que me deu aquela fita de cabelo antes de eu ser expulso da mansão, foi aquela que sempre nos observava da janela.@
+` Então, quer dizer que[line=3]
+`"Foi a…… Hisui."
+\
+`"Sim?@ Deseja alguma coisa, Shiki-sama?"@
+`"Ah…… Hisui, você se lembra?@ De quando eu fui embora da mansão há oito anos?"@
+`"Sim, eu me lembro.@ Tem alguma coisa em especial que queira discutir sobre aquele dia?"@
+`"Hein[line=3]alguma coisa em especial?@ Hisui?"@
+`"Por favor, me perdoe.@ Já se passaram oito anos desde que você partiu desta mansão.@ Portanto, mesmo que queira conversar sobre aquela época, não vou poder responder com detalhes específicos."@
+`"O qu[line=5]"@
+` Será que ela não se lembra da promessa que fizemos naquele dia?
+\
+`"Hisui[line=3]você não se lembra da fita de cabelo?"@
+ld c,"tachi/his_t23",crossfade,400
+`"…… Fita de cabelo……?"@
+` Ela parece triste quando admite com um pouco de dificuldade que não se lembra.@
+`"…… Sei.@ Bem, isso aconteceu há oito anos, né…… Desculpa, não é nada demais.@ Pode esquecer do que eu falei."@
+ld c,"tachi/his_t04",crossfade,400
+`"……………………"
+\
+` …… Ela não lembra da promessa.@
+` Mas também não é motivo para eu ficar com raiva.@
+` Talvez tenha sido apenas uma promessa infantil, mas me ajudou muito a enfrentar o futuro que eu tinha pela frente.
+\
+`"É melhor eu me levantar logo.@ Hisui, você sabe quantas horas são?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Já passam das sete horas da manhã."@
+`"Certo, então tenho pouco tempo sobrando."@
+` Levanto da cama e estico os braços.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"Shiki-sama, você realmente não tem muito tempo sobrando.@ São trinta minutos de caminhada da mansão até a sua escola.@ Você só tem vinte minutos para tomar o café da manhã."@
+`"Hã[line=4]ah, é mesmo, não estou na casa dos Arimas!"@
+` Entro em desespero.@
+` Estou acostumado com a casa dos Arimas que fica a apenas vinte minutos da escola, mas daqui eu nem conheço algum atalho.
+\
+ld c,"tachi/his_t16",crossfade,400
+`"Seu uniforme está ali, passado e pronto para usar.@ Por favor, dirija-se à sala de estar depois de se trocar."@
+cl c,lshutter,800
+`"Que droga, já que vai me acordar, me acorde mais cedo…"@
+` Murmuro de forma egoísta para mim mesmo e pego o uniforme.@
+` Está cuidadosamente dobrado, e a camisa até foi passada.@
+` Passar os pulsos por entre as mangas me dá uma sensação boa.@ Aquela sensação de estar vestindo algo novinho em folha.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lcartain,400
+ld l,"tachi/aki_t01a",crossfade,400
+ld r,"tachi/koha_t01a",crossfade,400
+` A Akiha e a Kohaku-san estão relaxando na sala de estar.@
+` A Akiha está usando o uniforme da Academia Asagami, uma renomada escola para garotas.@
+` Elas estão tomando chá juntas, graciosamente, como se o café da manhã já tivesse terminado há muito tempo.
+\
+cl a,crossfade,800

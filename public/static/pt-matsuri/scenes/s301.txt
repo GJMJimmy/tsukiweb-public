@@ -1,0 +1,162 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11c",notrans,0
+` [line=5]Tudo.@
+`     Tudo deve se transformar em uma ilusão.@
+!w1000
+wavestop
+\
+bg "bg/bg_11d",crossfade,1500
+` Eu me levanto segurando firmemente a faca.@
+br
+` Os passos ficam mais altos ainda.@
+` Sinto o inimigo se aproximando.@
+` Todo o tempo, a voz de alguém ecoa dentro da minha cabeça.@
+` Corte-a em pedaços.@ Corte-a em pedaços.
+\
+` Corte-a em pedaços.@ Corte-a em pedaços.@ Corte-a em pedaços.
+\
+`"U[line=4]"@
+br
+` Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços
+` Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços
+` Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços
+` Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços  Corte-a em pedaços[line=4]
+br
+`"Cala a boca."@
+` Usando a minha força de vontade, forço a voz na minha cabeça a ficar quieta.
+\
+`"Isso é o que eu decidi."@
+!w750
+` Corte[line=4]
+`"Não preciso de você para me dizer o que fazer."@
+!w750
+` a[line=4]
+`"Se não quiser ser morto pela Ciel."@
+!w750
+` em pedaços[line=4]
+`"Fique calado até que esteja tudo terminado, Roa."@
+!w750
+` [line=5]
+\
+` A voz desaparece completamente.@
+` Os passos[line=2]e sua sombra se aproximam.@
+br
+` [line=4]A Ciel aparece na minha frente.
+\
+ld c,"tachi/cel_t15",crossfade,400
+play "*7"
+`"[line=3]Finalmente decidiu lutar."@
+` Sua voz parece quase aliviada.
+\
+`"Isso é bom.@ Agora não há pecado para nenhum de nós dois.@
+` Agora que ambos estamos tentando matar um ao outro, nosso pecado morrerá.@ Agora só haverá punição para aquele que sobreviver."@
+` …… Já que ambos estamos tentando matar um ao outro não há mais pecado?@
+` Suas palavras fazem parte de um mundo que não compreendo.
+\
+`"Entendi.@ Então a punição para o que sair vivo é expiável?"@
+`"Sim.@ Algo expiável é o que chamamos de punição.@ Se isso é chamado punição, não há razão para não ser expiável.@ A única coisa que não desaparece é o pecado.@
+` Então[line=3]nós não queremos carregar esse fardo, queremos?"@
+` Dizendo isso,
+` ela dá mais um passo.
+\
+`"[line=2]Então, matar você aqui não é um pecado, Senpai?"@
+`"Isso mesmo.@ Eu vou matá-lo, então não tem problema você me matar, Tohno-kun.@ Nossas condições são iguais."@
+` Outro passo.
+\
+`"[line=8]"@
+` Isso não está certo.@
+` Certamente estou para ser morto, então vou matá-la para proteger minha vida.@
+` Mas dizer que não há pecado[line=3]o que aconteceria com a Ciel?@
+` Desde o início, ela veio até aqui com uma vontade de matar não correspondida.@
+br
+` Isso é[line=3]
+\
+`"Adeus.@ Vamos abaixar a cortina dessa peça ridícula."@
+` O último passo.@
+cl c,lshutter,800
+` Sua baioneta se atira em direção ao meu coração.@
+br
+` Antes disso,
+` dou uma investida para frente e miro no "ponto" em seu pulmão direito.
+\
+bg #000000,lshutter,800
+` [line=3]Não acho que possa matá-la.@
+br
+` É muito simples para ela furar meu coração antes que eu chegue dentro do alcance da faca.@
+` É por isso que fiquei surpreso.@
+` Eu me esquivei facilmente da sua lâmina e fui capaz de furar seu "ponto" com facilidade.@
+`"[line=4]Sen[line=2]pai."@
+` Parece que ela recebeu minha faca de propósito.
+\
+`"Eu te fiz… me… matar."@
+` Sua voz fraca, à beira da morte.
+\
+br
+br
+br
+br
+br
+br
+br
+`"Esse foi[line=2]o meu[line=2]maior pecado."
+\
+` Com uma voz de alguém que está chorando, ela usa o que resta da sua força para me apunhalar com a sua baioneta.
+\
+wave se_10
+bg "bg/bg_11c",crossfade,800
+quakey 1,100
+`"[line=6]Ga, hu."@
+` O fluxo do meu sangue se reverte para meu coração perfurado.@
+` Tossindo sangue, caio no chão.@
+br
+` Diante dos meus olhos,
+` está o corpo daquela que morreu um pouco antes de mim.
+\
+`"[line=4]Como[line=2]"@
+` Você sabia?@
+`"[line=4]Tola."@
+` Você sabia desde o princípio que, se houvesse algo como pecado, seria apenas para você?
+\
+`"Ha[line=4]ah."@
+` A sensação dos meus membros desaparece.@
+` Minha consciência também.@ Em segundos vou sangrar até a morte.@
+` No instante em que fui esfaqueado,
+` tive uma visão de um livro velho se espalhando e dissipando, página por página.@
+br
+` Provavelmente com isso, a coisa chamada Roa foi destruída.
+\
+`"…………"@
+` Não consigo pensar.@
+` Desde o início, ela planejava dar sua vida para tomar a minha.@
+` Será que ela pensou que isso fosse sua punição?@
+br
+` [line=3]Que tolice.@
+` Não há[line=3]sentido nisso.@
+br
+`"[line=3]Mesmo assim."@
+` Fiquei triste que ela tenha morrido antes de se desculpar comigo.
+\
+` Se ela tivesse se desculpado comigo, aposto que teria sentido algum alívio…… Mas nem isso pôde fazer.@
+` Como sabia que não era uma coisa que pudesse ser desculpada apenas por pedir desculpas, ela não se desculpou.@
+br
+` Quanta determinação.@ Fico nervoso por ter feito ela ir tão longe.
+\
+`"O quê.@ No final[line=4]"@
+` Eu gostava dela?@
+` Até o fim.@
+` Estou me sentindo triste assim até no momento da minha própria morte, quer dizer que ela realmente foi muito querida para mim.
+\
+`"[line=6]Tss."@
+` Tusso com dificuldade e cuspo sangue.
+\
+` Está tudo acabado.@
+` Olhando atordoado para a lua, com esses pensamentos estranhos, eu adormeç[line=4]
+\
+!w3000
+\
+playstop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

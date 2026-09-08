@@ -1,0 +1,28 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_05a",notrans,0
+`"…… Por quê?@ Por que você estava fazendo aquilo?@
+`"Por quê!?@ Porque esse é o meu trabalho."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Tohno-kun, você estava mentindo quando me prometeu que não ia mais sair por aí de noite, não é mesmo?"@
+` Ela força um sorriso enquanto fala.@
+`"Ah……"@
+` Realmente prometi isso a ela, mas[line=2]
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Você não manteve a promessa que fizemos.@ Você prometeu que não ia mais sair de noite."@
+`"……… Hum."@
+` Ela me encara.@
+` De repente, começo a me sentir o vilão da história, me sinto culpado pelo que fiz.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"Fiz aquela promessa com você para que algo assim não acontecesse.@ Uma promessa comigo significa tão pouco para você, Tohno-kun?@ Isso me deixa muito triste."@
+`"Ah[line=3]não, não é bem assim.@
+` Sobre ontem à noite[line=4]eu estava suspeitando que a Arcueid pudesse ser a culpada pelos assassinatos em série, mas não parecia certo suspeitar dela, por isso fui perguntar diretamente a ela e[line=3]"@
+cl c,crossfade,400
+\
+` Conto tudo sobre ontem à noite.@
+` A Senpai escuta tudo em silêncio.@
+` Conto como conheci a Arcueid acidentalmente, como ela me explicou sobre o vampiro que está nesta cidade, como me juntei a ela para salvar a cidade e tudo o que aconteceu até esse instantew.
+\

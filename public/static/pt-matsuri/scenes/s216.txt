@@ -1,0 +1,202 @@
+playstop
+wavestop
+bg "bg/bg_34b",tcartain,800
+play "*1"
+` O jantar acabou e estamos tomando chá na sala de estar.@
+` A Akiha está sentada na minha frente e a Hisui está em pé perto da parede.@
+` Não tem uma televisão nem nada do tipo nesta sala e a Akiha não parece a fim de conversa.@
+br
+` [line=3]Tudo aqui parece tão… Requintado.
+\
+`"Shiki-saaan, pode vir aqui um instante?"@
+` A voz animada da Kohaku-san me chama do saguão.@
+ld c,"tachi/aki_t01b",lshutter,400
+`"Nii-san?@ A Kohaku está te chamando.@ Você fez alguma coisa para que houvesse a necessidade de ela te chamar?"@
+`"Não, não me lembro de ter feito nada[line=3]já volto."
+\
+bg #000000,lshutter,800
+bg "bg/bg_33c",lshutter,800
+` Eu vou para o saguão.@
+` A Kohaku-san está andando de um lado para o outro perto da entrada da mansão.@
+`"…… Kohaku-san.@ O que está fazendo?"@
+ld c,"tachi/koha_t02",lshutter,400
+`"Ah, Shiki-san.@ Hum, é meio complicada a situação…… Podemos ir lá para fora?@ Aqui não é um bom lugar para conversarmos."@
+`"……?"@
+` Não entendo o que está acontecendo, mas vou atrás dela.
+\
+bg "bg/bg_48c",lcartain,800
+`"Você quer me falar alguma coisa?@ É um segredo?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Sim.@ Se a Akiha-sama ouvir isso, ela vai ficar muito brava com você, Shiki-san."@
+` Humm, é algo que deixaria a Akiha brava……?@
+`"Do que está falando?@ Eu não fiz nada para irritá-la."@
+`"Ah, mas não é que você tenha feito alguma coisa.@ É que[line=4]enquanto vocês jantavam, chegou uma visita para você."
+\
+`"Hein?@ Uma visita[line=4]para mim?"@
+`"Sim.@ Ela estava dando voltas perto do portão principal da mansão, por isso eu a chamei.@ Ela estava usando o uniforme da sua escola."@
+` E então a Kohaku-san começa a descrever a aparência da visita.@
+` Parecia ter a minha idade e um rosto meio infantil.@ Uma garota bonita e de maria-chiquinha……?
+\
+`"…………"@
+` Tu, dum.@ Meu mundo é tomado pela escuridão.@
+` Essa pessoa.@
+` Só pode ser a Yumizuka Satsuki, a garota que fugiu de casa[line=3]
+\
+`"Ela me perguntou se esta era a mansão dos Tohnos e eu respondi que sim.@ Aí ela perguntou: 'O Tohno-kun está em casa?'"@
+`"…… Humm.@ E o que mais aconteceu, Kohaku-san?"@
+`"Ela parecia querer falar com você, mas se recusou a entrar quando a convidei.@ Ela não parecia estar com muita pressa para falar com você."@
+` A Kohaku-san parece meio confusa com o acontecido.@
+` Mas sou eu quem mais quer saber o que foi tudo isso.
+\
+`"Por que[line=6]a Yumizuka-san veio até a minha casa……?"@
+` Não faço ideia do motivo.@
+` Não faço ideia, mas estou com um mau pressentimento.@
+`"…… Kohaku-san, tem quanto tempo que isso aconteceu?"@
+`"Hum, foi antes de terminarem o jantar, acho que tem uns dez minutos."@
+`"[line=2]!@ Ela saiu em qual direção?"@
+`"Ela desceu a colina, acho que foi na direção da estação."
+\
+` [line=3]Será que consigo alcançá-la?@
+` Se eu correr[line=3]e der sorte, talvez consiga.@
+`"…… Certo.@ Eu vou sair um pouco, por favor, mantenha isso em segredo da Akiha."@
+ld c,"tachi/koha_t03",crossfade,400
+`"Tudo bem.@ Se a Akiha-sama descobrir, ela não te deixaria em paz mesmo, Shiki-san."@
+` Faço uma breve mesura para a sorridente Kohaku-san e saio correndo noite adentro.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_24c",lcartain,800
+` *arf*[line=4]*arf*, *arf*[line=4]
+` Correndo com todas as minhas forças, vou na direção da estação.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` *arf*, *arf*, *arf*, *arf*[line=4]!@
+` Procuro pela Yumizuka em meio à multidão na frente da estação.@
+br
+` *arf*…… *arf*, *arf*………
+` Já estou sem fôlego.@
+` Minhas pernas não aguentam mais o cansaço e sou obrigado a parar.
+\
+`"…… Eu sabia…… Que não seria[line=4]tão fácil assim[line=4]encontrá-la……"@
+` *arf*, *arf*.@
+` Tento controlar minha respiração e volto a correr.
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+br
+` [line=3]Não vejo essa garota em parte alguma.@
+br
+` Mas não vou desistir tão facilmente.@
+` …… Eu nem acho que é porque estou muito preocupado com ela.@
+` Eu estou com um pressentimento terrível, é por isso que estou correndo feito louco.
+\
+` [line=3]Então, nos vemos na escola amanhã.@ Tchauzinho, Tohno-kun.@
+br
+` Foi uma despedida como qualquer outra.@
+` …… Com um sorriso feliz e amável.@
+` Não era o sorriso de uma pessoa que fugiria de casa.@
+br
+` [line=3]Tohno-kun, se algum dia eu estiver em apuros, você vai aparecer para me ajudar, né?@
+br
+` Eu[line=4]@
+` Eu… Não quero trair aquele sorriso[line=4]
+\
+bg "bg/bg_28b",lcartain,800
+` Meu peito arfa com força.@
+` Ela não está no parque também.@
+` …… Desde o início, não havia uma forma específica para encontrá-la.@
+` Eu deveria desistir e ir embora para casa.@
+`"…… Que…… Droga……"@
+` Mesmo dizendo isso, ainda fico procurando por ela enquanto faço meu caminho de volta pelo centro da cidade.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Chego na frente da estação novamente.@
+` Já passam das nove horas da noite.@
+` É provável que seja por causa dos recentes assassinatos em série que essa região em volta da estação está praticamente deserta.@
+br
+` [line=4]E neste exato momento…
+br
+`"Yumi[line=4]zuka."@
+` Por um instante, duvidei dos meus olhos.@
+` Mas as costas da garota que está na minha frente me lembram demais da Yumizuka Satsuki.
+\
+wave se_01
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_25b",notrans,0
+` A Yumizuka anda no meio da multidão.@
+` …… Eu não posso afirmar com certeza que é ela.@
+` Eu até posso estar enganado, mas já decidi que vou atrás dela.@
+`"Espera, Yumizuka-san[line=3]!"@
+` Eu grito enquanto corro atrás dela.
+\
+ld c,"tachi/stk_t10",lshutter,400
+`"[line=6]"@
+` Ela olha para trás, parece que ouviu minha voz.@
+wave se_01
+bg #000000,notrans,0
+wait 100
+bg "bg/bg_25b",notrans,0
+` Aquele rosto… É ela mesmo.@
+` Sem dúvida alguma, a garota que estou perseguindo é a Yumizuka Satsuki, e ela não está com uma expressão assustadora.
+\
+`"[line=4]Ah."@
+` Mas senti um arrepio correr pela minha coluna.
+\
+br
+wave se_01
+` [line=3]Tu, dum.@
+` Meu coração está batendo rápido.@
+` A minha nuca fica pesada e a minha garganta está queimando.@
+br
+`"Mas que coisa… Isso é muito estranho…"@
+` Todo o meu corpo está ardendo.@
+` Estou com uma tontura terrível, é como se estivesse com uma febre de quarenta graus.@
+br
+` E nesse momento, a Yumizuka volta a andar.
+\
+bg "bg/bg_26a",lcartain,400
+waveloop se_02
+`"E[line=3]espera, Yumizuka-san…!"@
+` Eu grito e corro.@
+` Ela continua andando sem se virar.@
+`"N… Não está me ouvindo, Yumizuka…!?"@
+` Forço o meu corpo para continuar seguindo-a.@
+` Mas não consigo alcançá-la de forma alguma.@
+br
+` …… Não importa o quanto eu corra, não consigo alcançá-la e ela está simplesmente andando.
+\
+`"[line=6]"@
+` Tem algo muito… Estranho.@
+` Eu sei que tem, mas não sei o que é.@
+` Tudo que posso fazer agora é ir atrás dela.@
+bg #000000,lshutter,800
+bg "bg/bg_26a",lcartain,800
+br
+` [line=2]E então.@
+br
+` Perco-a de vista.@
+` A Yumizuka Satsuki desapareceu completamente do meu raio de visão.
+\
+`"…… Porcaria… Que merda é essa que está acontecendo…!"@
+` Eu paro pra recuperar o fôlego.@
+` Meu peito arfa com muita força.@
+` …… Embora não tenha percebido enquanto o fazia, eu estive correndo por um longo tempo.@
+`"Que… Horas são…?"@
+` Descansando as mãos nos joelhos, olho pela vitrine de uma loja próxima.@
+` Já é[line=2]meia-noite.
+\
+`"[line=4]Não é possível.@ Não tem como eu ter ficado correndo por aí tanto tempo assim."@
+` …… É difícil de acreditar, mas o relógio não mente.@
+` Olho à minha volta e percebo que praticamente todas as lojas do distrito comercial estão fechadas.
+\
+`"[line=3]Eu vou é… Ir embora pra casa."@
+` Mesmo estando preocupado com a Yumizuka, tenho a sensação de que não vou conseguir encontrá-la mais.@
+` …… Eu a persegui por quase quatro horas, chamando pelo seu nome todo esse tempo, mas ela nem respondeu.@ Qual o problema dessa garota?@
+br
+` Suspirando profundamente, decido voltar para a mansão.
+\
+wavestop
+bg #000000,lcartain,800

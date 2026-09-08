@@ -1,0 +1,253 @@
+playstop
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_41",lcartain,800
+` O quarto do meu pai está como sempre esteve.@
+` Quase todas as fileiras de livros são relatórios educacionais, nada prende a minha atenção.@
+` O que quero agora é o diário ou as anotações daquele velho.@
+` Ele era extremamente metódico.@ Com toda certeza deve ter alguma coisa assim em algum canto deste quarto[line=3]
+`"…… É claro que não vai estar à vista para qualquer um ver."@
+` Quem sabe trancaram em algum lugar!?@
+` Vou olhar na gaveta da escrivaninha primeiro.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+` Pego um abridor de cartas que estava em cima da escrivaninha e corto a "linha" do cadeado da gaveta.@
+` Dentro da gaveta parece haver alguns documentos antigos reunidos e o que aparenta ser um diário.
+\
+` Primeiro, vou verificar os documentos.@
+`"…… Isso aqui é… A árvore genealógica da nossa família?"@
+` Sem dúvidas.@
+` Depois de Tohno MAKIHISA, estão escritos os nomes Tohno SHIKI e Tohno AKIHA.@
+br
+`"Hã…… Aquele velhote adotou um menino há dez anos… Ah, mas ele morreu pouco depois."@
+` Há dez anos, eu estava no primário.@
+` Foi há tanto tempo, lógico que não ia me lembrar.
+\
+`"Nossa, os chefes da família tiveram uma vida bem curta.@ Meu pai morreu antes de completar cinquenta anos e o chefe antes dele morreu antes dos trinta anos em um acidente… Uau, o anterior a ele morreu com dezoito anos de idade e foi suicídio…!?"@
+br
+` [line=4]Opa, espera aí.@
+` Não importa de qual forma eu olhe para isso[line=4]é muito estranho.@
+br
+play "*4"
+wave se_01
+` Pela informação nesta árvore genealógica, todos os membros da família Tohno morreram de uma forma estranha.@
+` Loucura.@ Acidentes.@ Assassinatos.@ Desaparecimentos.@ Dentro do útero.@
+` …… Nenhum deles teve uma vida longa ou morreu em paz.
+\
+bg #000000,crossfade,400
+bg "bg/bg_41",crossfade,400
+wave se_01
+`"O qu…………"@
+` Todo este documento está preenchido por destinos horríveis.@
+` O pior de tudo é que a maioria das mortes é causada por loucura.@
+` A maioria deles tirou a própria vida.@
+`"Tem algo errado aí[line=3]muito errado."@
+` Mas não consigo dizer exatamente o que é.
+\
+`"…… Agora é…… O diário do meu pai."@
+` Pego o diário com uma encadernação relativamente nova.@
+br
+` [line=4]Tum, dum.@
+br
+` Meu coração acelera.@
+` Ele parece entender que eu não devia abrir isso.@
+` Mas agora não posso voltar atrás.@
+` Engolindo em seco, abro o diário.
+\
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/bg_41",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Tem um demônio que espreita a linhagem Tohno.
+\
+` Essa é a primeira frase.@
+br
+` E não é uma mera analogia.@
+` Os ancestrais dos Tohno eram uma mistura de "algo não-humano" e humanos.@ Nós, como seus descendentes, também temos esse fator "não-humano" no nosso sangue.
+\
+` Quanto ao sangue…
+` Existem os com sangue 'não-humano' forte e os com sangue fraco.@
+` Esses últimos podem viver como pessoas normais, mas os com sangue forte nunca poderão ter uma vida normal.@
+br
+` Aqueles que possuem o sangue Tohno forte nascem com poderes especiais.@
+` Os poderes podem se manifestar de formas variadas, como um corpo resistente à morte,
+` ou a habilidade de mover as coisas sem tocá-las,
+` ou até presas utilizadas para tirar fluídos corporais de outras pessoas.
+\
+` Esse sangue.@
+` Quando esse sangue se torna forte demais, os membros da família Tohno começam a perder a sanidade gradualmente.@
+` E a maioria dos membros da família Tohno que perdem sua sanidade se tornam demônios que se alimentam de carne humana.@
+` Portanto, o chefe da família Tohno tem a responsabilidade de punir aqueles que se transformaram em monstros.
+\
+monocro off
+`"[line=8]Ha."@
+` …… É uma confusão só.@
+` O que é que ele queria dizer?@
+` Ele escreveu com tamanha seriedade sobre algo que mais tem cara de conto de fadas.@
+br
+` O diário se transforma em um desabafo do meu pai.@
+br
+` A data é aproximadamente uns nove anos atrás.@
+` A letra começa a ficar menos caprichada.
+\
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/cmo_10",crossfade,400
+` …… Não sou mais capaz de suprimir meu sangue enfurecido.@
+` Eu consegui obter uma orfã de uma família de Sincronizadores, assim sendo, deve colaborar para fortalecer a minha mente.@ Porém, é só uma questão de tempo até que eu fique louco.
+\
+` …… É aterrorizante.@
+` Quando volto a mim, percebo que não consigo me lembrar nem da metade do que aconteceu no dia.@
+` Durante esse período, é quando forço o meu impulso de inversão naquela criança.@
+` Se isso continuar,
+` é apenas uma questão de tempo até eu perder por completo a minha sanidade e me transformar em um animal irracional.@
+` Nem sei quanto tempo ainda me resta para permanecer como eu mesmo.
+\
+` Não.@ Se aquela criança estiver aqui, posso durar mais alguns anos.@
+` Mas ela não vai ser capaz de suportar isso.@ Depois que ela quebrar, vou ter que tirar a minha própria vida.@
+br
+` Porém, até então[line=3]devo proteger os meus filhos.@
+` O sangue da Akiha é fraco.@ A menos que ela mesma deseje, não vai precisar sofrer o mesmo destino que eu.
+\
+` O verdadeiro problema é o SHIKI.@
+` A situação dele está incrivelmente próxima da minha.@
+` Não desejo que ele sofra o mesmo destino que eu.@
+` …… Preciso distanciá-lo o máximo possível do nome Tohno e ver como ele vai se virar[line=5]
+\
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_41",crossfade,400
+`"[line=9]"@
+` Termino de ler em um estado de surpresa e horror.@
+` O conteúdo do diário é tão irreal que chega a ser totalmente bizarro.@
+br
+` Ele não era só um maníaco-depressivo.@
+` Melhor seria dizer que ele ficava violento sem saber.@
+` Exatamente como o Tohno Shiki está agora.
+\
+`"…… Não."@
+` Isso está errado.@
+` O velhote não era como eu.@
+` Eu que sou como ele.
+\
+` E por medo disso, ele me enviou para longe da mansão.@
+` Mas eu estou de volta, e o meu sangue dormente despertou.@
+`"Ahaha…… Isso é tudo bobagem."@
+` Tento rir, mas me vejo incapaz de achar graça nisso.@
+` O sangue Tohno está misturado com o sangue de algo não-humano.@
+` Os que tem o sangue Tohno correndo em suas veias possuem poderes especiais.@
+` …… Não dá para levar na brincadeira.@
+` Poderes sobrenaturais.@ Estive com algo desse tipo por oito anos.@
+` Esses meus olhos anormais, capazes de ver a morte das coisas.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+`"G………………………"@
+br
+` [line=6]Sinto vontade de vomitar.@
+br
+` Não consigo ficar de pé.@
+` Rápido.@
+` Preciso voltar para o meu quarto e me deitar; parece que há algo errado com a minha cabeça.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_40b",crossfade,400
+!w3000
+wave se_04
+`"Shiki-sama, você já voltou?"@
+br
+` …… Escuto uma voz parecida com a da Hisui.@
+br
+`"Com licença, Shiki-sama."@
+br
+ld c,"tachi/his_t01",lshutter,800
+play "*1"
+` …… A Hisui entra no meu quarto.
+\
+`"Por favor, me perdoe.@ Eu não percebi que havia retornado, por isso não fui recebê-lo na porta."@
+`"…… Tudo bem.@ Eu voltei mais cedo mesmo.@ Hisui, será que pode me deixar sozinho?@ Não estou com ânimo para conversar com ninguém."@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama, está se sentindo mal…?"@
+`"[line=3]Não sei.@ Eu mesmo não entendo direito."
+\
+`"…………………"@
+` Ela me fita com olhos preocupados.@
+` …… Que droga, o que estou fazendo?@
+` A Hisui está preocupada comigo; não tenho motivos para descontar nela……!
+\
+`"…… Olha, me desculpa, eu só não estou me sentindo muito bem.@ Quero dormir até a hora do jantar; tem algum remédio pra eu tomar?@ Um remédio pra dor de cabeça seria ótimo agora."@
+ld c,"tachi/his_t01",crossfade,400
+`"Sim, vou buscar."
+\
+cl c,lshutter,800
+!w2000
+ld c,"tachi/his_t01",lshutter,800
+`"Desculpe a demora.@ Por favor, beba isto."@
+`"Obrigado, como sempre, e desculpe."@
+` Pego o copo d'água e o remédio em pó que a Hisui me trouxe.@
+` Por algum motivo, há dois tipos de remédios.@
+`"Hã?@ Dois?@ Pra que dois?"@
+`"Eu falei para a Nee-san que você não estava se sentindo bem e ela me entregou alguns remédios que o seu médico receitou.@
+` Esse é para ajudá-lo a dormir.@ Contém benzodiazepina, conhecida por ajudar a ter um sono relaxado."
+\
+`"…………?"@
+` Eu confio na Kohaku-san, mas ela não precisava explicar para a Hisui todo esse conhecimento especializado…
+ld c,"tachi/his_t23",crossfade,400
+`"…… Nossa, a Kohaku-san planeja virar uma farmacêutica licenciada?"@
+` Dito isso, bebo o remédio.@
+ld c,"tachi/his_t19",crossfade,400
+` Bebo a água para engolir o remédio.@
+` Aparentemente, tem efeito rápido; já comecei a ficar com sono.
+\
+`"…… Vou dormir.@ Por favor, me acorde na hora do jantar."@
+ld c,"tachi/his_t01",crossfade,400
+`"Entendido.@ Com licença."@
+cl c,lshutter,800
+` A Hisui vai na direção da porta.@
+` A minha consciência começa a desaparecer.@
+br
+` …… Vou dormir só um pouquinho.@
+` Ainda é de dia.@
+` Eu não devo ter nenhum daqueles sonhos terríveis[line=3]
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+bg "bg/bg_40c",crossfade,800
+ld c,"tachi/his_t16",lshutter,400
+`"Boa noite, Shiki-sama."@
+cl c,lshutter,400
+` A Hisui sai do quarto fazendo uma mesura.
+\
+` Solto um bocejo longo.@
+` …… Ainda estou um pouco sonolento.@
+` O remédio da Kohaku-san foi muito forte, fiquei com a cabeça nas nuvens o jantar quase todo.@
+br
+` São quase nove horas da noite.@
+` Já tirei uma soneca, então está meio cedo para ir dormir.
+\
+bg "bg/bg_40d",notrans,0
+` As luzes da mansão são desligadas às dez.@
+`"…… Bom, o que devo fazer?"@
+` Digo isso calmamente, mas não tenho ideia do que fazer agora.@
+br
+` …… O que são esses sonhos que continuo tendo?@
+` Será que eu sou igual ao meu pai, que fazia as coisas inconsciente, e realmente saí por aí para matar alguém?
+\
+` …… Não, essa interpretação não pode estar certa.@
+` Se eu saí da mansão à noite e fui perambular pela cidade, a Kohaku-san e a Hisui com certeza teriam percebido algo.@
+` Não posso explicar o fato de acordar na minha cama limpinha sendo que eu estava banhado em sangue.
+\
+`"……… Só há um jeito de ter certeza."@
+br
+` Sim, se eu quiser provar alguma coisa[line=3]
+\

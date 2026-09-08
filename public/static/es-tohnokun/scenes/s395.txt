@@ -1,0 +1,253 @@
+playstop
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_41",lcartain,800
+` La habitación de mi viejo es la misma de siempre.@
+` Casi todas las filas de libros son informes educativos, y nada me llama la atención.@
+` Lo que quiero ahora es el diario de mi viejo o sus apuntes.@
+` El viejo era extremadamente metódico.@ Ciertamente debe haber algo parecido por aquí en algún lugar[line=3]
+`"…… Claro que no va estar tirado en un sitio donde cualquiera pueda verlo."@
+` Quizás esté bajo llave en algún lugar.@
+` Probablemente debería buscar en estos cajones primero.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+` Usando un abrecartas que estaba sobre el escritorio, corto la "línea" en la cerradura del cajón.@
+` Adentro, parece haber un fajo de viejos documentos, y lo que parece ser un diario.
+\
+` Primero, veré los viejos documentos.@
+`"…… ¿Éste es… mi árbol familiar?"@
+` Definitivamente.@
+` Debajo de Tohno MAKIHISA están escritos los nombres Tohno SHIKI y Tohno AKIHA.@
+br
+`"¿Huh…… mi viejo, adoptó un hijo hace diez años?@ …… Ah, pero falleció poco tiempo después."@
+` Hace diez años; debe haber sido cuando yo estaba en la escuela primaria.@
+` Fue hace mucho tiempo, es natural que no lo recuerde.
+\
+`"Pero, los líderes de la casa han tenido vidas bastante cortas.@ Mi viejo murió con menos de cincuenta años, y el anterior a él, con menos de treinta en un accidente…… Guau, el anterior murió, a los dieciocho por, ¿¡suicidio…!?"@
+br
+` [line=4]No, espera un segundo.@
+` Sin importar cómo lo mire, esto es extraño.@
+br
+play "*4"
+wave se_01
+` A lo largo del árbol familiar, todos los miembros de la casa Tohno han muerto de formas extrañas.@
+` Locura.@ Accidentes.@ Asesinato.@ Desapariciones.@ Muerte al nacer.@
+` …… Ninguno tuvo una larga vida o siquiera una muerte pacífica.
+\
+bg #000000,crossfade,400
+bg "bg/bg_41",crossfade,400
+wave se_01
+`"¿Qué…………"@
+` Todo este documento está lleno de horribles destinos.@
+` Aun peor, la mayoría de las muertes son por locura.@
+` La mayoría de ellos terminó quitándose su propia vida.@
+`"Es extraño[line=3]es simplemente extraño."@
+` Pero no puedo decir exactamente qué es lo extraño del caso.
+\
+`"…… Lo siguiente es…… el diario de mi viejo."@
+` Tomo el diario, cuya cubierta es relativamente nueva.@
+br
+` [line=4]Palpitar.@
+br
+` Mi corazón comienza a palpitar.@
+` Mi corazón parece entender que no debería estar abriendo esto.@
+` Pero no puedo devolverme ahora.@
+` Tragando con fuerza, abro el diario de mi viejo.
+\
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/bg_41",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Hay un demonio merodeando dentro del linaje Tohno.
+\
+` Esa línea es el comentario de apertura.@
+br
+` Y no es sólo una simple metáfora.@
+` Los ancestros de los Tohno eran una mezcla entre humanos y "algo no humano".@ Nosotros, como sus descendientes, también tenemos ese elemento de "algo no humano" en nuestra sangre.
+\
+` Respecto a nuestra sangre…
+` Existen aquellos cuya sangre no humana es fuerte, y aquellos cuya sangre no humana es débil.@
+` Los de sangre débil pueden vivir como personas ordinarias, pero los de sangre fuerte nunca pueden tener vidas normales.@
+br
+` Los que tienen sangre Tohno fuerte, nacen con poderes especiales.@
+` Podría ser un cuerpo resistente a la muerte,
+` podría ser una habilidad para mover las cosas sin tocarlas,
+` o podrían ser colmillos para tomar fluidos corporales de otras personas.
+\
+` Esta sangre.@
+` Cuando esta sangre se hace demasiado fuerte, los miembros de la casa Tohno comienzan a perder la cordura gradualmente.@
+` Y la mayoría de los miembros que pierden la cordura se convierten en demonios que se alimentan de carne humana.@
+` Por lo tanto, el líder de la casa Tohno carga con la responsabilidad de castigar a los que se han convertido en tales monstruos.
+\
+monocro off
+`"[line=8]Ja."@
+` …… Es todo un lío.@
+` Mi viejo, ¿qué estaba tratando de decir?@
+` Escribió tan seriamente algo que más bien parece un cuento de hadas.@
+br
+` El diario se va convirtiendo cada vez más en el desahogo del viejo.@
+br
+` La fecha es de hace aproxidamente nueve años.@
+` La letra comienza a volverse errática.
+\
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/cmo_10",crossfade,400
+` …… Ya no soy capaz de contener mi embravecida sangre.@
+` He conseguido a un huérfano de una familia de Sincronizadores; eso debería a ayudarme a fortalecer mi mente.@ Sin embargo, es sólo cuestión de tiempo para que pierda la cordura.
+\
+` …… Es aterrador.@
+` Cuando reacciono, descubro que ni siquiera puedo recordar la mitad del día.@
+` Durante ese tiempo, estoy forzando mi impulso de inversión sobre ese niño.@
+` Si esto continúa,
+` es sólo cuestión de tiempo para que pierda toda la cordura y me convierta en una bestia.@
+` Ni siquiera sé cuánto tiempo me queda para seguir siendo yo mismo.
+\
+` No.@ Si ese niño está aquí, probablemente podré durar unos años más.@
+` Pero ese niño no será capaz de soportar eso.@ Cuando ese niño deje de funcionar, tendré que suicidarme.@
+br
+` Pero hasta entonces[line=3]debo proteger a mis hijos.@
+` La sangre de Akiha es débil.@ A menos que ella misma lo desee, no tiene que sufrir el mismo destino.
+\
+` El verdadero problema es SHIKI.@
+` Él es increíblemente parecido a mí.@
+` Por encima de todo, no quiero que él sufra mi destino.@
+` …… Si la sangre Tohno es antinatural, necesito distanciarlo del nombre Tohno tanto como sea posible y ver cómo le va[line=5]
+\
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_41",crossfade,400
+`"[line=9]"@
+` Termino de leer en un estado de horror y asombro.@
+` El contenido del diario de mi viejo está tan lejos de la realidad que es totalmente bizarro.@
+br
+` Mi viejo no sólo era bipolar.@
+` Más bien, se volvió violento sin darse cuenta.@
+` Al igual que Tohno Shiki en este momento.
+\
+`"…… No."@
+` Estoy equivocado.@
+` Ese viejo no es como yo.@
+` Yo soy como él.
+\
+` Temiendo eso, me envió fuera de la mansión.@
+` Pero ahora he regresado, y mi sangre dormida ha despertado.@
+`"Heh…… todo esto, son tonterías."@
+` Intento reír, pero me veo incapaz de olvidarlo riendo.@
+` La sangre Tohno está mezclada con la sangre de algo no humano.@
+` Los miembros del linaje Tohno tienen poderes especiales.@
+` …… No puedo olvidarlo riendo.@
+` Poder sobrenatural.@ He tenido eso durante ocho años.@
+` Soy capaz de percibir la muerte de la cosas, con mis ojos antinaturales.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+`"G………………………"@
+br
+` [line=6]Siento ganas de vomitar.@
+br
+` No puedo permanecer de pie.@
+` Rápido.@
+` Debo volver rápidamente a mi habitación y dormir; siento que algo está mal en mi cabeza.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_40b",crossfade,400
+!w3000
+wave se_04
+`"Shiki-sama, ¿ya ha regresado?"@
+br
+` …… Puedo escuchar una voz que suena como Hisui.@
+br
+`"Shiki-sama, por favor discúlpeme."@
+br
+ld c,"tachi/his_t01",lshutter,800
+play "*1"
+` …… Hisui entra a mi habitación.
+\
+`"Por favor perdóneme.@ No me percaté de que había regresado, así que no pude saludarle en la puerta."@
+`"…… No te preocupes por eso.@ Hoy vine temprano.@ Hisui, ¿puedes dejarme solo?@ No tengo ganas de hablar con nadie."@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama, ¿se siente enfermo…?"@
+`"[line=3]No lo sé.@ Yo mismo no lo entiendo."
+\
+`"…………………"@
+` Hisui me mira con ojos de preocupación.@
+` …… Maldición, ¿qué estoy haciendo?@
+` Hisui está preocupada por mí; ¡no hay razón para desahorgarme con ella……!
+\
+`"…… Perdona, me siento un poco mal.@ Quiero dormir hasta la cena; ¿hay alguna medicina que pueda tomar?@ Una para el dolor de cabeza sería lo mejor."@
+ld c,"tachi/his_t01",crossfade,400
+`"Sí, iré a buscar un poco."
+\
+cl c,lshutter,800
+!w2000
+ld c,"tachi/his_t01",lshutter,800
+`"Gracias por esperar.@ Por favor beba esto."@
+`"Gracias, como siempre, y disculpa."@
+` Tomo el agua y la medicina en polvo que Hisui me trajo.@
+` Por alguna razón, hay dos tipos de medicina.@
+`"¿Huh?@ ¿Dos?@ ¿Qué son?"@
+`"Sí, le dije a mi hermana que usted no se sentía bien, y me dio algo de medicina que ella había prescrito con permiso de su doctor.@
+` Ésta es para ayudarle a dormir.@ Contiene benzodiacepina, conocida por su capacidad de producir un sueño relajante."
+\
+`"¿…………?"@
+` Confío en Kohaku-san, pero no tiene que decirle a Hisui todos estos minuciosos detalles…
+ld c,"tachi/his_t23",crossfade,400
+`"…… Guau, ¿acaso Kohaku-san planea convertirse en una farmaceuta licenciada?"@
+` Diciendo eso, bebo la medicina.@
+ld c,"tachi/his_t19",crossfade,400
+` Bebo el agua para tragar la medicina.@
+` Aparentemente funciona rápido; ya me siento adormilado.
+\
+`"…… Voy a dormir.@ Por favor despiértame a la hora de la cena."@
+ld c,"tachi/his_t01",crossfade,400
+`"Entiendo.@ Bien, entonces por favor discúlpeme."@
+cl c,lshutter,800
+` Hisui se retira.@
+` Mi consciencia comienza a disminuir.@
+br
+` …… Dormiré sólo por un momento.@
+` Todavía hay luz natural afuera.@
+` Ya que no es de noche, no debería tener ninguno de esos horribles sueños[line=3]
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+bg "bg/bg_40c",crossfade,800
+ld c,"tachi/his_t16",lshutter,400
+`"Por favor discúlpeme.@ Buenas noches, Shiki-sama."@
+cl c,lshutter,400
+` Con una reverencia, Hisui sale de la habitación.
+\
+` Suelto un gran bostezo.@
+` …… Aún estoy un poco soñoliento.@
+` La medicina de Kohaku-san fue bastante fuerte, por lo que pasé la mayor parte de la cena aturdido.@
+br
+` Son apenas las nueve en punto.@
+` Ya tomé una siesta, así que es un poco temprano para estar durmiendo.
+\
+bg "bg/bg_40d",notrans,0
+` A las diez en punto, las luces de la mansión son apagadas.@
+`"…… Bien, entonces, ¿qué debería hacer?"@
+` Digo esto con calma, pero en verdad no tengo idea de qué debería hacer.@
+br
+` …… ¿Qué son los sueños que sigo teniendo?@
+` ¿Soy igual a mi padre, que hacia las cosas inconscientemente, y en verdad he asesinado?
+\
+` …… No, hay algo que no está bien en esa interpretación.@
+` Si dejase la mansión y caminase por la calles, Kohaku-san y Hisui definitivamente notarían algo.@
+` No puedo explicar por qué despierto limpio en mi cama cuando debería haber un montón de sangre esparcida sobre mí.
+\
+`"……… Sólo hay una manera de estar seguro."@
+br
+` Sí, si quiero comprobarlo todo[line=3]
+\

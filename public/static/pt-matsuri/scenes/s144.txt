@@ -1,0 +1,159 @@
+phase "bg/bg_47",l,ark,07a,7
+bg "bg/cmo_05",crossfade,800
+` Naquela época, a mansão inteira era como um enorme parque de diversões.@
+br
+` O jardim era uma floresta imensa.@
+` A casa era um castelo enorme.@
+br
+` Brincávamos em nosso próprio mundinho, que levaria muitos dias para explorar.
+\
+` Todos os dias eram divertidos.@
+` Ninguém nem pensava que um dia iríamos crescer,
+` e acreditávamos que os dias e as noites seriam sempre iguais.@
+br
+` Passamos a infância brincando como se fôssemos filhotinhos.@
+` Nós nos davamos muito bem, e éramos melhores amigos.
+\
+` Sempre que eu me virava, a Akiha estava lá, acenando para mim e se escondendo de vergonha.@
+` Era sempre assim.
+\
+` Naquela época, a mansão inteira era como um enorme parque de diversões.@
+` O jardim era uma floresta imensa.@
+` A casa era um castelo enorme.@
+br
+` Brincávamos em nosso próprio mundinho, que levaria muitos dias para explorar.
+\
+!w2000
+bg #ffffff,crossfade,800
+` Eu acordo lentamente e abro os olhos.@
+` A luz do dia me envolve e minha sonolência começa a desaparecer.@
+br
+` Quando finalmente acordo de verdade,
+` sinto que tive um sonho nostálgico.
+\
+bg "bg/bg_40e",crossfade,1500
+`"[line=7]"@
+` Assim que abro os olhos, aquelas coisas horríveis tomam minha visão.@
+` Minha cabeça começa a doer.@
+`"Gg[line=4]"@
+` Procuro meus óculos perto do travesseiro e os coloco.
+\
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` Eu respiro fundo.@
+` Depois de respirar fundo várias vezes, eu me acalmo.@
+`"Por que será que eu[line=4]tão cedo…"@
+` Por que vi essas linhas claramente tão cedo assim?@
+` É difícil ver as linhas da morte em construções.@
+` Normalmente é difícil vê-las, e vê-las tão claramente como agora há pouco é muito raro.@
+`"…………"@
+` E o pior de tudo, é que eu também vi aqueles "pontos".@
+` Acho que minha dor de cabeça também está piorando.
+\
+` A Sensei falou que estes olhos atrairiam coisas que não eram boas.@
+` Acho que a Arcueid e esses vampiros com toda certeza não são coisas boas.@
+` Será que esses acontecimentos estão afetando meus olhos e deixando eles mais fortes?@
+`"[line=4]Não pode ser."@
+` Provavelmente só estou cansado.
+\
+wave se_04
+`"Com licença."@
+ld c,"tachi/his_t01",lshutter,800
+` A Hisui entra e me cumprimenta com uma mesura.@
+`"Bom dia, Hisui."@
+`"Bom dia, Shiki-sama."@
+` …… Ela traz meu uniforme como de costume.@
+` Mas percebo que ela está um pouco irritada.
+\
+` …… O motivo é muito óbvio.@
+` Ela deve estar brava por causa de ontem.@ Acabei chegando em casa muito tarde, vim direto para o meu quarto e dormi.
+\
+`"Hisui, sobre ontem à noite, hum……"@
+ld c,"tachi/his_t08",crossfade,400
+`"Shiki-sama, não há necessidade de me dar qualquer explicação."@
+` Respondendo rapidamente, ela começa a caminhar na direção da porta.@
+ld c,"tachi/his_t01",crossfade,400
+`"Com licença.@ A Nee-san está preparando seu café da manhã, por favor, dirija-se até a sala de estar."@
+`"Claro, já estou indo……"
+\
+ld c,"tachi/his_t09",crossfade,400
+`"E Shiki-sama,
+` a Akiha-sama gostaria de conversar com você sobre a hora que você chegou ontem à noite.@ Por favor, não demore muito."@
+cl c,lshutter,800
+br
+` Ela fecha a porta, sem qualquer emoção.@
+`"U[line=5]"@
+` …… Bom, pensando bem, esse resultado é perfeitamente normal.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` A Akiha é a única pessoa na sala de estar.@
+` A Kohaku-san está na cozinha, cantarolando.@
+ld c,"tachi/aki_t11a",crossfade,400
+`"………………"@
+` A Akiha não diz nada quando me vê, apenas toma seu chá em silêncio.
+\
+`"Ei.@ Bom dia, Akiha."@
+` Tento cumprimentá-la da forma mais normal possível.@ As sobrancelhas da Akiha se contraem, ela coloca sua xícara sobre a mesa e lentamente olha para mim.
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Bom dia, Nii-san.@ Já era bem tarde quando você chegou em casa ontem à noite, não acha?"@
+`"…… Não, não muito.@ Era pouco mais de uma hora da manhã, completamente normal para um jovem saudável do ensino médio estar acordado."@
+`"Entendo.@ Minha hora de dormir também é depois da meia-noite, por isso estava acordada naquele horário.@ Mas costumo chegar em casa bem mais cedo do que isso."
+\
+`"Ah…… bem, aconteceram umas coisas urgentes e não pude voltar mais cedo.@ Mas eu voltei, então[line=3]"@
+ld c,"tachi/aki_t11a",crossfade,400
+`"Sim, voltou muito tarde da noite e foi direto para o seu quarto.@ Sem dizer nada a ninguém e sem fazer barulho algum.@
+` …… Francamente, Nii-san, você agiu como se estivesse na rua fazendo algo pelo qual se sente culpado."@
+`"Hum………"@
+` Seu olhar está muito frio.@
+` …… Tenho certeza de que mesmo a Akiha parecendo calma, ela está muito brava.
+\
+`"[line=2]Nii-san.@
+` Eu não sei como era na casa dos Arimas, mas aqui o toque de recolher é às oito horas da noite.@ É uma regra que não deve ser quebrada.@
+` O portão será trancado depois desse horário, então por favor, não pule o muro como se fosse um ladrão."@
+`"Ah[line=3]Você viu?"@
+`"…… A câmera de segurança te mostrou claramente.@
+` Foi bom a Kohaku ter percebido que era você e ter desligado o sistema de alarmes, pois caso contrário, você estaria preso nesse momento."
+\
+`"…… Hum.@ Então devo agradecer à Kohaku-san.@ E, hum, Akiha, me desculpe.@ Eu deveria ter avisado quando cheguei."
+\
+`"…… Se você entendeu, está tudo bem.@ Por favor, certifique-se de voltar até o toque de recolher de agora em diante.@ Vou deixar passar dessa vez."@
+`"…… Sobre isso, Akiha."@
+`"Sim, o que foi?"@
+`"…… Isso é meio difícil de dizer.@ Eu… tenho uma coisa para fazer essa noite também.@ Não sei que horas vou estar de volta, mas não vou fazer nada de ruim[line=3]"
+\
+`"[line=9]"@
+` Ela aperta os olhos de raiva.@
+`"Kohaku!"@
+` De repente, ela se levanta.@
+cl c,lshutter,400
+` A Kohaku-san vem da cozinha.
+\
+ld l,"tachi/koha_t02",lshutter,800
+`"Sim, o que foi, Akiha-sama?"@
+ld r,"tachi/aki_t11a",crossfade,400
+`"Estou indo para a escola, comece os preparativos."@
+`"Hã?@ Mas ainda não fiz o café da manhã do Shiki-san."@
+ld r,"tachi/aki_t06",crossfade,400
+`"Você pode deixar essa pessoa sozinha.@ Parece que ele consegue fazer tudo sozinho."@
+cl r,lshutter,800
+` A Akiha sai em direção ao saguão.
+\
+ld l,"tachi/koha_t01a",crossfade,800
+` A Kohaku-san suspira.@
+`"…… Shiki-san, você não deve deixar a Akiha-sama tão chateada.@ Você é o irmão mais velho, por isso deve tratá-la melhor, ouviu?"@
+` Dizendo isso, ela vai atrás da Akiha.@
+cl l,lshutter,800
+br
+` A xícara de chá permanece ali, ainda fumegante.
+\
+`"[line=3]Bem, resumindo…"@
+` Fui deixado sozinho para considerar minha situação com calma.@
+`"Acho que não vou tomar café da manhã hoje."@
+` É, sem dúvida.@
+` …… Devo parar em uma loja de conveniência pelo caminho e comprar um pão.
+\
+bg #000000,lcartain,1500
+playstop
+!w2000

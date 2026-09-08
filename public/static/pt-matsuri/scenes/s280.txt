@@ -1,0 +1,62 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_50",notrans,0
+`"…… Finalmente fizemos as pazes, se eu falar sobre a Arcueid, provavelmente ela vai se irritar de novo."@
+` Por enquanto, preciso preservar essa amizade.@ Fico observando a Senpai saindo e em seguida começo a comer.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06b",lcartain,800
+` A última aula do dia termina.@
+` Meus colegas de turma barulhentos levantam-se das suas carteiras.@
+`"[line=4]Muito bem."@
+` Acho que vou esperar aqui um pouco e ver o que acontece.@
+` Talvez a Senpai venha, e mesmo que isso não aconteça, eu posso ir até a sala do clube de cerimônia de chá.
+\
+bg #000000,lshutter,400
+bg "bg/bg_06b",lshutter,400
+` Parece que ela não vai vir.@
+` Acho que vou ter que ir até a sala de cerimônia de chá.
+\
+bg "bg/bg_11b",lcartain,800
+` Rapidamente saio da sala de aula e vou para lá.@
+br
+` [line=3]Preciso me encontrar com a Senpai, e temos que falar sobre várias coisas.@
+` Sobre o vampiro nesta cidade, e sobre a Arcueid.@
+` Mesmo sabendo que vai ser difícil falar com ela sobre esses assuntos, ainda fico animado com a chance de estar com a Senpai novamente.
+\
+` Começo a respirar com dificuldade[line=4]
+br
+` Vou correndo para a sala de cerimônia de chá.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09b",lcartain,800
+` A sala está vazia.@
+` Parece que a Senpai ainda não veio para cá.@
+br
+` …… *arf*…… *arf*.@
+br
+` …… Acho que fiquei empolgado demais.@
+` Sento no chão de tatame para recuperar o fôlego.
+\
+` …… *arf*…… *arf*…… *arf*.@
+br
+` Meu corpo está muito quente e não esfria tão fácil.@
+` Respiro com muita dificuldade.@
+` Meu corpo está encharcado de suor, e estou me sentindo péssimo.
+\
+` Minha respiração ofegante preenche o ar.@
+br
+` Tem alguma coisa[line=3]errada.@
+` Já estou descansando faz um bom tempo, mas minha respiração está piorando ao invés de melhorar.@
+` Pensando bem, por que estou tão cansado depois de correr uma distância tão pequena……?
+\
+monocro #ff0000
+quakey 1,100
+play "*4"
+`"[line=3]Gah!?"@
+br
+` De repente,
+` uma dor excruciante toma conta do meu peito.
+\

@@ -1,0 +1,139 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` No intervalo do almoço, chega o cara que não apareceu durante uma única aula.@
+ld c,"tachi/ari_t05",lshutter,400
+`"E aê, Tohno!@ Vamos comer!"@
+` Ele está feliz com alguma coisa, está mais animado que o normal.
+\
+`"Vamos.@ Você parece estar de ótimo humor.@ Aconteceu alguma coisa, Arihiko?"@
+`"Sim.@ Acabei de perguntar à Senpai se ela gostaria de almoçar conosco, e ela recusou."@
+`"………………"@
+` Isso é estranho.@
+` Por "Senpai", ele deve estar se referindo à Ciel-senpai, mas ele parece ter ficado feliz por sua oferta ter sido recusada.
+\
+`"Arihiko, você tem esse tipo de fetiche?"@
+ld c,"tachi/ari_t02",crossfade,400
+`"Não, calma, não acabei de falar ainda.@ Então perguntei para a Senpai por que não, e ela disse: 'Se o Tohno-kun estiver lá, eu não quero ir'!!@ Aaaaaahahahahahahahaha!@ Isso não é ótimo, Tohno!?"@
+`"……………"@
+` Que estranho!@
+` Por que sou amigo desse sujeito desde o ensino fundamental?
+\
+`"Ah cara, ela te odeia de verdade!@ A perda de um rival é vantagem para mim, por isso vou pagar o seu almoço hoje!"@
+` Ele bate nas minhas costas, todo feliz.@
+`"…… Então é isso.@ A Senpai ainda está brava pelo que aconteceu de manhã."@
+` Não tenho ideia por qual motivo ela está irritada comigo, mas com certeza está irritada.@
+ld c,"tachi/ari_t01",crossfade,400
+`"Anda logo, Tohno.@ Só tem lugares suficientes para metade das pessoas que usam o refeitório."@
+` Ele me puxa pelo braço e sai me arrastando.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Eu sento ao lado do Arihiko e começo a almoçar.@
+` No refeitório da escola tem uma televisão, e para o melhor ou pior da nossa educação, eles colocam o noticiário que gravam toda manhã.@
+br
+` De qualquer forma, o noticiário está falando sobre um cliente bêbado que esfaqueou até a morte um funcionário de uma loja de conveniência, algo que me faz não querer ir a uma loja dessas pelo menos por alguns dias.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Mas que mundo perigoso este em que vivemos.@ Assassinos em série indiscriminados, bêbados esfaqueando pessoas.@ Um homem não consegue mais se sentir seguro ao sair para se divertir à noite."@
+` Ele parece estar assistindo ao noticiário com atenção.
+\
+`"…… Bem perigoso mesmo.@ Mas pelo menos os assassinatos em série não vão acontecer mais, então as coisas devem voltar ao normal."@
+`"Sério?@ Pegaram o assassino em série?"@
+`"Não, não pegaram ele…"@
+br
+` [line=3]Mas o Nrvnqsr não está mais neste mundo.@
+` Por isso o título ridículo sobre os assassinatos do vampiro moderno não deve mais aparecer nos noticiários, e não haverá mais nenhuma dessas mortes sem sentido.
+\
+`"De qualquer forma, esses incidentes terríveis não vão acontecer mais.@ Não haverá mais nenhuma vítima, e as ruas vão voltar ao normal."@
+ld c,"tachi/ari_t04",crossfade,400
+`"Não[line=4]Acho que já existe outra vítima, Tohno."@
+`"[line=4]O quê?@ Por que está dizendo isso, Arihiko?"@
+`"Bem, veja por si mesmo.@ O noticiário diz que encontraram o décimo corpo."@
+br
+` [line=5]Hã?@
+br
+`"Ah, que droga…… esse estava bem atrás do cinema que eu frequento."
+\
+`"Ei[line=4]ei, espera."@
+` Empurro o Arihiko e olho para a televisão.@
+` O que vejo não deixa dúvidas,
+` o noticiário informa que a décima vítima dos assassinatos em série foi encontrada ontem à noite.@
+playstop
+`"Isso[line=4]não pode ser verdade."@
+` O Nrvnqsr, está morto.@
+` Então por que[line=4]apareceu outro corpo com a maior parte do seu sangue drenado?
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Humm, esse vampiro moderno.@ Não sei nada sobre essa pessoa, mas se for uma gostosona, talvez eu nem importasse de ter meu sangue sugado."@
+`"[line=6]"@
+br
+` Se fosse uma gostosona, ele não se importaria de ter seu sangue sugado?@
+br
+` Essa frase ridícula[line=4]pode ter algum sentido.@
+br
+`"[line=4]Sem chance."@
+` Não quero pensar nisso, mas…
+` Mesmo com a morte do Nrvnqsr, ainda resta mais um vampiro aqui, Shiki[line=4]
+\
+bg #000000,crossfade,800
+bg "bg/bg_06a",crossfade,800
+` A última aula do dia termina.@
+` Na verdade, eu nem vi o tempo passar.@
+` Perdido em meus maus pensamentos, olho ao redor e vejo que estou sozinho.
+\
+`"[line=4]Os assassinatos em série continuam acontecendo."@
+` Não sei o que isso significa.@
+` Provavelmente a única pessoa que sabe a resposta é a Arcueid.@
+br
+` Não sei.@
+` Não quero me envolver nisso novamente.@
+` Desde que resolvi as coisas com o Nrvnqsr, voltei ao mundo normal.@
+` Então[line=4]eu só poderia ser louco para querer voltar àquele mundo anormal de novo.
+\
+`"Não devo[line=4]me envolver."@
+br
+` Eu entendo muito bem minha situação, mesmo se não dissesse isso.@
+` Provavelmente essa é a minha segunda escolha mais correta.@
+` Mas há muito tempo, alguém me ensinou a escolha mais correta.
+\
+br
+br
+br
+br
+br
+` [line=4]Ouça, Shiki.@ A vida não é fácil; ela é uma estrada longa, pedregosa e cheia de armadilhas.@
+` Você tem mais poder do que qualquer um para fazer algo quanto a tudo isso, portanto você tem que se manter firme[line=4]
+!w750
+\
+`"[line=4]"@
+` Por isso não posso fingir que não vi isso.@
+` Esse incidente ainda não acabou.@
+` Parece que, agora que já estou envolvido, vou ter que ir até o fim dessa história[line=2]
+\
+bg #000000,lcartain,800
+bg "bg/bg_24a",lcartain,800
+` Saio da escola.@
+` Primeiro, vou até o apartamento da Arcueid.@
+br
+bg "bg/bg_23a",lcartain,800
+bg "bg/bg_12a",lcartain,800
+bg "bg/bg_13a",lcartain,800
+bg "bg/bg_14a",crossfade,800
+bg "bg/bg_15c",crossfade,800
+bg "bg/bg_12a",lcartain,800
+` Seu quarto continua o mesmo, mas a Arcueid não está nele.@
+` …… Bem, não achei que a encontraria tão fácil assim.@ Parece que vou ter que sair pela cidade procurando por ela.
+\
+bg #000000,crossfade,800
+!w3000
+bg "bg/bg_25b",lcartain,800
+` O sol se põe e a cidade começa a escurecer.@
+` Procurei pelos principais pontos da cidade, mas não tive nem sinal dela.
+\
+`"[line=4]Droga.@ Ela estava sempre por perto quando não precisava dela, por que não consigo encontrá-la quando realmente preciso?"@
+` …… O que devo fazer?@
+` A noite está só começando, então[line=3]
+\
