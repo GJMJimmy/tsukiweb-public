@@ -104,7 +104,7 @@
     "data-erase-warning": "This will delete all saves, reset all settings and progress. Are you sure?",
     "data-erase-confirm": "All data have been deleted. If you leave this website without making any change to the settings and without starting a new game, no data will remain stored on your device",
     "offline-title": "Offline play",
-    "offline-help": "Keep a copy of the game on this device so it still works without a connection. Menus and text are cached automatically; the images and audio of the current language are downloaded only when you ask for them.",
+    "offline-help": "Keep a copy of the game on this device so it still works without a connection. Menus and text are cached automatically; the images and audio used by the current translation are downloaded only when you ask for them.",
     "offline-status": "Status",
     "offline-status-idle": "Ready",
     "offline-status-done": "Complete",

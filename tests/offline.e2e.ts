@@ -17,6 +17,16 @@ const STORE = 'assets'
 /** Shell and translation documents the offline copy must contain. */
 const REQUIRED_KEYS = ['/index.html', '/static/en-mm/lang.json']
 
+/**
+ * Heavy media of the original assets: the directory tree every translation
+ * inherits its image/audio paths from (src/assets/lang/default.json), so an
+ * en-mm player must have it cached too.
+ */
+const JP_MEDIA_RE = /^\/static\/jp\/(?:images|images_thumb|wave|wave_pd|CD_[^/]+)\//
+
+/** The download is ~96 MB of media on a checkout with the full assets: give it room. */
+const DOWNLOAD_TIMEOUT = 180_000
+
 type StoredAsset = { url: string; size: number; type: string; category: string; version: string | null }
 
 /** A same-origin app-shell script or translation document (never game media). */
@@ -110,6 +120,10 @@ async function waitForController(page: Page): Promise<void> {
 	})
 }
 test('Download all survives a full offline reload', async ({ page, context }, testInfo) => {
+	// The media of the whole translation is downloaded here (~96 MB on a checkout
+	// with the full assets), so the global 180 s per-test budget is not enough.
+	test.setTimeout(5 * 60_000)
+
 	//__________________________________online___________________________________
 
 	// The version every cached document must carry: the one the app itself puts in its
@@ -169,7 +183,7 @@ test('Download all survives a full offline reload', async ({ page, context }, te
 	const status = value(panel, 'Status')
 	try {
 		// The terminal state, then the en-mm label of config["offline-status-done"].
-		await expect(status).toHaveAttribute('data-state', 'done', { timeout: 120_000 })
+		await expect(status).toHaveAttribute('data-state', 'done', { timeout: DOWNLOAD_TIMEOUT })
 		await expect(status).toHaveText('Complete')
 	} catch {
 		const errorField = panel.locator('.offline-error')
@@ -334,8 +348,55 @@ test('Download all survives a full offline reload', async ({ page, context }, te
 	console.log('[offline] offline boot ok: the config tab and the title menu both rendered from IndexedDB')
 
 	//_____________________(h) How far does the engine get?______________________
-	// Media (images/wave) is not part of this checkout, so failures are expected
-	// and reported, never asserted.
+	// Still informational: whatever the engine reports is logged, never asserted.
+	// The one acceptance signal for the media selection is reported explicitly:
+	// with the original (jp) assets cached, image and audio requests must be
+	// served from IndexedDB instead of failing.
+	const jpMediaServed = new Set<string>()
+	const jpMediaFailed: string[] = []
+	const jpMediaPath = (url: string): string | undefined => {
+		try {
+			const { pathname } = new URL(url)
+			return JP_MEDIA_RE.test(pathname) ? pathname : undefined
+		} catch {
+			return undefined
+		}
+	}
+
+	// How the cached media answers once the network is gone: an <audio>/<video>
+	// element sends Range requests, which public/sw.js answers with a 206 slice
+	// of the stored blob, while a plain request is served whole from IndexedDB.
+	const mediaProbe = await page.evaluate(async (cachedKeys: string[]) => {
+		const probe = async (url: string) => {
+			const plain = await fetch(url).then(
+				async (response) => ({ status: response.status, bytes: (await response.blob()).size }),
+				() => ({ status: 'failed', bytes: 0 }))
+			const ranged = await fetch(url, { headers: { Range: 'bytes=0-1' } })
+				.then((response) => response.status, () => 'failed')
+			return { url, plain, ranged }
+		}
+		const first = (pattern: RegExp) => cachedKeys.find((key) => pattern.test(key))
+		const image = first(/^\/static\/jp\/images\//)
+		const audio = first(/^\/static\/jp\/CD_\w+\/track01\.webm$/)
+		const probes = []
+		if (image) probes.push(await probe(image))
+		if (audio) probes.push(await probe(audio))
+		return probes
+	}, keys)
+	for (const probe of mediaProbe)
+		console.log('[offline] cached media ' + probe.url + ': plain request -> ' + probe.plain.status +
+			' (' + probe.plain.bytes + ' bytes), Range request -> ' + probe.ranged)
+
+	// Only what the engine itself requests from here on (the probe above is over).
+	page.on('response', (response) => {
+		const pathname = jpMediaPath(response.url())
+		if (pathname !== undefined && response.status() < 400) jpMediaServed.add(pathname)
+	})
+	page.on('requestfailed', (request) => {
+		const pathname = jpMediaPath(request.url())
+		if (pathname !== undefined) jpMediaFailed.push(pathname)
+	})
+
 	const engineLog: string[] = []
 	const collect = (line: string) => {
 		if (engineLog.length < 40) engineLog.push(line)
@@ -361,6 +422,12 @@ test('Download all survives a full offline reload', async ({ page, context }, te
 	} catch (error) {
 		observation = '"New Game" could not be clicked offline: ' + String(error).split('\n')[0]
 	}
+
+	const mediaSummary = jpMediaServed.size + ' /static/jp/{images,wave,CD_}/ request(s) served offline, '
+		+ (jpMediaFailed.length
+			? jpMediaFailed.length + ' FAILED: ' + [...new Set(jpMediaFailed)].join(', ')
+			: 'none failed')
+	observation += '; jp media: ' + mediaSummary
 
 	console.log('[offline] ' + observation)
 	for (const line of engineLog) console.log('[offline]   ' + line)

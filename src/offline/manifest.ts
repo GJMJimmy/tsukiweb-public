@@ -108,23 +108,49 @@ function hasActiveImageFormat(url: string): boolean {
 	return extension === imageFormat
 }
 
+/** Directory id of a media path template, as used by `"./jp/images/%0"`. */
+const TRANSLATION_MEDIA_DIR_RE = /\.\/([A-Za-z0-9_-]+)\//g
+
 /**
- * Files to cache for offline play: the shell group, the language-independent
- * documents and the active translation's own documents, plus its media when
- * `includeMedia` is set, minus the image variants the runtime never requests.
+ * Directory ids a translation draws its heavy media from: every `"./<id>/"`
+ * found anywhere in its strings, plus the active language (its own assets) and
+ * `jp` (the original assets every translation is based on, and what
+ * `settings.trackSource` may switch to at any time).
+ */
+export function translationMediaLanguages(strings: unknown, language: string): string[] {
+	const ids = new Set<string>([language, 'jp'])
+	for (const match of JSON.stringify(strings)?.matchAll(TRANSLATION_MEDIA_DIR_RE) ?? [])
+		ids.add(match[1])
+	return [...ids].sort()
+}
+
+/**
+ * Files to cache for offline play: the shell group, the documents of the active
+ * translation (`language`), and -- when `includeMedia` is set -- the media of
+ * every directory the translation actually draws from (`mediaLanguages`),
+ * minus the image variants the runtime never requests.
  */
 export function selectTargets(
 	manifest: OfflineManifest,
-	{ language, includeMedia }: { language: string; includeMedia: boolean }
+	{ language, mediaLanguages, includeMedia }: {
+		language: string
+		/** Directory ids whose media is cached; entries the manifest lacks are ignored. */
+		mediaLanguages: readonly string[]
+		includeMedia: boolean
+	}
 ): OfflineManifestFile[] {
 	return manifest.files.filter(file => {
-		// lang-tagged files are only cached for the active translation;
-		// switching language re-downloads that language.
-		if (file.group !== 'shell' && file.lang !== undefined && file.lang !== language)
-			return false
-		if (file.group !== 'media')
+		if (file.group === 'shell')
 			return true
+		if (file.group === 'small')
+			// Documents are only cached for the active translation; switching
+			// language re-downloads that language.
+			return file.lang === undefined || file.lang === language
 		if (!includeMedia)
+			return false
+		// Media is shared: a file is kept when it is language-independent or
+		// belongs to a directory this translation reads from.
+		if (file.lang !== undefined && !mediaLanguages.includes(file.lang))
 			return false
 		return hasActiveImageFormat(file.url)
 	})

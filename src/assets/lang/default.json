@@ -103,7 +103,7 @@
     "data-erase-warning": "Delete all saves, settings progress. Sure?",
     "data-erase-confirm": "All clean. Close tab.",
     "offline-title": "Offline play",
-    "offline-help": "Keep a copy of the game on this device so it still works without a connection. Menus and text are cached automatically; the images and audio of the current language are downloaded only when you ask for them.",
+    "offline-help": "Keep a copy of the game on this device so it still works without a connection. Menus and text are cached automatically; the images and audio used by the current translation are downloaded only when you ask for them.",
     "offline-status": "Status",
     "offline-status-idle": "Ready",
     "offline-status-done": "Complete",

@@ -145,6 +145,9 @@ function entryResponse(entry) {
 		headers: {
 			'Content-Type': entry.type || 'application/octet-stream',
 			'Content-Length': String(entry.size ?? entry.blob.size),
+			// The stored entry is a complete, seekable blob: say so, so an <audio>/<video>
+			// element knows it may ask for a partial read instead of re-downloading it.
+			'Accept-Ranges': 'bytes',
 		},
 	})
 }
@@ -192,6 +195,85 @@ async function handleAsset(event, url) {
 	if (response.ok && canStorePassively(url.pathname, response))
 		event.waitUntil(storePassively(url.pathname, version, response.clone()))
 	return response
+}
+
+/**
+ * Parses a single `bytes=` range against `total`.
+ *
+ * Returns { start, end } (inclusive), the string 'unsatisfiable' when the range starts
+ * beyond the payload, or null when the header is not one usable range (multi-range,
+ * malformed, empty) and the network must answer instead.
+ */
+function parseRange(header, total) {
+	const match = /^bytes\s*=\s*(.+)$/i.exec(String(header).trim())
+	if (!match) return null
+	const spec = match[1].trim()
+	// A multi-range request is never reassembled here: hand it to the network untouched.
+	if (!spec || spec.includes(',')) return null
+	const parts = /^(\d*)-(\d*)$/.exec(spec)
+	if (!parts) return null
+	const [, rawStart, rawEnd] = parts
+	if (!rawStart && !rawEnd) return null
+
+	let start
+	let end
+	if (!rawStart) {
+		// "bytes=-suffix": the trailing suffix bytes.
+		const suffix = Number(rawEnd)
+		if (!Number.isSafeInteger(suffix) || suffix <= 0) return null
+		start = Math.max(0, total - suffix)
+		end = total - 1
+	} else {
+		start = Number(rawStart)
+		if (!Number.isSafeInteger(start)) return null
+		if (!rawEnd) {
+			end = total - 1
+		} else {
+			end = Number(rawEnd)
+			if (!Number.isSafeInteger(end) || end < start) return null
+			end = Math.min(end, total - 1)
+		}
+	}
+	if (start >= total) return 'unsatisfiable'
+	return { start, end }
+}
+
+/**
+ * Answers a `Range` request with a 206 sliced out of the stored entry.
+ *
+ * Every <audio>/<video> request carries a Range header, so without this the media of an
+ * explicit download is in IndexedDB but unplayable offline.
+ *
+ * The lookup is asynchronous, so the fallback path re-issues the same fetch inside
+ * respondWith rather than returning bare: from the network's point of view that is the
+ * old passthrough (an uncached or multi-range request still streams online), and this
+ * path never stores anything -- media stays explicit-download only.
+ */
+async function handleRangeAsset(event, url) {
+	const version = url.searchParams.get('v')
+	const entry = await idbGet(url.pathname)
+	if (!entry || !entry.blob || (version && entry.version !== version))
+		return fetch(event.request)
+
+	const total = entry.blob.size
+	const range = parseRange(event.request.headers.get('Range') || '', total)
+	if (range === null) return fetch(event.request)
+
+	const headers = {
+		'Content-Type': entry.type || 'application/octet-stream',
+		'Accept-Ranges': 'bytes',
+	}
+	// Unsatisfiable (start >= total): answer 416 with the real payload size rather than
+	// passing it through -- the bytes are here, so the network has nothing better to say.
+	if (range === 'unsatisfiable') {
+		headers['Content-Range'] = 'bytes */' + total
+		return new Response(null, { status: 416, statusText: 'Range Not Satisfiable', headers })
+	}
+
+	const part = entry.blob.slice(range.start, range.end + 1)
+	headers['Content-Range'] = 'bytes ' + range.start + '-' + range.end + '/' + total
+	headers['Content-Length'] = String(part.size)
+	return new Response(part, { status: 206, statusText: 'Partial Content', headers })
 }
 
 /** Media is never stored passively, and neither is anything above PASSIVE_MAX_BYTES. */
@@ -258,14 +340,18 @@ self.addEventListener('fetch', (event) => {
 	}
 	if (url.origin !== self.location.origin) return
 
-	// Range requests are passthrough: media streams are not stored.
-	if (request.headers.has('Range')) return
-
 	if (request.mode === 'navigate') {
 		event.respondWith(handleNavigation(event))
 		return
 	}
 	if (!isCacheablePath(url.pathname)) return
+
+	// An explicitly downloaded asset is rangeable from IndexedDB; anything else keeps the
+	// old passthrough, so online streaming is untouched.
+	if (request.headers.has('Range')) {
+		event.respondWith(handleRangeAsset(event, url))
+		return
+	}
 
 	event.respondWith(handleAsset(event, url))
 })

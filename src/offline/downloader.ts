@@ -8,7 +8,14 @@ import { APP_VERSION } from "app/utils/constants"
 import { settings } from "engine/settings"
 import { strings } from "translation/lang"
 import { assetKey, assetStats, clearAssets, listAssets, putAsset, storageEstimate } from "./db"
-import { loadManifest, selectTargets, totalBytes, type OfflineManifestFile } from "./manifest"
+import {
+	loadManifest,
+	selectTargets,
+	totalBytes,
+	translationMediaLanguages,
+	type OfflineManifest,
+	type OfflineManifestFile,
+} from "./manifest"
 
 export type OfflineStatus =
 	'idle' | 'scanning' | 'downloading' | 'paused' | 'done' | 'error' | 'cancelled'
@@ -66,6 +73,19 @@ function activeLanguage(): string {
 	return strings.id || settings.language
 }
 
+/**
+ * Targets to cache for the translation currently loaded: its own documents plus
+ * the media of every directory it draws from (see `translationMediaLanguages`).
+ */
+function offlineTargets(manifest: OfflineManifest): OfflineManifestFile[] {
+	const language = activeLanguage()
+	return selectTargets(manifest, {
+		language,
+		mediaLanguages: translationMediaLanguages(strings, language),
+		includeMedia: true,
+	})
+}
+
 /** Value of the `v` query parameter of a manifest url, when it carries one. */
 function versionOf(url: string): string | undefined {
 	if (typeof location === 'undefined') return undefined
@@ -119,8 +139,7 @@ async function execute({ force }: { force: boolean }): Promise<void> {
 	try {
 		updateState({ ...idleState(), status: 'scanning', error: undefined, currentUrl: undefined })
 
-		const manifest = await loadManifest()
-		const targets = selectTargets(manifest, { language: activeLanguage(), includeMedia: true })
+		const targets = offlineTargets(await loadManifest())
 		const pending = await pendingFrom(targets, force)
 
 		if (isStopped()) return
@@ -257,8 +276,7 @@ async function refreshStats(): Promise<void> {
 
 /** Size of what a "download all" would still fetch, without downloading it. */
 async function estimate(): Promise<{ count: number; bytes: number }> {
-	const manifest = await loadManifest()
-	const targets = selectTargets(manifest, { language: activeLanguage(), includeMedia: true })
+	const targets = offlineTargets(await loadManifest())
 	const stored = new Set((await listAssets()).map(entry => assetKey(entry.url)))
 	const pending = targets.filter(file => !stored.has(assetKey(file.url)))
 	return { count: pending.length, bytes: totalBytes(pending) }
