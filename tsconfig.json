@@ -29,5 +29,5 @@
       "@features/*": ["./src/features/*"],
     }
   },
-  "include": ["src"],
+  "include": ["src", "tests", "playwright.config.ts"],
 }

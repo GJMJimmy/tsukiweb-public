@@ -8,12 +8,14 @@ import ConfigAdvancedTab from "./tabs/ConfigAdvancedTab"
 import ConfigAudioTab from "./tabs/ConfigAudioTab"
 import ConfigControlsTab from "./tabs/ConfigControlsTab"
 import ConfigGameTab from "./tabs/ConfigGameTab"
+import ConfigOfflineTab from "./tabs/ConfigOfflineTab"
 
 export enum ConfigTabs {
 	game = "game",
 	audio = "audio",
 	controls = "controls",
 	advanced = "advanced",
+	offline = "offline",
 }
 
 const tabComponents = {
@@ -21,6 +23,7 @@ const tabComponents = {
 	[ConfigTabs.audio]: <ConfigAudioTab />,
 	[ConfigTabs.controls]: <ConfigControlsTab />,
 	[ConfigTabs.advanced]: <ConfigAdvancedTab />,
+	[ConfigTabs.offline]: <ConfigOfflineTab />,
 }
 
 type Props = {
@@ -36,6 +39,7 @@ const ConfigView = ({ onBack, selectedTab, setSelectedTab, ...props }: Props) =>
 		{ label: strings.config["tab-audio"], value: ConfigTabs.audio, audio },
 		{ label: strings.config["tab-controls"], value: ConfigTabs.controls, audio },
 		{ label: strings.config["tab-advanced"], value: ConfigTabs.advanced, audio },
+		{ label: strings.config["tab-offline"], value: ConfigTabs.offline, audio },
 	]
 
 	return (

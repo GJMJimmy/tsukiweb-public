@@ -1,0 +1,119 @@
+#config-layout {
+	.offline-help {
+		margin: 0 0 .8rem;
+		padding-inline: .8rem;
+		color: var(--text-muted);
+		font-size: .9em;
+		line-height: 1.5;
+
+		&[data-sw="active"]::before,
+		&[data-sw="inactive"]::before {
+			content: '';
+			display: inline-block;
+			width: 8px;
+			height: 8px;
+			margin-inline-end: .5em;
+			border-radius: 50%;
+			background: #00a5ff;
+			box-shadow: 0 0 6px rgb(0 165 255 / 70%);
+		}
+
+		&[data-sw="inactive"]::before {
+			background: var(--off-color, #8a8a8a);
+			box-shadow: none;
+		}
+	}
+
+	.offline-value {
+		display: flex;
+		align-items: center;
+		gap: .6em;
+		min-height: 36px; // buttons height
+		font-variant-numeric: tabular-nums;
+
+		&[data-state="error"] {
+			color: #ff7b7b;
+		}
+
+		.offline-count {
+			color: var(--text-muted);
+			font-size: .9em;
+			background: rgb(0 0 0 / 40%);
+			border-radius: 3px;
+			padding: .1em .5em;
+		}
+	}
+
+	.offline-actions {
+		margin-top: 1em;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+		justify-content: flex-end;
+
+		.config-btn {
+			min-width: 110px;
+		}
+
+		.erase {
+			color: var(--off-color);
+
+			&:hover, &:focus-visible, .keyboard-navigating &:focus {
+				box-shadow: 0 0 0 1px rgb(255 0 0) inset, 0 0 90px 0 rgb(255 0 0 / 0.3) inset;
+			}
+		}
+	}
+
+	.offline-progress {
+		position: relative;
+		margin-top: 1em;
+		padding: .6rem .8rem;
+		border: 1px solid var(--btn-select-bg);
+		border-radius: 4px;
+		background: rgb(0 0 0 / 35%);
+		overflow: hidden;
+
+		.offline-progress-fill {
+			position: absolute;
+			inset-block: 0;
+			inset-inline-start: 0;
+			background: linear-gradient(90deg, rgb(0 165 255 / 30%) 0%, rgb(0 128 171 / 30%) 100%);
+			transition: width .2s ease-out;
+		}
+
+		.offline-progress-label {
+			position: relative;
+			display: flex;
+			justify-content: space-between;
+			gap: 1em;
+			font-size: .9em;
+			font-variant-numeric: tabular-nums;
+		}
+
+		&[data-state="paused"] .offline-progress-fill,
+		&[data-state="cancelled"] .offline-progress-fill {
+			background: linear-gradient(90deg, rgb(255 255 255 / 12%) 0%, rgb(255 255 255 / 12%) 100%);
+		}
+	}
+
+	.offline-error {
+		margin: .8rem 0 0;
+		padding: .6rem .8rem;
+		border: 1px solid rgb(255 0 0 / 45%);
+		border-radius: 4px;
+		background: rgb(120 0 0 / 25%);
+		color: #ff9a9a;
+		font-size: .9em;
+		word-break: break-word;
+	}
+
+	@media (max-width: 760px) {
+		.offline-help {
+			padding-inline: 1.2rem;
+		}
+		.offline-actions {
+			justify-content: center;
+			padding-inline: 1.2rem;
+		}
+	}
+}
