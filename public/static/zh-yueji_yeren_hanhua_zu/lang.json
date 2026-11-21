@@ -31,7 +31,7 @@
     },
     "install": "安装",
     "share": "分享",
-    "copied": "Copied to clipboard"
+    "copied": "已复制到剪贴板"
   },
   "extra": {
     "gallery": "画廊",
@@ -167,7 +167,7 @@
   },
   "game": {
     "skip-viewed": "该场景曾显示过。",
-    "skip-hcontent": "This passage contains adult content.",
+    "skip-hcontent": "本段包含成人内容。",
     "skip-prompt": "要跳过吗？",
     "toast-qsave": "进度已保存",
     "toast-qload": "恢复进度",
@@ -190,7 +190,7 @@
     "copy-scene-url": "拷贝场景链接"
   },
   "history": {
-    "load-warning": "Rewind to this scene? Unsaved progress since this point will be lost",
+    "load-warning": "要回退到这个场景吗？此后未保存的进度将会丢失",
     "load": "读档",
     "skipped": "跳过场景 %0."
   },
@@ -216,5 +216,5 @@
   "ok": "是",
   "back": "返回",
   "close": "关闭",
-  "later": "Later"
+  "later": "稍后"
 }
