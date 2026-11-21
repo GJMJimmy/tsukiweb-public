@@ -17,6 +17,7 @@ import { importGameData, settings } from "engine/settings";
 import AppInfo from "features/title-menu/components/AppInfo";
 import CloudSyncButton from "features/save/components/CloudSyncButton";
 import TranslationSwitch from "features/title-menu/components/TranslationSwitch";
+import OfflineButton from "features/title-menu/components/OfflineButton";
 import { useStrings } from "translation/lang";
 import { SCREEN } from "app/utils/display";
 import { useScreenAutoNavigate } from "app/hooks";
@@ -121,6 +122,13 @@ const TopActions = () => {
 
 	return (
 		<div className='top-actions'>
+			<m.div
+				initial={{ opacity: 0 }}
+				animate={{ opacity: 1 }}
+				transition={{ duration: 1, delay: 0.35 }}>
+				<OfflineButton className="action-icon" nav-auto={1}/>
+			</m.div>
+
 			<m.div
 				initial={{ opacity: 0 }}
 				animate={{ opacity: 1 }}
