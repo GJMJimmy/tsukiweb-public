@@ -10,6 +10,7 @@ import { History } from 'engine/history';
 import { InGameLayersHandler } from "@tsukiweb/common/utils/InGameLayersHandler";
 import { LabelName, SceneName } from 'app/utils/types';
 import { settings } from 'engine/settings';
+import { dialog } from '@tsukiweb/common/ui-core/components/ModalPrompt';
 
 
 type Props = {
@@ -17,13 +18,13 @@ type Props = {
 	history: History
 	onRewind: VoidFunction
 	layers: InGameLayersHandler
-	continueScript?: boolean
+	singleScene?: boolean
 	show?: Partial<{
 		flowchart: boolean
 	}>
 	divProps?: React.HTMLProps<HTMLDivElement>
 }
-const HistoryLayer = ({ display, history, onRewind, layers, continueScript = true, show, divProps }: Props) => {
+const HistoryLayer = ({ display, history, onRewind, layers, singleScene = false, show, divProps }: Props) => {
 	const strings = useStrings()
 	const rootRef = useRef<HTMLDivElement>(null)
 
@@ -42,14 +43,14 @@ const HistoryLayer = ({ display, history, onRewind, layers, continueScript = tru
 	}, [handleClose, history, onRewind])
 
 	const loadScene = useCallback((label: LabelName)=> {
-		if (!continueScript) {
-			playScene(label, { continueScript: false, viewedOnly: false })
+		if (singleScene) {
+			playScene(label, { singleScene: true, viewedOnly: false })
 		} else {
 			history.onSceneLoad(label)
 		}
 		handleClose()
 		onRewind()
-	}, [continueScript, handleClose, history, onRewind])
+	}, [singleScene, handleClose, history, onRewind])
 	
 	return (
 		<div
@@ -67,7 +68,7 @@ const HistoryLayer = ({ display, history, onRewind, layers, continueScript = tru
 				<FlowchartTab key={history.lastScene.label}
 					history={history}
 					onSceneSelect={loadScene}
-					continueScript={continueScript}
+					sceneReplay={singleScene}
 				/>
 			: null
 			}
@@ -122,7 +123,7 @@ const HistoryTab = ({
 	const containerRef = useRef<HTMLDivElement>(null)
 	const pagesArray = Array.from(history.allPages)
 	const [ratioWidth, ratioHeight] = settings.fixedRatio.split('/').map(Number)
-	const gameTextWidth = ratioWidth ? `min(100%, calc(${100 * ratioWidth / ratioHeight}vh - 12cqmin))` : undefined
+	const gameTextWidth = ratioWidth ? `min(100%, calc(${100 * ratioWidth / ratioHeight}svh - 12cqmin))` : undefined
 
 	useLayoutEffect(() => {
 		if (containerRef.current) {
@@ -154,35 +155,34 @@ const HistoryTab = ({
 
 type FlowchartTabProps = {
 	history: History
-	continueScript: boolean
+	sceneReplay: boolean
 	onSceneSelect: (label: LabelName)=>void
 }
-const FlowchartTab = ({ history, continueScript, onSceneSelect }: FlowchartTabProps) => {
-	const isSceneReplay = !continueScript
+const FlowchartTab = ({ history, sceneReplay, onSceneSelect }: FlowchartTabProps) => {
+	const strings = useStrings()
 
-	useLayoutEffect(()=> {
-		const activeNode = document.querySelector(`.fc-scene.active`)
-		if (activeNode) {
-			activeNode.scrollIntoView({ behavior: "instant", block: "center" })
-		}
-	}, [history])
-
-	const handleSceneSelect = useCallback((id: SceneName)=> {
+	const handleSceneSelect = useCallback(async (id: SceneName)=> {
+		if (!sceneReplay && !await dialog.confirm({
+			text: strings.history["load-warning"],
+			labelYes: strings.yes,
+			labelNo: strings.no,
+		})) return
 		onSceneSelect(id)
-	}, [onSceneSelect])
+	}, [sceneReplay, onSceneSelect, strings])
 
 	return (
 		<div id="flowchart-progress" className="scroll-container">
-			{!isSceneReplay && settings.flowchartBadges && (
+			{!sceneReplay && settings.flowchartBadges && (
 				<div className="progress-container">
 					<ProgressPanel script={history.script!}/>
 				</div>
 			)}
 			<div className="flowchart-container">
 				<Flowchart
-					history={isSceneReplay ? undefined : history}
+					history={sceneReplay ? undefined : history}
 					onSceneClick={handleSceneSelect}
-					mode={isSceneReplay ? 'viewer' : 'playthrough'}
+					mode={sceneReplay ? 'viewer' : 'playthrough'}
+					currentScene={history.lastScene?.label}
 				/>
 			</div>
 		</div>

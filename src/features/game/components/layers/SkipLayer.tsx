@@ -7,6 +7,7 @@ import * as m from "motion/react-m"
 import { ScriptPlayer } from "engine/ScriptPlayer"
 import { settings, viewedScene } from "engine/settings"
 import { History } from "engine/history"
+import { consumeNewGame } from "engine/savestates"
 import { audio } from "engine/audio"
 import { InGameLayersHandler } from "@tsukiweb/common/utils/InGameLayersHandler"
 import AnimatedHideActivityDiv from "@tsukiweb/common/ui-core/components/AnimatedHideActivityDiv"
@@ -31,9 +32,15 @@ const SkipLayer = ({script, history, layers}: Props) => {
 	const onFinish = useRef<((skipped: boolean)=>void)>(undefined)
 
 	useEffect(()=> {
+		let firstBlock = true
 		const ref = script.addEventListener('beforeBlock',
 			async (label, initPage)=> {
-				if (initPage !== 0 || !isThScene(label) || !script.continueScript) return
+				if (firstBlock) {
+					firstBlock = false
+					if (!consumeNewGame())
+						return
+				}
+				if (initPage !== 0 || !isThScene(label) || script.singleScene || script.extra) return
 
 				if (settings.enableSceneSkip && viewedScene(label)) {
 					await new Promise<boolean>((resolve)=> {

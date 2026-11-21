@@ -12,20 +12,20 @@ type Props = {
 		type?: string
 		scene: LabelName
 	},
-	continueScript?: boolean
+	singleScene?: boolean
 	attention?: boolean
 } & React.HTMLAttributes<HTMLDivElement>
 
-const MainEnding = ({unlocked, ending, continueScript = false, attention, ...props}: Props) => {
+const MainEnding = ({unlocked, ending, singleScene = true, attention, ...props}: Props) => {
 	const {id, char, images, name, type, scene} = ending
-	const startScene = () => playScene(scene, {continueScript: continueScript, viewedOnly: !unlocked})
+	const startScene = () => playScene(scene, {singleScene, viewedOnly: !unlocked})
 
 	return (
 		<SceneShortcut
 			{...props}
 			unlocked={unlocked}
 			className={id}
-			images={images}
+			images={unlocked ? images : undefined}
 			title={unlocked ? name : "???"}
 			subtitle={unlocked && char
 				? <>{char} <span className="separator">{`\u2022`}</span> {type}</>

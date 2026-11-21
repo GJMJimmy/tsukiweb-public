@@ -2,7 +2,7 @@
 
 @mixin game-text {
 	font-family: var(--game-font), sans-serif;
-	font-size: clamp(1em, min(2.4cqw, 3.8cqh), 1.9em);
+	font-size: clamp(1.05em, min(2.4cqw, 3.8cqh), 1.9em);
 	line-height: 1.94;
 	letter-spacing: 1px;
 	--sc: #000;
@@ -53,9 +53,9 @@
 		background: unset;
 		position: absolute;
 		top: auto;
-		bottom: 0.5rem;
-		left: 0.5rem;
-		right: 0.5rem;
+		bottom: max(0.5rem, env(safe-area-inset-bottom, 0px));
+		left: max(0.5rem, env(safe-area-inset-left, 0px));
+		right: max(0.5rem, env(safe-area-inset-right, 0px));
 		width: unset;
 		font-size: .95em;
 		isolation: isolate;
@@ -98,44 +98,47 @@
 		}
 	}
 
-	.choice {
-		&:not(.selected) {
-			color: grey;
-		}
-		&.selected {
-			display: list-item;
-			list-style-type: disclosure-closed;
+	#line, #page {
+		img {
+			animation: fadeIn 1s ease-out;
 		}
 	}
-
 	#line {
-		animation: fadeIn 1s ease-out, rotate 4s ease-in-out infinite;
+		animation: rotate 4s ease-in-out infinite;
+		will-change: transform, opacity;
+		img {
+			filter: drop-shadow(0 0 2px #7edbff) brightness(1.2);
+		}
 		@keyframes rotate {
 			0% {
-				filter: opacity(0.4) drop-shadow(0 0 1px #7edbff) ;
+				opacity: 0.4;
 				transform: rotate(0deg);
 			}
 			50% {
-				filter: opacity(1) drop-shadow(0 0 2px #7edbff) brightness(1.2);
+				opacity: 1;
 			}
 			100% {
-				filter: opacity(0.4) drop-shadow(0 0 1px #7edbff);
+				opacity: 0.4;
 				transform: rotate(360deg);
 			}
 		}
 	}
 	#page {
-		animation: fadeIn 1s ease-out, rotate3d 4s ease-in-out infinite;
+		animation: rotate3d 4s ease-in-out infinite;
+		will-change: transform, opacity;
+		img {
+			filter: brightness(1.2);
+		}
 		@keyframes rotate3d {
 			0% {
-				filter: opacity(0.9) brightness(0.8);
+				opacity: 0.65;
 				transform: rotate3d(0, 1, 0, 0deg);
 			}
 			50% {
-				filter: opacity(1) brightness(1.2);
+				opacity: 1;
 			}
 			100% {
-				filter: opacity(0.9) brightness(0.8);
+				opacity: 0.65;
 				transform: rotate3d(0, 1, 0, 360deg);
 			}
 		}

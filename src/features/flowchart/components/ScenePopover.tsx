@@ -1,73 +1,15 @@
 import { GraphicsGroup } from "@tsukiweb/common/graphics"
 import { noBb, Bbcode } from "@tsukiweb/common/utils/Bbcode"
-import { SceneName } from "app/utils/types"
-import { FcNode } from "features/flowchart/utils/flowchart"
+import { CharId, SceneName } from "app/utils/types"
+import classNames from "classnames"
+import { FcNode, GameFlowchart } from "features/flowchart/utils/flowchart"
 import { tokenizeCondition } from "@tsukiweb/common/script/utils"
 import { settings } from "engine/settings"
 import { BadgeEntry, getNodeBadges } from "features/flowchart/utils/badges";
 import { getSceneGraph } from "engine/utils";
+import { FlagBadge } from "@tsukiweb/common/icons/badges";
+import { CharPointBadge, RouteBadge } from "./badges";
 
-
-const RegardBadge = ({char}: {char: string}) => {
-	return (
-		<svg className="badge" viewBox="-13 -3.4 13 7">
-			<image href={`./res/chars/${char}.webp`}
-				className="badge"
-				x={-13} y={-3.5} height={7} />
-			<use href="#regard_heart"
-				fill={`url(#${char}_grad)`}
-				transform="translate(-3.5,0.5) scale(0.75)"/>
-		</svg>
-	)
-}
-
-const FlagBadge = ({flag, negative}: {flag: string, negative?: boolean}) => {
-	return (
-		<svg className="badge" viewBox="-3.5 -3.5 7 7">
-			<use href={negative ? "#flag-neg-icon" : "#flag-icon"}/>
-			<text y="1.6" stroke="none" fill="white" textAnchor="middle">
-				{flag}
-			</text>
-		</svg>
-	)
-}
-
-const EndingBadge = ({char}: {char: string | null}) => {
-	return (
-		<svg className="badge" viewBox={`0 -3.4 ${char ? 13 : 6} 7`}>
-			<image href={`./res/chars/${char}.webp`}
-				className="badge"
-				x={0} y={-3.5} height={7} />
-			<use className="badge" href="#route_icon"
-				fill={char ? `url(#${char}_grad)` : '#FFF'}
-				transform={`translate(${char ? 10 : 3},0) scale(0.75)`}/>
-		</svg>
-	)
-}
-
-const RegardValueBadge = ({ char, value }: { char: string; value: number }) => {
-	const abs = Math.abs(value)
-	const sign = Math.sign(value)
-	return (
-		<svg className="badge" viewBox={`${-(abs * 5 + 8)} -3.5 ${abs * 5 + 8} 7`}>
-			<image
-				href={`./res/chars/${char}.webp`}
-				className="badge"
-				x={-(abs * 5 + 8)}
-				y={-3.5}
-				height={7}
-			/>
-			{[...Array(abs)].map((_, i) => (
-				<use
-					key={i}
-					href={`#regard_${sign}`}
-					fill={`url(#${char}_grad)`}
-					transform={`translate(${-(abs - i) * 5 + 1.5},0) scale(0.75)`}
-				/>
-			))}
-		</svg>
-	)
-}
 
 const TokenDisplay = ({ token }: { token: string }) => {
 	switch (token) {
@@ -89,12 +31,12 @@ const SceneCondition = ({condition}: {condition: string})=> {
 			return <TokenDisplay key={i} token={token} /> // operator or number
 		if (token.startsWith('%regard')) {
 			const char = token.split('_')[1]
-			return <RegardBadge key={i} char={char} />
+			return <CharPointBadge key={i} char={char as CharId} />
 		}
 		else if (token.startsWith('%flg')) {
 			const flag = token.charAt(4)
 			const negative = (i > 0 && (tokens[i-1] == '!'))
-			return <FlagBadge key={i} flag={flag} negative={negative} />
+			return <FlagBadge key={i} icon={flag} negative={negative} />
 		}
 		else if (token.startsWith('%clear')) {
 			let char: string | null
@@ -102,7 +44,7 @@ const SceneCondition = ({condition}: {condition: string})=> {
 				char = null;
 			else
 				char = token.split('_')[1]
-			return <EndingBadge key={i} char={char} />
+			return <RouteBadge key={i} char={char as CharId | null} />
 		}
 	})
 }
@@ -111,7 +53,7 @@ const SceneIllustration = ({node}: {node: FcNode})=> {
 	const graph = node.scene ? getSceneGraph(node.id as SceneName) : null
 	return <>
 		<div className="background">
-			{graph && <GraphicsGroup images={graph} />}
+			{graph && <GraphicsGroup key={node.id} images={graph} />}
 		</div>
 		<div className="desc">
 			<div className="title">
@@ -142,21 +84,21 @@ const SceneBadges = ({badges}: {badges: BadgeEntry})=> {
 
 		{(flag || (char && value != null) || ending) &&
 			<div className="badges">
-				{flag && <FlagBadge flag={flag} />}
-				{char && value != null && <RegardValueBadge char={char} value={value} />}
-				{ending && <EndingBadge char={ending.char} />}
+				{flag && <FlagBadge icon={flag} />}
+				{char && value != null && <CharPointBadge char={char} value={value} />}
+				{ending && <RouteBadge char={ending.char} />}
 			</div>
 		}
 	</>
 }
 
-const SceneChoices = ({select}: {select: BadgeEntry['select'] })=> {
+const SceneChoices = ({select, choice = -1}: {select: BadgeEntry['select'], choice: number })=> {
 	if (!select) return null
 
 	return (
 		<div className="choices-container">
 			{select.map(({text, condition}, i) =>
-				<div key={i} className="choice">
+				<div key={i} className={classNames("choice", {selected: i == choice})} >
 					{settings.flowchartBadges && condition &&
 						<div className="condition">
 							<SceneCondition condition={condition}/>
@@ -171,8 +113,9 @@ const SceneChoices = ({select}: {select: BadgeEntry['select'] })=> {
 
 type PopoverProps = {
 	node: FcNode
+	flowchart: GameFlowchart
 }
-const ScenePopover = ({ node }: PopoverProps) => {
+const ScenePopover = ({ node, flowchart }: PopoverProps) => {
 	const badges = getNodeBadges(node.id)
 
 	return (
@@ -180,7 +123,7 @@ const ScenePopover = ({ node }: PopoverProps) => {
 			<div className="scoop">
 				<SceneIllustration node={node} />
 			</div>
-			{badges && <SceneChoices select={badges.select} />}
+			{badges && <SceneChoices select={badges.select} choice={flowchart.getHistoryScene(node.id)?.choice ?? -1}/>}
 			{settings.flowchartBadges && badges &&
 				<SceneBadges badges={badges} />
 			}

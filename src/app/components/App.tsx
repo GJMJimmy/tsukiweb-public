@@ -8,6 +8,7 @@ import { imageSrc } from "translation/assets";
 import { useObserved, useObserver } from "@tsukiweb/common/utils/Observer";
 import { settings } from "engine/settings";
 import cg from "features/gallery/utils/gallery";
+import { BADGES_DEFINES } from "features/flowchart/components/badges";
 
 const LocaleSetter = () => {
 	useObserver(() => {
@@ -21,12 +22,14 @@ function App() {
 	useObserved(settings, 'eroBlur')
 	return (
 		<>
+			<svg viewBox="0 0 0 0" style={{position:"absolute", height:0, width:0}}>{BADGES_DEFINES}</svg>
 			<LocaleSetter />
 			
 			<CommonProvider config={{
 				imageSrc: imageSrc,
 				cg: {
-					shouldBlur: cg.shouldBlur
+					shouldBlur: cg.shouldBlur,
+					shouldFrame: cg.isInGallery,
 				}
 			}}>
 				<Router base={import.meta.env.BASE_URL}>

@@ -70,10 +70,8 @@
     "ratio-auto": "Auto",
     "ratio-4-3": "4:3",
     "ratio-16-9": "16:9",
-    "text-speed": "Text display speed",
-    "text-speed-low": "Slow",
-    "text-speed-med": "Medium",
-    "text-speed-high": "Fast",
+    "text-speed": "Character delay: %0ms",
+    "text-speed-test": "Mi svegliai di soprassalto.",
     "text-speed-instant": "Instant",
     "auto-play-delay-text": "Auto-play text delay: %0s",
     "auto-play-delay-page": "Auto-play page delay: %0s",
@@ -90,6 +88,13 @@
       "Reveals the complete Gallery, Flowchart, Endings, Eclipse, …",
       "Also fulfills the requirement to access the Far Side.",
       "It can be toggled on and off at any time."
+    ],
+    "smooth-flashes": "Reduce background flashes",
+    "smooth-flashes-low": "Low",
+    "smooth-flashes-high": "High",
+    "smooth-flashes-help": [
+      "Replace instant backgound changes with a fade-in transition.",
+      "The transition lasts 0.08s (%0) or 0.15s (%1)"
     ],
     "game-font": "Game text font",
     "game-font-help": [
@@ -184,6 +189,7 @@
     "copy-scene-url": "Share scene"
   },
   "history": {
+    "load-warning": "Rewind to this scene? Unsaved progress since this point will be lost",
     "load": "Load",
     "skipped": "Skipped scene %0."
   },

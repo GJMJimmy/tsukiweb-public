@@ -5,6 +5,7 @@
 	--toastify-font-family: var(--ui-font);
 	--toastify-color-dark: #01060e;
 	--toastify-color-progress-dark: #0087ff;
+	--flag-background: #0a2f85;
 
 	--route-ark: #e2df17;
 	--route-cel: #043492;
@@ -22,13 +23,21 @@
 }
 /* Overlay */
 .modal {
+	&:has(> .close-btn) {
+		padding-bottom: 0;
+	}
 	.close-btn {
-		margin-inline: auto;
-		margin-top: 1em;
-		font-size: inherit;
+		flex: none;
+		align-self: stretch;
+		margin: calc(1.6em / 1.1) calc(-2.4em / 1.1) 0;
+		padding: 1rem;
+		font-size: 1.1em;
+		border-top: 1px solid var(--separator);
+		border-radius: 0;
 	}
 }
 
 .Toastify__progress-bar--wrp {
 	height: 3px;
 }
+

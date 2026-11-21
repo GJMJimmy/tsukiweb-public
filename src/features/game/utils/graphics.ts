@@ -1,12 +1,14 @@
 import { objectMatch, splitFirst } from "@tsukiweb/common/utils/utils";
 import { settings } from "../../../engine/settings";
 import { assets, imageSrc, wordImage } from "translation/assets";
-import { BG_POSITIONS, Graphics, GraphicsTransition, Quake, Rocket, SpritePos, SPRITES_POSITIONS } from "@tsukiweb/common/graphics";
+import { BG_POSITIONS, Graphics, GraphicsTransition, Quake, Rocket, SPRITES_POSITIONS } from "@tsukiweb/common/graphics";
 import { ScriptPlayer } from "engine/ScriptPlayer";
 import Timer from "@tsukiweb/common/utils/timer";
 import cg from "features/gallery/utils/gallery";
 import { displayMode } from "app/utils/display";
 import { isImage } from "@tsukiweb/common/utils/images";
+import { getGameVariable } from "engine/variables";
+import { NumVarName } from "@tsukiweb/common/script/types";
 
 
 /**
@@ -56,7 +58,7 @@ async function preloadGraphic(image: string) {
 
 assets.setProvider('graph', (id: string)=> {
 	if (id.startsWith('"') && id.endsWith('"'))
-		id = id.substring(1, id.length-1)
+		id = id.substring(1, id.length - 1)
 	const match = id.match(/^(word|bg|tachi|event)\/(.*)/)
 	if (match) {
 		if (match[1] == 'word')
@@ -77,16 +79,18 @@ assets.setProvider('graph', (id: string)=> {
 
 export function processImageCmd(
 						 setTransition: (t: GraphicsTransition|undefined)=>void,
-						 setRocket: (rocket: undefined) => void,
 						 arg: string, cmd: string, script: ScriptPlayer,
 						 onFinish: VoidFunction) {
-	let pos = 'bg', image = '', effect = '', time = '', rest: string[] = []
+	let pos = 'bg', image = '', effect = '',
+		time: string|number = '', rest: string[] = []
 	switch (cmd) {
 		case 'bg' : [image, effect, time, ...rest] = arg.split(/,(?!.*`)/); break; // ignore commas inside image
 		case 'ld' : [pos, image, effect, time] = arg.split(','); break;
 		case 'cl' : [pos, effect, time] = arg.split(','); break;
 		default : throw Error(`unknown image command ${cmd} ${arg}`)
 	}
+	if (time && time.startsWith('%'))
+		time = getGameVariable(script, time as NumVarName)
 	let alignment: Graphics['bgAlign'] = undefined;
 	if (rest.length > 0 && BG_POSITIONS.some(x=>rest.includes(x))) {
 		alignment = rest.find(x=>BG_POSITIONS.includes(x as typeof BG_POSITIONS[number])) as Graphics['bgAlign']
@@ -98,7 +102,7 @@ export function processImageCmd(
 	const change = (pos == 'a' ) ? { l: "", c: "", r: "" }
 			 : (pos == 'bg') ? { bg: image, bgAlign: alignment }
 			 : { [pos]: image }
-	const to = (pos == 'bg') ? { l: "", c: "", r: "", ...change } : change
+	const to = (cmd == 'bg') ? { l: "", c: "", r: "", ...change } : change
 	let finished = false
 
 	const _onFinish = ()=> {
@@ -106,21 +110,16 @@ export function processImageCmd(
 			return
 		finished = true
 		if (!objectMatch(script.graphics, to)) {
-			if (pos == 'a')
-				script.graphics = {l: "", c: "", r: ""}
-			else if (pos == 'bg') {
+			if (pos == 'bg') {
 				if (alignment) {
 					displayMode.bgAlignment = alignment
 					displayMode.bgMoveTime = 0
 				} else if (script.graphics.bgAlign) {
 					displayMode.bgAlignment = "center"
 				}
-				script.graphics = {bg: image, l: "", c: "", r: "", bgAlign: alignment}
-			} else {
-				script.graphics[pos as SpritePos] = image
 			}
+			script.graphics = to
 			setTransition(undefined)
-			setRocket(undefined)
 		}
 		onFinish()
 	}
@@ -136,7 +135,7 @@ export function processImageCmd(
 			if (finished)
 				return
 			setTransition({
-				to: change,
+				to: to,
 				effect,
 				duration,
 				onFinish: _onFinish
@@ -183,46 +182,37 @@ export function processQuake(
 export function processRocket(
 	setRocket: (rocket: Rocket | undefined) => void,
 	arg: string,
-	cmd: string,
+	_cmd: string,
 	script: ScriptPlayer,
 	onFinish: VoidFunction
 ) {
-	const params: Record<string, string> = {}
-	const parts = arg.split(' ')
-	for (const part of parts) {
-		const [key, value] = part.split('=')
-		params[key] = value
-	}
-
+	const params = Object.fromEntries(arg.split(' ').map(part => part.split('=')))
 	const layer = params.layer as Rocket['layer']
 
 	if (!SPRITES_POSITIONS.includes(layer)) {
 		console.error(`Invalid layer for @rocket: ${layer}`)
-		onFinish()
 		return
 	}
-	const wait = (!Object.hasOwn(params, "wait") || params.wait == "true")
-
-	const onAnimationEnd = () => {
-		if (wait) {
-			setRocket(undefined)
-			onFinish()
-		}
+	const wait = params.wait != "false"
+	let finished = false
+	const finish = () => {
+		if (finished || !wait)
+			return
+		finished = true
+		onFinish()
 	}
 
-	const rocket: Rocket = {
-		layer: layer,
+	setRocket({
+		layer,
+		image: script.graphics[layer],
 		my: parseFloat(params.my || '0'),
 		magnify: parseFloat(params.magnify || '1'),
 		time: parseInt(params.time || '0'),
-		accel: parseInt(params.accel || '1'),
 		opacity: parseInt(params.opacity || '255'),
-		onAnimationEnd
-	}
-
-	setRocket(rocket)
+		onAnimationEnd: finish,
+	})
 	if (wait)
-		return { next: onAnimationEnd }
+		return { next: finish }
 }
 
 export function processMonocro(color: string, _: string, script: ScriptPlayer) {

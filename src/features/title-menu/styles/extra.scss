@@ -1,9 +1,16 @@
 @use '@tsukiweb/common/ui-core/styles/_mixins.scss' as *;
 
+@property --extra-bleed {
+	syntax: '<length>';
+	inherits: true;
+	initial-value: 0px;
+}
+
 #extra {
 	@include page-container;
+	container-type: inline-size;
 	display: grid;
-	grid-template-columns: 210px 1fr;
+	grid-template-columns: 230px 1fr;
 	grid-template-areas: "extra-menu extra-content";
 	padding: 0;
 	isolation: isolate;
@@ -29,6 +36,8 @@
 
 	.page-title {
 		margin-top: var(--page-padding);
+		font-size: 2.6rem;
+		white-space: normal;
 	}
 
 	.extra-menu {
@@ -37,28 +46,23 @@
 		padding-right: 0;
 		flex-direction: column;
 		position: relative;
+		padding-left: env(safe-area-inset-left, 0px);
 		&::before {
 			content: "";
 			position: absolute;
 			top: 0;
 			bottom: 0;
-			left: -1rem;
+			left: calc((100cqw - 100vw) / 2);
 			right: 0;
 			z-index: -1;
-			background-image: linear-gradient(180deg, hsl(225 100% 2% / 30%), transparent);
-		}
-
-		@media (pointer: coarse) {
-			&::-webkit-scrollbar {
-				display: none;
-			}
+			background-image: linear-gradient(90deg, hsl(222 100% 4% / 55%), transparent);
+			border-right: 1px solid var(--separator);
 		}
 
 		.menus {
 			flex: 1;
 			margin-top: 1.8em;
-			margin-bottom: 1em;
-			padding-left: calc(var(--page-padding) + env(safe-area-inset-left, 0));
+			padding-left: var(--page-padding);
 			padding-right: .5rem;
 			display: flex;
 			flex-direction: column;
@@ -70,6 +74,39 @@
 				width: fit-content;
 				margin-block: .6em;
 				text-align: left;
+				padding-left: 1.05em;
+
+				&:hover, &:focus-visible, .keyboard-navigating &:focus {
+					transform: none;
+				}
+				&::before {
+					content: "";
+					position: absolute;
+					left: 0;
+					top: 50%;
+					right: auto;
+					bottom: auto;
+					width: .45em;
+					height: .45em;
+					margin: 0;
+					rotate: 45deg;
+					translate: 0 -50%;
+					border: 1px solid var(--theme-cyan);
+					background: transparent;
+					opacity: .5;
+					letter-spacing: 0;
+					transition: .2s;
+					-webkit-text-fill-color: initial;
+				}
+				&:hover::before, &:focus-visible::before {
+					opacity: 1;
+					box-shadow: var(--theme-glow);
+				}
+				&.active::before, &[aria-selected="true"]::before {
+					opacity: 1;
+					background: var(--theme-cyan);
+					box-shadow: var(--theme-glow);
+				}
 			}
 		}
 		.back-action {
@@ -79,7 +116,9 @@
 	}
 
 	.extra-content {
+		--extra-bleed: max(0px, (100vw - 100cqw) / 2);
 		grid-area: extra-content;
+		margin-right: calc(-1 * var(--extra-bleed));
 		min-width: 0;
 		min-height: 0;
 		display: grid;
@@ -93,28 +132,62 @@
 			"extra-menu";
 
 		.extra-menu {
-			align-items: flex-start;
-			padding: 0;
-			padding-bottom: var(--safe-area-max-inset-bottom);
+			display: grid;
+			grid-template-columns: auto 1fr;
+			column-gap: .5rem;
+			align-items: center;
+			padding: .3rem var(--page-padding) calc(.3rem + var(--safe-area-max-inset-bottom));
 			background-image: linear-gradient(180deg, #001325, rgb(0 67 138));
 			border-top: 1px solid var(--separator);
 			min-width: 0;
 
-			.page-title {
+			&::before {
 				display: none;
 			}
+			.page-title, .menus {
+				display: none;
+			}
+			.back-action {
+				grid-area: 1 / 1;
+				padding: 0;
+				white-space: nowrap;
+
+				.menu-item {
+					font-size: 1rem;
+				}
+			}
+			.extra-switcher {
+				display: flex;
+			}
+		}
+	}
+
+	.extra-switcher {
+		display: none;
+		grid-area: 1 / 2;
+	}
+
+	@include mobile-landscape {
+		grid-template-columns: minmax(160px, min-content) 1fr;
+		.extra-menu {
+			font-size: .8em;
+			min-height: 0;
+
+			.page-title {
+				contain: inline-size;
+				width: auto;
+				font-size: 2rem;
+				overflow-wrap: anywhere;
+				text-wrap: balance;
+			}
+
 			.menus {
-				overflow-x: auto;
-				overflow-y: hidden;
-				width: 100%;
-				min-width: 0;
-				margin: 0;
-				padding-inline: var(--page-padding);
-				font-size: 0.8em;
-				gap: 1.8em;
-				mask-image: linear-gradient(to right, black 95%, transparent 100%);
-				flex-direction: row;
-				touch-action: pan-x;
+				min-height: 0;
+				margin-top: 0;
+				overflow-x: hidden;
+				overflow-y: auto;
+				-webkit-mask-image: linear-gradient(180deg, transparent, black .6rem, black calc(100% - .6rem), transparent);
+				mask-image: linear-gradient(180deg, transparent, black .6rem, black calc(100% - .6rem), transparent);
 
 				@media (pointer: coarse) {
 					scrollbar-width: none;
@@ -122,29 +195,6 @@
 						display: none;
 					}
 				}
-	
-				.menu-item {
-					white-space: nowrap;
-				}
-			}
-			.back-action {
-				margin-left: 0;
-				padding-top: 0;
-			}
-		}
-	}
-
-	@include mobile-landscape {
-		grid-template-columns: minmax(160px, min-content) 1fr;
-		.extra-menu {
-			font-size: .8em;
-			overflow-y: auto;
-
-			&::before {
-				left: calc(-1rem - env(safe-area-inset-left, 0));
-			}
-			.menus {
-				margin-top: 0;
 			}
 		}
 	}

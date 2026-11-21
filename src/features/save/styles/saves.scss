@@ -43,7 +43,8 @@
 				line-height: 1.4;
 
 				.date {
-					color: var(--text-muted);
+					color: var(--theme-cyan-soft);
+					font-variant-numeric: tabular-nums;
 					white-space: nowrap;
 					letter-spacing: .5px;
 				}
@@ -61,30 +62,6 @@
 				margin-block: 4px;
 				.graphics {
 					font-size: 0.3em;
-				}
-				.choices-preview {
-					position: absolute;
-					inset: 0;
-					display: grid;
-					gap: 2px;
-					align-self: center;
-					justify-self: center;
-					padding-block: 6px;
-					overflow: hidden;
-					max-height: 100%;
-					font-size: 0.5em;
-					letter-spacing: 0.5px;
-					width: 90%;
-					font-weight: 500;
-					color: #ffffffe8;
-
-					.choice {
-						background-color: rgb(1 14 36 / 70%);
-						border: 1px solid var(--surface-light);
-						white-space: nowrap;
-						overflow: hidden;
-						padding: 4px 6px;
-					}
 				}
 			}
 
@@ -143,7 +120,7 @@
 		display: flex;
 		flex-direction: column;
 		font-size: 1.1em;
-		border-block: 2px solid var(--separator);
+		background: linear-gradient(180deg, hsl(222 90% 8% / 60%), hsl(222 90% 6% / 20%));
 		border-left: 2px solid var(--separator);
 		position: relative;
 		isolation: isolate;
@@ -186,19 +163,25 @@
 			display: grid;
 
 			.row {
-				height: 52px;
+				height: 56px;
 				display: flex;
 				padding-inline: .5em;
-				padding-top: .4em;
-				border-bottom: 1px solid var(--separator);
+				padding-top: .3em;
 			}
-			.hearts-list {
-				padding-block: .4em .2em;
+			.row {
+				padding-bottom: .15em;
+				.count {
+					font-size: 1.4em;
+				}
 			}
 			.flags-list {
 				grid-column: 1 / -1;
 				margin-top: .5em;
 				padding: 0 .5em;
+			}
+
+			@include mobile-portrait {
+				grid-template-columns: repeat(auto-fill, minmax(5.5em, max-content));
 			}
 		}
 

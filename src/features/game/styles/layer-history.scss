@@ -7,8 +7,6 @@
 	touch-action: manipulation;
 	transition: opacity var(--transition-time) ease-out;
 	background: var(--transparent-layer);
-	-webkit-backdrop-filter: blur(.5px);
-	backdrop-filter: blur(.5px);
 	display: grid;
 	grid-template-rows: 1fr min-content;
 
@@ -81,13 +79,23 @@
 				}
 			}
 		}
+
+		.choice {
+			&:not(.selected) {
+				color: grey;
+			}
+			&.selected {
+				display: list-item;
+				list-style-type: disclosure-closed;
+			}
+		}
+		.skip {
+			color: grey;
+		}
 	}
 
 	#flowchart-progress {
-		overflow: auto;
-		overscroll-behavior: contain;
-		touch-action: pan-x pan-y;
-		will-change: scroll-position;
+		overflow: clip;
 		display: flex;
 		.progress-container {
 			position: absolute;
@@ -107,7 +115,7 @@
 				overflow-x: auto;
 				height: 44px;
 
-				.hearts-list, .ending-list, .flags-list {
+				.row, .ending-list, .flags-list {
 					padding-block: .3em .2em;
 					flex: none;
 				}
@@ -118,7 +126,13 @@
 			max-width: var(--page-width);
 			margin-inline: auto;
 			padding-inline: 1em;
-			overflow: unset;
+			overflow: visible;
+
+			// span the whole screen, not only the page width
+			& > .fc-viewport {
+				width: 100vw;
+				margin-inline: calc(50% - 50vw);
+			}
 		}
 	}
 

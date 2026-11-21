@@ -1,6 +1,10 @@
 @use '@tsukiweb/common/styles/partials/_components.scss';
 @use '@tsukiweb/common/ui-core/styles/_mixins.scss' as *;
 
+#gallery {
+	padding-right: var(--extra-bleed);
+}
+
 #gallery, #endings, #plus-disc {
 	height: 100%;
 	overflow-y: auto;
@@ -17,7 +21,7 @@
 	}
 
 	.gallery-container {
-		--preferred-width: 178px;
+		--preferred-width: 180px;
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(min(var(--preferred-width), 100%), 1fr));
 		gap: 8px;
@@ -72,13 +76,17 @@
 			background-image: linear-gradient(270deg, var(--surface-dark) 70%, transparent);
 		}
 
-		.blur {
-			filter: blur(22px);
-			transition: .2s ease-out;
-			transition-delay: 0s;
-
-			&:hover, &:focus-visible, .keyboard-navigating &:focus {
-				filter: blur(0);
+		button:has(> .thumb.blur) {
+			&::before {
+				content: "";
+				position: absolute;
+				inset: 0;
+				backdrop-filter: blur(22px);
+				pointer-events: none;
+				transition: opacity .2s ease-out;
+			}
+			&:hover::before, &:focus-visible::before, .keyboard-navigating &:focus::before {
+				opacity: 0;
 				transition-delay: .6s;
 			}
 		}
