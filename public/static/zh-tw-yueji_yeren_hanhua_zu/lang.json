@@ -40,10 +40,10 @@
     "eclipse": "月蝕"
   },
   "config": {
-    "on": "On",
-    "off": "Off",
+    "on": "開啟",
+    "off": "關閉",
     "reset": "恢復初始設定",
-    "default": "Default",
+    "default": "預設",
     "tab-game": "遊戲",
     "tab-audio": "聲音",
     "tab-controls": "操作設定",
@@ -88,19 +88,19 @@
       "并满足开启月姬里线的要求，",
       "它可以隨時打開和關閉。"
     ],
-    "smooth-flashes": "Reduce background flashes",
-    "smooth-flashes-low": "Low",
-    "smooth-flashes-high": "High",
+    "smooth-flashes": "減少背景閃爍",
+    "smooth-flashes-low": "低",
+    "smooth-flashes-high": "高",
     "smooth-flashes-help": [
-      "Replace instant backgound changes with a fade-in transition.",
-      "The transition lasts 0.08s (%0) or 0.15s (%1)"
+      "以淡入過渡取代瞬間的背景切換。",
+      "過渡持續 0.08 秒（%0）或 0.15 秒（%1）"
     ],
-    "game-font": "Game text font",
+    "game-font": "遊戲字型",
     "game-font-help": [
-      "The default font is served with the project.",
-      "To select a different font, input its name. It will be loaded from %0 if available, else from your device."
+      "預設字型隨專案一起提供。",
+      "要改用其他字型，請輸入字型名稱：若 %0 可用則自該處載入，否則從你的裝置載入。"
     ],
-    "display-badges": "Display affection points and flags",
+    "display-badges": "顯示好感度點數與旗標",
     "data": "存檔",
     "data-export": "匯出",
     "data-import": "匯入",
@@ -125,22 +125,22 @@
     "offline-clear-confirm": "要刪除所有為離線遊玩快取的檔案嗎？連上網路後可以重新下載。",
     "controls": {
       "next": "文字推進",
-      "graphics": "Show / hide text",
-      "back": "Back, Show / Hide menu",
+      "graphics": "顯示 / 隱藏文字",
+      "back": "返回，顯示 / 隱藏選單",
       "bg_move": "移動背景影像",
       "auto_play": "自動模式",
       "page_nav": "下一頁/上一頁",
       "history": "顯示/隱藏履歷",
-      "flowchart": "Open Flowchart",
+      "flowchart": "開啟流程圖",
       "load": "開啟載入頁面",
       "save": "開啟保存頁面",
       "q_save": "快速保存",
       "q_load": "快速載入",
       "config": "開啟設定頁面",
       "_hold": "按住",
-      "_layer-text": "when text is displayed",
-      "_layer-graphics": "in graphics mode",
-      "_layer-menu": "when menu is opened"
+      "_layer-text": "文字顯示時",
+      "_layer-graphics": "圖形模式時",
+      "_layer-menu": "選單開啟時"
     }
   },
   "endings": {

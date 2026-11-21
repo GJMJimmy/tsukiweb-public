@@ -43,7 +43,7 @@
     "on": "开启",
     "off": "关闭",
     "reset": "恢复初始设置",
-    "default": "Default",
+    "default": "默认",
     "tab-game": "游戏",
     "tab-audio": "声音设置",
     "tab-controls": "操作设置",
@@ -88,19 +88,19 @@
       "并满足开启月姬里线的要求，",
       "它可以随时被打开和关闭。"
     ],
-    "smooth-flashes": "Reduce background flashes",
-    "smooth-flashes-low": "Low",
-    "smooth-flashes-high": "High",
+    "smooth-flashes": "减少背景闪烁",
+    "smooth-flashes-low": "低",
+    "smooth-flashes-high": "高",
     "smooth-flashes-help": [
-      "Replace instant backgound changes with a fade-in transition.",
-      "The transition lasts 0.08s (%0) or 0.15s (%1)"
+      "用淡入过渡代替瞬间的背景切换。",
+      "过渡持续 0.08 秒（%0）或 0.15 秒（%1）"
     ],
-    "game-font": "Game text font",
+    "game-font": "游戏字体",
     "game-font-help": [
-      "The default font is served with the project.",
-      "To select a different font, input its name. It will be loaded from %0 if available, else from your device."
+      "默认字体随项目一起提供。",
+      "要使用其他字体，请输入字体名称：若 %0 可用则从该处加载，否则从你的设备加载。"
     ],
-    "display-badges": "Display affection points and flags",
+    "display-badges": "显示好感度点数与旗标",
     "data": "存档",
     "data-export": "导出",
     "data-import": "导入",
@@ -125,8 +125,8 @@
     "offline-clear-confirm": "要删除所有为离线游玩而缓存的文件吗？联网后可以重新下载。",
     "controls": {
       "next": "文字推进",
-      "graphics": "Show / hide text",
-      "back": "Back, Show / Hide menu",
+      "graphics": "显示 / 隐藏文本",
+      "back": "返回，显示 / 隐藏菜单",
       "bg_move": "移动背景图像",
       "auto_play": "自动模式",
       "page_nav": "下一页/上一页",
@@ -138,9 +138,9 @@
       "q_load": "快速读档",
       "config": "打开环境设置页面",
       "_hold": "按住",
-      "_layer-text": "when text is displayed",
-      "_layer-graphics": "in graphics mode",
-      "_layer-menu": "when menu is opened"
+      "_layer-text": "文本显示时",
+      "_layer-graphics": "图形模式时",
+      "_layer-menu": "菜单打开时"
     }
   },
   "endings": {
