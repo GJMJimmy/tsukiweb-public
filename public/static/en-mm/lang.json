@@ -76,8 +76,10 @@
     "auto-play-delay-page": "Auto-play page delay: %0s",
     "adult-title": "Adult content",
     "adult-blur": "Blur images",
+    "adult-blur-all": "Mom's here",
     "adult-blur-help": [
-      "Apply a blur effect on the images of the adult scenes."
+      "Blur the images of the adult scenes.",
+      "'On' only blurs the thumbnails (saves, load screen, flowchart, gallery…) and leaves the game itself untouched; 'Mom is here' also blurs the graphics drawn in the game."
     ],
     "adult-warn": "Prompt to skip H content",
     "fullscreen": "Fullscreen",

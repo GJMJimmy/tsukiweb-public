@@ -19,7 +19,7 @@ const LocaleSetter = () => {
 }
 
 function App() {
-	useObserved(settings, 'eroBlur')
+	useObserved(settings, 'eroBlurMode')
 	return (
 		<>
 			<svg viewBox="0 0 0 0" style={{position:"absolute", height:0, width:0}}>{BADGES_DEFINES}</svg>
@@ -28,7 +28,7 @@ function App() {
 			<CommonProvider config={{
 				imageSrc: imageSrc,
 				cg: {
-					shouldBlur: cg.shouldBlur,
+					shouldBlur: cg.shouldBlurGraphics,
 					shouldFrame: cg.isInGallery,
 				}
 			}}>

@@ -6,6 +6,8 @@ import { toast } from "react-toastify"
 import { strings, TrackSourceId } from "translation/lang"
 import { APP_VERSION, FULLSAVE_EXT } from "app/utils/constants"
 
+export type EroBlurMode = 'off' | 'thumbnails' | 'all'
+
 const restoreSymbol = Symbol("restore")
 
 class Settings extends SettingsBase {
@@ -16,6 +18,14 @@ class Settings extends SettingsBase {
   titleMusic: string = '"*8"'
   
   eventImages: Array<string> = new Array()
+
+  /**
+   * 'off': nothing is hidden.
+   * 'thumbnails': gallery, flowchart, save and plus-disc thumbnails are blurred.
+   * 'all': the graphics drawn in the game are blurred too ("mom is here").
+   * The inherited boolean eroBlur is kept for old saves but is no longer read.
+   */
+  eroBlurMode: EroBlurMode = 'thumbnails'
 
   override getDiff() {
     const diff = super.getDiff()
@@ -70,6 +80,11 @@ class Settings extends SettingsBase {
     }
     if ('warnHScenes' in diff) {
       this.eroSkip = diff.warnHScenes ? 'ask' : 'no';
+    }
+    // eroBlur was the only switch before the three-state mode existed, and it
+    // only ever hid thumbnails: carry that choice over instead of resetting it.
+    if ((diff as Partial<Settings>).eroBlurMode === undefined && 'eroBlur' in diff) {
+      this.eroBlurMode = (diff as Partial<Settings>).eroBlur ? 'thumbnails' : 'off'
     }
 
     super.restore(diff)

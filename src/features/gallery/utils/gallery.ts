@@ -10,8 +10,17 @@ function isInGallery(image: string): boolean {
 	return Object.hasOwn(GALLERY_IMAGES, image)
 }
 
+/** Thumbnails (gallery, flowchart, saves, plus-disc) are hidden unless blur is off. */
 function shouldBlur(image: string): boolean {
-	return (GALLERY_IMAGES[image]?.h ?? false) && settings.eroBlur
+	return (GALLERY_IMAGES[image]?.h ?? false) && settings.eroBlurMode !== 'off'
+}
+
+/**
+ * Graphics drawn inside the game are only hidden in the "all" mode: the default
+ * hides the thumbnails without touching the scene the player is reading.
+ */
+function shouldBlurGraphics(image: string): boolean {
+	return (GALLERY_IMAGES[image]?.h ?? false) && settings.eroBlurMode === 'all'
 }
 
 function getByGroup(group: GalleryImg["group"]): string[] {
@@ -34,6 +43,7 @@ const cg = {
 	getByGroup,
 	getAlts,
 	shouldBlur,
+	shouldBlurGraphics,
 	isUnlocked,
 	isInGallery,
 }

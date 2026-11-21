@@ -6,7 +6,7 @@ import { dialog } from "@tsukiweb/common/ui-core/components/ModalPrompt"
 import { polyfillCountryFlagEmojis } from "@tsukiweb/common/utils/flagsPolyfill"
 import { imageSrc } from "translation/assets"
 import { useConfig } from "@tsukiweb/common/hooks/useConfig";
-import { exportGameData, importGameData, settings } from "engine/settings";
+import { exportGameData, importGameData, settings, type EroBlurMode } from "engine/settings";
 import { getLocale, useStrings } from "translation/lang";
 import { savesManager } from "engine/savestates";
 import { ConfigButtons, ConfigItem, ConfigRange, ResetButton } from "../ConfigControls";
@@ -24,7 +24,7 @@ const ConfigAdvancedTab = () => {
 	const [modal, setModal] = useState<{show: boolean, content: ReactNode}>({show: false, content: undefined})
 
 	const { conf, update, reset } = useConfig(settings,
-		['eroBlur', 'eroSkip', 'smoothFlashes', 'gameFont', 'flowchartBadges', 'unlockEverything'])
+		['eroBlurMode', 'eroSkip', 'smoothFlashes', 'gameFont', 'flowchartBadges', 'unlockEverything'])
 		
 
 	if (!flagSupportChecked) {
@@ -60,9 +60,8 @@ const ConfigAdvancedTab = () => {
 	}
 
 	const handleSetWarning = (value: boolean) => {
-		if (value) {
-			update('eroBlur', true)
-		}
+		if (value && settings.eroBlurMode === 'off')
+			update('eroBlurMode', 'thumbnails')
 		update('eroSkip', value ? 'ask' : 'no')
 	}
 
@@ -113,11 +112,12 @@ const ConfigAdvancedTab = () => {
 					})}
 				>
 					<ConfigButtons
-						currentValue={conf.eroBlur}
-						onChange={v => update('eroBlur', v)}
+						currentValue={conf.eroBlurMode}
+						onChange={(v: EroBlurMode) => update('eroBlurMode', v)}
 						btns={[
-							{ label: strings.config.on, value: true },
-							{ label: strings.config.off, value: false },
+							{ label: strings.config["adult-blur-all"], value: 'all' },
+							{ label: strings.config.on, value: 'thumbnails' },
+							{ label: strings.config.off, value: 'off' },
 						]}
 					/>
 				</ConfigItem>
