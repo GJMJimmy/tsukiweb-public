@@ -22,6 +22,17 @@ const MEDIA_DIR_RE = new RegExp('^/static/[^/]+/(?:' + MEDIA_DIRS.join('|') + ')
 
 const SHELL_KEY = '/index.html'
 
+/**
+ * A translation document is requested as "?v=<app version>-<language last update>",
+ * while the download records the bare app version, so either side may carry a
+ * trailing "-<suffix>". Anything else must still miss, or a deploy would serve
+ * stale files.
+ */
+function matchesVersion(stored, requested) {
+	if (!stored || !requested || stored === requested) return stored === requested
+	return requested.startsWith(stored + '-') || stored.startsWith(requested + '-')
+}
+
 const OFFLINE_HTML = [
 	'<!DOCTYPE html>',
 	'<html lang="en"><head><meta charset="utf-8">',
@@ -188,7 +199,7 @@ async function storeNavigation(url, response) {
 async function handleAsset(event, url) {
 	const version = url.searchParams.get('v')
 	const entry = await idbGet(url.pathname)
-	if (entry && entry.blob && (!version || entry.version === version))
+	if (entry && entry.blob && (!version || matchesVersion(entry.version, version)))
 		return entryResponse(entry)
 
 	const response = await fetch(event.request)
@@ -252,7 +263,7 @@ function parseRange(header, total) {
 async function handleRangeAsset(event, url) {
 	const version = url.searchParams.get('v')
 	const entry = await idbGet(url.pathname)
-	if (!entry || !entry.blob || (version && entry.version !== version))
+	if (!entry || !entry.blob || (version && !matchesVersion(entry.version, version)))
 		return fetch(event.request)
 
 	const total = entry.blob.size

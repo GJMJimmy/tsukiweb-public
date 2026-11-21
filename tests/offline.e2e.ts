@@ -256,7 +256,15 @@ test('Download all survives a full offline reload', async ({ page, context }, te
 				'the store should hold at least one "/static/**.json", "/static/logic.txt" or ' +
 					'"/static/**/scenes/*.txt" document; keys: ' + keys.join(', ')
 			).toBeGreaterThan(0)
-			const offenders = documents.filter((asset) => asset.version !== expectedVersion).map(describe)
+			// public/sw.js matches a stored version against a requested one after
+			// folding a trailing "-<suffix>": translation documents are requested as
+			// "?v=<app version>-<language last update>" while the download records the
+			// bare app version, and the reverse can happen after a passive cache hit.
+			const sameVersion = (stored: string | null, requested: string) => stored === requested
+				|| (stored !== null && (requested.startsWith(stored + '-') || stored.startsWith(requested + '-')))
+			const offenders = documents
+				.filter((asset) => !sameVersion(asset.version, expectedVersion))
+				.map(describe)
 			expect(
 				offenders,
 				'every cached document must carry the version the app requests (v=' + expectedVersion + '); '
