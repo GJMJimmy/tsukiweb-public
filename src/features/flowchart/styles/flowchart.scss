@@ -37,8 +37,11 @@
 	--inactive-connection: #888;
 
 	.fc-scene {
-		stroke: #444; // fallback: color-mix() needs Chrome 111
-		stroke: color-mix(in srgb, var(--inactive-connection) 50%, #000);
+		stroke: #444;
+		// Inside @supports so the minifier cannot drop the plain fallback above
+		@supports (color: color-mix(in srgb, red, blue)) {
+			stroke: color-mix(in srgb, var(--inactive-connection) 50%, #000);
+		}
 		stroke-width: .6;
 
 		&.unlocked:not(.disabled) {
