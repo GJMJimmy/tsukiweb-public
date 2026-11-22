@@ -24,6 +24,41 @@ type Condition = NonNullable<NonNullable<ReturnType<typeof getNodeBadges>>['cond
 type BBox = [left: number, top: number, right: number, bottom: number]
 
 const REGARD_REGEX = /^%regard_(\w+)/
+const FALLBACK_FILL = "rgb(128, 128, 128)"
+
+/**
+ * Canvas rejects a stop value it cannot parse (an unresolved CSS variable comes back from
+ * the style probe as "none"), which aborts the whole draw. Chrome < 111 also cannot
+ * parse color-mix(), so the mixing is done here instead.
+ */
+function addStop(gradient: CanvasGradient, offset: number, color: string) {
+	try {
+		gradient.addColorStop(offset, color)
+	} catch {
+		gradient.addColorStop(offset, FALLBACK_FILL)
+	}
+}
+
+function parseColor(css: string): [number, number, number] | null {
+	const value = css.trim()
+	const hex = /^#([0-9a-f]{3}|[0-9a-f]{6})$/i.exec(value)
+	if (hex) {
+		const digits = hex[1].length === 3 ? hex[1].split("").map(c => c + c).join("") : hex[1]
+		return [parseInt(digits.slice(0, 2), 16), parseInt(digits.slice(2, 4), 16), parseInt(digits.slice(4, 6), 16)]
+	}
+	const rgb = /^rgba?\(\s*([\d.]+)[\s,]+([\d.]+)[\s,]+([\d.]+)/i.exec(value)
+	if (rgb) return [Number(rgb[1]), Number(rgb[2]), Number(rgb[3])]
+	return null
+}
+
+/** `color-mix(in srgb, base <1-amount>, target <amount>)` */
+function mixColor(base: string, target: string, amount: number): string {
+	const from = parseColor(base)
+	const to = parseColor(target)
+	if (!from || !to) return FALLBACK_FILL
+	const [r, g, b] = from.map((channel, i) => Math.round(channel + (to[i] - channel) * amount))
+	return `rgb(${r}, ${g}, ${b})`
+}
 const BADGE_RIGHT_INSET = 3
 const FLAG_RIGHT_INSET = 3.5
 const FLAG_SPACING = DY * 2.6
@@ -126,9 +161,11 @@ function fillStyle(ctx: CanvasRenderingContext2D, fill: BadgeFill, style: StyleR
 		case 'flag': return style.color(FLAG_BACKGROUND)
 	}
 	const [left, top, right, bottom] = bbox
+	const base = style.color(`var(--route-${fill})`)
 	const gradient = ctx.createLinearGradient(left, bottom, right, top)
-	gradient.addColorStop(0, style.color(`color-mix(in oklch, var(--route-${fill}) 80%, white)`))
-	gradient.addColorStop(1, style.color(`color-mix(in oklch, var(--route-${fill}) 80%, black)`))
+	// 80% route color: lightened towards the top, darkened towards the bottom
+	addStop(gradient, 0, mixColor(base, "#ffffff", 0.2))
+	addStop(gradient, 1, mixColor(base, "#000000", 0.2))
 	return gradient
 }
 
