@@ -9,6 +9,10 @@ import { FULLSAVE_EXT } from './utils/constants';
 import { StringsProvider } from 'translation/lang'
 import { ErrorBoundary } from 'react-error-boundary';
 import PageCrash from './screens/CrashScreen';
+import { installErrorOverlay } from './utils/errorOverlay';
+
+// Show uncaught errors and rejected promises on screen (see utils/errorOverlay)
+installErrorOverlay()
 
 mountDialogManager()
 
