@@ -10,9 +10,11 @@ import { StringsProvider } from 'translation/lang'
 import { ErrorBoundary } from 'react-error-boundary';
 import PageCrash from './screens/CrashScreen';
 import { installErrorOverlay } from './utils/errorOverlay';
+import { installDiagnostics } from './utils/diagnostics';
 
 // Show uncaught errors and rejected promises on screen (see utils/errorOverlay)
 installErrorOverlay()
+installDiagnostics() // ?diag=1 renders an on-screen environment report
 
 mountDialogManager()
 
